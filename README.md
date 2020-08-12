@@ -1,5 +1,4 @@
 #### Hello, I'm [Gurjar!](https://GurjarKing.github.io) 👋
-I like to do fun stuff and CODE~!
 
 ### Connect with me:
 
@@ -24,8 +23,8 @@ I like to do fun stuff and CODE~!
 
 ---
 
-<img align="left" alt="Gurjar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GurjarKing&show_icons=true&hide_border=true&count_private=true&theme=algolia&include_all_commits=true" />
-<img align="left" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurjarKing&theme=algolia&layout=compact" />
+<img align="left" alt="Gurjar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GurjarKing&show_icons=true&hide_border=true&count_private=true&include_all_commit=true&theme=algolia" />
+<img align="left" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurjarKing&layout=compact&theme=algolia" />
 
 [VSCode]: https://code.visualstudio.com/
 [Python]: https://www.python.org/
