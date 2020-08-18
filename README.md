@@ -6,13 +6,13 @@
 [<img align="left" alt="Gurjar | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram]
 [<img align="left" alt="Gurjar | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][Twitter]
 
-<a href="https://github.com/GurjarKing"><img src="https://komarev.com/ghpvc/?username=GurjarKing" alt="Gurjar" /></a>
+<br > <a href="https://github.com/GurjarKing"><img src="https://komarev.com/ghpvc/?username=GurjarKing" alt="Gurjar" /></a> <br />
 
-<br />
+<!-- <br >
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GurjarKing)
 
-<br />
+<br /> -->
 
 ### Things that I use:
 
@@ -32,10 +32,10 @@
 
 </details>
 
-### 🔔 My latest tweet
+<!-- ### 🔔 My latest tweet
 <a href="https://twitter.com/Gurjar_King43" target="_blank">
 	<img src="https://github.com/GurjarKing/GurjarKing/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</a>
+</a> -->
 
 [VSCode]: https://code.visualstudio.com/
 [Python]: https://www.python.org/
