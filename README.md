@@ -36,6 +36,53 @@
 <a href="https://twitter.com/Gurjar_King43" target="_blank">
 	<img src="https://github.com/GurjarKing/GurjarKing/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 </a> -->
+<br>
+
+<pre>
+
+</pre>
+
+**Quote of the hour:**
+
+{qoth}
+
+~ {qoth_author}
+<pre>
+
+</pre>
+<br>
+<pre>
+
+
+</pre>
+**Daily News**
+  - {val1}
+     <hr/>
+     
+      - *{des1}*
+     
+  - {val2}
+      <hr/>
+      
+      - *{des2}*
+      
+  - {val3}
+      <hr/>
+      
+      - *{des3}*
+      
+  - {val4}
+      <hr/>
+      
+      - *{des4}*
+       
+  - {val5}
+      <hr/>
+       
+       - *{des5}*
+      
+
+<br />
 
 [VSCode]: https://code.visualstudio.com/
 [Python]: https://www.python.org/
