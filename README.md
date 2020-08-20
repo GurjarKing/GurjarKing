@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
 
-~ Ivan Sutherland
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -56,30 +56,30 @@ A display connected to a digital computer gives us a chance to gain familiarity 
 
 </pre>
 **Daily News**
-  - There’s no frontrunner to be found among the TikTok alternatives
+  - Palantir moves its HQ from Palo Alto to Denver as plans to go public percolate
      <hr/>
      
-      - *The U.S. market has no real frontrunner poised to claim TikTok’s throne if the app is banned in the country. According to Trump’s executive order, TikTok’s owner ByteDance has to divest of TikTok’s U.S. operations or the app will be banned from the U.S. marke…*
+      - *Between the IPO buzz and a raft of new federal contracts for COVID-19 work, it’s been a year of big moves for Palantir. Now, the company is making a more literal one: decamping from its Palo Alto headquarters to Denver, Colorado. The decision to relocate its …*
      
+  - Judge grants Uber and Lyft temporary stay in driver reclassification case
+      <hr/>
+      
+      - *A California appeals court judge has granted Uber and Lyft’s emergency stay. This means the preliminary injunction that sought to force companies to reclassify their drivers as employees will not go into effect this Friday. Instead, this emergency stay extend…*
+      
+  - There’s no frontrunner to be found among the TikTok alternatives
+      <hr/>
+      
+      - *The U.S. market has no real frontrunner poised to claim TikTok’s throne if the app is banned in the country. According to Trump’s executive order, TikTok’s owner ByteDance has to divest of TikTok’s U.S. operations or the app will be banned from the U.S. marke…*
+      
   - Eric Hippeau discusses D2C growth, brand value and advice for early-stage founders
       <hr/>
       
       - *Eric Hippeau is the founding partner at Lerer Hippeau Ventures, whose portfolio companies include the likes of Axios, BuzzFeed, Casper, Warby Parker, Allbirds, DocSend, Fundera, Everlane, Giphy, Genius and the recently acquired fitness company Mirror. It woul…*
-      
+       
   - Microsoft's Seeing AI founder Saqib Shaikh is speaking at Sight Tech Global
       <hr/>
-      
-      - *When Microsoft CEO Satya Nadella introduced Saqib Shaikh on stage at BUILD in 2016, he was obviously moved by the engineer’s “passion and empathy,” which Nadella said, “is going to change the world.” That assessment was on the mark because Shaikh went on to c…*
-      
-  - Zoom UX teardown: 5 fails and how to fix them
-      <hr/>
-      
-      - *Valued at over $60 billion and used by millions each day for work and staying in touch with friends and family, the COVID-19 pandemic has helped make Zoom one of the most popular and relevant enterprise applications. On one level, its surge to the top can be …*
        
-  - Tech Is Not Neutral campaign urges companies to stop working with law enforcement agencies
-      <hr/>
-       
-       - *There are a number of tech companies that either directly work with law enforcement agencies, or supply their tech to them. Amazon’s doorbell camera company Ring has partnered with more than 1,300 police departments and Amazon Web Services sells its product t…*
+       - *When Microsoft CEO Satya Nadella introduced Saqib Shaikh on stage at BUILD in 2016, he was obviously moved by the engineer’s “passion and empathy,” which Nadella said, “is going to change the world.” That assessment was on the mark because Shaikh went on to c…*
       
 
 <br />
