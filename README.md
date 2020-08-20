@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 
-~ Tim Berners-Lee
+~ George Carrette
 <pre>
 
 </pre>
@@ -56,11 +56,16 @@ I invented the Web just because I needed it, really, because it was so frustrati
 
 </pre>
 **Daily News**
-  - Tech Is Not Neutral campaign urges companies to stop working with law enforcement agencies
+  - Zoom UX teardown: 5 fails and how to fix them
      <hr/>
      
-      - *There are a number of tech companies that either directly work with law enforcement agencies, or supply their tech to them. Amazon’s doorbell camera company Ring has partnered with more than 1,300 police departments and Amazon Web Services sells its product t…*
+      - *Valued at over $60 billion and used by millions each day for work and staying in touch with friends and family, the COVID-19 pandemic has helped make Zoom one of the most popular and relevant enterprise applications. On one level, its surge to the top can be …*
      
+  - Tech Is Not Neutral campaign urges companies to stop working with law enforcement agencies
+      <hr/>
+      
+      - *There are a number of tech companies that either directly work with law enforcement agencies, or supply their tech to them. Amazon’s doorbell camera company Ring has partnered with more than 1,300 police departments and Amazon Web Services sells its product t…*
+      
   - The founders of Blavity and The Shade Room are coming to Disrupt 2020
       <hr/>
       
@@ -70,16 +75,11 @@ I invented the Web just because I needed it, really, because it was so frustrati
       <hr/>
       
       - *One of President Trump’s former top political advisors was arrested in connection with a crowdfunding scheme to build a U.S. border wall, according to charges unsealed by federal prosecutors Thursday. Steve Bannon is one of four individuals named in the indic…*
-      
+       
   - Figma CEO Dylan Field discusses fundraising, hiring and marketing in stealth mode
       <hr/>
-      
-      - *You’d be hard pressed to hang out with a designer and not hear the name Figma. The company behind the largely browser-based design tool has made a huge splash in the past few years, building a massive war chest with more than $130 million from investors like …*
        
-  - VW kicks off production of its all-electric SUV, the ID. 4
-      <hr/>
-       
-       - *Volkswagen has started series production of the ID. 4, an all-electric SUV and the first under the automaker’s new ID label to be headed to the United States. Series production of the ID.4 kicked off Thursday at the company’s Zwickau factory in Germany ahead …*
+       - *You’d be hard pressed to hang out with a designer and not hear the name Figma. The company behind the largely browser-based design tool has made a huge splash in the past few years, building a massive war chest with more than $130 million from investors like …*
       
 
 <br />
