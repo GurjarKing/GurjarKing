@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
 
-~ Harlan Mills
+~ Joe Armstrong (programmer)
 <pre>
 
 </pre>
@@ -56,30 +56,30 @@ An interactive debugger is an outstanding example of what is not needed - it enc
 
 </pre>
 **Daily News**
-  - Sign up to interview with accelerators before Disrupt 2020
+  - Sony WH-1000XM4 headphone review
      <hr/>
      
-      - *Startup founders, brace yourself for a phenomenal opportunity. TechCrunch, in partnership with cela, will host eleven — count ‘em eleven — accelerators in Digital Startup Alley at Disrupt 2020. It gets better: they’re accepting applications for their upcoming…*
+      - *There was a mixed reaction among the TechCrunch staff when Sony’s WH-1000XM4 were announced the other week. There was excitement among those looking for new headphones and disappointment for those who’d recently purchased a different pair. The product’s prede…*
      
+  - Daily Crunch: Lyft and Uber win legal victory
+      <hr/>
+      
+      - *Uber and Lyft may not be pausing operations in California after all, Google releases new emergency alert tools and Airbnb bans all parties. This is your Daily Crunch for August 20, 2020. The big story: Uber and Lyft win legal victory Earlier today, Lyft annou…*
+      
+  - Sign up to interview with accelerators before Disrupt 2020
+      <hr/>
+      
+      - *Startup founders, brace yourself for a phenomenal opportunity. TechCrunch, in partnership with cela, will host eleven — count ‘em eleven — accelerators in Digital Startup Alley at Disrupt 2020. It gets better: they’re accepting applications for their upcoming…*
+      
   - Investors Reilly Brennan, Amy Gu and Olaf Sakkers coming to TC Sessions: Mobility 2020
       <hr/>
       
       - *The mobility sector has been abuzz with activity in the past decade from the rise of ride-hailing and the sudden explosion of shared electric scooters and bikes to the pursuit to commercialize moonshots like automated vehicles and flying cars. At the center o…*
-      
+       
   - Energy offset and renewable power developer Arcadia pitches clean power as an employee benefit
       <hr/>
-      
-      - *Arcadia, the company that gives homeowners and renters a way to offset their carbon footprints through renewable energy credits and clean power developments, is now pitching its services to businesses as an employee benefit. Companies can offset their employe…*
-      
-  - Palantir moves its HQ from Palo Alto to Denver as plans to go public percolate
-      <hr/>
-      
-      - *Between the IPO buzz and a raft of new federal contracts for COVID-19 work, it’s been a year of big moves for Palantir. Now, the company is making a more literal one: decamping from its Palo Alto headquarters to Denver, Colorado. The decision to relocate its …*
        
-  - Judge grants Uber and Lyft temporary stay in driver reclassification case
-      <hr/>
-       
-       - *A California appeals court judge has granted Uber and Lyft’s emergency stay. This means the preliminary injunction that sought to force companies to reclassify their drivers as employees will not go into effect this Friday. Instead, this emergency stay extend…*
+       - *Arcadia, the company that gives homeowners and renters a way to offset their carbon footprints through renewable energy credits and clean power developments, is now pitching its services to businesses as an employee benefit. Companies can offset their employe…*
       
 
 <br />
