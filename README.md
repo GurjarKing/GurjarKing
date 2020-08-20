@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-{qoth}
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ {qoth_author}
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -56,30 +56,30 @@
 
 </pre>
 **Daily News**
-  - {val1}
+  - Tech Is Not Neutral campaign urges companies to stop working with law enforcement agencies
      <hr/>
      
-      - *{des1}*
+      - *There are a number of tech companies that either directly work with law enforcement agencies, or supply their tech to them. Amazon’s doorbell camera company Ring has partnered with more than 1,300 police departments and Amazon Web Services sells its product t…*
      
-  - {val2}
+  - The founders of Blavity and The Shade Room are coming to Disrupt 2020
       <hr/>
       
-      - *{des2}*
+      - *Although the media industry is currently in the midst of a long-overdue reckoning over diversity, representation and racism, Morgan DeBaun and Angie Nwandu have been building a more diverse digital media landscape for years. And we’re excited to welcome them …*
       
-  - {val3}
+  - Border wall crowdfunding scheme leads to Trump ally Steve Bannon's arrest
       <hr/>
       
-      - *{des3}*
+      - *One of President Trump’s former top political advisors was arrested in connection with a crowdfunding scheme to build a U.S. border wall, according to charges unsealed by federal prosecutors Thursday. Steve Bannon is one of four individuals named in the indic…*
       
-  - {val4}
+  - Figma CEO Dylan Field discusses fundraising, hiring and marketing in stealth mode
       <hr/>
       
-      - *{des4}*
+      - *You’d be hard pressed to hang out with a designer and not hear the name Figma. The company behind the largely browser-based design tool has made a huge splash in the past few years, building a massive war chest with more than $130 million from investors like …*
        
-  - {val5}
+  - VW kicks off production of its all-electric SUV, the ID. 4
       <hr/>
        
-       - *{des5}*
+       - *Volkswagen has started series production of the ID. 4, an all-electric SUV and the first under the automaker’s new ID label to be headed to the United States. Series production of the ID.4 kicked off Thursday at the company’s Zwickau factory in Germany ahead …*
       
 
 <br />
