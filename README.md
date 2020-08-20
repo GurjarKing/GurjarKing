@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 
-~ Alan Perlis
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -56,11 +56,16 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 
 </pre>
 **Daily News**
-  - Investors Reilly Brennan, Amy Gu and Olaf Sakkers coming to TC Sessions: Mobility 2020
+  - Sign up to interview with accelerators before Disrupt 2020
      <hr/>
      
-      - *The mobility sector has been abuzz with activity in the past decade from the rise of ride-hailing and the sudden explosion of shared electric scooters and bikes to the pursuit to commercialize moonshots like automated vehicles and flying cars. At the center o…*
+      - *Startup founders, brace yourself for a phenomenal opportunity. TechCrunch, in partnership with cela, will host eleven — count ‘em eleven — accelerators in Digital Startup Alley at Disrupt 2020. It gets better: they’re accepting applications for their upcoming…*
      
+  - Investors Reilly Brennan, Amy Gu and Olaf Sakkers coming to TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *The mobility sector has been abuzz with activity in the past decade from the rise of ride-hailing and the sudden explosion of shared electric scooters and bikes to the pursuit to commercialize moonshots like automated vehicles and flying cars. At the center o…*
+      
   - Energy offset and renewable power developer Arcadia pitches clean power as an employee benefit
       <hr/>
       
@@ -70,16 +75,11 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
       <hr/>
       
       - *Between the IPO buzz and a raft of new federal contracts for COVID-19 work, it’s been a year of big moves for Palantir. Now, the company is making a more literal one: decamping from its Palo Alto headquarters to Denver, Colorado. The decision to relocate its …*
-      
+       
   - Judge grants Uber and Lyft temporary stay in driver reclassification case
       <hr/>
-      
-      - *A California appeals court judge has granted Uber and Lyft’s emergency stay. This means the preliminary injunction that sought to force companies to reclassify their drivers as employees will not go into effect this Friday. Instead, this emergency stay extend…*
        
-  - There’s no frontrunner to be found among the TikTok alternatives
-      <hr/>
-       
-       - *The U.S. market has no real frontrunner poised to claim TikTok’s throne if the app is banned in the country. According to Trump’s executive order, TikTok’s owner ByteDance has to divest of TikTok’s U.S. operations or the app will be banned from the U.S. marke…*
+       - *A California appeals court judge has granted Uber and Lyft’s emergency stay. This means the preliminary injunction that sought to force companies to reclassify their drivers as employees will not go into effect this Friday. Instead, this emergency stay extend…*
       
 
 <br />
