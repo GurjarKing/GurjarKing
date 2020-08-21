@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+Young man, in mathematics you don't understand things. You just get used to them.
 
-~ Bill Gates
+~ John von Neumann
 <pre>
 
 </pre>
