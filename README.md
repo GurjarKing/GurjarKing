@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ Robert C. Martin
+~ Marvin Minsky
 <pre>
 
 </pre>
@@ -56,30 +56,30 @@ The ratio of time spent reading versus writing is well over 10 to 1. We are cons
 
 </pre>
 **Daily News**
-  - OpenUnit aims to be Shopify for self-storage facilities
+  - Human Capital: What's next in Uber and Lyft's court battle and a look at board diversity in Silicon Valley
      <hr/>
      
-      - *So you’re looking for a storage unit to put some stuff in for a few months. Maybe you’re moving and your new place isn’t ready yet – or maybe you’re just looking to declutter and want to tuck some stuff away for a while and see if you’re really ready to part …*
+      - *Welcome back to Human Capital, where we unpack the latest in diversity, equity and inclusion, and labor issues in the tech industry. In this week’s edition, we’re looking at the latest in Uber and Lyft’s court battle to keep their drivers classified as indepe…*
      
-  - Anu Duggal on COVID-19, promoting diversity and building a fund
+  - Rocket Lab sets return to flight with next launch as early as August 27
       <hr/>
       
-      - *It has been nearly a decade since Anu Duggal, founding partner of Female Founders Fund, started raising money to invest in women-led startups. In 2020, the investor says her thesis — that there will be a generation of successful venture-backed businesses buil…*
+      - *Rocket Lab has made a remarkable recovery after losing a payload during a mission failure on July 4 – just eight weeks later, the company has set a launch window for its next dedicated commercial mission that spans 12 days beginning August 27 at 3:05 PM local…*
       
-  - Box CEO Aaron Levie says thrifty founders have more control
+  - Apple contends Epic's ban was a 'self-inflicted' prelude to gaming the App Store
       <hr/>
       
-      - *Once upon a time, Box’s Aaron Levie was just a guy with an idea for a company: 15 years ago as a USC student, he conceived of a way to simply store and share files online. It may be hard to recall, but back then, the world was awash with thumb drives and movi…*
+      - *Apple has filed legal documents opposing Epic’s attempt to have itself reinstated in the iOS App Store, after having been kicked out last week for flouting its rules. Apple characterizes the entire thing as a “carefully orchestrated, multi-faceted campaign” a…*
       
-  - Sources say Palantir will have a lockup period after its direct listing
+  - How to raise your first VC fund
       <hr/>
       
-      - *This morning, we published exclusive, leaked details about Palantir’s much anticipated S-1 filing, including the company’s revenues, margins, operating loss, and government/commercial contract breakdown. Leaked S-1 screenshots show Palantir losing $579M in 20…*
+      - *Learning to understand the mentality of an LP and building trust with investors is just the beginning.*
        
-  - This subscription social network is happy to be an Albatross in a pandemic
+  - OpenUnit aims to be Shopify for self-storage facilities
       <hr/>
        
-       - *In discussions of ethically dubious social networks Facebook is the usual reference choice. But spare a thought for subscribers of InterNations, a Munich-based social networking community for expats, who have found themselves unable to obtain refunds for full…*
+       - *So you’re looking for a storage unit to put some stuff in for a few months. Maybe you’re moving and your new place isn’t ready yet – or maybe you’re just looking to declutter and want to tuck some stuff away for a while and see if you’re really ready to part …*
       
 
 <br />
