@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Don't worry about anything. Just do what you can and be the best you can be.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Douglas Crockford
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -56,30 +56,30 @@ Don't worry about anything. Just do what you can and be the best you can be.
 
 </pre>
 **Daily News**
-  - Exo raised $40 million for its handheld medical imaging device
+  - Facebook trails expanding portability tools ahead of FTC hearing
      <hr/>
      
-      - *Exo, a developer of new diagnostic hardware for the medical industry, has raised $40 million in a new round of funding as investors continue to back new companies that are reducing the cost and complexity of medical devices. Cost, portability, image quality a…*
+      - *Facebook is considering expanding the types of data its users are able to port directly to alternative platforms. In comments on portability sent to US regulators ahead of an FTC hearing on the topic next month, Facebook says it intends to expand the scope of…*
      
+  - China is building a GitHub alternative called Gitee
+      <hr/>
+      
+      - *The technological decoupling between the U.S. and China has been a boon to Chinese firms from chipmakers for smartphones and electric vehicles through to software that are the backbones of millions of businesses’ daily operations. Chinese companies might have…*
+      
+  - Indian logistics SaaS startup FarEye bags $13 million
+      <hr/>
+      
+      - *More than 150 e-commerce and delivery companies globally use an Indian logistics startup’s service to work out the optimum way to ship items to their customers. That startup, Noida-based FarEye, said today it has raised an additional $13 million to close its …*
+      
+  - Exo raised $40 million for its handheld medical imaging device
+      <hr/>
+      
+      - *Exo, a developer of new diagnostic hardware for the medical industry, has raised $40 million in a new round of funding as investors continue to back new companies that are reducing the cost and complexity of medical devices. Cost, portability, image quality a…*
+       
   - Triller threatened to sue over report suggesting it inflated its downloads
       <hr/>
-      
-      - *A new report disputing the validity of Triller’s recently announced download figures led Triller to respond with the threat of a lawsuit. Triller, a newly litigious TikTok rival that could potentially benefit from a TikTok ban in the U.S., has been pushing to…*
-      
-  - Sony WH-1000XM4 headphone review
-      <hr/>
-      
-      - *There was a mixed reaction among the TechCrunch staff when Sony’s WH-1000XM4 were announced the other week. There was excitement among those looking for new headphones and disappointment for those who’d recently purchased a different pair. The product’s prede…*
-      
-  - Daily Crunch: Lyft and Uber win legal victory
-      <hr/>
-      
-      - *Uber and Lyft may not be pausing operations in California after all, Google releases new emergency alert tools and Airbnb bans all parties. This is your Daily Crunch for August 20, 2020. The big story: Uber and Lyft win legal victory Earlier today, Lyft annou…*
        
-  - Sign up to interview with accelerators before Disrupt 2020
-      <hr/>
-       
-       - *Startup founders, brace yourself for a phenomenal opportunity. TechCrunch, in partnership with cela, will host eleven — count ‘em eleven — accelerators in Digital Startup Alley at Disrupt 2020. It gets better: they’re accepting applications for their upcoming…*
+       - *A new report disputing the validity of Triller’s recently announced download figures led Triller to respond with the threat of a lawsuit. Triller, a newly litigious TikTok rival that could potentially benefit from a TikTok ban in the U.S., has been pushing to…*
       
 
 <br />
