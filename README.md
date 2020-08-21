@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Deleted code is debugged code.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Jeff Sickel
+~ James Gleick
 <pre>
 
 </pre>
