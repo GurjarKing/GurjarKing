@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 
-~ Danny Hillis
+~ Harlan Mills
 <pre>
 
 </pre>
