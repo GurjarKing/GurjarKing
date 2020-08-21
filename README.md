@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Everybody should learn to program a computer, because it teaches you how to think.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
-~ Steve Jobs
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -56,30 +56,30 @@ Everybody should learn to program a computer, because it teaches you how to thin
 
 </pre>
 **Daily News**
-  - How one founder leveraged debt to drive early growth and avoid dilution
+  - Box CEO Aaron Levie says thrifty founders have more control
      <hr/>
      
-      - *Could SaaS securitization be a future model of debt for startups?*
+      - *Once upon a time, Box’s Aaron Levie was just a guy with an idea for a company: 15 years ago as a USC student, he conceived of a way to simply store and share files online. It may be hard to recall, but back then, the world was awash with thumb drives and movi…*
      
+  - Sources say Palantir will have a lockup period after its direct listing
+      <hr/>
+      
+      - *This morning, we published exclusive, leaked details about Palantir’s much anticipated S-1 filing, including the company’s revenues, margins, operating loss, and government/commercial contract breakdown. Leaked S-1 screenshots show Palantir losing $579M in 20…*
+      
+  - This subscription social network is happy to be an Albatross in a pandemic
+      <hr/>
+      
+      - *In discussions of ethically dubious social networks Facebook is the usual reference choice. But spare a thought for subscribers of InterNations, a Munich-based social networking community for expats, who have found themselves unable to obtain refunds for full…*
+      
+  - How one founder leveraged debt to drive early growth and avoid dilution
+      <hr/>
+      
+      - *Could SaaS securitization be a future model of debt for startups?*
+       
   - Submit your pitch deck to Disrupt 2020's Pitch Deck Teardown
       <hr/>
-      
-      - *Disrupt 2020 is a few weeks away and we’re looking for founders to submit their pitch decks. In the Pitch Deck Teardown, top venture capitalists and entrepreneurs will evaluate and suggest fixes for Disrupt 2020 attendees’ pitch decks. First impressions are e…*
-      
-  - Leaked S-1 screenshots show Palantir losing $579M in 2019
-      <hr/>
-      
-      - *Palantir filed an S-1 confidentially to the SEC in early July, but we have so far been waiting for the final doc to be published for weeks now with nary a murmur. Now, thanks to some leaked screenshots to TechCrunch from a Palantir shareholder, we might have …*
-      
-  - CarbonChain is using AI to determine the emissions profile of the world's biggest polluters
-      <hr/>
-      
-      - *It was the Australian bush fire that finally did it. For twelve years Adam Hearne had worked at companies which represented some of the world’s largest sources of greenhouse gas emissions. First at Rio Tinto, one of the largest industrial miners, and then at …*
        
-  - Medical imaging startup Nanox raises $165.2M as it prepares to list today on Nasdaq
-      <hr/>
-       
-       - *Less than a month after the Israeli medical imaging startup Nanox raised $59 million in funding and said it was close to going public, the company has now bitten the bullet. Today the company announced that it has raised $165.2 million in an initial public of…*
+       - *Disrupt 2020 is a few weeks away and we’re looking for founders to submit their pitch decks. In the Pitch Deck Teardown, top venture capitalists and entrepreneurs will evaluate and suggest fixes for Disrupt 2020 attendees’ pitch decks. First impressions are e…*
       
 
 <br />
