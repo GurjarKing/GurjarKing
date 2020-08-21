@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+First do it, then do it right, then do it better.
 
-~ Joe Armstrong (programmer)
+~ Addy Osmani
 <pre>
 
 </pre>
@@ -56,30 +56,30 @@ The problem with object-oriented languages is they’ve got all this implicit en
 
 </pre>
 **Daily News**
-  - No parties allowed at the Airbnb IPO
+  - CarbonChain is using AI to determine the emissions profile of the world's biggest polluters
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. What happens when the entire podcast crew is a bit tired from, you know, everything, and does its very best? Th…*
+      - *It was the Australian bush fire that finally did it. For twelve years Adam Hearne had worked at companies which represented some of the world’s largest sources of greenhouse gas emissions. First at Rio Tinto, one of the largest industrial miners, and then at …*
      
-  - Lambda School raises $74M for its virtual coding school where you pay tuition only after you get a job
+  - Medical imaging startup Nanox raises $165.2M as it prepares to list today on Nasdaq
       <hr/>
       
-      - *In the world of technology, online learning has been one of the bigger beneficiaries of the last several months, with people staying home and away from their normal routines because of the coronavirus pandemic and using that time to expand their knowledge, or…*
+      - *Less than a month after the Israeli medical imaging startup Nanox raised $59 million in funding and said it was close to going public, the company has now bitten the bullet. Today the company announced that it has raised $165.2 million in an initial public of…*
       
-  - Facebook trails expanding portability tools ahead of FTC hearing
+  - Unicorn rodeo: 6 high-flying startups that are set to go public
       <hr/>
       
-      - *Facebook is considering expanding the types of data its users are able to port directly to alternative platforms. In comments on portability sent to US regulators ahead of an FTC hearing on the topic next month, Facebook says it intends to expand the scope of…*
+      - *This week Airbnb announced that it has privately filed to go public, putting the famous unicorn on a path to a quick IPO if it wants. The recent move matches reporting indicating that the home-sharing upstart could yet go public in 2020 despite the collapse o…*
       
-  - China is building a GitHub alternative called Gitee
+  - Trump's official campaign app had to reset its rating after being trolled by TikTokers
       <hr/>
       
-      - *The technological decoupling between the U.S. and China has been a boon to Chinese firms from chipmakers for smartphones and electric vehicles through to software that are the backbones of millions of businesses’ daily operations. Chinese companies might have…*
+      - *An effort by TikTok users to troll President Trump’s official campaign app with thousands of 1-star reviews appears to have had an impact — if not the impact the pranksters had wanted. In July, Bloomberg reported TikTok activists were flocking to the Official…*
        
-  - Indian logistics SaaS startup FarEye bags $13 million
+  - As the pandemic creates supply chain chaos, Craft raises $10M to apply some intelligence
       <hr/>
        
-       - *More than 150 e-commerce and delivery companies globally use an Indian logistics startup’s service to work out the optimum way to ship items to their customers. That startup, Noida-based FarEye, said today it has raised an additional $13 million to close its …*
+       - *During the COVID-19 pandemic supply chains have suddenly become hot. Who knew that would ever happen? The race to secure PPE, ventilators, minor things like food, was and still is, an enormous issue. But perhaps, predictably, the world of ‘supply chain softwa…*
       
 
 <br />
