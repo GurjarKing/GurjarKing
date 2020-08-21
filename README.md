@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+A year spent in artificial intelligence is enough to make one believe in God.
 
-~ Andy Hertzfeld
+~ Alan Perlis
 <pre>
 
 </pre>
