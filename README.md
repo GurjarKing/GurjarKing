@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
 
-~ Joe Armstrong (programmer)
+~ Bill Gates
 <pre>
 
 </pre>
@@ -56,11 +56,16 @@ If you start removing things, if you get to the point where if you were to remov
 
 </pre>
 **Daily News**
-  - Sony WH-1000XM4 headphone review
+  - Triller threatened to sue over report suggesting it inflated its downloads
      <hr/>
      
-      - *There was a mixed reaction among the TechCrunch staff when Sony’s WH-1000XM4 were announced the other week. There was excitement among those looking for new headphones and disappointment for those who’d recently purchased a different pair. The product’s prede…*
+      - *A new report disputing the validity of Triller’s recently announced download figures led Triller to respond with the threat of a lawsuit. Triller, a newly litigious TikTok rival that could potentially benefit from a TikTok ban in the U.S., has been pushing to…*
      
+  - Sony WH-1000XM4 headphone review
+      <hr/>
+      
+      - *There was a mixed reaction among the TechCrunch staff when Sony’s WH-1000XM4 were announced the other week. There was excitement among those looking for new headphones and disappointment for those who’d recently purchased a different pair. The product’s prede…*
+      
   - Daily Crunch: Lyft and Uber win legal victory
       <hr/>
       
@@ -70,16 +75,11 @@ If you start removing things, if you get to the point where if you were to remov
       <hr/>
       
       - *Startup founders, brace yourself for a phenomenal opportunity. TechCrunch, in partnership with cela, will host eleven — count ‘em eleven — accelerators in Digital Startup Alley at Disrupt 2020. It gets better: they’re accepting applications for their upcoming…*
-      
+       
   - Investors Reilly Brennan, Amy Gu and Olaf Sakkers coming to TC Sessions: Mobility 2020
       <hr/>
-      
-      - *The mobility sector has been abuzz with activity in the past decade from the rise of ride-hailing and the sudden explosion of shared electric scooters and bikes to the pursuit to commercialize moonshots like automated vehicles and flying cars. At the center o…*
        
-  - Energy offset and renewable power developer Arcadia pitches clean power as an employee benefit
-      <hr/>
-       
-       - *Arcadia, the company that gives homeowners and renters a way to offset their carbon footprints through renewable energy credits and clean power developments, is now pitching its services to businesses as an employee benefit. Companies can offset their employe…*
+       - *The mobility sector has been abuzz with activity in the past decade from the rise of ride-hailing and the sudden explosion of shared electric scooters and bikes to the pursuit to commercialize moonshots like automated vehicles and flying cars. At the center o…*
       
 
 <br />
