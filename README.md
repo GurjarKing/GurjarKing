@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
+The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 
-~ Gary Kildall
+~ Joe Armstrong (programmer)
 <pre>
 
 </pre>
