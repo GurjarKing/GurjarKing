@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 
-~ Marvin Minsky
+~ Nathaniel Borenstein
 <pre>
 
 </pre>
@@ -56,11 +56,16 @@ Artificial intelligence is the science of making machines do things that would r
 
 </pre>
 **Daily News**
-  - Human Capital: What's next in Uber and Lyft's court battle and a look at board diversity in Silicon Valley
+  - Leaked Palantir S-1 shows company has 125 customers after 17 years
      <hr/>
      
-      - *Welcome back to Human Capital, where we unpack the latest in diversity, equity and inclusion, and labor issues in the tech industry. In this week’s edition, we’re looking at the latest in Uber and Lyft’s court battle to keep their drivers classified as indepe…*
+      - *We are still walking through Palantir’s leaked S-1, which as of the time of this writing, hasn’t yet been filed and published by the SEC. This morning, we discussed some of Palantir’s financials, including its revenues, margins, and net losses. Leaked S-1 scr…*
      
+  - Human Capital: What's next in Uber and Lyft's court battle and a look at board diversity in Silicon Valley
+      <hr/>
+      
+      - *Welcome back to Human Capital, where we unpack the latest in diversity, equity and inclusion, and labor issues in the tech industry. In this week’s edition, we’re looking at the latest in Uber and Lyft’s court battle to keep their drivers classified as indepe…*
+      
   - Rocket Lab sets return to flight with next launch as early as August 27
       <hr/>
       
@@ -70,16 +75,11 @@ Artificial intelligence is the science of making machines do things that would r
       <hr/>
       
       - *Apple has filed legal documents opposing Epic’s attempt to have itself reinstated in the iOS App Store, after having been kicked out last week for flouting its rules. Apple characterizes the entire thing as a “carefully orchestrated, multi-faceted campaign” a…*
-      
+       
   - How to raise your first VC fund
       <hr/>
-      
-      - *Learning to understand the mentality of an LP and building trust with investors is just the beginning.*
        
-  - OpenUnit aims to be Shopify for self-storage facilities
-      <hr/>
-       
-       - *So you’re looking for a storage unit to put some stuff in for a few months. Maybe you’re moving and your new place isn’t ready yet – or maybe you’re just looking to declutter and want to tuck some stuff away for a while and see if you’re really ready to part …*
+       - *Learning to understand the mentality of an LP and building trust with investors is just the beginning.*
       
 
 <br />
