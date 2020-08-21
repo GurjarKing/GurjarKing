@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 
-~ Bill Gates
+~ Eric S. Raymond
 <pre>
 
 </pre>
