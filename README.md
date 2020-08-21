@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A year spent in artificial intelligence is enough to make one believe in God.
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 
-~ Alan Perlis
+~ Bill Gates
 <pre>
 
 </pre>
