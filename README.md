@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 
-~ Addy Osmani
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -56,11 +56,16 @@ First do it, then do it right, then do it better.
 
 </pre>
 **Daily News**
-  - CarbonChain is using AI to determine the emissions profile of the world's biggest polluters
+  - Leaked S-1 screenshots show Palantir losing $579M in 2019
      <hr/>
      
-      - *It was the Australian bush fire that finally did it. For twelve years Adam Hearne had worked at companies which represented some of the world’s largest sources of greenhouse gas emissions. First at Rio Tinto, one of the largest industrial miners, and then at …*
+      - *Palantir filed an S-1 confidentially to the SEC in early July, but we have so far been waiting for the final doc to be published for weeks now with nary a murmur. Now, thanks to some leaked screenshots to TechCrunch from a Palantir shareholder, we might have …*
      
+  - CarbonChain is using AI to determine the emissions profile of the world's biggest polluters
+      <hr/>
+      
+      - *It was the Australian bush fire that finally did it. For twelve years Adam Hearne had worked at companies which represented some of the world’s largest sources of greenhouse gas emissions. First at Rio Tinto, one of the largest industrial miners, and then at …*
+      
   - Medical imaging startup Nanox raises $165.2M as it prepares to list today on Nasdaq
       <hr/>
       
@@ -70,16 +75,11 @@ First do it, then do it right, then do it better.
       <hr/>
       
       - *This week Airbnb announced that it has privately filed to go public, putting the famous unicorn on a path to a quick IPO if it wants. The recent move matches reporting indicating that the home-sharing upstart could yet go public in 2020 despite the collapse o…*
-      
+       
   - Trump's official campaign app had to reset its rating after being trolled by TikTokers
       <hr/>
-      
-      - *An effort by TikTok users to troll President Trump’s official campaign app with thousands of 1-star reviews appears to have had an impact — if not the impact the pranksters had wanted. In July, Bloomberg reported TikTok activists were flocking to the Official…*
        
-  - As the pandemic creates supply chain chaos, Craft raises $10M to apply some intelligence
-      <hr/>
-       
-       - *During the COVID-19 pandemic supply chains have suddenly become hot. Who knew that would ever happen? The race to secure PPE, ventilators, minor things like food, was and still is, an enormous issue. But perhaps, predictably, the world of ‘supply chain softwa…*
+       - *An effort by TikTok users to troll President Trump’s official campaign app with thousands of 1-star reviews appears to have had an impact — if not the impact the pranksters had wanted. In July, Bloomberg reported TikTok activists were flocking to the Official…*
       
 
 <br />
