@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Computer programs are the most complex things that humans make.
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
 
-~ Douglas Crockford
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -56,30 +56,30 @@ Computer programs are the most complex things that humans make.
 
 </pre>
 **Daily News**
-  - Facebook trails expanding portability tools ahead of FTC hearing
+  - No parties allowed at the Airbnb IPO
      <hr/>
      
-      - *Facebook is considering expanding the types of data its users are able to port directly to alternative platforms. In comments on portability sent to US regulators ahead of an FTC hearing on the topic next month, Facebook says it intends to expand the scope of…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. What happens when the entire podcast crew is a bit tired from, you know, everything, and does its very best? Th…*
      
+  - Lambda School raises $74M for its virtual coding school where you pay tuition only after you get a job
+      <hr/>
+      
+      - *In the world of technology, online learning has been one of the bigger beneficiaries of the last several months, with people staying home and away from their normal routines because of the coronavirus pandemic and using that time to expand their knowledge, or…*
+      
+  - Facebook trails expanding portability tools ahead of FTC hearing
+      <hr/>
+      
+      - *Facebook is considering expanding the types of data its users are able to port directly to alternative platforms. In comments on portability sent to US regulators ahead of an FTC hearing on the topic next month, Facebook says it intends to expand the scope of…*
+      
   - China is building a GitHub alternative called Gitee
       <hr/>
       
       - *The technological decoupling between the U.S. and China has been a boon to Chinese firms from chipmakers for smartphones and electric vehicles through to software that are the backbones of millions of businesses’ daily operations. Chinese companies might have…*
-      
+       
   - Indian logistics SaaS startup FarEye bags $13 million
       <hr/>
-      
-      - *More than 150 e-commerce and delivery companies globally use an Indian logistics startup’s service to work out the optimum way to ship items to their customers. That startup, Noida-based FarEye, said today it has raised an additional $13 million to close its …*
-      
-  - Exo raised $40 million for its handheld medical imaging device
-      <hr/>
-      
-      - *Exo, a developer of new diagnostic hardware for the medical industry, has raised $40 million in a new round of funding as investors continue to back new companies that are reducing the cost and complexity of medical devices. Cost, portability, image quality a…*
        
-  - Triller threatened to sue over report suggesting it inflated its downloads
-      <hr/>
-       
-       - *A new report disputing the validity of Triller’s recently announced download figures led Triller to respond with the threat of a lawsuit. Triller, a newly litigious TikTok rival that could potentially benefit from a TikTok ban in the U.S., has been pushing to…*
+       - *More than 150 e-commerce and delivery companies globally use an Indian logistics startup’s service to work out the optimum way to ship items to their customers. That startup, Noida-based FarEye, said today it has raised an additional $13 million to close its …*
       
 
 <br />
