@@ -55,7 +55,8 @@
 
 
 </pre>
-**Daily News**
+<strong>Daily News</strong>
+  
   - {val1}
      <hr/>
      
