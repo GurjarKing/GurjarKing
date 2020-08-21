@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Young man, in mathematics you don't understand things. You just get used to them.
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 
-~ John von Neumann
+~ Danny Hillis
 <pre>
 
 </pre>
