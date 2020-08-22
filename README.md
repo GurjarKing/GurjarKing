@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+I'm interested in creating images that communicate with people.
 
-~ Ken Thompson
+~ Toru Iwatani
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ I’ve never been a lover of existing code. Code by itself almost rots and it’
 </pre>
 <strong>Daily News</strong>
   
-  - Original Content podcast: On Netflix's 'Selling Sunset', everyone's a villain
+  - This Week in Apps: Apple's antitrust war, TikTok ban, alt app ecosystems
      <hr/>
      
-      - *“Selling Sunset” is the kind reality TV show that doesn’t bother with things like sympathetic or relatable characters. The Netflix series recently released its third season — which, like the seasons before it, follows the efforts of the largely female staff a…*
+      - *We missed some Epic news while This Week in Apps was on vacation, but this week the backlash against the App Store continues.*
      
+  - Five proven ways to attract and hire more diverse talent
+      <hr/>
+      
+      - *Startup founders should review — and personalize — their internal recruiting practices and policies to make them more inclusive.*
+      
+  - Original Content podcast: On Netflix's 'Selling Sunset', everyone's a villain
+      <hr/>
+      
+      - *“Selling Sunset” is the kind reality TV show that doesn’t bother with things like sympathetic or relatable characters. The Netflix series recently released its third season — which, like the seasons before it, follows the efforts of the largely female staff a…*
+      
   - Five VCs discuss how no-code is going horizontal across the world’s industries
       <hr/>
       
       - *Few topics garner cheers and groans quite as quickly as the no-code software explosion. While investors seem uniformly bullish on toolsets that streamline and automate processes that once required a decent amount of technical know-how, not everyone seems to t…*
-      
+       
   - Almost everything you need to know about SPACs
       <hr/>
-      
-      - *Feeling as if you should better understand special purpose acquisition vehicles – or SPACS — than you do? You aren’t alone. Like most casual observers, you’re probably already aware that Paul Ryan now has a SPAC, as does baseball executive Billy Beane and Sil…*
-      
-  - Gather helps teams streamline things like onboarding, offboarding, and parental leave over Slack
-      <hr/>
-      
-      - *Adding a new employee to a team tends to involve more than saying “You’re hired!” and tossing them into the company Slack. You’ve got to get them trained, ship them any hardware they might need, get them setup on all of your internal tools, and check in regul…*
        
-  - Daily Crunch: Palantir docs show $579M net loss
-      <hr/>
-       
-       - *We dive into Palantir’s finances, Apple fires back against Epic Games and Lambda School raises funding. This is your Daily Crunch for August 21, 2020. The big story: Palantir docs show $579M net loss Danny Crichton got a hold of the confidential S-1 filing fo…*
+       - *Feeling as if you should better understand special purpose acquisition vehicles – or SPACS — than you do? You aren’t alone. Like most casual observers, you’re probably already aware that Paul Ryan now has a SPAC, as does baseball executive Billy Beane and Sil…*
       
 
 <br />
