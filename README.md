@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+The purpose of software engineering is to control complexity, not to create it.
 
-~ Lawrence Flon
+~ Pamela Zave
 <pre>
 
 </pre>
