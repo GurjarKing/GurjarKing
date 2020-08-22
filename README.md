@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 
-~ Henry Ford
+~ P. J. Plauger
 <pre>
 
 </pre>
