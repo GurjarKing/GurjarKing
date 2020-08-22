@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Controlling complexity is the essence of computer programming.
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
 
-~ Brian Kernighan
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Controlling complexity is the essence of computer programming.
 </pre>
 <strong>Daily News</strong>
   
-  - Gather helps teams streamline things like onboarding, offboarding, and parental leave over Slack
+  - Almost everything you need to know about SPACs
      <hr/>
      
-      - *Adding a new employee to a team tends to involve more than saying “You’re hired!” and tossing them into the company Slack. You’ve got to get them trained, ship them any hardware they might need, get them setup on all of your internal tools, and check in regul…*
+      - *Feeling as if you should better understand special purpose acquisition vehicles – or SPACS — than you do? You aren’t alone. Like most casual observers, you’re probably already aware that Paul Ryan now has a SPAC, as does baseball executive Billy Beane and Sil…*
      
+  - Gather helps teams streamline things like onboarding, offboarding, and parental leave over Slack
+      <hr/>
+      
+      - *Adding a new employee to a team tends to involve more than saying “You’re hired!” and tossing them into the company Slack. You’ve got to get them trained, ship them any hardware they might need, get them setup on all of your internal tools, and check in regul…*
+      
   - Daily Crunch: Palantir docs show $579M net loss
       <hr/>
       
@@ -71,16 +76,11 @@ Controlling complexity is the essence of computer programming.
       <hr/>
       
       - *We are continuing to make progress through Palantir’s leaked S-1 filing, which TechCrunch attained a copy of recently. We have covered the company’s financials this morning, and this afternoon we talked about the company’s customer concentration. Now I want t…*
-      
+       
   - Leaked Palantir S-1 shows company has 125 customers after 17 years
       <hr/>
-      
-      - *We are still walking through Palantir’s leaked S-1, which as of the time of this writing, hasn’t yet been filed and published by the SEC. This morning, we discussed some of Palantir’s financials, including its revenues, margins, and net losses. Leaked S-1 scr…*
        
-  - Human Capital: What's next in Uber and Lyft's court battle and a look at board diversity in Silicon Valley
-      <hr/>
-       
-       - *Welcome back to Human Capital, where we unpack the latest in diversity, equity and inclusion, and labor issues in the tech industry. In this week’s edition, we’re looking at the latest in Uber and Lyft’s court battle to keep their drivers classified as indepe…*
+       - *We are still walking through Palantir’s leaked S-1, which as of the time of this writing, hasn’t yet been filed and published by the SEC. This morning, we discussed some of Palantir’s financials, including its revenues, margins, and net losses. Leaked S-1 scr…*
       
 
 <br />
