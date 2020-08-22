@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 
-~ Mark Gibbs
+~ John Carmack
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ No matter how slick the demo is in rehearsal, when you do it in front of a live 
 </pre>
 <strong>Daily News</strong>
   
-  - Hey Apple, how about a MacBook SE?
+  - Launched with $17 million by two former Norwest investors, Tau Ventures is ready for its closeup
      <hr/>
      
-      - *Apple’s a hard company to like these days. Their glory days behind them, they have relentlessly pursued a misguided concept of optimization that has alienated their user base and compromised their products. A MacBook SE would go a long way toward smoothing th…*
+      - *Amit Garg and Sanjay Rao have spent the bulk of their professional lives developing technology, founding startups and investing in startups at places like Google and Microsoft, HealthIQ, and Norwest Venture Partners. Over their decade-long friendship the two …*
      
+  - Hey Apple, how about a MacBook SE?
+      <hr/>
+      
+      - *Apple’s a hard company to like these days. Their glory days behind them, they have relentlessly pursued a misguided concept of optimization that has alienated their user base and compromised their products. A MacBook SE would go a long way toward smoothing th…*
+      
   - Bletchley Park, birth-place of the computer, faces uncertain future after pandemic hits income
       <hr/>
       
@@ -71,16 +76,11 @@ No matter how slick the demo is in rehearsal, when you do it in front of a live 
       <hr/>
       
       - *Edtech’s reputation has been revitalized due to the coronavirus pandemic, which forced millions of students to adopt remote education overnight. But behind the scramble is a crop of investors who have long invested in the space — before it became cool. To bet…*
-      
+       
   - This Week in Apps: Apple's antitrust war, TikTok ban, alt app ecosystems
       <hr/>
-      
-      - *We missed some Epic news while This Week in Apps was on vacation, but this week the backlash against the App Store continues.*
        
-  - Five proven ways to attract and hire more diverse talent
-      <hr/>
-       
-       - *Startup founders should review — and personalize — their internal recruiting practices and policies to make them more inclusive.*
+       - *We missed some Epic news while This Week in Apps was on vacation, but this week the backlash against the App Store continues.*
       
 
 <br />
