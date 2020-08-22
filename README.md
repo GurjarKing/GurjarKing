@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I'm interested in creating images that communicate with people.
+No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 
-~ Toru Iwatani
+~ Mark Gibbs
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ I'm interested in creating images that communicate with people.
 </pre>
 <strong>Daily News</strong>
   
-  - This Week in Apps: Apple's antitrust war, TikTok ban, alt app ecosystems
+  - Hey Apple, how about a MacBook SE?
      <hr/>
      
-      - *We missed some Epic news while This Week in Apps was on vacation, but this week the backlash against the App Store continues.*
+      - *Apple’s a hard company to like these days. Their glory days behind them, they have relentlessly pursued a misguided concept of optimization that has alienated their user base and compromised their products. A MacBook SE would go a long way toward smoothing th…*
      
+  - Bletchley Park, birth-place of the computer, faces uncertain future after pandemic hits income
+      <hr/>
+      
+      - *Bletchley Park is an English country house that became the principal centre of Allied code-breaking during the Second World War. It built the world’s first programmable digital electronic computer, cracking the Enigma Machine and thus helping turn the tide of…*
+      
+  - Hear from experienced edtech investors on the market’s overnight boom
+      <hr/>
+      
+      - *Edtech’s reputation has been revitalized due to the coronavirus pandemic, which forced millions of students to adopt remote education overnight. But behind the scramble is a crop of investors who have long invested in the space — before it became cool. To bet…*
+      
+  - This Week in Apps: Apple's antitrust war, TikTok ban, alt app ecosystems
+      <hr/>
+      
+      - *We missed some Epic news while This Week in Apps was on vacation, but this week the backlash against the App Store continues.*
+       
   - Five proven ways to attract and hire more diverse talent
       <hr/>
-      
-      - *Startup founders should review — and personalize — their internal recruiting practices and policies to make them more inclusive.*
-      
-  - Original Content podcast: On Netflix's 'Selling Sunset', everyone's a villain
-      <hr/>
-      
-      - *“Selling Sunset” is the kind reality TV show that doesn’t bother with things like sympathetic or relatable characters. The Netflix series recently released its third season — which, like the seasons before it, follows the efforts of the largely female staff a…*
-      
-  - Five VCs discuss how no-code is going horizontal across the world’s industries
-      <hr/>
-      
-      - *Few topics garner cheers and groans quite as quickly as the no-code software explosion. While investors seem uniformly bullish on toolsets that streamline and automate processes that once required a decent amount of technical know-how, not everyone seems to t…*
        
-  - Almost everything you need to know about SPACs
-      <hr/>
-       
-       - *Feeling as if you should better understand special purpose acquisition vehicles – or SPACS — than you do? You aren’t alone. Like most casual observers, you’re probably already aware that Paul Ryan now has a SPAC, as does baseball executive Billy Beane and Sil…*
+       - *Startup founders should review — and personalize — their internal recruiting practices and policies to make them more inclusive.*
       
 
 <br />
