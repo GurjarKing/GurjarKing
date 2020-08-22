@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The purpose of computing is insight, not numbers.
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 
-~ Richard Hamming
+~ Leslie Lamport
 <pre>
 
 </pre>
