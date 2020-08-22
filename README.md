@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The purpose of software engineering is to control complexity, not to create it.
+Controlling complexity is the essence of computer programming.
 
-~ Pamela Zave
+~ Brian Kernighan
 <pre>
 
 </pre>
