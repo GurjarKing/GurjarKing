@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 
-~ Kevlin Henney
+~ Daniel T. Barry
 <pre>
 
 </pre>
