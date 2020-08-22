@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Simplicity is prerequisite for reliability.
+Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 
-~ Edsger W. Dijkstra
+~ L. Peter Deutsch
 <pre>
 
 </pre>
