@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+Simplicity is prerequisite for reliability.
 
-~ Alan Kay
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
