@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
-~ John Warnock
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ To be successful, you want to surround yourself with very talented folks whose s
 </pre>
 <strong>Daily News</strong>
   
-  - Startups Weekly: Will future unicorns go public sooner?
+  - Palantir and the great revenue mystery
      <hr/>
      
-      - *The public markets are staying receptive to tech IPOs, and tech unicorns are trying to recover from pandemic damage, polish up their financials, and head back towards the starting gates. This week, it’s Airbnb and Palantir, finally. Both have been startup ico…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. You can subscribe to the newsletter here if you haven’t yet. R…*
      
+  - Startups Weekly: Will future unicorns go public sooner?
+      <hr/>
+      
+      - *The public markets are staying receptive to tech IPOs, and tech unicorns are trying to recover from pandemic damage, polish up their financials, and head back towards the starting gates. This week, it’s Airbnb and Palantir, finally. Both have been startup ico…*
+      
   - Launched with $17 million by two former Norwest investors, Tau Ventures is ready for its closeup
       <hr/>
       
@@ -71,16 +76,11 @@ To be successful, you want to surround yourself with very talented folks whose s
       <hr/>
       
       - *Apple’s a hard company to like these days. Their glory days behind them, they have relentlessly pursued a misguided concept of optimization that has alienated their user base and compromised their products. A MacBook SE would go a long way toward smoothing th…*
-      
+       
   - Bletchley Park, birth-place of the computer, faces uncertain future after pandemic hits income
       <hr/>
-      
-      - *Bletchley Park is an English country house that became the principal centre of Allied code-breaking during the Second World War. It built the world’s first programmable digital electronic computer, cracking the Enigma Machine and thus helping turn the tide of…*
        
-  - Hear from experienced edtech investors on the market’s overnight boom
-      <hr/>
-       
-       - *Edtech’s reputation has been revitalized due to the coronavirus pandemic, which forced millions of students to adopt remote education overnight. But behind the scramble is a crop of investors who have long invested in the space — before it became cool. To bet…*
+       - *Bletchley Park is an English country house that became the principal centre of Allied code-breaking during the Second World War. It built the world’s first programmable digital electronic computer, cracking the Enigma Machine and thus helping turn the tide of…*
       
 
 <br />
