@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 
-~ Leslie Lamport
+~ Lawrence Flon
 <pre>
 
 </pre>
