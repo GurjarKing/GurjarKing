@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 
-~ Paul Graham (programmer)
+~ John Warnock
 <pre>
 
 </pre>
