@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
-~ Charles Simonyi
+~ Richard Stallman
 <pre>
 
 </pre>
