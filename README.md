@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A number of studies have shown testing not very effective at finding bugs.
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 
-~ Daniel T. Barry
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
