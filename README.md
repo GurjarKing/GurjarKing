@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+Programming is at least as difficult as developing a mathematical theory.
 
-~ Vannevar Bush
+~ Daniel T. Barry
 <pre>
 
 </pre>
