@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Beware of bugs in the above code; I have only proved it correct, not tried it.
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 
-~ Donald Knuth
+~ Anonymous
 <pre>
 
 </pre>
