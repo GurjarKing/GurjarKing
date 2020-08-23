@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 
-~ John Carmack
+~ Ted Nelson
 <pre>
 
 </pre>
