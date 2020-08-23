@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-We need to be super careful with AI. Potentially more dangerous than nukes.
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 
-~ Elon Musk
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
