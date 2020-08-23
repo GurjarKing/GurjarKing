@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+Talk is cheap. Show me the code.
 
-~ Joseph Yoder (computer scientist)
+~ Linus Torvalds
 <pre>
 
 </pre>
