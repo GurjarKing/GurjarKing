@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 
-~ Edsger W. Dijkstra
+~ Martin Fowler
 <pre>
 
 </pre>
