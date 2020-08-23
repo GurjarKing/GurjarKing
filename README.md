@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-From an artistic standpoint, the best software comes from the realm of intuition.
+Everybody should learn to program a computer, because it teaches you how to think.
 
-~ Bob Carr
+~ Steve Jobs
 <pre>
 
 </pre>
