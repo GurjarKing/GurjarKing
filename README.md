@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 
-~ David Parnas
+~ John Warnock
 <pre>
 
 </pre>
