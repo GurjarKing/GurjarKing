@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Programming is at least as difficult as developing a mathematical theory.
+From an artistic standpoint, the best software comes from the realm of intuition.
 
-~ Daniel T. Barry
+~ Bob Carr
 <pre>
 
 </pre>
