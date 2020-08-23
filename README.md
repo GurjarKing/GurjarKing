@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Everybody should learn to program a computer, because it teaches you how to think.
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 
-~ Steve Jobs
+~ John von Neumann
 <pre>
 
 </pre>
