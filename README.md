@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-~ John Warnock
+~ Donald Knuth
 <pre>
 
 </pre>
