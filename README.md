@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
 
-~ Linus Torvalds
+~ David Parnas
 <pre>
 
 </pre>
