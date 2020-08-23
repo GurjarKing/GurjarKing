@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-No code is faster than no code.
+Programs must be written for people to read, and only incidentally for machines to execute.
 
-~ Kevlin Henney
+~ Hal Abelson
 <pre>
 
 </pre>
