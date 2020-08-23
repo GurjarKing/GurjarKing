@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Programs must be written for people to read, and only incidentally for machines to execute.
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 
-~ Hal Abelson
+~ John Carmack
 <pre>
 
 </pre>
