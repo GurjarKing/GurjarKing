@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
 
-~ Anonymous
+~ Gary Kildall
 <pre>
 
 </pre>
