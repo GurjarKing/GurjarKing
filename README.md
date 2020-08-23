@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+We need to be super careful with AI. Potentially more dangerous than nukes.
 
-~ Joseph Yoder (computer scientist)
+~ Elon Musk
 <pre>
 
 </pre>
