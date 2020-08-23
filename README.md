@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+To iterate is human, to recurse divine.
 
-~ Ted Nelson
+~ L. Peter Deutsch
 <pre>
 
 </pre>
