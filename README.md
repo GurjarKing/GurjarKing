@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Simplicity is prerequisite for reliability.
+No code is faster than no code.
 
-~ Edsger W. Dijkstra
+~ Kevlin Henney
 <pre>
 
 </pre>
