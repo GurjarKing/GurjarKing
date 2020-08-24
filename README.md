@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Computer programs are the most complex things that humans make.
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 
-~ Douglas Crockford
+~ Donald Knuth
 <pre>
 
 </pre>
