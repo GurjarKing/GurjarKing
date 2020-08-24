@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
+No code is faster than no code.
 
-~ Gary Kildall
+~ Kevlin Henney
 <pre>
 
 </pre>
