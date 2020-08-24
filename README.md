@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+Computer programs are the most complex things that humans make.
 
-~ Fred Brooks
+~ Douglas Crockford
 <pre>
 
 </pre>
