@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-When in doubt, leave it out.
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 
-~ Joshua Bloch
+~ Carl Friedrich Gauss
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ When in doubt, leave it out.
 </pre>
 <strong>Daily News</strong>
   
-  - Startup Alley exhibitors: register for VC-led Fundraising & Hiring Best Practices webinar
+  - Mastercard acquired and shut down IfOnly, an experiences marketplace hit by Covid-19
      <hr/>
      
-      - *It’s a classic “last but not least” moment for the all the savvy early-stage startup founders exhibiting in Digital Startup Alley at Disrupt 2020. The final webinar in our three-part interactive series takes place on August 26 at 1pm PT / 4pm ET]. Don’t forge…*
+      - *Travel has undoubtedly been one of the industries hardest hit in the coronavirus pandemic, constrained by restrictions on how people can move between and within countries, many venues closing, new rules to minimise gatherings, shrinking economies, and a gener…*
      
-  - Ever, once accused of building facial recognition tech using customer data, shuts down consumer app
+  - With $11 million in fresh capital, Bolt Bikes rebrands to Zoomo
       <hr/>
       
-      - *Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants. Las…*
+      - *Bolt Bikes, the electric bike platform marketed to gig economy delivery workers, has a new name and a fresh injection of $11 million in capital from a Series A funding round led by Australian Clean Energy Finance Corporation. The round also included equity fr…*
       
-  - Facebook to pay $125 million in back taxes in France, report says
+  - Extra Crunch discount now available for military, nonprofits and government employees
       <hr/>
       
-      - *Facebook France is going to pay $125 million (€106 million) in back taxes according to business magazine Capital — Facebook confirmed the agreement to both Capital and Reuters. French tax authorities raided Facebook’s offices in Paris in 2012 and later opened…*
+      - *We’re excited to announce that government, nonprofit and military employees can get an Extra Crunch membership at a discounted rate of $50 per year, plus tax. If interested in claiming the deal, please contact our customer service team from your .org, .gov, .…*
       
-  - Sequoia strikes gold with Unity’s IPO filing
+  - Earn the best backlinks with high-quality content and digital PR
       <hr/>
       
-      - *A big payday is on the way for Sequoia and its partners, assuming they beat the final boss. Today after much anticipation, video game engine Unity filed its Form S-1 with the SEC as it prepares a roadshow to go public in the coming weeks. We discussed quite a…*
+      - *Amanda Milligan Contributor Share on Twitter Amanda Milligan is the marketing director at Fractl, a prominent growth marketing agency that’s helped Fortune 500 companies and boutique businesses alike earn quality media coverage, backlinks, awareness and autho…*
        
-  - Red Antler's Emily Heyward explains how to get people obsessed with your brand
+  - Startup Alley exhibitors: register for VC-led Fundraising & Hiring Best Practices webinar
       <hr/>
        
-       - *If you’re currently building a startup, you know what product you want to build. But do you know if people are actually going to notice you? That’s the question I asked of Red Antler co-founder Emily Heyward during our virtual TechCrunch Early Stage event. In…*
+       - *It’s a classic “last but not least” moment for the all the savvy early-stage startup founders exhibiting in Digital Startup Alley at Disrupt 2020. The final webinar in our three-part interactive series takes place on August 26 at 1pm PT / 4pm ET]. Don’t forge…*
       
 
 <br />
