@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+Just because you've implemented something doesn't mean you understand it.
 
-~ Michael Hawley
+~ Brian Cantwell Smith
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ What I like about programming is that it really helps you think about how we com
 </pre>
 <strong>Daily News</strong>
   
-  - Red Antler's Emily Heyward explains how to get people obsessed with your brand
+  - Facebook to pay $125 million in back taxes in France, report says
      <hr/>
      
-      - *If you’re currently building a startup, you know what product you want to build. But do you know if people are actually going to notice you? That’s the question I asked of Red Antler co-founder Emily Heyward during our virtual TechCrunch Early Stage event. In…*
+      - *Facebook France is going to pay $125 million (€106 million) in back taxes according to business magazine Capital — Facebook confirmed the agreement to both Capital and Reuters. French tax authorities raided Facebook’s offices in Paris in 2012 and later opened…*
      
+  - Sequoia strikes gold with Unity’s IPO filing
+      <hr/>
+      
+      - *A big payday is on the way for Sequoia and its partners, assuming they beat the final boss. Today after much anticipation, video game engine Unity filed its Form S-1 with the SEC as it prepares a roadshow to go public in the coming weeks. We discussed quite a…*
+      
+  - Red Antler's Emily Heyward explains how to get people obsessed with your brand
+      <hr/>
+      
+      - *If you’re currently building a startup, you know what product you want to build. But do you know if people are actually going to notice you? That’s the question I asked of Red Antler co-founder Emily Heyward during our virtual TechCrunch Early Stage event. In…*
+      
   - TikTok sues the U.S. government over its forthcoming ban
       <hr/>
       
       - *TikTok is suing the U.S. government in federal court over the Trump Administration’s decision to ban TikTok in the U.S. market. Reports that TikTok would soon file a legal challenge to the ban were already making the rounds this weekend, ahead of TikTok’s for…*
-      
+       
   - Unpacking the Sumo Logic S-1 filing
       <hr/>
-      
-      - *Setting our dive into Palantir’s gross margins aside for another day, Sumo Logic filed to go public this morning. The Redwood City-based, former startup raised around $340 million while private, according to Crunchbase data. The Exchange explores startups, ma…*
-      
-  - Two weeks left on early-bird pricing for TC Sessions: Mobility 2020
-      <hr/>
-      
-      - *It’s time to mobilize for early-bird savings on passes to the all-virtual TC Sessions Mobility 2020, which takes place October 6-7. Prices will continue to increase as the event draws near. Buy your pass before September 4 at 11:59 p.m. (PT) and you’ll save $…*
        
-  - Five real reasons to attend Disrupt 2020 online
-      <hr/>
-       
-       - *Why should you attend Disrupt 2020? We live in unprecedented times and face unprecedented challenges. But unprecedented opportunities are also part of this equation, and now is the time for creative startup minds and makers to go full-tilt disruptive. We reen…*
+       - *Setting our dive into Palantir’s gross margins aside for another day, Sumo Logic filed to go public this morning. The Redwood City-based, former startup raised around $340 million while private, according to Crunchbase data. The Exchange explores startups, ma…*
       
 
 <br />
