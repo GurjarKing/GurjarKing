@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+A programming language is low level when its programs require attention to the irrelevant.
 
-~ Edsger W. Dijkstra
+~ Alan Perlis
 <pre>
 
 </pre>
