@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Danny Hillis
+~ Ted Nelson
 <pre>
 
 </pre>
