@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+Cleaning code does NOT take time. NOT cleaning code does take time.
 
-~ Ted Nelson
+~ Robert C. Martin
 <pre>
 
 </pre>
