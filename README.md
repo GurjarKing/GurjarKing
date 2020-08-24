@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
-~ David Parnas
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ I have found that the reason a lot of people are interested in artificial intell
 </pre>
 <strong>Daily News</strong>
   
-  - Zoom meetings hit by outage
+  - Equity Monday: YC Demo Day, two funding rounds, and where's Palantir's S-1?
      <hr/>
      
-      - *Zoom video calls and webinars are also suffering because of the outage.*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
      
-  - Conan is coming to Disrupt 2020
+  - Meet the anti-antitrust startup club
       <hr/>
       
-      - *In 2010, TV show host Conan O’Brien was abruptly asked to give up the time slot he’d been handed just six months earlier by his longtime employer NBC. Instead, he famously gave the network the figurative finger, taking his act to the basic cable network TBS l…*
+      - *More entrepreneurs and investors are willing to throw caution to the wind and go after core segments like search, email and video conferencing with gusto.*
       
-  - SugarCRM acquires Node to gain predictive customer intelligence
+  - Yac gets backed by Slack to bring the intimacy of voice back when remote co-workers interact
       <hr/>
       
-      - *SugarCRM announced this morning it has acquired customer intelligence startup, Node. The companies did not reveal the purchase price, but the deal has closed. While Sugar gains a ton of AI expertise, it also adds a customer prediction element to the platform …*
+      - *Yac, the digital voice messaging service that launched last year, has raised new money from the Slack Fund as it continues to gain ground among companies looking to give their employees new communication tools for remote working. The Florida-based startup ini…*
       
-  - The Station: Canoo paddles into the SPAC current and the next threat to micro mobility
+  - 3 thoughts after 24 hours in the $177,000 Bentley Bentayga
       <hr/>
       
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+      - *Long story short, I borrowed a new Bentley Bentayga for 24 hours. What follows is a brief overview of the $177,000 sport utility vehicle. As I had the vehicle for a short time, I was unable to dive deep into the SUV, and it feels disingenuous to write a full …*
        
-  - Pinduoduo's latest aim: sell $145 billion farm produce in 2025
+  - Zoom meetings hit by outage
       <hr/>
        
-       - *Still working to turn a profit and shake off its fake-goods reputation, China’s e-commerce upstart Pinduoduo set itself another ambitious goal for 2025: surpass 1 trillion yuan or $145 billion annual gross merchandise volume of agricultural products. The anno…*
+       - *Zoom video calls and webinars are also suffering because of the outage.*
       
 
 <br />
