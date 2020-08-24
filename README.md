@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 
-~ Tim Berners-Lee
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ What's very important from my point of view is that there is one web. Anyone tha
 </pre>
 <strong>Daily News</strong>
   
-  - A quick peek at Snowflake's IPO filing
+  - Sutter Hill strikes ice-cold, $2.5B pre-market return with Snowflake’s IPO filing
      <hr/>
      
-      - *Snowflake filed to go public today joining a bushel of companies making their S-1 documents public today. TechCrunch has a longer digest of all the IPO filings coming soon, but we could not wait to get into the Snowflake numbers given the huge anticipation th…*
+      - *Today is the day for huge VC returns. We talked a bit about Sequoia’s coming huge win with the IPO of game engine Unity this morning. Now, Sequoia might actually have the second largest return among companies filing to go public with the SEC today. Sequoia st…*
      
+  - A quick peek at Snowflake's IPO filing
+      <hr/>
+      
+      - *Snowflake filed to go public today joining a bushel of companies making their S-1 documents public today. TechCrunch has a longer digest of all the IPO filings coming soon, but we could not wait to get into the Snowflake numbers given the huge anticipation th…*
+      
   - Unity's IPO numbers look pretty ... unreal?
       <hr/>
       
@@ -71,16 +76,11 @@ What's very important from my point of view is that there is one web. Anyone tha
       <hr/>
       
       - *Triller, an app that functions similarly to TikTok, has inked a strategic partnership with a platform owned by India’s richest man to cash in on the Chinese app’s ban in its biggest international market. The Los Angeles-headquartered firm said on Monday it ha…*
-      
+       
   - Mastercard acquired and shut down IfOnly, an experiences marketplace hit by Covid-19
       <hr/>
-      
-      - *Travel has undoubtedly been one of the industries hardest hit in the coronavirus pandemic, constrained by restrictions on how people can move between and within countries, many venues closing, new rules to minimise gatherings, shrinking economies, and a gener…*
        
-  - With $11 million in fresh capital, Bolt Bikes rebrands to Zoomo
-      <hr/>
-       
-       - *Bolt Bikes, the electric bike platform marketed to gig economy delivery workers, has a new name and a fresh injection of $11 million in capital from a Series A funding round led by Australian Clean Energy Finance Corporation. The round also included equity fr…*
+       - *Travel has undoubtedly been one of the industries hardest hit in the coronavirus pandemic, constrained by restrictions on how people can move between and within countries, many venues closing, new rules to minimise gatherings, shrinking economies, and a gener…*
       
 
 <br />
