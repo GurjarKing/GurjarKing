@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-No code is faster than no code.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Kevlin Henney
+~ Fred Brooks
 <pre>
 
 </pre>
