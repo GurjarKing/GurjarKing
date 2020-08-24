@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-For most software, efficiency just does not matter.
+Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 
-~ Daniel T. Barry
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ For most software, efficiency just does not matter.
 </pre>
 <strong>Daily News</strong>
   
-  - The Station: Canoo paddles into the SPAC current and the next threat to micro mobility
+  - Conan is coming to Disrupt 2020
      <hr/>
      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+      - *In 2010, TV show host Conan O’Brien was abruptly asked to give up the time slot he’d been handed just six months earlier by his longtime employer NBC. Instead, he famously gave the network the figurative finger, taking his act to the basic cable network TBS l…*
      
+  - SugarCRM acquires Node to gain predictive customer intelligence
+      <hr/>
+      
+      - *SugarCRM announced this morning it has acquired customer intelligence startup, Node. The companies did not reveal the purchase price, but the deal has closed. While Sugar gains a ton of AI expertise, it also adds a customer prediction element to the platform …*
+      
+  - The Station: Canoo paddles into the SPAC current and the next threat to micro mobility
+      <hr/>
+      
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+      
   - Pinduoduo's latest aim: sell $145 billion farm produce in 2025
       <hr/>
       
       - *Still working to turn a profit and shake off its fake-goods reputation, China’s e-commerce upstart Pinduoduo set itself another ambitious goal for 2025: surpass 1 trillion yuan or $145 billion annual gross merchandise volume of agricultural products. The anno…*
-      
+       
   - Twitter hides Trump tweet behind notice for potentially dissuading people from voting
       <hr/>
-      
-      - *Twitter flagged one of President Donald Trump’s tweets on Monday, placing it behind a notice that warns users it violates the platform’s rules against dissuading people from voting. In the tweet, posted on Monday, Trump claimed mail drop boxes are a “voter se…*
-      
-  - Osmind pitches clinical management and data analysis for mental health practices using psychedelics
-      <hr/>
-      
-      - *Jimmy Qian and Lucia Huang, the co-founders of a new clinical practice management and data analysis platform for mental health providers focusing on cutting edge psychedelic treatments, met at Stanford University.  The two both come from healthcare background…*
        
-  - Palantir and the great revenue mystery
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. You can subscribe to the newsletter here if you haven’t yet. R…*
+       - *Twitter flagged one of President Donald Trump’s tweets on Monday, placing it behind a notice that warns users it violates the platform’s rules against dissuading people from voting. In the tweet, posted on Monday, Trump claimed mail drop boxes are a “voter se…*
       
 
 <br />
