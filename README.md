@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+For most software, efficiency just does not matter.
 
-~ Elon Musk
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ The path to the CEO's office should not be through the CFO's office, and it shou
 </pre>
 <strong>Daily News</strong>
   
-  - Pinduoduo's latest aim: sell $145 billion farm produce in 2025
+  - The Station: Canoo paddles into the SPAC current and the next threat to micro mobility
      <hr/>
      
-      - *Still working to turn a profit and shake off its fake-goods reputation, China’s e-commerce upstart Pinduoduo set itself another ambitious goal for 2025: surpass 1 trillion yuan or $145 billion annual gross merchandise volume of agricultural products. The anno…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
      
+  - Pinduoduo's latest aim: sell $145 billion farm produce in 2025
+      <hr/>
+      
+      - *Still working to turn a profit and shake off its fake-goods reputation, China’s e-commerce upstart Pinduoduo set itself another ambitious goal for 2025: surpass 1 trillion yuan or $145 billion annual gross merchandise volume of agricultural products. The anno…*
+      
   - Twitter hides Trump tweet behind notice for potentially dissuading people from voting
       <hr/>
       
@@ -71,16 +76,11 @@ The path to the CEO's office should not be through the CFO's office, and it shou
       <hr/>
       
       - *Jimmy Qian and Lucia Huang, the co-founders of a new clinical practice management and data analysis platform for mental health providers focusing on cutting edge psychedelic treatments, met at Stanford University.  The two both come from healthcare background…*
-      
+       
   - Palantir and the great revenue mystery
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. You can subscribe to the newsletter here if you haven’t yet. R…*
        
-  - Startups Weekly: Will future unicorns go public sooner?
-      <hr/>
-       
-       - *The public markets are staying receptive to tech IPOs, and tech unicorns are trying to recover from pandemic damage, polish up their financials, and head back towards the starting gates. This week, it’s Airbnb and Palantir, finally. Both have been startup ico…*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. You can subscribe to the newsletter here if you haven’t yet. R…*
       
 
 <br />
