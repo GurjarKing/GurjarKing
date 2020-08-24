@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Fred Brooks
+~ Quarry worker's creed
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Very good professional programmers are ten times as productive as poor ones, at 
 </pre>
 <strong>Daily News</strong>
   
-  - Equity Monday: YC Demo Day, two funding rounds, and where's Palantir's S-1?
+  - Two weeks left on early-bird pricing for TC Sessions: Mobility 2020
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *It’s time to mobilize for early-bird savings on passes to the all-virtual TC Sessions Mobility 2020, which takes place October 6-7. Prices will continue to increase as the event draws near. Buy your pass before September 4 at 11:59 p.m. (PT) and you’ll save $…*
      
-  - Meet the anti-antitrust startup club
+  - Five real reasons to attend Disrupt 2020 online
       <hr/>
       
-      - *More entrepreneurs and investors are willing to throw caution to the wind and go after core segments like search, email and video conferencing with gusto.*
+      - *Why should you attend Disrupt 2020? We live in unprecedented times and face unprecedented challenges. But unprecedented opportunities are also part of this equation, and now is the time for creative startup minds and makers to go full-tilt disruptive. We reen…*
       
-  - Yac gets backed by Slack to bring the intimacy of voice back when remote co-workers interact
+  - COVID-19 pandemic accelerated shift to e-commerce by 5 years, new report says
       <hr/>
       
-      - *Yac, the digital voice messaging service that launched last year, has raised new money from the Slack Fund as it continues to gain ground among companies looking to give their employees new communication tools for remote working. The Florida-based startup ini…*
+      - *As the COVID-19 pandemic reshaped our world, more consumers have begun shopping online in greater numbers and frequency. According to new data from IBM’s U.S. Retail Index, the pandemic has accelerated the shift away from physical stores to digital shopping b…*
       
-  - 3 thoughts after 24 hours in the $177,000 Bentley Bentayga
+  - Cloudera pulls sensitive files from its 'open by design' cloud servers
       <hr/>
       
-      - *Long story short, I borrowed a new Bentley Bentayga for 24 hours. What follows is a brief overview of the $177,000 sport utility vehicle. As I had the vehicle for a short time, I was unable to dive deep into the SUV, and it feels disingenuous to write a full …*
+      - *A security researcher found credentials, account access tokens, and passwords.*
        
-  - Zoom meetings hit by outage
+  - Lidar startup Luminar to go public via $3.4 billion SPAC merger
       <hr/>
        
-       - *Zoom video calls and webinars are also suffering because of the outage.*
+       - *Luminar, the lidar startup that burst onto the autonomous vehicle scene in April 2017 after operating for years in secrecy, is merging with special-purpose acquisition company Gores Metropoulos Inc., with a post-deal market valuation of $3.4 billion. Gores Me…*
       
 
 <br />
