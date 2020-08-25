@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+C is quirky, flawed, and an enormous success.
 
-~ Maurice Wilkes
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ By June 1949 people had begun to realize that it was not so easy to get programs
 </pre>
 <strong>Daily News</strong>
   
-  - Here are the 94 companies from Y Combinator's Summer 2020 Demo Day 2
+  - Axon delivers new tech for police, but is more tools really what cops need?
      <hr/>
      
-      - *And we’re back! Today was part two of Y Combinator’s absolutely massive Demo Day(s) event for its Summer 2020 class. As we outlined yesterday, this is the first YC accelerator class to take place entirely online, from the day zero interviews all the way on th…*
+      - *Axon, the company formerly known as Taser and which provides the majority of police body cameras, has a few new tech tools for cops that could cut down on paperwork and improve response times. But at a time when the fundamental means and mission of police is …*
      
+  - Max Schrems on the EU court ruling that could cut Facebook in two
+      <hr/>
+      
+      - *Last month’s ruling by the Court of Justice of the European Union (CJEU), ripping up the EU-US Privacy Shield and sewing doubt over alternative mechanisms, has put a cat among the pigeons of international data transfers. For Facebook the impact could fall lik…*
+      
+  - Daily Crunch: Judge says Apple can't block Unreal Engine
+      <hr/>
+      
+      - *Epic Games wins a victory against Apple, Fitbit announces a new smartwatch and Microsoft Word adds a transcription feature. This is your Daily Crunch for August 25, 2020. The big story: Judge says Apple can’t block Unreal Engine U.S. District Court Judge Yvon…*
+      
+  - Here are the 94 companies from Y Combinator's Summer 2020 Demo Day 2
+      <hr/>
+      
+      - *And we’re back! Today was part two of Y Combinator’s absolutely massive Demo Day(s) event for its Summer 2020 class. As we outlined yesterday, this is the first YC accelerator class to take place entirely online, from the day zero interviews all the way on th…*
+       
   - Muze redesigns mobile messaging as a free-form canvas for creativity
       <hr/>
-      
-      - *New York-based startup Muze is rethinking mobile messaging. While today’s messaging apps have expanded over the years to include support for sharing photos and videos, voice messages, reactions and more, Muze has fully redesigned the traditional messaging exp…*
-      
-  - Our 12 favorite startups from Y Combinator's S20 Demo Day: Part 2
-      <hr/>
-      
-      - *Figma for filmmakers, TikTok for English learners and a cryptocurrency twist that actually makes sense? After 197 pitches, Y Combinator’s Demo Day for its Summer 2020 cohort has concluded. While the fanfare, run-ins and fortune cookies were missing in this vi…*
-      
-  - Porsche experiments with subscription pricing, expands to Los Angeles
-      <hr/>
-      
-      - *Porsche is rolling out a less expensive subscription plan in four U.S. cities as the German automaker experiments with different pricing and products in an effort to expand its customer base. Porsche now has three plans, or tiers, that are all housed under it…*
        
-  - XYZ Robotics raises $17M for its pick-and-place logistics robots
-      <hr/>
-       
-       - *COVID-19 is proving to be a massive driver for robotics investments — and for good reason. Robots don’t call in sick, and they’re far less likely to be disease vectors than their human counterparts. Companies attempting to keep the lights on during this and p…*
+       - *New York-based startup Muze is rethinking mobile messaging. While today’s messaging apps have expanded over the years to include support for sharing photos and videos, voice messages, reactions and more, Muze has fully redesigned the traditional messaging exp…*
       
 
 <br />
