@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Tim Berners-Lee
+~ Pete Cordell
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ To be a hacker - when I use the term - is somebody who is creative and does wond
 </pre>
 <strong>Daily News</strong>
   
-  - Connected Roombas get smarter with iRobot’s ‘Genius’ update
+  - Supermetrics raises €40M to bring all your marketing data together
      <hr/>
      
-      - *For iRobot, much of the last several years has been devoted to making its line of home-cleaning robots smarter. There hasn’t been much in the way of new hardware in a while, as the company focuses on things like connectivity, smart home integration and smarte…*
+      - *Supermetrics, the data management and analysis tool for marketers, has raised €40 million in new funding. Leading the round is Highland Europe, with participation from IVP, while the injection of capital will be used by the profitable Finland-based company fo…*
      
+  - After restricting a group critical of Thailand's monarchy, Facebook says it will take legal action against the government
+      <hr/>
+      
+      - *After restricting access to a popular group with posts critical of Thailand’s monarchy, Facebook is planning legal action against the Thai government, which the social media giant says forced it to restrict content deemed to be illegal. On Monday, Reuters rep…*
+      
+  - Connected Roombas get smarter with iRobot’s ‘Genius’ update
+      <hr/>
+      
+      - *For iRobot, much of the last several years has been devoted to making its line of home-cleaning robots smarter. There hasn’t been much in the way of new hardware in a while, as the company focuses on things like connectivity, smart home integration and smarte…*
+      
   - MIT wireless system can monitor what care facility residents are doing while preserving privacy
       <hr/>
       
       - *Researchers at MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) have developed a way for a fully wireless system to monitor not only movement and vital signs contact-free, but also to track activities – in a more privacy-preserving way without u…*
-      
+       
   - Palantir's S-1 alludes to controversial work with ICE as a risk factor for its business
       <hr/>
-      
-      - *Palantir’s mysterious work and its founding origins with Trump ally and anti-press crusader Peter Thiel have inspired a number of controversies in recent years, none as divisive as its ongoing business with ICE. But with a direct listing around the corner, th…*
-      
-  - As losses expand, Asana is confident it has the ticket for a successful public listing
-      <hr/>
-      
-      - *Asana, the project management software developer, dropped its filing for a direct listing on one of the busiest days of a surprisingly busy late summer. The task management toolkit provider started by Facebook co-founder Dustin Moskovitz and early FB employee…*
        
-  - Xwing plans short, regional flights for its autonomous cargo planes
-      <hr/>
-       
-       - *The path to deploying commercial aircraft that can handle all aspects of flight without a pilot is long, winding, expensive and riddled with regulatory and technical hurdles. Marc Piette, the founder of autonomous aviation startup Xwing, aims to make that pat…*
+       - *Palantir’s mysterious work and its founding origins with Trump ally and anti-press crusader Peter Thiel have inspired a number of controversies in recent years, none as divisive as its ongoing business with ICE. But with a direct listing around the corner, th…*
       
 
 <br />
