@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The best thing about a boolean is even if you are wrong, you are only off by a bit.
+Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 
-~ Anonymous
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ The best thing about a boolean is even if you are wrong, you are only off by a b
 </pre>
 <strong>Daily News</strong>
   
-  - Self-charging, thousand-year battery startup NDB aces key tests and lands first beta customers
+  - Chinese commercial launch startup iSpace raises $172 million
      <hr/>
      
-      - *Pleasanton-based green energy startup NDB, Inc. has reached a key milestone today with the completion of two proof of concept tests of its nano diamond battery (NDB). One of these tests took place at the Lawrence Livermore National Laboratory, and the other a…*
+      - *The private launch industry isn’t showing any signs of slowing down, and a new $172 million Series B round of funding for China commercial launch startup iSpace indicates it could be heating up internationally. The new funding was led by Beijing Financial Str…*
      
-  - Amazon rolls out a new AR shopping feature for viewing multiple items at once
+  - Meet the Disrupt 2020 "TC10"
       <hr/>
       
-      - *Amazon is rolling out a new augmented reality shopping tool, Room Decorator, that will allow you to see furniture and other home decor in their own space. While the retailer had experimented with AR tools in the past, what makes Room Decorator different is th…*
+      - *If 2020 hasn’t been wild enough, there’s an extra special twist going down at Disrupt 2020 beyond the fact that, for the first time ever, the conference will be fully virtual. It also happens to be the show’s 10th anniversary. Time flies when you’re changing …*
       
-  - Google Cloud Anthos update brings support for on-prem, bare metal
+  - COVID-19 blamed as smartphone sales plummet 20% in Q2
       <hr/>
       
-      - *When Google announced Anthos last year at Google Cloud Next, it was a pretty big deal. Here was a cloud company releasing a product that purported to help you move your applications between cloud companies like AWS and Azure  — that would be GCP’s competitors…*
+      - *The last couple of years have been tough on the smartphone industry, as sales plateaued and eventually eroded. But nothing could have prepared manufacturers for 2020. This was supposed to be the year numbers began bouncing back, courtesy of 5G and some radica…*
       
-  - Level Home introduces Level Touch, a sleek smart lock that doesn't advertise its intelligence
+  - MIT CSAIL grad launches machine learning platform with $10M Series A
       <hr/>
       
-      - *Hardware startup Level introduced their first product earlier this year, and now they’re already following it up with a brand new smart lock. The original Level Lock broke new ground in the smart lock category with an invisible design that works with a range …*
+      - *Manasi Vartak, founder and CEO of Verta, conceived of the idea of the open source project ModelDB database as a way to track versions of machine models while she was still in grad school at MIT. After she graduated, she decided to expand on that vision to bui…*
        
-  - Calling Paris VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Rideshare and taxi ad startup Firefly acquires Strong Outdoor’s out-of-home ad business
       <hr/>
        
-       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Paris will capture how the city is faring, and what changes are being wrought amongst investor…*
+       - *Firefly is expanding its ad business in New York City by acquiring the out-of-home business of Strong Outdoor, as well as by becoming the advertising partner for fleet operator Sally. Firefly launched in 2018 by offering Uber and Lyft drivers a digital displa…*
       
 
 <br />
