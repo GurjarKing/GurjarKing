@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+I care not only what the code says but how it looks.
 
-~ Tim Berners-Lee
+~ Peter Roizen
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ What's very important from my point of view is that there is one web. Anyone tha
 </pre>
 <strong>Daily News</strong>
   
-  - How to establish a startup and draw up your first contract
+  - Investment tech won’t solve systemic wealth gaps, but it’s a good start
      <hr/>
      
-      - *Founders are encouraged, incentivized and pressured to begin transacting with customers as quickly as possible to drive growth and revenue. But making legal mistakes early in the game can create costly liabilities down the road. That’s why we invited James Al…*
+      - *It goes without saying that tech alone won’t change deeply embedded structures, but it sure can open a lot of doors.*
      
+  - Waymo's Boris Sofman and TuSimple's Xiaodi Hou to join us at TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *One of the areas of autonomous driving technology with the most potential to have a near-term and dramatic impact remains trucking: There’s a growing lack of drivers for long-haul routes, and highway trucking remains a relatively uncomplicated (though still v…*
+      
+  - Industry experts say it's full speed ahead as Snowflake files S-1 to go public
+      <hr/>
+      
+      - *When Snowflake filed its S-1 to go public yesterday, it wasn’t exactly a shock. The company which raised $1.4 billion had been valued at $12.4 billion in its last private raise in February. CEO Frank Slootman, who had taken over from Bob Muglia in May last ye…*
+      
+  - How to establish a startup and draw up your first contract
+      <hr/>
+      
+      - *Founders are encouraged, incentivized and pressured to begin transacting with customers as quickly as possible to drive growth and revenue. But making legal mistakes early in the game can create costly liabilities down the road. That’s why we invited James Al…*
+       
   - As DevOps takes off, site reliability engineers are flying high
       <hr/>
-      
-      - *Jason Kong Contributor Jason Kong is an Investor at IVP, where he focuses on identifying and evaluating later-stage enterprise and consumer technology investments. Cack Wilhelm Contributor Share on Twitter Cack Wilhelm is a partner at IVP who focuses on growt…*
-      
-  - Turing raises $14M to help source, vet, place and manage remote developers in tech jobs
-      <hr/>
-      
-      - *The emergence, and now seemingly extended presence, of the novel coronavirus health pandemic has made remote working into a pretty standard part of office life for so-called knowledge workers. Today, a startup that has built a labor marketplace to help compan…*
-      
-  - Decrypted: Uber's former security chief charged, FBI's 'vishing' warning
-      <hr/>
-      
-      - *Decrypted, this week, looks at the week in security news.*
        
-  - Facebook changes name of its annual VR event and its overall AR/VR organization
-      <hr/>
-       
-       - *Facebook is moving further away from the Oculus brand. The company says it is changing the name of their augmented reality and virtual reality division to “Facebook Reality Labs,” a division which will encompass the company’s AR/VR products under the Oculus, …*
+       - *Jason Kong Contributor Jason Kong is an Investor at IVP, where he focuses on identifying and evaluating later-stage enterprise and consumer technology investments. Cack Wilhelm Contributor Share on Twitter Cack Wilhelm is a partner at IVP who focuses on growt…*
       
 
 <br />
