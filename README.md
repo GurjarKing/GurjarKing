@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
