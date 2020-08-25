@@ -44,7 +44,7 @@
 
 **Quote of the hour:**
 
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
 
 ~ Fred Brooks
 <pre>
@@ -57,30 +57,30 @@ Adding people to a software project increases the total effort necessary in thre
 </pre>
 <strong>Daily News</strong>
   
-  - Chinese commercial launch startup iSpace raises $172 million
+  - Carbon Health's Eren Bali and Color's Othman Laraki will join us at Disrupt 2020
      <hr/>
      
-      - *The private launch industry isn’t showing any signs of slowing down, and a new $172 million Series B round of funding for China commercial launch startup iSpace indicates it could be heating up internationally. The new funding was led by Beijing Financial Str…*
+      - *The COVID-19 pandemic has left no industry untouched, but the healthcare industry is arguably the one that stands to be transformed the most by the ongoing pandemic. At TechCrunch Disrupt 2020, get the perspectives of two founders who’ve created entirely new …*
      
-  - Meet the Disrupt 2020 "TC10"
+  - Facebook is bringing a Shop section to its app, while Instagram expands Live Shopping
       <hr/>
       
-      - *If 2020 hasn’t been wild enough, there’s an extra special twist going down at Disrupt 2020 beyond the fact that, for the first time ever, the conference will be fully virtual. It also happens to be the show’s 10th anniversary. Time flies when you’re changing …*
+      - *Facebook is announcing a number of new e-commerce features both within the main Facebook app and on Instagram. The pandemic has forced many businesses to shift online, and Facebook made a big announcement in May around the ability of merchants to create Faceb…*
       
-  - COVID-19 blamed as smartphone sales plummet 20% in Q2
+  - Azure's Immersive Reader is now generally available
       <hr/>
       
-      - *The last couple of years have been tough on the smartphone industry, as sales plateaued and eventually eroded. But nothing could have prepared manufacturers for 2020. This was supposed to be the year numbers began bouncing back, courtesy of 5G and some radica…*
+      - *Microsoft today announced that Immersive Reader, its service for developers who want to add text-to-speech and reading comprehension tools to their applications, is now generally available. Immersive Reader, which is part of the Azure Cognitive Services suite…*
       
-  - MIT CSAIL grad launches machine learning platform with $10M Series A
+  - Vue’s $179 Lite smart glasses have built-in speakers for music and calls
       <hr/>
       
-      - *Manasi Vartak, founder and CEO of Verta, conceived of the idea of the open source project ModelDB database as a way to track versions of machine models while she was still in grad school at MIT. After she graduated, she decided to expand on that vision to bui…*
+      - *Perhaps some day in the not-so-distant future, we’ll all be wearing smart glasses. Stranger things have happened. And hey, most people were fairly skeptical in the early days of smartwatches. And while I’m not saying that it will definitely take Apple launchi…*
        
-  - Rideshare and taxi ad startup Firefly acquires Strong Outdoor’s out-of-home ad business
+  - Microsoft brings transcriptions to Word
       <hr/>
        
-       - *Firefly is expanding its ad business in New York City by acquiring the out-of-home business of Strong Outdoor, as well as by becoming the advertising partner for fleet operator Sally. Firefly launched in 2018 by offering Uber and Lyft drivers a digital displa…*
+       - *Microsoft today launched Transcribe in Word, its new transcription service for Microsoft 365 subscribers, into general availability. It’s now available in the online version of Word, with other platforms launching later. In addition, Word is also getting new …*
       
 
 <br />
