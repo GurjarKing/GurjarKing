@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 
-~ L. Peter Deutsch
+~ Ted Nelson
 <pre>
 
 </pre>
