@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
-~ Fred Brooks
+~ Anonymous
 <pre>
 
 </pre>
