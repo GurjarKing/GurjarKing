@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 
-~ Pete Cordell
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Telling a programmer there's already a library to do X is like telling a songwri
 </pre>
 <strong>Daily News</strong>
   
-  - Supermetrics raises €40M to bring all your marketing data together
+  - Apple ordered to not block Epic Games' Unreal Engine, but Fortnite to stay off App Store
      <hr/>
      
-      - *Supermetrics, the data management and analysis tool for marketers, has raised €40 million in new funding. Leading the round is Highland Europe, with participation from IVP, while the injection of capital will be used by the profitable Finland-based company fo…*
+      - *A district court denied Epic Games’ motion to temporarily restore Fortnite game to the iOS App Store, but also ordered Apple to not block the gaming giant’s ability to provide and distribute Unreal Engine on the iPhone-maker’s ecosystem in a mixed-ruling Mond…*
      
+  - Supermetrics raises €40M to bring all your marketing data together
+      <hr/>
+      
+      - *Supermetrics, the data management and analysis tool for marketers, has raised €40 million in new funding. Leading the round is Highland Europe, with participation from IVP, while the injection of capital will be used by the profitable Finland-based company fo…*
+      
   - After restricting a group critical of Thailand's monarchy, Facebook says it will take legal action against the government
       <hr/>
       
@@ -71,16 +76,11 @@ Telling a programmer there's already a library to do X is like telling a songwri
       <hr/>
       
       - *For iRobot, much of the last several years has been devoted to making its line of home-cleaning robots smarter. There hasn’t been much in the way of new hardware in a while, as the company focuses on things like connectivity, smart home integration and smarte…*
-      
+       
   - MIT wireless system can monitor what care facility residents are doing while preserving privacy
       <hr/>
-      
-      - *Researchers at MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) have developed a way for a fully wireless system to monitor not only movement and vital signs contact-free, but also to track activities – in a more privacy-preserving way without u…*
        
-  - Palantir's S-1 alludes to controversial work with ICE as a risk factor for its business
-      <hr/>
-       
-       - *Palantir’s mysterious work and its founding origins with Trump ally and anti-press crusader Peter Thiel have inspired a number of controversies in recent years, none as divisive as its ongoing business with ICE. But with a direct listing around the corner, th…*
+       - *Researchers at MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) have developed a way for a fully wireless system to monitor not only movement and vital signs contact-free, but also to track activities – in a more privacy-preserving way without u…*
       
 
 <br />
