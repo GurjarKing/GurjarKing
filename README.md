@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
 
-~ Richard Hamming
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ I always spend a day a week learning new stuff. That means I spend 20% more of m
 </pre>
 <strong>Daily News</strong>
   
-  - Apple ordered to not block Epic Games' Unreal Engine, but Fortnite to stay off App Store
+  - Eduardo Saverin on the 'world of innovation past Silicon Valley'
      <hr/>
      
-      - *A district court denied Epic Games’ motion to temporarily restore Fortnite game to the iOS App Store, but also ordered Apple to not block the gaming giant’s ability to provide and distribute Unreal Engine on the iPhone-maker’s ecosystem in a mixed-ruling Mond…*
+      - *Eduardo Saverin will forever be known for cofounding Facebook 16 years ago with four other Harvard classmates (one of whom is still running the company). But even before splitting in 2009 for Singapore with his shares of the company, Saverin’s attention was o…*
      
+  - Apple ordered to not block Epic Games' Unreal Engine, but Fortnite to stay off App Store
+      <hr/>
+      
+      - *A district court denied Epic Games’ motion to temporarily restore Fortnite game to the iOS App Store, but also ordered Apple to not block the gaming giant’s ability to provide and distribute Unreal Engine on the iPhone-maker’s ecosystem in a mixed-ruling Mond…*
+      
   - Supermetrics raises €40M to bring all your marketing data together
       <hr/>
       
@@ -71,16 +76,11 @@ I always spend a day a week learning new stuff. That means I spend 20% more of m
       <hr/>
       
       - *After restricting access to a popular group with posts critical of Thailand’s monarchy, Facebook is planning legal action against the Thai government, which the social media giant says forced it to restrict content deemed to be illegal. On Monday, Reuters rep…*
-      
+       
   - Connected Roombas get smarter with iRobot’s ‘Genius’ update
       <hr/>
-      
-      - *For iRobot, much of the last several years has been devoted to making its line of home-cleaning robots smarter. There hasn’t been much in the way of new hardware in a while, as the company focuses on things like connectivity, smart home integration and smarte…*
        
-  - MIT wireless system can monitor what care facility residents are doing while preserving privacy
-      <hr/>
-       
-       - *Researchers at MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) have developed a way for a fully wireless system to monitor not only movement and vital signs contact-free, but also to track activities – in a more privacy-preserving way without u…*
+       - *For iRobot, much of the last several years has been devoted to making its line of home-cleaning robots smarter. There hasn’t been much in the way of new hardware in a while, as the company focuses on things like connectivity, smart home integration and smarte…*
       
 
 <br />
