@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The most important single aspect of software development is to be clear about what you are trying to build.
+There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
 
-~ Bjarne Stroustrup
+~ Marijn Haverbeke
 <pre>
 
 </pre>
