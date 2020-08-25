@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Code never lies, comments sometimes do.
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 
-~ Ron Jeffries
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Code never lies, comments sometimes do.
 </pre>
 <strong>Daily News</strong>
   
-  - Decrypted: Uber's former security chief charged, FBI's 'vishing' warning
+  - Turing raises $14M to help source, vet, place and manage remote developers in tech jobs
      <hr/>
      
-      - *Decrypted, this week, looks at the week in security news.*
+      - *The emergence, and now seemingly extended presence, of the novel coronavirus health pandemic has made remote working into a pretty standard part of office life for so-called knowledge workers. Today, a startup that has built a labor marketplace to help compan…*
      
+  - Decrypted: Uber's former security chief charged, FBI's 'vishing' warning
+      <hr/>
+      
+      - *Decrypted, this week, looks at the week in security news.*
+      
   - Facebook changes name of its annual VR event and its overall AR/VR organization
       <hr/>
       
@@ -71,16 +76,11 @@ Code never lies, comments sometimes do.
       <hr/>
       
       - *In a nod to the show Parks and Recreation, it’s time to “treat yo self” — with an additional $100 discount on Disrupt 2020 passes. For the next 72-hours only, you can save an extra $100 and get your Disrupt Digital Pro passes for $245 each. Simply head to our…*
-      
+       
   - Join Twilio’s Jeff Lawson for a live Q&A today at 2:30 pm EDT/11:30 am PDT
       <hr/>
-      
-      - *Later today, Twilio CEO Jeff Lawson is joining the TechCrunch crew for a live Q&A. The discussion is part of our Extra Crunch Live series that has been live for the last several months. It’s been a good run, with guests like Charles Hudson, Sydney Sykes and M…*
        
-  - New Zendesk dashboard delivers customer service data in real time
-      <hr/>
-       
-       - *Zendesk has been offering customers the ability to track customer service statistics for some time, but it has always been a look back. Today, the company announced a new product called Explorer Enterprise that lets customers capture that valuable info in rea…*
+       - *Later today, Twilio CEO Jeff Lawson is joining the TechCrunch crew for a live Q&A. The discussion is part of our Extra Crunch Live series that has been live for the last several months. It’s been a good run, with guests like Charles Hudson, Sydney Sykes and M…*
       
 
 <br />
