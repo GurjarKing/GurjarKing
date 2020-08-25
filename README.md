@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 
-~ Marijn Haverbeke
+~ Fred Brooks
 <pre>
 
 </pre>
