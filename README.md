@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+Young man, in mathematics you don't understand things. You just get used to them.
 
-~ Ken Thompson
+~ John von Neumann
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ One of my most productive days was throwing away 1,000 lines of code.
 </pre>
 <strong>Daily News</strong>
   
-  - Many Canon cameras can now automatically back up pictures to Google Photos
+  - Dear Sophie: Latest immigration and H-1B updates
      <hr/>
      
-      - *Canon and Google today announced a new software integration that enables automatic Google Photos backup of pictures taken with select Canon cameras – a full list is available here, but it’s most of their recent interchangeable lens cameras dating back basical…*
+      - *Exceptions for new H-1B visas at embassies and consulates around the world will help a lot of tech companies whose employees got stuck outside the U.S.*
      
-  - LaunchNotes raises a $1.8M seed round to help companies communicate their software updates
+  - Synthetic biology startups are giving investors an appetite
       <hr/>
       
-      - *LaunchNotes, a startup founded by the team behind Statuspage (which Atlassian later acquired) and the former head of marketing for Jira, today announced that it has raised a $1.8 million seed round co-led by Cowboy Ventures and Bull City Ventures. In addition…*
+      - *There’s a growing wave of commercial activity from companies that are creating products using new biological engineering technologies. Perhaps the most public (and tastiest) example of the promise biomanufacturing holds is Impossible Foods . The meat replacem…*
       
-  - Google is pushing to get the Nest Hub in more hotel rooms
+  - Benchmark's Peter Fenton is joining us at Disrupt
       <hr/>
       
-      - *Given the number of rooms I’ve stayed in over the past couple of years that still sported a 30-pin iPod alarm clock, I think it’s a safe bet that refreshing a new technology isn’t high up on the list of priorities for most hotels. For those looking to offer a…*
+      - *Benchmark used to be the quintessential Silicon Valley venture firm. It was small. It was focused. It was aggressive while also remaining founder friendly. It stuck to its knitting, when it came to its fund size, raising fund after fund in the $450 million ra…*
       
-  - Learn how to scale social impact startups at Disrupt with Phaedra Ellis-Lamkins and Jessica O. Matthews
+  - Mobile voting can ease polling place unease in the COVID-19 era
       <hr/>
       
-      - *Hundreds of founders have launched their startups with an aim to change the world. But uttering the words “making the world a better place,” isn’t the same as doing it or doing it well. Phaedra Ellis-Lamkins, founder of Promise, and Jessica O. Matthews, found…*
+      - *Failing to explore new options to prevent a voting disaster this fall amidst a global pandemic could have grave repercussions on the future of this nation.*
        
-  - China's Alibaba won't invest in Indian startups for at least six months, report says
+  - Bingie is an app for all your streaming recommendations and debates
       <hr/>
        
-       - *Chinese internet giant Alibaba Group has put on hold plans to invest in Indian startups amid geo-political tensions between the two countries, Reuters reported Wednesday, citing two unnamed sources. The Chinese group, which has invested more than $2 billion i…*
+       - *If you’re overwhelmed trying to choose the next movie or TV show to watch on Netflix, Hulu, Disney+, HBO Max or any other streaming service, Bingie could be the app for you. You may recall a previous wave of TV recommendation apps from a decade ago, like Vigg…*
       
 
 <br />
