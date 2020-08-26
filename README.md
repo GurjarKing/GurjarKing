@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
 
-~ Tom Cargill
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ The first 90 percent of the code accounts for the first 90 percent of the develo
 </pre>
 <strong>Daily News</strong>
   
-  - White House announces $1B investment for AI and quantum computing hubs
+  - Grid raises $12M Series A to turn spreadsheets into visual 'narratives'
      <hr/>
      
-      - *Building out its previous commitment, the White House is announcing a $1 billion investment into two of tech’s most promising frontiers, AI and quantum computing. Last year, the Trump administration rolled out an executive order on AI declaring its intention …*
+      - *Grid, a SaaS startup founded in Iceland that lets you turn spreadsheets into visual “narratives,” has closed $12 million in Series A funding. The round is led by New Enterprise Associates (NEA), with participation from existing investors BlueYard Capital, Sla…*
      
+  - Xiaomi reports 3.1% revenue growth in Q2 despite restricted production in India
+      <hr/>
+      
+      - *Xiaomi reported a revenue of $7.77 billion for the quarter that ended in June this year, up 3.1% since the same period last year and up 7.7% over the previous quarter as the Chinese smartphone maker sees recovery in most of its overseas markets. The company s…*
+      
+  - White House announces $1B investment for AI and quantum computing hubs
+      <hr/>
+      
+      - *Building out its previous commitment, the White House is announcing a $1 billion investment into two of tech’s most promising frontiers, AI and quantum computing. Last year, the Trump administration rolled out an executive order on AI declaring its intention …*
+      
   - BlackBerry makes China push as the OS for Xpeng smart cars
       <hr/>
       
       - *The once-pioneering BlackBerry is pretty much out of the smartphone manufacturing game, but the Canadian company has been busy transitioning to providing software for connected devices, including smart cars. Now it’s brought that section of its business to Ch…*
-      
+       
   - The pandemic has probably killed VR arcades for good
       <hr/>
-      
-      - *A lagging trend of the past few months has been witnessing startups that COVID seemed poised to kill end up scaling back some of those deep cuts and taking off again. Not all spaces have been quite so lucky, in particular, lately we’ve seen a host of location…*
-      
-  - Cryptocurrency exchange FTX acquires portfolio tracker Blockfolio
-      <hr/>
-      
-      - *FTX, a cryptocurrency exchange that offers derivatives, options and other sophisticated products, is acquiring a popular portfolio tracking app, Blockfolio. FTX is spending $150 million for the acquisition. But take that price with a grain of salt as it’s a c…*
        
-  - Everyone filed to go public Monday
-      <hr/>
-       
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. We’re back out of sequence, because literally every company you can name (well, almost) dropped an S-1 yesterda…*
+       - *A lagging trend of the past few months has been witnessing startups that COVID seemed poised to kill end up scaling back some of those deep cuts and taking off again. Not all spaces have been quite so lucky, in particular, lately we’ve seen a host of location…*
       
 
 <br />
