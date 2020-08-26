@@ -44,7 +44,7 @@
 
 **Quote of the hour:**
 
-You can’t trust code that you did not totally create yourself.
+One of my most productive days was throwing away 1,000 lines of code.
 
 ~ Ken Thompson
 <pre>
@@ -57,30 +57,30 @@ You can’t trust code that you did not totally create yourself.
 </pre>
 <strong>Daily News</strong>
   
-  - Spotify is developing a 'virtual events' feature
+  - Many Canon cameras can now automatically back up pictures to Google Photos
      <hr/>
      
-      - *The coronavirus pandemic has had a significant impact on the music industry, as artists who relied on live performances and concerts suddenly had the rug pulled out beneath them, impacting their ability to generate income. An upcoming feature in development a…*
+      - *Canon and Google today announced a new software integration that enables automatic Google Photos backup of pictures taken with select Canon cameras – a full list is available here, but it’s most of their recent interchangeable lens cameras dating back basical…*
      
-  - Funding for mental-health focused startups rises in 2020
+  - LaunchNotes raises a $1.8M seed round to help companies communicate their software updates
       <hr/>
       
-      - *Turning away from the public markets, IPOs, SPACs and Palantir for a moment, would you like to talk about startups again? I would. This morning, I pored over venture capital funding patterns for wellness-focused startups. Broadly, according to a new report, t…*
+      - *LaunchNotes, a startup founded by the team behind Statuspage (which Atlassian later acquired) and the former head of marketing for Jira, today announced that it has raised a $1.8 million seed round co-led by Cowboy Ventures and Bull City Ventures. In addition…*
       
-  - GM teases two new all-electric Chevy Bolt models
+  - Google is pushing to get the Nest Hub in more hotel rooms
       <hr/>
       
-      - *GM provided a glimpse Wednesday of not one, but two versions of the Chevrolet Bolt, the all-electric vehicle that first launched in 2017 with an aim at hitting the market before — and carving sales away from — the Tesla Model 3. The all-electric hatchback, wh…*
+      - *Given the number of rooms I’ve stayed in over the past couple of years that still sported a 30-pin iPod alarm clock, I think it’s a safe bet that refreshing a new technology isn’t high up on the list of priorities for most hotels. For those looking to offer a…*
       
-  - With theaters opening back up, Atom Tickets launches its Snap mini app
+  - Learn how to scale social impact startups at Disrupt with Phaedra Ellis-Lamkins and Jessica O. Matthews
       <hr/>
       
-      - *Santa Monica, Calif.-based Atom Tickets, the ticketing and concessions buying app, is finally launching its branded ticket buying experience inside Snapchat.  The new Movie Tickets by Atom joins a slew of mini apps released by companies like Headspace, which …*
+      - *Hundreds of founders have launched their startups with an aim to change the world. But uttering the words “making the world a better place,” isn’t the same as doing it or doing it well. Phaedra Ellis-Lamkins, founder of Promise, and Jessica O. Matthews, found…*
        
-  - DJI rebrands its Osmo line with the arrival of the magnetically connecting OM 4
+  - China's Alibaba won't invest in Indian startups for at least six months, report says
       <hr/>
        
-       - *Beyond the drones it’s known for, DJI has carved out a nice niche for itself in the camera stabilization market. Building on the technology it has developed for the aerial imaging space, the company’s got a number of products, running the gamut from professio…*
+       - *Chinese internet giant Alibaba Group has put on hold plans to invest in Indian startups amid geo-political tensions between the two countries, Reuters reported Wednesday, citing two unnamed sources. The Chinese group, which has invested more than $2 billion i…*
       
 
 <br />
