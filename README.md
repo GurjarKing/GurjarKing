@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 
-~ Bjarne Stroustrup
+~ Tom Cargill
 <pre>
 
 </pre>
