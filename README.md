@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Cool URIs don't change.
+There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
 
-~ Tim Berners-Lee
+~ Bill Gates
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Cool URIs don't change.
 </pre>
 <strong>Daily News</strong>
   
-  - Payments services company Finix adds $30 million to its Series B
+  - DJI rebrands its Osmo line with the arrival of the magnetically connecting OM 4
      <hr/>
      
-      - *Finix, a startup that provides payments-related services to other companies, announced it has extended its Series B financing with a $30 million investment led by Lightspeed Venture Partners and American Express Ventures. The fintech startup has now raised ov…*
+      - *Beyond the drones it’s known for, DJI has carved out a nice niche for itself in the camera stabilization market. Building on the technology it has developed for the aerial imaging space, the company’s got a number of products, running the gamut from professio…*
      
-  - Desktop Metal going public in SPAC-led deal that could value 3D printer company at $2.5B
+  - Facebook updates Messenger Rooms as Zoom sits at top of the App Store
       <hr/>
       
-      - *Desktop Metal’s had no shortage of investor interest in its business during in its half-decade existence. To date, the metal 3D printing company has raised $430 million, becoming one of the fastest U.S. companies to achieve unicorn status in the process. Toda…*
+      - *Messenger Rooms, Facebook’s social Zoom competitor, is today rolling out new features aimed at making Rooms easier to both create and discover as well as those for further personalizing your Rooms experience. The changes follow Messenger’s recent slight dip f…*
       
-  - Grid raises $12M Series A to turn spreadsheets into visual 'narratives'
+  - Stride.VC loses partner Pia d’Iribarne
       <hr/>
       
-      - *Grid, a SaaS startup founded in Iceland that lets you turn spreadsheets into visual “narratives,” has closed $12 million in Series A funding. The round is led by New Enterprise Associates (NEA), with participation from existing investors BlueYard Capital, Sla…*
+      - *Stride.VC, the London early-stage VC firm founded by Fred Destin and podcaster Harry Stebbings, is losing Paris-based partner, Pia d’Iribarne, TechCrunch has learned. According to a regulatory filing, d’Iribarne’s partnership officially ended today, a little …*
       
-  - Xiaomi reports 3.1% revenue growth in Q2 despite restricted production in India
+  - Cisco acquiring BabbleLabs to filter out the lawn mower screeching during your video conference
       <hr/>
       
-      - *Xiaomi reported a revenue of $7.77 billion for the quarter that ended in June this year, up 3.1% since the same period last year and up 7.7% over the previous quarter as the Chinese smartphone maker sees recovery in most of its overseas markets. The company s…*
+      - *We’ve all been in a video conference, especially this year, when the neighbor started mowing the lawn or kids were playing outside your window — and it can get pretty loud. Cisco, which owns the WebEx video conferencing service wants to do something about tha…*
        
-  - White House announces $1B investment for AI and quantum computing hubs
+  - Meet the startups from Brinc's first online Demo Day
       <hr/>
        
-       - *Building out its previous commitment, the White House is announcing a $1 billion investment into two of tech’s most promising frontiers, AI and quantum computing. Last year, the Trump administration rolled out an executive order on AI declaring its intention …*
+       - *Like other accelerators, Brinc hasn’t let 2020 get in the way of its program for early-stage startups. The firm is known for focusing on food technology, health tech, clean energy, and hardware, and has a knack for finding some of the most interesting startup…*
       
 
 <br />
