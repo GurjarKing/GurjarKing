@@ -44,10 +44,9 @@
 
 **Quote of the hour:**
 
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 
-~ Bob Frankston
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -58,30 +57,30 @@ computer getting it right is pretty small.
 </pre>
 <strong>Daily News</strong>
   
-  - The H-1B visa ban is creating nearshore business partnership opportunities
+  - Luna Display adds a teleprompter mode
      <hr/>
      
-      - *Nearshoring is mutually beneficial because developers don't have to give up their culture for a great employment opportunity  and businesses can reap the benefits of diversification.*
+      - *I really like the Luna Display. The dongle still occupies a spot in my travel-cord bag. But like the bag it resides in, the iPad accessory hasn’t gotten much use in the past year.*
      
-  - Microsoft researcher Dr. Cecily Morrison will discuss keeping AI “personal” at Sight Tech Global
+  - SpaceX will launch Masten's first lander to the Moon in 2022
       <hr/>
       
-      - *For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind, she also believes that the powerful AI-related techno…*
+      - *SpaceX has secured a contract to act as the launch partner for Masten Space Systems, one of the companies awarded a NASA launch contract under that agency’s Commercial Lunar Payload Services (CLPS) program. Masten’s first lunar mission is set to take pace 202…*
       
-  - Course Hero, a profitable edtech unicorn, raises rare cash
+  - The bullish case for Palantir's direct listing
       <hr/>
       
-      - *Like any successful founder, Andrew Grauer had bright, long-term ambitions for Course Hero from the moment he launched it in 2006. He started the business to create a place where students could ask questions and get answers similar to Chegg, which launched 15…*
+      - *The Palantir S-1 finally dropped yesterday after TechCrunch spilled a bunch of its guts last Friday. You can read the filing here, if you are so inclined. Today, however, instead of our usual overview, I have a different goal: We’re going to be a bit more spe…*
       
-  - Dear Sophie: Latest immigration and H-1B updates
+  - The Positive Grid Spark is a versatile smart amp perfect for guitarists stuck at home
       <hr/>
       
-      - *Exceptions for new H-1B visas at embassies and consulates around the world will help a lot of tech companies whose employees got stuck outside the U.S.*
+      - *Powered amps for electric guitars have gotten some neat tricks powered by modern mobile tech over the years, but the new Positive Grid Spark ($299) might be the one that packs the most intelligence and versatility into a single package. From a companion app, …*
        
-  - Synthetic biology startups are giving investors an appetite
+  - Twitter experiments with adding a 'Quotes' count to tweets
       <hr/>
        
-       - *There’s a growing wave of commercial activity from companies that are creating products using new biological engineering technologies. Perhaps the most public (and tastiest) example of the promise biomanufacturing holds is Impossible Foods . The meat replacem…*
+       - *Twitter wants to make it easier to see the conversations taking place around a tweet. This May, the company rolled out a change to its user interface that allowed users who clicked on the “Retweets” metric beneath a tweet to view both those Retweets with comm…*
       
 
 <br />
