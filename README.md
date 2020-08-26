@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-There's only one trick in software, and that is using a piece of software that's already been written.
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 
-~ Bill Gates
+~ Daniel T. Barry
 <pre>
 
 </pre>
