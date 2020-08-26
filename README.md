@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
 
-~ Douglas Crockford
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Most programming languages contain good parts and bad parts. I discovered that I
 </pre>
 <strong>Daily News</strong>
   
-  - Equity Shot: Our favorite startups from YC Demo Day
+  - Instagram Guides may soon allow creators to recommended places, products and more
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Yep, it’s another Equity Shot. We’re back. And then we’re going to be back on Friday. Because we can’t stop tal…*
+      - *Instagram is working to expand its recently launched “Guides” feature which initially debuted with a specific focus on wellness content. The feature, which launched in May, has allowed select organizations and experts to share resources related to managing yo…*
      
+  - Equity Shot: Our favorite startups from YC Demo Day
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Yep, it’s another Equity Shot. We’re back. And then we’re going to be back on Friday. Because we can’t stop tal…*
+      
   - Property tech startup Habi raises $10M to drive expansion in Latin America
       <hr/>
       
@@ -71,16 +76,11 @@ Most programming languages contain good parts and bad parts. I discovered that I
       <hr/>
       
       - *Ford, Bosch, and Bedrock Technologies today announced an automated valet parking demonstration in downtown Detroit. This system is designed to allow drivers to exit a vehicle and the vehicle would park itself in the parking structure. Systems in a Ford Escape…*
-      
+       
   - Luna Display adds a teleprompter mode
       <hr/>
-      
-      - *I really like the Luna Display. The dongle still occupies a spot in my travel-cord bag. But like the bag it resides in, the iPad accessory hasn’t gotten much use in the past year.*
        
-  - SpaceX will launch Masten's first lander to the Moon in 2022
-      <hr/>
-       
-       - *SpaceX has secured a contract to act as the launch partner for Masten Space Systems, one of the companies awarded a NASA launch contract under that agency’s Commercial Lunar Payload Services (CLPS) program. Masten’s first lunar mission is set to take pace 202…*
+       - *I really like the Luna Display. The dongle still occupies a spot in my travel-cord bag. But like the bag it resides in, the iPad accessory hasn’t gotten much use in the past year.*
       
 
 <br />
