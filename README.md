@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+Deleted code is debugged code.
 
-~ Daniel T. Barry
+~ Jeff Sickel
 <pre>
 
 </pre>
