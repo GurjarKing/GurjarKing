@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
 
-~ Douglas Crockford
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ JavaScript is the only language that I'm aware of that people feel they don't ne
 </pre>
 <strong>Daily News</strong>
   
-  - Luna Display adds a teleprompter mode
+  - Ford, Bosch, and Bedrock announce an automated valet parking garage in Detroit
      <hr/>
      
-      - *I really like the Luna Display. The dongle still occupies a spot in my travel-cord bag. But like the bag it resides in, the iPad accessory hasn’t gotten much use in the past year.*
+      - *Ford, Bosch, and Bedrock Technologies today announced an automated valet parking demonstration in downtown Detroit. This system is designed to allow drivers to exit a vehicle and the vehicle would park itself in the parking structure. Systems in a Ford Escape…*
      
+  - Luna Display adds a teleprompter mode
+      <hr/>
+      
+      - *I really like the Luna Display. The dongle still occupies a spot in my travel-cord bag. But like the bag it resides in, the iPad accessory hasn’t gotten much use in the past year.*
+      
   - SpaceX will launch Masten's first lander to the Moon in 2022
       <hr/>
       
@@ -71,16 +76,11 @@ JavaScript is the only language that I'm aware of that people feel they don't ne
       <hr/>
       
       - *The Palantir S-1 finally dropped yesterday after TechCrunch spilled a bunch of its guts last Friday. You can read the filing here, if you are so inclined. Today, however, instead of our usual overview, I have a different goal: We’re going to be a bit more spe…*
-      
+       
   - The Positive Grid Spark is a versatile smart amp perfect for guitarists stuck at home
       <hr/>
-      
-      - *Powered amps for electric guitars have gotten some neat tricks powered by modern mobile tech over the years, but the new Positive Grid Spark ($299) might be the one that packs the most intelligence and versatility into a single package. From a companion app, …*
        
-  - Twitter experiments with adding a 'Quotes' count to tweets
-      <hr/>
-       
-       - *Twitter wants to make it easier to see the conversations taking place around a tweet. This May, the company rolled out a change to its user interface that allowed users who clicked on the “Retweets” metric beneath a tweet to view both those Retweets with comm…*
+       - *Powered amps for electric guitars have gotten some neat tricks powered by modern mobile tech over the years, but the new Positive Grid Spark ($299) might be the one that packs the most intelligence and versatility into a single package. From a companion app, …*
       
 
 <br />
