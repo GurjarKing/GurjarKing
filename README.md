@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-To iterate is human, to recurse divine.
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 
-~ L. Peter Deutsch
+~ Addy Osmani
 <pre>
 
 </pre>
