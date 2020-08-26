@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-JavaScript, purely by accident, has become the most popular programming language in the world.
+There's only one trick in software, and that is using a piece of software that's already been written.
 
-~ Douglas Crockford
+~ Bill Gates
 <pre>
 
 </pre>
