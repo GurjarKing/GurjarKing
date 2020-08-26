@@ -44,9 +44,10 @@
 
 **Quote of the hour:**
 
-Young man, in mathematics you don't understand things. You just get used to them.
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 
-~ John von Neumann
+~ Bob Frankston
 <pre>
 
 </pre>
@@ -57,30 +58,30 @@ Young man, in mathematics you don't understand things. You just get used to them
 </pre>
 <strong>Daily News</strong>
   
-  - Dear Sophie: Latest immigration and H-1B updates
+  - The H-1B visa ban is creating nearshore business partnership opportunities
      <hr/>
      
-      - *Exceptions for new H-1B visas at embassies and consulates around the world will help a lot of tech companies whose employees got stuck outside the U.S.*
+      - *Nearshoring is mutually beneficial because developers don't have to give up their culture for a great employment opportunity  and businesses can reap the benefits of diversification.*
      
+  - Microsoft researcher Dr. Cecily Morrison will discuss keeping AI “personal” at Sight Tech Global
+      <hr/>
+      
+      - *For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind, she also believes that the powerful AI-related techno…*
+      
+  - Course Hero, a profitable edtech unicorn, raises rare cash
+      <hr/>
+      
+      - *Like any successful founder, Andrew Grauer had bright, long-term ambitions for Course Hero from the moment he launched it in 2006. He started the business to create a place where students could ask questions and get answers similar to Chegg, which launched 15…*
+      
+  - Dear Sophie: Latest immigration and H-1B updates
+      <hr/>
+      
+      - *Exceptions for new H-1B visas at embassies and consulates around the world will help a lot of tech companies whose employees got stuck outside the U.S.*
+       
   - Synthetic biology startups are giving investors an appetite
       <hr/>
-      
-      - *There’s a growing wave of commercial activity from companies that are creating products using new biological engineering technologies. Perhaps the most public (and tastiest) example of the promise biomanufacturing holds is Impossible Foods . The meat replacem…*
-      
-  - Benchmark's Peter Fenton is joining us at Disrupt
-      <hr/>
-      
-      - *Benchmark used to be the quintessential Silicon Valley venture firm. It was small. It was focused. It was aggressive while also remaining founder friendly. It stuck to its knitting, when it came to its fund size, raising fund after fund in the $450 million ra…*
-      
-  - Mobile voting can ease polling place unease in the COVID-19 era
-      <hr/>
-      
-      - *Failing to explore new options to prevent a voting disaster this fall amidst a global pandemic could have grave repercussions on the future of this nation.*
        
-  - Bingie is an app for all your streaming recommendations and debates
-      <hr/>
-       
-       - *If you’re overwhelmed trying to choose the next movie or TV show to watch on Netflix, Hulu, Disney+, HBO Max or any other streaming service, Bingie could be the app for you. You may recall a previous wave of TV recommendation apps from a decade ago, like Vigg…*
+       - *There’s a growing wave of commercial activity from companies that are creating products using new biological engineering technologies. Perhaps the most public (and tastiest) example of the promise biomanufacturing holds is Impossible Foods . The meat replacem…*
       
 
 <br />
