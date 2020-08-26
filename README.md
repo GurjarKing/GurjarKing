@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+Cool URIs don't change.
 
-~ Charles Simonyi
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ The efficiency of the code decreases with an increase in the number of people wo
 </pre>
 <strong>Daily News</strong>
   
-  - Grid raises $12M Series A to turn spreadsheets into visual 'narratives'
+  - Payments services company Finix adds $30 million to its Series B
      <hr/>
      
-      - *Grid, a SaaS startup founded in Iceland that lets you turn spreadsheets into visual “narratives,” has closed $12 million in Series A funding. The round is led by New Enterprise Associates (NEA), with participation from existing investors BlueYard Capital, Sla…*
+      - *Finix, a startup that provides payments-related services to other companies, announced it has extended its Series B financing with a $30 million investment led by Lightspeed Venture Partners and American Express Ventures. The fintech startup has now raised ov…*
      
+  - Desktop Metal going public in SPAC-led deal that could value 3D printer company at $2.5B
+      <hr/>
+      
+      - *Desktop Metal’s had no shortage of investor interest in its business during in its half-decade existence. To date, the metal 3D printing company has raised $430 million, becoming one of the fastest U.S. companies to achieve unicorn status in the process. Toda…*
+      
+  - Grid raises $12M Series A to turn spreadsheets into visual 'narratives'
+      <hr/>
+      
+      - *Grid, a SaaS startup founded in Iceland that lets you turn spreadsheets into visual “narratives,” has closed $12 million in Series A funding. The round is led by New Enterprise Associates (NEA), with participation from existing investors BlueYard Capital, Sla…*
+      
   - Xiaomi reports 3.1% revenue growth in Q2 despite restricted production in India
       <hr/>
       
       - *Xiaomi reported a revenue of $7.77 billion for the quarter that ended in June this year, up 3.1% since the same period last year and up 7.7% over the previous quarter as the Chinese smartphone maker sees recovery in most of its overseas markets. The company s…*
-      
+       
   - White House announces $1B investment for AI and quantum computing hubs
       <hr/>
-      
-      - *Building out its previous commitment, the White House is announcing a $1 billion investment into two of tech’s most promising frontiers, AI and quantum computing. Last year, the Trump administration rolled out an executive order on AI declaring its intention …*
-      
-  - BlackBerry makes China push as the OS for Xpeng smart cars
-      <hr/>
-      
-      - *The once-pioneering BlackBerry is pretty much out of the smartphone manufacturing game, but the Canadian company has been busy transitioning to providing software for connected devices, including smart cars. Now it’s brought that section of its business to Ch…*
        
-  - The pandemic has probably killed VR arcades for good
-      <hr/>
-       
-       - *A lagging trend of the past few months has been witnessing startups that COVID seemed poised to kill end up scaling back some of those deep cuts and taking off again. Not all spaces have been quite so lucky, in particular, lately we’ve seen a host of location…*
+       - *Building out its previous commitment, the White House is announcing a $1 billion investment into two of tech’s most promising frontiers, AI and quantum computing. Last year, the Trump administration rolled out an executive order on AI declaring its intention …*
       
 
 <br />
