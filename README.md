@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
 
-~ Fred Brooks
+~ Poul-Henning Kamp
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ The fundamental problem with program maintenance is that fixing a defect has a s
 </pre>
 <strong>Daily News</strong>
   
-  - BlackBerry makes China push as the OS for Xpeng smart cars
+  - White House announces $1B investment for AI and quantum computing hubs
      <hr/>
      
-      - *The once-pioneering BlackBerry is pretty much out of the smartphone manufacturing game, but the Canadian company has been busy transitioning to providing software for connected devices, including smart cars. Now it’s brought that section of its business to Ch…*
+      - *Building out its previous commitment, the White House is announcing a $1 billion investment into two of tech’s most promising frontiers, AI and quantum computing. Last year, the Trump administration rolled out an executive order on AI declaring its intention …*
      
+  - BlackBerry makes China push as the OS for Xpeng smart cars
+      <hr/>
+      
+      - *The once-pioneering BlackBerry is pretty much out of the smartphone manufacturing game, but the Canadian company has been busy transitioning to providing software for connected devices, including smart cars. Now it’s brought that section of its business to Ch…*
+      
   - The pandemic has probably killed VR arcades for good
       <hr/>
       
@@ -71,16 +76,11 @@ The fundamental problem with program maintenance is that fixing a defect has a s
       <hr/>
       
       - *FTX, a cryptocurrency exchange that offers derivatives, options and other sophisticated products, is acquiring a popular portfolio tracking app, Blockfolio. FTX is spending $150 million for the acquisition. But take that price with a grain of salt as it’s a c…*
-      
+       
   - Everyone filed to go public Monday
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. We’re back out of sequence, because literally every company you can name (well, almost) dropped an S-1 yesterda…*
        
-  - Axon delivers new tech for police, but is more tools really what cops need?
-      <hr/>
-       
-       - *Axon, the company formerly known as Taser and which provides the majority of police body cameras, has a few new tech tools for cops that could cut down on paperwork and improve response times. But at a time when the fundamental means and mission of police is …*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. We’re back out of sequence, because literally every company you can name (well, almost) dropped an S-1 yesterda…*
       
 
 <br />
