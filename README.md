@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+You can’t trust code that you did not totally create yourself.
 
-~ Bill Gates
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ There is an amazing commonality in the types of difficulties you run into. In de
 </pre>
 <strong>Daily News</strong>
   
-  - DJI rebrands its Osmo line with the arrival of the magnetically connecting OM 4
+  - Spotify is developing a 'virtual events' feature
      <hr/>
      
-      - *Beyond the drones it’s known for, DJI has carved out a nice niche for itself in the camera stabilization market. Building on the technology it has developed for the aerial imaging space, the company’s got a number of products, running the gamut from professio…*
+      - *The coronavirus pandemic has had a significant impact on the music industry, as artists who relied on live performances and concerts suddenly had the rug pulled out beneath them, impacting their ability to generate income. An upcoming feature in development a…*
      
-  - Facebook updates Messenger Rooms as Zoom sits at top of the App Store
+  - Funding for mental-health focused startups rises in 2020
       <hr/>
       
-      - *Messenger Rooms, Facebook’s social Zoom competitor, is today rolling out new features aimed at making Rooms easier to both create and discover as well as those for further personalizing your Rooms experience. The changes follow Messenger’s recent slight dip f…*
+      - *Turning away from the public markets, IPOs, SPACs and Palantir for a moment, would you like to talk about startups again? I would. This morning, I pored over venture capital funding patterns for wellness-focused startups. Broadly, according to a new report, t…*
       
-  - Stride.VC loses partner Pia d’Iribarne
+  - GM teases two new all-electric Chevy Bolt models
       <hr/>
       
-      - *Stride.VC, the London early-stage VC firm founded by Fred Destin and podcaster Harry Stebbings, is losing Paris-based partner, Pia d’Iribarne, TechCrunch has learned. According to a regulatory filing, d’Iribarne’s partnership officially ended today, a little …*
+      - *GM provided a glimpse Wednesday of not one, but two versions of the Chevrolet Bolt, the all-electric vehicle that first launched in 2017 with an aim at hitting the market before — and carving sales away from — the Tesla Model 3. The all-electric hatchback, wh…*
       
-  - Cisco acquiring BabbleLabs to filter out the lawn mower screeching during your video conference
+  - With theaters opening back up, Atom Tickets launches its Snap mini app
       <hr/>
       
-      - *We’ve all been in a video conference, especially this year, when the neighbor started mowing the lawn or kids were playing outside your window — and it can get pretty loud. Cisco, which owns the WebEx video conferencing service wants to do something about tha…*
+      - *Santa Monica, Calif.-based Atom Tickets, the ticketing and concessions buying app, is finally launching its branded ticket buying experience inside Snapchat.  The new Movie Tickets by Atom joins a slew of mini apps released by companies like Headspace, which …*
        
-  - Meet the startups from Brinc's first online Demo Day
+  - DJI rebrands its Osmo line with the arrival of the magnetically connecting OM 4
       <hr/>
        
-       - *Like other accelerators, Brinc hasn’t let 2020 get in the way of its program for early-stage startups. The firm is known for focusing on food technology, health tech, clean energy, and hardware, and has a knack for finding some of the most interesting startup…*
+       - *Beyond the drones it’s known for, DJI has carved out a nice niche for itself in the camera stabilization market. Building on the technology it has developed for the aerial imaging space, the company’s got a number of products, running the gamut from professio…*
       
 
 <br />
