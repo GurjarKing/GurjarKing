@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+A good programmer is someone who looks both ways before crossing a one-way street.
 
-~ Bjarne Stroustrup
+~ Doug Linder
 <pre>
 
 </pre>
