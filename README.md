@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Humanity is acquiring all the right technology for all the wrong reasons.
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 
-~ Buckminster Fuller
+~ Daniel T. Barry
 <pre>
 
 </pre>
