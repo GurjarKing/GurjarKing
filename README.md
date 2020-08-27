@@ -44,9 +44,10 @@
 
 **Quote of the hour:**
 
-Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 
-~ John von Neumann
+~ Bob Frankston
 <pre>
 
 </pre>
