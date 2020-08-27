@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-In handling resources, strive to avoid disaster rather than to attain an optimum.
+I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 
-~ Butler Lampson
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ In handling resources, strive to avoid disaster rather than to attain an optimum
 </pre>
 <strong>Daily News</strong>
   
-  - Christopher Ward's C1 Moonglow moonphase automatic watch is perfect for space lovers
+  - After early-COVID layoffs, Hipcamp is buying competition, hiring
      <hr/>
      
-      - *The moonphase watch is a long-standing marvel of the analog watch industry – featuring a complication that allows it to accurately track the phases of the Moon across a long period (provided the watch remains wound). Christopher Ward’s C1 Moonglow ($1,995) is…*
+      - *When shelter-in-place was first announced in the United States, most companies in the travel space saw bookings drop. Some shuttered. Hipcamp, a San Francisco-based startup that provides private land for people who want to go glamping or camping, found itself…*
      
-  - Narrative raises $8.5M as it launches a new data marketplace
+  - Flipboard brings its ad-supported 'Flipboard TV' video service to all users
       <hr/>
       
-      - *Narrative has raised $8.5 million in Series A funding and is launching a new product designed to further simplify the process of buying and selling data. I’ve already written about the company’s existing marketplace and software for managing data transactions…*
+      - *News app Flipboard is further expanding into video with Flipboard TV. The company’s curated video service first launched earlier this year as a Samsung exclusive, and is now making its way to all Flipboard users in the U.S. With today’s launch, the service wi…*
       
-  - Amazon opens its first Amazon Fresh physical grocery store, in LA
+  - COVID-19 is driving demand for low-code apps
       <hr/>
       
-      - *The shift to online shopping has accelerated in the COVID-19 pandemic, but today Amazon made a bold move that underscores its belief that physical stores will remain a key component of how consumers shop. In the Los Angeles neighborhood of Woodland Hills, the…*
+      - *Now that the great Y Combinator rush is behind us, we’re returning to a topic many of you really seem to care about: no-code and low-code apps and their development. We’ve explored the theme a few times recently, once from a venture-capital perspective, and a…*
       
-  - Samsung will reportedly test remote work program as South Korea copes with new COVID-19 cases
+  - Salesforce confirms it's laying off around 1000 people in spite of monster quarter
       <hr/>
       
-      - *Samsung Electronics will reportedly begin trialing a work-from-home program for some employees next month as South Korea as the country deals with its largest increase in COVID-19 cases since March. According to Reuters, a company official said the pilot prog…*
+      - *In what felt like strange timing, Salesforce has confirmed a report in yesterday’s Wall Street Journal that it was laying off around 1000 people or approximately 1.9% of the company’s 54,000 strong workforce. This news came in spite of the company reporting a…*
        
-  - Fairphone's new flagship, the 3+, costs just €70 as a modular upgrade
+  - Calling Warsaw VCs: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
        
-       - *Dutch social enterprise, Fairphone, has moved a little closer to the sustainability dream of a circular economy by announcing the launch of a modular upgrade for its flagship smartphone. The backwards compatible hardware units mean users of last year’s Fairph…*
+       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our survey of VCs in Warsaw will capture how the city is faring, and what changes are being wrought amongst investors by the coronavirus pandemic. We’d like to k…*
       
 
 <br />
