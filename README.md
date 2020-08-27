@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Within a computer, natural language is unnatural.
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 
-~ Alan Perlis
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Within a computer, natural language is unnatural.
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook removes 'Kenosha Guard' militia account after shooter kills two at protest
+  - TikTok CEO Kevin Mayer resigns after 100 days
      <hr/>
      
-      - *Facebook has removed a local self-declared militia’s page and a related event following the events that unfolded last night in Kenosha, Wisconsin. Two people were killed and another was wounded when a man believed to be 17-year-old Kyle Rittenhouse began firi…*
+      - *Kevin Mayer, the chief executive of TikTok, announced on Wednesday that he is resigning, just over 100 days after the former Disney executive joined the world’s largest short video app in mid-May. The news came just days came on the heel of TikTok’s move to s…*
      
+  - Facebook removes 'Kenosha Guard' militia account after shooter kills two at protest
+      <hr/>
+      
+      - *Facebook has removed a local self-declared militia’s page and a related event following the events that unfolded last night in Kenosha, Wisconsin. Two people were killed and another was wounded when a man believed to be 17-year-old Kyle Rittenhouse began firi…*
+      
   - Here’s the Surface Duo
       <hr/>
       
@@ -71,16 +76,11 @@ Within a computer, natural language is unnatural.
       <hr/>
       
       - *Spotify explores virtual concerts, Twitter tests a “quotes” count and Google’s Nest Hub becomes more hotel-friendly. This is your Daily Crunch for August 26, 2020. The big story: Spotify is testing virtual events We can’t have real-world concerts at the momen…*
-      
+       
   - Instagram Guides may soon allow creators to recommended places, products and more
       <hr/>
-      
-      - *Instagram is working to expand its recently launched “Guides” feature which initially debuted with a specific focus on wellness content. The feature, which launched in May, has allowed select organizations and experts to share resources related to managing yo…*
        
-  - Equity Shot: Our favorite startups from YC Demo Day
-      <hr/>
-       
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Yep, it’s another Equity Shot. We’re back. And then we’re going to be back on Friday. Because we can’t stop tal…*
+       - *Instagram is working to expand its recently launched “Guides” feature which initially debuted with a specific focus on wellness content. The feature, which launched in May, has allowed select organizations and experts to share resources related to managing yo…*
       
 
 <br />
