@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 
-~ Ken Thompson
+~ Alan Kay
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ I’ll throw away code as soon I want to add something to it and I get the feeli
 </pre>
 <strong>Daily News</strong>
   
-  - Google Assistant app now uses your searches to make personalized recommendations
+  - Discord says user abuse reports have doubled since last year
      <hr/>
      
-      - *Google is revamping its two-year old “Snapshot” feature in Google Assistant for iOS and Android. The company in 2018 had first introduced Google Assistant Snapshot as a way for mobile users to stay on top of their day, by showing timely information like appoi…*
+      - *Discord said removed four million accounts for spamming.*
      
-  - Walmart expresses interest in TikTok, teaming up with Microsoft
+  - Fondeadora is a Mexican challenger bank that just raised $14 million
       <hr/>
       
-      - *There’s been a flurry of TikTok news today, and the flood doesn’t seem to be letting up. First was the announcement that Kevin Mayer, who joined the company just a bit more than three months ago, has stepped down overnight. TikTok CEO Kevin Mayer resigns afte…*
+      - *Meet Fondeadora, a fintech startup based in Mexico City that wants to build a full-stack neobank. The company just raised a $14 million Series A round led by Gradient Ventures, Google’s AI-focused venture fund. Founded in 2018, the company already manages 150…*
       
-  - Learn why embedded finance is the future of fintech at Disrupt
+  - Kneron launches its new AI chip to challenge Google and others
       <hr/>
       
-      - *The fintech industry has had a wild couple of years. Consumer fintech startups, such as Robinhood, Revolut and Coinbase, have been massively successful and managed to attract millions of customers. At the same time, enterprise companies have created the infra…*
+      - *Fresh off a $40 million Series A round, edge AI specialist Kneron today announced the launch of its newest custom chip, the Kneron KL 720 SoC. With funding from the likes of Alibaba, Sequoia, Horizons Ventures, Qualcomm and SparkLabs Taipei (as well as a few …*
       
-  - Register for our last pitch-off next week on September 2
+  - Chinese EV startup Xpeng Motors raises $1.5 billion in U.S. public market debut
       <hr/>
       
-      - *It’s time again to start warming up your pitching arm. Our next Pitchers & Pitches session takes place next week on September 2. Register today! Pitchers & Pitches sessions combine critique and competition with a focus on helping early-stage startup founders …*
+      - *Chinese electric vehicle startup XPeng Inc. raised $1.5 billion through an initial public offering in the U.S. as investor interest in EVs and clean energy outstripped concerns over escalating tensions between the U.S. and China. The automaker, which is headq…*
        
-  - What can growth marketers learn from lean product development?
+  - Google Assistant app now uses your searches to make personalized recommendations
       <hr/>
        
-       - *Everyone’s habits have changed/are changing as a result of the pandemic, so marketers need to be testing and learning as quickly as possible.*
+       - *Google is revamping its two-year old “Snapshot” feature in Google Assistant for iOS and Android. The company in 2018 had first introduced Google Assistant Snapshot as a way for mobile users to stay on top of their day, by showing timely information like appoi…*
       
 
 <br />
