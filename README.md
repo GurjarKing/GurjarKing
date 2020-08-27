@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A year spent in artificial intelligence is enough to make one believe in God.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ Alan Perlis
+~ Marvin Minsky
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ A year spent in artificial intelligence is enough to make one believe in God.
 </pre>
 <strong>Daily News</strong>
   
-  - LG is releasing a ‘wearable air purifier’
+  - Daily Crunch: TikTok's CEO resigns
      <hr/>
      
-      - *Frankly, the most surprising thing about the PuriCare is that more tech companies haven’t launched a similar product in recent months. LG is showing it off as part of the upcoming IFA press conference in Berlin — though the company is opting for a virtual pre…*
+      - *Turmoil continues at TikTok, Salesforce lays off 1,000 people and Warby Parker is now valued at $3 billion. This is your Daily Crunch for August 27, 2020. The big story: TikTok’s CEO resigns Kevin Mayer, the former Disney executive who joined TikTok as CEO ju…*
      
+  - LG is releasing a ‘wearable air purifier’
+      <hr/>
+      
+      - *Frankly, the most surprising thing about the PuriCare is that more tech companies haven’t launched a similar product in recent months. LG is showing it off as part of the upcoming IFA press conference in Berlin — though the company is opting for a virtual pre…*
+      
   - Electric moped startup Revel returns to New York with helmet selfie, other in-app safety features
       <hr/>
       
@@ -71,16 +76,11 @@ A year spent in artificial intelligence is enough to make one believe in God.
       <hr/>
       
       - *KitchenMate is a Toronto-based startup promising businesses a fresh approach to feeding their employees. The startup has raised $3.5 million in seed funding led by Eniac Ventures and Golden Ventures, with participation from FJ Labs and Techstars. It’s also ex…*
-      
+       
   - Box benefits from digital transformation as it raises its growth forecast
       <hr/>
-      
-      - *Box has always been a bit of an enigma for Wall Street and perhaps for enterprise software in general. Unlike vendors who shifted tools like HR, CRM or ERP to the cloud, Box has been building a way to manage content in the cloud. It’s been a little harder to …*
        
-  - Facebook isn't happy about Apple's upcoming ad tracking restrictions
-      <hr/>
-       
-       - *Apple’s upcoming operating system iOS 14 (currently in public beta) could have a big impact on publishers who work with Facebook’s — at least, according to Facebook. The company published a couple of blog posts yesterday outlining the potential impact of a ma…*
+       - *Box has always been a bit of an enigma for Wall Street and perhaps for enterprise software in general. Unlike vendors who shifted tools like HR, CRM or ERP to the cloud, Box has been building a way to manage content in the cloud. It’s been a little harder to …*
       
 
 <br />
