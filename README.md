@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Dealing with failure is easy: Work hard to improve.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Alan Perlis
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Dealing with failure is easy: Work hard to improve.
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon opens its first Amazon Fresh physical grocery store, in LA
+  - Christopher Ward's C1 Moonglow moonphase automatic watch is perfect for space lovers
      <hr/>
      
-      - *The shift to online shopping has accelerated in the COVID-19 pandemic, but today Amazon made a bold move that underscores its belief that physical stores will remain a key component of how consumers shop. In the Los Angeles neighborhood of Woodland Hills, the…*
+      - *The moonphase watch is a long-standing marvel of the analog watch industry – featuring a complication that allows it to accurately track the phases of the Moon across a long period (provided the watch remains wound). Christopher Ward’s C1 Moonglow ($1,995) is…*
      
+  - Narrative raises $8.5M as it launches a new data marketplace
+      <hr/>
+      
+      - *Narrative has raised $8.5 million in Series A funding and is launching a new product designed to further simplify the process of buying and selling data. I’ve already written about the company’s existing marketplace and software for managing data transactions…*
+      
+  - Amazon opens its first Amazon Fresh physical grocery store, in LA
+      <hr/>
+      
+      - *The shift to online shopping has accelerated in the COVID-19 pandemic, but today Amazon made a bold move that underscores its belief that physical stores will remain a key component of how consumers shop. In the Los Angeles neighborhood of Woodland Hills, the…*
+      
   - Samsung will reportedly test remote work program as South Korea copes with new COVID-19 cases
       <hr/>
       
       - *Samsung Electronics will reportedly begin trialing a work-from-home program for some employees next month as South Korea as the country deals with its largest increase in COVID-19 cases since March. According to Reuters, a company official said the pilot prog…*
-      
+       
   - Fairphone's new flagship, the 3+, costs just €70 as a modular upgrade
       <hr/>
-      
-      - *Dutch social enterprise, Fairphone, has moved a little closer to the sustainability dream of a circular economy by announcing the launch of a modular upgrade for its flagship smartphone. The backwards compatible hardware units mean users of last year’s Fairph…*
-      
-  - Passion Capital has backed Fronted, the startup that wants to offers loans to cover rent deposits
-      <hr/>
-      
-      - *Fronted, the new London-based startup aiming to make life easier for renters, including lending the cash needed for a deposit, has picked up seed investment from Passion Capital. The investment showed up in a recent regulatory filing for the company. The exac…*
        
-  - On-demand grocery startup Instashop acquired by Delivery Hero for $360M -- Greece's biggest tech exit yet
-      <hr/>
-       
-       - *Instashop, the Greece-headquartered on-demand grocery business, is being acquired by Delivery Hero for $360 million — thought to be the country’s biggest tech exit yet. The strategy behind the acquisition is to provide Delivery Hero, a global operator in take…*
+       - *Dutch social enterprise, Fairphone, has moved a little closer to the sustainability dream of a circular economy by announcing the launch of a modular upgrade for its flagship smartphone. The backwards compatible hardware units mean users of last year’s Fairph…*
       
 
 <br />
