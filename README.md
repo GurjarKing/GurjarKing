@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Debugging time increases as a square of the program’s size.
+I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 
-~ Chris Wenham
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Debugging time increases as a square of the program’s size.
 </pre>
 <strong>Daily News</strong>
   
-  - Beat the clock: Get your group discount passes to TC Sessions: Mobility 2020
+  - Google Assistant app now uses your searches to make personalized recommendations
      <hr/>
      
-      - *The expression “it takes a village” easily applies to building a successful mobility startup, especially in uncertain and tumultuous times. It also takes opportunities, and you’ll find plenty of those at TC Sessions: Mobility 2020 (Oct. 6-7). Even better — yo…*
+      - *Google is revamping its two-year old “Snapshot” feature in Google Assistant for iOS and Android. The company in 2018 had first introduced Google Assistant Snapshot as a way for mobile users to stay on top of their day, by showing timely information like appoi…*
      
-  - Alexa von Tobel: Eliminating risk is the key to building a startup during an economic downturn
+  - Walmart expresses interest in TikTok, teaming up with Microsoft
       <hr/>
       
-      - *Launching a company, even in the best of times, is one of the most challenging exercises a person can go through. In an economic recession, it can seem downright impossible. But founders across the country, and indeed across the globe, are in the midst of tha…*
+      - *There’s been a flurry of TikTok news today, and the flood doesn’t seem to be letting up. First was the announcement that Kevin Mayer, who joined the company just a bit more than three months ago, has stepped down overnight. TikTok CEO Kevin Mayer resigns afte…*
       
-  - Black founders can get tactical advice at Disrupt
+  - Learn why embedded finance is the future of fintech at Disrupt
       <hr/>
       
-      - *In the aftermath of George Floyd’s death and widespread protests for racial justice, a number of venture capitalists made public statements about wanting to improve diversity in the tech industry — and more specifically to fund more diverse founders. Their co…*
+      - *The fintech industry has had a wild couple of years. Consumer fintech startups, such as Robinhood, Revolut and Coinbase, have been massively successful and managed to attract millions of customers. At the same time, enterprise companies have created the infra…*
       
-  - Nerdwallet acquires UK's Know Your Money as it expands outside the US
+  - Register for our last pitch-off next week on September 2
       <hr/>
       
-      - *Nerdwallet, which provides resources for people looking for a new credit card, loan, insurance or other financial product or just financial advice, is making a move today to spearhead a move into international markets. The startup is acquiring Know Your Money…*
+      - *It’s time again to start warming up your pitching arm. Our next Pitchers & Pitches session takes place next week on September 2. Register today! Pitchers & Pitches sessions combine critique and competition with a focus on helping early-stage startup founders …*
        
-  - harbor, an emergency preparedness platform, picks up $5 million in seed funding
+  - What can growth marketers learn from lean product development?
       <hr/>
        
-       - *Billion dollar natural disasters are on the rise in the United States, according to CNBC. Even as I write, a hurricane is making landfall in Louisiana while wild fires rage in northern California. And those are just the big disasters. There were more than 1.3…*
+       - *Everyone’s habits have changed/are changing as a result of the pandemic, so marketers need to be testing and learning as quickly as possible.*
       
 
 <br />
