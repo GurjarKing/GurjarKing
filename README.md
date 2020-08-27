@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
 
-~ Ken Thompson
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ I’ve never been a lover of existing code. Code by itself almost rots and it’
 </pre>
 <strong>Daily News</strong>
   
-  - After early-COVID layoffs, Hipcamp is buying competition, hiring
+  - harbor, an emergency preparedness platform, picks up $5 million in seed funding
      <hr/>
      
-      - *When shelter-in-place was first announced in the United States, most companies in the travel space saw bookings drop. Some shuttered. Hipcamp, a San Francisco-based startup that provides private land for people who want to go glamping or camping, found itself…*
+      - *Billion dollar natural disasters are on the rise in the United States, according to CNBC. Even as I write, a hurricane is making landfall in Louisiana while wild fires rage in northern California. And those are just the big disasters. There were more than 1.3…*
      
-  - Flipboard brings its ad-supported 'Flipboard TV' video service to all users
+  - Samsung is holding another Unpacked event next week for the Galaxy Z Fold 2
       <hr/>
       
-      - *News app Flipboard is further expanding into video with Flipboard TV. The company’s curated video service first launched earlier this year as a Samsung exclusive, and is now making its way to all Flipboard users in the U.S. With today’s launch, the service wi…*
+      - *One of the nice things about virtual events is you can essentially hold as many as you’d like. It’s one thing to ask people to fly across the country or world to attend and another entirely to get them to tune into a livestream for an hour. On September 1 at …*
       
-  - COVID-19 is driving demand for low-code apps
+  - Here's how you can get a second shot at Startup Battlefield
       <hr/>
       
-      - *Now that the great Y Combinator rush is behind us, we’re returning to a topic many of you really seem to care about: no-code and low-code apps and their development. We’ve explored the theme a few times recently, once from a venture-capital perspective, and a…*
+      - *We’re big believers in second chances here at TechCrunch, and that’s great news for early-stage founders who didn’t apply to compete in the Startup Battlefield during Disrupt 2020 (September 14-18). Your second chance comes in the form of two Wild Card entrie…*
       
-  - Salesforce confirms it's laying off around 1000 people in spite of monster quarter
+  - How Salesforce beat its own target to reach $20B run rate ahead of schedule
       <hr/>
       
-      - *In what felt like strange timing, Salesforce has confirmed a report in yesterday’s Wall Street Journal that it was laying off around 1000 people or approximately 1.9% of the company’s 54,000 strong workforce. This news came in spite of the company reporting a…*
+      - *Salesforce launched in 1999, one of the early adherents to what would eventually be called SaaS and cloud computing. On Tuesday, the company reached a huge milestone when it surpassed $5 billion in revenue, putting the SaaS giant on a $20 billion run rate for…*
        
-  - Calling Warsaw VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Restream raises $50M to help creators program and stream to multiple platforms
       <hr/>
        
-       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our survey of VCs in Warsaw will capture how the city is faring, and what changes are being wrought amongst investors by the coronavirus pandemic. We’d like to k…*
+       - *Live streaming of video has come into its own during the coronavirus pandemic, with services like Zoom, YouTube, Twitch, Facebook and many others giving people a way to stay connected with each other, run events and continue working even when they can not be …*
       
 
 <br />
