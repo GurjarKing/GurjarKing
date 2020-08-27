@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
 
-~ William Wulf
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ More computing sins are committed in the name of efficiency (without necessarily
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook isn't happy about Apple's upcoming ad tracking restrictions
+  - Box benefits from digital transformation as it raises its growth forecast
      <hr/>
      
-      - *Apple’s upcoming operating system iOS 14 (currently in public beta) could have a big impact on publishers who work with Facebook’s — at least, according to Facebook. The company published a couple of blog posts yesterday outlining the potential impact of a ma…*
+      - *Box has always been a bit of an enigma for Wall Street and perhaps for enterprise software in general. Unlike vendors who shifted tools like HR, CRM or ERP to the cloud, Box has been building a way to manage content in the cloud. It’s been a little harder to …*
      
+  - Facebook isn't happy about Apple's upcoming ad tracking restrictions
+      <hr/>
+      
+      - *Apple’s upcoming operating system iOS 14 (currently in public beta) could have a big impact on publishers who work with Facebook’s — at least, according to Facebook. The company published a couple of blog posts yesterday outlining the potential impact of a ma…*
+      
   - The reMarkable 2 improves on the original in every way, but remains firmly in its niche
       <hr/>
       
@@ -71,16 +76,11 @@ More computing sins are committed in the name of efficiency (without necessarily
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This is the fourth episode of the week, pushing our production calendar to the test. Happily we’ve managed to h…*
-      
+       
   - To reach scale, Juni Learning is building a full-stack edtech experience
       <hr/>
-      
-      - *Juni Learning connects kids with math and science tutors, but co-founder Vivian Shen would prefer not to be lumped in with other edtech startups, despite the sector’s pandemic-born boom. “We’re not just in the middle to take a few percentage points off of eac…*
        
-  - Facebook sues developers who violated terms to collect user data, sell fake 'likes'
-      <hr/>
-       
-       - *Facebook announced today it’s suing multiple developers in the U.S. and, for the first time, in the U.K., for violations of its policies. In the U.K., both Facebook Inc. and Facebook Ireland are suing MobiBurn, parent company OakSmart Technologies, and its fo…*
+       - *Juni Learning connects kids with math and science tutors, but co-founder Vivian Shen would prefer not to be lumped in with other edtech startups, despite the sector’s pandemic-born boom. “We’re not just in the middle to take a few percentage points off of eac…*
       
 
 <br />
