@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The button is working, only, it cannot be seen.
+Dealing with failure is easy: Work hard to improve.
 
-~ Anonymous
+~ Alan Perlis
 <pre>
 
 </pre>
