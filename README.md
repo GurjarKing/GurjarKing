@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
-~ Alan Perlis
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ If you have a procedure with 10 parameters, you probably missed some.
 </pre>
 <strong>Daily News</strong>
   
-  - Passion Capital has backed Fronted, the startup that wants to offers loans to cover rent deposits
+  - Fairphone's new flagship, the 3+, costs just €70 as a modular upgrade
      <hr/>
      
-      - *Fronted, the new London-based startup aiming to make life easier for renters, including lending the cash needed for a deposit, has picked up seed investment from Passion Capital. The investment showed up in a recent regulatory filing for the company. The exac…*
+      - *Dutch social enterprise, Fairphone, has moved a little closer to the sustainability dream of a circular economy by announcing the launch of a modular upgrade for its flagship smartphone. The backwards compatible hardware units mean users of last year’s Fairph…*
      
+  - Passion Capital has backed Fronted, the startup that wants to offers loans to cover rent deposits
+      <hr/>
+      
+      - *Fronted, the new London-based startup aiming to make life easier for renters, including lending the cash needed for a deposit, has picked up seed investment from Passion Capital. The investment showed up in a recent regulatory filing for the company. The exac…*
+      
   - On-demand grocery startup Instashop acquired by Delivery Hero for $360M -- Greece's biggest tech exit yet
       <hr/>
       
@@ -71,16 +76,11 @@ If you have a procedure with 10 parameters, you probably missed some.
       <hr/>
       
       - *Kevin Mayer, the chief executive of TikTok, announced on Wednesday that he is resigning, just over 100 days after the former Disney executive joined the world’s largest short video app in mid-May. The news came just days came on the heel of TikTok’s move to s…*
-      
+       
   - Facebook removes 'Kenosha Guard' militia account after shooter kills two at protest
       <hr/>
-      
-      - *Facebook has removed a local self-declared militia’s page and a related event following the events that unfolded last night in Kenosha, Wisconsin. Two people were killed and another was wounded when a man believed to be 17-year-old Kyle Rittenhouse began firi…*
        
-  - Here’s the Surface Duo
-      <hr/>
-       
-       - *I can’t remember the last time I did a hands-on with a device prior to powering it on. The idea of basing posts entirely around glamour shots without really interfacing with the product feels like a relic of an early era of gadget blogging. But every so often…*
+       - *Facebook has removed a local self-declared militia’s page and a related event following the events that unfolded last night in Kenosha, Wisconsin. Two people were killed and another was wounded when a man believed to be 17-year-old Kyle Rittenhouse began firi…*
       
 
 <br />
