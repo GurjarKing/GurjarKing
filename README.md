@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
-~ Donald Knuth
+~ Ted Nelson
 <pre>
 
 </pre>
