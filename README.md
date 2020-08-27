@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 
-~ Tony Hoare
+~ William Wulf
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ There are two ways of constructing a software design: One way is to make it so s
 </pre>
 <strong>Daily News</strong>
   
-  - Will automation eliminate data science positions?
+  - Facebook isn't happy about Apple's upcoming ad tracking restrictions
      <hr/>
      
-      - *Michael Li Contributor Share on Twitter Tianhui Michael Li is founder of The Data Incubator, an eight-week fellowship to help PhDs and postdocs transition from academia into industry. Previously, he headed monetization data science at Foursquare and has worke…*
+      - *Apple’s upcoming operating system iOS 14 (currently in public beta) could have a big impact on publishers who work with Facebook’s — at least, according to Facebook. The company published a couple of blog posts yesterday outlining the potential impact of a ma…*
      
-  - Bollinger shows off an electric delivery van headed for production in 2022
+  - The reMarkable 2 improves on the original in every way, but remains firmly in its niche
       <hr/>
       
-      - *Bollinger Motors, the Michigan-based startup known for its rugged electric SUV and pickup truck, unveiled Thursday a delivery van concept that it plans to start producing in 2022. The big takeaway here is versatility. The van concept called Deliver-E is confi…*
+      - *I’d been asking for something like the reMarkable for a long time before it showed up out of the blue a few years ago. The device was a real treat, but had a few problems and an eye-popping price tag. The reMarkable 2 builds on the first with a more beautiful…*
       
-  - Instacart faces lawsuit from DC Attorney General over 'deceptive' service fees
+  - A faster, easier, cheaper way of going public
       <hr/>
       
-      - *Instacart is facing a lawsuit from Washington, D.C. Attorney General Karl A. Racine that alleges the company charged customers millions of dollars in “deceptive service fees” and failed to pay hundreds of thousands of dollars worth of sales tax. The suit seek…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This is the fourth episode of the week, pushing our production calendar to the test. Happily we’ve managed to h…*
       
-  - Berbix raises $9M for its identity verification platform
+  - To reach scale, Juni Learning is building a full-stack edtech experience
       <hr/>
       
-      - *Berbix, an ID verification startup that was founded by former members of the Airbnb Trust and Safety team, today announced that it has raised a $9 million Series A round led by Mayfield. Existing investors, including Initialized Capital, Y Combinator and Fika…*
+      - *Juni Learning connects kids with math and science tutors, but co-founder Vivian Shen would prefer not to be lumped in with other edtech startups, despite the sector’s pandemic-born boom. “We’re not just in the middle to take a few percentage points off of eac…*
        
-  - Discord says user abuse reports have doubled since last year
+  - Facebook sues developers who violated terms to collect user data, sell fake 'likes'
       <hr/>
        
-       - *Discord said removed four million accounts for spamming.*
+       - *Facebook announced today it’s suing multiple developers in the U.S. and, for the first time, in the U.K., for violations of its policies. In the U.K., both Facebook Inc. and Facebook Ireland are suing MobiBurn, parent company OakSmart Technologies, and its fo…*
       
 
 <br />
