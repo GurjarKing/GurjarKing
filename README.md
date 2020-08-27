@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
 
-~ Daniel T. Barry
+~ John von Neumann
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Any technological or managerial scheme to force documentation can be subverted b
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok CEO Kevin Mayer resigns after 100 days
+  - On-demand grocery startup Instashop acquired by Delivery Hero for $360M -- Greece's biggest tech exit yet
      <hr/>
      
-      - *Kevin Mayer, the chief executive of TikTok, announced on Wednesday that he is resigning, just over 100 days after the former Disney executive joined the world’s largest short video app in mid-May. The news came just days came on the heel of TikTok’s move to s…*
+      - *Instashop, the Greece-headquartered on-demand grocery business, is being acquired by Delivery Hero for $360 million — thought to be the country’s biggest tech exit yet. The strategy behind the acquisition is to provide Delivery Hero, a global operator in take…*
      
+  - TikTok CEO Kevin Mayer resigns after 100 days
+      <hr/>
+      
+      - *Kevin Mayer, the chief executive of TikTok, announced on Wednesday that he is resigning, just over 100 days after the former Disney executive joined the world’s largest short video app in mid-May. The news came just days came on the heel of TikTok’s move to s…*
+      
   - Facebook removes 'Kenosha Guard' militia account after shooter kills two at protest
       <hr/>
       
@@ -71,16 +76,11 @@ Any technological or managerial scheme to force documentation can be subverted b
       <hr/>
       
       - *I can’t remember the last time I did a hands-on with a device prior to powering it on. The idea of basing posts entirely around glamour shots without really interfacing with the product feels like a relic of an early era of gadget blogging. But every so often…*
-      
+       
   - Daily Crunch: Spotify is testing virtual events
       <hr/>
-      
-      - *Spotify explores virtual concerts, Twitter tests a “quotes” count and Google’s Nest Hub becomes more hotel-friendly. This is your Daily Crunch for August 26, 2020. The big story: Spotify is testing virtual events We can’t have real-world concerts at the momen…*
        
-  - Instagram Guides may soon allow creators to recommended places, products and more
-      <hr/>
-       
-       - *Instagram is working to expand its recently launched “Guides” feature which initially debuted with a specific focus on wellness content. The feature, which launched in May, has allowed select organizations and experts to share resources related to managing yo…*
+       - *Spotify explores virtual concerts, Twitter tests a “quotes” count and Google’s Nest Hub becomes more hotel-friendly. This is your Daily Crunch for August 26, 2020. The big story: Spotify is testing virtual events We can’t have real-world concerts at the momen…*
       
 
 <br />
