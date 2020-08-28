@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+Any sufficiently advanced technology is indistinguishable from magic.
 
-~ Steve Jobs
+~ Arthur C. Clarke
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ It is hard to think that a $2 billion company with 4,300-plus people couldn't co
 </pre>
 <strong>Daily News</strong>
   
-  - Laura Deming, Frederik Groce, Amish Jani, Jessica Verilli, and Vanessa Larco are coming to Disrupt
+  - What does GPT-3 mean for the future of the legal profession?
      <hr/>
      
-      - *At TechCrunch Disrupt, our Startup Battlefield competition this year looks to be fiercer than ever, judging by the applicants. That’s actually saying something, considering the game-changing brands to emerge from our stage over the years, including Cloudflare…*
+      - *GPT-3 provides some new tools in a legal department’s arsenal and will be focused on assessing practical, impactful solutions, hopefully making better legal organizations in the process.*
      
+  - Laura Deming, Frederik Groce, Amish Jani, Jessica Verilli, and Vanessa Larco are coming to Disrupt
+      <hr/>
+      
+      - *At TechCrunch Disrupt, our Startup Battlefield competition this year looks to be fiercer than ever, judging by the applicants. That’s actually saying something, considering the game-changing brands to emerge from our stage over the years, including Cloudflare…*
+      
   - Facebook tests linking your FB account to your news subscriptions
       <hr/>
       
@@ -71,16 +76,11 @@ It is hard to think that a $2 billion company with 4,300-plus people couldn't co
       <hr/>
       
       - *The front-facing camera has been a pretty constant bugbear for phone makers for a number of years now. Xiaomi certainly isn’t the first to offer a clever technological solution to the problem — and it’s also certainly not the only company to have show off und…*
-      
+       
   - SaaS stocks survive earnings, keeping the market warm for software startups, exits
       <hr/>
-      
-      - *We’re on the other end of nearly every single SaaS earnings report that you can name, with the exception of Slack, and shares of software companies are holding onto their year’s gains. Which means SaaS and cloud companies have made it through a somewhat steep…*
        
-  - Android security bug let malicious apps siphon off private user data
-      <hr/>
-       
-       - *The bug, now fixed, could be abused to steal sensitive and private data from other apps.*
+       - *We’re on the other end of nearly every single SaaS earnings report that you can name, with the exception of Slack, and shares of software companies are holding onto their year’s gains. Which means SaaS and cloud companies have made it through a somewhat steep…*
       
 
 <br />
