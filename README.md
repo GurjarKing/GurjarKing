@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The real problem with throwaway code comes when it isn't thrown away.
+Once the computers got control, we might never get it back.
 
-~ Joseph Yoder (computer scientist)
+~ Marvin Minsky
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ The real problem with throwaway code comes when it isn't thrown away.
 </pre>
 <strong>Daily News</strong>
   
-  - Femtech poised for growth beyond fertility
+  - Android security bug let malicious apps siphon off private user data
      <hr/>
      
-      - *The market for female-focused health products (aka ‘femtech’) is set for growth via segmentation, per an analyst note from PitchBook which identifies opportunities for entrepreneurs to target a growing number of health issues that specifically affect women or…*
+      - *The bug, now fixed, could be abused to steal sensitive and private data from other apps.*
      
+  - Femtech poised for growth beyond fertility
+      <hr/>
+      
+      - *The market for female-focused health products (aka ‘femtech’) is set for growth via segmentation, per an analyst note from PitchBook which identifies opportunities for entrepreneurs to target a growing number of health issues that specifically affect women or…*
+      
   - Railsbank is buying Wirecard Card Solutions, the UK arm of the disgraced fintech
       <hr/>
       
@@ -71,16 +76,11 @@ The real problem with throwaway code comes when it isn't thrown away.
       <hr/>
       
       - *Undermyfork, a diabetes tracking app designed to help people with the disease improve “time-in-range” and better manage their condition, has raised $400,000 in seed funding. Investment comes from AltaIR Capital and Runa Capital . Undermyfork co-founder Mike U…*
-      
+       
   - Presenting TechCrunch Disrupt's Asia sessions
       <hr/>
-      
-      - *As you know by now, Disrupt is going completely virtual for its 10th anniversary. TechCrunch’s Asia team (me, Rita Liao and Manish Singh) will miss seeing everyone in Moscone Center, but this will be the most accessible Disrupt ever, and we are excited to bri…*
        
-  - Elon Musk confirms Tesla was target of foiled ransomware attack
-      <hr/>
-       
-       - *Elon Musk called an attempted cyberattack against Tesla “serious,” a comment that confirms the company was the target of a foiled ransomware attempt at its massive factory near Reno, Nevada. The Justice Department released a complaint Thursday that described …*
+       - *As you know by now, Disrupt is going completely virtual for its 10th anniversary. TechCrunch’s Asia team (me, Rita Liao and Manish Singh) will miss seeing everyone in Moscone Center, but this will be the most accessible Disrupt ever, and we are excited to bri…*
       
 
 <br />
