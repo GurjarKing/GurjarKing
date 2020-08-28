@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-In handling resources, strive to avoid disaster rather than to attain an optimum.
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 
-~ Butler Lampson
+~ Elon Musk
 <pre>
 
 </pre>
