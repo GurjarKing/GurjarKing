@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 
-~ Carl Friedrich Gauss
+~ Steve Jobs
 <pre>
 
 </pre>
