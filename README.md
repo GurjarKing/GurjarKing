@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Programming can be addictive.
+Dealing with failure is easy: Work hard to improve.
 
-~ Bob Carr
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Programming can be addictive.
 </pre>
 <strong>Daily News</strong>
   
-  - Boeing and NASA target December for second try at uncrewed orbital demonstration flight
+  - Human Capital: 'People were afraid of being critical with me'
      <hr/>
      
-      - *NASA and Boeing have provided some updates around their Commercial Crew plans, which aim to get Boeing’s CST-100 spacecraft certified for regular human flight. The CST-100 and Boeing’s Commercial Crew aspirations hit a snag last year with a first attempt of a…*
+      - *Welcome back to Human Capital, where we break down the latest in labor, and diversity and inclusion in tech. This week, we’re looking at the launch of the Diversity Riders initiative in venture capital and how it can go further, Instacart’s labor practices an…*
      
+  - Watch Elon Musk's Neuralink brain computer interface progress update live
+      <hr/>
+      
+      - *Elon Musk is set to deliver a progress update for Neuralink, the company and technology he founded that aims to create a direct, ultra-low latency connection between our brains and our computers. The update will kick off at 3 PM PT (6 PM ET), and will be stre…*
+      
+  - Banks aren't as stupid as enterprise AI and fintech entrepreneurs think
+      <hr/>
+      
+      - *The right question is almost never whether to buy software or build it internally. Instead, banks have often worked to walk the difficult but smarter path right down the middle.*
+      
+  - Boeing and NASA target December for second try at uncrewed orbital demonstration flight
+      <hr/>
+      
+      - *NASA and Boeing have provided some updates around their Commercial Crew plans, which aim to get Boeing’s CST-100 spacecraft certified for regular human flight. The CST-100 and Boeing’s Commercial Crew aspirations hit a snag last year with a first attempt of a…*
+       
   - GM shifts Corvette engineering team to its electric and autonomous vehicle programs
       <hr/>
-      
-      - *GM is moving the engineering team responsible for the mid-engine Chevrolet Corvette to the company’s electric and autonomous vehicle programs to “push the boundaries” on what its future EV battery systems and components can deliver, according to an internal m…*
-      
-  - Podcast is social: How China's Lizhi makes audio interactive
-      <hr/>
-      
-      - *For Marco Lai, the founder of Chinese podcast network Lizhi, radio has always been social. Twenty years ago, the entrepreneur was a host at a radio station in southern China. He ran a late-night program where listeners could call in and chat about anything as…*
-      
-  - Hear from Lyft, Cruise, Nuro and Aurora about the road ahead for driverless vehicles
-      <hr/>
-      
-      - *Autonomous vehicles have yet to become mainstream, but companies like Lyft, Cruise, Nuro and Aurora are still fighting the good fight. The AV space has always faced its share of regulatory and development hurdles, but this year brought a new set of hurdles wi…*
        
-  - What does GPT-3 mean for the future of the legal profession?
-      <hr/>
-       
-       - *GPT-3 provides some new tools in a legal department’s arsenal and will be focused on assessing practical, impactful solutions, hopefully making better legal organizations in the process.*
+       - *GM is moving the engineering team responsible for the mid-engine Chevrolet Corvette to the company’s electric and autonomous vehicle programs to “push the boundaries” on what its future EV battery systems and components can deliver, according to an internal m…*
       
 
 <br />
