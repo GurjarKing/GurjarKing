@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 
-~ Poul-Henning Kamp
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Make a guess, double the number, and then move to the next larger unit of time. 
 </pre>
 <strong>Daily News</strong>
   
-  - Apple terminates Epic Games' App Store account
+  - Daily Crunch: Tesla targeted in ransomware attack
      <hr/>
      
-      - *Epic Games has been removed from Apple’s App Store. If you’ve already downloaded Fortnite to your Mac or iOS device, it should still work, but Epic’s termination means the Fortnite developer will no longer be able to submit new apps or updates. MacStories Man…*
+      - *The Justice Department reveals a thwarted malware attack on Tesla, Facebook tests linking your news subscriptions to your social network account and Xiaomi has plans for under-screen cameras. This is your Daily Crunch for August 28, 2020. The big story: Tesla…*
      
+  - Apple terminates Epic Games' App Store account
+      <hr/>
+      
+      - *Epic Games has been removed from Apple’s App Store. If you’ve already downloaded Fortnite to your Mac or iOS device, it should still work, but Epic’s termination means the Fortnite developer will no longer be able to submit new apps or updates. MacStories Man…*
+      
   - IFA's executive director discusses why the tech show must go on
       <hr/>
       
@@ -71,16 +76,11 @@ Make a guess, double the number, and then move to the next larger unit of time. 
       <hr/>
       
       - *For years, India has served as the largest open battleground for Silicon Valley and Chinese firms searching for their next billion users. With more than 400 million WhatsApp users, India is already the largest market for the Facebook-owned service. The social…*
-      
+       
   - Steno raises $3.5 million led by First Round to become an extension of law offices
       <hr/>
-      
-      - *The global legal services industry was worth $849 billion dollars in 2017 and is expected to become a trillion dollar industry by the end of next year. Little wonder that Steno, an L.A.-based startup, wants a piece. Like most legal services outfits, what it o…*
        
-  - Human Capital: 'People were afraid of being critical with me'
-      <hr/>
-       
-       - *Welcome back to Human Capital, where we break down the latest in labor, and diversity and inclusion in tech. This week, we’re looking at the launch of the Diversity Riders initiative in venture capital and how it can go further, Instacart’s labor practices an…*
+       - *The global legal services industry was worth $849 billion dollars in 2017 and is expected to become a trillion dollar industry by the end of next year. Little wonder that Steno, an L.A.-based startup, wants a piece. Like most legal services outfits, what it o…*
       
 
 <br />
