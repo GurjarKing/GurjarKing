@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Imagination is more important than knowledge.
+Programming can be addictive.
 
-~ Albert Einstein
+~ Bob Carr
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Imagination is more important than knowledge.
 </pre>
 <strong>Daily News</strong>
   
-  - GM shifts Corvette engineering team to its electric and autonomous vehicle programs
+  - Boeing and NASA target December for second try at uncrewed orbital demonstration flight
      <hr/>
      
-      - *GM is moving the engineering team responsible for the mid-engine Chevrolet Corvette to the company’s electric and autonomous vehicle programs to “push the boundaries” on what its future EV battery systems and components can deliver, according to an internal m…*
+      - *NASA and Boeing have provided some updates around their Commercial Crew plans, which aim to get Boeing’s CST-100 spacecraft certified for regular human flight. The CST-100 and Boeing’s Commercial Crew aspirations hit a snag last year with a first attempt of a…*
      
+  - GM shifts Corvette engineering team to its electric and autonomous vehicle programs
+      <hr/>
+      
+      - *GM is moving the engineering team responsible for the mid-engine Chevrolet Corvette to the company’s electric and autonomous vehicle programs to “push the boundaries” on what its future EV battery systems and components can deliver, according to an internal m…*
+      
   - Podcast is social: How China's Lizhi makes audio interactive
       <hr/>
       
@@ -71,16 +76,11 @@ Imagination is more important than knowledge.
       <hr/>
       
       - *Autonomous vehicles have yet to become mainstream, but companies like Lyft, Cruise, Nuro and Aurora are still fighting the good fight. The AV space has always faced its share of regulatory and development hurdles, but this year brought a new set of hurdles wi…*
-      
+       
   - What does GPT-3 mean for the future of the legal profession?
       <hr/>
-      
-      - *GPT-3 provides some new tools in a legal department’s arsenal and will be focused on assessing practical, impactful solutions, hopefully making better legal organizations in the process.*
        
-  - Laura Deming, Frederik Groce, Amish Jani, Jessica Verilli, and Vanessa Larco are coming to Disrupt
-      <hr/>
-       
-       - *At TechCrunch Disrupt, our Startup Battlefield competition this year looks to be fiercer than ever, judging by the applicants. That’s actually saying something, considering the game-changing brands to emerge from our stage over the years, including Cloudflare…*
+       - *GPT-3 provides some new tools in a legal department’s arsenal and will be focused on assessing practical, impactful solutions, hopefully making better legal organizations in the process.*
       
 
 <br />
