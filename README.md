@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The button is working, only, it cannot be seen.
+A clever person solves a problem. A wise person avoids it.
 
-~ Anonymous
+~ Albert Einstein
 <pre>
 
 </pre>
