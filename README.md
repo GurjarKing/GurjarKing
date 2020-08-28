@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A clever person solves a problem. A wise person avoids it.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Albert Einstein
+~ Butler Lampson
 <pre>
 
 </pre>
