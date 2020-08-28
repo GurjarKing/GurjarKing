@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Dealing with failure is easy: Work hard to improve.
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 
-~ Alan Perlis
+~ Kent Beck
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Dealing with failure is easy: Work hard to improve.
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: 'People were afraid of being critical with me'
+  - TikTok's rivals in India struggle to cash in on its ban
      <hr/>
      
-      - *Welcome back to Human Capital, where we break down the latest in labor, and diversity and inclusion in tech. This week, we’re looking at the launch of the Diversity Riders initiative in venture capital and how it can go further, Instacart’s labor practices an…*
+      - *For years, India has served as the largest open battleground for Silicon Valley and Chinese firms searching for their next billion users. With more than 400 million WhatsApp users, India is already the largest market for the Facebook-owned service. The social…*
      
+  - Steno raises $3.5 million led by First Round to become an extension of law offices
+      <hr/>
+      
+      - *The global legal services industry was worth $849 billion dollars in 2017 and is expected to become a trillion dollar industry by the end of next year. Little wonder that Steno, an L.A.-based startup, wants a piece. Like most legal services outfits, what it o…*
+      
+  - Human Capital: 'People were afraid of being critical with me'
+      <hr/>
+      
+      - *Welcome back to Human Capital, where we break down the latest in labor, and diversity and inclusion in tech. This week, we’re looking at the launch of the Diversity Riders initiative in venture capital and how it can go further, Instacart’s labor practices an…*
+      
   - Watch Elon Musk's Neuralink brain computer interface progress update live
       <hr/>
       
       - *Elon Musk is set to deliver a progress update for Neuralink, the company and technology he founded that aims to create a direct, ultra-low latency connection between our brains and our computers. The update will kick off at 3 PM PT (6 PM ET), and will be stre…*
-      
+       
   - Banks aren't as stupid as enterprise AI and fintech entrepreneurs think
       <hr/>
-      
-      - *The right question is almost never whether to buy software or build it internally. Instead, banks have often worked to walk the difficult but smarter path right down the middle.*
-      
-  - Boeing and NASA target December for second try at uncrewed orbital demonstration flight
-      <hr/>
-      
-      - *NASA and Boeing have provided some updates around their Commercial Crew plans, which aim to get Boeing’s CST-100 spacecraft certified for regular human flight. The CST-100 and Boeing’s Commercial Crew aspirations hit a snag last year with a first attempt of a…*
        
-  - GM shifts Corvette engineering team to its electric and autonomous vehicle programs
-      <hr/>
-       
-       - *GM is moving the engineering team responsible for the mid-engine Chevrolet Corvette to the company’s electric and autonomous vehicle programs to “push the boundaries” on what its future EV battery systems and components can deliver, according to an internal m…*
+       - *The right question is almost never whether to buy software or build it internally. Instead, banks have often worked to walk the difficult but smarter path right down the middle.*
       
 
 <br />
