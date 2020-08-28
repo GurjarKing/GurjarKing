@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+Machines take me by surprise with great frequency.
 
-~ Bjarne Stroustrup
+~ Alan Turing
 <pre>
 
 </pre>
