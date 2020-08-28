@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
-~ Terry Winograd
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ The main activity of programming is not the origination of new independent progr
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: TikTok's CEO resigns
+  - Presenting TechCrunch Disrupt's Asia sessions
      <hr/>
      
-      - *Turmoil continues at TikTok, Salesforce lays off 1,000 people and Warby Parker is now valued at $3 billion. This is your Daily Crunch for August 27, 2020. The big story: TikTok’s CEO resigns Kevin Mayer, the former Disney executive who joined TikTok as CEO ju…*
+      - *As you know by now, Disrupt is going completely virtual for its 10th anniversary. TechCrunch’s Asia team (me, Rita Liao and Manish Singh) will miss seeing everyone in Moscone Center, but this will be the most accessible Disrupt ever, and we are excited to bri…*
      
+  - Elon Musk confirms Tesla was target of foiled ransomware attack
+      <hr/>
+      
+      - *Elon Musk called an attempted cyberattack against Tesla “serious,” a comment that confirms the company was the target of a foiled ransomware attempt at its massive factory near Reno, Nevada. The Justice Department released a complaint Thursday that described …*
+      
+  - Daily Crunch: TikTok's CEO resigns
+      <hr/>
+      
+      - *Turmoil continues at TikTok, Salesforce lays off 1,000 people and Warby Parker is now valued at $3 billion. This is your Daily Crunch for August 27, 2020. The big story: TikTok’s CEO resigns Kevin Mayer, the former Disney executive who joined TikTok as CEO ju…*
+      
   - LG is releasing a ‘wearable air purifier’
       <hr/>
       
       - *Frankly, the most surprising thing about the PuriCare is that more tech companies haven’t launched a similar product in recent months. LG is showing it off as part of the upcoming IFA press conference in Berlin — though the company is opting for a virtual pre…*
-      
+       
   - Electric moped startup Revel returns to New York with helmet selfie, other in-app safety features
       <hr/>
-      
-      - *Shared electric moped startup Revel has resumed operations in New York City a month after shutting down its service following several deaths. The startup’s blue mopeds that had become a familiar sight in New York City are back, but with a number of new protoc…*
-      
-  - KitchenMate makes it easy to cook fresh meals at work
-      <hr/>
-      
-      - *KitchenMate is a Toronto-based startup promising businesses a fresh approach to feeding their employees. The startup has raised $3.5 million in seed funding led by Eniac Ventures and Golden Ventures, with participation from FJ Labs and Techstars. It’s also ex…*
        
-  - Box benefits from digital transformation as it raises its growth forecast
-      <hr/>
-       
-       - *Box has always been a bit of an enigma for Wall Street and perhaps for enterprise software in general. Unlike vendors who shifted tools like HR, CRM or ERP to the cloud, Box has been building a way to manage content in the cloud. It’s been a little harder to …*
+       - *Shared electric moped startup Revel has resumed operations in New York City a month after shutting down its service following several deaths. The startup’s blue mopeds that had become a familiar sight in New York City are back, but with a number of new protoc…*
       
 
 <br />
