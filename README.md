@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 
-~ René Descartes
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
