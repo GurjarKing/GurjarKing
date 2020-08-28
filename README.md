@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The purpose of software engineering is to control complexity, not to create it.
+The real problem with throwaway code comes when it isn't thrown away.
 
-~ Pamela Zave
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
