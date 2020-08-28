@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 
-~ Edsger W. Dijkstra
+~ René Descartes
 <pre>
 
 </pre>
