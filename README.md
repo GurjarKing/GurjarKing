@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 
-~ Bill Gates
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
