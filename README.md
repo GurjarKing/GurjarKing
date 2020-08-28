@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Any sufficiently advanced technology is indistinguishable from magic.
+Imagination is more important than knowledge.
 
-~ Arthur C. Clarke
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Any sufficiently advanced technology is indistinguishable from magic.
 </pre>
 <strong>Daily News</strong>
   
-  - What does GPT-3 mean for the future of the legal profession?
+  - GM shifts Corvette engineering team to its electric and autonomous vehicle programs
      <hr/>
      
-      - *GPT-3 provides some new tools in a legal department’s arsenal and will be focused on assessing practical, impactful solutions, hopefully making better legal organizations in the process.*
+      - *GM is moving the engineering team responsible for the mid-engine Chevrolet Corvette to the company’s electric and autonomous vehicle programs to “push the boundaries” on what its future EV battery systems and components can deliver, according to an internal m…*
      
+  - Podcast is social: How China's Lizhi makes audio interactive
+      <hr/>
+      
+      - *For Marco Lai, the founder of Chinese podcast network Lizhi, radio has always been social. Twenty years ago, the entrepreneur was a host at a radio station in southern China. He ran a late-night program where listeners could call in and chat about anything as…*
+      
+  - Hear from Lyft, Cruise, Nuro and Aurora about the road ahead for driverless vehicles
+      <hr/>
+      
+      - *Autonomous vehicles have yet to become mainstream, but companies like Lyft, Cruise, Nuro and Aurora are still fighting the good fight. The AV space has always faced its share of regulatory and development hurdles, but this year brought a new set of hurdles wi…*
+      
+  - What does GPT-3 mean for the future of the legal profession?
+      <hr/>
+      
+      - *GPT-3 provides some new tools in a legal department’s arsenal and will be focused on assessing practical, impactful solutions, hopefully making better legal organizations in the process.*
+       
   - Laura Deming, Frederik Groce, Amish Jani, Jessica Verilli, and Vanessa Larco are coming to Disrupt
       <hr/>
-      
-      - *At TechCrunch Disrupt, our Startup Battlefield competition this year looks to be fiercer than ever, judging by the applicants. That’s actually saying something, considering the game-changing brands to emerge from our stage over the years, including Cloudflare…*
-      
-  - Facebook tests linking your FB account to your news subscriptions
-      <hr/>
-      
-      - *Facebook is testing out a new feature that could help news publishers create a better experience for paying subscribers on the social network. The idea is that when Facebook identifies a subscriber from one of its publisher partners, that subscriber will be i…*
-      
-  - Xiaomi plans to bring under-screen cameras to its smartphones next year
-      <hr/>
-      
-      - *The front-facing camera has been a pretty constant bugbear for phone makers for a number of years now. Xiaomi certainly isn’t the first to offer a clever technological solution to the problem — and it’s also certainly not the only company to have show off und…*
        
-  - SaaS stocks survive earnings, keeping the market warm for software startups, exits
-      <hr/>
-       
-       - *We’re on the other end of nearly every single SaaS earnings report that you can name, with the exception of Slack, and shares of software companies are holding onto their year’s gains. Which means SaaS and cloud companies have made it through a somewhat steep…*
+       - *At TechCrunch Disrupt, our Startup Battlefield competition this year looks to be fiercer than ever, judging by the applicants. That’s actually saying something, considering the game-changing brands to emerge from our stage over the years, including Cloudflare…*
       
 
 <br />
