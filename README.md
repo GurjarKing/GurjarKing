@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 
-~ Marvin Minsky
+~ Terry Winograd
 <pre>
 
 </pre>
