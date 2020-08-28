@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Once the computers got control, we might never get it back.
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 
-~ Marvin Minsky
+~ Carl Friedrich Gauss
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Once the computers got control, we might never get it back.
 </pre>
 <strong>Daily News</strong>
   
-  - Android security bug let malicious apps siphon off private user data
+  - Laura Deming, Frederik Groce, Amish Jani, Jessica Verilli, and Vanessa Larco are coming to Disrupt
      <hr/>
      
-      - *The bug, now fixed, could be abused to steal sensitive and private data from other apps.*
+      - *At TechCrunch Disrupt, our Startup Battlefield competition this year looks to be fiercer than ever, judging by the applicants. That’s actually saying something, considering the game-changing brands to emerge from our stage over the years, including Cloudflare…*
      
-  - Femtech poised for growth beyond fertility
+  - Facebook tests linking your FB account to your news subscriptions
       <hr/>
       
-      - *The market for female-focused health products (aka ‘femtech’) is set for growth via segmentation, per an analyst note from PitchBook which identifies opportunities for entrepreneurs to target a growing number of health issues that specifically affect women or…*
+      - *Facebook is testing out a new feature that could help news publishers create a better experience for paying subscribers on the social network. The idea is that when Facebook identifies a subscriber from one of its publisher partners, that subscriber will be i…*
       
-  - Railsbank is buying Wirecard Card Solutions, the UK arm of the disgraced fintech
+  - Xiaomi plans to bring under-screen cameras to its smartphones next year
       <hr/>
       
-      - *Looks like another chapter is opening up for Wirecard, the disgraced fintech out of Germany that collapsed into insolvency earlier this year after facing a huge accounting scandal and subsequently failing to make payments on $1.5 billion in loans coming due. …*
+      - *The front-facing camera has been a pretty constant bugbear for phone makers for a number of years now. Xiaomi certainly isn’t the first to offer a clever technological solution to the problem — and it’s also certainly not the only company to have show off und…*
       
-  - Undermyfork scores $400K seed for its diabetes tracking app and US launch
+  - SaaS stocks survive earnings, keeping the market warm for software startups, exits
       <hr/>
       
-      - *Undermyfork, a diabetes tracking app designed to help people with the disease improve “time-in-range” and better manage their condition, has raised $400,000 in seed funding. Investment comes from AltaIR Capital and Runa Capital . Undermyfork co-founder Mike U…*
+      - *We’re on the other end of nearly every single SaaS earnings report that you can name, with the exception of Slack, and shares of software companies are holding onto their year’s gains. Which means SaaS and cloud companies have made it through a somewhat steep…*
        
-  - Presenting TechCrunch Disrupt's Asia sessions
+  - Android security bug let malicious apps siphon off private user data
       <hr/>
        
-       - *As you know by now, Disrupt is going completely virtual for its 10th anniversary. TechCrunch’s Asia team (me, Rita Liao and Manish Singh) will miss seeing everyone in Moscone Center, but this will be the most accessible Disrupt ever, and we are excited to bri…*
+       - *The bug, now fixed, could be abused to steal sensitive and private data from other apps.*
       
 
 <br />
