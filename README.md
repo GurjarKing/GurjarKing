@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
+The purpose of software engineering is to control complexity, not to create it.
 
-~ Paul Graham (programmer)
+~ Pamela Zave
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ In programming the hard part isn’t solving problems, but deciding what problem
 </pre>
 <strong>Daily News</strong>
   
-  - Undermyfork scores $400K seed for its diabetes tracking app and US launch
+  - Femtech poised for growth beyond fertility
      <hr/>
      
-      - *Undermyfork, a diabetes tracking app designed to help people with the disease improve “time-in-range” and better manage their condition, has raised $400,000 in seed funding. Investment comes from AltaIR Capital and Runa Capital . Undermyfork co-founder Mike U…*
+      - *The market for female-focused health products (aka ‘femtech’) is set for growth via segmentation, per an analyst note from PitchBook which identifies opportunities for entrepreneurs to target a growing number of health issues that specifically affect women or…*
      
+  - Railsbank is buying Wirecard Card Solutions, the UK arm of the disgraced fintech
+      <hr/>
+      
+      - *Looks like another chapter is opening up for Wirecard, the disgraced fintech out of Germany that collapsed into insolvency earlier this year after facing a huge accounting scandal and subsequently failing to make payments on $1.5 billion in loans coming due. …*
+      
+  - Undermyfork scores $400K seed for its diabetes tracking app and US launch
+      <hr/>
+      
+      - *Undermyfork, a diabetes tracking app designed to help people with the disease improve “time-in-range” and better manage their condition, has raised $400,000 in seed funding. Investment comes from AltaIR Capital and Runa Capital . Undermyfork co-founder Mike U…*
+      
   - Presenting TechCrunch Disrupt's Asia sessions
       <hr/>
       
       - *As you know by now, Disrupt is going completely virtual for its 10th anniversary. TechCrunch’s Asia team (me, Rita Liao and Manish Singh) will miss seeing everyone in Moscone Center, but this will be the most accessible Disrupt ever, and we are excited to bri…*
-      
+       
   - Elon Musk confirms Tesla was target of foiled ransomware attack
       <hr/>
-      
-      - *Elon Musk called an attempted cyberattack against Tesla “serious,” a comment that confirms the company was the target of a foiled ransomware attempt at its massive factory near Reno, Nevada. The Justice Department released a complaint Thursday that described …*
-      
-  - Daily Crunch: TikTok's CEO resigns
-      <hr/>
-      
-      - *Turmoil continues at TikTok, Salesforce lays off 1,000 people and Warby Parker is now valued at $3 billion. This is your Daily Crunch for August 27, 2020. The big story: TikTok’s CEO resigns Kevin Mayer, the former Disney executive who joined TikTok as CEO ju…*
        
-  - LG is releasing a ‘wearable air purifier’
-      <hr/>
-       
-       - *Frankly, the most surprising thing about the PuriCare is that more tech companies haven’t launched a similar product in recent months. LG is showing it off as part of the upcoming IFA press conference in Berlin — though the company is opting for a virtual pre…*
+       - *Elon Musk called an attempted cyberattack against Tesla “serious,” a comment that confirms the company was the target of a foiled ransomware attempt at its massive factory near Reno, Nevada. The Justice Department released a complaint Thursday that described …*
       
 
 <br />
