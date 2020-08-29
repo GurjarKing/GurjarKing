@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The purpose of computing is insight, not numbers.
+Debugging time increases as a square of the program’s size.
 
-~ Richard Hamming
+~ Chris Wenham
 <pre>
 
 </pre>
