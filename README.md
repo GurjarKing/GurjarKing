@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 
-~ Nathaniel Borenstein
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ It should be noted that no ethically-trained software engineer would ever consen
 </pre>
 <strong>Daily News</strong>
   
-  - India's Reliance Retail to acquire Future Group's retail, wholesale, and logistics businesses for $3.4 billion
+  - Startups Weekly: With Asana, JFrog, Palantir, Snowflake, Sumo and Unity, we're in peak season for tech IPOs
      <hr/>
      
-      - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
+      - *Pandemic numbers are looking better, it's still a couple months before US elections, and a growing line of tech companies have already ventured out into public markets successfully this summer.*
      
+  - A must-see conversation on the state of VC, this year at Disrupt
+      <hr/>
+      
+      - *On a surface level, the world of venture capital doesn’t look to change much year to year. But in truth, the industry is very much in flux, with many firms grappling with a lack of diversity, dealing with succession questions, and confronting a growing pipeli…*
+      
+  - India's Reliance Retail to acquire Future Group's retail, wholesale, and logistics businesses for $3.4 billion
+      <hr/>
+      
+      - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
+      
   - This Week in Apps: Unreal Engine saved, Fortnite banned and TikTok talks to everyone
       <hr/>
       
       - *This week, two big stories dominated the news: Apple's fight with Fortnite maker Epic Games and TikTok's negotiations with top U.S. tech firms over a sale.*
-      
+       
   - Walmart-exclusive TrillerTok will run on Azure, or Oracle, or something
       <hr/>
-      
-      - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
-      
-  - Original Content podcast: Netflix's 'High Score' is a selective tour through video game history
-      <hr/>
-      
-      - *“High Score” is a new Netflix documentary series that looks back at the early years of the video game industry. Across six episodes, key developers, artists, executives and even players discuss the initial arcade and home console boom, the emergence of Ninten…*
        
-  - Elon Musk demonstrates Neuralink's tech live using pigs with surgically-implanted brain monitoring devices
-      <hr/>
-       
-       - *Elon Musk -founded Neuralink has made headlines over the past many years around it efforts to develop a new kind of interface between the human brain and computing devices. On Friday, the company provided a demo of the technology, and Musk kicked off the demo…*
+       - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
       
 
 <br />
