@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+Once you stop learning you start dying.
 
-~ Henry Petroski
+~ Albert Einstein
 <pre>
 
 </pre>
