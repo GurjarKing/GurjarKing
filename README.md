@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Don't worry about anything. Just do what you can and be the best you can be.
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 
-~ Douglas Crockford
+~ Sean Parent
 <pre>
 
 </pre>
