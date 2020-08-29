@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 
-~ Edsger W. Dijkstra
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Are you quite sure that all those bells and whistles, all those wonderful facili
 </pre>
 <strong>Daily News</strong>
   
-  - Startups Weekly: With Asana, JFrog, Palantir, Snowflake, Sumo and Unity, we're in peak season for tech IPOs
+  - The week’s biggest IPO news had nothing to do with Monday’s S-1 deluge
      <hr/>
      
-      - *Pandemic numbers are looking better, it's still a couple months before US elections, and a growing line of tech companies have already ventured out into public markets successfully this summer.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. (You can sign up for the newsletter here!) Ready? Let’s talk m…*
      
+  - Reliable Robotics is bringing remote piloting to small cargo planes
+      <hr/>
+      
+      - *Nearly one year ago, a Cessna 172 Skyhawk stealthily made aviation history when it landed at a small airport in Northern California marking the completion of the first successful remote-piloted flight of a passenger airplane in the United States. The company …*
+      
+  - Startups Weekly: With Asana, JFrog, Palantir, Snowflake, Sumo and Unity, we're in peak season for tech IPOs
+      <hr/>
+      
+      - *Pandemic numbers are looking better, it's still a couple months before US elections, and a growing line of tech companies have already ventured out into public markets successfully this summer.*
+      
   - A must-see conversation on the state of VC, this year at Disrupt
       <hr/>
       
       - *On a surface level, the world of venture capital doesn’t look to change much year to year. But in truth, the industry is very much in flux, with many firms grappling with a lack of diversity, dealing with succession questions, and confronting a growing pipeli…*
-      
+       
   - India's Reliance Retail to acquire Future Group's retail, wholesale, and logistics businesses for $3.4 billion
       <hr/>
-      
-      - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
-      
-  - This Week in Apps: Unreal Engine saved, Fortnite banned and TikTok talks to everyone
-      <hr/>
-      
-      - *This week, two big stories dominated the news: Apple's fight with Fortnite maker Epic Games and TikTok's negotiations with top U.S. tech firms over a sale.*
        
-  - Walmart-exclusive TrillerTok will run on Azure, or Oracle, or something
-      <hr/>
-       
-       - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
+       - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
       
 
 <br />
