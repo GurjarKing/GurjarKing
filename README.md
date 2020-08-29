@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+Don't worry about anything. Just do what you can and be the best you can be.
 
-~ Linus Torvalds
+~ Douglas Crockford
 <pre>
 
 </pre>
