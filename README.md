@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-When in doubt, leave it out.
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 
-~ Joshua Bloch
+~ Douglas Crockford
 <pre>
 
 </pre>
