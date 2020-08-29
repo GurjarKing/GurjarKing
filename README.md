@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 
-~ Ken Thompson
+~ Bill Gates
 <pre>
 
 </pre>
