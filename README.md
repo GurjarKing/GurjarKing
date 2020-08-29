@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
 
-~ Donald Knuth
+~ Richard Stallman
 <pre>
 
 </pre>
