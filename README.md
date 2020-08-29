@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Douglas Crockford
+~ Linus Torvalds
 <pre>
 
 </pre>
