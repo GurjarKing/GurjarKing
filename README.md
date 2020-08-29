@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
 
-~ Sean Parent
+~ Henry Petroski
 <pre>
 
 </pre>
