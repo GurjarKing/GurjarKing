@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+The more code you have, the more places there are for bugs to hide.
 
-~ Danny Hillis
+~ Rich Skrenta
 <pre>
 
 </pre>
