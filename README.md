@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 
-~ Brian Kernighan
+~ Donald Knuth
 <pre>
 
 </pre>
