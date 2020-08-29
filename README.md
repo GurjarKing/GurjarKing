@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The more code you have, the more places there are for bugs to hide.
+I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 
-~ Rich Skrenta
+~ Ken Thompson
 <pre>
 
 </pre>
