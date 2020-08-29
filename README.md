@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Debugging time increases as a square of the program’s size.
+Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 
-~ Chris Wenham
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Debugging time increases as a square of the program’s size.
 </pre>
 <strong>Daily News</strong>
   
-  - Original Content podcast: Netflix's 'High Score' is a selective tour through video game history
+  - This Week in Apps: Unreal Engine saved, Fortnite banned and TikTok talks to everyone
      <hr/>
      
-      - *“High Score” is a new Netflix documentary series that looks back at the early years of the video game industry. Across six episodes, key developers, artists, executives and even players discuss the initial arcade and home console boom, the emergence of Ninten…*
+      - *This week, two big stories dominated the news: Apple's fight with Fortnite maker Epic Games and TikTok's negotiations with top U.S. tech firms over a sale.*
      
+  - Walmart-exclusive TrillerTok will run on Azure, or Oracle, or something
+      <hr/>
+      
+      - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
+      
+  - Original Content podcast: Netflix's 'High Score' is a selective tour through video game history
+      <hr/>
+      
+      - *“High Score” is a new Netflix documentary series that looks back at the early years of the video game industry. Across six episodes, key developers, artists, executives and even players discuss the initial arcade and home console boom, the emergence of Ninten…*
+      
   - Elon Musk demonstrates Neuralink's tech live using pigs with surgically-implanted brain monitoring devices
       <hr/>
       
       - *Elon Musk -founded Neuralink has made headlines over the past many years around it efforts to develop a new kind of interface between the human brain and computing devices. On Friday, the company provided a demo of the technology, and Musk kicked off the demo…*
-      
+       
   - Take a closer look at Elon Musk's Neuralink surgical robot
       <hr/>
-      
-      - *While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot l…*
-      
-  - Daily Crunch: Tesla targeted in ransomware attack
-      <hr/>
-      
-      - *The Justice Department reveals a thwarted malware attack on Tesla, Facebook tests linking your news subscriptions to your social network account and Xiaomi has plans for under-screen cameras. This is your Daily Crunch for August 28, 2020. The big story: Tesla…*
        
-  - Apple terminates Epic Games' App Store account
-      <hr/>
-       
-       - *Epic Games has been removed from Apple’s App Store. If you’ve already downloaded Fortnite to your Mac or iOS device, it should still work, but Epic’s termination means the Fortnite developer will no longer be able to submit new apps or updates. MacStories Man…*
+       - *While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot l…*
       
 
 <br />
