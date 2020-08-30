@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
 
-~ Bill Gates
+~ Ken Thompson
 <pre>
 
 </pre>
