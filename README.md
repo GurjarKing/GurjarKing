@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Linus Torvalds
+~ Ted Nelson
 <pre>
 
 </pre>
