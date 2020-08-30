@@ -44,10 +44,9 @@
 
 **Quote of the hour:**
 
-I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Douglas Crockford
+~ Mario Fusco
 <pre>
 
 </pre>
