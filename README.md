@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Mario Fusco
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ The code you write makes you a programmer. The code you delete makes you a good 
 </pre>
 <strong>Daily News</strong>
   
-  - The Station: Luminar takes the SPAC path and Voyage lifts the hood on its next-gen robotaxi
+  - Twitter flags Republican leader's video as 'manipulated' for altering disabled activist's words
      <hr/>
      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+      - *Twitter flagged an inflammatory video by House Republican Whip Steve Scalise on Sunday for altering footage of a conversation between progressive activist Ady Barkan and Joe Biden. The video is now labeled as “manipulated media” in a tweet from Scalise, thoug…*
      
+  - The Station: Luminar takes the SPAC path and Voyage lifts the hood on its next-gen robotaxi
+      <hr/>
+      
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+      
   - 10 Berlin-based VCs discuss how COVID-19 has changed the landscape
       <hr/>
       
@@ -71,16 +76,11 @@ The code you write makes you a programmer. The code you delete makes you a good 
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. (You can sign up for the newsletter here!) Ready? Let’s talk m…*
-      
+       
   - Reliable Robotics is bringing remote piloting to small cargo planes
       <hr/>
-      
-      - *Nearly one year ago, a Cessna 172 Skyhawk stealthily made aviation history when it landed at a small airport in Northern California marking the completion of the first successful remote-piloted flight of a passenger airplane in the United States. The company …*
        
-  - Startups Weekly: With Asana, JFrog, Palantir, Snowflake, Sumo and Unity, we're in peak season for tech IPOs
-      <hr/>
-       
-       - *Pandemic numbers are looking better, it's still a couple months before US elections, and a growing line of tech companies have already ventured out into public markets successfully this summer.*
+       - *Nearly one year ago, a Cessna 172 Skyhawk stealthily made aviation history when it landed at a small airport in Northern California marking the completion of the first successful remote-piloted flight of a passenger airplane in the United States. The company …*
       
 
 <br />
