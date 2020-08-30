@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 
-~ Fred Brooks
+~ Bill Gates
 <pre>
 
 </pre>
