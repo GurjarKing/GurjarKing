@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 
-~ Douglas Crockford
+~ Dennis Ritchie
 <pre>
 
 </pre>
