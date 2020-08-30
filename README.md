@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 
-~ Bill Gates
+~ Steve Jobs
 <pre>
 
 </pre>
