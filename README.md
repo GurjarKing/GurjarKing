@@ -44,7 +44,7 @@
 
 **Quote of the hour:**
 
-A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+Everybody should learn to program a computer, because it teaches you how to think.
 
 ~ Steve Jobs
 <pre>
