@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A number of studies have shown testing not very effective at finding bugs.
+It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
 
-~ Daniel T. Barry
+~ Gary Kildall
 <pre>
 
 </pre>
