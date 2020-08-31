@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
+A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 
-~ Hal Abelson
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ The reason that we think computer science is about computers is pretty much the 
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon's Prime Air drone delivery fleet gains FAA approval for trial commercial flights
+  - OfferUp and letgo combine marketplaces, post-acquisition
      <hr/>
      
-      - *Amazon has been granted an approval by the U.S. Federal Aviation Administration (FAA) that will allow it to start trialling commercial deliveries via drone, Bloomberg reports. This certification is the same one granted to UPS and a handful of other companies,…*
+      - *Earlier this year, online marketplace OfferUp raised $120 million and acquired a top competitor, letgo as a part of the fundraise led by letgo’s majority investor, OLX Group. As a part of the deal, OfferUp said it planned to eventually combine the businesses’…*
      
-  - The New Paper offers a 'fact-first' news digest in text message form
+  - Capchase raises $4.6M to deliver fast cash to SaaS companies
       <hr/>
       
-      - *Tired of signing up for email newsletters? Then maybe it’s time to try out The New Paper‘s news digest, which arrives in the form of a daily text message rounding up the biggest headlines. The Indianapolis-based startup is announcing that it’s leaving private…*
+      - *As a business model, SaaS has expanded to epic size. A number of major SaaS companies filed to go public last week, and there are now thousands of SaaS startups growing all around the world. That scale makes it easier for banks and financial institutions to o…*
       
-  - Facebook partially documents its content recommendation system
+  - 5 days left to save on early bird passes to TC Sessions: Mobility 2020
       <hr/>
       
-      - *Algorithmic recommendation systems on social media sites like YouTube, Facebook and Twitter, have shouldered much of the blame for the spread of misinformation, propaganda, hate speech, conspiracy theories and other harmful content. Facebook, in particular, h…*
+      - *TC Sessions: Mobility 2020 kicks off in 37 days, but the countdown clock on early-bird pricing runs out in just five. Engage with the mobility community’s brightest minds, makers, visionaries and investors from around the globe on October 6-7. Buy your early-…*
       
-  - Lenovo’s Smart Clock Essential is less smart by design
+  - Frugal startups should pay attention to how JFrog's IPO prices
       <hr/>
       
-      - *The Smart Clock Essential really blurs smart display lines. Aesthetics aside, Lenovo’s news device probably has more in common with the Echo Dot with Clock than it does the company’s first generation Smart Clock. In fact, at $50, it’s actually $10 less expens…*
+      - *In last week’s IPO wave, one company fell a bit by the wayside amongst filings from better-known companies like Asana and Palantir. JFrog, a company that TechCrunch reported helps allows developers and companies deliver application updates “in the background …*
        
-  - Welcome to the most important panel on product development in the history of Disrupt
+  - Amazon's Prime Air drone delivery fleet gains FAA approval for trial commercial flights
       <hr/>
        
-       - *In a few short weeks, some of the best product developers from some of the world’s most important tech companies will take to the virtual stage of our virtual Disrupt this September 14-18 to share all the tips and tricks they’ve learned over decades spent wor…*
+       - *Amazon has been granted an approval by the U.S. Federal Aviation Administration (FAA) that will allow it to start trialling commercial deliveries via drone, Bloomberg reports. This certification is the same one granted to UPS and a handful of other companies,…*
       
 
 <br />
