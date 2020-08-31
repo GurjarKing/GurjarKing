@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
 
-~ Mario Fusco
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ The code you write makes you a programmer. The code you delete makes you a good 
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok parent ByteDance says it will 'strictly follow' China export controls
+  - Some of the brightest minds in Europe are joining us at Disrupt
      <hr/>
      
-      - *While Beijing has repeatedly spoken out against Washington’s pressure on Huawei, it has remained relatively quiet amid TikTok’s recent struggles in the U.S. As the red-hot video app approaches a final sale in the U.S., however, the Chinese authority moved une…*
+      - *TechCrunch Disrupt is right around the corner. And this year, we’re trying something different — we’re taking Disrupt virtual. That’s why we’re excited to announce that we used this opportunity to invite a slate of incredible European speakers to join TechCru…*
      
+  - TikTok parent ByteDance says it will 'strictly follow' China export controls
+      <hr/>
+      
+      - *While Beijing has repeatedly spoken out against Washington’s pressure on Huawei, it has remained relatively quiet amid TikTok’s recent struggles in the U.S. As the red-hot video app approaches a final sale in the U.S., however, the Chinese authority moved une…*
+      
   - Fashion brand SockSoho is using data science in a bid to become the "Uniqlo of India"
       <hr/>
       
@@ -71,16 +76,11 @@ The code you write makes you a programmer. The code you delete makes you a good 
       <hr/>
       
       - *Twitter flagged an inflammatory video by House Republican Whip Steve Scalise on Sunday for altering footage of a conversation between progressive activist Ady Barkan and Joe Biden. The video is now labeled as “manipulated media” in a tweet from Scalise, thoug…*
-      
+       
   - The Station: Luminar takes the SPAC path and Voyage lifts the hood on its next-gen robotaxi
       <hr/>
-      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
        
-  - 10 Berlin-based VCs discuss how COVID-19 has changed the landscape
-      <hr/>
-       
-       - *A breeding ground for European entrepreneurs, Berlin has a knack for producing a lot of new startups: the city attracts top international, diverse talent, and it is packed with investors, events and accelerators. Also important: it’s a more affordable place t…*
+       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
       
 
 <br />
