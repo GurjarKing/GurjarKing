@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Simplicity does not precede complexity, but follows it.
+There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
 
-~ Alan Perlis
+~ Butler Lampson
 <pre>
 
 </pre>
