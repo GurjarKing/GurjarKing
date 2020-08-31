@@ -44,11 +44,9 @@
 
 **Quote of the hour:**
 
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Michael A. Jackson
+~ Mario Fusco
 <pre>
 
 </pre>
@@ -59,30 +57,30 @@ Two things are known about requirements:
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter flags Republican leader's video as 'manipulated' for altering disabled activist's words
+  - TikTok parent ByteDance says it will 'strictly follow' China export controls
      <hr/>
      
-      - *Twitter flagged an inflammatory video by House Republican Whip Steve Scalise on Sunday for altering footage of a conversation between progressive activist Ady Barkan and Joe Biden. The video is now labeled as “manipulated media” in a tweet from Scalise, thoug…*
+      - *While Beijing has repeatedly spoken out against Washington’s pressure on Huawei, it has remained relatively quiet amid TikTok’s recent struggles in the U.S. As the red-hot video app approaches a final sale in the U.S., however, the Chinese authority moved une…*
      
+  - Fashion brand SockSoho is using data science in a bid to become the "Uniqlo of India"
+      <hr/>
+      
+      - *SockSoho is a direct-to-consumer brand that aspires to become the “Uniqlo of India.” The company launched sales ten months ago, starting with men’s socks, and recently completed Y Combinator’s Summer 2020 program. Founded by Pritika Mehta, a data scientist wh…*
+      
+  - Twitter flags Republican leader's video as 'manipulated' for altering disabled activist's words
+      <hr/>
+      
+      - *Twitter flagged an inflammatory video by House Republican Whip Steve Scalise on Sunday for altering footage of a conversation between progressive activist Ady Barkan and Joe Biden. The video is now labeled as “manipulated media” in a tweet from Scalise, thoug…*
+      
   - The Station: Luminar takes the SPAC path and Voyage lifts the hood on its next-gen robotaxi
       <hr/>
       
       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
-      
+       
   - 10 Berlin-based VCs discuss how COVID-19 has changed the landscape
       <hr/>
-      
-      - *A breeding ground for European entrepreneurs, Berlin has a knack for producing a lot of new startups: the city attracts top international, diverse talent, and it is packed with investors, events and accelerators. Also important: it’s a more affordable place t…*
-      
-  - The week’s biggest IPO news had nothing to do with Monday’s S-1 deluge
-      <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. (You can sign up for the newsletter here!) Ready? Let’s talk m…*
        
-  - Reliable Robotics is bringing remote piloting to small cargo planes
-      <hr/>
-       
-       - *Nearly one year ago, a Cessna 172 Skyhawk stealthily made aviation history when it landed at a small airport in Northern California marking the completion of the first successful remote-piloted flight of a passenger airplane in the United States. The company …*
+       - *A breeding ground for European entrepreneurs, Berlin has a knack for producing a lot of new startups: the city attracts top international, diverse talent, and it is packed with investors, events and accelerators. Also important: it’s a more affordable place t…*
       
 
 <br />
