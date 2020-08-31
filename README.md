@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-With artificial intelligence we are summoning the demon.
+The Domain Name Server (DNS) is the Achilles heel of the Web.
 
-~ Elon Musk
+~ Tim Berners-Lee
 <pre>
 
 </pre>
