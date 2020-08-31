@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The Domain Name Server (DNS) is the Achilles heel of the Web.
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 
-~ Tim Berners-Lee
+~ Linus Torvalds
 <pre>
 
 </pre>
