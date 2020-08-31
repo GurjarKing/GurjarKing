@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+If we’d asked the customers what they wanted, they would have said “faster horses”.
 
-~ Albert Einstein
+~ Henry Ford
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ A new idea comes suddenly and in a rather intuitive way. But intuition is nothin
 </pre>
 <strong>Daily News</strong>
   
-  - Chan Zuckerberg Initiative backs Indian education startup Eruditus in $113 million fundraise
+  - Now streaming on Netflix globally: Select original shows and movies to non-subscribers
      <hr/>
      
-      - *Mumbai-based Eruditus, which works with top universities globally to offer more than 100 executive-level courses to students in over 80 nations, said on Monday it has raised $113 million in a new financing round as it looks to further scale its business to re…*
+      - *Over the past year, Netflix has attempted to expand its appeal in part by making a title or two free to non-paying users in select markets. Now the American giant is extending this test to users across the globe — with a larger free catalog. The on-demand vid…*
      
+  - Chan Zuckerberg Initiative backs Indian education startup Eruditus in $113 million fundraise
+      <hr/>
+      
+      - *Mumbai-based Eruditus, which works with top universities globally to offer more than 100 executive-level courses to students in over 80 nations, said on Monday it has raised $113 million in a new financing round as it looks to further scale its business to re…*
+      
   - Some of the brightest minds in Europe are joining us at Disrupt
       <hr/>
       
@@ -71,16 +76,11 @@ A new idea comes suddenly and in a rather intuitive way. But intuition is nothin
       <hr/>
       
       - *While Beijing has repeatedly spoken out against Washington’s pressure on Huawei, it has remained relatively quiet amid TikTok’s recent struggles in the U.S. As the red-hot video app approaches a final sale in the U.S., however, the Chinese authority moved une…*
-      
+       
   - Fashion brand SockSoho is using data science in a bid to become the "Uniqlo of India"
       <hr/>
-      
-      - *SockSoho is a direct-to-consumer brand that aspires to become the “Uniqlo of India.” The company launched sales ten months ago, starting with men’s socks, and recently completed Y Combinator’s Summer 2020 program. Founded by Pritika Mehta, a data scientist wh…*
        
-  - Twitter flags Republican leader's video as 'manipulated' for altering disabled activist's words
-      <hr/>
-       
-       - *Twitter flagged an inflammatory video by House Republican Whip Steve Scalise on Sunday for altering footage of a conversation between progressive activist Ady Barkan and Joe Biden. The video is now labeled as “manipulated media” in a tweet from Scalise, thoug…*
+       - *SockSoho is a direct-to-consumer brand that aspires to become the “Uniqlo of India.” The company launched sales ten months ago, starting with men’s socks, and recently completed Y Combinator’s Summer 2020 program. Founded by Pritika Mehta, a data scientist wh…*
       
 
 <br />
