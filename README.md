@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+The only way to learn a new programming language is by writing programs in it.
 
-~ Alan Kay
+~ Dennis Ritchie
 <pre>
 
 </pre>
