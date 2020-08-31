@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+The best way to predict the future is to invent it.
 
-~ Douglas Crockford
+~ Alan Kay
 <pre>
 
 </pre>
