@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-If Microsoft ever does applications for Linux it means I've won.
+The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
 
-~ Linus Torvalds
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ If Microsoft ever does applications for Linux it means I've won.
 </pre>
 <strong>Daily News</strong>
   
-  - Lenovo’s Smart Clock Essential is less smart by design
+  - Amazon's Prime Air drone delivery fleet gains FAA approval for trial commercial flights
      <hr/>
      
-      - *The Smart Clock Essential really blurs smart display lines. Aesthetics aside, Lenovo’s news device probably has more in common with the Echo Dot with Clock than it does the company’s first generation Smart Clock. In fact, at $50, it’s actually $10 less expens…*
+      - *Amazon has been granted an approval by the U.S. Federal Aviation Administration (FAA) that will allow it to start trialling commercial deliveries via drone, Bloomberg reports. This certification is the same one granted to UPS and a handful of other companies,…*
      
+  - The New Paper offers a 'fact-first' news digest in text message form
+      <hr/>
+      
+      - *Tired of signing up for email newsletters? Then maybe it’s time to try out The New Paper‘s news digest, which arrives in the form of a daily text message rounding up the biggest headlines. The Indianapolis-based startup is announcing that it’s leaving private…*
+      
+  - Facebook partially documents its content recommendation system
+      <hr/>
+      
+      - *Algorithmic recommendation systems on social media sites like YouTube, Facebook and Twitter, have shouldered much of the blame for the spread of misinformation, propaganda, hate speech, conspiracy theories and other harmful content. Facebook, in particular, h…*
+      
+  - Lenovo’s Smart Clock Essential is less smart by design
+      <hr/>
+      
+      - *The Smart Clock Essential really blurs smart display lines. Aesthetics aside, Lenovo’s news device probably has more in common with the Echo Dot with Clock than it does the company’s first generation Smart Clock. In fact, at $50, it’s actually $10 less expens…*
+       
   - Welcome to the most important panel on product development in the history of Disrupt
       <hr/>
-      
-      - *In a few short weeks, some of the best product developers from some of the world’s most important tech companies will take to the virtual stage of our virtual Disrupt this September 14-18 to share all the tips and tricks they’ve learned over decades spent wor…*
-      
-  - Apple mistakenly approved a widely-used malware to run on Macs
-      <hr/>
-      
-      - *Researchers say they've found the first Mac malware 'notarized' by Apple.*
-      
-  - Equity Monday: What if no one gets to buy TikTok?
-      <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
        
-  - Google launches Google Kids Space, a 'kids mode' feature for Android, initially on Lenovo tablets
-      <hr/>
-       
-       - *Streaming services have built-in kids’ profiles, so why not devices? Google today is responding to parents’ demand for a better way for their children to interact with technology with the launch of the new “Google Kids Space,” a dedicated kids mode on Android…*
+       - *In a few short weeks, some of the best product developers from some of the world’s most important tech companies will take to the virtual stage of our virtual Disrupt this September 14-18 to share all the tips and tricks they’ve learned over decades spent wor…*
       
 
 <br />
