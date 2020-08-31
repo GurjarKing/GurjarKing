@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+It’s all talk until the code runs.
 
-~ Butler Lampson
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ There are some basic techniques to control complexity. Fundamentally, I divide a
 </pre>
 <strong>Daily News</strong>
   
-  - Rocket Lab returns to flight with a successful launch of a Capella Space satellite
+  - Google launches Google Kids Space, a 'kids mode' feature for Android, initially on Lenovo tablets
      <hr/>
      
-      - *Rocket Lab is back to active launch status after encountering an issue with its last mission that resulted in a loss of the payload. In just over a month, Rocket Lab was able to identify what went wrong with the Electron launch vehicle used on that mission an…*
+      - *Streaming services have built-in kids’ profiles, so why not devices? Google today is responding to parents’ demand for a better way for their children to interact with technology with the launch of the new “Google Kids Space,” a dedicated kids mode on Android…*
      
+  - Rocket Lab returns to flight with a successful launch of a Capella Space satellite
+      <hr/>
+      
+      - *Rocket Lab is back to active launch status after encountering an issue with its last mission that resulted in a loss of the payload. In just over a month, Rocket Lab was able to identify what went wrong with the Electron launch vehicle used on that mission an…*
+      
   - SpaceX successfully launches its first polar orbit mission from Florida
       <hr/>
       
@@ -71,16 +76,11 @@ There are some basic techniques to control complexity. Fundamentally, I divide a
       <hr/>
       
       - *Semalytix, a Bielefeld, Germany-based startup that offers pharmaceutical companies an AI-powered data tool to better understand real-world patient experiences, has raised €4.3 million in Series A funding. Leading the round is venture capital firm btov Partner…*
-      
+       
   - Now streaming on Netflix globally: Select original shows and movies to non-subscribers
       <hr/>
-      
-      - *Over the past year, Netflix has attempted to expand its appeal in part by making a title or two free to non-paying users in select markets. Now the American giant is extending this test to users across the globe — with a larger free catalog. The on-demand vid…*
        
-  - Chan Zuckerberg Initiative backs Indian education startup Eruditus in $113 million fundraise
-      <hr/>
-       
-       - *Mumbai-based Eruditus, which works with top universities globally to offer more than 100 executive-level courses to students in over 80 nations, said on Monday it has raised $113 million in a new financing round as it looks to further scale its business to re…*
+       - *Over the past year, Netflix has attempted to expand its appeal in part by making a title or two free to non-paying users in select markets. Now the American giant is extending this test to users across the globe — with a larger free catalog. The on-demand vid…*
       
 
 <br />
