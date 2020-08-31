@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Adding manpower to a late software project makes it later.
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 
-~ Fred Brooks
+~ Leslie Lamport
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Adding manpower to a late software project makes it later.
 </pre>
 <strong>Daily News</strong>
   
-  - Decrypted: Tesla's ransomware near miss, Palantir's S-1 risk factors
+  - PayPal joins the 'buy now, pay later' race with new 'Pay in 4' installment program
      <hr/>
      
-      - *This week's Decrypted looks at Palantir's risk factors ahead of its IPO.*
+      - *PayPal today introduced a new installment credit option for PayPal users called “Pay in 4.” The name itself explains what the service offers — basically, it’s the ability for customers to pay for purchases, interest-free, over four separate payments. The serv…*
      
+  - Decrypted: Tesla's ransomware near miss, Palantir's S-1 risk factors
+      <hr/>
+      
+      - *This week's Decrypted looks at Palantir's risk factors ahead of its IPO.*
+      
   - Dorian raises $3.1M for its no-code, interactive storytelling platform
       <hr/>
       
@@ -71,16 +76,11 @@ Adding manpower to a late software project makes it later.
       <hr/>
       
       - *Filled with innovation labs, co-working spaces and students, Boston has a ton of entrepreneurial characteristics baked into its DNA. However, when the coronavirus swept through the country, the area’s startup scene was stress-tested as badly as other entrepre…*
-      
+       
   - Apple will now allow developers stuck in App Store jail to push bug fixes to their apps
       <hr/>
-      
-      - *Apple’s App Store policies have gotten quite a bit more attention in the past few months, and while it seems likely that Apple’s team will fight tooth and nail to avoid dismantling any of the core pillars of their Store economy, the company did announce a sma…*
        
-  - In a post-NDA world, does transparency help founders identify conflicts of interest?
-      <hr/>
-       
-       - *Once upon a time, fintech founders could pitch 10 investors before closing a round in a relatively hushed way. Entrepreneurs could even ask VCs to sign nondisclosure agreements (NDAs) to keep their information confidential. Today, everyone is a fintech invest…*
+       - *Apple’s App Store policies have gotten quite a bit more attention in the past few months, and while it seems likely that Apple’s team will fight tooth and nail to avoid dismantling any of the core pillars of their Store economy, the company did announce a sma…*
       
 
 <br />
