@@ -44,9 +44,11 @@
 
 **Quote of the hour:**
 
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 
-~ Linus Torvalds
+~ Michael A. Jackson
 <pre>
 
 </pre>
