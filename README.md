@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+With artificial intelligence we are summoning the demon.
 
-~ Fred Brooks
+~ Elon Musk
 <pre>
 
 </pre>
