@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The only way to learn a new programming language is by writing programs in it.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
-~ Dennis Ritchie
+~ Fred Brooks
 <pre>
 
 </pre>
