@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+A language that doesn’t have everything is actually easier to program in than some that do.
 
-~ Alan Perlis
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 </pre>
 <strong>Daily News</strong>
   
-  - Salesforce beefing up field service offering with AI
+  - PicnicHealth raises $25 million for its patient health record management service
      <hr/>
      
-      - *Salesforce has been adding artificial intelligence to all parts of its platform for several years now. It calls the underlying artificial intelligence layer on the Salesforce platform Einstein. Today the company announced some enhancements to its field servic…*
+      - *PicnicHealth, the startup that’s looking to give patients a way to manage their care in one place and pharmaceutical companies access to patient records for real world data, has just raised $25 million in financing to grow its business. Founded in 2016 by a f…*
      
-  - Crowd equity platform Seedrs opens up its existing secondary market to any business
+  - Now providing healthcare access to nearly 1.5 million kids, Hazel Health raises $33.5 million
       <hr/>
       
-      - *Seedrs — the UK’s first full-function private equity secondary market to launch back in 2017 — is launching its secondary market offering to all private businesses. The idea is that this will allow founders, employees and early investors to realize secondary …*
+      - *Hazel Health was founded five years ago to provide telemedicine services to children in public schools. Launched by a former Apple software engineer and serial entrepreneur, Nick Woods, and named after one of Woods’ children, Hazel Health has grown to work wi…*
       
-  - InfoSum raises $15.1M for its privacy-first, federated approach to big data analytics
+  - Founded by an Impossible Foods, and Google data scientist, Climax Foods raises $7.5 million to tackle the cheesiest market
       <hr/>
       
-      - *Data protection and data privacy have gone from niche concerns to mainstream issues in the last several years, thanks to new regulations and a cascade of costly breaches that have laid bare the problems that arise when information and data security are treate…*
+      - *Oliver Zahn began his professional career studying the stars. The founder of Climax Foods, a startup that’s using data science to replace animal proteins with plant-based substitutes, spent years at the University of California at Berkeley with his eyes fixed…*
       
-  - Facebook threatens to block news sharing in Australia as it lobbies against revenue share law
+  - LA-based The Skills is launching a MasterClass for athletes featuring Michael Phelps, Maria Sharapova and more
       <hr/>
       
-      - *Adtech giant and self-styled ‘free speech champion’, Facebook, has threatened to pull the plug on the public sharing of news content on Facebook and Instagram in Australia. The aggressive threat is Facebook’s attempt to lobby against a government plan that wi…*
+      - *A new Los Angeles startup is betting that enough consumers are interested in paying between $69 and $149 per year to receive lessons in life and sports from celebrity athletes like Maria Sharapova and Shaun White to make a billion-dollar business. That’s the …*
        
-  - Cosmose, a platform that analyzes foot traffic in physical stores, gets $15 million Series A
+  - Sarcos raises $40 million to bring its Guardian XO exoskeleton to market
       <hr/>
        
-       - *Cosmose, a platform that tracks foot traffic in brick-and-mortar stores to help companies predict customer behavior, announced today it has raised a $15 million Series A. The round was by Tiga Investments, with participation from returning investors OTB Ventu…*
+       - *The COVID-19 pandemic has proven a significant catalyst for robotics investments, as companies look to invest in automation. Utah-based Sarcos Robotics bucks the trend a bit, however, as the purveyor of a technology designed to augment an existing human workf…*
       
 
 <br />
