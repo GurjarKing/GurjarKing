@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 
-~ Fred Brooks
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
 </pre>
 <strong>Daily News</strong>
   
-  - Four days left on early bird savings for TC Sessions: Mobility 2020
+  - Movies Anywhere officially launches its digital movie-lending feature, 'Screen Pass'
      <hr/>
      
-      - *Want to save $100 on your pass to TC Sessions: Mobility 2020? Silly question, right? Of course, you do. Here’s the thing. You have just four days left to buy in at the lowest price. Knock this easy task off your to-do list and buy your pass before the early-b…*
+      - *Digital locker service Movies Anywhere is today officially launching its movie-sharing feature dubbed “Screen Pass,” which lets you lend out one of your purchased movies to a friend or family member. The feature was rushed into beta testing this March, follow…*
      
+  - Watch these 6 startups compete in Pitchers & Pitches tomorrow
+      <hr/>
+      
+      - *What do you get when you combine six early-stage startup founders with a panel of top VCs and savvy TechCrunch editors? It’s Pitchers & Pitches, a rapid-fire pitch competition with a hefty side of advice to turn your 60-second pitch into a key that unlocks op…*
+      
+  - Your first sales hire should be a missionary, not a mercenary
+      <hr/>
+      
+      - *The first sales hire will set the best practices, cultural tone and is also responsible for making sure each subsequent new sales hire succeeds.*
+      
+  - Four days left on early bird savings for TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *Want to save $100 on your pass to TC Sessions: Mobility 2020? Silly question, right? Of course, you do. Here’s the thing. You have just four days left to buy in at the lowest price. Knock this easy task off your to-do list and buy your pass before the early-b…*
+       
   - Fabletics' Don Ressler and Kevin Hart to talk D2C at Disrupt 2020
       <hr/>
-      
-      - *The world of retail has been absolutely rocked by the coronavirus pandemic. Stores closed across the country, and at the same time, online sales went through the roof. Direct-to-consumer brands, many of whom are masters of both online and brick-and-mortar cha…*
-      
-  - Apple launches COVID-19 'Exposure Notification Express' with iOS 13.7 – Android to follow later this month
-      <hr/>
-      
-      - *Apple and Google are continuing to make good on their planned roll-out of exposure notification technology for helping with COVID-19 contact tracing efforts. The two partners are introducing new tools that make it much easier for public health authorities to …*
-      
-  - Student-led accelerator Envision reaches demo week for class one, looks to class two
-      <hr/>
-      
-      - *Back in early July, TechCrunch covered the Envision Accelerator. The program was put together by a group of students and recent graduates, often with some early venture capital experience, to help give some young startups a boost, and to shake up industry div…*
        
-  - Calling Madrid & Barcelona VCs: Be featured in The Great TechCrunch Survey of European VC
-      <hr/>
-       
-       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Madrid & Barcelona will capture how the cities are faring, and what changes are being wrought …*
+       - *The world of retail has been absolutely rocked by the coronavirus pandemic. Stores closed across the country, and at the same time, online sales went through the roof. Direct-to-consumer brands, many of whom are masters of both online and brick-and-mortar cha…*
       
 
 <br />
