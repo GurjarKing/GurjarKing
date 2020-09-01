@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 
-~ Ted Nelson
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ They were saying computers deal with numbers. This was absolutely nonsense. Comp
 </pre>
 <strong>Daily News</strong>
   
-  - Movies Anywhere officially launches its digital movie-lending feature, 'Screen Pass'
+  - Jeff Lawson on API startups, picking a market and getting dissed by VCs
      <hr/>
      
-      - *Digital locker service Movies Anywhere is today officially launching its movie-sharing feature dubbed “Screen Pass,” which lets you lend out one of your purchased movies to a friend or family member. The feature was rushed into beta testing this March, follow…*
+      - *Last week TechCrunch sat down virtually with Jeff Lawson, the CEO and co-founder of Twilio as part of our long-running Extra Crunch Live series. As I expected, the chat was a good use of time. Why? Lawson was early on the idea that software companies could de…*
      
-  - Watch these 6 startups compete in Pitchers & Pitches tomorrow
+  - Google's AI-powered flood alerts now cover all of India and parts of Bangladesh
       <hr/>
       
-      - *What do you get when you combine six early-stage startup founders with a panel of top VCs and savvy TechCrunch editors? It’s Pitchers & Pitches, a rapid-fire pitch competition with a hefty side of advice to turn your 60-second pitch into a key that unlocks op…*
+      - *India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help. In 2018, the company began its fl…*
       
-  - Your first sales hire should be a missionary, not a mercenary
+  - Google Cloud lets businesses create their own text-to-speech voices
       <hr/>
       
-      - *The first sales hire will set the best practices, cultural tone and is also responsible for making sure each subsequent new sales hire succeeds.*
+      - *Google launched a few updates to its Contact Center AI product today, but the most interesting one is probably the beta of its new Custom Voice service, which will let brands create their own text-to-speech voices to best represent their own brands. Maybe you…*
       
-  - Four days left on early bird savings for TC Sessions: Mobility 2020
+  - As it delists, Rocket Internet's ill-fated experiment with public markets is over
       <hr/>
       
-      - *Want to save $100 on your pass to TC Sessions: Mobility 2020? Silly question, right? Of course, you do. Here’s the thing. You have just four days left to buy in at the lowest price. Knock this easy task off your to-do list and buy your pass before the early-b…*
+      - *It was all supposed to be so different. When Rocket Internet IPO’d in 2014 it was the largest tech company floatation in Europe for 7 years. A year later it had lost $46m and it’s valuation had dropped by 30%. Since then the German start-up factory behind int…*
        
-  - Fabletics' Don Ressler and Kevin Hart to talk D2C at Disrupt 2020
+  - The startup world needs a 'Black Minds Matter' awakening
       <hr/>
        
-       - *The world of retail has been absolutely rocked by the coronavirus pandemic. Stores closed across the country, and at the same time, online sales went through the roof. Direct-to-consumer brands, many of whom are masters of both online and brick-and-mortar cha…*
+       - *Guests on tech podcasts are a microcosm of what has been happening in the startup ecosystem: Black minds are undervalued and under-appreciated.*
       
 
 <br />
