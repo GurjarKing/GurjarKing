@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+Dealing with failure is easy: Work hard to improve.
 
-~ Roy Fielding
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Communication must be stateless in nature, such that each request from client to
 </pre>
 <strong>Daily News</strong>
   
-  - Walmart+ launches Sept 15, offering same-day delivery, gas discounts and cashierless checkout for $98/yr
+  - Everybody is racing to an IPO -- even Laird Hamilton's young "superfood" company
      <hr/>
      
-      - *Walmart today officially unveiled its new membership service and Amazon Prime rival, which it’s calling “Walmart+.” The $98 per year service will combine free, unlimited same-day delivery on groceries and thousands of other items, with additional benefits, li…*
+      - *This one is unusual: Laird Superfood, a five-year-old, 100-person, Sisters, Ore.-based startup that was cofounded by famed surfer Laird Hamilton and which makes plant-based packaged beverage products, filed today to raise up to $40 million in an IPO. We’d rep…*
      
+  - Walmart+ launches Sept 15, offering same-day delivery, gas discounts and cashierless checkout for $98/yr
+      <hr/>
+      
+      - *Walmart today officially unveiled its new membership service and Amazon Prime rival, which it’s calling “Walmart+.” The $98 per year service will combine free, unlimited same-day delivery on groceries and thousands of other items, with additional benefits, li…*
+      
   - Gillmor Gang: Platforming
       <hr/>
       
@@ -71,16 +76,11 @@ Communication must be stateless in nature, such that each request from client to
       <hr/>
       
       - *Reinvent Technology Partners, a new special purpose acquisition company formed by famed investor and serial entrepreneur Reid Hoffman, Zynga founder Mark Pincus and veteran hedge fund manager Michael Thompson, filed Monday for a $600 million initial public of…*
-      
+       
   - Virtual Mobility startup pitch night applications open
       <hr/>
-      
-      - *TechCrunch is on the hunt to feature 10 early-stage mobility startups at our virtual TC Sessions: Mobility 2020 pitch night. The pitch-off event, originally set for May, will now be held October 5th – the evening before Mobility 2020.  The top five companies …*
        
-  - Daily Crunch: Netflix sets some content free
-      <hr/>
-       
-       - *Netflix tests a free promotional offering, Amazon’s drone delivery gets trial flight approval from the FAA and Neuralink shows off its human-brain tech. This is your Daily Crunch for August 31, 2020. The big story: Netflix sets some content free Netflix has t…*
+       - *TechCrunch is on the hunt to feature 10 early-stage mobility startups at our virtual TC Sessions: Mobility 2020 pitch night. The pitch-off event, originally set for May, will now be held October 5th – the evening before Mobility 2020.  The top five companies …*
       
 
 <br />
