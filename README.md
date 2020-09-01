@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+Every time you improve process, work becomes harder.
 
-~ Linus Torvalds
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ I'm doing a free operating system (just a hobby, won't be big and professional l
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon's big redesign on iOS to reach all U.S. users by month-end
+  - Rocket Lab gains key FAA launch license for its U.S.-based launch site
      <hr/>
      
-      - *The Amazon app is getting a makeover. You may have already spotted the refreshed version of the Amazon shopping app with its new color scheme and revamped navigation if you’re an iPhone user. The changes began rolling out earlier this summer to iOS users in t…*
+      - *Launch provider Rocket Lab has gained a key clearance from the U.S. Federal Aviation Administration that should mean it’ll be launching from its U.S.-based facility at Wallops Island, Virginia relatively soon. As it had done before for its LC-1 launch pad in …*
      
+  - Amazon's big redesign on iOS to reach all U.S. users by month-end
+      <hr/>
+      
+      - *The Amazon app is getting a makeover. You may have already spotted the refreshed version of the Amazon shopping app with its new color scheme and revamped navigation if you’re an iPhone user. The changes began rolling out earlier this summer to iOS users in t…*
+      
   - Dell's U3219Q 32-inch 4K monitor provides a perfect home office upgrade
       <hr/>
       
@@ -71,16 +76,11 @@ I'm doing a free operating system (just a hobby, won't be big and professional l
       <hr/>
       
       - *Wish, the San Francisco-based, 750-person e-commerce app that sells deeply discounted goods that you definitely don’t need but might buy anyway when priced so low — think pool floaties, guinea pig harnesses, Apple Watch knockoffs — said yesterday that it has …*
-      
+       
   - Jeff Lawson on API startups, picking a market and getting dissed by VCs
       <hr/>
-      
-      - *Last week TechCrunch sat down virtually with Jeff Lawson, the CEO and co-founder of Twilio as part of our long-running Extra Crunch Live series. As I expected, the chat was a good use of time. Why? Lawson was early on the idea that software companies could de…*
        
-  - Google's AI-powered flood alerts now cover all of India and parts of Bangladesh
-      <hr/>
-       
-       - *India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help. In 2018, the company began its fl…*
+       - *Last week TechCrunch sat down virtually with Jeff Lawson, the CEO and co-founder of Twilio as part of our long-running Extra Crunch Live series. As I expected, the chat was a good use of time. Why? Lawson was early on the idea that software companies could de…*
       
 
 <br />
