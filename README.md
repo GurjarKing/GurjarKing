@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Dealing with failure is easy: Work hard to improve.
+One accurate measurement is worth more than a thousand expert opinions.
 
-~ Alan Perlis
+~ Grace Hopper
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Dealing with failure is easy: Work hard to improve.
 </pre>
 <strong>Daily News</strong>
   
-  - Everybody is racing to an IPO -- even Laird Hamilton's young "superfood" company
+  - Apple alum's jobs app for India's workers secures $8 million
      <hr/>
      
-      - *This one is unusual: Laird Superfood, a five-year-old, 100-person, Sisters, Ore.-based startup that was cofounded by famed surfer Laird Hamilton and which makes plant-based packaged beverage products, filed today to raise up to $40 million in an IPO. We’d rep…*
+      - *Javed, a middle-aged man, worked as a driver before losing that job earlier this year as coronavirus spread across India, prompting New Delhi to enforce a nationwide lockdown and temporarily curb several business activities. There are millions of people like …*
      
+  - Everybody is racing to an IPO -- even Laird Hamilton's young "superfood" company
+      <hr/>
+      
+      - *This one is unusual: Laird Superfood, a five-year-old, 100-person, Sisters, Ore.-based startup that was cofounded by famed surfer Laird Hamilton and which makes plant-based packaged beverage products, filed today to raise up to $40 million in an IPO. We’d rep…*
+      
   - Walmart+ launches Sept 15, offering same-day delivery, gas discounts and cashierless checkout for $98/yr
       <hr/>
       
@@ -71,16 +76,11 @@ Dealing with failure is easy: Work hard to improve.
       <hr/>
       
       - *Much was made during the Republican Convention of the lack of a party platform. The media characterized this as a capitulation to the Cult of Trump phenomenon, but the questioned begged was: so what? If you’re running as a candidate to disrupt the status quo……*
-      
+       
   - Reid Hoffman, Zynga's Mark Pincus aim to raise $600M for tech-focused SPAC
       <hr/>
-      
-      - *Reinvent Technology Partners, a new special purpose acquisition company formed by famed investor and serial entrepreneur Reid Hoffman, Zynga founder Mark Pincus and veteran hedge fund manager Michael Thompson, filed Monday for a $600 million initial public of…*
        
-  - Virtual Mobility startup pitch night applications open
-      <hr/>
-       
-       - *TechCrunch is on the hunt to feature 10 early-stage mobility startups at our virtual TC Sessions: Mobility 2020 pitch night. The pitch-off event, originally set for May, will now be held October 5th – the evening before Mobility 2020.  The top five companies …*
+       - *Reinvent Technology Partners, a new special purpose acquisition company formed by famed investor and serial entrepreneur Reid Hoffman, Zynga founder Mark Pincus and veteran hedge fund manager Michael Thompson, filed Monday for a $600 million initial public of…*
       
 
 <br />
