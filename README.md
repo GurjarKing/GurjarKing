@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
 
-~ Alan Perlis
+~ Douglas Crockford
 <pre>
 
 </pre>
