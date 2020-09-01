@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ Alan Perlis
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ The best book on programming for the layman is Alice in Wonderland, but that's b
 </pre>
 <strong>Daily News</strong>
   
-  - Calling Madrid & Barcelona VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Four days left on early bird savings for TC Sessions: Mobility 2020
      <hr/>
      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Madrid & Barcelona will capture how the cities are faring, and what changes are being wrought …*
+      - *Want to save $100 on your pass to TC Sessions: Mobility 2020? Silly question, right? Of course, you do. Here’s the thing. You have just four days left to buy in at the lowest price. Knock this easy task off your to-do list and buy your pass before the early-b…*
      
-  - Financial institutions using Plaid Exchange can share instant account activity
+  - Fabletics' Don Ressler and Kevin Hart to talk D2C at Disrupt 2020
       <hr/>
       
-      - *A few months ago, Plaid unveiled Plaid Exchange, a product that helps financial institutions build and maintain an API that other developers can use. The company is iterating on that product and now updates account activity in near real-time. Plaid is better …*
+      - *The world of retail has been absolutely rocked by the coronavirus pandemic. Stores closed across the country, and at the same time, online sales went through the roof. Direct-to-consumer brands, many of whom are masters of both online and brick-and-mortar cha…*
       
-  - India's IT minister accuses Facebook of suppressing right-leaning pages
+  - Apple launches COVID-19 'Exposure Notification Express' with iOS 13.7 – Android to follow later this month
       <hr/>
       
-      - *Ravi Shankar Prasad, India’s IT, and Law and Justice minister has accused Facebook India’s leadership team of suppressing the reach of pages that support and promote right-leaning ideology, in what is the latest turn of events for the social giant in its bigg…*
+      - *Apple and Google are continuing to make good on their planned roll-out of exposure notification technology for helping with COVID-19 contact tracing efforts. The two partners are introducing new tools that make it much easier for public health authorities to …*
       
-  - Alexa can now pay for gas at over 11,500 Exxon and Mobil stations in the U.S.
+  - Student-led accelerator Envision reaches demo week for class one, looks to class two
       <hr/>
       
-      - *In January, Amazon announced a new feature would allow Alexa users to pay for their gas at the pump using voice commands via Echo Auto and other Alexa-enabled mobility devices. Today, the company says the feature is now live at over 11,500 Exxon and Mobil gas…*
+      - *Back in early July, TechCrunch covered the Envision Accelerator. The program was put together by a group of students and recent graduates, often with some early venture capital experience, to help give some young startups a boost, and to shake up industry div…*
        
-  - Tesla taps market rally keg, announces $5B stock sale
+  - Calling Madrid & Barcelona VCs: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
        
-       - *Tesla said Tuesday will sell up to $5 billion in new stock as the company seeks to take advantage of an unprecedented run up in its share price. Tesla will sell the shares from “time to time,” through an “at-the-market” offering program, the company said Tues…*
+       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Madrid & Barcelona will capture how the cities are faring, and what changes are being wrought …*
       
 
 <br />
