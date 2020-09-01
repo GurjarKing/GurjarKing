@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 
-~ Dennis Ritchie
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Another danger is that commercial pressures of one sort or another will divert t
 </pre>
 <strong>Daily News</strong>
   
-  - Jeff Lawson on API startups, picking a market and getting dissed by VCs
+  - Amazon's big redesign on iOS to reach all U.S. users by month-end
      <hr/>
      
-      - *Last week TechCrunch sat down virtually with Jeff Lawson, the CEO and co-founder of Twilio as part of our long-running Extra Crunch Live series. As I expected, the chat was a good use of time. Why? Lawson was early on the idea that software companies could de…*
+      - *The Amazon app is getting a makeover. You may have already spotted the refreshed version of the Amazon shopping app with its new color scheme and revamped navigation if you’re an iPhone user. The changes began rolling out earlier this summer to iOS users in t…*
      
+  - Dell's U3219Q 32-inch 4K monitor provides a perfect home office upgrade
+      <hr/>
+      
+      - *Dell has long held high esteem for the quality of its displays, and that hasn’t changed with its more recent models. What has changed is that more and more, people are looking for external monitors to complement their work laptops as they shift to more remote…*
+      
+  - What will a Wish IPO look like? Seems we'll find out sooner than later
+      <hr/>
+      
+      - *Wish, the San Francisco-based, 750-person e-commerce app that sells deeply discounted goods that you definitely don’t need but might buy anyway when priced so low — think pool floaties, guinea pig harnesses, Apple Watch knockoffs — said yesterday that it has …*
+      
+  - Jeff Lawson on API startups, picking a market and getting dissed by VCs
+      <hr/>
+      
+      - *Last week TechCrunch sat down virtually with Jeff Lawson, the CEO and co-founder of Twilio as part of our long-running Extra Crunch Live series. As I expected, the chat was a good use of time. Why? Lawson was early on the idea that software companies could de…*
+       
   - Google's AI-powered flood alerts now cover all of India and parts of Bangladesh
       <hr/>
-      
-      - *India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help. In 2018, the company began its fl…*
-      
-  - Google Cloud lets businesses create their own text-to-speech voices
-      <hr/>
-      
-      - *Google launched a few updates to its Contact Center AI product today, but the most interesting one is probably the beta of its new Custom Voice service, which will let brands create their own text-to-speech voices to best represent their own brands. Maybe you…*
-      
-  - As it delists, Rocket Internet's ill-fated experiment with public markets is over
-      <hr/>
-      
-      - *It was all supposed to be so different. When Rocket Internet IPO’d in 2014 it was the largest tech company floatation in Europe for 7 years. A year later it had lost $46m and it’s valuation had dropped by 30%. Since then the German start-up factory behind int…*
        
-  - The startup world needs a 'Black Minds Matter' awakening
-      <hr/>
-       
-       - *Guests on tech podcasts are a microcosm of what has been happening in the startup ecosystem: Black minds are undervalued and under-appreciated.*
+       - *India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help. In 2018, the company began its fl…*
       
 
 <br />
