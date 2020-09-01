@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
-~ Linus Torvalds
+~ Ted Nelson
 <pre>
 
 </pre>
