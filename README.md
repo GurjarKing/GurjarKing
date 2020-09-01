@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Alan Turing
+~ Ivan Sutherland
 <pre>
 
 </pre>
