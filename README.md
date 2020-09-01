@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-One accurate measurement is worth more than a thousand expert opinions.
+The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 
-~ Grace Hopper
+~ Ada Lovelace
 <pre>
 
 </pre>
