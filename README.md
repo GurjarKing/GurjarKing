@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ False scheduling to match the patron's desired date is much more common in our d
 </pre>
 <strong>Daily News</strong>
   
-  - Meet the $3,300 edition of the Galaxy Z Fold 2
+  - Calling Madrid & Barcelona VCs: Be featured in The Great TechCrunch Survey of European VC
      <hr/>
      
-      - *If you’re going to spend $1,000 on a phone, you might as well spend $2,000. And honestly, if you’re going to spend $2,000, why not just go for it and spend $3,300? That seems to be a chief guiding principle behind the Samsung Galaxy Fold Z 2 Thom Browne editi…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Madrid & Barcelona will capture how the cities are faring, and what changes are being wrought …*
      
-  - Samsung’s new Galaxy Fold arrives September 18 for $2,000
+  - Financial institutions using Plaid Exchange can share instant account activity
       <hr/>
       
-      - *As far as launches for revolutionary products are concerned, the Galaxy Fold could have gone a lot better. It’s not for lack of hype, of course. Years of prelude punctuated by Samsung’s own breathless expectations provided plenty of build-up, but in the end, …*
+      - *A few months ago, Plaid unveiled Plaid Exchange, a product that helps financial institutions build and maintain an API that other developers can use. The company is iterating on that product and now updates account activity in near real-time. Plaid is better …*
       
-  - InCountry raises $18M more to help SaaS companies store data locally
+  - India's IT minister accuses Facebook of suppressing right-leaning pages
       <hr/>
       
-      - *We’re seeing a gradual expansion of national regulations that require data from SaaS applications to be stored locally, in the country where it’s sourced and used. Today a startup that’s built a service around that need — specifically, data residency-as-a-ser…*
+      - *Ravi Shankar Prasad, India’s IT, and Law and Justice minister has accused Facebook India’s leadership team of suppressing the reach of pages that support and promote right-leaning ideology, in what is the latest turn of events for the social giant in its bigg…*
       
-  - Amazon brings Twitch's livestreams to its Amazon Music app
+  - Alexa can now pay for gas at over 11,500 Exxon and Mobil stations in the U.S.
       <hr/>
       
-      - *Amazon is leveraging its investment in live-streaming site Twitch to expand its Amazon Music service. The company announced this morning Twitch’s livestreams will now be available in the Amazon Music app on iOS and Android, with the goal of allowing fans and …*
+      - *In January, Amazon announced a new feature would allow Alexa users to pay for their gas at the pump using voice commands via Echo Auto and other Alexa-enabled mobility devices. Today, the company says the feature is now live at over 11,500 Exxon and Mobil gas…*
        
-  - Zoom's Q2 report details some of the most extraordinary growth I've ever seen
+  - Tesla taps market rally keg, announces $5B stock sale
       <hr/>
        
-       - *Many companies have posted the occasional big quarter. These outsized periods may come when a business sells part of itself, or, through some arcane non-cash financial hijinks, it posts impressive numbers that appear prodigious when compared to their regular …*
+       - *Tesla said Tuesday will sell up to $5 billion in new stock as the company seeks to take advantage of an unprecedented run up in its share price. Tesla will sell the shares from “time to time,” through an “at-the-market” offering program, the company said Tues…*
       
 
 <br />
