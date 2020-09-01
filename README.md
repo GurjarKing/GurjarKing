@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 
-~ Ada Lovelace
+~ Roy Fielding
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ The science of operations, as derived from mathematics more especially, is a sci
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Platforming
+  - Walmart+ launches Sept 15, offering same-day delivery, gas discounts and cashierless checkout for $98/yr
      <hr/>
      
-      - *Much was made during the Republican Convention of the lack of a party platform. The media characterized this as a capitulation to the Cult of Trump phenomenon, but the questioned begged was: so what? If you’re running as a candidate to disrupt the status quo……*
+      - *Walmart today officially unveiled its new membership service and Amazon Prime rival, which it’s calling “Walmart+.” The $98 per year service will combine free, unlimited same-day delivery on groceries and thousands of other items, with additional benefits, li…*
      
+  - Gillmor Gang: Platforming
+      <hr/>
+      
+      - *Much was made during the Republican Convention of the lack of a party platform. The media characterized this as a capitulation to the Cult of Trump phenomenon, but the questioned begged was: so what? If you’re running as a candidate to disrupt the status quo……*
+      
   - Reid Hoffman, Zynga's Mark Pincus aim to raise $600M for tech-focused SPAC
       <hr/>
       
@@ -71,16 +76,11 @@ The science of operations, as derived from mathematics more especially, is a sci
       <hr/>
       
       - *TechCrunch is on the hunt to feature 10 early-stage mobility startups at our virtual TC Sessions: Mobility 2020 pitch night. The pitch-off event, originally set for May, will now be held October 5th – the evening before Mobility 2020.  The top five companies …*
-      
+       
   - Daily Crunch: Netflix sets some content free
       <hr/>
-      
-      - *Netflix tests a free promotional offering, Amazon’s drone delivery gets trial flight approval from the FAA and Neuralink shows off its human-brain tech. This is your Daily Crunch for August 31, 2020. The big story: Netflix sets some content free Netflix has t…*
        
-  - PayPal joins the 'buy now, pay later' race with new 'Pay in 4' installment program
-      <hr/>
-       
-       - *PayPal today introduced a new installment credit option for PayPal users called “Pay in 4.” The name itself explains what the service offers — basically, it’s the ability for customers to pay for purchases, interest-free, over four separate payments. The serv…*
+       - *Netflix tests a free promotional offering, Amazon’s drone delivery gets trial flight approval from the FAA and Neuralink shows off its human-brain tech. This is your Daily Crunch for August 31, 2020. The big story: Netflix sets some content free Netflix has t…*
       
 
 <br />
