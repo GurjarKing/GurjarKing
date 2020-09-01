@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A language that doesn’t have everything is actually easier to program in than some that do.
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 
-~ Dennis Ritchie
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ A language that doesn’t have everything is actually easier to program in than 
 </pre>
 <strong>Daily News</strong>
   
-  - PicnicHealth raises $25 million for its patient health record management service
+  - Meet the $3,300 edition of the Galaxy Z Fold 2
      <hr/>
      
-      - *PicnicHealth, the startup that’s looking to give patients a way to manage their care in one place and pharmaceutical companies access to patient records for real world data, has just raised $25 million in financing to grow its business. Founded in 2016 by a f…*
+      - *If you’re going to spend $1,000 on a phone, you might as well spend $2,000. And honestly, if you’re going to spend $2,000, why not just go for it and spend $3,300? That seems to be a chief guiding principle behind the Samsung Galaxy Fold Z 2 Thom Browne editi…*
      
-  - Now providing healthcare access to nearly 1.5 million kids, Hazel Health raises $33.5 million
+  - Samsung’s new Galaxy Fold arrives September 18 for $2,000
       <hr/>
       
-      - *Hazel Health was founded five years ago to provide telemedicine services to children in public schools. Launched by a former Apple software engineer and serial entrepreneur, Nick Woods, and named after one of Woods’ children, Hazel Health has grown to work wi…*
+      - *As far as launches for revolutionary products are concerned, the Galaxy Fold could have gone a lot better. It’s not for lack of hype, of course. Years of prelude punctuated by Samsung’s own breathless expectations provided plenty of build-up, but in the end, …*
       
-  - Founded by an Impossible Foods, and Google data scientist, Climax Foods raises $7.5 million to tackle the cheesiest market
+  - InCountry raises $18M more to help SaaS companies store data locally
       <hr/>
       
-      - *Oliver Zahn began his professional career studying the stars. The founder of Climax Foods, a startup that’s using data science to replace animal proteins with plant-based substitutes, spent years at the University of California at Berkeley with his eyes fixed…*
+      - *We’re seeing a gradual expansion of national regulations that require data from SaaS applications to be stored locally, in the country where it’s sourced and used. Today a startup that’s built a service around that need — specifically, data residency-as-a-ser…*
       
-  - LA-based The Skills is launching a MasterClass for athletes featuring Michael Phelps, Maria Sharapova and more
+  - Amazon brings Twitch's livestreams to its Amazon Music app
       <hr/>
       
-      - *A new Los Angeles startup is betting that enough consumers are interested in paying between $69 and $149 per year to receive lessons in life and sports from celebrity athletes like Maria Sharapova and Shaun White to make a billion-dollar business. That’s the …*
+      - *Amazon is leveraging its investment in live-streaming site Twitch to expand its Amazon Music service. The company announced this morning Twitch’s livestreams will now be available in the Amazon Music app on iOS and Android, with the goal of allowing fans and …*
        
-  - Sarcos raises $40 million to bring its Guardian XO exoskeleton to market
+  - Zoom's Q2 report details some of the most extraordinary growth I've ever seen
       <hr/>
        
-       - *The COVID-19 pandemic has proven a significant catalyst for robotics investments, as companies look to invest in automation. Utah-based Sarcos Robotics bucks the trend a bit, however, as the purveyor of a technology designed to augment an existing human workf…*
+       - *Many companies have posted the occasional big quarter. These outsized periods may come when a business sells part of itself, or, through some arcane non-cash financial hijinks, it posts impressive numbers that appear prodigious when compared to their regular …*
       
 
 <br />
