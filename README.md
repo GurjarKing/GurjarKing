@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-In my second year in graduate school, I took a computer course and that was like lightening striking.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 
-~ Ted Nelson
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ In my second year in graduate school, I took a computer course and that was like
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook threatens to block news sharing in Australia as it lobbies against revenue share law
+  - Salesforce beefing up field service offering with AI
      <hr/>
      
-      - *Adtech giant and self-styled ‘free speech champion’, Facebook, has threatened to pull the plug on the public sharing of news content on Facebook and Instagram in Australia. The aggressive threat is Facebook’s attempt to lobby against a government plan that wi…*
+      - *Salesforce has been adding artificial intelligence to all parts of its platform for several years now. It calls the underlying artificial intelligence layer on the Salesforce platform Einstein. Today the company announced some enhancements to its field servic…*
      
+  - Crowd equity platform Seedrs opens up its existing secondary market to any business
+      <hr/>
+      
+      - *Seedrs — the UK’s first full-function private equity secondary market to launch back in 2017 — is launching its secondary market offering to all private businesses. The idea is that this will allow founders, employees and early investors to realize secondary …*
+      
+  - InfoSum raises $15.1M for its privacy-first, federated approach to big data analytics
+      <hr/>
+      
+      - *Data protection and data privacy have gone from niche concerns to mainstream issues in the last several years, thanks to new regulations and a cascade of costly breaches that have laid bare the problems that arise when information and data security are treate…*
+      
+  - Facebook threatens to block news sharing in Australia as it lobbies against revenue share law
+      <hr/>
+      
+      - *Adtech giant and self-styled ‘free speech champion’, Facebook, has threatened to pull the plug on the public sharing of news content on Facebook and Instagram in Australia. The aggressive threat is Facebook’s attempt to lobby against a government plan that wi…*
+       
   - Cosmose, a platform that analyzes foot traffic in physical stores, gets $15 million Series A
       <hr/>
-      
-      - *Cosmose, a platform that tracks foot traffic in brick-and-mortar stores to help companies predict customer behavior, announced today it has raised a $15 million Series A. The round was by Tiga Investments, with participation from returning investors OTB Ventu…*
-      
-  - Apple alum's jobs app for India's workers secures $8 million
-      <hr/>
-      
-      - *Javed, a middle-aged man, worked as a driver before losing that job earlier this year as coronavirus spread across India, prompting New Delhi to enforce a nationwide lockdown and temporarily curb several business activities. There are millions of people like …*
-      
-  - Everybody is racing to an IPO -- even Laird Hamilton's young "superfood" company
-      <hr/>
-      
-      - *This one is unusual: Laird Superfood, a five-year-old, 100-person, Sisters, Ore.-based startup that was cofounded by famed surfer Laird Hamilton and which makes plant-based packaged beverage products, filed today to raise up to $40 million in an IPO. We’d rep…*
        
-  - Walmart+ launches Sept 15, offering same-day delivery, gas discounts and cashierless checkout for $98/yr
-      <hr/>
-       
-       - *Walmart today officially unveiled its new membership service and Amazon Prime rival, which it’s calling “Walmart+.” The $98 per year service will combine free, unlimited same-day delivery on groceries and thousands of other items, with additional benefits, li…*
+       - *Cosmose, a platform that tracks foot traffic in brick-and-mortar stores to help companies predict customer behavior, announced today it has raised a $15 million Series A. The round was by Tiga Investments, with participation from returning investors OTB Ventu…*
       
 
 <br />
