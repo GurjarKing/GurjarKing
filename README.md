@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+One accurate measurement is worth more than a thousand expert opinions.
 
-~ Fred Brooks
+~ Grace Hopper
 <pre>
 
 </pre>
