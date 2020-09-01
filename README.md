@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+Programming increases goes as a power of program size.
 
-~ Dennis Ritchie
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ What we wanted to preserve was not just a good environment in which to do progra
 </pre>
 <strong>Daily News</strong>
   
-  - Rocket Lab gains key FAA launch license for its U.S.-based launch site
+  - Daily Crunch: Apple launches 'Exposure Notification Express' for COVID-19
      <hr/>
      
-      - *Launch provider Rocket Lab has gained a key clearance from the U.S. Federal Aviation Administration that should mean it’ll be launching from its U.S.-based facility at Wallops Island, Virginia relatively soon. As it had done before for its LC-1 launch pad in …*
+      - *Apple and Google are adding support for app-less exposure notifications, Facebook says it might block news sharing in Australia and Samsung has a new foldable phone. This is your Daily Crunch for September 1, 2020. The big story: Apple launches ‘Exposure Noti…*
      
+  - Rocket Lab gains key FAA launch license for its U.S.-based launch site
+      <hr/>
+      
+      - *Launch provider Rocket Lab has gained a key clearance from the U.S. Federal Aviation Administration that should mean it’ll be launching from its U.S.-based facility at Wallops Island, Virginia relatively soon. As it had done before for its LC-1 launch pad in …*
+      
   - Amazon's big redesign on iOS to reach all U.S. users by month-end
       <hr/>
       
@@ -71,16 +76,11 @@ What we wanted to preserve was not just a good environment in which to do progra
       <hr/>
       
       - *Dell has long held high esteem for the quality of its displays, and that hasn’t changed with its more recent models. What has changed is that more and more, people are looking for external monitors to complement their work laptops as they shift to more remote…*
-      
+       
   - What will a Wish IPO look like? Seems we'll find out sooner than later
       <hr/>
-      
-      - *Wish, the San Francisco-based, 750-person e-commerce app that sells deeply discounted goods that you definitely don’t need but might buy anyway when priced so low — think pool floaties, guinea pig harnesses, Apple Watch knockoffs — said yesterday that it has …*
        
-  - Jeff Lawson on API startups, picking a market and getting dissed by VCs
-      <hr/>
-       
-       - *Last week TechCrunch sat down virtually with Jeff Lawson, the CEO and co-founder of Twilio as part of our long-running Extra Crunch Live series. As I expected, the chat was a good use of time. Why? Lawson was early on the idea that software companies could de…*
+       - *Wish, the San Francisco-based, 750-person e-commerce app that sells deeply discounted goods that you definitely don’t need but might buy anyway when priced so low — think pool floaties, guinea pig harnesses, Apple Watch knockoffs — said yesterday that it has …*
       
 
 <br />
