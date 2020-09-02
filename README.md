@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
 
-~ Addy Osmani
+~ Joe Armstrong (programmer)
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Be humble, communicate clearly, and respect others. It costs nothing to be kind,
 </pre>
 <strong>Daily News</strong>
   
-  - India bans PUBG and over 100 additional Chinese apps
+  - Workplace management startup Legion raises $22 million
      <hr/>
      
-      - *India has banned more than 100 additional Chinese apps including popular mobile game PUBG citing cybersecurity concerns as geopolitical tension between the two neighboring nations continues to rise. On Wednesday, India’s IT Ministry said it had banned 118 app…*
+      - *Legion, an artificial intelligence driven platform for workplace management, has raised a $22 million series B round led by Stripes with participation from Workday Ventures and others. Legion is designed to help employers better manage their hourly workforces…*
      
-  - Point72, the firm investing hedge fund mogul Steven A Cohen's personal wealth, gets into healthcare
+  - A SonicWall cloud bug exposed corporate networks to hackers
       <hr/>
       
-      - *Point72 Ventures, the early stage investment firm that’s now solely investing the personal wealth of the multi-billionaire hedge fund magnate Steven A. Cohen, is getting into healthcare investing. The firm has hired Scott Barclay, a former partner at the life…*
+      - *The bug exposed thousands of corporate networks to hackers.*
       
-  - India's online learning platform Unacademy raises $150 million at $1.45 billion valuation
+  - Learn how to raise your first dollars at Disrupt 2020
       <hr/>
       
-      - *India has a new unicorn startup. On Wednesday, Bangalore-based online learning startup announced it has raised $150 million in a new financing round that valued the Facebook-backed firm at $1.45 billion (post-money). SoftBank Group — through its Vision Fund 2…*
+      - *Deciding how to go about getting your initial funding is always a tricky subject, as the wrong move could adversely impact your young company. At Disrupt 2020 this September 14-18, we’ll showcase three amazing investors and experts who’ve shepherded multiple …*
       
-  - Microsoft launches a deepfake detector tool ahead of US election
+  - Mulberry, the warranty service for direct to consumer brands, approaches $10 million ARR
       <hr/>
       
-      - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
+      - *In the two years since Chinedu Eleanya founded Mulberry to be the warranty service for direct-to-consumer brands, business has boomed.  Already riding a shakeup in consumer behavior brought by the emergence of startup brands selling just about everything to j…*
        
-  - Klaxoon teases new interactive meeting product for video calls
+  - India bans PUBG and over 100 additional Chinese apps
       <hr/>
        
-       - *French startup Klaxoon is currently testing a new product called Board. The company expects to launch Board at some point during the second half of September. Board is a new visual interface that connects directly with video-conferencing services, such as Mic…*
+       - *India has banned more than 100 additional Chinese apps including popular mobile game PUBG citing cybersecurity concerns as geopolitical tension between the two neighboring nations continues to rise. On Wednesday, India’s IT Ministry said it had banned 118 app…*
       
 
 <br />
