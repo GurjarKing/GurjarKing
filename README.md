@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
+I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 
-~ Edsger W. Dijkstra
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ A program is like a poem: you cannot write a poem without writing it. Yet people
 </pre>
 <strong>Daily News</strong>
   
-  - Microsoft launches a deepfake detector tool ahead of US election
+  - India's online learning platform Unacademy raises $150 million at $1.45 billion valuation
      <hr/>
      
-      - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
+      - *India has a new unicorn startup. On Wednesday, Bangalore-based online learning startup announced it has raised $150 million in a new financing round that valued the Facebook-backed firm at $1.45 billion (post-money). SoftBank Group — through its Vision Fund 2…*
      
+  - Microsoft launches a deepfake detector tool ahead of US election
+      <hr/>
+      
+      - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
+      
   - Klaxoon teases new interactive meeting product for video calls
       <hr/>
       
@@ -71,16 +76,11 @@ A program is like a poem: you cannot write a poem without writing it. Yet people
       <hr/>
       
       - *E-commerce has brought in a logistics boom in China over the last decade, transforming small-town delivery businesses into multinational corporations. One leading player, YTO, is gearing up for international expansion after it secured 6.6 billion yuan or $970…*
-      
+       
   - 3one4 Capital launches $100M fund to back early-stage startups in India
       <hr/>
-      
-      - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
        
-  - Indonesian insurtech startup PasarPolis gets $54 million Series B from investors including LeapFrog and SBI
-      <hr/>
-       
-       - *PasarPolis, the Indonesian-based startup focused on making insurance policies more accessible in Southeast Asia, announced today it has closed a Series B round totaling $54 million. Investors include LeapFrog Investments and SBI Investment, both firms that fo…*
+       - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
       
 
 <br />
