@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
 
-~ Joe Armstrong (programmer)
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ If you start removing things, if you get to the point where if you were to remov
 </pre>
 <strong>Daily News</strong>
   
-  - Workplace management startup Legion raises $22 million
+  - The IPO parade continues as Wish files, Bumble targets an eventual debut
      <hr/>
      
-      - *Legion, an artificial intelligence driven platform for workplace management, has raised a $22 million series B round led by Stripes with participation from Workday Ventures and others. Legion is designed to help employers better manage their hourly workforces…*
+      - *Last Monday will go down in the books as a historic day for unicorn liquidity, as company after company dropped their IPO filings onto the internet for the world to read. It was great. But this week is still managing a good grip of IPO news, with Wish announc…*
      
+  - Carewell raises $5M for a vetted marketplace aimed at family caregivers
+      <hr/>
+      
+      - *Caregivers, both paid and unpaid, have been in the spotlight this year as one of the key categories of front-line workers helping cope with the coronavirus pandemic. On one hand, they have been in great need, especially as the infection seemed to hit hardest …*
+      
+  - Workplace management startup Legion raises $22 million
+      <hr/>
+      
+      - *Legion, an artificial intelligence driven platform for workplace management, has raised a $22 million series B round led by Stripes with participation from Workday Ventures and others. Legion is designed to help employers better manage their hourly workforces…*
+      
   - A SonicWall cloud bug exposed corporate networks to hackers
       <hr/>
       
       - *The bug exposed thousands of corporate networks to hackers.*
-      
+       
   - Learn how to raise your first dollars at Disrupt 2020
       <hr/>
-      
-      - *Deciding how to go about getting your initial funding is always a tricky subject, as the wrong move could adversely impact your young company. At Disrupt 2020 this September 14-18, we’ll showcase three amazing investors and experts who’ve shepherded multiple …*
-      
-  - Mulberry, the warranty service for direct to consumer brands, approaches $10 million ARR
-      <hr/>
-      
-      - *In the two years since Chinedu Eleanya founded Mulberry to be the warranty service for direct-to-consumer brands, business has boomed.  Already riding a shakeup in consumer behavior brought by the emergence of startup brands selling just about everything to j…*
        
-  - India bans PUBG and over 100 additional Chinese apps
-      <hr/>
-       
-       - *India has banned more than 100 additional Chinese apps including popular mobile game PUBG citing cybersecurity concerns as geopolitical tension between the two neighboring nations continues to rise. On Wednesday, India’s IT Ministry said it had banned 118 app…*
+       - *Deciding how to go about getting your initial funding is always a tricky subject, as the wrong move could adversely impact your young company. At Disrupt 2020 this September 14-18, we’ll showcase three amazing investors and experts who’ve shepherded multiple …*
       
 
 <br />
