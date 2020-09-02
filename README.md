@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 
-~ Daniel T. Barry
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ A team of highly competent programmers who are also highly territorial, egotisti
 </pre>
 <strong>Daily News</strong>
   
-  - Twitch launches Watch Parties to all creators worldwide
+  - Hear E-Prix Champion di Grassi on the future of electric motor sports (including scooters)
      <hr/>
      
-      - *Twitch is doubling down on making its site more than just a place for live streaming gaming video. Last fall, the Amazon-owned company began testing a new feature called “Watch Parties,” which lets creators stream Amazon Prime Video content to viewers with Am…*
+      - *Lucas di Grassi is returning to TechCrunch’s stage, and we’re going to talk racing electric vehicles. Again. Because electric is the future of motoring including motorsports. There’s a lot to talk about with di Grassi. He’s an outspoken proponent of electric …*
      
+  - Dear Sophie: Can we sponsor an H-1B university researcher for an EB-1B green card?
+      <hr/>
+      
+      - *How long does the EB-1B process take? What can we do to maximize our chances for approval?*
+      
+  - To build responsibly, tech needs to do more than just hire chief ethics officers
+      <hr/>
+      
+      - *The builders, questioners, makers and ethical leaders coming up in technology firms now will help us to reshape the industry for the better and create the products we deserve.*
+      
+  - Twitch launches Watch Parties to all creators worldwide
+      <hr/>
+      
+      - *Twitch is doubling down on making its site more than just a place for live streaming gaming video. Last fall, the Amazon-owned company began testing a new feature called “Watch Parties,” which lets creators stream Amazon Prime Video content to viewers with Am…*
+       
   - FB Messenger chief Stan Chudnovsky is coming to Disrupt
       <hr/>
-      
-      - *Stan Chudnovsky last spoke at Disrupt in 2016, so we’ve got a lot to catch up on. Chudnovsky remains in charge of Facebook Messenger — his current title is VP of Messenger — so he can tell us more about how the product has evolved at this year’s Disrupt 2020 …*
-      
-  - Peer Medical allows lung cancer patients to anonymously share treatments with each other
-      <hr/>
-      
-      - *Peer Medical has a big mission. After his father died of lung cancer, serial entrepreneur Ed Spiegel vowed to create a better way for lung cancer patients to deal with their disease. The startup has so far raised a $1.2M seed funding round for its ground-brea…*
-      
-  - As corporate cards are subsumed into software, Airbase posts rapid growth
-      <hr/>
-      
-      - *A few weeks back, TechCrunch wrote about how Ramp, a corporate credit card startup with a focus on cost control, had added expense management software on top of its company plastic business. Closing out our piece, I wondered if “cards aren’t de facto commodit…*
        
-  - XRobotics is keeping the dream of pizza robots alive
-      <hr/>
-       
-       - *Zume pulled the plug on its robotic pizza wing earlier this year. A lot goes into making a decision like that — particularly for a company whose robotic dreams were a press darling for a while there. But its own inabilities to get the math right shouldn’t nec…*
+       - *Stan Chudnovsky last spoke at Disrupt in 2016, so we’ve got a lot to catch up on. Chudnovsky remains in charge of Facebook Messenger — his current title is VP of Messenger — so he can tell us more about how the product has evolved at this year’s Disrupt 2020 …*
       
 
 <br />
