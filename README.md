@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+As with most projects, the last two percent takes fifty percent of the time.
 
-~ Joseph Yoder (computer scientist)
+~ John Warnock
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Sadly, architecture has been undervalued for so long that many engineers regard 
 </pre>
 <strong>Daily News</strong>
   
-  - Hear E-Prix Champion di Grassi on the future of electric motor sports (including scooters)
+  - Deep Science: Dog detectors, Mars mappers and AI-scrambling sweaters
      <hr/>
      
-      - *Lucas di Grassi is returning to TechCrunch’s stage, and we’re going to talk racing electric vehicles. Again. Because electric is the future of motoring including motorsports. There’s a lot to talk about with di Grassi. He’s an outspoken proponent of electric …*
+      - *Research papers come out at far too rapid a rate for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent …*
      
+  - Hear E-Prix Champion di Grassi on the future of electric motor sports (including scooters)
+      <hr/>
+      
+      - *Lucas di Grassi is returning to TechCrunch’s stage, and we’re going to talk racing electric vehicles. Again. Because electric is the future of motoring including motorsports. There’s a lot to talk about with di Grassi. He’s an outspoken proponent of electric …*
+      
   - Dear Sophie: Can we sponsor an H-1B university researcher for an EB-1B green card?
       <hr/>
       
@@ -71,16 +76,11 @@ Sadly, architecture has been undervalued for so long that many engineers regard 
       <hr/>
       
       - *The builders, questioners, makers and ethical leaders coming up in technology firms now will help us to reshape the industry for the better and create the products we deserve.*
-      
+       
   - Twitch launches Watch Parties to all creators worldwide
       <hr/>
-      
-      - *Twitch is doubling down on making its site more than just a place for live streaming gaming video. Last fall, the Amazon-owned company began testing a new feature called “Watch Parties,” which lets creators stream Amazon Prime Video content to viewers with Am…*
        
-  - FB Messenger chief Stan Chudnovsky is coming to Disrupt
-      <hr/>
-       
-       - *Stan Chudnovsky last spoke at Disrupt in 2016, so we’ve got a lot to catch up on. Chudnovsky remains in charge of Facebook Messenger — his current title is VP of Messenger — so he can tell us more about how the product has evolved at this year’s Disrupt 2020 …*
+       - *Twitch is doubling down on making its site more than just a place for live streaming gaming video. Last fall, the Amazon-owned company began testing a new feature called “Watch Parties,” which lets creators stream Amazon Prime Video content to viewers with Am…*
       
 
 <br />
