@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Every time you improve process, work becomes harder.
+Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 
-~ Daniel T. Barry
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ Every time you improve process, work becomes harder.
 </pre>
 <strong>Daily News</strong>
   
-  - 3one4 Capital launches $100M fund to back early-stage startups in India
+  - Klaxoon teases new interactive meeting product for video calls
      <hr/>
      
-      - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
+      - *French startup Klaxoon is currently testing a new product called Board. The company expects to launch Board at some point during the second half of September. Board is a new visual interface that connects directly with video-conferencing services, such as Mic…*
      
+  - China's logistics titan YTO nets close to $1B from Alibaba in overseas push
+      <hr/>
+      
+      - *E-commerce has brought in a logistics boom in China over the last decade, transforming small-town delivery businesses into multinational corporations. One leading player, YTO, is gearing up for international expansion after it secured 6.6 billion yuan or $970…*
+      
+  - 3one4 Capital launches $100M fund to back early-stage startups in India
+      <hr/>
+      
+      - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
+      
   - Indonesian insurtech startup PasarPolis gets $54 million Series B from investors including LeapFrog and SBI
       <hr/>
       
       - *PasarPolis, the Indonesian-based startup focused on making insurance policies more accessible in Southeast Asia, announced today it has closed a Series B round totaling $54 million. Investors include LeapFrog Investments and SBI Investment, both firms that fo…*
-      
+       
   - GM, Ford wrap up ventilator production and shift back to auto business
       <hr/>
-      
-      - *As the COVID-19 pandemic spread to the United States, a number of automakers and other manufacturers announced plans to retrofit factories to help ease the shortage of personal protective gear and ventilators. Now, two U.S. automakers have fulfilled their sep…*
-      
-  - Toss Lab raises $13 million Series B for its collaboration platform JANDI, the "Slack of Asia"
-      <hr/>
-      
-      - *As Slack ramps up its investment in Asia, Toss Lab, the South Korea-based creator of enterprise collaboration platform JANDI, is preparing to become a more formidable rival. The startup announced today that it has raised a $13 million Series B led by SoftBank…*
        
-  - Daily Crunch: Apple launches 'Exposure Notification Express' for COVID-19
-      <hr/>
-       
-       - *Apple and Google are adding support for app-less exposure notifications, Facebook says it might block news sharing in Australia and Samsung has a new foldable phone. This is your Daily Crunch for September 1, 2020. The big story: Apple launches ‘Exposure Noti…*
+       - *As the COVID-19 pandemic spread to the United States, a number of automakers and other manufacturers announced plans to retrofit factories to help ease the shortage of personal protective gear and ventilators. Now, two U.S. automakers have fulfilled their sep…*
       
 
 <br />
