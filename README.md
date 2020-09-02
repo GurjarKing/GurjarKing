@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
+A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
 
-~ Ward Cunningham
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Shipping first time code is like going into debt. A little debt speeds developme
 </pre>
 <strong>Daily News</strong>
   
-  - Klaxoon teases new interactive meeting product for video calls
+  - Microsoft launches a deepfake detector tool ahead of US election
      <hr/>
      
-      - *French startup Klaxoon is currently testing a new product called Board. The company expects to launch Board at some point during the second half of September. Board is a new visual interface that connects directly with video-conferencing services, such as Mic…*
+      - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
      
+  - Klaxoon teases new interactive meeting product for video calls
+      <hr/>
+      
+      - *French startup Klaxoon is currently testing a new product called Board. The company expects to launch Board at some point during the second half of September. Board is a new visual interface that connects directly with video-conferencing services, such as Mic…*
+      
   - China's logistics titan YTO nets close to $1B from Alibaba in overseas push
       <hr/>
       
@@ -71,16 +76,11 @@ Shipping first time code is like going into debt. A little debt speeds developme
       <hr/>
       
       - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
-      
+       
   - Indonesian insurtech startup PasarPolis gets $54 million Series B from investors including LeapFrog and SBI
       <hr/>
-      
-      - *PasarPolis, the Indonesian-based startup focused on making insurance policies more accessible in Southeast Asia, announced today it has closed a Series B round totaling $54 million. Investors include LeapFrog Investments and SBI Investment, both firms that fo…*
        
-  - GM, Ford wrap up ventilator production and shift back to auto business
-      <hr/>
-       
-       - *As the COVID-19 pandemic spread to the United States, a number of automakers and other manufacturers announced plans to retrofit factories to help ease the shortage of personal protective gear and ventilators. Now, two U.S. automakers have fulfilled their sep…*
+       - *PasarPolis, the Indonesian-based startup focused on making insurance policies more accessible in Southeast Asia, announced today it has closed a Series B round totaling $54 million. Investors include LeapFrog Investments and SBI Investment, both firms that fo…*
       
 
 <br />
