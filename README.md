@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-As with most projects, the last two percent takes fifty percent of the time.
+I'm not a great programmer; I'm just a good programmer with great habits.
 
-~ John Warnock
+~ Kent Beck
 <pre>
 
 </pre>
