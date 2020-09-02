@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Jeremy S. Anderson
+~ Butler Lampson
 <pre>
 
 </pre>
