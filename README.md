@@ -44,10 +44,9 @@
 
 **Quote of the hour:**
 
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 
-~ Bob Frankston
+~ Jeremy S. Anderson
 <pre>
 
 </pre>
