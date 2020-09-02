@@ -44,9 +44,10 @@
 
 **Quote of the hour:**
 
-People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 
-~ Donald Knuth
+~ Bob Frankston
 <pre>
 
 </pre>
@@ -57,11 +58,16 @@ People think that computer science is the art of geniuses but the actual reality
 </pre>
 <strong>Daily News</strong>
   
-  - Toss Lab raises $13 million Series B for its collaboration platform JANDI, the "Slack of Asia"
+  - GM, Ford wrap up ventilator production and shift back to auto business
      <hr/>
      
-      - *As Slack ramps up its investment in Asia, Toss Lab, the South Korea-based creator of enterprise collaboration platform JANDI, is preparing to become a more formidable rival. The startup announced today that it has raised a $13 million Series B led by SoftBank…*
+      - *As the COVID-19 pandemic spread to the United States, a number of automakers and other manufacturers announced plans to retrofit factories to help ease the shortage of personal protective gear and ventilators. Now, two U.S. automakers have fulfilled their sep…*
      
+  - Toss Lab raises $13 million Series B for its collaboration platform JANDI, the "Slack of Asia"
+      <hr/>
+      
+      - *As Slack ramps up its investment in Asia, Toss Lab, the South Korea-based creator of enterprise collaboration platform JANDI, is preparing to become a more formidable rival. The startup announced today that it has raised a $13 million Series B led by SoftBank…*
+      
   - Daily Crunch: Apple launches 'Exposure Notification Express' for COVID-19
       <hr/>
       
@@ -71,16 +77,11 @@ People think that computer science is the art of geniuses but the actual reality
       <hr/>
       
       - *Launch provider Rocket Lab has gained a key clearance from the U.S. Federal Aviation Administration that should mean it’ll be launching from its U.S.-based facility at Wallops Island, Virginia relatively soon. As it had done before for its LC-1 launch pad in …*
-      
+       
   - Amazon's big redesign on iOS to reach all U.S. users by month-end
       <hr/>
-      
-      - *The Amazon app is getting a makeover. You may have already spotted the refreshed version of the Amazon shopping app with its new color scheme and revamped navigation if you’re an iPhone user. The changes began rolling out earlier this summer to iOS users in t…*
        
-  - Dell's U3219Q 32-inch 4K monitor provides a perfect home office upgrade
-      <hr/>
-       
-       - *Dell has long held high esteem for the quality of its displays, and that hasn’t changed with its more recent models. What has changed is that more and more, people are looking for external monitors to complement their work laptops as they shift to more remote…*
+       - *The Amazon app is getting a makeover. You may have already spotted the refreshed version of the Amazon shopping app with its new color scheme and revamped navigation if you’re an iPhone user. The changes began rolling out earlier this summer to iOS users in t…*
       
 
 <br />
