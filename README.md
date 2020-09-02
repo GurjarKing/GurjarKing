@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+It is not the task of the University to offer what society asks for, but to give what society needs.
 
-~ Alan Kay
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Most software today is very much like an Egyptian pyramid with millions of brick
 </pre>
 <strong>Daily News</strong>
   
-  - FCC dings company for $164K after its false broadband claims distorted national report
+  - Samsung’s got a new budget 5G handset and a fitness tracker with a two-week battery
      <hr/>
      
-      - *The FCC was deeply embarrassed last year when it was found that its rosy broadband deployment report was off by millions, owing to a single, extremely suspect filing that conjured 62 million customers out of thin air. The company responsible is being assessed…*
+      - *Yesterday’s overflow Galaxy Unpacked event was about one thing and one thing alone: the Galaxy Z Fold 2. Honestly, it was a bit anticlimactic after its predecessor found Samsung unveiling five new devices. But the singular focus wasn’t for lack of new stuff t…*
      
+  - FCC dings company for $164K after its false broadband claims distorted national report
+      <hr/>
+      
+      - *The FCC was deeply embarrassed last year when it was found that its rosy broadband deployment report was off by millions, owing to a single, extremely suspect filing that conjured 62 million customers out of thin air. The company responsible is being assessed…*
+      
   - Snapchat had a big August amid TikTok uncertainty
       <hr/>
       
@@ -71,16 +76,11 @@ Most software today is very much like an Egyptian pyramid with millions of brick
       <hr/>
       
       - *LPs have the power and the responsibility to invest in more diverse fund managers to keep them and their investment teams accountable.*
-      
+       
   - Edtech startups find demand from an unlikely customer: Public schools
       <hr/>
-      
-      - *School district technology budgets are tight. But Kami CEO and founder Hengjie Wang wanted to make his company’s digital classroom product a go-to tool anyway. He landed on trying to disrupt the printers. Wang found that school districts spend an average of $…*
        
-  - Hypatos gets $11.8M for a deep learning approach to document processing
-      <hr/>
-       
-       - *Process automation startup Hypatos has raised a €10 million (~$11.8M) seed round of funding from investors including Blackfin Tech, Grazia Equity, UVC Partners and Plug & Play Ventures. The Germany- and Poland-based company was spun out of AI for accounting s…*
+       - *School district technology budgets are tight. But Kami CEO and founder Hengjie Wang wanted to make his company’s digital classroom product a go-to tool anyway. He landed on trying to disrupt the printers. Wang found that school districts spend an average of $…*
       
 
 <br />
