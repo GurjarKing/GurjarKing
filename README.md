@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A few months writing code can save you a few hours in design.
+Your most unhappy customers are your greatest source of learning.
 
-~ Anonymous
+~ Bill Gates
 <pre>
 
 </pre>
