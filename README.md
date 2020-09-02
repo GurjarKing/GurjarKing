@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 
-~ Richard Stallman
+~ Addy Osmani
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ I consider that the golden rule requires that if I like a program I must share i
 </pre>
 <strong>Daily News</strong>
   
-  - India's online learning platform Unacademy raises $150 million at $1.45 billion valuation
+  - India bans PUBG and over 100 additional Chinese apps
      <hr/>
      
-      - *India has a new unicorn startup. On Wednesday, Bangalore-based online learning startup announced it has raised $150 million in a new financing round that valued the Facebook-backed firm at $1.45 billion (post-money). SoftBank Group — through its Vision Fund 2…*
+      - *India has banned more than 100 additional Chinese apps including popular mobile game PUBG citing cybersecurity concerns as geopolitical tension between the two neighboring nations continues to rise. On Wednesday, India’s IT Ministry said it had banned 118 app…*
      
+  - Point72, the firm investing hedge fund mogul Steven A Cohen's personal wealth, gets into healthcare
+      <hr/>
+      
+      - *Point72 Ventures, the early stage investment firm that’s now solely investing the personal wealth of the multi-billionaire hedge fund magnate Steven A. Cohen, is getting into healthcare investing. The firm has hired Scott Barclay, a former partner at the life…*
+      
+  - India's online learning platform Unacademy raises $150 million at $1.45 billion valuation
+      <hr/>
+      
+      - *India has a new unicorn startup. On Wednesday, Bangalore-based online learning startup announced it has raised $150 million in a new financing round that valued the Facebook-backed firm at $1.45 billion (post-money). SoftBank Group — through its Vision Fund 2…*
+      
   - Microsoft launches a deepfake detector tool ahead of US election
       <hr/>
       
       - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
-      
+       
   - Klaxoon teases new interactive meeting product for video calls
       <hr/>
-      
-      - *French startup Klaxoon is currently testing a new product called Board. The company expects to launch Board at some point during the second half of September. Board is a new visual interface that connects directly with video-conferencing services, such as Mic…*
-      
-  - China's logistics titan YTO nets close to $1B from Alibaba in overseas push
-      <hr/>
-      
-      - *E-commerce has brought in a logistics boom in China over the last decade, transforming small-town delivery businesses into multinational corporations. One leading player, YTO, is gearing up for international expansion after it secured 6.6 billion yuan or $970…*
        
-  - 3one4 Capital launches $100M fund to back early-stage startups in India
-      <hr/>
-       
-       - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
+       - *French startup Klaxoon is currently testing a new product called Board. The company expects to launch Board at some point during the second half of September. Board is a new visual interface that connects directly with video-conferencing services, such as Mic…*
       
 
 <br />
