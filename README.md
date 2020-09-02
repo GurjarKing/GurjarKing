@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Programming increases goes as a power of program size.
+People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 
-~ Fred Brooks
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Programming increases goes as a power of program size.
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Apple launches 'Exposure Notification Express' for COVID-19
+  - Toss Lab raises $13 million Series B for its collaboration platform JANDI, the "Slack of Asia"
      <hr/>
      
-      - *Apple and Google are adding support for app-less exposure notifications, Facebook says it might block news sharing in Australia and Samsung has a new foldable phone. This is your Daily Crunch for September 1, 2020. The big story: Apple launches ‘Exposure Noti…*
+      - *As Slack ramps up its investment in Asia, Toss Lab, the South Korea-based creator of enterprise collaboration platform JANDI, is preparing to become a more formidable rival. The startup announced today that it has raised a $13 million Series B led by SoftBank…*
      
+  - Daily Crunch: Apple launches 'Exposure Notification Express' for COVID-19
+      <hr/>
+      
+      - *Apple and Google are adding support for app-less exposure notifications, Facebook says it might block news sharing in Australia and Samsung has a new foldable phone. This is your Daily Crunch for September 1, 2020. The big story: Apple launches ‘Exposure Noti…*
+      
   - Rocket Lab gains key FAA launch license for its U.S.-based launch site
       <hr/>
       
@@ -71,16 +76,11 @@ Programming increases goes as a power of program size.
       <hr/>
       
       - *The Amazon app is getting a makeover. You may have already spotted the refreshed version of the Amazon shopping app with its new color scheme and revamped navigation if you’re an iPhone user. The changes began rolling out earlier this summer to iOS users in t…*
-      
+       
   - Dell's U3219Q 32-inch 4K monitor provides a perfect home office upgrade
       <hr/>
-      
-      - *Dell has long held high esteem for the quality of its displays, and that hasn’t changed with its more recent models. What has changed is that more and more, people are looking for external monitors to complement their work laptops as they shift to more remote…*
        
-  - What will a Wish IPO look like? Seems we'll find out sooner than later
-      <hr/>
-       
-       - *Wish, the San Francisco-based, 750-person e-commerce app that sells deeply discounted goods that you definitely don’t need but might buy anyway when priced so low — think pool floaties, guinea pig harnesses, Apple Watch knockoffs — said yesterday that it has …*
+       - *Dell has long held high esteem for the quality of its displays, and that hasn’t changed with its more recent models. What has changed is that more and more, people are looking for external monitors to complement their work laptops as they shift to more remote…*
       
 
 <br />
