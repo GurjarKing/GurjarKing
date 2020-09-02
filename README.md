@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 
-~ Randall E. Stross
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ The best programmers are not marginally better than merely good ones. They are a
 </pre>
 <strong>Daily News</strong>
   
-  - US cell carrier Assist Wireless exposed thousands of customer IDs
+  - Twitch launches Watch Parties to all creators worldwide
      <hr/>
      
-      - *A website bug exposed customer driver's licenses, passports, and Social Security numbers.*
+      - *Twitch is doubling down on making its site more than just a place for live streaming gaming video. Last fall, the Amazon-owned company began testing a new feature called “Watch Parties,” which lets creators stream Amazon Prime Video content to viewers with Am…*
      
-  - 'The Mandalorian' launches its second season on Oct. 30
+  - FB Messenger chief Stan Chudnovsky is coming to Disrupt
       <hr/>
       
-      - *“The Mandalorian” is returning to Disney+ with new episodes starting on October 30. The Star Wars spinoff series (created by Jon Favreau) was the biggest original offering when Disney+ launched in November of last year. With its story of a mysterious bounty h…*
+      - *Stan Chudnovsky last spoke at Disrupt in 2016, so we’ve got a lot to catch up on. Chudnovsky remains in charge of Facebook Messenger — his current title is VP of Messenger — so he can tell us more about how the product has evolved at this year’s Disrupt 2020 …*
       
-  - Google's personalized audio news feature, Your News Update, comes to Google Podcasts
+  - Peer Medical allows lung cancer patients to anonymously share treatments with each other
       <hr/>
       
-      - *Last year, Google launched a personalized playlist of audio news called “Your News Update” for Google Assistant. The feature leverages machine learning techniques to understand the news content and how it relates to the listener’s own likes and interests. Tod…*
+      - *Peer Medical has a big mission. After his father died of lung cancer, serial entrepreneur Ed Spiegel vowed to create a better way for lung cancer patients to deal with their disease. The startup has so far raised a $1.2M seed funding round for its ground-brea…*
       
-  - Transposit scores $35M to build data-driven runbooks for faster disaster recovery
+  - As corporate cards are subsumed into software, Airbase posts rapid growth
       <hr/>
       
-      - *Transposit is a company built by engineers to help engineers, and one big way to help them is to get systems up and running faster when things go wrong — as they always will at some point. Transposit has come up with a way to build runbooks for faster disaste…*
+      - *A few weeks back, TechCrunch wrote about how Ramp, a corporate credit card startup with a focus on cost control, had added expense management software on top of its company plastic business. Closing out our piece, I wondered if “cards aren’t de facto commodit…*
        
-  - The IPO parade continues as Wish files, Bumble targets an eventual debut
+  - XRobotics is keeping the dream of pizza robots alive
       <hr/>
        
-       - *Last Monday will go down in the books as a historic day for unicorn liquidity, as company after company dropped their IPO filings onto the internet for the world to read. It was great. But this week is still managing a good grip of IPO news, with Wish announc…*
+       - *Zume pulled the plug on its robotic pizza wing earlier this year. A lot goes into making a decision like that — particularly for a company whose robotic dreams were a press darling for a while there. But its own inabilities to get the math right shouldn’t nec…*
       
 
 <br />
