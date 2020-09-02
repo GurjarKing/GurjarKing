@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+A few months writing code can save you a few hours in design.
 
-~ Gerald Weinberg
+~ Anonymous
 <pre>
 
 </pre>
