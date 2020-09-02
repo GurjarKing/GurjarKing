@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
+The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 
-~ Hal Abelson
+~ Randall E. Stross
 <pre>
 
 </pre>
@@ -57,30 +57,30 @@ A computational process is indeed much like a sorcerer's idea of a spirit. It ca
 </pre>
 <strong>Daily News</strong>
   
-  - The IPO parade continues as Wish files, Bumble targets an eventual debut
+  - US cell carrier Assist Wireless exposed thousands of customer IDs
      <hr/>
      
-      - *Last Monday will go down in the books as a historic day for unicorn liquidity, as company after company dropped their IPO filings onto the internet for the world to read. It was great. But this week is still managing a good grip of IPO news, with Wish announc…*
+      - *A website bug exposed customer driver's licenses, passports, and Social Security numbers.*
      
-  - Carewell raises $5M for a vetted marketplace aimed at family caregivers
+  - 'The Mandalorian' launches its second season on Oct. 30
       <hr/>
       
-      - *Caregivers, both paid and unpaid, have been in the spotlight this year as one of the key categories of front-line workers helping cope with the coronavirus pandemic. On one hand, they have been in great need, especially as the infection seemed to hit hardest …*
+      - *“The Mandalorian” is returning to Disney+ with new episodes starting on October 30. The Star Wars spinoff series (created by Jon Favreau) was the biggest original offering when Disney+ launched in November of last year. With its story of a mysterious bounty h…*
       
-  - Workplace management startup Legion raises $22 million
+  - Google's personalized audio news feature, Your News Update, comes to Google Podcasts
       <hr/>
       
-      - *Legion, an artificial intelligence driven platform for workplace management, has raised a $22 million series B round led by Stripes with participation from Workday Ventures and others. Legion is designed to help employers better manage their hourly workforces…*
+      - *Last year, Google launched a personalized playlist of audio news called “Your News Update” for Google Assistant. The feature leverages machine learning techniques to understand the news content and how it relates to the listener’s own likes and interests. Tod…*
       
-  - A SonicWall cloud bug exposed corporate networks to hackers
+  - Transposit scores $35M to build data-driven runbooks for faster disaster recovery
       <hr/>
       
-      - *The bug exposed thousands of corporate networks to hackers.*
+      - *Transposit is a company built by engineers to help engineers, and one big way to help them is to get systems up and running faster when things go wrong — as they always will at some point. Transposit has come up with a way to build runbooks for faster disaste…*
        
-  - Learn how to raise your first dollars at Disrupt 2020
+  - The IPO parade continues as Wish files, Bumble targets an eventual debut
       <hr/>
        
-       - *Deciding how to go about getting your initial funding is always a tricky subject, as the wrong move could adversely impact your young company. At Disrupt 2020 this September 14-18, we’ll showcase three amazing investors and experts who’ve shepherded multiple …*
+       - *Last Monday will go down in the books as a historic day for unicorn liquidity, as company after company dropped their IPO filings onto the internet for the world to read. It was great. But this week is still managing a good grip of IPO news, with Wish announc…*
       
 
 <br />
