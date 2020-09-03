@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+Making things easy is hard.
 
-~ Ivan Sutherland
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A display connected to a digital computer gives us a chance to gain familiarity 
 </pre>
 <strong>Daily News</strong>
   
-  - SpaceX completes another successful short test flight of its Starship spacecraft prototype
+  - Rocket Lab secretly launched its very first satellite, 'First Light'
      <hr/>
      
-      - *SpaceX has done it again – a second ‘hop’ flight in under a month for its Starship prototype. This was a 150 meter (just under 500 foot) test flight from its Boca Chica, Texas development site. The prototype used in this instance was SN6, a more recent model …*
+      - *Rocket Lab’s 14th mission, “I Can’t Believe It’s Not Optical,” had a stowaway aboard. The New Zealand launch company quietly included its first fully functioning satellite next to its paying customer’s payload. First Light, as it’s called, is a sort of tech…*
      
+  - SpaceX completes another successful short test flight of its Starship spacecraft prototype
+      <hr/>
+      
+      - *SpaceX has done it again – a second ‘hop’ flight in under a month for its Starship prototype. This was a 150 meter (just under 500 foot) test flight from its Boca Chica, Texas development site. The prototype used in this instance was SN6, a more recent model …*
+      
   - Media Roundup: Patreon joins unicorn club, Facebook could ban news in Australia, more
       <hr/>
       
@@ -73,16 +78,11 @@ A display connected to a digital computer gives us a chance to gain familiarity 
       <hr/>
       
       - *Disrupt 2020 is all about helping startups find and create ways to drive their business forward in these most challenging times. We partnered with cela to give exhibitors in Digital Startup Alley one sweet opportunity — networking with 13 accelerators. If you…*
-      
+       
   - Apple won't force developers to let users opt out of tracking until next year
       <hr/>
-      
-      - *The iOS 14 privacy feature, announced earlier this year, will not be enforced until 2021.*
        
-  - Explore micromobility's next opportunities at TC Sessions: Mobility
-      <hr/>
-       
-       - *Micromobility, like many other industries, has faced a lot of uncertainty this year. Many shared electric scooter operators paused their services in the earlier days of the COVID-19 pandemic, but resumed operations after putting some safety measures into plac…*
+       - *The iOS 14 privacy feature, announced earlier this year, will not be enforced until 2021.*
       
 
 <br />
