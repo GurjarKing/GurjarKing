@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+Talk is cheap. Show me the code.
 
-~ Tim Berners-Lee
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ What's very important from my point of view is that there is one web. Anyone tha
 </pre>
 <strong>Daily News</strong>
   
-  - This Garmin GPS aims to improve motorsport's lap times and more
+  - Watch SpaceX launch its 12th Starlink satellite internet mission live
      <hr/>
      
-      - *Garmin today is announcing a $999 GPS unit designed specifically for motorsports. Called the Garmin Catalyst the unit aims to be a motorsports coach of sorts, helping drivers improve lap times, and more. It’s the latest example of Garmin testing different mar…*
+      - *SpaceX is about to hit an even dozen for its Starlink launches, which carry the company’s own broadband internet satellites to low Earth orbit. This flight carries a full 60-satellite complement of the Starlink spacecraft, after the last couple of these have …*
      
+  - European launch provider Arianespace successfully launches a satellite rideshare demonstration mission
+      <hr/>
+      
+      - *The small satellite launch industry is heating up, with a number of small launch providers currently vying to become the next with an active orbital launch vehicle. Existing large launch vehicle operator Arianespace is also joining the fray, however, and perf…*
+      
+  - This Garmin GPS aims to improve motorsport's lap times and more
+      <hr/>
+      
+      - *Garmin today is announcing a $999 GPS unit designed specifically for motorsports. Called the Garmin Catalyst the unit aims to be a motorsports coach of sorts, helping drivers improve lap times, and more. It’s the latest example of Garmin testing different mar…*
+      
   - Volkswagen-backed QuantumScape to go public via SPAC to bring solid-state batteries to EVs
       <hr/>
       
       - *QuantumScape, the solid-state battery company backed by Volkswagen Group, has agreed to merge with a special purpose acquisition company Kensington Capital Acquisition Corp. as it aims to raise the capital it needs to commercialize solid-state batteries for e…*
-      
+       
   - MedTech startup uMotif raises £5m from AlbionVC, as COVID-19 accelerates remote clinical studies
       <hr/>
-      
-      - *couMotif has an app that allows patients to monitor themselves for treatments or drug trials which then feeds into a platform allowing a much faster approach to clinical studies. It’s now raised £5 million in a Series A investment round led by existing UK inv…*
-      
-  - Facebook's photo porting tool adds support for Dropbox and Koofr
-      <hr/>
-      
-      - *Facebook’s photo and video portability tool has added support for two more third party services for users to send data via encrypted transfer — namely: cloud storage providers Dropbox and (EU-based) Koofr. The tech giant debuted the photo porting tool in Dece…*
        
-  - Xiaomi backs Dyson's Chinese challenger Dreame in $15 million round
-      <hr/>
-       
-       - *Once known for its affordable smartphones, Xiaomi has in recent years been transforming itself into an online mall for consumer electronics by making deals and building relationships with hundreds of hardware and lifestyle startups. And some of its allies are…*
+       - *couMotif has an app that allows patients to monitor themselves for treatments or drug trials which then feeds into a platform allowing a much faster approach to clinical studies. It’s now raised £5 million in a Series A investment round led by existing UK inv…*
       
 
 <br />
