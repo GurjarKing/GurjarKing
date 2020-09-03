@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 
-~ Charles Babbage
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The errors which arise from the absence of facts are far more numerous and more 
 </pre>
 <strong>Daily News</strong>
   
-  - SpaceX successfully launches 60 more of its Starlink high-speed broadband internet satellites
+  - How to craft the right pitch deck for your company at Disrupt 2020
      <hr/>
      
-      - *SpaceX has launched its latest batch of Starlink internet satellites, a full complement of 60 spacecraft that will join those already on orbit to add to the constellation. These will form the backbone of SpaceX’s broadband internet service, which will aim to …*
+      - *Your startup is special and different, and you need to explain that to distracted investors in just a few short slides. The pandemic has added to your challenge, because more investors have been looking through more decks than ever online — and spending less …*
      
-  - Philips Hue's new Play gradient lightstrip promises a big upgrade for home entertainment spaces
+  - NSA call records collection ruled illegal by US appeals court
       <hr/>
       
-      - *Smart lighting company Philips Hue has a new product in its home entertainment catalog that should make a smart TV lighting setup much easier and more powerful. The new Philips Hue Play gradient lightstrip features individually-addressable full-color LEDs, me…*
+      - *The appeals court unanimously ruled that the NSA program was illegal and probably unconstitutional.*
       
-  - Facebook to block new political ads 1 week before Nov 3, adds more tools and rules for fair elections
+  - 9 top real estate and proptech investors: Cities and offices still have a future
       <hr/>
       
-      - *We’re now 61 days away from the US Presidential election, and Facebook is once more ramping up its efforts to level the playing field and attempt to keep its platform from being manipulated to influence how people vote. CEO Mark Zuckerberg today announced a s…*
+      - *Despite the COVID-19 pandemic, many U.S. workers will eventually return to their offices. But when they do, their big-city workplace will not only have a smaller footprint and operational strategy, it might be in a different town altogether, according to a re…*
       
-  - Watch SpaceX launch its 12th Starlink satellite internet mission live
+  - Disrupt 2020 Labor Day flash sale
       <hr/>
       
-      - *SpaceX is about to hit an even dozen for its Starlink launches, which carry the company’s own broadband internet satellites to low Earth orbit. This flight carries a full 60-satellite complement of the Starlink spacecraft, after the last couple of these have …*
+      - *If you belong to the global early-stage startup community, you labor your keister off every day. Here in the states, we observe Labor Day every September to celebrate workers — with sales on everything from cars to mattresses (how very American). Not to be ou…*
        
-  - European launch provider Arianespace successfully launches a satellite rideshare demonstration mission
+  - Demodesk snags $8M Series A to continue developing sales demo platform
       <hr/>
        
-       - *The small satellite launch industry is heating up, with a number of small launch providers currently vying to become the next with an active orbital launch vehicle. Existing large launch vehicle operator Arianespace is also joining the fray, however, and perf…*
+       - *It is clear that as the pandemic has taken hold in 2020, in-person meetings have gone by the wayside. Yet sales teams still need a way to demo their products for potential customers, particularly SaaS vendors. Enter Demodesk, an early stage startup and Y Comb…*
       
 
 <br />
