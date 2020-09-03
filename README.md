@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In order to understand recursion, one must first understand recursion.
+What is simplicity? Simplicity is the shortest path to a solution.
 
-~ Anonymous
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ In order to understand recursion, one must first understand recursion.
 </pre>
 <strong>Daily News</strong>
   
-  - BGF leads $11M round in on-demand merchandise platform Moteefe
+  - Facebook's photo porting tool adds support for Dropbox and Koofr
      <hr/>
      
-      - *Moteefe, the e-commerce platform for on-demand production of merchandise, has raised $11 million in what, according to filings, appears to be part one of a Series B. Leading the round is BGF, with participation from existing investors including Gresham House …*
+      - *Facebook’s photo and video portability tool has added support for two more third party services for users to send data via encrypted transfer — namely: cloud storage providers Dropbox and (EU-based) Koofr. The tech giant debuted the photo porting tool in Dece…*
      
+  - Xiaomi backs Dyson's Chinese challenger Dreame in $15 million round
+      <hr/>
+      
+      - *Once known for its affordable smartphones, Xiaomi has in recent years been transforming itself into an online mall for consumer electronics by making deals and building relationships with hundreds of hardware and lifestyle startups. And some of its allies are…*
+      
+  - BGF leads $11M round in on-demand merchandise platform Moteefe
+      <hr/>
+      
+      - *Moteefe, the e-commerce platform for on-demand production of merchandise, has raised $11 million in what, according to filings, appears to be part one of a Series B. Leading the round is BGF, with participation from existing investors including Gresham House …*
+      
   - India's Zomato raises $62 million from Temasek
       <hr/>
       
       - *Indian food delivery startup Zomato has raised $62 million from Singapore’s Temasek, resuming a financing round that it originally expected to close in January this year. Singapore’s state investment arm Temasek financed the capital through its unit MacRitchi…*
-      
+       
   - It's not just Airbnb; an IPO expert pushes back against the SPAC frenzy and other new ways to going public
       <hr/>
-      
-      - *Lise Buyer has been advising startups on how to go public for the last 13 years through her consultancy, Class V Group. She built the business after working as an investment banker, and then as a director at Google, where she helped architect the company’s fa…*
-      
-  - Facebook bans politician of India's ruling party for violating hate speech
-      <hr/>
-      
-      - *Facebook has banned a politician from India’s ruling party, Bharatiya Janata Party, for violating its policies against hate speech on its platform, the company said today, weeks after inaction on the politician’s posts landed the social giant in hot water in …*
        
-  - PropertyGuru lands $220M from KKR and TPG to conquer Southeast Asia
-      <hr/>
-       
-       - *Southeast Asia’s leading property listing company PropertyGuru is making great strides across the region as it secures a fresh investment of SG$300 million ($220 million), it announced this week. The proceeds, financed by existing investors KKR and TPG, both …*
+       - *Lise Buyer has been advising startups on how to go public for the last 13 years through her consultancy, Class V Group. She built the business after working as an investment banker, and then as a director at Google, where she helped architect the company’s fa…*
       
 
 <br />
