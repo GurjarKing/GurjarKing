@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Edsger W. Dijkstra
+~ Ivan Sutherland
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The effective exploitation of his powers of abstraction must be regarded as one 
 </pre>
 <strong>Daily News</strong>
   
-  - Apple won't force developers to let users opt out of tracking until next year
+  - SpaceX completes another successful short test flight of its Starship spacecraft prototype
      <hr/>
      
-      - *The iOS 14 privacy feature, announced earlier this year, will not be enforced until 2021.*
+      - *SpaceX has done it again – a second ‘hop’ flight in under a month for its Starship prototype. This was a 150 meter (just under 500 foot) test flight from its Boca Chica, Texas development site. The prototype used in this instance was SN6, a more recent model …*
      
+  - Media Roundup: Patreon joins unicorn club, Facebook could ban news in Australia, more
+      <hr/>
+      
+      - *Welcome to the very first edition of Extra Crunch’s Media Roundup. Over the past few months, we’ve launched features like Decrypted, Deep Science and The Exchange, which aggregate and analyze the latest news in a given sector, so it seemed overdue to do somet…*
+      
+  - Exhibitors at Disrupt 2020: Register now to meet accelerators next week
+      <hr/>
+      
+      - *Disrupt 2020 is all about helping startups find and create ways to drive their business forward in these most challenging times. We partnered with cela to give exhibitors in Digital Startup Alley one sweet opportunity — networking with 13 accelerators. If you…*
+      
+  - Apple won't force developers to let users opt out of tracking until next year
+      <hr/>
+      
+      - *The iOS 14 privacy feature, announced earlier this year, will not be enforced until 2021.*
+       
   - Explore micromobility's next opportunities at TC Sessions: Mobility
       <hr/>
-      
-      - *Micromobility, like many other industries, has faced a lot of uncertainty this year. Many shared electric scooter operators paused their services in the earlier days of the COVID-19 pandemic, but resumed operations after putting some safety measures into plac…*
-      
-  - France to spend $8.4 billion on digital as part of stimulus plan
-      <hr/>
-      
-      - *The French government unveiled a massive $120 million (€100 billion) stimulus package earlier today to recover from the economic downturn — it represents 4% of the country’s GDP. As part of this support plan, the government plans to spend a significant chunk …*
-      
-  - OrCam Technologies co-founder Amnon Shashua to speak at Sight Tech Global
-      <hr/>
-      
-      - *If the measure of progress in technology is that devices should become ever smaller and more capable, then OrCam Technologies is on a roll. The Israeli firm’s OrCam MyEye, which fits on the arm of a pair of glasses, is far more powerful and much smaller than …*
        
-  - As it awaits its US fate, TikTok doubles down on its revenue funnel with marketing partners
-      <hr/>
-       
-       - *There’s a big question mark hanging over the future of TikTok right now, in the form of what exactly will happen to its US business come September 20, when President Trump said he plans to shut down the Chinese-owned app over security concerns. But in the mea…*
+       - *Micromobility, like many other industries, has faced a lot of uncertainty this year. Many shared electric scooter operators paused their services in the earlier days of the COVID-19 pandemic, but resumed operations after putting some safety measures into plac…*
       
 
 <br />
