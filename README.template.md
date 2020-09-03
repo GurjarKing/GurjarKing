@@ -5,9 +5,11 @@
 
 [<img align="left" alt="Gurjar | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram]
 [<img align="left" alt="Gurjar | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][Twitter]
-
-<br > <a href="https://github.com/GurjarKing"><img src="https://komarev.com/ghpvc/?username=GurjarKing" alt="Gurjar" /></a> <br />
-
+<br >
+<br >
+<a href="https://github.com/GurjarKing"><img src="https://komarev.com/ghpvc/?username=GurjarKing" alt="Gurjar" /></a> <br />
+<br />
+<br />
 <!-- <br >
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GurjarKing)
