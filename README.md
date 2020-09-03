@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 
-~ Bill Gates
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A great programmer thinks about the program on a constant basis, whether driving
 </pre>
 <strong>Daily News</strong>
   
-  - 48 hours left on early-bird prices to TC Sessions: Mobility 2020
+  - Apple won't force developers to let users opt out of tracking until next year
      <hr/>
      
-      - *We’re just about a month away from launching TC Sessions: Mobility 2020, but you have only 48 hours left to save yourself $100 on the price of admission. Join the global mobility community on October 6-8 at the lowest possible price. Snag your pass before the…*
+      - *The iOS 14 privacy feature, announced earlier this year, will not be enforced until 2021.*
      
-  - Adobe Spark adds support for animations to its social media graphics tool
+  - Explore micromobility's next opportunities at TC Sessions: Mobility
       <hr/>
       
-      - *Spark is one of those products in Adobe’s Creative Suite that doesn’t always get a lot of attention. But the company’s tool for creating social media posts (which you can try for free) has plenty of fans, and maybe that’s no surprise, given that its mission i…*
+      - *Micromobility, like many other industries, has faced a lot of uncertainty this year. Many shared electric scooter operators paused their services in the earlier days of the COVID-19 pandemic, but resumed operations after putting some safety measures into plac…*
       
-  - Apple introduces 'offer codes' to entice app users with free and discounted subscriptions
+  - France to spend $8.4 billion on digital as part of stimulus plan
       <hr/>
       
-      - *Apple is introducing a change to how subscriptions work. No, it’s not lowering its cut, despite the government’s antitrust investigation and its lawsuit with Epic. It announced that developers will be able to offer subscriptions via a new feature, called offe…*
+      - *The French government unveiled a massive $120 million (€100 billion) stimulus package earlier today to recover from the economic downturn — it represents 4% of the country’s GDP. As part of this support plan, the government plans to spend a significant chunk …*
       
-  - Avo raises $3M for its analytics governance platform
+  - OrCam Technologies co-founder Amnon Shashua to speak at Sight Tech Global
       <hr/>
       
-      - *Avo, a startup that helps businesses better manage their data quality across teams, today announced that it has raised a $3 million seed round led by GGV Capital, with participation from  Heavybit, Y Combinator and others. The company’s founder, Stefania Olaf…*
+      - *If the measure of progress in technology is that devices should become ever smaller and more capable, then OrCam Technologies is on a roll. The Israeli firm’s OrCam MyEye, which fits on the arm of a pair of glasses, is far more powerful and much smaller than …*
        
-  - No quick fix for transatlantic data transfers, says EC
+  - As it awaits its US fate, TikTok doubles down on its revenue funnel with marketing partners
       <hr/>
        
-       - *Europe’s justice commissioner has conceded there will be “no quick fix” for EU-US data transfers in the wake of the decision by the region’s top court in July that struck down a flagship data transfer agreement which was being used by thousands of businesses.…*
+       - *There’s a big question mark hanging over the future of TikTok right now, in the form of what exactly will happen to its US business come September 20, when President Trump said he plans to shut down the Chinese-owned app over security concerns. But in the mea…*
       
 
 <br />
