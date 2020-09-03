@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-I think one of the most valuable rules is avoid duplication.
+C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
 
-~ Martin Fowler
+~ Ken Thompson
 <pre>
 
 </pre>
