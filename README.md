@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
 
-~ L. Peter Deutsch
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When I was at what I would consider the peak of my abilities, I had extremely tr
 </pre>
 <strong>Daily News</strong>
   
-  - PropertyGuru lands $220M from KKR and TPG to conquer Southeast Asia
+  - It's not just Airbnb; an IPO expert pushes back against the SPAC frenzy and other new ways to going public
      <hr/>
      
-      - *Southeast Asia’s leading property listing company PropertyGuru is making great strides across the region as it secures a fresh investment of SG$300 million ($220 million), it announced this week. The proceeds, financed by existing investors KKR and TPG, both …*
+      - *Lise Buyer has been advising startups on how to go public for the last 13 years through her consultancy, Class V Group. She built the business after working as an investment banker, and then as a director at Google, where she helped architect the company’s fa…*
      
+  - Facebook bans politician of India's ruling party for violating hate speech
+      <hr/>
+      
+      - *Facebook has banned a politician from India’s ruling party, Bharatiya Janata Party, for violating its policies against hate speech on its platform, the company said today, weeks after inaction on the politician’s posts landed the social giant in hot water in …*
+      
+  - PropertyGuru lands $220M from KKR and TPG to conquer Southeast Asia
+      <hr/>
+      
+      - *Southeast Asia’s leading property listing company PropertyGuru is making great strides across the region as it secures a fresh investment of SG$300 million ($220 million), it announced this week. The proceeds, financed by existing investors KKR and TPG, both …*
+      
   - SoftBank Vision Fund 2 leads $100 million Series C in digital therapeutics company Biofourmis
       <hr/>
       
       - *Biofourmis, which combines AI-based data analytics and biosensors to monitor the progress of medical treatments, has raised funding from one of the world’s most high-profile investors. The digital therapeutics company, which launched in Singapore and is now h…*
-      
+       
   - Track autonomous vehicle testing in your state with this new tool from the US government
       <hr/>
-      
-      - *The U.S. government rolled out a new online tool Wednesday designed to give the public insight into where and who is testing automated vehicle technology throughout the country. The official name of the online tool — Automated Vehicle Transparency and Engagem…*
-      
-  - Daily Crunch: India bans PUBG and other Chinese apps
-      <hr/>
-      
-      - *India continues to crack down on Chinese apps, Microsoft launches a deepfake detector and Google offers a personalized news podcast. This is your Daily Crunch for September 2, 2020. The big story: India bans PUBG and other Chinese apps The Indian government c…*
        
-  - Facebook now lets you customize your Watch video feed with #Topics
-      <hr/>
-       
-       - *Facebook’s video destination, Facebook Watch, is introducing a new feature called “Your Topics” that will allow you to tailor its feed to include more of the content you want to see. Currently, Facebook leverages its existing understanding of each viewer’s in…*
+       - *The U.S. government rolled out a new online tool Wednesday designed to give the public insight into where and who is testing automated vehicle technology throughout the country. The official name of the online tool — Automated Vehicle Transparency and Engagem…*
       
 
 <br />
