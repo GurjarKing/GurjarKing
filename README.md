@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Controlling complexity is the essence of computer programming.
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 
-~ Brian Kernighan
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Controlling complexity is the essence of computer programming.
 </pre>
 <strong>Daily News</strong>
   
-  - WhatsApp reveals six previously undisclosed vulnerabilities on new security site
+  - Spirit Airlines starts testing biometric check-ins
      <hr/>
      
-      - *Facebook said there was no evidence that the bugs, now fixed, were exploited.*
+      - *Discount carrier Spirit Airlines today announced that it is introducing biometric check-ins in its ticket lobby at Chicago’s O’Hare airport to streamline the check-in process and reduce face-to-face interactions between its employees and passengers during the…*
      
+  - WhatsApp reveals six previously undisclosed vulnerabilities on new security site
+      <hr/>
+      
+      - *Facebook said there was no evidence that the bugs, now fixed, were exploited.*
+      
   - Facebook to warn third-party developers of vulnerable code
       <hr/>
       
@@ -73,16 +78,11 @@ Controlling complexity is the essence of computer programming.
       <hr/>
       
       - *Oracle was never fond of the JEDI cloud contract process, that massive $10 billion, decade-long Department of Defense cloud contract that went to a single vendor. It was forever arguing to anyone who would listen that that process was faulty and favored Amazo…*
-      
+       
   - Twitter and Facebook wrestle with Trump telling Americans to vote twice
       <hr/>
-      
-      - *President Trump’s recent suggestion that North Carolina voters should cast multiple ballots has run afoul of Twitter’s election integrity rules. In a series of tweets Thursday morning, the president elaborated on previous statements in which he encouraged Ame…*
        
-  - Rocket Lab secretly launched its very first satellite, 'First Light'
-      <hr/>
-       
-       - *Rocket Lab’s 14th mission, “I Can’t Believe It’s Not Optical,” had a stowaway aboard. The New Zealand launch company quietly included its first fully functioning satellite next to its paying customer’s payload. First Light, as it’s called, is a sort of tech…*
+       - *President Trump’s recent suggestion that North Carolina voters should cast multiple ballots has run afoul of Twitter’s election integrity rules. In a series of tweets Thursday morning, the president elaborated on previous statements in which he encouraged Ame…*
       
 
 <br />
