@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 
-~ Ward Cunningham
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ What is simplicity? Simplicity is the shortest path to a solution.
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook's photo porting tool adds support for Dropbox and Koofr
+  - This Garmin GPS aims to improve motorsport's lap times and more
      <hr/>
      
-      - *Facebook’s photo and video portability tool has added support for two more third party services for users to send data via encrypted transfer — namely: cloud storage providers Dropbox and (EU-based) Koofr. The tech giant debuted the photo porting tool in Dece…*
+      - *Garmin today is announcing a $999 GPS unit designed specifically for motorsports. Called the Garmin Catalyst the unit aims to be a motorsports coach of sorts, helping drivers improve lap times, and more. It’s the latest example of Garmin testing different mar…*
      
+  - Volkswagen-backed QuantumScape to go public via SPAC to bring solid-state batteries to EVs
+      <hr/>
+      
+      - *QuantumScape, the solid-state battery company backed by Volkswagen Group, has agreed to merge with a special purpose acquisition company Kensington Capital Acquisition Corp. as it aims to raise the capital it needs to commercialize solid-state batteries for e…*
+      
+  - MedTech startup uMotif raises £5m from AlbionVC, as COVID-19 accelerates remote clinical studies
+      <hr/>
+      
+      - *couMotif has an app that allows patients to monitor themselves for treatments or drug trials which then feeds into a platform allowing a much faster approach to clinical studies. It’s now raised £5 million in a Series A investment round led by existing UK inv…*
+      
+  - Facebook's photo porting tool adds support for Dropbox and Koofr
+      <hr/>
+      
+      - *Facebook’s photo and video portability tool has added support for two more third party services for users to send data via encrypted transfer — namely: cloud storage providers Dropbox and (EU-based) Koofr. The tech giant debuted the photo porting tool in Dece…*
+       
   - Xiaomi backs Dyson's Chinese challenger Dreame in $15 million round
       <hr/>
-      
-      - *Once known for its affordable smartphones, Xiaomi has in recent years been transforming itself into an online mall for consumer electronics by making deals and building relationships with hundreds of hardware and lifestyle startups. And some of its allies are…*
-      
-  - BGF leads $11M round in on-demand merchandise platform Moteefe
-      <hr/>
-      
-      - *Moteefe, the e-commerce platform for on-demand production of merchandise, has raised $11 million in what, according to filings, appears to be part one of a Series B. Leading the round is BGF, with participation from existing investors including Gresham House …*
-      
-  - India's Zomato raises $62 million from Temasek
-      <hr/>
-      
-      - *Indian food delivery startup Zomato has raised $62 million from Singapore’s Temasek, resuming a financing round that it originally expected to close in January this year. Singapore’s state investment arm Temasek financed the capital through its unit MacRitchi…*
        
-  - It's not just Airbnb; an IPO expert pushes back against the SPAC frenzy and other new ways to going public
-      <hr/>
-       
-       - *Lise Buyer has been advising startups on how to go public for the last 13 years through her consultancy, Class V Group. She built the business after working as an investment banker, and then as a director at Google, where she helped architect the company’s fa…*
+       - *Once known for its affordable smartphones, Xiaomi has in recent years been transforming itself into an online mall for consumer electronics by making deals and building relationships with hundreds of hardware and lifestyle startups. And some of its allies are…*
       
 
 <br />
