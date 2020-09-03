@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 
-~ Tony Hoare
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ There are two ways of constructing a software design: One way is to make it so s
 </pre>
 <strong>Daily News</strong>
   
-  - Avo raises $3M for its analytics governance platform
+  - 48 hours left on early-bird prices to TC Sessions: Mobility 2020
      <hr/>
      
-      - *Avo, a startup that helps businesses better manage their data quality across teams, today announced that it has raised a $3 million seed round led by GGV Capital, with participation from  Heavybit, Y Combinator and others. The company’s founder, Stefania Olaf…*
+      - *We’re just about a month away from launching TC Sessions: Mobility 2020, but you have only 48 hours left to save yourself $100 on the price of admission. Join the global mobility community on October 6-8 at the lowest possible price. Snag your pass before the…*
      
+  - Adobe Spark adds support for animations to its social media graphics tool
+      <hr/>
+      
+      - *Spark is one of those products in Adobe’s Creative Suite that doesn’t always get a lot of attention. But the company’s tool for creating social media posts (which you can try for free) has plenty of fans, and maybe that’s no surprise, given that its mission i…*
+      
+  - Apple introduces 'offer codes' to entice app users with free and discounted subscriptions
+      <hr/>
+      
+      - *Apple is introducing a change to how subscriptions work. No, it’s not lowering its cut, despite the government’s antitrust investigation and its lawsuit with Epic. It announced that developers will be able to offer subscriptions via a new feature, called offe…*
+      
+  - Avo raises $3M for its analytics governance platform
+      <hr/>
+      
+      - *Avo, a startup that helps businesses better manage their data quality across teams, today announced that it has raised a $3 million seed round led by GGV Capital, with participation from  Heavybit, Y Combinator and others. The company’s founder, Stefania Olaf…*
+       
   - No quick fix for transatlantic data transfers, says EC
       <hr/>
-      
-      - *Europe’s justice commissioner has conceded there will be “no quick fix” for EU-US data transfers in the wake of the decision by the region’s top court in July that struck down a flagship data transfer agreement which was being used by thousands of businesses.…*
-      
-  - What happens when public SaaS companies don't meet heightened investor expectations?
-      <hr/>
-      
-      - *Late last week we discussed how, this deep into the earnings cycle, it appeared that public SaaS and cloud companies had largely made it through the Q2 gauntlet unscathed. Sure, through last week there was a report or two that wasn’t stellar, but by and large…*
-      
-  - Nintendo’s latest trick is turning the Switch into an RC controller for an AR Mario Kart game
-      <hr/>
-      
-      - *Nintendo never ceases to surprise with a seemingly infinite numbers of ways of transforming its most beloved IP. Hot on the heels of some truly impressive Super Mario Bros. Lego kits comes Mario Kart Live: Home Circuit. The new toy is a clever mashup of real-…*
        
-  - Amazon launches an Alexa service for property managers
-      <hr/>
-       
-       - *Amazon wants to bring Alexa to property managers. The company this morning launched a new service, Alexa for Residential, that aims to make it easier for property managers to set up and maintain Alexa-powered smart home experiences in their buildings, like co…*
+       - *Europe’s justice commissioner has conceded there will be “no quick fix” for EU-US data transfers in the wake of the decision by the region’s top court in July that struck down a flagship data transfer agreement which was being used by thousands of businesses.…*
       
 
 <br />
