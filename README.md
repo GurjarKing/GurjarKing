@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Making things easy is hard.
+The purpose of software engineering is to control complexity, not to create it.
 
-~ Ted Nelson
+~ Pamela Zave
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Making things easy is hard.
 </pre>
 <strong>Daily News</strong>
   
-  - Rocket Lab secretly launched its very first satellite, 'First Light'
+  - Twitter and Facebook wrestle with Trump telling Americans to vote twice
      <hr/>
      
-      - *Rocket Lab’s 14th mission, “I Can’t Believe It’s Not Optical,” had a stowaway aboard. The New Zealand launch company quietly included its first fully functioning satellite next to its paying customer’s payload. First Light, as it’s called, is a sort of tech…*
+      - *President Trump’s recent suggestion that North Carolina voters should cast multiple ballots has run afoul of Twitter’s election integrity rules. In a series of tweets Thursday morning, the president elaborated on previous statements in which he encouraged Ame…*
      
+  - Rocket Lab secretly launched its very first satellite, 'First Light'
+      <hr/>
+      
+      - *Rocket Lab’s 14th mission, “I Can’t Believe It’s Not Optical,” had a stowaway aboard. The New Zealand launch company quietly included its first fully functioning satellite next to its paying customer’s payload. First Light, as it’s called, is a sort of tech…*
+      
   - SpaceX completes another successful short test flight of its Starship spacecraft prototype
       <hr/>
       
@@ -73,16 +78,11 @@ Making things easy is hard.
       <hr/>
       
       - *Welcome to the very first edition of Extra Crunch’s Media Roundup. Over the past few months, we’ve launched features like Decrypted, Deep Science and The Exchange, which aggregate and analyze the latest news in a given sector, so it seemed overdue to do somet…*
-      
+       
   - Exhibitors at Disrupt 2020: Register now to meet accelerators next week
       <hr/>
-      
-      - *Disrupt 2020 is all about helping startups find and create ways to drive their business forward in these most challenging times. We partnered with cela to give exhibitors in Digital Startup Alley one sweet opportunity — networking with 13 accelerators. If you…*
        
-  - Apple won't force developers to let users opt out of tracking until next year
-      <hr/>
-       
-       - *The iOS 14 privacy feature, announced earlier this year, will not be enforced until 2021.*
+       - *Disrupt 2020 is all about helping startups find and create ways to drive their business forward in these most challenging times. We partnered with cela to give exhibitors in Digital Startup Alley one sweet opportunity — networking with 13 accelerators. If you…*
       
 
 <br />
