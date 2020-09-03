@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+Humanity is acquiring all the right technology for all the wrong reasons.
 
-~ Joseph Yoder (computer scientist)
+~ Buckminster Fuller
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Reviews and pair programming provide programmers with something their work would
 </pre>
 <strong>Daily News</strong>
   
-  - It's not just Airbnb; an IPO expert pushes back against the SPAC frenzy and other new ways to going public
+  - India's Zomato raises $62 million from Temasek
      <hr/>
      
-      - *Lise Buyer has been advising startups on how to go public for the last 13 years through her consultancy, Class V Group. She built the business after working as an investment banker, and then as a director at Google, where she helped architect the company’s fa…*
+      - *Indian food delivery startup Zomato has raised $62 million from Singapore’s Temasek, resuming a financing round that it originally expected to close in January this year. Singapore’s state investment arm Temasek financed the capital through its unit MacRitchi…*
      
+  - It's not just Airbnb; an IPO expert pushes back against the SPAC frenzy and other new ways to going public
+      <hr/>
+      
+      - *Lise Buyer has been advising startups on how to go public for the last 13 years through her consultancy, Class V Group. She built the business after working as an investment banker, and then as a director at Google, where she helped architect the company’s fa…*
+      
   - Facebook bans politician of India's ruling party for violating hate speech
       <hr/>
       
@@ -73,16 +78,11 @@ Reviews and pair programming provide programmers with something their work would
       <hr/>
       
       - *Southeast Asia’s leading property listing company PropertyGuru is making great strides across the region as it secures a fresh investment of SG$300 million ($220 million), it announced this week. The proceeds, financed by existing investors KKR and TPG, both …*
-      
+       
   - SoftBank Vision Fund 2 leads $100 million Series C in digital therapeutics company Biofourmis
       <hr/>
-      
-      - *Biofourmis, which combines AI-based data analytics and biosensors to monitor the progress of medical treatments, has raised funding from one of the world’s most high-profile investors. The digital therapeutics company, which launched in Singapore and is now h…*
        
-  - Track autonomous vehicle testing in your state with this new tool from the US government
-      <hr/>
-       
-       - *The U.S. government rolled out a new online tool Wednesday designed to give the public insight into where and who is testing automated vehicle technology throughout the country. The official name of the online tool — Automated Vehicle Transparency and Engagem…*
+       - *Biofourmis, which combines AI-based data analytics and biosensors to monitor the progress of medical treatments, has raised funding from one of the world’s most high-profile investors. The digital therapeutics company, which launched in Singapore and is now h…*
       
 
 <br />
