@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
+I think one of the most valuable rules is avoid duplication.
 
-~ Vannevar Bush
+~ Martin Fowler
 <pre>
 
 </pre>
