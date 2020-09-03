@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 
-~ Ken Thompson
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ C++ certainly has its good points. But by and large I think it's a bad language.
 </pre>
 <strong>Daily News</strong>
   
-  - Track autonomous vehicle testing in your state with this new tool from the US government
+  - SoftBank Vision Fund 2 leads $100 million Series C in digital therapeutics company Biofourmis
      <hr/>
      
-      - *The U.S. government rolled out a new online tool Wednesday designed to give the public insight into where and who is testing automated vehicle technology throughout the country. The official name of the online tool — Automated Vehicle Transparency and Engagem…*
+      - *Biofourmis, which combines AI-based data analytics and biosensors to monitor the progress of medical treatments, has raised funding from one of the world’s most high-profile investors. The digital therapeutics company, which launched in Singapore and is now h…*
      
+  - Track autonomous vehicle testing in your state with this new tool from the US government
+      <hr/>
+      
+      - *The U.S. government rolled out a new online tool Wednesday designed to give the public insight into where and who is testing automated vehicle technology throughout the country. The official name of the online tool — Automated Vehicle Transparency and Engagem…*
+      
   - Daily Crunch: India bans PUBG and other Chinese apps
       <hr/>
       
@@ -71,16 +76,11 @@ C++ certainly has its good points. But by and large I think it's a bad language.
       <hr/>
       
       - *Facebook’s video destination, Facebook Watch, is introducing a new feature called “Your Topics” that will allow you to tailor its feed to include more of the content you want to see. Currently, Facebook leverages its existing understanding of each viewer’s in…*
-      
+       
   - Samsung’s got a new budget 5G handset and a fitness tracker with a two-week battery
       <hr/>
-      
-      - *Yesterday’s overflow Galaxy Unpacked event was about one thing and one thing alone: the Galaxy Z Fold 2. Honestly, it was a bit anticlimactic after its predecessor found Samsung unveiling five new devices. But the singular focus wasn’t for lack of new stuff t…*
        
-  - FCC dings company for $164K after its false broadband claims distorted national report
-      <hr/>
-       
-       - *The FCC was deeply embarrassed last year when it was found that its rosy broadband deployment report was off by millions, owing to a single, extremely suspect filing that conjured 62 million customers out of thin air. The company responsible is being assessed…*
+       - *Yesterday’s overflow Galaxy Unpacked event was about one thing and one thing alone: the Galaxy Z Fold 2. Honestly, it was a bit anticlimactic after its predecessor found Samsung unveiling five new devices. But the singular focus wasn’t for lack of new stuff t…*
       
 
 <br />
