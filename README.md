@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+In order to understand recursion, one must first understand recursion.
 
-~ Simon Peyton Jones
+~ Anonymous
 <pre>
 
 </pre>
