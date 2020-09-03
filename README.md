@@ -44,9 +44,9 @@
 
 **Quote of the hour:**
 
-Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
 
-~ George Boole
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -57,11 +57,16 @@ Of the many forms of false culture, a premature converse with abstractions is pe
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: India bans PUBG and other Chinese apps
+  - Track autonomous vehicle testing in your state with this new tool from the US government
      <hr/>
      
-      - *India continues to crack down on Chinese apps, Microsoft launches a deepfake detector and Google offers a personalized news podcast. This is your Daily Crunch for September 2, 2020. The big story: India bans PUBG and other Chinese apps The Indian government c…*
+      - *The U.S. government rolled out a new online tool Wednesday designed to give the public insight into where and who is testing automated vehicle technology throughout the country. The official name of the online tool — Automated Vehicle Transparency and Engagem…*
      
+  - Daily Crunch: India bans PUBG and other Chinese apps
+      <hr/>
+      
+      - *India continues to crack down on Chinese apps, Microsoft launches a deepfake detector and Google offers a personalized news podcast. This is your Daily Crunch for September 2, 2020. The big story: India bans PUBG and other Chinese apps The Indian government c…*
+      
   - Facebook now lets you customize your Watch video feed with #Topics
       <hr/>
       
@@ -71,16 +76,11 @@ Of the many forms of false culture, a premature converse with abstractions is pe
       <hr/>
       
       - *Yesterday’s overflow Galaxy Unpacked event was about one thing and one thing alone: the Galaxy Z Fold 2. Honestly, it was a bit anticlimactic after its predecessor found Samsung unveiling five new devices. But the singular focus wasn’t for lack of new stuff t…*
-      
+       
   - FCC dings company for $164K after its false broadband claims distorted national report
       <hr/>
-      
-      - *The FCC was deeply embarrassed last year when it was found that its rosy broadband deployment report was off by millions, owing to a single, extremely suspect filing that conjured 62 million customers out of thin air. The company responsible is being assessed…*
        
-  - Snapchat had a big August amid TikTok uncertainty
-      <hr/>
-       
-       - *The continual uncertainty around TikTok’s future may have provided a big boost to Snapchat in August. Or maybe it was just the Disney eyes filter that went viral. In any event, preliminary estimates from app store intelligence firm Sensor Tower indicate that …*
+       - *The FCC was deeply embarrassed last year when it was found that its rosy broadband deployment report was off by millions, owing to a single, extremely suspect filing that conjured 62 million customers out of thin air. The company responsible is being assessed…*
       
 
 <br />
