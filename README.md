@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
 
-~ Linus Torvalds
+~ Charles Babbage
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Talk is cheap. Show me the code.
 </pre>
 <strong>Daily News</strong>
   
-  - Watch SpaceX launch its 12th Starlink satellite internet mission live
+  - SpaceX successfully launches 60 more of its Starlink high-speed broadband internet satellites
      <hr/>
      
-      - *SpaceX is about to hit an even dozen for its Starlink launches, which carry the company’s own broadband internet satellites to low Earth orbit. This flight carries a full 60-satellite complement of the Starlink spacecraft, after the last couple of these have …*
+      - *SpaceX has launched its latest batch of Starlink internet satellites, a full complement of 60 spacecraft that will join those already on orbit to add to the constellation. These will form the backbone of SpaceX’s broadband internet service, which will aim to …*
      
+  - Philips Hue's new Play gradient lightstrip promises a big upgrade for home entertainment spaces
+      <hr/>
+      
+      - *Smart lighting company Philips Hue has a new product in its home entertainment catalog that should make a smart TV lighting setup much easier and more powerful. The new Philips Hue Play gradient lightstrip features individually-addressable full-color LEDs, me…*
+      
+  - Facebook to block new political ads 1 week before Nov 3, adds more tools and rules for fair elections
+      <hr/>
+      
+      - *We’re now 61 days away from the US Presidential election, and Facebook is once more ramping up its efforts to level the playing field and attempt to keep its platform from being manipulated to influence how people vote. CEO Mark Zuckerberg today announced a s…*
+      
+  - Watch SpaceX launch its 12th Starlink satellite internet mission live
+      <hr/>
+      
+      - *SpaceX is about to hit an even dozen for its Starlink launches, which carry the company’s own broadband internet satellites to low Earth orbit. This flight carries a full 60-satellite complement of the Starlink spacecraft, after the last couple of these have …*
+       
   - European launch provider Arianespace successfully launches a satellite rideshare demonstration mission
       <hr/>
-      
-      - *The small satellite launch industry is heating up, with a number of small launch providers currently vying to become the next with an active orbital launch vehicle. Existing large launch vehicle operator Arianespace is also joining the fray, however, and perf…*
-      
-  - This Garmin GPS aims to improve motorsport's lap times and more
-      <hr/>
-      
-      - *Garmin today is announcing a $999 GPS unit designed specifically for motorsports. Called the Garmin Catalyst the unit aims to be a motorsports coach of sorts, helping drivers improve lap times, and more. It’s the latest example of Garmin testing different mar…*
-      
-  - Volkswagen-backed QuantumScape to go public via SPAC to bring solid-state batteries to EVs
-      <hr/>
-      
-      - *QuantumScape, the solid-state battery company backed by Volkswagen Group, has agreed to merge with a special purpose acquisition company Kensington Capital Acquisition Corp. as it aims to raise the capital it needs to commercialize solid-state batteries for e…*
        
-  - MedTech startup uMotif raises £5m from AlbionVC, as COVID-19 accelerates remote clinical studies
-      <hr/>
-       
-       - *couMotif has an app that allows patients to monitor themselves for treatments or drug trials which then feeds into a platform allowing a much faster approach to clinical studies. It’s now raised £5 million in a Series A investment round led by existing UK inv…*
+       - *The small satellite launch industry is heating up, with a number of small launch providers currently vying to become the next with an active orbital launch vehicle. Existing large launch vehicle operator Arianespace is also joining the fray, however, and perf…*
       
 
 <br />
