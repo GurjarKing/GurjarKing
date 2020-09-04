@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-You should name a variable using the same care with which you name a first-born child.
+There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
 
-~ Jim Coplien
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ You should name a variable using the same care with which you name a first-born 
 </pre>
 <strong>Daily News</strong>
   
-  - AI-drawn voting districts could help stamp out gerrymandering
+  - Daily Crunch: Peloton might expand its product lineup
      <hr/>
      
-      - *Gerrymandering is one of the most insidious methods out there of influencing our political process. By legally changing the way votes are collected and counted, the outcomes can be influenced — even fixed in advance for years. The solution may be an AI system…*
+      - *Peloton’s product lineup is both getting cheaper and more expensive, Nintendo announces a new retro device and Palantir reveals more about its governance plans. This is your Daily Crunch for September 4, 2020. The big story: Peloton might expand its product l…*
      
+  - AI-drawn voting districts could help stamp out gerrymandering
+      <hr/>
+      
+      - *Gerrymandering is one of the most insidious methods out there of influencing our political process. By legally changing the way votes are collected and counted, the outcomes can be influenced — even fixed in advance for years. The solution may be an AI system…*
+      
   - DoD reaffirms Microsoft has won JEDI cloud contract, but Amazon legal complaints still pending
       <hr/>
       
@@ -73,16 +78,11 @@ You should name a variable using the same care with which you name a first-born 
       <hr/>
       
       - *Newly released teaser images of Volkswagen’s upcoming all-electric ID.4 compact SUV reveals an interior that leans in on tech such as touchscreens and ambient lighting used to talk to the driver without erasing every toggle or knob from automotive’s yesteryea…*
-      
+       
   - Brands that hyper-personalize will win the next decade
       <hr/>
-      
-      - *When people reach out to customer service, they’re seeking more than a solution to their immediate problem. They want empathy and understanding.*
        
-  - 3 views on the future of geographic-focused funds
-      <hr/>
-       
-       - *For many investors, the coronavirus has effectively taken geography out of the equation when it comes to vetting new opportunities. While this dynamic opens up startups to more investment opportunities, venture capital firms that focus on a specific region ar…*
+       - *When people reach out to customer service, they’re seeking more than a solution to their immediate problem. They want empathy and understanding.*
       
 
 <br />
