@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+You should name a variable using the same care with which you name a first-born child.
 
-~ Ivan Sutherland
+~ Jim Coplien
 <pre>
 
 </pre>
