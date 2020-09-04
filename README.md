@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+What one programmer can do in one month, two programmers can do in two months.
 
-~ Vannevar Bush
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Two centuries ago Leibnitz invented a calculating machine which embodied most of
 </pre>
 <strong>Daily News</strong>
   
-  - Mustard raises $1.7M to improve athletic mechanics with AI
+  - Low-cost fitness bands see a resurgence in interest amid the pandemic
      <hr/>
      
-      - *Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new …*
+      - *While wearable fitness devices saw an uptick in shipments in North America for Q2, the overall dollar amount of the market remained steady, according to new numbers out of Canalys. The discrepancy can be chalked up to a decline in the average selling price of…*
      
+  - Palantir's concentrated governance is great for execs, but what about shareholders?
+      <hr/>
+      
+      - *A few days ago I wrote down a few notes making a bullish case for Palantir, searching to find good news amidst the company’s huge historical deficits. Heading into the next phase of Palantir’s march to the public markets, I was very curious to see how the com…*
+      
+  - Mustard raises $1.7M to improve athletic mechanics with AI
+      <hr/>
+      
+      - *Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new …*
+      
   - NSA's Anne Neuberger to talk cybersecurity at Disrupt 2020
       <hr/>
       
       - *We are thrilled to announce that Anne Neuberger, director of cybersecurity at the National Security Agency, will join us at Disrupt 2020 from September 14-18. The headlines are not always kind to the government agencies that work in secret, and the NSA is no …*
-      
+       
   - Peloton said to be launching new, cheaper treadmill and higher-end stationary smart bike
       <hr/>
-      
-      - *Peloton is reportedly getting ready to add to its product lineup with two new products at either end of its pricing spectrum, according to Bloomberg. The workout tech company is planning both a cheaper, entry-level smart treadmill, and a higher-end version of…*
-      
-  - Qualcomm-powered Chinese XR startup Nreal raises $40 million
-      <hr/>
-      
-      - *Nreal, one of the most-watched mixed reality startups in China, just secured $40 million from a group of high-profile investors in a Series B round that could potentially bring more adoption to its portable augmented glasses. Kuaishou, the archrival to TikTok…*
        
-  - Google pushes Europe to limit 'gatekeeper' platform rules
-      <hr/>
-       
-       - *Google has made its pitch to shape the next decades of digital regulation across the European Union, submitting a 135-page response yesterday to the consultation on the forthcoming Digital Services Act (DSA) — which will update the bloc’s long-standing rules …*
+       - *Peloton is reportedly getting ready to add to its product lineup with two new products at either end of its pricing spectrum, according to Bloomberg. The workout tech company is planning both a cheaper, entry-level smart treadmill, and a higher-end version of…*
       
 
 <br />
