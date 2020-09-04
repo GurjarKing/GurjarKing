@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
-~ Alan Perlis
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I think it is inevitable that people program poorly. Training will not substanti
 </pre>
 <strong>Daily News</strong>
   
-  - Teemyco creates virtual offices so that you can grab a room and talk with colleagues
+  - Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco
      <hr/>
      
-      - *Meet Teemyco, a Stockholm-based startup that wants to reproduce office interactions in a virtual environment. The company wants to foster spontaneous interactions and casual collaboration with a room-based interface. Each employee moves from one room to anoth…*
+      - *Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do. Yandex — the public…*
      
+  - Teemyco creates virtual offices so that you can grab a room and talk with colleagues
+      <hr/>
+      
+      - *Meet Teemyco, a Stockholm-based startup that wants to reproduce office interactions in a virtual environment. The company wants to foster spontaneous interactions and casual collaboration with a room-based interface. Each employee moves from one room to anoth…*
+      
   - Tinder's interactive video event, "Swipe Night," will launch in international markets this month
       <hr/>
       
@@ -73,16 +78,11 @@ I think it is inevitable that people program poorly. Training will not substanti
       <hr/>
       
       - *Earlier this week, in Brooklyn, near the waterfront, Amazon opened what looks from the outside like a typical Whole Foods store. It isn’t open to the public, however; it’s a fulfillment center. “Grocery delivery continues to be one of the fastest-growing busi…*
-      
+       
   - Edtech is the new SaaS
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering with Chris Gates beh…*
        
-  - Cyber threat startup Cygilant hit by ransomware
-      <hr/>
-       
-       - *Cygilant, a threat detection cybersecurity company, has confirmed a ransomware attack. Christina Lattuca, Cygilant’s chief financial officer, said in a statement that the company was “aware of a ransomware attack impacting a portion of Cygilant’s technology e…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering with Chris Gates beh…*
       
 
 <br />
