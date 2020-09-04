@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A beautiful program is like a beautiful theorem: It does the job elegantly.
+Walking on water and developing software from a specification are easy if both are frozen.
 
-~ Butler Lampson
+~ Edward V. Berard
 <pre>
 
 </pre>
