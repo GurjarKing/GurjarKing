@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
 
-~ Ivan Sutherland
+~ David Parnas
 <pre>
 
 </pre>
