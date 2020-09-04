@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Alan Kay
+~ Ivan Sutherland
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Most software today is very much like an Egyptian pyramid with millions of brick
 </pre>
 <strong>Daily News</strong>
   
-  - DoD reaffirms Microsoft has won JEDI cloud contract, but Amazon legal complaints still pending
+  - AI-drawn voting districts could help stamp out gerrymandering
      <hr/>
      
-      - *We have seen a lot of action this week as the DoD tries to finally determine the final winner of the $10 billion, decade long DoD JEDI cloud contract. Today, the DoD released a statement that after reviewing the proposals from finalists Microsoft and Amazon a…*
+      - *Gerrymandering is one of the most insidious methods out there of influencing our political process. By legally changing the way votes are collected and counted, the outcomes can be influenced — even fixed in advance for years. The solution may be an AI system…*
      
+  - DoD reaffirms Microsoft has won JEDI cloud contract, but Amazon legal complaints still pending
+      <hr/>
+      
+      - *We have seen a lot of action this week as the DoD tries to finally determine the final winner of the $10 billion, decade long DoD JEDI cloud contract. Today, the DoD released a statement that after reviewing the proposals from finalists Microsoft and Amazon a…*
+      
   - VW's all-electric ID.4 will use interior lighting to communicate with the driver
       <hr/>
       
@@ -73,16 +78,11 @@ Most software today is very much like an Egyptian pyramid with millions of brick
       <hr/>
       
       - *When people reach out to customer service, they’re seeking more than a solution to their immediate problem. They want empathy and understanding.*
-      
+       
   - 3 views on the future of geographic-focused funds
       <hr/>
-      
-      - *For many investors, the coronavirus has effectively taken geography out of the equation when it comes to vetting new opportunities. While this dynamic opens up startups to more investment opportunities, venture capital firms that focus on a specific region ar…*
        
-  - Local governments that embrace digital services during challenging times can make real change happen
-      <hr/>
-       
-       - *How can local leaders embrace this new era of civic engagement in the world of COVID-19 to deliver digital solutions that help everyone meet the moment?*
+       - *For many investors, the coronavirus has effectively taken geography out of the equation when it comes to vetting new opportunities. While this dynamic opens up startups to more investment opportunities, venture capital firms that focus on a specific region ar…*
       
 
 <br />
