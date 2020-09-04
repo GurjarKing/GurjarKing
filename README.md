@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What one programmer can do in one month, two programmers can do in two months.
+Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
 
-~ Fred Brooks
+~ Alan Kay
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ What one programmer can do in one month, two programmers can do in two months.
 </pre>
 <strong>Daily News</strong>
   
-  - VW's all-electric ID.4 will use interior lighting to communicate with the driver
+  - DoD reaffirms Microsoft has won JEDI cloud contract, but Amazon legal complaints still pending
      <hr/>
      
-      - *Newly released teaser images of Volkswagen’s upcoming all-electric ID.4 compact SUV reveals an interior that leans in on tech such as touchscreens and ambient lighting used to talk to the driver without erasing every toggle or knob from automotive’s yesteryea…*
+      - *We have seen a lot of action this week as the DoD tries to finally determine the final winner of the $10 billion, decade long DoD JEDI cloud contract. Today, the DoD released a statement that after reviewing the proposals from finalists Microsoft and Amazon a…*
      
+  - VW's all-electric ID.4 will use interior lighting to communicate with the driver
+      <hr/>
+      
+      - *Newly released teaser images of Volkswagen’s upcoming all-electric ID.4 compact SUV reveals an interior that leans in on tech such as touchscreens and ambient lighting used to talk to the driver without erasing every toggle or knob from automotive’s yesteryea…*
+      
   - Brands that hyper-personalize will win the next decade
       <hr/>
       
@@ -73,16 +78,11 @@ What one programmer can do in one month, two programmers can do in two months.
       <hr/>
       
       - *For many investors, the coronavirus has effectively taken geography out of the equation when it comes to vetting new opportunities. While this dynamic opens up startups to more investment opportunities, venture capital firms that focus on a specific region ar…*
-      
-  - Stocks are selling off again, and SaaS shares are taking the biggest lumps
-      <hr/>
-      
-      - *It was just days ago that cries of “stocks only go up,” and “no it makes sense that Tesla is going up because it split” and other bits of unironic stupidity were the only thing you could read online about the equities markets. Today, and yesterday, that all w…*
        
-  - Low-cost fitness bands see a resurgence in interest amid the pandemic
+  - Local governments that embrace digital services during challenging times can make real change happen
       <hr/>
        
-       - *While wearable fitness devices saw an uptick in shipments in North America for Q2, the overall dollar amount of the market remained steady, according to new numbers out of Canalys. The discrepancy can be chalked up to a decline in the average selling price of…*
+       - *How can local leaders embrace this new era of civic engagement in the world of COVID-19 to deliver digital solutions that help everyone meet the moment?*
       
 
 <br />
