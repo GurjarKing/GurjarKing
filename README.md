@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In my second year in graduate school, I took a computer course and that was like lightening striking.
+What one programmer can do in one month, two programmers can do in two months.
 
-~ Ted Nelson
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ In my second year in graduate school, I took a computer course and that was like
 </pre>
 <strong>Daily News</strong>
   
-  - 3 views on the future of geographic-focused funds
+  - VW's all-electric ID.4 will use interior lighting to communicate with the driver
      <hr/>
      
-      - *For many investors, the coronavirus has effectively taken geography out of the equation when it comes to vetting new opportunities. While this dynamic opens up startups to more investment opportunities, venture capital firms that focus on a specific region ar…*
+      - *Newly released teaser images of Volkswagen’s upcoming all-electric ID.4 compact SUV reveals an interior that leans in on tech such as touchscreens and ambient lighting used to talk to the driver without erasing every toggle or knob from automotive’s yesteryea…*
      
+  - Brands that hyper-personalize will win the next decade
+      <hr/>
+      
+      - *When people reach out to customer service, they’re seeking more than a solution to their immediate problem. They want empathy and understanding.*
+      
+  - 3 views on the future of geographic-focused funds
+      <hr/>
+      
+      - *For many investors, the coronavirus has effectively taken geography out of the equation when it comes to vetting new opportunities. While this dynamic opens up startups to more investment opportunities, venture capital firms that focus on a specific region ar…*
+      
   - Stocks are selling off again, and SaaS shares are taking the biggest lumps
       <hr/>
       
       - *It was just days ago that cries of “stocks only go up,” and “no it makes sense that Tesla is going up because it split” and other bits of unironic stupidity were the only thing you could read online about the equities markets. Today, and yesterday, that all w…*
-      
+       
   - Low-cost fitness bands see a resurgence in interest amid the pandemic
       <hr/>
-      
-      - *While wearable fitness devices saw an uptick in shipments in North America for Q2, the overall dollar amount of the market remained steady, according to new numbers out of Canalys. The discrepancy can be chalked up to a decline in the average selling price of…*
-      
-  - Palantir's concentrated governance is great for execs, but what about shareholders?
-      <hr/>
-      
-      - *A few days ago I wrote down a few notes making a bullish case for Palantir, searching to find good news amidst the company’s huge historical deficits. Heading into the next phase of Palantir’s march to the public markets, I was very curious to see how the com…*
        
-  - Mustard raises $1.7M to improve athletic mechanics with AI
-      <hr/>
-       
-       - *Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new …*
+       - *While wearable fitness devices saw an uptick in shipments in North America for Q2, the overall dollar amount of the market remained steady, according to new numbers out of Canalys. The discrepancy can be chalked up to a decline in the average selling price of…*
       
 
 <br />
