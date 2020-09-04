@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What one programmer can do in one month, two programmers can do in two months.
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 
-~ Fred Brooks
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ What one programmer can do in one month, two programmers can do in two months.
 </pre>
 <strong>Daily News</strong>
   
-  - Low-cost fitness bands see a resurgence in interest amid the pandemic
+  - Stocks are selling off again, and SaaS shares are taking the biggest lumps
      <hr/>
      
-      - *While wearable fitness devices saw an uptick in shipments in North America for Q2, the overall dollar amount of the market remained steady, according to new numbers out of Canalys. The discrepancy can be chalked up to a decline in the average selling price of…*
+      - *It was just days ago that cries of “stocks only go up,” and “no it makes sense that Tesla is going up because it split” and other bits of unironic stupidity were the only thing you could read online about the equities markets. Today, and yesterday, that all w…*
      
+  - Low-cost fitness bands see a resurgence in interest amid the pandemic
+      <hr/>
+      
+      - *While wearable fitness devices saw an uptick in shipments in North America for Q2, the overall dollar amount of the market remained steady, according to new numbers out of Canalys. The discrepancy can be chalked up to a decline in the average selling price of…*
+      
   - Palantir's concentrated governance is great for execs, but what about shareholders?
       <hr/>
       
@@ -73,16 +78,11 @@ What one programmer can do in one month, two programmers can do in two months.
       <hr/>
       
       - *Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new …*
-      
+       
   - NSA's Anne Neuberger to talk cybersecurity at Disrupt 2020
       <hr/>
-      
-      - *We are thrilled to announce that Anne Neuberger, director of cybersecurity at the National Security Agency, will join us at Disrupt 2020 from September 14-18. The headlines are not always kind to the government agencies that work in secret, and the NSA is no …*
        
-  - Peloton said to be launching new, cheaper treadmill and higher-end stationary smart bike
-      <hr/>
-       
-       - *Peloton is reportedly getting ready to add to its product lineup with two new products at either end of its pricing spectrum, according to Bloomberg. The workout tech company is planning both a cheaper, entry-level smart treadmill, and a higher-end version of…*
+       - *We are thrilled to announce that Anne Neuberger, director of cybersecurity at the National Security Agency, will join us at Disrupt 2020 from September 14-18. The headlines are not always kind to the government agencies that work in secret, and the NSA is no …*
       
 
 <br />
