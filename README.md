@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Object-oriented design is the roman numerals of computing.
+Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 
-~ Rob Pike
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Object-oriented design is the roman numerals of computing.
 </pre>
 <strong>Daily News</strong>
   
-  - Peloton said to be launching new, cheaper treadmill and higher-end stationary smart bike
+  - Mustard raises $1.7M to improve athletic mechanics with AI
      <hr/>
      
-      - *Peloton is reportedly getting ready to add to its product lineup with two new products at either end of its pricing spectrum, according to Bloomberg. The workout tech company is planning both a cheaper, entry-level smart treadmill, and a higher-end version of…*
+      - *Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new …*
      
+  - NSA's Anne Neuberger to talk cybersecurity at Disrupt 2020
+      <hr/>
+      
+      - *We are thrilled to announce that Anne Neuberger, director of cybersecurity at the National Security Agency, will join us at Disrupt 2020 from September 14-18. The headlines are not always kind to the government agencies that work in secret, and the NSA is no …*
+      
+  - Peloton said to be launching new, cheaper treadmill and higher-end stationary smart bike
+      <hr/>
+      
+      - *Peloton is reportedly getting ready to add to its product lineup with two new products at either end of its pricing spectrum, according to Bloomberg. The workout tech company is planning both a cheaper, entry-level smart treadmill, and a higher-end version of…*
+      
   - Qualcomm-powered Chinese XR startup Nreal raises $40 million
       <hr/>
       
       - *Nreal, one of the most-watched mixed reality startups in China, just secured $40 million from a group of high-profile investors in a Series B round that could potentially bring more adoption to its portable augmented glasses. Kuaishou, the archrival to TikTok…*
-      
+       
   - Google pushes Europe to limit 'gatekeeper' platform rules
       <hr/>
-      
-      - *Google has made its pitch to shape the next decades of digital regulation across the European Union, submitting a 135-page response yesterday to the consultation on the forthcoming Digital Services Act (DSA) — which will update the bloc’s long-standing rules …*
-      
-  - Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco
-      <hr/>
-      
-      - *Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do. Yandex — the public…*
        
-  - Teemyco creates virtual offices so that you can grab a room and talk with colleagues
-      <hr/>
-       
-       - *Meet Teemyco, a Stockholm-based startup that wants to reproduce office interactions in a virtual environment. The company wants to foster spontaneous interactions and casual collaboration with a room-based interface. Each employee moves from one room to anoth…*
+       - *Google has made its pitch to shape the next decades of digital regulation across the European Union, submitting a 135-page response yesterday to the consultation on the forthcoming Digital Services Act (DSA) — which will update the bloc’s long-standing rules …*
       
 
 <br />
