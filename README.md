@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Deleted code is debugged code.
+Object-oriented design is the roman numerals of computing.
 
-~ Jeff Sickel
+~ Rob Pike
 <pre>
 
 </pre>
