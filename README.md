@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Daniel T. Barry
+~ Ivan Sutherland
 <pre>
 
 </pre>
