@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 
-~ Ted Nelson
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,10 +59,10 @@ The good news about computers is that they do what you tell them to do. The bad 
 </pre>
 <strong>Daily News</strong>
   
-  - Early-bird savings extended for TC Sessions: Mobility 2020
+  - Teemyco creates virtual offices so that you can grab a room and talk with colleagues
      <hr/>
      
-      - *Mobility may be one of the fastest moving technologies going, but procrastination is an equal-opportunity affliction that can strike even the most dedicated founders and devotees. Fortunately, Saint Expeditus, patron saint of procrastinators great and small, …*
+      - *Meet Teemyco, a Stockholm-based startup that wants to reproduce office interactions in a virtual environment. The company wants to foster spontaneous interactions and casual collaboration with a room-based interface. Each employee moves from one room to anoth…*
      
   - Tinder's interactive video event, "Swipe Night," will launch in international markets this month
       <hr/>
