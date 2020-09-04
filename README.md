@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Daniel T. Barry
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A team of highly competent programmers who are also highly territorial, egotisti
 </pre>
 <strong>Daily News</strong>
   
-  - Tinder's interactive video event, "Swipe Night," will launch in international markets this month
+  - Early-bird savings extended for TC Sessions: Mobility 2020
      <hr/>
      
-      - *Tinder’s “Swipe Night” is going global. The dating app announced today that its interactive video series will be available in Asia and other international markets starting on September 12, giving users another way to connect as they continue to stay at home b…*
+      - *Mobility may be one of the fastest moving technologies going, but procrastination is an equal-opportunity affliction that can strike even the most dedicated founders and devotees. Fortunately, Saint Expeditus, patron saint of procrastinators great and small, …*
      
+  - Tinder's interactive video event, "Swipe Night," will launch in international markets this month
+      <hr/>
+      
+      - *Tinder’s “Swipe Night” is going global. The dating app announced today that its interactive video series will be available in Asia and other international markets starting on September 12, giving users another way to connect as they continue to stay at home b…*
+      
   - That Whole Foods is an Amazon warehouse; get used to it
       <hr/>
       
@@ -73,16 +78,11 @@ A team of highly competent programmers who are also highly territorial, egotisti
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering with Chris Gates beh…*
-      
+       
   - Cyber threat startup Cygilant hit by ransomware
       <hr/>
-      
-      - *Cygilant, a threat detection cybersecurity company, has confirmed a ransomware attack. Christina Lattuca, Cygilant’s chief financial officer, said in a statement that the company was “aware of a ransomware attack impacting a portion of Cygilant’s technology e…*
        
-  - In amended filing, Palantir admits it won’t have independent board governance for up to a year
-      <hr/>
-       
-       - *When we leaked Palantir’s S-1 IPO filing a week and a half ago, one of the more bizarre components that came out of that document was the company’s corporate governance. In a unique three-class voting structure, Palantir founders Alex Karp, Stephen Cohen, and…*
+       - *Cygilant, a threat detection cybersecurity company, has confirmed a ransomware attack. Christina Lattuca, Cygilant’s chief financial officer, said in a statement that the company was “aware of a ransomware attack impacting a portion of Cygilant’s technology e…*
       
 
 <br />
