@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Walking on water and developing software from a specification are easy if both are frozen.
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 
-~ Edward V. Berard
+~ Bill Gates
 <pre>
 
 </pre>
