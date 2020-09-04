@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 
-~ Bill Gates
+~ Daniel T. Barry
 <pre>
 
 </pre>
