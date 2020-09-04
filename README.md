@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+The hardest part of design is keeping features out.
 
-~ Donald Knuth
+~ Don Norman
 <pre>
 
 </pre>
