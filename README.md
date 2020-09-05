@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any product that needs a manual to work is broken.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Elon Musk
+~ Seymour Cray
 <pre>
 
 </pre>
