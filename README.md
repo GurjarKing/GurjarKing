@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Dealing with failure is easy: Work hard to improve.
+All too many of our software systems are, architecturally, little more than shantytowns.
 
-~ Alan Perlis
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
