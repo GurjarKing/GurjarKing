@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 
-~ Harlan Mills
+~ Kent Beck
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ An interactive debugger is an outstanding example of what is not needed - it enc
 </pre>
 <strong>Daily News</strong>
   
-  - The future of retail and office space is up in the air, and proptech investors are optimistic
+  - Grab a Labor Day flash sale pass to Disrupt 2020 and save $100
      <hr/>
      
-      - *The malls and grocery stores of the 20th century are being converted into industrial conveyor belts of goods and services traveling from the internet to your home.*
+      - *No matter how you celebrate Labor Day weekend, we urge you to mask up, keep your distance when grilling burgers and dogs and — most of all — take advantage of our flash sale on Digital Pro passes to Disrupt 2020. Right now, you can save $100 on your pass — wh…*
      
+  - The future of retail and office space is up in the air, and proptech investors are optimistic
+      <hr/>
+      
+      - *The malls and grocery stores of the 20th century are being converted into industrial conveyor belts of goods and services traveling from the internet to your home.*
+      
   - At Disrupt, YC's Anu Hariharan, Initialized's Garry Tan, and GGV's Hans Tung will tell you how to raise money in a dumpster fire
       <hr/>
       
@@ -73,16 +78,11 @@ An interactive debugger is an outstanding example of what is not needed - it enc
       <hr/>
       
       - *The company said it doesn't receive requests directly from Hong Kong authorities.*
-      
+       
   - This Week in Apps: Apple delays mobile ad apocalypse, app review changes, TikTok deal gets complicated
       <hr/>
-      
-      - *TikTok deal talks got hung up over whether or not TikTok can export the app's algorithms, and Apple made headlines for delaying the rollout of a potentially disastrous iOS 14 change that's been panicking the advertising community.*
        
-  - PandaDoc employees arrested in Belarus after founders protest against Lukashenko regime
-      <hr/>
-       
-       - *Yesterday the four employees (pictured) of US-headquartered enterprise startup PandaDoc were arrested in Minsk by the Belarus police, in what appears to be an act of state-led retaliation, after the company’s founders joined protests against the 26 year-long …*
+       - *TikTok deal talks got hung up over whether or not TikTok can export the app's algorithms, and Apple made headlines for delaying the rollout of a potentially disastrous iOS 14 change that's been panicking the advertising community.*
       
 
 <br />
