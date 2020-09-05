@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-People should be able to speak and breathe programs just like they talk now.
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 
-~ Jaron Lanier
+~ Tom DeMarco
 <pre>
 
 </pre>
