@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-JavaScript, purely by accident, has become the most popular programming language in the world.
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 
-~ Douglas Crockford
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ JavaScript, purely by accident, has become the most popular programming language
 </pre>
 <strong>Daily News</strong>
   
-  - At Disrupt, YC's Anu Hariharan, Initialized's Garry Tan, and GGV's Hans Tung will tell you how to raise money in a dumpster fire
+  - The future of retail and office space is up in the air, and proptech investors are optimistic
      <hr/>
      
-      - *As this pandemically perverse year draws to a close, there’s one thing that’s certain. Everything has changed — at least a little bit. The U.S. is still grappling with a virus that it has yet to control and a vaccine, once it’s discovered and proven to be eff…*
+      - *The malls and grocery stores of the 20th century are being converted into industrial conveyor belts of goods and services traveling from the internet to your home.*
      
+  - At Disrupt, YC's Anu Hariharan, Initialized's Garry Tan, and GGV's Hans Tung will tell you how to raise money in a dumpster fire
+      <hr/>
+      
+      - *As this pandemically perverse year draws to a close, there’s one thing that’s certain. Everything has changed — at least a little bit. The U.S. is still grappling with a virus that it has yet to control and a vaccine, once it’s discovered and proven to be eff…*
+      
   - Apple opens up — slightly — on Hong Kong's national security law
       <hr/>
       
@@ -73,16 +78,11 @@ JavaScript, purely by accident, has become the most popular programming language
       <hr/>
       
       - *TikTok deal talks got hung up over whether or not TikTok can export the app's algorithms, and Apple made headlines for delaying the rollout of a potentially disastrous iOS 14 change that's been panicking the advertising community.*
-      
+       
   - PandaDoc employees arrested in Belarus after founders protest against Lukashenko regime
       <hr/>
-      
-      - *Yesterday the four employees (pictured) of US-headquartered enterprise startup PandaDoc were arrested in Minsk by the Belarus police, in what appears to be an act of state-led retaliation, after the company’s founders joined protests against the 26 year-long …*
        
-  - Facebook boots Patriot Prayer, a far-right group with a history of violence
-      <hr/>
-       
-       - *Facebook removed accounts belonging to far-right group Patriot Prayer and its leader Joey Gibson on Friday, citing a new effort to eradicate “violent social militias” from the platform. That effort emerged through a policy update in mid-August to the company’…*
+       - *Yesterday the four employees (pictured) of US-headquartered enterprise startup PandaDoc were arrested in Minsk by the Belarus police, in what appears to be an act of state-led retaliation, after the company’s founders joined protests against the 26 year-long …*
       
 
 <br />
