@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Typing is no substitute for thinking.
+Any product that needs a manual to work is broken.
 
-~ Richard Hamming
+~ Elon Musk
 <pre>
 
 </pre>
