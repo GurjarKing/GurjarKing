@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+Compatibility means deliberately repeating other people’s mistakes.
 
-~ Seymour Cray
+~ David Wheeler (computer scientist)
 <pre>
 
 </pre>
