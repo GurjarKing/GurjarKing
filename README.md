@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A year spent in artificial intelligence is enough to make one believe in God.
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 
-~ Alan Perlis
+~ Daniel T. Barry
 <pre>
 
 </pre>
