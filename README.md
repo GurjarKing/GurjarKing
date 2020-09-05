@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The way to arrest entropy in software is to refactor it.
+A year spent in artificial intelligence is enough to make one believe in God.
 
-~ Joseph Yoder (computer scientist)
+~ Alan Perlis
 <pre>
 
 </pre>
