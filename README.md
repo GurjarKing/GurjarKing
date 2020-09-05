@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
 
-~ Gerald Weinberg
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ When program developers are not territorial about their code and encourage other
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook boots Patriot Prayer, a far-right group with a history of violence
+  - PandaDoc employees arrested in Belarus after founders protest against Lukashenko regime
      <hr/>
      
-      - *Facebook removed accounts belonging to far-right group Patriot Prayer and its leader Joey Gibson on Friday, citing a new effort to eradicate “violent social militias” from the platform. That effort emerged through a policy update in mid-August to the company’…*
+      - *Yesterday the four employees (pictured) of US-headquartered enterprise startup PandaDoc were arrested in Minsk by the Belarus police, in what appears to be an act of state-led retaliation, after the company’s founders joined protests against the 26 year-long …*
      
+  - Facebook boots Patriot Prayer, a far-right group with a history of violence
+      <hr/>
+      
+      - *Facebook removed accounts belonging to far-right group Patriot Prayer and its leader Joey Gibson on Friday, citing a new effort to eradicate “violent social militias” from the platform. That effort emerged through a policy update in mid-August to the company’…*
+      
   - One more week to save on TC Sessions: Mobility
       <hr/>
       
@@ -73,16 +78,11 @@ When program developers are not territorial about their code and encourage other
       <hr/>
       
       - *Peloton’s product lineup is both getting cheaper and more expensive, Nintendo announces a new retro device and Palantir reveals more about its governance plans. This is your Daily Crunch for September 4, 2020. The big story: Peloton might expand its product l…*
-      
+       
   - AI-drawn voting districts could help stamp out gerrymandering
       <hr/>
-      
-      - *Gerrymandering is one of the most insidious methods out there of influencing our political process. By legally changing the way votes are collected and counted, the outcomes can be influenced — even fixed in advance for years. The solution may be an AI system…*
        
-  - DoD reaffirms Microsoft has won JEDI cloud contract, but Amazon legal complaints still pending
-      <hr/>
-       
-       - *We have seen a lot of action this week as the DoD tries to finally determine the final winner of the $10 billion, decade long DoD JEDI cloud contract. Today, the DoD released a statement that after reviewing the proposals from finalists Microsoft and Amazon a…*
+       - *Gerrymandering is one of the most insidious methods out there of influencing our political process. By legally changing the way votes are collected and counted, the outcomes can be influenced — even fixed in advance for years. The solution may be an AI system…*
       
 
 <br />
