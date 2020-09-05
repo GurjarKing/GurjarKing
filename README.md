@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Documentation is a love letter that you write to your future self.
+JavaScript, purely by accident, has become the most popular programming language in the world.
 
-~ Damian Conway
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Documentation is a love letter that you write to your future self.
 </pre>
 <strong>Daily News</strong>
   
-  - This Week in Apps: Apple delays mobile ad apocalypse, app review changes, TikTok deal gets complicated
+  - At Disrupt, YC's Anu Hariharan, Initialized's Garry Tan, and GGV's Hans Tung will tell you how to raise money in a dumpster fire
      <hr/>
      
-      - *TikTok deal talks got hung up over whether or not TikTok can export the app's algorithms, and Apple made headlines for delaying the rollout of a potentially disastrous iOS 14 change that's been panicking the advertising community.*
+      - *As this pandemically perverse year draws to a close, there’s one thing that’s certain. Everything has changed — at least a little bit. The U.S. is still grappling with a virus that it has yet to control and a vaccine, once it’s discovered and proven to be eff…*
      
+  - Apple opens up — slightly — on Hong Kong's national security law
+      <hr/>
+      
+      - *The company said it doesn't receive requests directly from Hong Kong authorities.*
+      
+  - This Week in Apps: Apple delays mobile ad apocalypse, app review changes, TikTok deal gets complicated
+      <hr/>
+      
+      - *TikTok deal talks got hung up over whether or not TikTok can export the app's algorithms, and Apple made headlines for delaying the rollout of a potentially disastrous iOS 14 change that's been panicking the advertising community.*
+      
   - PandaDoc employees arrested in Belarus after founders protest against Lukashenko regime
       <hr/>
       
       - *Yesterday the four employees (pictured) of US-headquartered enterprise startup PandaDoc were arrested in Minsk by the Belarus police, in what appears to be an act of state-led retaliation, after the company’s founders joined protests against the 26 year-long …*
-      
+       
   - Facebook boots Patriot Prayer, a far-right group with a history of violence
       <hr/>
-      
-      - *Facebook removed accounts belonging to far-right group Patriot Prayer and its leader Joey Gibson on Friday, citing a new effort to eradicate “violent social militias” from the platform. That effort emerged through a policy update in mid-August to the company’…*
-      
-  - One more week to save on TC Sessions: Mobility
-      <hr/>
-      
-      - *Mobility may be one of the fastest moving technologies going, but procrastination is an equal-opportunity affliction that can strike even the most dedicated founders and devotees. Fortunately, Saint Expeditus, patron saint of procrastinators great and small, …*
        
-  - Daily Crunch: Peloton might expand its product lineup
-      <hr/>
-       
-       - *Peloton’s product lineup is both getting cheaper and more expensive, Nintendo announces a new retro device and Palantir reveals more about its governance plans. This is your Daily Crunch for September 4, 2020. The big story: Peloton might expand its product l…*
+       - *Facebook removed accounts belonging to far-right group Patriot Prayer and its leader Joey Gibson on Friday, citing a new effort to eradicate “violent social militias” from the platform. That effort emerged through a policy update in mid-August to the company’…*
       
 
 <br />
