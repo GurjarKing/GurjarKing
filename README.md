@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+Dealing with failure is easy: Work hard to improve.
 
-~ Daniel T. Barry
+~ Alan Perlis
 <pre>
 
 </pre>
