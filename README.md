@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Compatibility means deliberately repeating other people’s mistakes.
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 
-~ David Wheeler (computer scientist)
+~ Daniel T. Barry
 <pre>
 
 </pre>
