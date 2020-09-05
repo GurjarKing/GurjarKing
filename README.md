@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+The way to arrest entropy in software is to refactor it.
 
-~ Bill Gates
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
