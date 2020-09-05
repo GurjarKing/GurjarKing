@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All too many of our software systems are, architecturally, little more than shantytowns.
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 
-~ Joseph Yoder (computer scientist)
+~ Gerald Weinberg
 <pre>
 
 </pre>
