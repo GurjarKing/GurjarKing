@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+Typing is no substitute for thinking.
 
-~ Charles Babbage
+~ Richard Hamming
 <pre>
 
 </pre>
