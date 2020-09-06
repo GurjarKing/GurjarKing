@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+Every time you improve process, work becomes harder.
 
-~ Maurice Wilkes
+~ Daniel T. Barry
 <pre>
 
 </pre>
