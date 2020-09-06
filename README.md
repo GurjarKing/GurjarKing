@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+If we’d asked the customers what they wanted, they would have said “faster horses”.
 
-~ Alan Perlis
+~ Henry Ford
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ It is better to have 100 functions operate on one data structure than to have 10
 </pre>
 <strong>Daily News</strong>
   
-  - How one VC firm wound up with no-code startups as part of its investing thesis
+  - Original Content podcast: 'Teenage Bounty Hunters' is more interested in relationships than bounty hunting
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
+      - *“Teenage Bounty Hunters” has one of the most memorable — if not entirely appealing — titles of any new show on Netflix . As we explain on the latest episode of the Original Content podcast, the series tells the story of Sterling (played Maddie Phillips) and B…*
      
+  - How one VC firm wound up with no-code startups as part of its investing thesis
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
+      
   - Grab a Labor Day flash sale pass to Disrupt 2020 and save $100
       <hr/>
       
@@ -73,16 +78,11 @@ It is better to have 100 functions operate on one data structure than to have 10
       <hr/>
       
       - *The malls and grocery stores of the 20th century are being converted into industrial conveyor belts of goods and services traveling from the internet to your home.*
-      
+       
   - At Disrupt, YC's Anu Hariharan, Initialized's Garry Tan, and GGV's Hans Tung will tell you how to raise money in a dumpster fire
       <hr/>
-      
-      - *As this pandemically perverse year draws to a close, there’s one thing that’s certain. Everything has changed — at least a little bit. The U.S. is still grappling with a virus that it has yet to control and a vaccine, once it’s discovered and proven to be eff…*
        
-  - Apple opens up — slightly — on Hong Kong's national security law
-      <hr/>
-       
-       - *The company said it doesn't receive requests directly from Hong Kong authorities.*
+       - *As this pandemically perverse year draws to a close, there’s one thing that’s certain. Everything has changed — at least a little bit. The U.S. is still grappling with a virus that it has yet to control and a vaccine, once it’s discovered and proven to be eff…*
       
 
 <br />
