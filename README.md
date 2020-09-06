@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
 
-~ Henry Ford
+~ Tom DeMarco
 <pre>
 
 </pre>
