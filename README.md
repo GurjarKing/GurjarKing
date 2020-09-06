@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
 
-~ Jamie Zawinski
+~ Simon Peyton Jones
 <pre>
 
 </pre>
