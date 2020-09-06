@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That hardly ever happens is another way of saying 'it happens'.
+Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
 
-~ Douglas Crockford
+~ Ray Ozzie
 <pre>
 
 </pre>
