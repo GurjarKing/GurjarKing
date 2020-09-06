@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Typing is no substitute for thinking.
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 
-~ Richard Hamming
+~ Donald Knuth
 <pre>
 
 </pre>
