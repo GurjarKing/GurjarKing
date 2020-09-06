@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-With artificial intelligence we are summoning the demon.
+Typing is no substitute for thinking.
 
-~ Elon Musk
+~ Richard Hamming
 <pre>
 
 </pre>
