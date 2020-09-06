@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
 
-~ Terry Winograd
+~ David Parnas
 <pre>
 
 </pre>
