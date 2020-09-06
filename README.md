@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
+I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 
-~ Tom DeMarco
+~ Richard Stallman
 <pre>
 
 </pre>
