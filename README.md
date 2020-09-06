@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+The most important part of writing a program is designing the data structures.
 
-~ Fred Brooks
+~ Dan Bricklin
 <pre>
 
 </pre>
