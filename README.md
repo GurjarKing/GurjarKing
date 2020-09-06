@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 
-~ Daniel T. Barry
+~ Terry Winograd
 <pre>
 
 </pre>
