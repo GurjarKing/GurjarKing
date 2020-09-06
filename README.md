@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 
-~ David Parnas
+~ Bill Gates
 <pre>
 
 </pre>
