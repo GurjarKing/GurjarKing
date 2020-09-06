@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Ray Ozzie
+~ Brian Kernighan
 <pre>
 
 </pre>
