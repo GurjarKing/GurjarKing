@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 
-~ Elon Musk
+~ Alan Perlis
 <pre>
 
 </pre>
