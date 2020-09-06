@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 
-~ Simon Peyton Jones
+~ Maurice Wilkes
 <pre>
 
 </pre>
