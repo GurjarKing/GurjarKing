@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'm not a great programmer; I'm just a good programmer with great habits.
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 
-~ Kent Beck
+~ Bill Gates
 <pre>
 
 </pre>
