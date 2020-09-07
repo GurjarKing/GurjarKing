@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think programming is very much a religious experience for a lot of people.
+The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
 
-~ Gary Kildall
+~ John Carmack
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I think programming is very much a religious experience for a lot of people.
 </pre>
 <strong>Daily News</strong>
   
-  - The Station: Yandex spins out self-driving biz, Ike takes the SaaS road and a solid-state battery startup strikes SPAC
+  - Revolut launches its financial app in Japan
      <hr/>
      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peop…*
+      - *Fintech startup Revolut is expanding to Japan. After testing the service with 10,000 users, anybody can now sign up and open an account. The company originally obtained its authorization to operate from Japan’s Finance Service Agency in 2018. When you open an…*
      
+  - Dutch payments startup Mollie raises $106M at $1B+ valuation
+      <hr/>
+      
+      - *E-commerce has seen a huge jump in the last eight months, driven by consumers shopping more for goods online while spending more time at home during the COVID-19 pandemic. Today, a payments startup out of Amsterdam that has itself seen a surge of growth this …*
+      
+  - The Station: Yandex spins out self-driving biz, Ike takes the SaaS road and a solid-state battery startup strikes SPAC
+      <hr/>
+      
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peop…*
+      
   - The Shed is a startup out of Virginia trying to revive the rental-for-everything business
       <hr/>
       
       - *Reducing consumption by expanding the notion of the rental economy and giving people access to tools and equipment has been something of a startup holy grail for some time. It’s a model that’s worked famously well for fashion and accessories (just ask investo…*
-      
+       
   - Human Capital: Workers are upset about labor practices, and Amazon and Apple are on the defensive
       <hr/>
-      
-      - *Happy Labor Day and welcome back to Human Capital, where we unpack the latest in tech labor, and diversity, equity and inclusion. Human Capital will soon be available as a newsletter. Sign up here so you don’t miss it when it drops! This week, we’re looking a…*
-      
-  - 5 Reasons you need to attend TC Sessions: Mobility 2020
-      <hr/>
-      
-      - *Get ready to spend two days rubbing virtual elbows with the global mobility community’s best and brightest minds and makers. TC Sessions: Mobility 2020 takes place October 6-7, and we’ve packed the agenda with experts, interviews, demos, panel discussions, br…*
        
-  - This Labor Day, spare a thought for the workers who made your doorstep delivery possible
-      <hr/>
-       
-       - *This Labor Day, it’s time to think about how corporations can better support and protect this vital but often forgotten segment of the workforce.*
+       - *Happy Labor Day and welcome back to Human Capital, where we unpack the latest in tech labor, and diversity, equity and inclusion. Human Capital will soon be available as a newsletter. Sign up here so you don’t miss it when it drops! This week, we’re looking a…*
       
 
 <br />
