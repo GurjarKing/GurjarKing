@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 
-~ Bill Gates
+~ Joshua Bloch
 <pre>
 
 </pre>
