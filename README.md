@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 
-~ Joshua Bloch
+~ Lawrence Flon
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The cleaner and nicer the program, the faster it's going to run. And if it doesn
 </pre>
 <strong>Daily News</strong>
   
-  - Lokalise raises $6 million to make it easier to localize your product
+  - Daybridge, a time management app by former Monzo engineer Kieran McHugh, raises £750K seed
      <hr/>
      
-      - *Meet Lokalise, a Latvian startup that focuses on translation and localization of apps, websites, games and more. The company provides a software-as-a-service product that helps you improve your workflow and processes when you need to update text in different …*
+      - *Daybridge, a productivity and time management app by former Monzo engineer Kieran McHugh, has picked by £750,000 in a seed round led by early Monzo backer, Passion Capital. Also participating is a number of London-based angel investors — including, I understa…*
      
+  - Indian telecom giant Vodafone Idea rebrands to 'Vi'
+      <hr/>
+      
+      - *Vodafone Idea, one of the largest telecom operators in India, has rebranded to ‘Vi’ as it looks to better leverage the unified venture between British telecom giant Vodafone Group’s India business and billionaire Kumar Mangalam Birla’s Idea Cellular two years…*
+      
+  - Lokalise raises $6 million to make it easier to localize your product
+      <hr/>
+      
+      - *Meet Lokalise, a Latvian startup that focuses on translation and localization of apps, websites, games and more. The company provides a software-as-a-service product that helps you improve your workflow and processes when you need to update text in different …*
+      
   - Meet the TC Top Picks for Disrupt 2020
       <hr/>
       
       - *We’ve been extremely privileged to witness thousands of early stage startups launch and take flight at Disrupt over the past 10 years, and they just keep getting bettter. You’ll be hard-pressed to find more creative, game-changing startups than the ones that …*
-      
+       
   - Chief CEO Carolyn Childers, Reboot.io CEO Jerry Colona, Ureeka co-founder Melissa Bradley are coming to Disrupt 2020
       <hr/>
-      
-      - *Becoming a successful leader isn’t a one-size-fits-all formula. Each startup — depending on the industry and internal culture — has its own needs. The hard part is figuring out what leadership style best suits the personality of the CEO or founder as well as …*
-      
-  - Original Content podcast: 'Teenage Bounty Hunters' is more interested in relationships than bounty hunting
-      <hr/>
-      
-      - *“Teenage Bounty Hunters” has one of the most memorable — if not entirely appealing — titles of any new show on Netflix . As we explain on the latest episode of the Original Content podcast, the series tells the story of Sterling (played Maddie Phillips) and B…*
        
-  - How one VC firm wound up with no-code startups as part of its investing thesis
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
+       - *Becoming a successful leader isn’t a one-size-fits-all formula. Each startup — depending on the industry and internal culture — has its own needs. The hard part is figuring out what leadership style best suits the personality of the CEO or founder as well as …*
       
 
 <br />
