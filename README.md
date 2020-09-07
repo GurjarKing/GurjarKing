@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+I'm not a great programmer; I'm just a good programmer with great habits.
 
-~ Ken Thompson
+~ Kent Beck
 <pre>
 
 </pre>
