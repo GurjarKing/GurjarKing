@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 
-~ Donald Knuth
+~ Daniel T. Barry
 <pre>
 
 </pre>
