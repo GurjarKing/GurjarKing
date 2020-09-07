@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 
-~ Alan Perlis
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I think it is inevitable that people program poorly. Training will not substanti
 </pre>
 <strong>Daily News</strong>
   
-  - 5 Reasons you need to attend TC Sessions: Mobility 2020
+  - Human Capital: Workers are upset about labor practices, and Amazon and Apple are on the defensive
      <hr/>
      
-      - *Get ready to spend two days rubbing virtual elbows with the global mobility community’s best and brightest minds and makers. TC Sessions: Mobility 2020 takes place October 6-7, and we’ve packed the agenda with experts, interviews, demos, panel discussions, br…*
+      - *Happy Labor Day and welcome back to Human Capital, where we unpack the latest in tech labor, and diversity, equity and inclusion. Human Capital will soon be available as a newsletter. Sign up here so you don’t miss it when it drops! This week, we’re looking a…*
      
+  - 5 Reasons you need to attend TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *Get ready to spend two days rubbing virtual elbows with the global mobility community’s best and brightest minds and makers. TC Sessions: Mobility 2020 takes place October 6-7, and we’ve packed the agenda with experts, interviews, demos, panel discussions, br…*
+      
   - This Labor Day, spare a thought for the workers who made your doorstep delivery possible
       <hr/>
       
@@ -73,16 +78,11 @@ I think it is inevitable that people program poorly. Training will not substanti
       <hr/>
       
       - *ThoughtRiver, a London-based legaltech startup that’s applying AI to speed up contract pre-screening, has announced a $10 million Series A round of funding led by Octopus Ventures. Existing seed investors Crane, Local Globe, Entrée Capital, Syndicate Room, an…*
-      
+       
   - Why a startup with $10M in annual revenue took 18 months to get VC funding
       <hr/>
-      
-      - *Back in 2006, Joseph Heller went to China where he spent the next decade learning about the manufacturing business. Based on that experience he eventually built a startup called The Studio. The idea was to help connect people with a small business idea to man…*
        
-  - The Disrupt 2020 Labor Day flash sale ends tonight
-      <hr/>
-       
-       - *As the Labor Day weekend winds down here in the states, so too does our flash sale and your chance to save $100 on a Digital Pro pass to Disrupt 2020. Fight off your holiday food coma long enough to buy your pass before 11:59 p.m. (PT) tonight. Disrupt 2020 t…*
+       - *Back in 2006, Joseph Heller went to China where he spent the next decade learning about the manufacturing business. Based on that experience he eventually built a startup called The Studio. The idea was to help connect people with a small business idea to man…*
       
 
 <br />
