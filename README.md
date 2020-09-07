@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 
-~ Lawrence Flon
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ There is no programming language, no matter how structured, that will prevent pr
 </pre>
 <strong>Daily News</strong>
   
-  - Daybridge, a time management app by former Monzo engineer Kieran McHugh, raises £750K seed
+  - Freshket lands $3 million Series A led by Openspace to streamline Thailand's food supply chain
      <hr/>
      
-      - *Daybridge, a productivity and time management app by former Monzo engineer Kieran McHugh, has picked by £750,000 in a seed round led by early Monzo backer, Passion Capital. Also participating is a number of London-based angel investors — including, I understa…*
+      - *Based in Bangkok, Freshket simplifies the process of getting fresh produce from farms to tables. Launched in 2017, the startup has now raised a $3 million Series A, led by Openspace Ventures. Other participants included Thai private equity firm ECG-Research; …*
      
+  - Daybridge, a time management app by former Monzo engineer Kieran McHugh, raises £750K seed
+      <hr/>
+      
+      - *Daybridge, a productivity and time management app by former Monzo engineer Kieran McHugh, has picked by £750,000 in a seed round led by early Monzo backer, Passion Capital. Also participating is a number of London-based angel investors — including, I understa…*
+      
   - Indian telecom giant Vodafone Idea rebrands to 'Vi'
       <hr/>
       
@@ -73,16 +78,11 @@ There is no programming language, no matter how structured, that will prevent pr
       <hr/>
       
       - *Meet Lokalise, a Latvian startup that focuses on translation and localization of apps, websites, games and more. The company provides a software-as-a-service product that helps you improve your workflow and processes when you need to update text in different …*
-      
+       
   - Meet the TC Top Picks for Disrupt 2020
       <hr/>
-      
-      - *We’ve been extremely privileged to witness thousands of early stage startups launch and take flight at Disrupt over the past 10 years, and they just keep getting bettter. You’ll be hard-pressed to find more creative, game-changing startups than the ones that …*
        
-  - Chief CEO Carolyn Childers, Reboot.io CEO Jerry Colona, Ureeka co-founder Melissa Bradley are coming to Disrupt 2020
-      <hr/>
-       
-       - *Becoming a successful leader isn’t a one-size-fits-all formula. Each startup — depending on the industry and internal culture — has its own needs. The hard part is figuring out what leadership style best suits the personality of the CEO or founder as well as …*
+       - *We’ve been extremely privileged to witness thousands of early stage startups launch and take flight at Disrupt over the past 10 years, and they just keep getting bettter. You’ll be hard-pressed to find more creative, game-changing startups than the ones that …*
       
 
 <br />
