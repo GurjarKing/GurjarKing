@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 
-~ Bill Gates
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
