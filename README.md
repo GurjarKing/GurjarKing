@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 
-~ Alan Kay
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
