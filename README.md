@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
 
-~ Charles Babbage
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbag
 </pre>
 <strong>Daily News</strong>
   
-  - Apple iCloud, Google Drive and Dropbox probed over 'unfair' T&Cs in Italy
+  - Why a startup with $10M in annual revenue took 18 months to get VC funding
      <hr/>
      
-      - *Italy’s competition authority has opened an investigation into cloud storage services operated by Apple, Dropbox and Google, in response to a number of complaints alleging unfair commercial practices. In a press release announcing the probe, the AGCM says it’…*
+      - *Back in 2006, Joseph Heller went to China where he spent the next decade learning about the manufacturing business. Based on that experience he eventually built a startup called The Studio. The idea was to help connect people with a small business idea to man…*
      
+  - The Disrupt 2020 Labor Day flash sale ends tonight
+      <hr/>
+      
+      - *As the Labor Day weekend winds down here in the states, so too does our flash sale and your chance to save $100 on a Digital Pro pass to Disrupt 2020. Fight off your holiday food coma long enough to buy your pass before 11:59 p.m. (PT) tonight. Disrupt 2020 t…*
+      
+  - Apple iCloud, Google Drive and Dropbox probed over 'unfair' T&Cs in Italy
+      <hr/>
+      
+      - *Italy’s competition authority has opened an investigation into cloud storage services operated by Apple, Dropbox and Google, in response to a number of complaints alleging unfair commercial practices. In a press release announcing the probe, the AGCM says it’…*
+      
   - Revolut loses its head of regulatory compliance, hires two former Amazon execs
       <hr/>
       
       - *More personnel changes at Revolut are in motion, as a key member of the leadership team leaves for Barclays, and two former Amazon staffers join the London headquartered neoank. TechCrunch understands that Chris Sing, Revolut’s head of regulatory compliance i…*
-      
+       
   - BIMA nabs $30M more for micro- health and life insurance aimed at emerging markets
       <hr/>
-      
-      - *The coronavirus global health pandemic — and the new emphasis on social distancing to slow down the spread of COVID-19 — has put healthcare and tech services used to enable healthcare remotely under the spotlight. Today a startup that’s building microinsuranc…*
-      
-  - China bans Scratch, MIT's programming language for kids
-      <hr/>
-      
-      - *China’s enthusiasm for teaching children to code is facing a new roadblock as organizations and students lose an essential tool: the Scratch programming language developed by the Lifelong Kindergarten Group at the MIT Media Lab. China-based internet users can…*
        
-  - HumanForest gets $2.3M from Cabify founders and others to grow a 'free' e-bike sharing service
-      <hr/>
-       
-       - *HumanForest, a dockless, shared and ad-supported e-bike service which began trialling a service in London this June, has taken in its first tranche of external funding. The £1.8 million (~$2.3M) investment comes from backers in the mobility space, including J…*
+       - *The coronavirus global health pandemic — and the new emphasis on social distancing to slow down the spread of COVID-19 — has put healthcare and tech services used to enable healthcare remotely under the spotlight. Today a startup that’s building microinsuranc…*
       
 
 <br />
