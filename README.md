@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What I cannot build, I do not understand.
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 
-~ Richard Feynman
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
