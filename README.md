@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 
-~ Edsger W. Dijkstra
+~ Ken Thompson
 <pre>
 
 </pre>
