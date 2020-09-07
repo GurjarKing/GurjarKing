@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 
-~ Danny Hillis
+~ Anders Hejlsberg
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ With the right programming, a computer can become a theater, a musical instrumen
 </pre>
 <strong>Daily News</strong>
   
-  - Freshket lands $3 million Series A led by Openspace to streamline Thailand's food supply chain
+  - HumanForest gets $2.3M from Cabify founders and others to grow a 'free' e-bike sharing service
      <hr/>
      
-      - *Based in Bangkok, Freshket simplifies the process of getting fresh produce from farms to tables. Launched in 2017, the startup has now raised a $3 million Series A, led by Openspace Ventures. Other participants included Thai private equity firm ECG-Research; …*
+      - *HumanForest, a dockless, shared and ad-supported e-bike service which began trialling a service in London this June, has taken in its first tranche of external funding. The £1.8 million (~$2.3M) investment comes from backers in the mobility space, including J…*
      
+  - Freshket lands $3 million Series A led by Openspace to streamline Thailand's food supply chain
+      <hr/>
+      
+      - *Based in Bangkok, Freshket simplifies the process of getting fresh produce from farms to tables. Launched in 2017, the startup has now raised a $3 million Series A, led by Openspace Ventures. Other participants included Thai private equity firm ECG-Research; …*
+      
   - Daybridge, a time management app by former Monzo engineer Kieran McHugh, raises £750K seed
       <hr/>
       
@@ -73,16 +78,11 @@ With the right programming, a computer can become a theater, a musical instrumen
       <hr/>
       
       - *Vodafone Idea, one of the largest telecom operators in India, has rebranded to ‘Vi’ as it looks to better leverage the unified venture between British telecom giant Vodafone Group’s India business and billionaire Kumar Mangalam Birla’s Idea Cellular two years…*
-      
+       
   - Lokalise raises $6 million to make it easier to localize your product
       <hr/>
-      
-      - *Meet Lokalise, a Latvian startup that focuses on translation and localization of apps, websites, games and more. The company provides a software-as-a-service product that helps you improve your workflow and processes when you need to update text in different …*
        
-  - Meet the TC Top Picks for Disrupt 2020
-      <hr/>
-       
-       - *We’ve been extremely privileged to witness thousands of early stage startups launch and take flight at Disrupt over the past 10 years, and they just keep getting bettter. You’ll be hard-pressed to find more creative, game-changing startups than the ones that …*
+       - *Meet Lokalise, a Latvian startup that focuses on translation and localization of apps, websites, games and more. The company provides a software-as-a-service product that helps you improve your workflow and processes when you need to update text in different …*
       
 
 <br />
