@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
+Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
 
-~ Gary Kildall
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I don't comment on the code itself because I feel that properly written code is 
 </pre>
 <strong>Daily News</strong>
   
-  - The Shed is a startup out of Virginia trying to revive the rental-for-everything business
+  - The Station: Yandex spins out self-driving biz, Ike takes the SaaS road and a solid-state battery startup strikes SPAC
      <hr/>
      
-      - *Reducing consumption by expanding the notion of the rental economy and giving people access to tools and equipment has been something of a startup holy grail for some time. It’s a model that’s worked famously well for fashion and accessories (just ask investo…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peop…*
      
+  - The Shed is a startup out of Virginia trying to revive the rental-for-everything business
+      <hr/>
+      
+      - *Reducing consumption by expanding the notion of the rental economy and giving people access to tools and equipment has been something of a startup holy grail for some time. It’s a model that’s worked famously well for fashion and accessories (just ask investo…*
+      
   - Human Capital: Workers are upset about labor practices, and Amazon and Apple are on the defensive
       <hr/>
       
@@ -73,16 +78,11 @@ I don't comment on the code itself because I feel that properly written code is 
       <hr/>
       
       - *Get ready to spend two days rubbing virtual elbows with the global mobility community’s best and brightest minds and makers. TC Sessions: Mobility 2020 takes place October 6-7, and we’ve packed the agenda with experts, interviews, demos, panel discussions, br…*
-      
+       
   - This Labor Day, spare a thought for the workers who made your doorstep delivery possible
       <hr/>
-      
-      - *This Labor Day, it’s time to think about how corporations can better support and protect this vital but often forgotten segment of the workforce.*
        
-  - ThoughtRiver nabs $10M to speed up deal-making with AI contract review
-      <hr/>
-       
-       - *ThoughtRiver, a London-based legaltech startup that’s applying AI to speed up contract pre-screening, has announced a $10 million Series A round of funding led by Octopus Ventures. Existing seed investors Crane, Local Globe, Entrée Capital, Syndicate Room, an…*
+       - *This Labor Day, it’s time to think about how corporations can better support and protect this vital but often forgotten segment of the workforce.*
       
 
 <br />
