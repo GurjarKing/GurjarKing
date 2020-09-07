@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+What I cannot build, I do not understand.
 
-~ Fred Brooks
+~ Richard Feynman
 <pre>
 
 </pre>
