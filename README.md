@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It is easier to change the specification to fit the program than vice versa.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
-~ Alan Perlis
+~ Ted Nelson
 <pre>
 
 </pre>
