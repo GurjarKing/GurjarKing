@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
 
-~ George Carrette
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ First learn computer science and all the theory. Next develop a programming styl
 </pre>
 <strong>Daily News</strong>
   
-  - PopSQL raises $3.4M seed round for its collaborative SQL editor
+  - Android 11 has arrived
      <hr/>
      
-      - *PopSQL, a startup that builds a collaborative SQL editor for teams, today announced that it has raised a $3.4 million seed round led by Google’s AI-focused Gradient Ventures fund. Other participants include Y Combinator and FundersClub, as well as angel inves…*
+      - *Google today announced the launch of Android 11, the latest version of its mobile operating system. After a slightly longer public preview, users who own a select number of Pixel devices (starting with the Pixel 2), OnePlus, Xiaomi, OPPO or realme phones will…*
      
+  - Meet the final round judges who will decide the winner of this year's Disrupt Battlefield Competition
+      <hr/>
+      
+      - *It’s never easy, deciding which of the 20 companies that make it into the Disrupt Battlefield Competition will be anointed its winner. There’s just so much at stake each year and this year at Disrupt 2020 this September 14-18 the stakes are even higher. For t…*
+      
+  - PopSQL raises $3.4M seed round for its collaborative SQL editor
+      <hr/>
+      
+      - *PopSQL, a startup that builds a collaborative SQL editor for teams, today announced that it has raised a $3.4 million seed round led by Google’s AI-focused Gradient Ventures fund. Other participants include Y Combinator and FundersClub, as well as angel inves…*
+      
   - Committing to a fully zero-emission fleet by 2040, Uber is dedicating $800 million to electrifying its drivers
       <hr/>
       
       - *Ride hailing giant Uber is committing to become a fully zero-emission platform by 2040 and setting aside $800 million to help get its drivers using electric vehicles by 2025. The company said that it would invest further in its micro-mobility options as well …*
-      
+       
   - Apple’s next event is September 15
       <hr/>
-      
-      - *The rumors of a new Apple Watch and iPad has thus far proven untrue. One thing that did pan out, however, is an invite for the company’s next big (virtual) event. Apple just announced that its annual Fall event will kick off September 15 at 10am PT. This may …*
-      
-  - JFrog's IPO strong initial price range values it ahead of the larger Sumo Logic
-      <hr/>
-      
-      - *Despite the public markets posting a few days of losses, the IPO wave continues to crest as a number of well-known technology companies line up to float their equity on American exchanges. Most recently we saw e-commerce giant Wish file (albeit privately) and…*
        
-  - Why established venture firms should court emerging managers
-      <hr/>
-       
-       - *In a VC ecosystem that has now looked up long enough to embrace the Black Lives Matter affirmation and the diversity conversations that have followed, firms are thinking creatively about how they access investment opportunities by underrepresented talent.*
+       - *The rumors of a new Apple Watch and iPad has thus far proven untrue. One thing that did pan out, however, is an invite for the company’s next big (virtual) event. Apple just announced that its annual Fall event will kick off September 15 at 10am PT. This may …*
       
 
 <br />
