@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Software engineering is the part of computer science which is too difficult for the computer scientist.
+Any sufficiently advanced technology is indistinguishable from magic.
 
-~ Friedrich Bauer
+~ Arthur C. Clarke
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Software engineering is the part of computer science which is too difficult for 
 </pre>
 <strong>Daily News</strong>
   
-  - Lidar startup Ouster raises $42M in push to grow sales, diversify products
+  - DNX Ventures launches $315 million fund for U.S. and Japanese B2B startups
      <hr/>
      
-      - *Lidar startup Ouster has spent the past several years expanding and improving its line of sensors as it jostles for a piece of the crowded and competitive market place. Now, Ouster says it has raised $42 million, fresh capital that will be used to fund produc…*
+      - *DNX Ventures, an investment firm that focuses on early-stage B2B startups in Japan and the United States, announced today that it has closed a new $315 million fund. This is DNX’s third flagship fund and along with supplementary annexed funds, brings its tota…*
      
+  - Lidar startup Ouster raises $42M in push to grow sales, diversify products
+      <hr/>
+      
+      - *Lidar startup Ouster has spent the past several years expanding and improving its line of sensors as it jostles for a piece of the crowded and competitive market place. Now, Ouster says it has raised $42 million, fresh capital that will be used to fund produc…*
+      
   - Snowflake's IPO could value it as high as $24B, Salesforce and Berkshire to invest
       <hr/>
       
@@ -73,16 +78,11 @@ Software engineering is the part of computer science which is too difficult for 
       <hr/>
       
       - *Apple has filed a countersuit against Epic over the latter’s attempt to circumvent App Store rules and avoid paying millions in fees. The lawsuit alleges that Epic is deliberately in breach of contract and asks the court to award damages and prohibit Epic fro…*
-      
+       
   - Drew Houston will talk about building a startup and digital transformation during COVID at TechCrunch Disrupt
       <hr/>
-      
-      - *Dropbox CEO Drew Houston will be joining us for a one on one interview at this year’s TechCrunch Disrupt happening next week from September 14-18. Houston has been there and done that as a startup founder. After attending Y Combinator in 2007 and launching at…*
        
-  - Shred monsters as Zelda and others in 'Breath of the Wild' prequel 'Hyrule Warriors: Age of Calamity'
-      <hr/>
-       
-       - *Nintendo has announced a surprise spin-off prequel to its modern classic Breath of the Wild, an action-focused game called Hyrule Warriors: Age of Calamity. You’ll play the role of Link, as usual, but also the four champions and Princess Zelda herself, in att…*
+       - *Dropbox CEO Drew Houston will be joining us for a one on one interview at this year’s TechCrunch Disrupt happening next week from September 14-18. Houston has been there and done that as a startup founder. After attending Y Combinator in 2007 and launching at…*
       
 
 <br />
