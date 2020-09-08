@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+The purpose of computing is insight, not numbers.
 
-~ Alan Kay
+~ Richard Hamming
 <pre>
 
 </pre>
