@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In my second year in graduate school, I took a computer course and that was like lightening striking.
+Humanity is acquiring all the right technology for all the wrong reasons.
 
-~ Ted Nelson
+~ Buckminster Fuller
 <pre>
 
 </pre>
