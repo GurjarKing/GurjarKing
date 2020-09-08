@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We could, for instance, begin with cleaning up our language by no longer calling a bug a bug but by calling it an error. It is much more honest because it squarely puts the blame where it belongs, viz. with the programmer who made the error. The animistic metaphor of the bug that maliciously sneaked in while the programmer was not looking is intellectually dishonest as it disguises that the error is the programmer's own creation. The nice thing of this simple change of vocabulary is that it has such a profound effect: while, before, a program with only one bug used to be "almost correct", afterwards a program with an error is just "wrong".
+You can’t trust code that you did not totally create yourself.
 
-~ Edsger W. Dijkstra
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ We could, for instance, begin with cleaning up our language by no longer calling
 </pre>
 <strong>Daily News</strong>
   
-  - 'Mulan' drove Disney+ app downloads up 68% week-over-week, but didn't beat 'Hamilton'
+  - Sennheiser's MKE 200 on-camera microphone is the perfect home videoconferencing upgrade
      <hr/>
      
-      - *Disney’s live-action remake of “Mulan” skipped theaters to instead stream on Disney+ over the weekend, for the added fee of $30. According to early data, the launch helped grow Disney+ mobile installs by 68%, compared with one week prior. Consumer spending in…*
+      - *Sennheiser has just released a new on-camera, directional microphone. The compact MKE 200 ($99.95) puts a lot of convenience and performance into a small, portable package – one that’s great for go-anywhere vlogging once that’s a reasonable option again, and …*
      
+  - Tesla shares drop sharply in broader tech selloff, falling 17% in morning trading
+      <hr/>
+      
+      - *Last Thursday and Friday’s public market selloff has stretched into this week, with the tech-heavy Nasdaq Composite off 2.5% this morning. But while tech shares are down broadly to start the holiday-shortened week — and are taking stick for bringing down even…*
+      
+  - Equity Monday: JFrog and Sumo Logic set initial IPO prices amidst wave of interesting private rounds
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      
+  - 'Mulan' drove Disney+ app downloads up 68% week-over-week, but didn't beat 'Hamilton'
+      <hr/>
+      
+      - *Disney’s live-action remake of “Mulan” skipped theaters to instead stream on Disney+ over the weekend, for the added fee of $30. According to early data, the launch helped grow Disney+ mobile installs by 68%, compared with one week prior. Consumer spending in…*
+       
   - 9 proptech investors talk co-living, home offices and other pandemic trends
       <hr/>
-      
-      - *The real estate industry — like so many other sectors — was forced to adapt this year. Now, investors are ready to pour capital into the startups they believe are best-positioned in this new era, from companies tackling construction tech, financing and digita…*
-      
-  - General Motors takes $2 billion stake in electric truck startup Nikola
-      <hr/>
-      
-      - *Nikola and General Motors today announced a strategic partnership. Through the deal, GM gets 11% ownership in startup Nikola, and will, in turn, produce Nikola’s wild fuel cell pickup truck by the end of 2022. Both companies’ shares jumped on the news, with N…*
-      
-  - Progress snags software automation platform Chef for $220M
-      <hr/>
-      
-      - *Progress, a Boston area developer tool company, boosted its offerings in a big way today when it announced it was acquiring software automation platform Chef for $220 million. Chef, which went 100% open source last year, had annual recurring revenue (ARR) of …*
        
-  - Google Cloud launches its Business Application Platform based on Apigee and AppSheet
-      <hr/>
-       
-       - *Unlike some of its competitors, Google Cloud has recently started emphasizing how its large lineup of different services can be combined to solve common business problems. Instead of trying to sell individual services, Google is focusing on solutions and the …*
+       - *The real estate industry — like so many other sectors — was forced to adapt this year. Now, investors are ready to pour capital into the startups they believe are best-positioned in this new era, from companies tackling construction tech, financing and digita…*
       
 
 <br />
