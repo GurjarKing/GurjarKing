@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Humanity is acquiring all the right technology for all the wrong reasons.
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 
-~ Buckminster Fuller
+~ George Carrette
 <pre>
 
 </pre>
