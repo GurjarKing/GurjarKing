@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+The best way to predict the future is to invent it.
 
-~ Fred Brooks
+~ Alan Kay
 <pre>
 
 </pre>
