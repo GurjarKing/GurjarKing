@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best thing about a boolean is even if you are wrong, you are only off by a bit.
+A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
 
-~ Anonymous
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The best thing about a boolean is even if you are wrong, you are only off by a b
 </pre>
 <strong>Daily News</strong>
   
-  - Shred monsters as Zelda and others in 'Breath of the Wild' prequel 'Hyrule Warriors: Age of Calamity'
+  - Drew Houston will talk about building a startup and digital transformation during COVID at TechCrunch Disrupt
      <hr/>
      
-      - *Nintendo has announced a surprise spin-off prequel to its modern classic Breath of the Wild, an action-focused game called Hyrule Warriors: Age of Calamity. You’ll play the role of Link, as usual, but also the four champions and Princess Zelda herself, in att…*
+      - *Dropbox CEO Drew Houston will be joining us for a one on one interview at this year’s TechCrunch Disrupt happening next week from September 14-18. Houston has been there and done that as a startup founder. After attending Y Combinator in 2007 and launching at…*
      
+  - Shred monsters as Zelda and others in 'Breath of the Wild' prequel 'Hyrule Warriors: Age of Calamity'
+      <hr/>
+      
+      - *Nintendo has announced a surprise spin-off prequel to its modern classic Breath of the Wild, an action-focused game called Hyrule Warriors: Age of Calamity. You’ll play the role of Link, as usual, but also the four champions and Princess Zelda herself, in att…*
+      
   - Apple expands its podcast footprint with Oprah's Book Club series
       <hr/>
       
@@ -73,16 +78,11 @@ The best thing about a boolean is even if you are wrong, you are only off by a b
       <hr/>
       
       - *After a data breach, one U.S. company did everything right.*
-      
+       
   - AngelList pioneers rolling VC funds in pivot to SaaS
       <hr/>
-      
-      - *When AngelList first launched rolling funds, an investment vehicle that raises money through a quarterly subscription from interested investors, the company looked at it as a bet. But early interest from emerging fund managers indicates that rolling funds mig…*
        
-  - NASA issues new call for lunar payload deliveries from its commercial Moon lander partners
-      <hr/>
-       
-       - *NASA wants its private commercial space company partners to make more Moon deliveries on its behalf: The agency just issued another request for scientific and experimental payloads that need lunar delivery sometime in 2022, in part to help pave the way for NA…*
+       - *When AngelList first launched rolling funds, an investment vehicle that raises money through a quarterly subscription from interested investors, the company looked at it as a bet. But early interest from emerging fund managers indicates that rolling funds mig…*
       
 
 <br />
