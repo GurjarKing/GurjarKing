@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer programs are the most complex things that humans make.
+Object-oriented design is the roman numerals of computing.
 
-~ Douglas Crockford
+~ Rob Pike
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Computer programs are the most complex things that humans make.
 </pre>
 <strong>Daily News</strong>
   
-  - Google Cloud launches its Business Application Platform based on Apigee and AppSheet
+  - 9 proptech investors talk co-living, home offices and other pandemic trends
      <hr/>
      
-      - *Unlike some of its competitors, Google Cloud has recently started emphasizing how its large lineup of different services can be combined to solve common business problems. Instead of trying to sell individual services, Google is focusing on solutions and the …*
+      - *The real estate industry — like so many other sectors — was forced to adapt this year. Now, investors are ready to pour capital into the startups they believe are best-positioned in this new era, from companies tackling construction tech, financing and digita…*
      
+  - General Motors takes $2 billion stake in electric truck startup Nikola
+      <hr/>
+      
+      - *Nikola and General Motors today announced a strategic partnership. Through the deal, GM gets 11% ownership in startup Nikola, and will, in turn, produce Nikola’s wild fuel cell pickup truck by the end of 2022. Both companies’ shares jumped on the news, with N…*
+      
+  - Progress snags software automation platform Chef for $220M
+      <hr/>
+      
+      - *Progress, a Boston area developer tool company, boosted its offerings in a big way today when it announced it was acquiring software automation platform Chef for $220 million. Chef, which went 100% open source last year, had annual recurring revenue (ARR) of …*
+      
+  - Google Cloud launches its Business Application Platform based on Apigee and AppSheet
+      <hr/>
+      
+      - *Unlike some of its competitors, Google Cloud has recently started emphasizing how its large lineup of different services can be combined to solve common business problems. Instead of trying to sell individual services, Google is focusing on solutions and the …*
+       
   - Peloton launches new Bike+ and Tread smart home gym equipment, both at $2,495
       <hr/>
-      
-      - *Peloton has launched two new products for its home smart gym lineup, the Bike+ ($2,495) and the Tread ($2,495). While both carry the same price tag, the new exercise bike joins as the premium version of Peloton’s original stationary cycle, which will remain o…*
-      
-  - China presents 'global standard for data security'
-      <hr/>
-      
-      - *As tensions between the U.S. and China heighten over data security issues, Beijing took a proactive step to unveil a “data security initiative” that it believes can serve as “a global standard for data security.” The Chinese State Councilor and Foreign Minist…*
-      
-  - Microsoft confirms compact, $299 Xbox Series S next-gen game console
-      <hr/>
-      
-      - *Microsoft has confirmed via its official Xbox Twitter account that a discless, tiny Xbox called the Series S will be released alongside its forthcoming Xbox Series X. The Series S was initially leaked late Monday, first by Brad Sams on Twitter, and also by Wa…*
        
-  - Diffblue launches a free community edition of its automated Java unit testing tool
-      <hr/>
-       
-       - *Diffblue, a spin-out from Oxford University, uses machine learning to help developers automatically create unit tests for their Java code. Since few developers enjoy writing unit tests to ensure that their code works as expected, increased automation doesn’t …*
+       - *Peloton has launched two new products for its home smart gym lineup, the Bike+ ($2,495) and the Tread ($2,495). While both carry the same price tag, the new exercise bike joins as the premium version of Peloton’s original stationary cycle, which will remain o…*
       
 
 <br />
