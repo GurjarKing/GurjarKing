@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+It is easier to change the specification to fit the program than vice versa.
 
-~ Danny Hillis
+~ Alan Perlis
 <pre>
 
 </pre>
