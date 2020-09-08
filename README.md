@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+Computer programs are the most complex things that humans make.
 
-~ Donald Knuth
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Email is a wonderful thing for people whose role in life is to be on top of thin
 </pre>
 <strong>Daily News</strong>
   
-  - Diffblue launches a free community edition of its automated Java unit testing tool
+  - Google Cloud launches its Business Application Platform based on Apigee and AppSheet
      <hr/>
      
-      - *Diffblue, a spin-out from Oxford University, uses machine learning to help developers automatically create unit tests for their Java code. Since few developers enjoy writing unit tests to ensure that their code works as expected, increased automation doesn’t …*
+      - *Unlike some of its competitors, Google Cloud has recently started emphasizing how its large lineup of different services can be combined to solve common business problems. Instead of trying to sell individual services, Google is focusing on solutions and the …*
      
-  - TikTok joins Europe's code on tackling hate speech
+  - Peloton launches new Bike+ and Tread smart home gym equipment, both at $2,495
       <hr/>
       
-      - *TikTok, the popular short video sharing app, has joined the European Union’s Code of Conduct on Countering Illegal Hate Speech. In a statement on joining the code, TikTok’s head of trust and safety for EMEA, Cormac Keenan, said: “We have never allowed hate on…*
+      - *Peloton has launched two new products for its home smart gym lineup, the Bike+ ($2,495) and the Tread ($2,495). While both carry the same price tag, the new exercise bike joins as the premium version of Peloton’s original stationary cycle, which will remain o…*
       
-  - Thunes, a fintech startup serving emerging markets, raises $60 million led by Africa-focused Helios Investment Partners
+  - China presents 'global standard for data security'
       <hr/>
       
-      - *Thunes, a Singapore-based startup developing a cross-border payments network to make financial services more accessible in emerging markets, announced today it has raised a $60 million Series B. The round was led by Africa-focused firm Helios Investment Partn…*
+      - *As tensions between the U.S. and China heighten over data security issues, Beijing took a proactive step to unveil a “data security initiative” that it believes can serve as “a global standard for data security.” The Chinese State Councilor and Foreign Minist…*
       
-  - Skin Analytics raises £4M Series A to use AI for skin cancer screening
+  - Microsoft confirms compact, $299 Xbox Series S next-gen game console
       <hr/>
       
-      - *Skin Analytics, a U.K.-based startup that has developed a skin cancer screening service that uses artificial intelligence, has raised £4 million in Series A funding. The round was led by Hoxton Ventures, with participation from Nesta and Mustard Seed Ventures…*
+      - *Microsoft has confirmed via its official Xbox Twitter account that a discless, tiny Xbox called the Series S will be released alongside its forthcoming Xbox Series X. The Series S was initially leaked late Monday, first by Brad Sams on Twitter, and also by Wa…*
        
-  - PUBG cuts publishing ties with Tencent Games in India a week after ban
+  - Diffblue launches a free community edition of its automated Java unit testing tool
       <hr/>
        
-       - *PUBG said on Tuesday Chinese giant Tencent Games will no longer be the publishing partner of the popular game in India as it attempts to allay concerns of New Delhi, which banned the game and 117 other apps last week. Prior to Tuesday’s announcement, Tencent …*
+       - *Diffblue, a spin-out from Oxford University, uses machine learning to help developers automatically create unit tests for their Java code. Since few developers enjoy writing unit tests to ensure that their code works as expected, increased automation doesn’t …*
       
 
 <br />
