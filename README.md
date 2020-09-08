@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Object-oriented design is the roman numerals of computing.
+We could, for instance, begin with cleaning up our language by no longer calling a bug a bug but by calling it an error. It is much more honest because it squarely puts the blame where it belongs, viz. with the programmer who made the error. The animistic metaphor of the bug that maliciously sneaked in while the programmer was not looking is intellectually dishonest as it disguises that the error is the programmer's own creation. The nice thing of this simple change of vocabulary is that it has such a profound effect: while, before, a program with only one bug used to be "almost correct", afterwards a program with an error is just "wrong".
 
-~ Rob Pike
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Object-oriented design is the roman numerals of computing.
 </pre>
 <strong>Daily News</strong>
   
-  - 9 proptech investors talk co-living, home offices and other pandemic trends
+  - 'Mulan' drove Disney+ app downloads up 68% week-over-week, but didn't beat 'Hamilton'
      <hr/>
      
-      - *The real estate industry — like so many other sectors — was forced to adapt this year. Now, investors are ready to pour capital into the startups they believe are best-positioned in this new era, from companies tackling construction tech, financing and digita…*
+      - *Disney’s live-action remake of “Mulan” skipped theaters to instead stream on Disney+ over the weekend, for the added fee of $30. According to early data, the launch helped grow Disney+ mobile installs by 68%, compared with one week prior. Consumer spending in…*
      
+  - 9 proptech investors talk co-living, home offices and other pandemic trends
+      <hr/>
+      
+      - *The real estate industry — like so many other sectors — was forced to adapt this year. Now, investors are ready to pour capital into the startups they believe are best-positioned in this new era, from companies tackling construction tech, financing and digita…*
+      
   - General Motors takes $2 billion stake in electric truck startup Nikola
       <hr/>
       
@@ -73,16 +78,11 @@ Object-oriented design is the roman numerals of computing.
       <hr/>
       
       - *Progress, a Boston area developer tool company, boosted its offerings in a big way today when it announced it was acquiring software automation platform Chef for $220 million. Chef, which went 100% open source last year, had annual recurring revenue (ARR) of …*
-      
+       
   - Google Cloud launches its Business Application Platform based on Apigee and AppSheet
       <hr/>
-      
-      - *Unlike some of its competitors, Google Cloud has recently started emphasizing how its large lineup of different services can be combined to solve common business problems. Instead of trying to sell individual services, Google is focusing on solutions and the …*
        
-  - Peloton launches new Bike+ and Tread smart home gym equipment, both at $2,495
-      <hr/>
-       
-       - *Peloton has launched two new products for its home smart gym lineup, the Bike+ ($2,495) and the Tread ($2,495). While both carry the same price tag, the new exercise bike joins as the premium version of Peloton’s original stationary cycle, which will remain o…*
+       - *Unlike some of its competitors, Google Cloud has recently started emphasizing how its large lineup of different services can be combined to solve common business problems. Instead of trying to sell individual services, Google is focusing on solutions and the …*
       
 
 <br />
