@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The separation of architectural effort from implementation is a very powerful wa
 </pre>
 <strong>Daily News</strong>
   
-  - Hear from the CEO Porsche Cars North America on electrifying the sports car
+  - Postmates becomes the official on-demand food delivery partner of the NFL
      <hr/>
      
-      - *Few electric cars made a bigger splash than the new Porsche Taycan. As President and CEO of Porsche Cars North America Klaus Zellmer has the tall order of bringing the electric sedan to America and selling it against Tesla on Tesla’s home turf. He also overse…*
+      - *The National Football League naming Postmates as its very first on-demand food delivery partner. In this context, a partnership means a multi-year sponsorship, which also makes Postmates a sponsor of the Super Bowl. And as the season kicks off with the Kansas…*
      
-  - Three days left to save on passes to TC Sessions: Mobility 2020
+  - Voice assistants don’t work for kids: The problem with speech recognition in the classroom
       <hr/>
       
-      - *Electric vehicles, dock-less scooters, autonomous trucks, ride-hailing apps and the AI that fuels them all — it’s a world of transportation that even a visionary like Leonardo Da Vinci could scarcely imagine. On October 6-7, modern-day visionaries from around…*
+      - *Young "remote learners" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.*
       
-  - Shift's George Arison shares 6 tips for taking your company public via a SPAC
+  - Hear from the CTOs of Peloton and DoorDash on how to build a service marketplace
       <hr/>
       
-      - *Even if you’ve been through a successful IPO process, you’ll still need to educate yourself — the SPAC process and the IPO process are completely different.*
+      - *Peloton and DoorDash probably don’t seem to have much in common, but the connected fitness platform and food delivery app have both built massive service businesses that are touching millions. We’re amped to announce that Peloton co-founder/CTO Yong Feng and …*
       
-  - As the smartphone market declines, 5G models are set to see continued growth in 2020
+  - Dear Sophie: What is a J-1 visa and how can we use it?
       <hr/>
       
-      - *Things have gone from bad to worse for a stumbling smartphone market in 2020. Already plateauing and decline figures have taken a big hit from COVID-19. The pandemic has hampered sales of non-essential items, particularly those best enjoyed outside of the hom…*
+      - *A Silicon Valley immigration lawyer explains how to participate in the J-1 visa program.*
        
-  - Greenstop launches its cannabis vending machine in California dispensaries
+  - Hear from the CEO Porsche Cars North America on electrifying the sports car
       <hr/>
        
-       - *Cannabis is now available from vending machines in select California dispensaries. Made by California-based Greenstop, the self-serve kiosks can simultaneously serve four customers while still conforming to local regulations. And they couldn’t come at a bette…*
+       - *Few electric cars made a bigger splash than the new Porsche Taycan. As President and CEO of Porsche Cars North America Klaus Zellmer has the tall order of bringing the electric sedan to America and selling it against Tesla on Tesla’s home turf. He also overse…*
       
 
 <br />
