@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 
-~ Edsger W. Dijkstra
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If you want more effective programmers, you will discover that they should not w
 </pre>
 <strong>Daily News</strong>
   
-  - Postmates becomes the official on-demand food delivery partner of the NFL
+  - As direct listing looms, Palantir insiders are accelerating stock sales
      <hr/>
      
-      - *The National Football League naming Postmates as its very first on-demand food delivery partner. In this context, a partnership means a multi-year sponsorship, which also makes Postmates a sponsor of the Super Bowl. And as the season kicks off with the Kansas…*
+      - *According to Palantir’s latest S-1 amended filing published this morning, the company intends to start trading in two weeks on September 23 under the ticker PLTR. That gives us a bit of time to speculate about how the company will perform on the public market…*
      
+  - Watch the first trailer for the insanely star-studded 'Dune'
+      <hr/>
+      
+      - *That strange feeling? That’s the sensation of being excited about new movies again. Now that theaters are slowly reopening (though not yet in New York or most of California, and I am 100% okay with that), studios are once again releasing trailers to hype up t…*
+      
+  - Women exhibitors in Digital Startup Alley: Meet female-focused accelerators
+      <hr/>
+      
+      - *Women founders who exhibit in Digital Startup Alley at Disrupt 2020, this opportunity’s designed with you in mind. Don’t miss your chance to meet with — and pitch to — accelerators focused on women entrepreneurs. We partnered with cela to bring accelerators t…*
+      
+  - Postmates becomes the official on-demand food delivery partner of the NFL
+      <hr/>
+      
+      - *The National Football League naming Postmates as its very first on-demand food delivery partner. In this context, a partnership means a multi-year sponsorship, which also makes Postmates a sponsor of the Super Bowl. And as the season kicks off with the Kansas…*
+       
   - Voice assistants don’t work for kids: The problem with speech recognition in the classroom
       <hr/>
-      
-      - *Young "remote learners" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.*
-      
-  - Hear from the CTOs of Peloton and DoorDash on how to build a service marketplace
-      <hr/>
-      
-      - *Peloton and DoorDash probably don’t seem to have much in common, but the connected fitness platform and food delivery app have both built massive service businesses that are touching millions. We’re amped to announce that Peloton co-founder/CTO Yong Feng and …*
-      
-  - Dear Sophie: What is a J-1 visa and how can we use it?
-      <hr/>
-      
-      - *A Silicon Valley immigration lawyer explains how to participate in the J-1 visa program.*
        
-  - Hear from the CEO Porsche Cars North America on electrifying the sports car
-      <hr/>
-       
-       - *Few electric cars made a bigger splash than the new Porsche Taycan. As President and CEO of Porsche Cars North America Klaus Zellmer has the tall order of bringing the electric sedan to America and selling it against Tesla on Tesla’s home turf. He also overse…*
+       - *Young "remote learners" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.*
       
 
 <br />
