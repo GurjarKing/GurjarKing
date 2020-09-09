@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 
-~ Richard Feynman
+~ Marijn Haverbeke
 <pre>
 
 </pre>
