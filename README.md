@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
+When debugging, novices insert corrective code; experts remove defective code.
 
-~ Richard Stallman
+~ Richard E. Pattis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The most powerful programming language is Lisp. If you don't know Lisp (or its v
 </pre>
 <strong>Daily News</strong>
   
-  - Zymergen raised $300 million because synthetic biology is so hot right now
+  - Microsoft confirms $499 Xbox Series X arrives November 10, pre-orders begin September 22
      <hr/>
      
-      - *Zymergen, one of the companies that’s developing biomanufacturing technologies which could reshape any number of industries, said it has raised $300 million in financing yesterday. It’s part of a wave of biotech companies that TechCrunch covered in depth last…*
+      - *The flagship Xbox Series X is arriving on November 10, and will carry a retail price tag of $499, Microsoft confirmed on Wednesday. The console will also be available for pre-orders beginning on September 22. Alongside the Xbox Series X console, Microsoft is …*
      
-  - Deel nabs $30M more for payroll, compliance and other tools to run global workforces
+  - Rolling up the latest in startup health insurance offerings, Sana Benefits raises $20.8 million
       <hr/>
       
-      - *Remote working has become the norm for many of us not on the frontlines, and what’s been notable is that this is also changing the mindset for a lot of organizations, which are now hiring from an increasingly global talent pool. Today, a startup called Deel —…*
+      - *Sana Benefits, a manager of self-funded insurance plans for small businesses, said it has raised $20.8 million in a recent round of funding as it looks to roll up all of the latest startup health benefit providers into a convenient package for small businesse…*
       
-  - UK wants pandemic levels of data sharing to be the new normal
+  - Closing on $75 million in new cash, Truepill plans at-home testing service as it nears $175 million in annual revenue
       <hr/>
       
-      - *The UK government has published a national data strategy today, setting out a plan to promote the use and prioritize the reuse of data as a lever for economic growth and digital innovation. It has also opened up a 12-week public consultation on the policy pla…*
+      - *Truepill, the white-label healthcare services company that provides telehealth and pharmacy fulfillment services, is adding at-home medical testing as the third branch of its services powering the offerings of companies like Hims and Hers, Ro, and other direc…*
       
-  - Sprinklr raises $200M on $2.7B valuation three years after last investment
+  - Q-CTRL and Quantum Machines team up to accelerate quantum computing
       <hr/>
       
-      - *Sprinklr has been busy the last few years acquiring a dozen companies, then rewriting their code base and incorporating them into the company’s customer experience platform. Today, the late-stage startup went back to the fund raising well for the first time i…*
+      - *Q-CTRL and Quantum Machines, two of the better-known startups in the quantum control ecosystem, today announced a new partnership that will see Quantum Machines integrate Q-CTRL‘s quantum firmware into Quantum Machines’ Quantum Orchestration hardware and soft…*
        
-  - Competing with both Perfect Day and Beyond Meat, Chile's NotCo raises $85 million to expand to the US
+  - Boston Dynamics’ Spot robot goes on sale in Europe and Canada
       <hr/>
        
-       - *NotCo, the Chilean food technology company making plant-based milk and meat replacements, has confirmed the close of a new $85 million round of funding to take the company’s products into the US market. The announcement confirms earlier reporting from TechCru…*
+       - *Boston Dynamics this morning announced that it’s bringing Spot robot to a number of new markets, following sales in the U.S.  Interested parties in the European Union, U.K. and Canada can now purchase the technologically advanced quadrupedal robot. Spot is Bo…*
       
 
 <br />
