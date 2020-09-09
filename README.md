@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 
-~ Marijn Haverbeke
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Computers themselves can do only stupidly straightforward things. The reason the
 </pre>
 <strong>Daily News</strong>
   
-  - As direct listing looms, Palantir insiders are accelerating stock sales
+  - Motorola gives its foldable Razr another go with the addition of a 5G model
      <hr/>
      
-      - *According to Palantir’s latest S-1 amended filing published this morning, the company intends to start trading in two weeks on September 23 under the ticker PLTR. That gives us a bit of time to speculate about how the company will perform on the public market…*
+      - *Last year’s Motorola Razr reboot should have been a slam-dunk. An iconic name attached to a cutting edge form factor — what could possible go wrong? A lot, turns out, especially in the world of foldables where nothing seems to go according to plan. Some quest…*
      
+  - As direct listing looms, Palantir insiders are accelerating stock sales
+      <hr/>
+      
+      - *According to Palantir’s latest S-1 amended filing published this morning, the company intends to start trading in two weeks on September 23 under the ticker PLTR. That gives us a bit of time to speculate about how the company will perform on the public market…*
+      
   - Watch the first trailer for the insanely star-studded 'Dune'
       <hr/>
       
@@ -73,16 +78,11 @@ Computers themselves can do only stupidly straightforward things. The reason the
       <hr/>
       
       - *Women founders who exhibit in Digital Startup Alley at Disrupt 2020, this opportunity’s designed with you in mind. Don’t miss your chance to meet with — and pitch to — accelerators focused on women entrepreneurs. We partnered with cela to bring accelerators t…*
-      
+       
   - Postmates becomes the official on-demand food delivery partner of the NFL
       <hr/>
-      
-      - *The National Football League naming Postmates as its very first on-demand food delivery partner. In this context, a partnership means a multi-year sponsorship, which also makes Postmates a sponsor of the Super Bowl. And as the season kicks off with the Kansas…*
        
-  - Voice assistants don’t work for kids: The problem with speech recognition in the classroom
-      <hr/>
-       
-       - *Young "remote learners" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.*
+       - *The National Football League naming Postmates as its very first on-demand food delivery partner. In this context, a partnership means a multi-year sponsorship, which also makes Postmates a sponsor of the Super Bowl. And as the season kicks off with the Kansas…*
       
 
 <br />
