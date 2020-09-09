@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 
-~ Mark Gibbs
+~ Alan Turing
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ No matter how slick the demo is in rehearsal, when you do it in front of a live 
 </pre>
 <strong>Daily News</strong>
   
-  - Three years later, Google Maps is back on the Apple Watch
+  - Instagram is building a product equity team and hiring a director of diversity and inclusion
      <hr/>
      
-      - *Google Maps has had a sort of spotty relationship with the Apple Watch over the years. Google first shipped a Watch-friendly build of Maps back in September of 2015, just months after the Apple Watch first hit the shelves. In 2017, however, Google nixed Map’s…*
+      - *Instagram announced some changes it’s making that are geared toward advancing equity within its workplace. The changes come after Instagram in June spoke about elevating, rather than suppressing Black voices in light of the killing of George Floyd. “More than…*
      
+  - B2B marketing company Metadata.io raises $6.5M
+      <hr/>
+      
+      - *Metadata.io announced today that it has raised $6.5 million in Series A funding. It’s been more than four years since I wrote about the startup’s $2 million seed funding. At the time, co-founder and CEO Gil Allouche described the product as helping business-t…*
+      
+  - Facebook told it may have to suspend EU data transfers after Schrems II ruling
+      <hr/>
+      
+      - *Ireland’s data protection watchdog, the DPC, has sent Facebook a preliminary order to suspend data transfers from the EU to the US, the Wall Street Journal reports, citing people familiar with the matter and including a confirmation from Facebook’s VP of glob…*
+      
+  - Three years later, Google Maps is back on the Apple Watch
+      <hr/>
+      
+      - *Google Maps has had a sort of spotty relationship with the Apple Watch over the years. Google first shipped a Watch-friendly build of Maps back in September of 2015, just months after the Apple Watch first hit the shelves. In 2017, however, Google nixed Map’s…*
+       
   - Microsoft introduces monthly financing plan for its new Xbox consoles
       <hr/>
-      
-      - *Monthly financing isn’t an entirely new concept in the world of Xbox. Microsoft offered a similar plan for the Xbox One S a few years ago. The idea is pretty simple: pay a monthly fee for hardware and software for two years until you outright own the device. …*
-      
-  - Kinspire's new app helps parents find screen-free activities for kids
-      <hr/>
-      
-      - *A new startup called Kinspire wants to make it easier for parents to find activities to help keep kids occupied — away from a screen. The app, which launches with hundreds of activities vetted by parents and teachers alike, arrives at a time when the coronavi…*
-      
-  - Iron Ox raises $20 million for its robotic farms
-      <hr/>
-      
-      - *Bay Area-based Iron Ox today announced a $20 million Series B. The funding, led by Pathbreaker Venture and family office firms, brings the robotics company’s total funding up to $45 million to date. A number of other investors also took part in the round, inc…*
        
-  - Motorola gives its foldable Razr another go with the addition of a 5G model
-      <hr/>
-       
-       - *Last year’s Motorola Razr reboot should have been a slam-dunk. An iconic name attached to a cutting edge form factor — what could possible go wrong? A lot, turns out, especially in the world of foldables where nothing seems to go according to plan. Some quest…*
+       - *Monthly financing isn’t an entirely new concept in the world of Xbox. Microsoft offered a similar plan for the Xbox One S a few years ago. The idea is pretty simple: pay a monthly fee for hardware and software for two years until you outright own the device. …*
       
 
 <br />
