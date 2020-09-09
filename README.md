@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 
-~ Richard Stallman
+~ Steve Jobs
 <pre>
 
 </pre>
