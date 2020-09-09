@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 
-~ Alan Turing
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A computer would deserve to be called intelligent if it could deceive a human in
 </pre>
 <strong>Daily News</strong>
   
-  - Instagram is building a product equity team and hiring a director of diversity and inclusion
+  - Here's every angle of the all-electric Lucid Air in pictures
      <hr/>
      
-      - *Instagram announced some changes it’s making that are geared toward advancing equity within its workplace. The changes come after Instagram in June spoke about elevating, rather than suppressing Black voices in light of the killing of George Floyd. “More than…*
+      - *After years of development, Lucid Motors took the wraps off the Air, an electric luxury sedan that was unveiled Wednesday in a live streamed event. The Air combines high-end features with eye-popping performance specs and technology that puts it in the same l…*
      
-  - B2B marketing company Metadata.io raises $6.5M
+  - Lucid Motors' second act will be an all-electric SUV called Gravity
       <hr/>
       
-      - *Metadata.io announced today that it has raised $6.5 million in Series A funding. It’s been more than four years since I wrote about the startup’s $2 million seed funding. At the time, co-founder and CEO Gil Allouche described the product as helping business-t…*
+      - *Lucid Motors provided Wednesday a peek of the next vehicle in its all-electric lineup — an SUV called the Lucid Gravity. The Lucid Gravity follows the Air, a luxury all-electric sedan that was revealed Wednesday in a live streamed event. The Gravity, which wi…*
       
-  - Facebook told it may have to suspend EU data transfers after Schrems II ruling
+  - Lucid Motors reveals its long-awaited Air electric sedan
       <hr/>
       
-      - *Ireland’s data protection watchdog, the DPC, has sent Facebook a preliminary order to suspend data transfers from the EU to the US, the Wall Street Journal reports, citing people familiar with the matter and including a confirmation from Facebook’s VP of glob…*
+      - *Lucid Motors CEO and CTO Peter Rawlinson had a clear vision for how to take an electric car to another level. The former chief engineer of the Tesla Model S just didn’t expect it to take quite so long. Today, nearly four years since the company first announce…*
       
-  - Three years later, Google Maps is back on the Apple Watch
+  - Daily Crunch: Taboola and Outbrain call off their merger
       <hr/>
       
-      - *Google Maps has had a sort of spotty relationship with the Apple Watch over the years. Google first shipped a Watch-friendly build of Maps back in September of 2015, just months after the Apple Watch first hit the shelves. In 2017, however, Google nixed Map’s…*
+      - *A massive content recommendation merger falls apart, Microsoft reveals the release date and pricing for its flagship game console and Alexa enables phone calls for AT&T customers. This is your Daily Crunch for September 9, 2020. The big story: Taboola and Out…*
        
-  - Microsoft introduces monthly financing plan for its new Xbox consoles
+  - Instagram is building a product equity team and hiring a director of diversity and inclusion
       <hr/>
        
-       - *Monthly financing isn’t an entirely new concept in the world of Xbox. Microsoft offered a similar plan for the Xbox One S a few years ago. The idea is pretty simple: pay a monthly fee for hardware and software for two years until you outright own the device. …*
+       - *Instagram announced some changes it’s making that are geared toward advancing equity within its workplace. The changes come after Instagram in June spoke about elevating, rather than suppressing Black voices in light of the killing of George Floyd. “More than…*
       
 
 <br />
