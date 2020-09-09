@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 
-~ Dennis Ritchie
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Computer science research is different from these more traditional disciplines. 
 </pre>
 <strong>Daily News</strong>
   
-  - Snapchat's new Lens celebrates tomorrow's NFL kickoff
+  - Hear from the CEO Porsche Cars North America on electrifying the sports car
      <hr/>
      
-      - *Snap and the NFL recently announced a multi-year extension to their content partnership. Now, with the season starting tomorrow, they’re revealing more details about what kinds of content fans can expect to find on Snapchat. For tomorrow night’s kickoff, with…*
+      - *Few electric cars made a bigger splash than the new Porsche Taycan. As President and CEO of Porsche Cars North America Klaus Zellmer has the tall order of bringing the electric sedan to America and selling it against Tesla on Tesla’s home turf. He also overse…*
      
-  - Can carbon capture save the world from climate change? Jennifer Holmgren will tell us at Disrupt
+  - Three days left to save on passes to TC Sessions: Mobility 2020
       <hr/>
       
-      - *Before she became the chief executive officer of LanzaTech, one of the first generation of companies working on carbon capture and conversion technologies, Jennifer Holmgren was the general manager of the Renewable Energy and Chemicals business at UOP (which …*
+      - *Electric vehicles, dock-less scooters, autonomous trucks, ride-hailing apps and the AI that fuels them all — it’s a world of transportation that even a visionary like Leonardo Da Vinci could scarcely imagine. On October 6-7, modern-day visionaries from around…*
       
-  - Calling VCs in Vienna: Be featured in The Great TechCrunch Survey of European VC
+  - Shift's George Arison shares 6 tips for taking your company public via a SPAC
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Vienna will capture how the city is faring, and what changes are being wroug…*
+      - *Even if you’ve been through a successful IPO process, you’ll still need to educate yourself — the SPAC process and the IPO process are completely different.*
       
-  - In a startup reprise, Courtne Smith launches NewNew, a social network based on shared content
+  - As the smartphone market declines, 5G models are set to see continued growth in 2020
       <hr/>
       
-      - *Since her departure from Drake’s entourage (where she worked as his longtime personal assistant) Courtne Smith has launched a line of hair products; a giveaway game that dropped swag like Yeezy shoes and Kardashian beauty products called Suprize; and now, New…*
+      - *Things have gone from bad to worse for a stumbling smartphone market in 2020. Already plateauing and decline figures have taken a big hit from COVID-19. The pandemic has hampered sales of non-essential items, particularly those best enjoyed outside of the hom…*
        
-  - AT&T customers can now make and receive calls via Alexa
+  - Greenstop launches its cannabis vending machine in California dispensaries
       <hr/>
        
-       - *Amazon this morning announced it’s teaming up with AT&T on a new feature that will allow some AT&T customers to make and receive phone calls through their Alexa-enabled devices, like an Amazon Echo smart speaker. Once enabled, customers with supported devices…*
+       - *Cannabis is now available from vending machines in select California dispensaries. Made by California-based Greenstop, the self-serve kiosks can simultaneously serve four customers while still conforming to local regulations. And they couldn’t come at a bette…*
       
 
 <br />
