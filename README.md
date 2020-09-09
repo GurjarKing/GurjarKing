@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
 
-~ L. Peter Deutsch
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When I was at what I would consider the peak of my abilities, I had extremely tr
 </pre>
 <strong>Daily News</strong>
   
-  - AT&T customers can now make and receive calls via Alexa
+  - Snapchat's new Lens celebrates tomorrow's NFL kickoff
      <hr/>
      
-      - *Amazon this morning announced it’s teaming up with AT&T on a new feature that will allow some AT&T customers to make and receive phone calls through their Alexa-enabled devices, like an Amazon Echo smart speaker. Once enabled, customers with supported devices…*
+      - *Snap and the NFL recently announced a multi-year extension to their content partnership. Now, with the season starting tomorrow, they’re revealing more details about what kinds of content fans can expect to find on Snapchat. For tomorrow night’s kickoff, with…*
      
-  - Xometry raises $75M Series E to expand custom manufacturing marketplace
+  - Can carbon capture save the world from climate change? Jennifer Holmgren will tell us at Disrupt
       <hr/>
       
-      - *When companies need to find manufacturers to build custom parts, it’s not always an easy process, especially during a pandemic. Xometry, a 7-year old startup based in Maryland has built an online marketplace where companies can find manufacturers across the w…*
+      - *Before she became the chief executive officer of LanzaTech, one of the first generation of companies working on carbon capture and conversion technologies, Jennifer Holmgren was the general manager of the Renewable Energy and Chemicals business at UOP (which …*
       
-  - Socialbakers acquired by customer engagement company Astute
+  - Calling VCs in Vienna: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
       
-      - *Astute, a customer engagement platform headquartered in Columbus, Ohio, is announcing that it has acquired social media marketing company Socialbakers. The financial terms of the acquisition were not disclosed. Socialbakers CEO Yuval Ben-Itzhak will become pr…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Vienna will capture how the city is faring, and what changes are being wroug…*
       
-  - Slack's earnings detail how COVID-19 is both a help and a hindrance to cloud growth
+  - In a startup reprise, Courtne Smith launches NewNew, a social network based on shared content
       <hr/>
       
-      - *Slack’s shares are set to fall sharply this morning, down around 16% in pre-market trading. As the company beat analyst expectations last quarter and guided within range, the selloff might feel a little surprising. Perhaps it shouldn’t. I spoke with a VC last…*
+      - *Since her departure from Drake’s entourage (where she worked as his longtime personal assistant) Courtne Smith has launched a line of hair products; a giveaway game that dropped swag like Yeezy shoes and Kardashian beauty products called Suprize; and now, New…*
        
-  - Rick Moranis breaks acting hiatus for 30 seconds to launch Mint’s $30 a month unlimited plan
+  - AT&T customers can now make and receive calls via Alexa
       <hr/>
        
-       - *If you know one thing about Mint Mobile, it’s probably the fact that it’s owned by Pizza Place guy turned Pikachu voice, Ryan Reynolds. The actor’s been building a nice investment portfolio for himself, beginning with a piece of the Aviation American Gin comp…*
+       - *Amazon this morning announced it’s teaming up with AT&T on a new feature that will allow some AT&T customers to make and receive phone calls through their Alexa-enabled devices, like an Amazon Echo smart speaker. Once enabled, customers with supported devices…*
       
 
 <br />
