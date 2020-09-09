@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 
-~ Fred Brooks
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Study after study shows that the very best designers produce structures that are
 </pre>
 <strong>Daily News</strong>
   
-  - Yubico unveils its latest Yubikey 5C security key, priced at $55
+  - Zymergen raised $300 million because synthetic biology is so hot right now
      <hr/>
      
-      - *The company's newest YubiKey comes with a USB-C connector and in-built NFC.*
+      - *Zymergen, one of the companies that’s developing biomanufacturing technologies which could reshape any number of industries, said it has raised $300 million in financing yesterday. It’s part of a wave of biotech companies that TechCrunch covered in depth last…*
      
-  - Swyg raises $1.2M pre-seed to use peer-interviewers and AI to reduce bias in recruitment
+  - Deel nabs $30M more for payroll, compliance and other tools to run global workforces
       <hr/>
       
-      - *Swyg, a Dublin-based startup that believes it can reduce bias in recruitment by combining a peer-interview process with its own AI, has picked up $1.2 million in pre-seed funding. Leading the round is Frontline Ventures, alongside angel investors including Ch…*
+      - *Remote working has become the norm for many of us not on the frontlines, and what’s been notable is that this is also changing the mindset for a lot of organizations, which are now hiring from an increasingly global talent pool. Today, a startup called Deel —…*
       
-  - Viral article puts brakes on China's food delivery frenzy
+  - UK wants pandemic levels of data sharing to be the new normal
       <hr/>
       
-      - *For China’s food delivery workers, life can feel like a constant battle with algorithms, traffic police, and disgruntled customers. An essay detailing the hazardous work conditions of China’s food delivery drivers went viral on the internet on Tuesday, causin…*
+      - *The UK government has published a national data strategy today, setting out a plan to promote the use and prioritize the reuse of data as a lever for economic growth and digital innovation. It has also opened up a 12-week public consultation on the policy pla…*
       
-  - Dawn Capital closes another $400M fund to focus on B2B software
+  - Sprinklr raises $200M on $2.7B valuation three years after last investment
       <hr/>
       
-      - *Dawn Capital, the London-based VC that focuses on B2B software, has closed its fourth and largest fund: $400 million that it plans to use to continue investing in early stage startups. Oversubscribed and closed (all remotely) within six months of launching in…*
+      - *Sprinklr has been busy the last few years acquiring a dozen companies, then rewriting their code base and incorporating them into the company’s customer experience platform. Today, the late-stage startup went back to the fund raising well for the first time i…*
        
-  - Reliance Retail to raise $1 billion from Silver Lake
+  - Competing with both Perfect Day and Beyond Meat, Chile's NotCo raises $85 million to expand to the US
       <hr/>
        
-       - *Indian billionaire Mukesh Ambani’s retail venture Reliance Retail said on Wednesday it will raise $1.02 billion from Silver Lake, kickstarting a fundraising spree months after its sister venture Jio Platforms raised $20 billion earlier this year. The investme…*
+       - *NotCo, the Chilean food technology company making plant-based milk and meat replacements, has confirmed the close of a new $85 million round of funding to take the company’s products into the US market. The announcement confirms earlier reporting from TechCru…*
       
 
 <br />
