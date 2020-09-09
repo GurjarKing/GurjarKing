@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Steve Jobs
+~ Daniel T. Barry
 <pre>
 
 </pre>
