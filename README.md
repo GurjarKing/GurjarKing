@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
 
-~ L. Peter Deutsch
+~ David Parnas
 <pre>
 
 </pre>
