@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 
-~ Martin Fowler
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ With testing, I know straight away when I added a bug. That lets me fix the bug 
 </pre>
 <strong>Daily News</strong>
   
-  - Motorola gives its foldable Razr another go with the addition of a 5G model
+  - Iron Ox raises $20 million for its robotic farms
      <hr/>
      
-      - *Last year’s Motorola Razr reboot should have been a slam-dunk. An iconic name attached to a cutting edge form factor — what could possible go wrong? A lot, turns out, especially in the world of foldables where nothing seems to go according to plan. Some quest…*
+      - *Bay Area-based Iron Ox today announced a $20 million Series B. The funding, led by Pathbreaker Venture and family office firms, brings the robotics company’s total funding up to $45 million to date. A number of other investors also took part in the round, inc…*
      
+  - Motorola gives its foldable Razr another go with the addition of a 5G model
+      <hr/>
+      
+      - *Last year’s Motorola Razr reboot should have been a slam-dunk. An iconic name attached to a cutting edge form factor — what could possible go wrong? A lot, turns out, especially in the world of foldables where nothing seems to go according to plan. Some quest…*
+      
   - As direct listing looms, Palantir insiders are accelerating stock sales
       <hr/>
       
@@ -73,16 +78,11 @@ With testing, I know straight away when I added a bug. That lets me fix the bug 
       <hr/>
       
       - *That strange feeling? That’s the sensation of being excited about new movies again. Now that theaters are slowly reopening (though not yet in New York or most of California, and I am 100% okay with that), studios are once again releasing trailers to hype up t…*
-      
+       
   - Women exhibitors in Digital Startup Alley: Meet female-focused accelerators
       <hr/>
-      
-      - *Women founders who exhibit in Digital Startup Alley at Disrupt 2020, this opportunity’s designed with you in mind. Don’t miss your chance to meet with — and pitch to — accelerators focused on women entrepreneurs. We partnered with cela to bring accelerators t…*
        
-  - Postmates becomes the official on-demand food delivery partner of the NFL
-      <hr/>
-       
-       - *The National Football League naming Postmates as its very first on-demand food delivery partner. In this context, a partnership means a multi-year sponsorship, which also makes Postmates a sponsor of the Super Bowl. And as the season kicks off with the Kansas…*
+       - *Women founders who exhibit in Digital Startup Alley at Disrupt 2020, this opportunity’s designed with you in mind. Don’t miss your chance to meet with — and pitch to — accelerators focused on women entrepreneurs. We partnered with cela to bring accelerators t…*
       
 
 <br />
