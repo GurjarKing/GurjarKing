@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+If you think your users are idiots, only idiots will use it.
 
-~ Alan Turing
+~ Linus Torvalds
 <pre>
 
 </pre>
