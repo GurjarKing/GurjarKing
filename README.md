@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 
-~ Marijn Haverbeke
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A program is a building of thought. It is costless to build, it is weightless, a
 </pre>
 <strong>Daily News</strong>
   
-  - Panasonic to expand battery capacity at Tesla Gigafactory
+  - Dawn Capital closes another $400M fund to focus on B2B software
      <hr/>
      
-      - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
+      - *Dawn Capital, the London-based VC that focuses on B2B software, has closed its fourth and largest fund: $400 million that it plans to use to continue investing in early stage startups. Oversubscribed and closed (all remotely) within six months of launching in…*
      
+  - Reliance Retail to raise $1 billion from Silver Lake
+      <hr/>
+      
+      - *Indian billionaire Mukesh Ambani’s retail venture Reliance Retail said on Wednesday it will raise $1.02 billion from Silver Lake, kickstarting a fundraising spree months after its sister venture Jio Platforms raised $20 billion earlier this year. The investme…*
+      
+  - Panasonic to expand battery capacity at Tesla Gigafactory
+      <hr/>
+      
+      - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
+      
   - Sign up to learn about funding options with the IFundWomen team
       <hr/>
       
       - *Disrupt 2020 is mere days away, but we’ve added pre-Disrupt events to help startup founders up their game, increase their ROI and drive their business forward. What’s next on the agenda? If you’re a founder with big ideas, get ready for a rare opportunity des…*
-      
+       
   - Gillmor Gang: Table Stakes
       <hr/>
-      
-      - *I quite like the iPad Pro 11 inch with the Magic Keyboard. In the Land of Pandemic where every day is Saturday, the tablet is king. With no real purchase on the chaotic flow of life, the rules — any rules — of the road are very dear to me. Structure is arbitr…*
-      
-  - Taboola and Outbrain call off their $850M merger
-      <hr/>
-      
-      - *Online advertising is a game of scale, but one attempt to consolidate two competitors to better take on Google and Facebook has fallen apart. Taboola and Outbrain, startups that each provide publishers with ad-based content recommendation platforms, have call…*
        
-  - Daily Crunch: Apple files countersuit against Epic
-      <hr/>
-       
-       - *Apple strikes back at Epic Games, Android 11 is here and Microsoft announces a new stripped-down Xbox. This is your Daily Crunch for September 8, 2020. The big story: Apple files countersuit against Epic Apple has made the latest move in a legal battle agains…*
+       - *I quite like the iPad Pro 11 inch with the Magic Keyboard. In the Land of Pandemic where every day is Saturday, the tablet is king. With no real purchase on the chaotic flow of life, the rules — any rules — of the road are very dear to me. Structure is arbitr…*
       
 
 <br />
