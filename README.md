@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When debugging, novices insert corrective code; experts remove defective code.
+When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 
-~ Richard E. Pattis
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When debugging, novices insert corrective code; experts remove defective code.
 </pre>
 <strong>Daily News</strong>
   
-  - Microsoft confirms $499 Xbox Series X arrives November 10, pre-orders begin September 22
+  - AT&T customers can now make and receive calls via Alexa
      <hr/>
      
-      - *The flagship Xbox Series X is arriving on November 10, and will carry a retail price tag of $499, Microsoft confirmed on Wednesday. The console will also be available for pre-orders beginning on September 22. Alongside the Xbox Series X console, Microsoft is …*
+      - *Amazon this morning announced it’s teaming up with AT&T on a new feature that will allow some AT&T customers to make and receive phone calls through their Alexa-enabled devices, like an Amazon Echo smart speaker. Once enabled, customers with supported devices…*
      
-  - Rolling up the latest in startup health insurance offerings, Sana Benefits raises $20.8 million
+  - Xometry raises $75M Series E to expand custom manufacturing marketplace
       <hr/>
       
-      - *Sana Benefits, a manager of self-funded insurance plans for small businesses, said it has raised $20.8 million in a recent round of funding as it looks to roll up all of the latest startup health benefit providers into a convenient package for small businesse…*
+      - *When companies need to find manufacturers to build custom parts, it’s not always an easy process, especially during a pandemic. Xometry, a 7-year old startup based in Maryland has built an online marketplace where companies can find manufacturers across the w…*
       
-  - Closing on $75 million in new cash, Truepill plans at-home testing service as it nears $175 million in annual revenue
+  - Socialbakers acquired by customer engagement company Astute
       <hr/>
       
-      - *Truepill, the white-label healthcare services company that provides telehealth and pharmacy fulfillment services, is adding at-home medical testing as the third branch of its services powering the offerings of companies like Hims and Hers, Ro, and other direc…*
+      - *Astute, a customer engagement platform headquartered in Columbus, Ohio, is announcing that it has acquired social media marketing company Socialbakers. The financial terms of the acquisition were not disclosed. Socialbakers CEO Yuval Ben-Itzhak will become pr…*
       
-  - Q-CTRL and Quantum Machines team up to accelerate quantum computing
+  - Slack's earnings detail how COVID-19 is both a help and a hindrance to cloud growth
       <hr/>
       
-      - *Q-CTRL and Quantum Machines, two of the better-known startups in the quantum control ecosystem, today announced a new partnership that will see Quantum Machines integrate Q-CTRL‘s quantum firmware into Quantum Machines’ Quantum Orchestration hardware and soft…*
+      - *Slack’s shares are set to fall sharply this morning, down around 16% in pre-market trading. As the company beat analyst expectations last quarter and guided within range, the selloff might feel a little surprising. Perhaps it shouldn’t. I spoke with a VC last…*
        
-  - Boston Dynamics’ Spot robot goes on sale in Europe and Canada
+  - Rick Moranis breaks acting hiatus for 30 seconds to launch Mint’s $30 a month unlimited plan
       <hr/>
        
-       - *Boston Dynamics this morning announced that it’s bringing Spot robot to a number of new markets, following sales in the U.S.  Interested parties in the European Union, U.K. and Canada can now purchase the technologically advanced quadrupedal robot. Spot is Bo…*
+       - *If you know one thing about Mint Mobile, it’s probably the fact that it’s owned by Pizza Place guy turned Pikachu voice, Ryan Reynolds. The actor’s been building a nice investment portfolio for himself, beginning with a piece of the Aviation American Gin comp…*
       
 
 <br />
