@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
-~ Daniel T. Barry
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The notions of correctness in mathematics and programs are different. A mathemat
 </pre>
 <strong>Daily News</strong>
   
-  - Viral article puts brakes on China's food delivery frenzy
+  - Swyg raises $1.2M pre-seed to use peer-interviewers and AI to reduce bias in recruitment
      <hr/>
      
-      - *For China’s food delivery workers, life can feel like a constant battle with algorithms, traffic police, and disgruntled customers. An essay detailing the hazardous work conditions of China’s food delivery drivers went viral on the internet on Tuesday, causin…*
+      - *Swyg, a Dublin-based startup that believes it can reduce bias in recruitment by combining a peer-interview process with its own AI, has picked up $1.2 million in pre-seed funding. Leading the round is Frontline Ventures, alongside angel investors including Ch…*
      
+  - Viral article puts brakes on China's food delivery frenzy
+      <hr/>
+      
+      - *For China’s food delivery workers, life can feel like a constant battle with algorithms, traffic police, and disgruntled customers. An essay detailing the hazardous work conditions of China’s food delivery drivers went viral on the internet on Tuesday, causin…*
+      
   - Dawn Capital closes another $400M fund to focus on B2B software
       <hr/>
       
@@ -73,16 +78,11 @@ The notions of correctness in mathematics and programs are different. A mathemat
       <hr/>
       
       - *Indian billionaire Mukesh Ambani’s retail venture Reliance Retail said on Wednesday it will raise $1.02 billion from Silver Lake, kickstarting a fundraising spree months after its sister venture Jio Platforms raised $20 billion earlier this year. The investme…*
-      
+       
   - Panasonic to expand battery capacity at Tesla Gigafactory
       <hr/>
-      
-      - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
        
-  - Sign up to learn about funding options with the IFundWomen team
-      <hr/>
-       
-       - *Disrupt 2020 is mere days away, but we’ve added pre-Disrupt events to help startup founders up their game, increase their ROI and drive their business forward. What’s next on the agenda? If you’re a founder with big ideas, get ready for a rare opportunity des…*
+       - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
       
 
 <br />
