@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
 </pre>
 <strong>Daily News</strong>
   
-  - Swyg raises $1.2M pre-seed to use peer-interviewers and AI to reduce bias in recruitment
+  - Yubico unveils its latest Yubikey 5C security key, priced at $55
      <hr/>
      
-      - *Swyg, a Dublin-based startup that believes it can reduce bias in recruitment by combining a peer-interview process with its own AI, has picked up $1.2 million in pre-seed funding. Leading the round is Frontline Ventures, alongside angel investors including Ch…*
+      - *The company's newest YubiKey comes with a USB-C connector and in-built NFC.*
      
+  - Swyg raises $1.2M pre-seed to use peer-interviewers and AI to reduce bias in recruitment
+      <hr/>
+      
+      - *Swyg, a Dublin-based startup that believes it can reduce bias in recruitment by combining a peer-interview process with its own AI, has picked up $1.2 million in pre-seed funding. Leading the round is Frontline Ventures, alongside angel investors including Ch…*
+      
   - Viral article puts brakes on China's food delivery frenzy
       <hr/>
       
@@ -73,16 +78,11 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
       <hr/>
       
       - *Dawn Capital, the London-based VC that focuses on B2B software, has closed its fourth and largest fund: $400 million that it plans to use to continue investing in early stage startups. Oversubscribed and closed (all remotely) within six months of launching in…*
-      
+       
   - Reliance Retail to raise $1 billion from Silver Lake
       <hr/>
-      
-      - *Indian billionaire Mukesh Ambani’s retail venture Reliance Retail said on Wednesday it will raise $1.02 billion from Silver Lake, kickstarting a fundraising spree months after its sister venture Jio Platforms raised $20 billion earlier this year. The investme…*
        
-  - Panasonic to expand battery capacity at Tesla Gigafactory
-      <hr/>
-       
-       - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
+       - *Indian billionaire Mukesh Ambani’s retail venture Reliance Retail said on Wednesday it will raise $1.02 billion from Silver Lake, kickstarting a fundraising spree months after its sister venture Jio Platforms raised $20 billion earlier this year. The investme…*
       
 
 <br />
