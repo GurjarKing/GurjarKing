@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
 
-~ Leslie Lamport
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A distributed system is one in which the failure of a computer you didn’t even
 </pre>
 <strong>Daily News</strong>
   
-  - Times Internet is growing despite influx of US firms in India
+  - Curio, the curated audio platform for journalism, has closed $9M Series A funding
      <hr/>
      
-      - *Times Internet said on Thursday it reaches more than 557 million active users in India each month and over 111 million users a day as several of its digital offerings demonstrated strong growth in the past year. The Indian conglomerate — which operates over t…*
+      - *Curio, the burgeoning audio platform that offers a curated library of “expert” journalism, has closed a $9 million in Series A round funding. The round is led by Earlybird, with participation from Draper Esprit, Cherry Ventures, and Horizons Ventures. It foll…*
      
+  - Times Internet is growing despite influx of US firms in India
+      <hr/>
+      
+      - *Times Internet said on Thursday it reaches more than 557 million active users in India each month and over 111 million users a day as several of its digital offerings demonstrated strong growth in the past year. The Indian conglomerate — which operates over t…*
+      
   - Portland passes expansive city ban on facial recognition tech
       <hr/>
       
@@ -73,16 +78,11 @@ A distributed system is one in which the failure of a computer you didn’t even
       <hr/>
       
       - *Even as more than 150 million people are using digital payment apps each month in India, only about 20 million of them invest in mutual funds and stocks. A startup that is attempting to change that figure by courting millennials has just received a big backin…*
-      
+       
   - Lucid lets shoppers customize cars like a video game character
       <hr/>
-      
-      - *Lucid just launched its first production vehicle, and it looks impressive. But let’s talk about the new website, too. It features a remarkable buying experience that lets shoppers build a 3D car online and experience it in VR at a Lucid dealership. Right now,…*
        
-  - Former NSA chief General Keith Alexander is now on Amazon's board
-      <hr/>
-       
-       - *General Keith Alexander, who oversaw the National Security Agency when Edward Snowden revealed the shocking extent of its illegal wiretapping and data collection programs, has joined Amazon’s board as a director. Gen. Alexander’s duties on the audit committee…*
+       - *Lucid just launched its first production vehicle, and it looks impressive. But let’s talk about the new website, too. It features a remarkable buying experience that lets shoppers build a 3D car online and experience it in VR at a Lucid dealership. Right now,…*
       
 
 <br />
