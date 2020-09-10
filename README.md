@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 
-~ Joseph Yoder (computer scientist)
+~ John Warnock
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When you build a prototype, there is always the risk that someone will say "that
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook returns to its roots with Campus, a college student-only social network
+  - How to find the right users as the world burns
      <hr/>
      
-      - *Facebook is getting back to its roots as a college-focused social network. The company announced today the launch of a new social networking platform, Facebook Campus, which offers college students a private place to connect with classmates, join groups, disc…*
+      - *You have more ways than ever to find the right users for your startup — if you know what you’re doing.  Today, you can pick from a selection of self-serve ad tools across large consumer platforms, build out your own content marketing and develop a sophisticat…*
      
-  - NASA is looking to buy Moon dirt from private companies – no return shipping required
+  - Retro-inspired music player Poolside.fm brings its summery fun to iPhone
       <hr/>
       
-      - *NASA wants to procure samples of lunar soil from private contractors, the agency announced today in a blog post by NASA Administrator Jim Bridenstine. This is part of the agency’s overall ambitions around returning humans to the Moon by 2024, and establishing…*
+      - *If you mashup feel-good summer music, ridiculous 80’s-inspired imagery and retro tech, you’ll get the lighthearted and fun web radio service Poolside.fm, the so-called “sunniest place on the internet.” The website where you can stream beachy, chill or disco t…*
       
-  - Microsoft Surface Duo review
+  - United Airlines' website bug exposed traveler ticket data
       <hr/>
       
-      - *In the early days, Microsoft had misgivings about calling the Surface Duo a phone. Asked to define it as such, the company has had the tendency to deflect with comments like, “Surface Duo does much more than make phone calls.” Which, to be fair, it does. And …*
+      - *United's website let anyone access ticket information for travelers who requested a refund.*
       
-  - Robinhood's financial news team launches its first video series
+  - Pitching access management on the fly, Los Angeles-based Britive raises $5.4 million
       <hr/>
       
-      - *Stock trading app Robinhood has seen rapid growth during the pandemic, leading it to raise hundreds of millions more dollars in funding — most recently in a $200 million round that valued the company at $11.2 billion. And the content side of the business has …*
+      - *It seems Los Angeles is becoming an enterprise software hotspot. LA saw its first big enterprise exit in recent memory with the recent acquisition of Signal Sciences for $775 million, and less than a month later a hometown startup, Britive has raised $5.4 mil…*
        
-  - Carbon Health to launch 100 pop-up COVID-19 testing clinics across the U.S.
+  - What's driving API-powered startups forward in 2020?
       <hr/>
        
-       - *Primary care health tech startup Carbon Health has added a new element to its “omnichannel” healthcare approach with the launch of a new pop-up clinic model that is already live in San Francisco, LA, Seattle, Brooklyn and Manhattan, with Detroit to follow soo…*
+       - *Startups that deliver products via an API are seeing momentum in 2020, as their method of serving customers becomes increasingly mainstream. And investors are taking note. It’s not hard to find a startup with an API-based delivery model that is doing well thi…*
       
 
 <br />
