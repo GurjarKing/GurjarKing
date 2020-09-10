@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+When there is no type hierarchy you don’t have to manage the type hierarchy.
 
-~ Alan Perlis
+~ Rob Pike
 <pre>
 
 </pre>
