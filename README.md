@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming is the ultimate field for someone who likes to tinker.
+No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 
-~ Ray Ozzie
+~ Andy Hunt (author)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Programming is the ultimate field for someone who likes to tinker.
 </pre>
 <strong>Daily News</strong>
   
-  - Groww, an investment app for millennials in India, raises $30M led by YC Continuity
+  - Portland passes expansive city ban on facial recognition tech
      <hr/>
      
-      - *Even as more than 150 million people are using digital payment apps each month in India, only about 20 million of them invest in mutual funds and stocks. A startup that is attempting to change that figure by courting millennials has just received a big backin…*
+      - *The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the contro…*
      
+  - Groww, an investment app for millennials in India, raises $30M led by YC Continuity
+      <hr/>
+      
+      - *Even as more than 150 million people are using digital payment apps each month in India, only about 20 million of them invest in mutual funds and stocks. A startup that is attempting to change that figure by courting millennials has just received a big backin…*
+      
   - Lucid lets shoppers customize cars like a video game character
       <hr/>
       
@@ -73,16 +78,11 @@ Programming is the ultimate field for someone who likes to tinker.
       <hr/>
       
       - *General Keith Alexander, who oversaw the National Security Agency when Edward Snowden revealed the shocking extent of its illegal wiretapping and data collection programs, has joined Amazon’s board as a director. Gen. Alexander’s duties on the audit committee…*
-      
+       
   - Here's every angle of the all-electric Lucid Air in pictures
       <hr/>
-      
-      - *After years of development, Lucid Motors took the wraps off the Air, an electric luxury sedan that was unveiled Wednesday in a live streamed event. The Air combines high-end features with eye-popping performance specs and technology that puts it in the same l…*
        
-  - Lucid Motors' second act will be an all-electric SUV called Gravity
-      <hr/>
-       
-       - *Lucid Motors provided Wednesday a peek of the next vehicle in its all-electric lineup — an SUV called the Lucid Gravity. The Lucid Gravity follows the Air, a luxury all-electric sedan that was revealed Wednesday in a live streamed event. The Gravity, which wi…*
+       - *After years of development, Lucid Motors took the wraps off the Air, an electric luxury sedan that was unveiled Wednesday in a live streamed event. The Air combines high-end features with eye-popping performance specs and technology that puts it in the same l…*
       
 
 <br />
