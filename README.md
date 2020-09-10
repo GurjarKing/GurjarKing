@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 
-~ L. Peter Deutsch
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I never in my wildest dreams would have predicted the evolution of the Internet.
 </pre>
 <strong>Daily News</strong>
   
-  - Curio, the curated audio platform for journalism, has closed $9M Series A funding
+  - Huawei phones will start running on HarmonyOS in 2021
      <hr/>
      
-      - *Curio, the burgeoning audio platform that offers a curated library of “expert” journalism, has closed a $9 million in Series A round funding. The round is led by Earlybird, with participation from Draper Esprit, Cherry Ventures, and Horizons Ventures. It foll…*
+      - *Huawei is planning to launch its proprietary Harmony operating system on smartphones in 2021, the firm announced at its annual developer conference in Dongguan on Thursday. The readiness of HarmonyOS handsets will largely be contingent on the number of apps H…*
      
+  - Curio, the curated audio platform for journalism, has closed $9M Series A funding
+      <hr/>
+      
+      - *Curio, the burgeoning audio platform that offers a curated library of “expert” journalism, has closed a $9 million in Series A round funding. The round is led by Earlybird, with participation from Draper Esprit, Cherry Ventures, and Horizons Ventures. It foll…*
+      
   - Times Internet is growing despite influx of US firms in India
       <hr/>
       
@@ -73,16 +78,11 @@ I never in my wildest dreams would have predicted the evolution of the Internet.
       <hr/>
       
       - *The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the contro…*
-      
+       
   - Groww, an investment app for millennials in India, raises $30M led by YC Continuity
       <hr/>
-      
-      - *Even as more than 150 million people are using digital payment apps each month in India, only about 20 million of them invest in mutual funds and stocks. A startup that is attempting to change that figure by courting millennials has just received a big backin…*
        
-  - Lucid lets shoppers customize cars like a video game character
-      <hr/>
-       
-       - *Lucid just launched its first production vehicle, and it looks impressive. But let’s talk about the new website, too. It features a remarkable buying experience that lets shoppers build a 3D car online and experience it in VR at a Lucid dealership. Right now,…*
+       - *Even as more than 150 million people are using digital payment apps each month in India, only about 20 million of them invest in mutual funds and stocks. A startup that is attempting to change that figure by courting millennials has just received a big backin…*
       
 
 <br />
