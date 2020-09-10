@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Eric S. Raymond
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Lisp is worth learning for the profound enlightenment experience you will have w
 </pre>
 <strong>Daily News</strong>
   
-  - $3M Breakthrough Prize goes to scientist designing molecules to could fight COVID-19
+  - Apple confirms the 'Apple One' subscription bundle in its own Apple Music app's code
      <hr/>
      
-      - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
+      - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
      
+  - $3M Breakthrough Prize goes to scientist designing molecules to could fight COVID-19
+      <hr/>
+      
+      - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
+      
   - Imran Khan's Verishop adds "Verified Shops", a  way for up-and-coming brands to set up shop in its "digital mall"
       <hr/>
       
@@ -73,16 +78,11 @@ Lisp is worth learning for the profound enlightenment experience you will have w
       <hr/>
       
       - *Ahead of the U.S. presidential election, Google says it’s taken a number of steps to improve the quality of information that it highlights across its various search and news products. Google executives outlined these changes at an online press event today, as…*
-      
+       
   - Recorded music revenue is up on streaming growth, as physical sales plummet
       <hr/>
-      
-      - *With touring ground to a halt for the foreseeable future, 2020 has become the most difficult year for musicians in recent memory. One’s ability to survive on music depends on a variety of factors, of course, including things like audience, reach and how their…*
        
-  - Ola is facing a drivers' legal challenge over data access rights and algorithmic management
-      <hr/>
-       
-       - *Two ride hailing drivers are taking India-based Ola to court in the Netherlands in another test case targeted at algorithmic management of gig workers. The case, which is being supported by the App Drivers & Couriers Union (ADCU) union and others, is similar …*
+       - *With touring ground to a halt for the foreseeable future, 2020 has become the most difficult year for musicians in recent memory. One’s ability to survive on music depends on a variety of factors, of course, including things like audience, reach and how their…*
       
 
 <br />
