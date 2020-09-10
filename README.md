@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 
-~ Bjarne Stroustrup
+~ Lawrence Flon
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ There are only two kinds of languages: the ones people complain about and the on
 </pre>
 <strong>Daily News</strong>
   
-  - Apple confirms the 'Apple One' subscription bundle in its own Apple Music app's code
+  - Daily Crunch: Facebook launches a college-only network
      <hr/>
      
-      - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
+      - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
      
+  - Warren Buffett invests in an unprofitable business
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering, and Chris Gates beh…*
+      
+  - Apple confirms the 'Apple One' subscription bundle in its own Apple Music app's code
+      <hr/>
+      
+      - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
+      
   - $3M Breakthrough Prize goes to scientist designing molecules to could fight COVID-19
       <hr/>
       
       - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
-      
+       
   - Imran Khan's Verishop adds "Verified Shops", a  way for up-and-coming brands to set up shop in its "digital mall"
       <hr/>
-      
-      - *Verishop, the Los Angeles online retailer founded by former Snap executive Imran Khan, launched a little over a year ago to change the way people shopped online. Now the company is launching a new initiative called “Verified Shops” which looks to change the w…*
-      
-  - Google says it's eliminating Autocomplete suggestions that target candidates or voting
-      <hr/>
-      
-      - *Ahead of the U.S. presidential election, Google says it’s taken a number of steps to improve the quality of information that it highlights across its various search and news products. Google executives outlined these changes at an online press event today, as…*
        
-  - Recorded music revenue is up on streaming growth, as physical sales plummet
-      <hr/>
-       
-       - *With touring ground to a halt for the foreseeable future, 2020 has become the most difficult year for musicians in recent memory. One’s ability to survive on music depends on a variety of factors, of course, including things like audience, reach and how their…*
+       - *Verishop, the Los Angeles online retailer founded by former Snap executive Imran Khan, launched a little over a year ago to change the way people shopped online. Now the company is launching a new initiative called “Verified Shops” which looks to change the w…*
       
 
 <br />
