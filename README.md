@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 
-~ Carl Friedrich Gauss
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I am never satisfied until I have said as much as possible in a few words, and w
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon launches Alexa Print, a way to print lists, recipes, games, & educational content using your voice
+  - Announcing the Startup Battlefield companies at TechCrunch Disrupt 2020
      <hr/>
      
-      - *Alexa can now control your printer. Amazon today announced a new Alexa-enabled printing feature that lets Echo device owners use voice commands print out common items, like their Alexa to-do lists, recipes, weekly calendars, educational content for kids, and …*
+      - *TechCrunch is thrilled to announce the 20 companies pitching in Startup Battlefield. Over the next five days, founders from around the world will be connecting in remotely to pitch live on the virtual TechCrunch Disrupt 2020 stage. Our most competitive batch …*
      
-  - London VCs launch new joint initiative to help BAME founders get better access to VC
+  - Bear and bull cases for Unity's IPO
       <hr/>
       
-      - *A group of UK-based VCs have come together to create a new virtual pitching event designed to address the problems with the current startup ecosystem which can lead to inequalities and ‘warm intros’ made only between privileged classes and ethnicities. Held o…*
+      - *Key data points from its S-1 filing help explain Unity's ability to stay ahead of the curve.*
       
-  - 48 hours left to save on TC Sessions: Mobility 2020
+  - How Unity built a gaming engine for the future
       <hr/>
       
-      - *Don’t you just love the feeling you get when crossing a task off your to-do list? It’s exponentially bigger and better when you can save $100 at the same time. Here’s the thing — you have just 48 hours to buy an early-bird pass to TC Sessions: Mobility 2020, …*
+      - *Unity is currently in a powerful position as the key platform for developing VR/AR content and distributing it across different operating systems and devices.*
       
-  - It’s time to better identify the cost of cybersecurity risks in M&A deals
+  - Bose’s music-playing sunglasses are back
       <hr/>
       
-      - *Over the past decade, a number of high-profile cybersecurity issues have arisen during mega-M&A deals, heightening concerns among corporate executives.*
+      - *Glasses/sunglasses with built-in speakers have been a thing for a shockingly long time now. They’ve never been particularly popular, mind, but at the very least, they’re an interesting enough concept for companies to continue taking a sporadic stab at the cat…*
        
-  - How to find the right users as the world burns
+  - Use 'productive paranoia' to build cybersecurity culture at your startup
       <hr/>
        
-       - *You have more ways than ever to find the right users for your startup — if you know what you’re doing.  Today, you can pick from a selection of self-serve ad tools across large consumer platforms, build out your own content marketing and develop a sophisticat…*
+       - *Bugcrowd's Casey Ellis talks prioritizing security at your startup.*
       
 
 <br />
