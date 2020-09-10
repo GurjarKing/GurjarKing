@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It is not the task of the University to offer what society asks for, but to give what society needs.
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 
-~ Edsger W. Dijkstra
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ It is not the task of the University to offer what society asks for, but to give
 </pre>
 <strong>Daily News</strong>
   
-  - Orchard real estate platform raises $69 million Series C led by Revolution Growth
+  - Unity launches its Cloud Content Delivery service for game developers
      <hr/>
      
-      - *Orchard, the tech-forward residential real estate platform, has today announced the close of a $69 million Series C funding led by Revolution Growth. Existing investors FirstMark Capital, Navitas, Accomplice and Juxtapose also participated in the round, which…*
+      - *Unity, the company behind the popular real-time 3D engine, today officially launched its Cloud Content Delivery service. This new service, which is engine-agnostic, combines a content delivery network and backend-as-a-service platform to help developers distr…*
      
+  - PayPal, Visa expand Instant Transfers for fast payouts globally on all PayPal's networks
+      <hr/>
+      
+      - *The COVID-19 pandemic continues to put huge stress on people’s and businesses’ finances, and in an effort to meet some of the crunch, today PayPal and Visa announced an expansion of a service to get cash into people’s hands faster. Instant Transfer — a servic…*
+      
+  - Orchard real estate platform raises $69 million Series C led by Revolution Growth
+      <hr/>
+      
+      - *Orchard, the tech-forward residential real estate platform, has today announced the close of a $69 million Series C funding led by Revolution Growth. Existing investors FirstMark Capital, Navitas, Accomplice and Juxtapose also participated in the round, which…*
+      
   - Dgraph launches Slash GraphQL, a GraphQL-native database Backend-as-a-Service
       <hr/>
       
       - *Dgraph Labs, the startup behind the popular eponymous graph database, today announced the launch of its Slash GraphQL service. Slash GraphQL is a fully managed GraphQL backend service that is, of course, powered by Dgraph. As Manish Jain, Dgraph’s CEO and fou…*
-      
+       
   - Huawei phones will start running on HarmonyOS in 2021
       <hr/>
-      
-      - *Huawei is planning to launch its proprietary Harmony operating system on smartphones in 2021, the firm announced at its annual developer conference in Dongguan on Thursday. The readiness of HarmonyOS handsets will largely be contingent on the number of apps H…*
-      
-  - Curio, the curated audio platform for journalism, has closed $9M Series A funding
-      <hr/>
-      
-      - *Curio, the burgeoning audio platform that offers a curated library of “expert” journalism, has closed a $9 million in Series A round funding. The round is led by Earlybird, with participation from Draper Esprit, Cherry Ventures, and Horizons Ventures. It foll…*
        
-  - Times Internet is growing despite influx of US firms in India
-      <hr/>
-       
-       - *Times Internet said on Thursday it reaches more than 557 million active users in India each month and over 111 million users a day as several of its digital offerings demonstrated strong growth in the past year. The Indian conglomerate — which operates over t…*
+       - *Huawei is planning to launch its proprietary Harmony operating system on smartphones in 2021, the firm announced at its annual developer conference in Dongguan on Thursday. The readiness of HarmonyOS handsets will largely be contingent on the number of apps H…*
       
 
 <br />
