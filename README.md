@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+Imagination is more important than knowledge.
 
-~ William Wulf
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ More computing sins are committed in the name of efficiency (without necessarily
 </pre>
 <strong>Daily News</strong>
   
-  - Portland passes expansive city ban on facial recognition tech
+  - Times Internet is growing despite influx of US firms in India
      <hr/>
      
-      - *The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the contro…*
+      - *Times Internet said on Thursday it reaches more than 557 million active users in India each month and over 111 million users a day as several of its digital offerings demonstrated strong growth in the past year. The Indian conglomerate — which operates over t…*
      
+  - Portland passes expansive city ban on facial recognition tech
+      <hr/>
+      
+      - *The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the contro…*
+      
   - Groww, an investment app for millennials in India, raises $30M led by YC Continuity
       <hr/>
       
@@ -73,16 +78,11 @@ More computing sins are committed in the name of efficiency (without necessarily
       <hr/>
       
       - *Lucid just launched its first production vehicle, and it looks impressive. But let’s talk about the new website, too. It features a remarkable buying experience that lets shoppers build a 3D car online and experience it in VR at a Lucid dealership. Right now,…*
-      
+       
   - Former NSA chief General Keith Alexander is now on Amazon's board
       <hr/>
-      
-      - *General Keith Alexander, who oversaw the National Security Agency when Edward Snowden revealed the shocking extent of its illegal wiretapping and data collection programs, has joined Amazon’s board as a director. Gen. Alexander’s duties on the audit committee…*
        
-  - Here's every angle of the all-electric Lucid Air in pictures
-      <hr/>
-       
-       - *After years of development, Lucid Motors took the wraps off the Air, an electric luxury sedan that was unveiled Wednesday in a live streamed event. The Air combines high-end features with eye-popping performance specs and technology that puts it in the same l…*
+       - *General Keith Alexander, who oversaw the National Security Agency when Edward Snowden revealed the shocking extent of its illegal wiretapping and data collection programs, has joined Amazon’s board as a director. Gen. Alexander’s duties on the audit committee…*
       
 
 <br />
