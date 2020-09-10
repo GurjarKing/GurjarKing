@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When there is no type hierarchy you don’t have to manage the type hierarchy.
+It is not the task of the University to offer what society asks for, but to give what society needs.
 
-~ Rob Pike
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When there is no type hierarchy you don’t have to manage the type hierarchy.
 </pre>
 <strong>Daily News</strong>
   
-  - Huawei phones will start running on HarmonyOS in 2021
+  - Orchard real estate platform raises $69 million Series C led by Revolution Growth
      <hr/>
      
-      - *Huawei is planning to launch its proprietary Harmony operating system on smartphones in 2021, the firm announced at its annual developer conference in Dongguan on Thursday. The readiness of HarmonyOS handsets will largely be contingent on the number of apps H…*
+      - *Orchard, the tech-forward residential real estate platform, has today announced the close of a $69 million Series C funding led by Revolution Growth. Existing investors FirstMark Capital, Navitas, Accomplice and Juxtapose also participated in the round, which…*
      
+  - Dgraph launches Slash GraphQL, a GraphQL-native database Backend-as-a-Service
+      <hr/>
+      
+      - *Dgraph Labs, the startup behind the popular eponymous graph database, today announced the launch of its Slash GraphQL service. Slash GraphQL is a fully managed GraphQL backend service that is, of course, powered by Dgraph. As Manish Jain, Dgraph’s CEO and fou…*
+      
+  - Huawei phones will start running on HarmonyOS in 2021
+      <hr/>
+      
+      - *Huawei is planning to launch its proprietary Harmony operating system on smartphones in 2021, the firm announced at its annual developer conference in Dongguan on Thursday. The readiness of HarmonyOS handsets will largely be contingent on the number of apps H…*
+      
   - Curio, the curated audio platform for journalism, has closed $9M Series A funding
       <hr/>
       
       - *Curio, the burgeoning audio platform that offers a curated library of “expert” journalism, has closed a $9 million in Series A round funding. The round is led by Earlybird, with participation from Draper Esprit, Cherry Ventures, and Horizons Ventures. It foll…*
-      
+       
   - Times Internet is growing despite influx of US firms in India
       <hr/>
-      
-      - *Times Internet said on Thursday it reaches more than 557 million active users in India each month and over 111 million users a day as several of its digital offerings demonstrated strong growth in the past year. The Indian conglomerate — which operates over t…*
-      
-  - Portland passes expansive city ban on facial recognition tech
-      <hr/>
-      
-      - *The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the contro…*
        
-  - Groww, an investment app for millennials in India, raises $30M led by YC Continuity
-      <hr/>
-       
-       - *Even as more than 150 million people are using digital payment apps each month in India, only about 20 million of them invest in mutual funds and stocks. A startup that is attempting to change that figure by courting millennials has just received a big backin…*
+       - *Times Internet said on Thursday it reaches more than 557 million active users in India each month and over 111 million users a day as several of its digital offerings demonstrated strong growth in the past year. The Indian conglomerate — which operates over t…*
       
 
 <br />
