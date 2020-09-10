@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 
-~ Andy Hunt (author)
+~ Kent Beck
 <pre>
 
 </pre>
