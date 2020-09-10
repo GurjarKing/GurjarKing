@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
 
-~ Kent Beck
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When you find you have to add a feature to a program, and the program's code is 
 </pre>
 <strong>Daily News</strong>
   
-  - Robinhood's financial news team launches its first video series
+  - Facebook returns to its roots with Campus, a college student-only social network
      <hr/>
      
-      - *Stock trading app Robinhood has seen rapid growth during the pandemic, leading it to raise hundreds of millions more dollars in funding — most recently in a $200 million round that valued the company at $11.2 billion. And the content side of the business has …*
+      - *Facebook is getting back to its roots as a college-focused social network. The company announced today the launch of a new social networking platform, Facebook Campus, which offers college students a private place to connect with classmates, join groups, disc…*
      
+  - NASA is looking to buy Moon dirt from private companies – no return shipping required
+      <hr/>
+      
+      - *NASA wants to procure samples of lunar soil from private contractors, the agency announced today in a blog post by NASA Administrator Jim Bridenstine. This is part of the agency’s overall ambitions around returning humans to the Moon by 2024, and establishing…*
+      
+  - Microsoft Surface Duo review
+      <hr/>
+      
+      - *In the early days, Microsoft had misgivings about calling the Surface Duo a phone. Asked to define it as such, the company has had the tendency to deflect with comments like, “Surface Duo does much more than make phone calls.” Which, to be fair, it does. And …*
+      
+  - Robinhood's financial news team launches its first video series
+      <hr/>
+      
+      - *Stock trading app Robinhood has seen rapid growth during the pandemic, leading it to raise hundreds of millions more dollars in funding — most recently in a $200 million round that valued the company at $11.2 billion. And the content side of the business has …*
+       
   - Carbon Health to launch 100 pop-up COVID-19 testing clinics across the U.S.
       <hr/>
-      
-      - *Primary care health tech startup Carbon Health has added a new element to its “omnichannel” healthcare approach with the launch of a new pop-up clinic model that is already live in San Francisco, LA, Seattle, Brooklyn and Manhattan, with Detroit to follow soo…*
-      
-  - EU lawmakers say it's time to go further on tackling disinformation
-      <hr/>
-      
-      - *A major European Commission review of a Code of Practice aimed at combating the spread of disinformation online has concluded the self-regulatory instrument is failing to deliver enough transparency or accountability from the tech platforms and advertisers si…*
-      
-  - StackRox nabs $26.5M for a platform that secures containers in Kubernetes
-      <hr/>
-      
-      - *Containers have become a ubiquitous cornerstone in how companies manage their data, a trend that has only accelerated in the last eight months with the larger shift to cloud services and more frequent remote working due to the coronavirus pandemic. Alongside …*
        
-  - Unity launches its Cloud Content Delivery service for game developers
-      <hr/>
-       
-       - *Unity, the company behind the popular real-time 3D engine, today officially launched its Cloud Content Delivery service. This new service, which is engine-agnostic, combines a content delivery network and backend-as-a-service platform to help developers distr…*
+       - *Primary care health tech startup Carbon Health has added a new element to its “omnichannel” healthcare approach with the launch of a new pop-up clinic model that is already live in San Francisco, LA, Seattle, Brooklyn and Manhattan, with Detroit to follow soo…*
       
 
 <br />
