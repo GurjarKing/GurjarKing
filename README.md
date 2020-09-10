@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+Programming is the ultimate field for someone who likes to tinker.
 
-~ Fred Brooks
+~ Ray Ozzie
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Adding people to a software project increases the total effort necessary in thre
 </pre>
 <strong>Daily News</strong>
   
-  - Here's every angle of the all-electric Lucid Air in pictures
+  - Groww, an investment app for millennials in India, raises $30M led by YC Continuity
      <hr/>
      
-      - *After years of development, Lucid Motors took the wraps off the Air, an electric luxury sedan that was unveiled Wednesday in a live streamed event. The Air combines high-end features with eye-popping performance specs and technology that puts it in the same l…*
+      - *Even as more than 150 million people are using digital payment apps each month in India, only about 20 million of them invest in mutual funds and stocks. A startup that is attempting to change that figure by courting millennials has just received a big backin…*
      
+  - Lucid lets shoppers customize cars like a video game character
+      <hr/>
+      
+      - *Lucid just launched its first production vehicle, and it looks impressive. But let’s talk about the new website, too. It features a remarkable buying experience that lets shoppers build a 3D car online and experience it in VR at a Lucid dealership. Right now,…*
+      
+  - Former NSA chief General Keith Alexander is now on Amazon's board
+      <hr/>
+      
+      - *General Keith Alexander, who oversaw the National Security Agency when Edward Snowden revealed the shocking extent of its illegal wiretapping and data collection programs, has joined Amazon’s board as a director. Gen. Alexander’s duties on the audit committee…*
+      
+  - Here's every angle of the all-electric Lucid Air in pictures
+      <hr/>
+      
+      - *After years of development, Lucid Motors took the wraps off the Air, an electric luxury sedan that was unveiled Wednesday in a live streamed event. The Air combines high-end features with eye-popping performance specs and technology that puts it in the same l…*
+       
   - Lucid Motors' second act will be an all-electric SUV called Gravity
       <hr/>
-      
-      - *Lucid Motors provided Wednesday a peek of the next vehicle in its all-electric lineup — an SUV called the Lucid Gravity. The Lucid Gravity follows the Air, a luxury all-electric sedan that was revealed Wednesday in a live streamed event. The Gravity, which wi…*
-      
-  - Lucid Motors reveals its long-awaited Air electric sedan
-      <hr/>
-      
-      - *Lucid Motors CEO and CTO Peter Rawlinson had a clear vision for how to take an electric car to another level. The former chief engineer of the Tesla Model S just didn’t expect it to take quite so long. Today, nearly four years since the company first announce…*
-      
-  - Daily Crunch: Taboola and Outbrain call off their merger
-      <hr/>
-      
-      - *A massive content recommendation merger falls apart, Microsoft reveals the release date and pricing for its flagship game console and Alexa enables phone calls for AT&T customers. This is your Daily Crunch for September 9, 2020. The big story: Taboola and Out…*
        
-  - Instagram is building a product equity team and hiring a director of diversity and inclusion
-      <hr/>
-       
-       - *Instagram announced some changes it’s making that are geared toward advancing equity within its workplace. The changes come after Instagram in June spoke about elevating, rather than suppressing Black voices in light of the killing of George Floyd. “More than…*
+       - *Lucid Motors provided Wednesday a peek of the next vehicle in its all-electric lineup — an SUV called the Lucid Gravity. The Lucid Gravity follows the Air, a luxury all-electric sedan that was revealed Wednesday in a live streamed event. The Gravity, which wi…*
       
 
 <br />
