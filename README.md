@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
 
-~ Fred Brooks
+~ Kent Beck
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Study after study shows that the very best designers produce structures that are
 </pre>
 <strong>Daily News</strong>
   
-  - Unity launches its Cloud Content Delivery service for game developers
+  - Robinhood's financial news team launches its first video series
      <hr/>
      
-      - *Unity, the company behind the popular real-time 3D engine, today officially launched its Cloud Content Delivery service. This new service, which is engine-agnostic, combines a content delivery network and backend-as-a-service platform to help developers distr…*
+      - *Stock trading app Robinhood has seen rapid growth during the pandemic, leading it to raise hundreds of millions more dollars in funding — most recently in a $200 million round that valued the company at $11.2 billion. And the content side of the business has …*
      
-  - PayPal, Visa expand Instant Transfers for fast payouts globally on all PayPal's networks
+  - Carbon Health to launch 100 pop-up COVID-19 testing clinics across the U.S.
       <hr/>
       
-      - *The COVID-19 pandemic continues to put huge stress on people’s and businesses’ finances, and in an effort to meet some of the crunch, today PayPal and Visa announced an expansion of a service to get cash into people’s hands faster. Instant Transfer — a servic…*
+      - *Primary care health tech startup Carbon Health has added a new element to its “omnichannel” healthcare approach with the launch of a new pop-up clinic model that is already live in San Francisco, LA, Seattle, Brooklyn and Manhattan, with Detroit to follow soo…*
       
-  - Orchard real estate platform raises $69 million Series C led by Revolution Growth
+  - EU lawmakers say it's time to go further on tackling disinformation
       <hr/>
       
-      - *Orchard, the tech-forward residential real estate platform, has today announced the close of a $69 million Series C funding led by Revolution Growth. Existing investors FirstMark Capital, Navitas, Accomplice and Juxtapose also participated in the round, which…*
+      - *A major European Commission review of a Code of Practice aimed at combating the spread of disinformation online has concluded the self-regulatory instrument is failing to deliver enough transparency or accountability from the tech platforms and advertisers si…*
       
-  - Dgraph launches Slash GraphQL, a GraphQL-native database Backend-as-a-Service
+  - StackRox nabs $26.5M for a platform that secures containers in Kubernetes
       <hr/>
       
-      - *Dgraph Labs, the startup behind the popular eponymous graph database, today announced the launch of its Slash GraphQL service. Slash GraphQL is a fully managed GraphQL backend service that is, of course, powered by Dgraph. As Manish Jain, Dgraph’s CEO and fou…*
+      - *Containers have become a ubiquitous cornerstone in how companies manage their data, a trend that has only accelerated in the last eight months with the larger shift to cloud services and more frequent remote working due to the coronavirus pandemic. Alongside …*
        
-  - Huawei phones will start running on HarmonyOS in 2021
+  - Unity launches its Cloud Content Delivery service for game developers
       <hr/>
        
-       - *Huawei is planning to launch its proprietary Harmony operating system on smartphones in 2021, the firm announced at its annual developer conference in Dongguan on Thursday. The readiness of HarmonyOS handsets will largely be contingent on the number of apps H…*
+       - *Unity, the company behind the popular real-time 3D engine, today officially launched its Cloud Content Delivery service. This new service, which is engine-agnostic, combines a content delivery network and backend-as-a-service platform to help developers distr…*
       
 
 <br />
