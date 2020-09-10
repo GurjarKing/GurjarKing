@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 
-~ Ken Thompson
+~ William Wulf
 <pre>
 
 </pre>
