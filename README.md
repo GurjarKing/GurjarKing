@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
 
-~ Danny Hillis
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Computers are the most complex objects we human beings have ever created, but in
 </pre>
 <strong>Daily News</strong>
   
-  - Tarform unveils Luna e-moto for folks who may not like motorcycles
+  - Last call for early-stage founders to exhibit at Disrupt 2020
      <hr/>
      
-      - *Brooklyn-based EV startup Taform unveiled its Luna electric motorcycle in New York last week, a model designed for an audience that may not actually like motorcycles. This follows the debut of two concept e-motos in 2018. Tarform’s first street legal entrant,…*
+      - *Your window to untold opportunity slams shut tonight. I’m looking at you, early-stage startup founders. Don’t miss your last chance to exhibit your tech and talent to thousands of Disrupt 2020 attendees around the world. A Disrupt Digital Startup Alley Packag…*
      
-  - VCs pour funding into edtech startups as COVID-19 shakes up the market
+  - Last day to save on passes to TC Sessions: Mobility 2020
       <hr/>
       
-      - *A few weeks back, The Exchange looked into the pace of edtech exits, noting that over time, the sector has delivered rising exit volume. All startup verticals want to demonstrate a history of liquidity, so you might imagine that even before the COVID-19 pande…*
+      - *The final countdown to early-bird savings is in play, and you have mere hours left to save $100 on passes to TC Sessions: Mobility 2020 (October 6-7). The early-bird offer expires — and prices go up — today, September 11 at 11:59 p.m. (PT). Why pay more than …*
       
-  - WildType is opening up a pre-order list for select chefs as it focuses on sushi-grade salmon
+  - Elon Musk says Tesla will 'one day' produce 'super efficient home HVAC' with HEPA filtering
       <hr/>
       
-      - *WildType, the startup making lab-grown salmon, is opening up a pre-order list for select chefs. Although the company is as much as five years out from commercial production, according to founders, the company is looking to partner with select chefs around the…*
+      - *Elon Musk has previously touted the ‘Bioweapon Defense Mode’ boasted by Tesla’s vehicles, which are designed to provide excellent air quality inside the car even in the face of disastrous conditions without, thanks in part to high-efficiency HEPA air filtrati…*
       
-  - 10 Poland-based investors discuss trends, opportunities and the road ahead
+  - England's long delayed COVID-19 contacts tracing app to launch on September 24
       <hr/>
       
-      - *Poland is becoming an important European tech ecosystem after experiencing record levels of investment and growth in recent years.*
+      - *The UK’s long delayed coronavirus contact tracing app finally has a release date: The Department of Health and Social Care (DHSC) announced today that the app will launch in England and Wales on September 24. The other regions of the country, Scotland and Nor…*
        
-  - Willo, a freemium video interview SaaS, scores ~$320k during the remote work boom
+  - All the ways to meet someone and make connections at Disrupt 2020
       <hr/>
        
-       - *Scotland-based video interview startup Willo has scored a £250,000 (~$320k) seed round of funding after watching demand for its asynchronous Q&A style video platform leap up during the COVID-19 lockdown. Guernsey-based VC firm 1818 Venture Capital is investin…*
+       - *No matter how amazing the speaker lineup is at Disrupt 2020 next week — and believe you me, it’s pretty fuckin’ amazing — there is nothing more powerful than the connections people make at our show. Whether it’s an investor, a future cofounder, an interesting…*
       
 
 <br />
