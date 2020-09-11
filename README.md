@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+The only way to learn a new programming language is by writing programs in it.
 
-~ Tim Berners-Lee
+~ Dennis Ritchie
 <pre>
 
 </pre>
