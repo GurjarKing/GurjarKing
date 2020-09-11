@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+Walking on water and developing software from a specification are easy if both are frozen.
 
-~ Gottfried Wilhelm Leibniz
+~ Edward V. Berard
 <pre>
 
 </pre>
