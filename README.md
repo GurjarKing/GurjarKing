@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you think your users are idiots, only idiots will use it.
+There is no reason anyone would want a computer in their home.
 
-~ Linus Torvalds
+~ Ken Olsen
 <pre>
 
 </pre>
