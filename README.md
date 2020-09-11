@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 
-~ Lawrence Flon
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ There is no programming language, no matter how structured, that will prevent pr
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Facebook launches a college-only network
+  - VC Josh Kopelman isn't so sure about SPACs, but he thinks so-called rolling funds could prove powerful
      <hr/>
      
-      - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
+      - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
      
+  - Daily Crunch: Facebook launches a college-only network
+      <hr/>
+      
+      - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
+      
   - Warren Buffett invests in an unprofitable business
       <hr/>
       
@@ -73,16 +78,11 @@ There is no programming language, no matter how structured, that will prevent pr
       <hr/>
       
       - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
-      
+       
   - $3M Breakthrough Prize goes to scientist designing molecules to could fight COVID-19
       <hr/>
-      
-      - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
        
-  - Imran Khan's Verishop adds "Verified Shops", a  way for up-and-coming brands to set up shop in its "digital mall"
-      <hr/>
-       
-       - *Verishop, the Los Angeles online retailer founded by former Snap executive Imran Khan, launched a little over a year ago to change the way people shopped online. Now the company is launching a new initiative called “Verified Shops” which looks to change the w…*
+       - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
       
 
 <br />
