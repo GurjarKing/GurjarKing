@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The only way to learn a new programming language is by writing programs in it.
+If you have a procedure with 10 parameters, you probably missed some.
 
-~ Dennis Ritchie
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The only way to learn a new programming language is by writing programs in it.
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: The battle over the fate of gig workers continues
+  - A user’s guide to Disrupt 2020
      <hr/>
      
-      - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
+      - *We’re coming down to the wire folks. Disrupt 2020 officially opens its virtual doors September 14 for five super-charged days of everything the early-stage startup community needs to build better, faster, stronger. Going virtual translates into a global reach…*
      
+  - Human Capital: The battle over the fate of gig workers continues
+      <hr/>
+      
+      - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
+      
   - China may kill TikTok’s U.S. operations rather than see them sold
       <hr/>
       
@@ -73,16 +78,11 @@ The only way to learn a new programming language is by writing programs in it.
       <hr/>
       
       - *It’s no secret that the tech industry is historically white, straight and male. Despite promises to examine and reform hiring practices so that tech companies big and small better reflect the world we all live in, diversity reports chart a different path: Bla…*
-      
+       
   - Toucan raises $3M to teach you new languages as you browse the web
       <hr/>
-      
-      - *Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automati…*
        
-  - Five more reasons you should attend Disrupt 2020
-      <hr/>
-       
-       - *There are just a few days until we kick off five days of Disrupt 2020. (September 14-18). It’s time to dig in, dig deep and do whatever it takes to discover hidden opportunities. Disrupt is a vehicle for success for all who are playing the startup game. Buy y…*
+       - *Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automati…*
       
 
 <br />
