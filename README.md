@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 
-~ Fred Brooks
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The separation of architectural effort from implementation is a very powerful wa
 </pre>
 <strong>Daily News</strong>
   
-  - Santander spins out its $400M fintech venture capital arm, now called Mouro Capital
+  - Willo, a freemium video interview SaaS, scores ~$320k during the remote work boom
      <hr/>
      
-      - *Santander, the Spanish multinational banking giant, is announcing that its fintech venture arm is to be spun out and will be managed more autonomously going forward. Previously known as Santander Innoventures and first established in 2014, the VC is being re-…*
+      - *Scotland-based video interview startup Willo has scored a £250,000 (~$320k) seed round of funding after watching demand for its asynchronous Q&A style video platform leap up during the COVID-19 lockdown. Guernsey-based VC firm 1818 Venture Capital is investin…*
      
+  - Santander spins out its $400M fintech venture capital arm, now called Mouro Capital
+      <hr/>
+      
+      - *Santander, the Spanish multinational banking giant, is announcing that its fintech venture arm is to be spun out and will be managed more autonomously going forward. Previously known as Santander Innoventures and first established in 2014, the VC is being re-…*
+      
   - Trump says deadline for TikTok sale won't be extended
       <hr/>
       
@@ -73,16 +78,11 @@ The separation of architectural effort from implementation is a very powerful wa
       <hr/>
       
       - *The company building the virtual border wall has a new version of its stealthy fast-flying drones — and a fresh contract with Customs and Border Protection to match. Anduril, a young defense-friendly tech company from the founder of Oculus, received $36 milli…*
-      
+       
   - Report: One of Social Capital's newest blank-check companies is looking to reverse merge with Opendoor
       <hr/>
-      
-      - *Some people may have slowed down in 2020, amid a pandemic that has shut down much of the world. Not Chamath Palihapitiya. According to a new report in Bloomberg, Opendoor, the seven-year-old, San Francisco-based company that has from the outset aimed to help …*
        
-  - VC Josh Kopelman isn't so sure about SPACs, but he thinks so-called rolling funds could prove powerful
-      <hr/>
-       
-       - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
+       - *Some people may have slowed down in 2020, amid a pandemic that has shut down much of the world. Not Chamath Palihapitiya. According to a new report in Bloomberg, Opendoor, the seven-year-old, San Francisco-based company that has from the outset aimed to help …*
       
 
 <br />
