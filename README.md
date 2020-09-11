@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 
-~ Linus Torvalds
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Talk is cheap. Show me the code.
 </pre>
 <strong>Daily News</strong>
   
-  - Report: One of Social Capital's newest blank-check companies is looking to reverse merge with Opendoor
+  - Anduril launches a smarter drone and picks up more money to build a virtual border wall
      <hr/>
      
-      - *Some people may have slowed down in 2020, amid a pandemic that has shut down much of the world. Not Chamath Palihapitiya. According to a new report in Bloomberg, Opendoor, the seven-year-old, San Francisco-based company that has from the outset aimed to help …*
+      - *The company building the virtual border wall has a new version of its stealthy fast-flying drones — and a fresh contract with Customs and Border Protection to match. Anduril, a young defense-friendly tech company from the founder of Oculus, received $36 milli…*
      
+  - Report: One of Social Capital's newest blank-check companies is looking to reverse merge with Opendoor
+      <hr/>
+      
+      - *Some people may have slowed down in 2020, amid a pandemic that has shut down much of the world. Not Chamath Palihapitiya. According to a new report in Bloomberg, Opendoor, the seven-year-old, San Francisco-based company that has from the outset aimed to help …*
+      
   - VC Josh Kopelman isn't so sure about SPACs, but he thinks so-called rolling funds could prove powerful
       <hr/>
       
@@ -73,16 +78,11 @@ Talk is cheap. Show me the code.
       <hr/>
       
       - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
-      
+       
   - Warren Buffett invests in an unprofitable business
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering, and Chris Gates beh…*
        
-  - Apple confirms the 'Apple One' subscription bundle in its own Apple Music app's code
-      <hr/>
-       
-       - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering, and Chris Gates beh…*
       
 
 <br />
