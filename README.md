@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It is not the task of the University to offer what society asks for, but to give what society needs.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ Edsger W. Dijkstra
+~ Marvin Minsky
 <pre>
 
 </pre>
