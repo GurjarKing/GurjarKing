@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+Talk is cheap. Show me the code.
 
-~ Edsger W. Dijkstra
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ LISP has assisted a number of our most gifted fellow humans in thinking previous
 </pre>
 <strong>Daily News</strong>
   
-  - VC Josh Kopelman isn't so sure about SPACs, but he thinks so-called rolling funds could prove powerful
+  - Report: One of Social Capital's newest blank-check companies is looking to reverse merge with Opendoor
      <hr/>
      
-      - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
+      - *Some people may have slowed down in 2020, amid a pandemic that has shut down much of the world. Not Chamath Palihapitiya. According to a new report in Bloomberg, Opendoor, the seven-year-old, San Francisco-based company that has from the outset aimed to help …*
      
+  - VC Josh Kopelman isn't so sure about SPACs, but he thinks so-called rolling funds could prove powerful
+      <hr/>
+      
+      - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
+      
   - Daily Crunch: Facebook launches a college-only network
       <hr/>
       
@@ -73,16 +78,11 @@ LISP has assisted a number of our most gifted fellow humans in thinking previous
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering, and Chris Gates beh…*
-      
+       
   - Apple confirms the 'Apple One' subscription bundle in its own Apple Music app's code
       <hr/>
-      
-      - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
        
-  - $3M Breakthrough Prize goes to scientist designing molecules to could fight COVID-19
-      <hr/>
-       
-       - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
+       - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
       
 
 <br />
