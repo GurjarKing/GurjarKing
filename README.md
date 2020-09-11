@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Walking on water and developing software from a specification are easy if both are frozen.
+I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 
-~ Edward V. Berard
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Walking on water and developing software from a specification are easy if both a
 </pre>
 <strong>Daily News</strong>
   
-  - Willo, a freemium video interview SaaS, scores ~$320k during the remote work boom
+  - Tarform unveils Luna e-moto for folks who may not like motorcycles
      <hr/>
      
-      - *Scotland-based video interview startup Willo has scored a £250,000 (~$320k) seed round of funding after watching demand for its asynchronous Q&A style video platform leap up during the COVID-19 lockdown. Guernsey-based VC firm 1818 Venture Capital is investin…*
+      - *Brooklyn-based EV startup Taform unveiled its Luna electric motorcycle in New York last week, a model designed for an audience that may not actually like motorcycles. This follows the debut of two concept e-motos in 2018. Tarform’s first street legal entrant,…*
      
-  - Santander spins out its $400M fintech venture capital arm, now called Mouro Capital
+  - VCs pour funding into edtech startups as COVID-19 shakes up the market
       <hr/>
       
-      - *Santander, the Spanish multinational banking giant, is announcing that its fintech venture arm is to be spun out and will be managed more autonomously going forward. Previously known as Santander Innoventures and first established in 2014, the VC is being re-…*
+      - *A few weeks back, The Exchange looked into the pace of edtech exits, noting that over time, the sector has delivered rising exit volume. All startup verticals want to demonstrate a history of liquidity, so you might imagine that even before the COVID-19 pande…*
       
-  - Trump says deadline for TikTok sale won't be extended
+  - WildType is opening up a pre-order list for select chefs as it focuses on sushi-grade salmon
       <hr/>
       
-      - *The United States government will not extend the September 20 deadline for Beijing-based ByteDance to sell TikTok, President Donald Trump said on Thursday. This adds urgency to negotiations because TikTok may be banned in the United States if it can’t reach a…*
+      - *WildType, the startup making lab-grown salmon, is opening up a pre-order list for select chefs. Although the company is as much as five years out from commercial production, according to founders, the company is looking to partner with select chefs around the…*
       
-  - Anduril launches a smarter drone and picks up more money to build a virtual border wall
+  - 10 Poland-based investors discuss trends, opportunities and the road ahead
       <hr/>
       
-      - *The company building the virtual border wall has a new version of its stealthy fast-flying drones — and a fresh contract with Customs and Border Protection to match. Anduril, a young defense-friendly tech company from the founder of Oculus, received $36 milli…*
+      - *Poland is becoming an important European tech ecosystem after experiencing record levels of investment and growth in recent years.*
        
-  - Report: One of Social Capital's newest blank-check companies is looking to reverse merge with Opendoor
+  - Willo, a freemium video interview SaaS, scores ~$320k during the remote work boom
       <hr/>
        
-       - *Some people may have slowed down in 2020, amid a pandemic that has shut down much of the world. Not Chamath Palihapitiya. According to a new report in Bloomberg, Opendoor, the seven-year-old, San Francisco-based company that has from the outset aimed to help …*
+       - *Scotland-based video interview startup Willo has scored a £250,000 (~$320k) seed round of funding after watching demand for its asynchronous Q&A style video platform leap up during the COVID-19 lockdown. Guernsey-based VC firm 1818 Venture Capital is investin…*
       
 
 <br />
