@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+It is not the task of the University to offer what society asks for, but to give what society needs.
 
-~ Bjarne Stroustrup
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
