@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is no reason anyone would want a computer in their home.
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 
-~ Ken Olsen
+~ Alan Kay
 <pre>
 
 </pre>
