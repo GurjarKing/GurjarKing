@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 
-~ Alan Kay
+~ Bill Gates
 <pre>
 
 </pre>
