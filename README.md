@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Nine women can't make a baby in one month.
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 
-~ Fred Brooks
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Nine women can't make a baby in one month.
 </pre>
 <strong>Daily News</strong>
   
-  - Apple revises App Store rules to permit game streaming apps, clarify in-app purchases and more
+  - Belarus tech industry rallies around arrested PandaDoc colleagues in new video
      <hr/>
      
-      - *Apple today is releasing updated App Store Guidelines with the goal of clarifying how it will approach new technologies, like game streaming services, App Clips and widgets, in addition to better detailing its stance over how and when it will collect in-app p…*
+      - *In the wake of the arrest of four employees of San Francisco-based startup PandaDoc, the tech industry in Belarus has rallied support for the company and the pro-democracy movement in the country. Representatives of the tech community recorded a video which h…*
      
-  - Apple lays out its messy vision for how xCloud and Stadia will work with its App Store rules
+  - Wing's Margaret Nagle will join us at TC Sessions: Mobility 2020 to discuss the future of urban air transportation
       <hr/>
       
-      - *Apple laid out some interesting updates to its App Store rules this morning, the most headline-grabbing of which was a section dedicated to cloud gaming platforms like Microsoft’s xCloud and Google’s Stadia. This comes after very public complaints from Micros…*
+      - *Alphabet’s Wing is among the companies leading the way for building a sustainable and scalable way for drones and other aircraft to share the skies and build a capable and safe aerial transportation network. Wing’s Head of Policy, Regulatory and Community Aff…*
       
-  - Facebook launches poll worker recruitment push in the News Feed
+  - TechCrunch still brings the fun to Disrupt 2020
       <hr/>
       
-      - *With the election looming and a pandemic still raging through the U.S., a shortage of poll workers is just one of many threats to voting this November — but it’s a big one. In a Facebook post Friday, Mark Zuckerberg announced that the company will launch a po…*
+      - *We all know times are incredibly tough, and everyone’s working overtime on steroids to keep their startup dreams alive. Disrupt events have a reputation for serving up a tasty helping of fun along with the main dish: opportunity. We refuse to host virtual con…*
       
-  - TikTok fixes Android bugs that could have led to account hijacks
+  - Facebook seeks fresh legal delay to block order to suspend its transatlantic data transfers
       <hr/>
       
-      - *The bugs are now fixed.*
+      - *Facebook is firing up its lawyers to try to block EU regulators from forcing it to suspend transatlantic data transfers in the wake of a landmark ruling by Europe’s top court this summer. The tech giant has applied to judges in Ireland to seek a judicial revi…*
        
-  - Podcast analytics and attribution startup Chartable raises $2.25M
+  - Apple revises App Store rules to permit game streaming apps, clarify in-app purchases and more
       <hr/>
        
-       - *Chartable, a startup known for its authoritative podcast download charts, is announcing that it has raised $2.25 million in seed funding. Founders Dave Zohrob and Harish Agarwal previously worked together at AngelList, and they also created Hacker Daily, a po…*
+       - *Apple today is releasing updated App Store Guidelines with the goal of clarifying how it will approach new technologies, like game streaming services, App Clips and widgets, in addition to better detailing its stance over how and when it will collect in-app p…*
       
 
 <br />
