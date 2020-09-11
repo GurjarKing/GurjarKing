@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
 ~ Alan Perlis
 <pre>
@@ -59,11 +59,16 @@ If you have a procedure with 10 parameters, you probably missed some.
 </pre>
 <strong>Daily News</strong>
   
-  - A user’s guide to Disrupt 2020
+  - Daily Crunch: Apple revises App Store rules
      <hr/>
      
-      - *We’re coming down to the wire folks. Disrupt 2020 officially opens its virtual doors September 14 for five super-charged days of everything the early-stage startup community needs to build better, faster, stronger. Going virtual translates into a global reach…*
+      - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
      
+  - A user’s guide to Disrupt 2020
+      <hr/>
+      
+      - *We’re coming down to the wire folks. Disrupt 2020 officially opens its virtual doors September 14 for five super-charged days of everything the early-stage startup community needs to build better, faster, stronger. Going virtual translates into a global reach…*
+      
   - Human Capital: The battle over the fate of gig workers continues
       <hr/>
       
@@ -73,16 +78,11 @@ If you have a procedure with 10 parameters, you probably missed some.
       <hr/>
       
       - *The controversial push to force Chinese tech unicorn ByteDance to divest part or all of its smash-hit TikTok social media service to a US-based company could be in doubt after a report today indicated that China’s government may oppose the transaction. Accord…*
-      
+       
   - The 2019 TechCrunch Include Report
       <hr/>
-      
-      - *It’s no secret that the tech industry is historically white, straight and male. Despite promises to examine and reform hiring practices so that tech companies big and small better reflect the world we all live in, diversity reports chart a different path: Bla…*
        
-  - Toucan raises $3M to teach you new languages as you browse the web
-      <hr/>
-       
-       - *Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automati…*
+       - *It’s no secret that the tech industry is historically white, straight and male. Despite promises to examine and reform hiring practices so that tech companies big and small better reflect the world we all live in, diversity reports chart a different path: Bla…*
       
 
 <br />
