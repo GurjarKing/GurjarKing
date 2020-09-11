@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+If you think your users are idiots, only idiots will use it.
 
-~ Edsger W. Dijkstra
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ LISP has assisted a number of our most gifted fellow humans in thinking previous
 </pre>
 <strong>Daily News</strong>
   
-  - Trump says deadline for TikTok sale won't be extended
+  - Santander spins out its $400M fintech venture capital arm, now called Mouro Capital
      <hr/>
      
-      - *The United States government will not extend the September 20 deadline for Beijing-based ByteDance to sell TikTok, President Donald Trump said on Thursday. This adds urgency to negotiations because TikTok may be banned in the United States if it can’t reach a…*
+      - *Santander, the Spanish multinational banking giant, is announcing that its fintech venture arm is to be spun out and will be managed more autonomously going forward. Previously known as Santander Innoventures and first established in 2014, the VC is being re-…*
      
+  - Trump says deadline for TikTok sale won't be extended
+      <hr/>
+      
+      - *The United States government will not extend the September 20 deadline for Beijing-based ByteDance to sell TikTok, President Donald Trump said on Thursday. This adds urgency to negotiations because TikTok may be banned in the United States if it can’t reach a…*
+      
   - Anduril launches a smarter drone and picks up more money to build a virtual border wall
       <hr/>
       
@@ -73,16 +78,11 @@ LISP has assisted a number of our most gifted fellow humans in thinking previous
       <hr/>
       
       - *Some people may have slowed down in 2020, amid a pandemic that has shut down much of the world. Not Chamath Palihapitiya. According to a new report in Bloomberg, Opendoor, the seven-year-old, San Francisco-based company that has from the outset aimed to help …*
-      
+       
   - VC Josh Kopelman isn't so sure about SPACs, but he thinks so-called rolling funds could prove powerful
       <hr/>
-      
-      - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
        
-  - Daily Crunch: Facebook launches a college-only network
-      <hr/>
-       
-       - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
+       - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
       
 
 <br />
