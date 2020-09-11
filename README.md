@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 
-~ Charles Simonyi
+~ Danny Hillis
 <pre>
 
 </pre>
