@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
+Nine women can't make a baby in one month.
 
-~ Donald Knuth
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Science is what we understand well enough to explain to a computer. Art is every
 </pre>
 <strong>Daily News</strong>
   
-  - Last call for early-stage founders to exhibit at Disrupt 2020
+  - Apple revises App Store rules to permit game streaming apps, clarify in-app purchases and more
      <hr/>
      
-      - *Your window to untold opportunity slams shut tonight. I’m looking at you, early-stage startup founders. Don’t miss your last chance to exhibit your tech and talent to thousands of Disrupt 2020 attendees around the world. A Disrupt Digital Startup Alley Packag…*
+      - *Apple today is releasing updated App Store Guidelines with the goal of clarifying how it will approach new technologies, like game streaming services, App Clips and widgets, in addition to better detailing its stance over how and when it will collect in-app p…*
      
-  - Last day to save on passes to TC Sessions: Mobility 2020
+  - Apple lays out its messy vision for how xCloud and Stadia will work with its App Store rules
       <hr/>
       
-      - *The final countdown to early-bird savings is in play, and you have mere hours left to save $100 on passes to TC Sessions: Mobility 2020 (October 6-7). The early-bird offer expires — and prices go up — today, September 11 at 11:59 p.m. (PT). Why pay more than …*
+      - *Apple laid out some interesting updates to its App Store rules this morning, the most headline-grabbing of which was a section dedicated to cloud gaming platforms like Microsoft’s xCloud and Google’s Stadia. This comes after very public complaints from Micros…*
       
-  - Elon Musk says Tesla will 'one day' produce 'super efficient home HVAC' with HEPA filtering
+  - Facebook launches poll worker recruitment push in the News Feed
       <hr/>
       
-      - *Elon Musk has previously touted the ‘Bioweapon Defense Mode’ boasted by Tesla’s vehicles, which are designed to provide excellent air quality inside the car even in the face of disastrous conditions without, thanks in part to high-efficiency HEPA air filtrati…*
+      - *With the election looming and a pandemic still raging through the U.S., a shortage of poll workers is just one of many threats to voting this November — but it’s a big one. In a Facebook post Friday, Mark Zuckerberg announced that the company will launch a po…*
       
-  - England's long delayed COVID-19 contacts tracing app to launch on September 24
+  - TikTok fixes Android bugs that could have led to account hijacks
       <hr/>
       
-      - *The UK’s long delayed coronavirus contact tracing app finally has a release date: The Department of Health and Social Care (DHSC) announced today that the app will launch in England and Wales on September 24. The other regions of the country, Scotland and Nor…*
+      - *The bugs are now fixed.*
        
-  - All the ways to meet someone and make connections at Disrupt 2020
+  - Podcast analytics and attribution startup Chartable raises $2.25M
       <hr/>
        
-       - *No matter how amazing the speaker lineup is at Disrupt 2020 next week — and believe you me, it’s pretty fuckin’ amazing — there is nothing more powerful than the connections people make at our show. Whether it’s an investor, a future cofounder, an interesting…*
+       - *Chartable, a startup known for its authoritative podcast download charts, is announcing that it has raised $2.25 million in seed funding. Founders Dave Zohrob and Harish Agarwal previously worked together at AngelList, and they also created Hacker Daily, a po…*
       
 
 <br />
