@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 
-~ Stan Kelly-Bootle
+~ Martin Fowler
 <pre>
 
 </pre>
