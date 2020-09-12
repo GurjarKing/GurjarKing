@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+Imagination is more important than knowledge.
 
-~ Tony Parisi (software developer)
+~ Albert Einstein
 <pre>
 
 </pre>
