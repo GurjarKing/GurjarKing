@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Douglas Crockford
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
