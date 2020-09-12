@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Imagination is more important than knowledge.
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 
-~ Albert Einstein
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
