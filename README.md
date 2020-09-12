@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
 
-~ Fred Brooks
+~ Charles Babbage
 <pre>
 
 </pre>
