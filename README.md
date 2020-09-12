@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Bjarne Stroustrup
+~ Pete Cordell
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ There are only two kinds of languages: the ones people complain about and the on
 </pre>
 <strong>Daily News</strong>
   
-  - Snowflake, Unity, JFrog move towards IPOs despite public market turmoil
+  - Is the vaunted cloud acceleration falling flat?
      <hr/>
      
-      - *Warren Buffet is eager to invest in a money-burning SaaS unicorn that is about to IPO.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. This week we’re taking a look at the bad side of the cloud software market. Tech and software stocks are struggling.*
      
+  - Snowflake, Unity, JFrog move towards IPOs despite public market turmoil
+      <hr/>
+      
+      - *Warren Buffet is eager to invest in a money-burning SaaS unicorn that is about to IPO.*
+      
   - Disrupt 2020 kicks off tomorrow — are you ready?
       <hr/>
       
@@ -73,16 +78,11 @@ There are only two kinds of languages: the ones people complain about and the on
       <hr/>
       
       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
+       
   - Original Content podcast: Disney's 'Mulan' remake is fun, if you can forget the controversy
       <hr/>
-      
-      - *Disney’s live-action remake of “Mulan” comes with some serious baggage. First, the film has drawn political controversy for its star’s statements in support of the action Hong Kong police  against protestors, as well as the fact that “Mulan” was filmed, in pa…*
        
-  - Rocket startup Astra's first orbital launch attempt ends early due to first-stage burn failure
-      <hr/>
-       
-       - *Alameda-based rocket launch startup Astra finally got the chance to launch its first orbital test mission from its Alaska-based facility on Saturday, after the attempt had been delayed multiple times due to weather and other issues. The 8:19 PM PT lift-off of…*
+       - *Disney’s live-action remake of “Mulan” comes with some serious baggage. First, the film has drawn political controversy for its star’s statements in support of the action Hong Kong police  against protestors, as well as the fact that “Mulan” was filmed, in pa…*
       
 
 <br />
