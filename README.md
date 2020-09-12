@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+The button is working, only, it cannot be seen.
 
-~ Alan Perlis
+~ Anonymous
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Every program has (at least) two purposes: the one for which it was written and 
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Apple revises App Store rules
+  - Unicorn layoffs prompt more startups to consider acqui-hiring
      <hr/>
      
-      - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
+      - *Alex Zajaczkowski was just months into her role at Toast, a restaurant point-of-sale software company, when she was let go during COVID-19 layoffs. Toast, last valued at $5 billion, cut 50% of its staff through layoffs and furloughs. Zajaczkowski said she sta…*
      
+  - As COVID-19 era drags on, VCs look beyond Zoom calls for due diligence and sourcing
+      <hr/>
+      
+      - *While the coronavirus has accelerated the dealmaking pace for many early-stage startups, activity has not come without adaptation. Remote investment struggles for investors were clear from the get go: it’s challenging to invest millions in someone you have ne…*
+      
+  - Daily Crunch: Apple revises App Store rules
+      <hr/>
+      
+      - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
+      
   - A user’s guide to Disrupt 2020
       <hr/>
       
       - *We’re coming down to the wire folks. Disrupt 2020 officially opens its virtual doors September 14 for five super-charged days of everything the early-stage startup community needs to build better, faster, stronger. Going virtual translates into a global reach…*
-      
+       
   - Human Capital: The battle over the fate of gig workers continues
       <hr/>
-      
-      - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
-      
-  - China may kill TikTok’s U.S. operations rather than see them sold
-      <hr/>
-      
-      - *The controversial push to force Chinese tech unicorn ByteDance to divest part or all of its smash-hit TikTok social media service to a US-based company could be in doubt after a report today indicated that China’s government may oppose the transaction. Accord…*
        
-  - The 2019 TechCrunch Include Report
-      <hr/>
-       
-       - *It’s no secret that the tech industry is historically white, straight and male. Despite promises to examine and reform hiring practices so that tech companies big and small better reflect the world we all live in, diversity reports chart a different path: Bla…*
+       - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
       
 
 <br />
