@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Butler Lampson
+~ Pete Cordell
 <pre>
 
 </pre>
