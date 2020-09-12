@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The button is working, only, it cannot be seen.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
-~ Anonymous
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The button is working, only, it cannot be seen.
 </pre>
 <strong>Daily News</strong>
   
-  - Unicorn layoffs prompt more startups to consider acqui-hiring
+  - Extra Crunch Friday roundup: Edtech funding surges, Poland VC survey, inside Shift's SPAC plan, more
      <hr/>
      
-      - *Alex Zajaczkowski was just months into her role at Toast, a restaurant point-of-sale software company, when she was let go during COVID-19 layoffs. Toast, last valued at $5 billion, cut 50% of its staff through layoffs and furloughs. Zajaczkowski said she sta…*
+      - *A look back at Extra Crunch's top stories over the last few days.*
      
+  - Unicorn layoffs prompt more startups to consider acqui-hiring
+      <hr/>
+      
+      - *Alex Zajaczkowski was just months into her role at Toast, a restaurant point-of-sale software company, when she was let go during COVID-19 layoffs. Toast, last valued at $5 billion, cut 50% of its staff through layoffs and furloughs. Zajaczkowski said she sta…*
+      
   - As COVID-19 era drags on, VCs look beyond Zoom calls for due diligence and sourcing
       <hr/>
       
@@ -73,16 +78,11 @@ The button is working, only, it cannot be seen.
       <hr/>
       
       - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
-      
+       
   - A user’s guide to Disrupt 2020
       <hr/>
-      
-      - *We’re coming down to the wire folks. Disrupt 2020 officially opens its virtual doors September 14 for five super-charged days of everything the early-stage startup community needs to build better, faster, stronger. Going virtual translates into a global reach…*
        
-  - Human Capital: The battle over the fate of gig workers continues
-      <hr/>
-       
-       - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
+       - *We’re coming down to the wire folks. Disrupt 2020 officially opens its virtual doors September 14 for five super-charged days of everything the early-stage startup community needs to build better, faster, stronger. Going virtual translates into a global reach…*
       
 
 <br />
