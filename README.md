@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That hardly ever happens is another way of saying 'it happens'.
+The entire history of software engineering is that of the rise in levels of abstraction.
 
-~ Douglas Crockford
+~ Grady Booch
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ That hardly ever happens is another way of saying 'it happens'.
 </pre>
 <strong>Daily News</strong>
   
-  - Original Content podcast: Disney's 'Mulan' remake is fun, if you can forget the controversy
+  - This Week in Apps: The App Store's new rules, Epic's battle continues, TikTok's time is up
      <hr/>
      
-      - *Disney’s live-action remake of “Mulan” comes with some serious baggage. First, the film has drawn political controversy for its star’s statements in support of the action Hong Kong police  against protestors, as well as the fact that “Mulan” was filmed, in pa…*
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
      
+  - Original Content podcast: Disney's 'Mulan' remake is fun, if you can forget the controversy
+      <hr/>
+      
+      - *Disney’s live-action remake of “Mulan” comes with some serious baggage. First, the film has drawn political controversy for its star’s statements in support of the action Hong Kong police  against protestors, as well as the fact that “Mulan” was filmed, in pa…*
+      
   - Rocket startup Astra's first orbital launch attempt ends early due to first-stage burn failure
       <hr/>
       
@@ -73,16 +78,11 @@ That hardly ever happens is another way of saying 'it happens'.
       <hr/>
       
       - *David Chao, the cofounder of the cross-border venture firm DCM, speaks English, Japanese, and Mandarin. But he also knows how to talk to founders. It’s worth a lot. Consider that DCM should see more than $1 billion from the $26.4 million it invested across 14…*
-      
+       
   - Extra Crunch Friday roundup: Edtech funding surges, Poland VC survey, inside Shift's SPAC plan, more
       <hr/>
-      
-      - *A look back at Extra Crunch's top stories over the last few days.*
        
-  - Unicorn layoffs prompt more startups to consider acqui-hiring
-      <hr/>
-       
-       - *Alex Zajaczkowski was just months into her role at Toast, a restaurant point-of-sale software company, when she was let go during COVID-19 layoffs. Toast, last valued at $5 billion, cut 50% of its staff through layoffs and furloughs. Zajaczkowski said she sta…*
+       - *A look back at Extra Crunch's top stories over the last few days.*
       
 
 <br />
