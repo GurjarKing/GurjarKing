@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 
-~ Bill Gates
+~ Gerald Weinberg
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If you ever talk to a great programmer, you'll find he knows his tools like an a
 </pre>
 <strong>Daily News</strong>
   
-  - Elon Musk says Starship SN8 prototype will have a nosecone and attempt a 60,000-foot return flight
+  - SoftBank could make, gasp, a profit on its expected sale of Arm for $40B
      <hr/>
      
-      - *Elon Musk has shared some details about future testing of Starship, the SpaceX launch vehicle currently being developed by the company at its Boca Chica, Texas facility. Recently, SpaceX has completed short, 150 meter (just under 500 feet) test flights of two…*
+      - *While the big deal we have been tracking the past few weeks has been TikTok, there was another massive deal under negotiation that mirrors some of the international tech dynamics that have plagued the consumer social app’s sale. Arm Holdings, which is the mos…*
      
+  - Elon Musk says Starship SN8 prototype will have a nosecone and attempt a 60,000-foot return flight
+      <hr/>
+      
+      - *Elon Musk has shared some details about future testing of Starship, the SpaceX launch vehicle currently being developed by the company at its Boca Chica, Texas facility. Recently, SpaceX has completed short, 150 meter (just under 500 feet) test flights of two…*
+      
   - Is the vaunted cloud acceleration falling flat?
       <hr/>
       
@@ -73,16 +78,11 @@ If you ever talk to a great programmer, you'll find he knows his tools like an a
       <hr/>
       
       - *Warren Buffet is eager to invest in a money-burning SaaS unicorn that is about to IPO.*
-      
+       
   - Disrupt 2020 kicks off tomorrow — are you ready?
       <hr/>
-      
-      - *Happy Disrupt 2020 Eve, startup fans! It’s been a crazy mad dash to transform our annual flagship San Francisco event at Moscone Center into the first all-virtual Disrupt (thanks, COVID-19). Then again, going global seems an appropriate way to celebrate 10 ye…*
        
-  - This Week in Apps: The App Store's new rules, Epic's battle continues, TikTok's time is up
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *Happy Disrupt 2020 Eve, startup fans! It’s been a crazy mad dash to transform our annual flagship San Francisco event at Moscone Center into the first all-virtual Disrupt (thanks, COVID-19). Then again, going global seems an appropriate way to celebrate 10 ye…*
       
 
 <br />
