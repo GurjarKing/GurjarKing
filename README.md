@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 
-~ Mario Fusco
+~ Stan Kelly-Bootle
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The code you write makes you a programmer. The code you delete makes you a good 
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch Friday roundup: Edtech funding surges, Poland VC survey, inside Shift's SPAC plan, more
+  - DCM has already made nearly $1 billion off its $26 million bet on Bill.com
      <hr/>
      
-      - *A look back at Extra Crunch's top stories over the last few days.*
+      - *David Chao, the cofounder of the cross-border venture firm DCM, speaks English, Japanese, and Mandarin. But he also knows how to talk to founders. It’s worth a lot. Consider that DCM should see more than $1 billion from the $26.4 million it invested across 14…*
      
+  - Extra Crunch Friday roundup: Edtech funding surges, Poland VC survey, inside Shift's SPAC plan, more
+      <hr/>
+      
+      - *A look back at Extra Crunch's top stories over the last few days.*
+      
   - Unicorn layoffs prompt more startups to consider acqui-hiring
       <hr/>
       
@@ -73,16 +78,11 @@ The code you write makes you a programmer. The code you delete makes you a good 
       <hr/>
       
       - *While the coronavirus has accelerated the dealmaking pace for many early-stage startups, activity has not come without adaptation. Remote investment struggles for investors were clear from the get go: it’s challenging to invest millions in someone you have ne…*
-      
+       
   - Daily Crunch: Apple revises App Store rules
       <hr/>
-      
-      - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
        
-  - A user’s guide to Disrupt 2020
-      <hr/>
-       
-       - *We’re coming down to the wire folks. Disrupt 2020 officially opens its virtual doors September 14 for five super-charged days of everything the early-stage startup community needs to build better, faster, stronger. Going virtual translates into a global reach…*
+       - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
       
 
 <br />
