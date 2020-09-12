@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 
-~ Charles Babbage
+~ Maurice Wilkes
 <pre>
 
 </pre>
