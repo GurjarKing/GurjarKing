@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
-~ Pete Cordell
+~ Fred Brooks
 <pre>
 
 </pre>
