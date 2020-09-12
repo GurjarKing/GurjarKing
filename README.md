@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 
 ~ Fred Brooks
 <pre>
