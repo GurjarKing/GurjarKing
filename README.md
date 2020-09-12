@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+Unix is simple. It just takes a genius to understand its simplicity.
 
-~ Maurice Wilkes
+~ Dennis Ritchie
 <pre>
 
 </pre>
