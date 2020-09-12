@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 
-~ Grady Booch
+~ Bill Gates
 <pre>
 
 </pre>
