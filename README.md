@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Cool URIs don't change.
+The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
 
-~ Tim Berners-Lee
+~ Elon Musk
 <pre>
 
 </pre>
