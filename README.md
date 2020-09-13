@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Really care about the tools you use because they are what make you your best.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-~ Addy Osmani
+~ Rick Osborne
 <pre>
 
 </pre>
