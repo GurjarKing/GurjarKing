@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 
-~ Hal Abelson
+~ Philip Greenspun
 <pre>
 
 </pre>
