@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+Programming can be addictive.
 
-~ Gerald Weinberg
+~ Bob Carr
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ When program developers are not territorial about their code and encourage other
 </pre>
 <strong>Daily News</strong>
   
-  - SoftBank could make, gasp, a profit on its expected sale of Arm for $40B
+  - Check out these Breakout Sessions at Disrupt 2020
      <hr/>
      
-      - *While the big deal we have been tracking the past few weeks has been TikTok, there was another massive deal under negotiation that mirrors some of the international tech dynamics that have plagued the consumer social app’s sale. Arm Holdings, which is the mos…*
+      - *We’re on the brink of the biggest Disrupt in TechCrunch history. It’s five days of education, exhibition, competition and connection that spans the globe. As you plan your schedule, keep this in mind: You’ll find some of the most insightful and downright inte…*
      
+  - SoftBank could make, gasp, a profit on its expected sale of Arm for $40B
+      <hr/>
+      
+      - *While the big deal we have been tracking the past few weeks has been TikTok, there was another massive deal under negotiation that mirrors some of the international tech dynamics that have plagued the consumer social app’s sale. Arm Holdings, which is the mos…*
+      
   - Elon Musk says Starship SN8 prototype will have a nosecone and attempt a 60,000-foot return flight
       <hr/>
       
@@ -73,16 +78,11 @@ When program developers are not territorial about their code and encourage other
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. This week we’re taking a look at the bad side of the cloud software market. Tech and software stocks are struggling.*
-      
+       
   - Snowflake, Unity, JFrog move towards IPOs despite public market turmoil
       <hr/>
-      
-      - *Warren Buffet is eager to invest in a money-burning SaaS unicorn that is about to IPO.*
        
-  - Disrupt 2020 kicks off tomorrow — are you ready?
-      <hr/>
-       
-       - *Happy Disrupt 2020 Eve, startup fans! It’s been a crazy mad dash to transform our annual flagship San Francisco event at Moscone Center into the first all-virtual Disrupt (thanks, COVID-19). Then again, going global seems an appropriate way to celebrate 10 ye…*
+       - *Warren Buffet is eager to invest in a money-burning SaaS unicorn that is about to IPO.*
       
 
 <br />
