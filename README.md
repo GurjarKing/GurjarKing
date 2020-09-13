@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+Cool URIs don't change.
 
-~ Alan Turing
+~ Tim Berners-Lee
 <pre>
 
 </pre>
