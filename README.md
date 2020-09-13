@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming can be addictive.
+So much complexity in software comes from trying to make one thing do two things.
 
-~ Bob Carr
+~ Ryan Singer
 <pre>
 
 </pre>
