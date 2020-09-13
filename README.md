@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+The proper use of comments is to compensate for our failure to express ourself in code.
 
-~ Philip Greenspun
+~ Robert C. Martin
 <pre>
 
 </pre>
