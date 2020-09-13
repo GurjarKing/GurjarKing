@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 
-~ Elon Musk
+~ Tom DeMarco
 <pre>
 
 </pre>
