@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 
-~ John Carmack
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
