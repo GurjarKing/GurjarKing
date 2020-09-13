@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
 
-~ John von Neumann
+~ Albert Einstein
 <pre>
 
 </pre>
