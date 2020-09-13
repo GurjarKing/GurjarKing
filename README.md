@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think the best way to supervise is by personal example and by frequent code reviews.
+What is simplicity? Simplicity is the shortest path to a solution.
 
-~ Charles Simonyi
+~ Ward Cunningham
 <pre>
 
 </pre>
