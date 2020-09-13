@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+The best way to predict the future is to invent it.
 
-~ Alan Turing
+~ Alan Kay
 <pre>
 
 </pre>
