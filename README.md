@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
 
-~ Rick Osborne
+~ John Locke
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Always code as if the guy who ends up maintaining your code will be a violent ps
 </pre>
 <strong>Daily News</strong>
   
-  - Tune in today at 12pm PDT for an essential Disrupt 2020 Sneak Peak
+  - Graphic video of suicide spreads from Facebook to TikTok to YouTube as platforms fail moderation test
      <hr/>
      
-      - *Are you ready to experience a Disrupt event like no other? Thousands of attendees from around the world, an all-star lineup of tech icons, movers, shakers and unicorn makers. Opportunities around every corner just waiting to be discovered. Are we amped up at …*
+      - *A graphic video of a man committing suicide on Facebook Live has spread from there to TikTok, Twitter, Instagram and now YouTube, where it ran alongside ads and attracted thousands more views. Do what they will, these platforms can’t seem to stop the spread, …*
      
+  - Tune in today at 12pm PDT for an essential Disrupt 2020 Sneak Peak
+      <hr/>
+      
+      - *Are you ready to experience a Disrupt event like no other? Thousands of attendees from around the world, an all-star lineup of tech icons, movers, shakers and unicorn makers. Opportunities around every corner just waiting to be discovered. Are we amped up at …*
+      
   - Check out these Breakout Sessions at Disrupt 2020
       <hr/>
       
@@ -73,16 +78,11 @@ Always code as if the guy who ends up maintaining your code will be a violent ps
       <hr/>
       
       - *While the big deal we have been tracking the past few weeks has been TikTok, there was another massive deal under negotiation that mirrors some of the international tech dynamics that have plagued the consumer social app’s sale. Arm Holdings, which is the mos…*
-      
+       
   - Elon Musk says Starship SN8 prototype will have a nosecone and attempt a 60,000-foot return flight
       <hr/>
-      
-      - *Elon Musk has shared some details about future testing of Starship, the SpaceX launch vehicle currently being developed by the company at its Boca Chica, Texas facility. Recently, SpaceX has completed short, 150 meter (just under 500 feet) test flights of two…*
        
-  - Is the vaunted cloud acceleration falling flat?
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. This week we’re taking a look at the bad side of the cloud software market. Tech and software stocks are struggling.*
+       - *Elon Musk has shared some details about future testing of Starship, the SpaceX launch vehicle currently being developed by the company at its Boca Chica, Texas facility. Recently, SpaceX has completed short, 150 meter (just under 500 feet) test flights of two…*
       
 
 <br />
