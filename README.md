@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+I think the best way to supervise is by personal example and by frequent code reviews.
 
-~ Alan Kay
+~ Charles Simonyi
 <pre>
 
 </pre>
