@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 
-~ Elon Musk
+~ Martin Fowler
 <pre>
 
 </pre>
