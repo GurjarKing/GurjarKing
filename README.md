@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 
-~ Ward Cunningham
+~ John von Neumann
 <pre>
 
 </pre>
