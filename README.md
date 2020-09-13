@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
 
-~ Albert Einstein
+~ Hal Abelson
 <pre>
 
 </pre>
