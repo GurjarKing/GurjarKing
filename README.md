@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Nine women can't make a baby in one month.
+A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Nine women can't make a baby in one month.
 </pre>
 <strong>Daily News</strong>
   
-  - Quantum startup CEO suggests we are only five years away from a quantum desktop computer
+  - Leaked memo excoriates Facebook's 'slapdash and haphazard' response to global political manipulation
      <hr/>
      
-      - *Today at TechCrunch Disrupt 2020, leaders from three quantum computing startups joined TechCrunch editor Frederic Lardinois to discuss the future of the technology. IonQ CEO and president Peter Chapman suggested we could be as little as five years away from a…*
+      - *A former Facebook data scientist dropped a detailed, damning memo on her last day there, calling the social network out for what she describes as an arbitrary, slow, and generally inadequate response to fake accounts and activity affecting politics worldwide.…*
      
+  - Quantum startup CEO suggests we are only five years away from a quantum desktop computer
+      <hr/>
+      
+      - *Today at TechCrunch Disrupt 2020, leaders from three quantum computing startups joined TechCrunch editor Frederic Lardinois to discuss the future of the technology. IonQ CEO and president Peter Chapman suggested we could be as little as five years away from a…*
+      
   - As it heads for IPO, Palantir hires a chief accountant and gets approval from NYSE to trade
       <hr/>
       
@@ -73,16 +78,11 @@ Nine women can't make a baby in one month.
       <hr/>
       
       - *What market selloff? Despite last week’s market declines, two big IPOs are rolling ahead this week, with Snowflake and JFrog both boosting their IPO price ranges this morning. The jump in expected pricing means each IPO will likely raise more capital, valuing…*
-      
+       
   - A bug in Joe Biden's campaign app gave anyone access to millions of voter files
       <hr/>
-      
-      - *Anyone could look up private voter information on millions of Americans.*
        
-  - How to hire your first engineer: A guide for nontechnical founders
-      <hr/>
-       
-       - *For founders who have a startup idea — but few engineering skills to make it a reality — making the team’s first technical hire can be a daunting task. Nontechnical founders will face greater challenges when it comes to sourcing and recruiting engineering tal…*
+       - *Anyone could look up private voter information on millions of Americans.*
       
 
 <br />
