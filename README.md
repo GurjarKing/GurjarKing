@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
 
-~ George Boole
+~ John Locke
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Of the many forms of false culture, a premature converse with abstractions is pe
 </pre>
 <strong>Daily News</strong>
   
-  - Europe starts testing app interoperability service to power cross-border COVID-19 exposure alerts
+  - ARM co-founder starts 'Save Arm' campaign to keep independence amid $40B Nvidia deal
      <hr/>
      
-      - *The European Commission has begun testing backend infrastructure that’s needed to make national coronavirus contacts tracing apps interoperate across the bloc’s internal borders. It’s kicked off test runs between the backend servers of the official apps from …*
+      - *ARM Holdings, the UK semiconductor company, made history for the second time today, becoming the country’s biggest tech exit when Nvidia announced over the weekend that it would buy it from SoftBank for $40 billion in an all-stock deal. (ARM’s first appearanc…*
      
+  - YouTube launches its TikTok rival, YouTube Shorts, initially in India
+      <hr/>
+      
+      - *As TikTok’s fate in the U.S. remains murky, YouTube today announced the launch of a new short-form video experience it’s calling YouTube Shorts. The feature will allow users, initially in India, to upload 15-second or less short-form videos using a new set of…*
+      
+  - Microsoft's Project Natick underwater datacenter experiment confirms viability of seafloor data storage
+      <hr/>
+      
+      - *Microsoft has concluded a years-long experiment involving use of a shipping container-sized underwater data center, placed on the sea floor off the cost of Scotland’s Orkney Islands. The company pulled its ‘Project Natick’ underwater data warehouse up out of …*
+      
+  - Europe starts testing app interoperability service to power cross-border COVID-19 exposure alerts
+      <hr/>
+      
+      - *The European Commission has begun testing backend infrastructure that’s needed to make national coronavirus contacts tracing apps interoperate across the bloc’s internal borders. It’s kicked off test runs between the backend servers of the official apps from …*
+       
   - Equity Monday: The TikTok mess, two funding rounds, and NVIDIA will buy ARM
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
-      
-  - Extra Crunch membership now available to readers in Australia
-      <hr/>
-      
-      - *TechCrunch's premium membership is available in Australia. The membership includes access to exclusive articles for startup teams, founders, and investors.*
-      
-  - Beyond Meat is introducing pre-packaged meatballs at stores across America
-      <hr/>
-      
-      - *Indulging in American food companies’ favorite pastime of marketing innovations that no one needs but potentially everyone wants, Beyond Meat is launching Beyond Meatballs in grocery stores nationwide this week. The new product can be put on top of spaghetti,…*
        
-  - Airtable raises $185M and launches new low-code and automation features
-      <hr/>
-       
-       - *The spreadsheet-centric database and no-code platform Airtable today announced that it has raised a $185 million Series D funding round, putting the company at a $2.585 billion post-money valuation. Thrive Capital led the round, with additional funding by exi…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
       
 
 <br />
