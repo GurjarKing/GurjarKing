@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 
-~ Tom DeMarco
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The business of software building isn't really high-tech at all. It's most of al
 </pre>
 <strong>Daily News</strong>
   
-  - Learn how to build a sales team at Disrupt 2020
+  - Oracle boots out Microsoft and wins bid to buy TikTok, reports say
      <hr/>
      
-      - *The classic model of enterprise sales (the relationship building, the big client dinners, the baseball games, etc) was upended in the 2010s. New approaches like inside sales offered better leverage for salespeople, better metrics to track performance, and a m…*
+      - *Enterprise provider Oracle is said to have won the bidding war for the U.S. operations of TikTok, a chase in which Microsoft was booted out earlier today. The Wall Street Journal writes that Oracle will be announced as TikTok’s “trusted tech partner” in the U…*
      
+  - Nvidia confirms $40B purchase of Arm, bringing together two chip giants
+      <hr/>
+      
+      - *After weeks of on-and-off speculation, Nvidia this evening confirmed that it intends to buy chip design giant Arm Holdings for a total of up to $40 billion from existing owner SoftBank, which bought the company for $32 billion in 2016. The boards of all three…*
+      
+  - Samsung is holding yet another Unpacked Event on September 23
+      <hr/>
+      
+      - *One thing I’ll say for in-person events: they compelled companies to cram in a lot of news. After all, if you’re going to ask an auditorium full of people to travel from around the country — or world — you want to give them a lot of bang for their buck. Samsu…*
+      
+  - Learn how to build a sales team at Disrupt 2020
+      <hr/>
+      
+      - *The classic model of enterprise sales (the relationship building, the big client dinners, the baseball games, etc) was upended in the 2010s. New approaches like inside sales offered better leverage for salespeople, better metrics to track performance, and a m…*
+       
   - Disrupt 2020 starts tomorrow... join us for the LIVE pre-show right now!
       <hr/>
-      
-      - *We simply can’t wait. Disrupt 2020 officially kicks off tomorrow morning at 9am PT, but there are so many exciting features in this show — from the speaker lineup to the Startup Battlefield competition to the wide variety of features included in this new virt…*
-      
-  - Graphic video of suicide spreads from Facebook to TikTok to YouTube as platforms fail moderation test
-      <hr/>
-      
-      - *A graphic video of a man committing suicide on Facebook Live has spread from there to TikTok, Twitter, Instagram and now YouTube, where it ran alongside ads and attracted thousands more views. Do what they will, these platforms can’t seem to stop the spread, …*
-      
-  - Tune in today at 12pm PDT for an essential Disrupt 2020 Sneak Peak
-      <hr/>
-      
-      - *Are you ready to experience a Disrupt event like no other? Thousands of attendees from around the world, an all-star lineup of tech icons, movers, shakers and unicorn makers. Opportunities around every corner just waiting to be discovered. Are we amped up at …*
        
-  - Check out these Breakout Sessions at Disrupt 2020
-      <hr/>
-       
-       - *We’re on the brink of the biggest Disrupt in TechCrunch history. It’s five days of education, exhibition, competition and connection that spans the globe. As you plan your schedule, keep this in mind: You’ll find some of the most insightful and downright inte…*
+       - *We simply can’t wait. Disrupt 2020 officially kicks off tomorrow morning at 9am PT, but there are so many exciting features in this show — from the speaker lineup to the Startup Battlefield competition to the wide variety of features included in this new virt…*
       
 
 <br />
