@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+Software gets slower faster than hardware gets faster.
 
-~ Bill Gates
+~ Niklaus Wirth
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A great programmer thinks about the program on a constant basis, whether driving
 </pre>
 <strong>Daily News</strong>
   
-  - Oracle boots out Microsoft and wins bid to buy TikTok, reports say
+  - Human Capital announces the winners of its Delta fellowship program
      <hr/>
      
-      - *Enterprise provider Oracle is said to have won the bidding war for the U.S. operations of TikTok, a chase in which Microsoft was booted out earlier today. The Wall Street Journal writes that Oracle will be announced as TikTok’s “trusted tech partner” in the U…*
+      - *Today, in the first interview of Disrupt 2020, Human Capital’s Baris Akis and investor Michael Ovitz announced the winners of its Delta Fellowship program. Human Capital launched in 2016 with a mission to become a talent agency for engineers in the same way t…*
      
+  - Oracle boots out Microsoft and wins bid to buy TikTok, reports say
+      <hr/>
+      
+      - *Enterprise provider Oracle is said to have won the bidding war for the U.S. operations of TikTok, a chase in which Microsoft was booted out earlier today. The Wall Street Journal writes that Oracle will be announced as TikTok’s “trusted tech partner” in the U…*
+      
   - Nvidia confirms $40B purchase of Arm, bringing together two chip giants
       <hr/>
       
@@ -73,16 +78,11 @@ A great programmer thinks about the program on a constant basis, whether driving
       <hr/>
       
       - *One thing I’ll say for in-person events: they compelled companies to cram in a lot of news. After all, if you’re going to ask an auditorium full of people to travel from around the country — or world — you want to give them a lot of bang for their buck. Samsu…*
-      
+       
   - Learn how to build a sales team at Disrupt 2020
       <hr/>
-      
-      - *The classic model of enterprise sales (the relationship building, the big client dinners, the baseball games, etc) was upended in the 2010s. New approaches like inside sales offered better leverage for salespeople, better metrics to track performance, and a m…*
        
-  - Disrupt 2020 starts tomorrow... join us for the LIVE pre-show right now!
-      <hr/>
-       
-       - *We simply can’t wait. Disrupt 2020 officially kicks off tomorrow morning at 9am PT, but there are so many exciting features in this show — from the speaker lineup to the Startup Battlefield competition to the wide variety of features included in this new virt…*
+       - *The classic model of enterprise sales (the relationship building, the big client dinners, the baseball games, etc) was upended in the 2010s. New approaches like inside sales offered better leverage for salespeople, better metrics to track performance, and a m…*
       
 
 <br />
