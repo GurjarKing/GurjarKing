@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
+Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 
-~ Richard Moore (engineer)
+~ George Boole
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The difference between theory and practice is that in theory, there is no differ
 </pre>
 <strong>Daily News</strong>
   
-  - Beyond Meat is introducing pre-packaged meatballs at stores across America
+  - Europe starts testing app interoperability service to power cross-border COVID-19 exposure alerts
      <hr/>
      
-      - *Indulging in American food companies’ favorite pastime of marketing innovations that no one needs but potentially everyone wants, Beyond Meat is launching Beyond Meatballs in grocery stores nationwide this week. The new product can be put on top of spaghetti,…*
+      - *The European Commission has begun testing backend infrastructure that’s needed to make national coronavirus contacts tracing apps interoperate across the bloc’s internal borders. It’s kicked off test runs between the backend servers of the official apps from …*
      
+  - Equity Monday: The TikTok mess, two funding rounds, and NVIDIA will buy ARM
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      
+  - Extra Crunch membership now available to readers in Australia
+      <hr/>
+      
+      - *TechCrunch's premium membership is available in Australia. The membership includes access to exclusive articles for startup teams, founders, and investors.*
+      
+  - Beyond Meat is introducing pre-packaged meatballs at stores across America
+      <hr/>
+      
+      - *Indulging in American food companies’ favorite pastime of marketing innovations that no one needs but potentially everyone wants, Beyond Meat is launching Beyond Meatballs in grocery stores nationwide this week. The new product can be put on top of spaghetti,…*
+       
   - Airtable raises $185M and launches new low-code and automation features
       <hr/>
-      
-      - *The spreadsheet-centric database and no-code platform Airtable today announced that it has raised a $185 million Series D funding round, putting the company at a $2.585 billion post-money valuation. Thrive Capital led the round, with additional funding by exi…*
-      
-  - Red Ventures acquires CNET Media Group from ViacomCBS for $500M
-      <hr/>
-      
-      - *Another big M&A play is going down in the the world of media. Publishing group Red Ventures today announced that it is buying CNET Media Group from ViacomCBS for $500 million. The deal will include the eponymous CNET tech site, as well as ZDNet, Gamespot, TVG…*
-      
-  - YouTube hit with UK class action style suit seeking $3BN+ for 'unlawful' use of kids' data
-      <hr/>
-      
-      - *Another class action style lawsuit has been lodged against a tech giant in the UK alleging violations of privacy and seeking major damages. The latest representative action, filed against Google-owned YouTube, accuses the platform of routinely breaking UK and…*
        
-  - Facebook introduces a co-viewing experience in Messenger, 'Watch Together'
-      <hr/>
-       
-       - *Facebook today is rolling out a new feature that will allow friends and family to watch videos together over Messenger. The feature, called “Watch Together,” works with all Facebook Watch video content, including its original programs, user uploads, creator c…*
+       - *The spreadsheet-centric database and no-code platform Airtable today announced that it has raised a $185 million Series D funding round, putting the company at a $2.585 billion post-money valuation. Thrive Capital led the round, with additional funding by exi…*
       
 
 <br />
