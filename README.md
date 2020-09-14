@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+When there is no type hierarchy you don’t have to manage the type hierarchy.
 
-~ Brian Kernighan
+~ Rob Pike
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The most effective debugging tool is still careful thought, coupled with judicio
 </pre>
 <strong>Daily News</strong>
   
-  - The Black List's Franklin Leonard on why picking winners doesn't mean making losers
+  - N95 masks could soon be rechargeable instead of disposable
      <hr/>
      
-      - *Tech and Hollywood don’t cross-pollinate that often, but when it comes to Franklin Leonard’s way of looking at things, maybe they should. Leonard is best known as the creator of the Black List, a curated collection of the most underrated screenplays of the ye…*
+      - *The pandemic has led to N95 masks quickly becoming one of the world’s most sought-after resources as essential workers burned through billions of them. New research could lead to an N95 that you can recharge rather than throw away — or even one that continuou…*
      
+  - SEC to investigate short seller's claims against Nikola, report says
+      <hr/>
+      
+      - *The U.S. Securities and Exchange Commission is reportedly looking into claims that Nikola Corp. is involved in an alleged “intricate fraud,” the latest development in a controversy that erupted last week just days after GM took an 11% stake in the newly publi…*
+      
+  - Airtable's Howie Liu has no interest in exiting, even as the company's valuation soars
+      <hr/>
+      
+      - *In the middle of a pandemic, Airtable, the low-code startup, has actually had an excellent year. Just the other day, the company announced it had raised $185 million on a whopping $2.585 billion valuation. It also announced some new features that take it from…*
+      
+  - The Black List's Franklin Leonard on why picking winners doesn't mean making losers
+      <hr/>
+      
+      - *Tech and Hollywood don’t cross-pollinate that often, but when it comes to Franklin Leonard’s way of looking at things, maybe they should. Leonard is best known as the creator of the Black List, a curated collection of the most underrated screenplays of the ye…*
+       
   - Leaked memo excoriates Facebook's 'slapdash and haphazard' response to global political manipulation
       <hr/>
-      
-      - *A former Facebook data scientist dropped a detailed, damning memo on her last day there, calling the social network out for what she describes as an arbitrary, slow, and generally inadequate response to fake accounts and activity affecting politics worldwide.…*
-      
-  - Quantum startup CEO suggests we are only five years away from a quantum desktop computer
-      <hr/>
-      
-      - *Today at TechCrunch Disrupt 2020, leaders from three quantum computing startups joined TechCrunch editor Frederic Lardinois to discuss the future of the technology. IonQ CEO and president Peter Chapman suggested we could be as little as five years away from a…*
-      
-  - As it heads for IPO, Palantir hires a chief accountant and gets approval from NYSE to trade
-      <hr/>
-      
-      - *After 17 years, Palantir is getting closer and closer to its public debut later this month. We’ve been covering different facets of the company’s direct listing process including concerns about its governance and how insiders are accelerating the sale of thei…*
        
-  - Snowflake and JFrog raise IPO ranges as tech markets stay hot
-      <hr/>
-       
-       - *What market selloff? Despite last week’s market declines, two big IPOs are rolling ahead this week, with Snowflake and JFrog both boosting their IPO price ranges this morning. The jump in expected pricing means each IPO will likely raise more capital, valuing…*
+       - *A former Facebook data scientist dropped a detailed, damning memo on her last day there, calling the social network out for what she describes as an arbitrary, slow, and generally inadequate response to fake accounts and activity affecting politics worldwide.…*
       
 
 <br />
