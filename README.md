@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To iterate is human, to recurse divine.
+Any product that needs a manual to work is broken.
 
-~ L. Peter Deutsch
+~ Elon Musk
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ To iterate is human, to recurse divine.
 </pre>
 <strong>Daily News</strong>
   
-  - Courier raises $10.1M Series A to help developers integrate multi-channel notifications
+  - Sentinel loads up with $1.35M in the deepfake detection arms race
      <hr/>
      
-      - *Courier is an API platform with a no-code twist that helps developers add multi-channel user notifications to their applications. The company today announced that it has raised a $10.1 million Series A funding round led by Bessemer Venture Partners. Matrix Pa…*
+      - *Estonia-based Sentinel, which is developing a detection platform for identifying synthesized media (aka deepfakes), has closed a $1.35 million seed round from some seasoned angle investors — including Jaan Tallinn (Skype), Taavet Hinrikus (Transferwise), Ragn…*
      
+  - Google will announce a new Pixel, smart speaker and Chromecast September 30
+      <hr/>
+      
+      - *Hardware season is in full swing. Apple’s big Watch event kicks off tomorrow and Samsung is readying itself for a third (!) Unpacked event on September 23. Now Google’s getting in on the fun. After opting to skip a virtual version of I/O earlier this year, th…*
+      
+  - Facebook investor Jim Breyer picks Austin as Breyer Capital's second home
+      <hr/>
+      
+      - *For Jim Breyer, the mantra, “Silicon Valley is a state of mind” has always been behind Breyer Capital, his personal investment fund. While many of his investments and board seats (which have included Facebook, Blackstone, 21st Century Fox, Dell, Etsy, Marvel …*
+      
+  - Courier raises $10.1M Series A to help developers integrate multi-channel notifications
+      <hr/>
+      
+      - *Courier is an API platform with a no-code twist that helps developers add multi-channel user notifications to their applications. The company today announced that it has raised a $10.1 million Series A funding round led by Bessemer Venture Partners. Matrix Pa…*
+       
   - Blue Origin's human lunar lander all-star space team completes first key milestone for Moon mission
       <hr/>
-      
-      - *Blue Origin, along with it partners Lockheed Martin, Northrop Grumman, and Draper, was one of three companies to be awarded contracts by NASA to develop human lunar landers for future Moon missions. Blue Origin’s so-called ‘National Team’ is focused on develo…*
-      
-  - Here’s what's happening today on day 1 of Disrupt 2020
-      <hr/>
-      
-      - *Welcome to Day One of Disrupt 2020, our biggest Disrupt ever! Over the next five days (cue Star Trek theme), you’ll explore strange new technology, seek out new opportunities and new collaborations. You’ll boldly immerse yourself with the global startup commu…*
-      
-  - What to expect from Apple’s hardware event
-      <hr/>
-      
-      - *If this was a normal year, we would be settling in for an iPhone event right about now. This is, however, very much not a normal year. And while we are, in fact, getting an Apple hardware event tomorrow at 10 a.m. PT/1 p.m. ET, it’s looking entirely possible …*
        
-  - Scientists detect a gas that typically indicates the presence of biological life in the atmosphere of Venus
-      <hr/>
-       
-       - *In a press briefing today, scientists rom the Royal Astronomical Society announced a potentially revolutionary scientific discovery: They’ve detected the presence of phosphine in the atmosphere of Venus, which suggests the possible presence of biological life…*
+       - *Blue Origin, along with it partners Lockheed Martin, Northrop Grumman, and Draper, was one of three companies to be awarded contracts by NASA to develop human lunar landers for future Moon missions. Blue Origin’s so-called ‘National Team’ is focused on develo…*
       
 
 <br />
