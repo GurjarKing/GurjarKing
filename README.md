@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+The more code you have, the more places there are for bugs to hide.
 
-~ Tim Berners-Lee
+~ Rich Skrenta
 <pre>
 
 </pre>
