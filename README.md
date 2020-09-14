@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 
-~ Edsger W. Dijkstra
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Testing can be a very effective way to show the presence of bugs, but it is hope
 </pre>
 <strong>Daily News</strong>
   
-  - GM to reveal, start taking reservations for Hummer EV on October 20
+  - How to hire your first engineer: A guide for nontechnical founders
      <hr/>
      
-      - *GM will reveal its GMC -branded electric Hummer on October 20, the same day that the company will also begin taking customer reservations for the new vehicle that it describes as a “super truck.” The Hummer EV debut, which was originally scheduled to occur Ma…*
+      - *For founders who have a startup idea — but few engineering skills to make it a reality — making the team’s first technical hire can be a daunting task. Nontechnical founders will face greater challenges when it comes to sourcing and recruiting engineering tal…*
      
-  - Clinic Price Check has built a service to see if patients can save money by paying cash for procedures
+  - DaVinci Kitchen is building a robotic pasta-making kiosk
       <hr/>
       
-      - *Before launching Clinic Price Check, Joanne Rodrigues-Craig had been a stay-at-home mom with Masters degrees in population demographics, political science and applied mathematics from Berkeley and the London School of Economics. She’d written a book on demogr…*
+      - *The robotics industry is having a major moment amid the uncertainty of the COVID-19 pandemic. It’s true that category has been an exciting target for investments for a number of years now, but labor issues and concerns over transmission have led many sectors …*
       
-  - Extra Crunch Partner Perk: Discount on Dell XPS Laptop and Dell for Entrepreneurs Program
+  - GoodRx offers founders $500M, nets $100M investment from Silver Lake, and makes quiet acquisition before IPO
       <hr/>
       
-      - *We’re excited to announce a new Partner Perk from Dell for Extra Crunch members. Starting today, annual and 2-year Extra Crunch members can get a discount on a Dell XPS Laptop as well as a discount on membership to the Dell for Entrepreneurs Program. What is …*
+      - *GoodRx is a rare breed of modern tech IPO: a startup that is actually profitable and heading to the public markets. The consumer service offers coupons on prescriptions redeemable at pharmacies that can save customers significant money on their monthly drug p…*
       
-  - As low-code startups continue to attract VC interest, what's driving customer demand?
+  - Satellite Vu aims to scope out the whole globe with thermal vision
       <hr/>
       
-      - *Investor interest in no-code, low-code apps and services advanced another step this morning with Airtable raising an outsized round. The $185 million investment into the popular database-and-spreadsheet service comes as it adds “new low-code and automation fe…*
+      - *Earth observation has grown from government-run missions to a crucial everyday business tool, but it still has room to grow. Specifically, into the thermal infrared spectrum, if startup Satellite Vu gets itself into orbit. The company plans to be able to moni…*
        
-  - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
+  - Bumble will exist as long as women do, CEO says
       <hr/>
        
-       - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
+       - *Bumble CEO Whitney Wolfe Herd wants to build a truly timeless company. “You can never disrupt the need for humans to connect. And the other thing that you can never disrupt is the need for women to feel respected and to feel equal and to feel safe and empower…*
       
 
 <br />
