@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 
-~ Alan Turing
+~ Wayne Ratliff
 <pre>
 
 </pre>
