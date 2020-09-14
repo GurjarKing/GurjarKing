@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any product that needs a manual to work is broken.
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 
-~ Elon Musk
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Any product that needs a manual to work is broken.
 </pre>
 <strong>Daily News</strong>
   
-  - Sentinel loads up with $1.35M in the deepfake detection arms race
+  - GM to reveal, start taking reservations for Hummer EV on October 20
      <hr/>
      
-      - *Estonia-based Sentinel, which is developing a detection platform for identifying synthesized media (aka deepfakes), has closed a $1.35 million seed round from some seasoned angle investors — including Jaan Tallinn (Skype), Taavet Hinrikus (Transferwise), Ragn…*
+      - *GM will reveal its GMC -branded electric Hummer on October 20, the same day that the company will also begin taking customer reservations for the new vehicle that it describes as a “super truck.” The Hummer EV debut, which was originally scheduled to occur Ma…*
      
-  - Google will announce a new Pixel, smart speaker and Chromecast September 30
+  - Clinic Price Check has built a service to see if patients can save money by paying cash for procedures
       <hr/>
       
-      - *Hardware season is in full swing. Apple’s big Watch event kicks off tomorrow and Samsung is readying itself for a third (!) Unpacked event on September 23. Now Google’s getting in on the fun. After opting to skip a virtual version of I/O earlier this year, th…*
+      - *Before launching Clinic Price Check, Joanne Rodrigues-Craig had been a stay-at-home mom with Masters degrees in population demographics, political science and applied mathematics from Berkeley and the London School of Economics. She’d written a book on demogr…*
       
-  - Facebook investor Jim Breyer picks Austin as Breyer Capital's second home
+  - Extra Crunch Partner Perk: Discount on Dell XPS Laptop and Dell for Entrepreneurs Program
       <hr/>
       
-      - *For Jim Breyer, the mantra, “Silicon Valley is a state of mind” has always been behind Breyer Capital, his personal investment fund. While many of his investments and board seats (which have included Facebook, Blackstone, 21st Century Fox, Dell, Etsy, Marvel …*
+      - *We’re excited to announce a new Partner Perk from Dell for Extra Crunch members. Starting today, annual and 2-year Extra Crunch members can get a discount on a Dell XPS Laptop as well as a discount on membership to the Dell for Entrepreneurs Program. What is …*
       
-  - Courier raises $10.1M Series A to help developers integrate multi-channel notifications
+  - As low-code startups continue to attract VC interest, what's driving customer demand?
       <hr/>
       
-      - *Courier is an API platform with a no-code twist that helps developers add multi-channel user notifications to their applications. The company today announced that it has raised a $10.1 million Series A funding round led by Bessemer Venture Partners. Matrix Pa…*
+      - *Investor interest in no-code, low-code apps and services advanced another step this morning with Airtable raising an outsized round. The $185 million investment into the popular database-and-spreadsheet service comes as it adds “new low-code and automation fe…*
        
-  - Blue Origin's human lunar lander all-star space team completes first key milestone for Moon mission
+  - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
       <hr/>
        
-       - *Blue Origin, along with it partners Lockheed Martin, Northrop Grumman, and Draper, was one of three companies to be awarded contracts by NASA to develop human lunar landers for future Moon missions. Blue Origin’s so-called ‘National Team’ is focused on develo…*
+       - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
       
 
 <br />
