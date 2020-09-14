@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Edsger W. Dijkstra
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A program is like a poem: you cannot write a poem without writing it. Yet people
 </pre>
 <strong>Daily News</strong>
   
-  - Leaked memo excoriates Facebook's 'slapdash and haphazard' response to global political manipulation
+  - The Black List's Franklin Leonard on why picking winners doesn't mean making losers
      <hr/>
      
-      - *A former Facebook data scientist dropped a detailed, damning memo on her last day there, calling the social network out for what she describes as an arbitrary, slow, and generally inadequate response to fake accounts and activity affecting politics worldwide.…*
+      - *Tech and Hollywood don’t cross-pollinate that often, but when it comes to Franklin Leonard’s way of looking at things, maybe they should. Leonard is best known as the creator of the Black List, a curated collection of the most underrated screenplays of the ye…*
      
+  - Leaked memo excoriates Facebook's 'slapdash and haphazard' response to global political manipulation
+      <hr/>
+      
+      - *A former Facebook data scientist dropped a detailed, damning memo on her last day there, calling the social network out for what she describes as an arbitrary, slow, and generally inadequate response to fake accounts and activity affecting politics worldwide.…*
+      
   - Quantum startup CEO suggests we are only five years away from a quantum desktop computer
       <hr/>
       
@@ -73,16 +78,11 @@ A program is like a poem: you cannot write a poem without writing it. Yet people
       <hr/>
       
       - *After 17 years, Palantir is getting closer and closer to its public debut later this month. We’ve been covering different facets of the company’s direct listing process including concerns about its governance and how insiders are accelerating the sale of thei…*
-      
+       
   - Snowflake and JFrog raise IPO ranges as tech markets stay hot
       <hr/>
-      
-      - *What market selloff? Despite last week’s market declines, two big IPOs are rolling ahead this week, with Snowflake and JFrog both boosting their IPO price ranges this morning. The jump in expected pricing means each IPO will likely raise more capital, valuing…*
        
-  - A bug in Joe Biden's campaign app gave anyone access to millions of voter files
-      <hr/>
-       
-       - *Anyone could look up private voter information on millions of Americans.*
+       - *What market selloff? Despite last week’s market declines, two big IPOs are rolling ahead this week, with Snowflake and JFrog both boosting their IPO price ranges this morning. The jump in expected pricing means each IPO will likely raise more capital, valuing…*
       
 
 <br />
