@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+Nine women can't make a baby in one month.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Any technological or managerial scheme to force documentation can be subverted b
 </pre>
 <strong>Daily News</strong>
   
-  - How to hire your first engineer: A guide for nontechnical founders
+  - Quantum startup CEO suggests we are only five years away from a quantum desktop computer
      <hr/>
      
-      - *For founders who have a startup idea — but few engineering skills to make it a reality — making the team’s first technical hire can be a daunting task. Nontechnical founders will face greater challenges when it comes to sourcing and recruiting engineering tal…*
+      - *Today at TechCrunch Disrupt 2020, leaders from three quantum computing startups joined TechCrunch editor Frederic Lardinois to discuss the future of the technology. IonQ CEO and president Peter Chapman suggested we could be as little as five years away from a…*
      
-  - DaVinci Kitchen is building a robotic pasta-making kiosk
+  - As it heads for IPO, Palantir hires a chief accountant and gets approval from NYSE to trade
       <hr/>
       
-      - *The robotics industry is having a major moment amid the uncertainty of the COVID-19 pandemic. It’s true that category has been an exciting target for investments for a number of years now, but labor issues and concerns over transmission have led many sectors …*
+      - *After 17 years, Palantir is getting closer and closer to its public debut later this month. We’ve been covering different facets of the company’s direct listing process including concerns about its governance and how insiders are accelerating the sale of thei…*
       
-  - GoodRx offers founders $500M, nets $100M investment from Silver Lake, and makes quiet acquisition before IPO
+  - Snowflake and JFrog raise IPO ranges as tech markets stay hot
       <hr/>
       
-      - *GoodRx is a rare breed of modern tech IPO: a startup that is actually profitable and heading to the public markets. The consumer service offers coupons on prescriptions redeemable at pharmacies that can save customers significant money on their monthly drug p…*
+      - *What market selloff? Despite last week’s market declines, two big IPOs are rolling ahead this week, with Snowflake and JFrog both boosting their IPO price ranges this morning. The jump in expected pricing means each IPO will likely raise more capital, valuing…*
       
-  - Satellite Vu aims to scope out the whole globe with thermal vision
+  - A bug in Joe Biden's campaign app gave anyone access to millions of voter files
       <hr/>
       
-      - *Earth observation has grown from government-run missions to a crucial everyday business tool, but it still has room to grow. Specifically, into the thermal infrared spectrum, if startup Satellite Vu gets itself into orbit. The company plans to be able to moni…*
+      - *Anyone could look up private voter information on millions of Americans.*
        
-  - Bumble will exist as long as women do, CEO says
+  - How to hire your first engineer: A guide for nontechnical founders
       <hr/>
        
-       - *Bumble CEO Whitney Wolfe Herd wants to build a truly timeless company. “You can never disrupt the need for humans to connect. And the other thing that you can never disrupt is the need for women to feel respected and to feel equal and to feel safe and empower…*
+       - *For founders who have a startup idea — but few engineering skills to make it a reality — making the team’s first technical hire can be a daunting task. Nontechnical founders will face greater challenges when it comes to sourcing and recruiting engineering tal…*
       
 
 <br />
