@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 
-~ Wayne Ratliff
+~ Sean Parent
 <pre>
 
 </pre>
