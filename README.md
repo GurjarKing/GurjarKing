@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
 
-~ John Carmack
+~ Elon Musk
 <pre>
 
 </pre>
