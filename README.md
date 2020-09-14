@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-JavaScript, purely by accident, has become the most popular programming language in the world.
+The difference between theory and practice is that in theory, there is no difference between theory and practice.
 
-~ Douglas Crockford
+~ Richard Moore (engineer)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ JavaScript, purely by accident, has become the most popular programming language
 </pre>
 <strong>Daily News</strong>
   
-  - YouTube hit with UK class action style suit seeking $3BN+ for 'unlawful' use of kids' data
+  - Beyond Meat is introducing pre-packaged meatballs at stores across America
      <hr/>
      
-      - *Another class action style lawsuit has been lodged against a tech giant in the UK alleging violations of privacy and seeking major damages. The latest representative action, filed against Google-owned YouTube, accuses the platform of routinely breaking UK and…*
+      - *Indulging in American food companies’ favorite pastime of marketing innovations that no one needs but potentially everyone wants, Beyond Meat is launching Beyond Meatballs in grocery stores nationwide this week. The new product can be put on top of spaghetti,…*
      
+  - Airtable raises $185M and launches new low-code and automation features
+      <hr/>
+      
+      - *The spreadsheet-centric database and no-code platform Airtable today announced that it has raised a $185 million Series D funding round, putting the company at a $2.585 billion post-money valuation. Thrive Capital led the round, with additional funding by exi…*
+      
+  - Red Ventures acquires CNET Media Group from ViacomCBS for $500M
+      <hr/>
+      
+      - *Another big M&A play is going down in the the world of media. Publishing group Red Ventures today announced that it is buying CNET Media Group from ViacomCBS for $500 million. The deal will include the eponymous CNET tech site, as well as ZDNet, Gamespot, TVG…*
+      
+  - YouTube hit with UK class action style suit seeking $3BN+ for 'unlawful' use of kids' data
+      <hr/>
+      
+      - *Another class action style lawsuit has been lodged against a tech giant in the UK alleging violations of privacy and seeking major damages. The latest representative action, filed against Google-owned YouTube, accuses the platform of routinely breaking UK and…*
+       
   - Facebook introduces a co-viewing experience in Messenger, 'Watch Together'
       <hr/>
-      
-      - *Facebook today is rolling out a new feature that will allow friends and family to watch videos together over Messenger. The feature, called “Watch Together,” works with all Facebook Watch video content, including its original programs, user uploads, creator c…*
-      
-  - Google claims net zero carbon footprint over its entire lifetime, aims to only use carbon-free energy by 2030
-      <hr/>
-      
-      - *Google was at the leading edge of large technology companies seeking to go completely carbon neutral, having declared that status in 2007, and subsequently matching all of its global electricity consumption with renewable energy. Now, the company says that it…*
-      
-  - Walmart expands drone delivery tests to Arkansas with new Zipline partnership
-      <hr/>
-      
-      - *Walmart now has two tests for drone delivery running in the US. Early Monday morning the company announced a new drone delivery program with Zipline, a startup that made its name delivering medical supplies across Africa. The partnership with Zipline comes on…*
        
-  - TikTok hits 100M users in Europe as the clock ticks on its US business
-      <hr/>
-       
-       - *TikTok may or may not be making a deal for its US operations, which the US government says it will  shut down over national security concerns on September 20th if its Chinese ownership is not resolved. But something that the US narrative has not really addres…*
+       - *Facebook today is rolling out a new feature that will allow friends and family to watch videos together over Messenger. The feature, called “Watch Together,” works with all Facebook Watch video content, including its original programs, user uploads, creator c…*
       
 
 <br />
