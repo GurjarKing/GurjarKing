@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+A programming language is low level when its programs require attention to the irrelevant.
 
-~ Henry Ford
+~ Alan Perlis
 <pre>
 
 </pre>
