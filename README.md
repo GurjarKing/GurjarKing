@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-~ George Boole
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ There is not only a close analogy between the operations of the mind in general 
 </pre>
 <strong>Daily News</strong>
   
-  - If you care about remote employees, start tracking their performance
+  - This is the new iPad Air, with Touch ID build into the power button
      <hr/>
      
-      - *More than half of U.S. companies now plan on making working from home a permanent option, but most of us don’t know what an optimal business machine with remote operations looks like.*
+      - *At Apple’s (virtual) hardware event today, the company announced a significantly redesigned iPad Air with a new look and tiny bezels. In a move portentous for other Apple products, Touch ID has returned — inside the power button on the top of the tablet. For …*
      
-  - Twitter debuts U.S. election hub to help people navigate voting in 2020
+  - Tuverl aims to bring order and access to transit in Africa
       <hr/>
       
-      - *Twitter debuted its election hub on Tuesday, introducing a set of tools to help Americans prepare for the most uncertain election in modern U.S. history. The platform will add a new “US Elections” tab in the Explore menu, where the trending tab and other cura…*
+      - *Africa may be a diverse continent overflowing with different cultures, languages and customs, but Tuverl co-founder and CEO Hope Ndhlovu says there is one experience — or industry — that is consistent from South Africa up to Egypt and everywhere in between. P…*
       
-  - Watch Apple’s hardware event live right here
+  - Apple to release iOS 14, iPadOS 14, watchOS 14 and tvOS on September 16
       <hr/>
       
-      - *Apple is holding a keynote today to unveil some new products. This time, the company is switching to a virtual event, which means that you’ll be able to watch the event as the company is streaming it live. The event starts at 10 a.m. PDT (1 p.m. in New York, …*
+      - *Apple said its latest iOS 14 software will be released on September 16, ahead of the company’s release of the next-generation iPhones. We saw our first glimpse at iOS 14 earlier this year at Apple’s Worldwide Developer Conference, which included home screen w…*
       
-  - LanzaTech is developing a small-scale waste biomass gasifier for ethanol production in India
+  - Apple's new 'Family Setup' aims to make Apple Watch a kid tracker
       <hr/>
       
-      - *As part of the continuing global rollout of LanzaTech’s technology to capture carbon dioxide emissions and turn those emissions into fuel and chemicals, the company is rolling out a new small-scale waste biomass gasifier in India. The new gasifier, which was …*
+      - *Apple today announced a new feature that will allow families to stay better connected, even if some members of the family don’t have an iPhone. The company introduced a new feature called Family Setup that allows a parent to pair their iPhone with a child’s A…*
        
-  - Google launches new AI-powered meeting room hardware
+  - SoloSuit launches a web app to to help US users respond to debt lawsuits
       <hr/>
        
-       - *Google today announced the Google Meet Series One, a new video conferencing hardware suite for meeting rooms. Built in collaboration with Lenovo, the Series One uses high-end cameras and microphones and then marries them with Google’s AI smarts thanks to usin…*
+       - *Online service SoloSuit wants to help Americans who are being sued for a debt fight back using automated tools. The company, which is launching its service nationwide today at TechCrunch Disrupt Startup Battlefield, guides users through preparing a response t…*
       
 
 <br />
