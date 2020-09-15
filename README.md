@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming is the ultimate field for someone who likes to tinker.
+When there is no type hierarchy you don’t have to manage the type hierarchy.
 
-~ Ray Ozzie
+~ Rob Pike
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Programming is the ultimate field for someone who likes to tinker.
 </pre>
 <strong>Daily News</strong>
   
-  - Fiverr Business helps teams manage freelance projects
+  - Crista Galli Ventures outs 'evergreen' fund to back European healthtech startups at seed and Series A
      <hr/>
      
-      - *Freelance marketplace Fiverr launched a new service today designed to help teams at larger companies manage their work with freelancers. CEO Micha Kaufman told me via email that Fiverr had already begun working with larger clients, but that Fiverr Business is…*
+      - *Crista Galli Ventures, an early-stage healthtech fund in Europe, is officially launching today. The firm offers “patient capital” — with only a single LP (the Danish family office IPQ Capital) — and promises to provide portfolio companies with deep healthcare…*
      
-  - Messenger VP details use of forwarding limits and fact-checking to fight misinformation
+  - Twitter flags Indian politician's years-old tweet for violating its policy
       <hr/>
       
-      - *A few weeks ago, Facebook Messenger introduced new rules around message forwarding to limit the spread of misinformation on its platform. Speaking today at TechCrunch Disrupt 2020, Facebook Messenger VP Stan Chudnovsky offered more detail about how Facebook v…*
+      - *Twitter has flagged a post from Indian politician T. Raja Singh for violating its policy days after TechCrunch asked the social giant about the three-year-old questionable tweet. In a video tweet, Singh urged India’s Defence Minister Rajnath Singh and others …*
       
-  - Roelof Botha shares what Sequoia's Black Swan memo got wrong
+  - Dropbox CEO Drew Houston says the pandemic forced the company to reevaluate what work means
       <hr/>
       
-      - *In March, famed investment firm Sequoia Capital published the Black Swan Memo, warning founders about the potential business consequences of the coronavirus, which had not yet been labeled a pandemic. “It will take considerable time — perhaps several quarters…*
+      - *Dropbox CEO and co-founder Drew Houston, appearing at TechCrunch Disrupt today, said that COVID has accelerated a shift to distributed work that we have been talking about for some time, and these new ways of working will not simply go away when the pandemic …*
       
-  - In 2020, Warsaw's startup ecosystem is 'a place to observe carefully'
+  - Daily Crunch: Apple announces new iPads and Apple Watches
       <hr/>
       
-      - *If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list. These VCs said they are seek…*
+      - *Apple unveils new hardware and new subscriptions, Spotify adds virtual event listings and Opendoor is going public via SPAC. This is your Daily Crunch for September 15, 2020. The big story: Apple announces new iPads and Apple Watches Apple had a big hardware …*
        
-  - LanzaTech eyes two more spinoff companies
+  - Fiverr Business helps teams manage freelance projects
       <hr/>
        
-       - *Just three months after LanzaTech announced a spinout aimed at selling sustainable aviation fuel, the company is already preparing for two more. LanzaTech CEO Jennifer Holmgren said Tuesday on the Disrupt 2020 virtual stage that the carbon capture technology …*
+       - *Freelance marketplace Fiverr launched a new service today designed to help teams at larger companies manage their work with freelancers. CEO Micha Kaufman told me via email that Fiverr had already begun working with larger clients, but that Fiverr Business is…*
       
 
 <br />
