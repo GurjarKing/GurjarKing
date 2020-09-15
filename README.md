@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 
-~ Douglas Crockford
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ In JavaScript, there is a beautiful, elegant, highly expressive language that is
 </pre>
 <strong>Daily News</strong>
   
-  - Here's what’s on tap for day two of Disrupt 2020
+  - ZenHub's new automation tools improve developer hand-offs in GitHub
      <hr/>
      
-      - *Who needs caffeine after day one of Disrupt 2020? Don’t know about you, but we’re flying high on entrepreneurial euphoria. Are you buckled in and ready to take on day two? Let’s look at just some of the events of the day. You’ve got your work — and fun — cut …*
+      - *ZenHub, the popular project management solution for GitHub users, today announced the launch of its new features for automating hand-offs between teams. The idea behind Automated Workflows, as it is called, is to remove some of the manual busywork of updating…*
      
-  - Brazil's banks try to outflank challengers by investing in a $15 million round for Quanto
+  - Kleiner prints gold with Desktop Metal, netting a roughly 10x return
       <hr/>
       
-      - *Trying to outflank competition from neo banks and other potential challengers, two of Brazil’s largest financial services institutions, Bradesco and Itaú Unibanco, have invested in Quanto, a company developing technology to let retailers and other businesses …*
+      - *Desktop Metal is one of the most interesting startups to come out of Boston in some time, with a technology designed to “print metal.” That’s a potentially huge expansion for the 3D printing market, where flexible polymers are the norm, a material that limits…*
       
-  - What's ahead in IPO land for JFrog, Snowflake, Sumo Logic and Unity
+  - Watch the first official trailer for The Mandalorian Season 2, premiering October 30 on Disney+
       <hr/>
       
-      - *Welcome to Tuesday of TechCrunch Disrupt week. In a few hours, I’m hosting a panel about how startups can reach $100 million in annual recurring revenue (ARR) with the CEOs of Egnyte, GitLab and the President of Kaltura. It’s going to be a jam. Bring your que…*
+      - *Disney has released the first trailer for the second season of The Mandalorian, and it actually provides a lot of plot detail via voice over of a conversation behind main character Mando and someone directing him as to what he should do with The Child (aka Ba…*
       
-  - Building a white label tool for telemedicine services nabs OnCall Health $6 million
+  - Long-range delivery drone maker Volansi raises $50M
       <hr/>
       
-      - *As medical providers across the world turn to digital delivery of consultations and services, OnCall Health a Toronto-based provider of back-end services for telemedicine is having a moment. The company, which competes with services like Truepill to offer phy…*
+      - *Robotics generally have seen an increase in interest during the pandemic, so it makes perfect sense that investors are taking a closer look at autonomous drone delivery. That’s good news for Volansi, which just announced a $50 million Series B. The round, led…*
        
-  - Opendoor to go public by way of Chamath Palihapitiya SPAC
+  - CBS All Access to rebrand to Paramount+, expand internationally in 2021
       <hr/>
        
-       - *Today, Social Capital Hedosophia II, the blank-check company associated with investor Chamath Palihapitiya, announced that it will merge with Opendoor, taking the private real estate startup public in the process. The transaction comes during a wave of market…*
+       - *Viacom-owned streaming service CBS All Access is becoming Paramount+, the company announced this morning. The name change, which will take place next year, aims to better reflect the expanded content lineup that has joined the service following the Viacom-CBS…*
       
 
 <br />
