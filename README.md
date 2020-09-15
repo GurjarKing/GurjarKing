@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Young man, in mathematics you don't understand things. You just get used to them.
+Programming is the ultimate field for someone who likes to tinker.
 
-~ John von Neumann
+~ Ray Ozzie
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Young man, in mathematics you don't understand things. You just get used to them
 </pre>
 <strong>Daily News</strong>
   
-  - In 2020, Warsaw's startup ecosystem is 'a place to observe carefully'
+  - Fiverr Business helps teams manage freelance projects
      <hr/>
      
-      - *If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list. These VCs said they are seek…*
+      - *Freelance marketplace Fiverr launched a new service today designed to help teams at larger companies manage their work with freelancers. CEO Micha Kaufman told me via email that Fiverr had already begun working with larger clients, but that Fiverr Business is…*
      
+  - Messenger VP details use of forwarding limits and fact-checking to fight misinformation
+      <hr/>
+      
+      - *A few weeks ago, Facebook Messenger introduced new rules around message forwarding to limit the spread of misinformation on its platform. Speaking today at TechCrunch Disrupt 2020, Facebook Messenger VP Stan Chudnovsky offered more detail about how Facebook v…*
+      
+  - Roelof Botha shares what Sequoia's Black Swan memo got wrong
+      <hr/>
+      
+      - *In March, famed investment firm Sequoia Capital published the Black Swan Memo, warning founders about the potential business consequences of the coronavirus, which had not yet been labeled a pandemic. “It will take considerable time — perhaps several quarters…*
+      
+  - In 2020, Warsaw's startup ecosystem is 'a place to observe carefully'
+      <hr/>
+      
+      - *If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list. These VCs said they are seek…*
+       
   - LanzaTech eyes two more spinoff companies
       <hr/>
-      
-      - *Just three months after LanzaTech announced a spinout aimed at selling sustainable aviation fuel, the company is already preparing for two more. LanzaTech CEO Jennifer Holmgren said Tuesday on the Disrupt 2020 virtual stage that the carbon capture technology …*
-      
-  - Spotify adds virtual event listings to its app
-      <hr/>
-      
-      - *Spotify is embracing virtual events. The company today announced the addition of virtual event listings in the Spotify app, which will allow music fans to see when their favorite artists will be playing live — even if only via a livestream. These listings wil…*
-      
-  - Incredible Health updates its healthcare career platform to help nurse hiring cope with COVID
-      <hr/>
-      
-      - *The healthcare industry, even prior to the current pandemic, has never looked much like other industries when it comes to hiring and career management. That was the impetus behind Incredible Health, a startup founded by medical doctor Iman Abuzeid and Amazon …*
        
-  - The Chainsmokers just closed their debut venture fund, Mantis, with $35 million
-      <hr/>
-       
-       - *Alex Pall and Drew Taggart are best known as The Chainsmokers, an electronic DJ and production duo whose first three albums have given rise to numerous Billboard chart-topping songs, four Grammy nominations, and one Grammy award, for the song “Don’t Let Me Do…*
+       - *Just three months after LanzaTech announced a spinout aimed at selling sustainable aviation fuel, the company is already preparing for two more. LanzaTech CEO Jennifer Holmgren said Tuesday on the Disrupt 2020 virtual stage that the carbon capture technology …*
       
 
 <br />
