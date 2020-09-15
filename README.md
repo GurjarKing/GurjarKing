@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 
-~ Daniel T. Barry
+~ George Boole
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Code is expensive to change, but design is cheaper to change, and requirements a
 </pre>
 <strong>Daily News</strong>
   
-  - Google launches new AI-powered meeting room hardware
+  - If you care about remote employees, start tracking their performance
      <hr/>
      
-      - *Google today announced the Google Meet Series One, a new video conferencing hardware suite for meeting rooms. Built in collaboration with Lenovo, the Series One uses high-end cameras and microphones and then marries them with Google’s AI smarts thanks to usin…*
+      - *More than half of U.S. companies now plan on making working from home a permanent option, but most of us don’t know what an optimal business machine with remote operations looks like.*
      
-  - Waze gets smarter with trip suggestions, lane guidance, traffic notifications and more
+  - Twitter debuts U.S. election hub to help people navigate voting in 2020
       <hr/>
       
-      - *Google-owned navigation app Waze is gaining a number of new product features as well as a partnership with Amazon Music, the company announced at its first major virtual event, Waze On. Among the changes, Waze is gaining personalized recommendations based on …*
+      - *Twitter debuted its election hub on Tuesday, introducing a set of tools to help Americans prepare for the most uncertain election in modern U.S. history. The platform will add a new “US Elections” tab in the Explore menu, where the trending tab and other cura…*
       
-  - European Space Agency awards $153 million contract for its first planetary defense mission
+  - Watch Apple’s hardware event live right here
       <hr/>
       
-      - *The European Space Agency (ESA) is doing its part to help protect the Earth from any errant asteroids that may threaten terrestrial life, awarding a €129.4 million ($153 million) contract to an industry consortium led by German space company OHB. The contract…*
+      - *Apple is holding a keynote today to unveil some new products. This time, the company is switching to a virtual event, which means that you’ll be able to watch the event as the company is streaming it live. The event starts at 10 a.m. PDT (1 p.m. in New York, …*
       
-  - Black Tech Pipeline proves the 'pipeline problem' isn't real
+  - LanzaTech is developing a small-scale waste biomass gasifier for ethanol production in India
       <hr/>
       
-      - *The tech industry has become known as a place that is predominantly white and male. Contrary to the misguided popular belief, it’s not a pipeline problem as much as it’s a retention problem. Black Tech Pipeline, aims to debunk that myth and help support Black…*
+      - *As part of the continuing global rollout of LanzaTech’s technology to capture carbon dioxide emissions and turn those emissions into fuel and chemicals, the company is rolling out a new small-scale waste biomass gasifier in India. The new gasifier, which was …*
        
-  - ZenHub's new automation tools improve developer hand-offs in GitHub
+  - Google launches new AI-powered meeting room hardware
       <hr/>
        
-       - *ZenHub, the popular project management solution for GitHub users, today announced the launch of its new features for automating hand-offs between teams. The idea behind Automated Workflows, as it is called, is to remove some of the manual busywork of updating…*
+       - *Google today announced the Google Meet Series One, a new video conferencing hardware suite for meeting rooms. Built in collaboration with Lenovo, the Series One uses high-end cameras and microphones and then marries them with Google’s AI smarts thanks to usin…*
       
 
 <br />
