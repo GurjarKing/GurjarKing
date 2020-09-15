@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Ada Lovelace
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The science of operations, as derived from mathematics more especially, is a sci
 </pre>
 <strong>Daily News</strong>
   
-  - HowGood launches Latis, a sustainability assessment tool for consumer product ingredients
+  - Formlabs announces a large-format medical and dental 3D printer
      <hr/>
      
-      - *The New York-based startup HowGood, which provides a sustainability database for consumer product ingredients, is publicly launching its product Latis and has already signed an initial customer with Danone North America, the company said. The company said tha…*
+      - *Formlabs was one of a few desktop 3D printing companies to weather the massive tech bubble a few years back. The Somerville, Massachusetts-based company set itself apart by bringing advanced industrial 3D-printing technologies to the consumer space. In recent…*
      
-  - Virtual events platform Airmeet raises $12M
+  - Data virtualization service Varada raises $12M
       <hr/>
       
-      - *Airmeet, a startup that offers a platform to host virtual events, said on Tuesday it has raised $12 million in a new financing round as the Bangalore-headquartered firm demonstrates accelerating growth in its user base. Sequoia Capital India led the $12 milli…*
+      - *Varada, a Tel Aviv-based startup that focuses on making it easier for businesses to query data across services, today announced that it has raised a $12 million Series A round led by Israeli early-stage fund MizMaa Ventures, with participation by Gefen Capita…*
       
-  - Austin-based EmPath's employee training and re-skilling service snags seed funding from B Capital
+  - Verkada adds environmental sensors to cloud-based building operations toolkit
       <hr/>
       
-      - *By the time Felix Ortiz III left the Army in 2006, the Brooklyn, NY native had spent time taking classes at the City University of New York and St. John’s. Those experiences led him to found ViridisLearning, which aimed to give universities a better way to tr…*
+      - *As we go deeper into the pandemic, many buildings sit empty or have limited capacity. During times like these having visibility into the state of the building can give building operations peace of mind. Today, Verkada, a startup that helps operations manage b…*
       
-  - Uber wants to help its drivers and delivery workers register to vote
+  - Researchers ready world-first vision restoration device for human clinical trials
       <hr/>
       
-      - *With the 2020 general election coming up in November, Uber has partnered with TurboVote to launch an in-app feature designed to help riders, eaters, drivers and delivery workers register to vote. This comes after Uber CEO Dara Khosrowshahi in August said the …*
+      - *Over a decade’s worth of work by scientists working at Melbourne, Australia’s Monash University has produced a first-of-its-kind device that can restore vision to the blind, using a combination of smartphone-style electronics and brain-implanted micro electro…*
        
-  - Facebook announces $4.3 million grant for small businesses in India, introduces support for gift cards
+  - Mette Lykke on food waste and building a big startup on a big idea
       <hr/>
        
-       - *More than a third of small and medium-sized businesses on Facebook in India expect cash flow to be a challenge for them as they navigate through the coronavirus pandemic in the next few months, according to a report by Organisation for Economic Co-operation a…*
+       - *Food has been an ever-present touchpoint in the world of startups, and I don’t mean the free catered lunches, or expansive canteens that you get in bigger places, to keep startup workers sustained but also focused on building, without leaving the building. Th…*
       
 
 <br />
