@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+Talk is cheap. Show me the code.
 
-~ Maurice Wilkes
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
 </pre>
 <strong>Daily News</strong>
   
-  - This is the new iPad Air, with Touch ID build into the power button
+  - Triller aims for TikTok with additions of influencers like Charli D'Amelio and Addison Rae
      <hr/>
      
-      - *At Apple’s (virtual) hardware event today, the company announced a significantly redesigned iPad Air with a new look and tiny bezels. In a move portentous for other Apple products, Touch ID has returned — inside the power button on the top of the tablet. For …*
+      - *Triller had been poised to benefit from a potential TikTok ban in the U.S. Though that may not happen now, given the apparent Oracle deal, the chaos around TikTok has increased the attention given to alternative apps such as Triller. As TikTok users sought ou…*
      
-  - Tuverl aims to bring order and access to transit in Africa
+  - Replace legacy healthcare staffing with a vertical marketplace for workers
       <hr/>
       
-      - *Africa may be a diverse continent overflowing with different cultures, languages and customs, but Tuverl co-founder and CEO Hope Ndhlovu says there is one experience — or industry — that is consistent from South Africa up to Egypt and everywhere in between. P…*
+      - *Let’s galvanize the collective distress COVID-19 has created and use it to pioneer a more efficient model for all.*
       
-  - Apple to release iOS 14, iPadOS 14, watchOS 14 and tvOS on September 16
+  - Vibe introduces a remote collaboration solution that works with your favorite apps
       <hr/>
       
-      - *Apple said its latest iOS 14 software will be released on September 16, ahead of the company’s release of the next-generation iPhones. We saw our first glimpse at iOS 14 earlier this year at Apple’s Worldwide Developer Conference, which included home screen w…*
+      - *A startup called Vibe, launching today at TechCrunch Disrupt Startup Battlefield, wants to make it easier for businesses to collaborate remotely. Its system, which combines a large interactive digital whiteboard and cloud service, allows users to host remote …*
       
-  - Apple's new 'Family Setup' aims to make Apple Watch a kid tracker
+  - HacWare wants you to hate email security a little less
       <hr/>
       
-      - *Apple today announced a new feature that will allow families to stay better connected, even if some members of the family don’t have an iPhone. The company introduced a new feature called Family Setup that allows a parent to pair their iPhone with a child’s A…*
+      - *This security startup wants email security awareness to change.*
        
-  - SoloSuit launches a web app to to help US users respond to debt lawsuits
+  - Amazon-backed Indian insurtech startup Acko raises $60 million
       <hr/>
        
-       - *Online service SoloSuit wants to help Americans who are being sued for a debt fight back using automated tools. The company, which is launching its service nationwide today at TechCrunch Disrupt Startup Battlefield, guides users through preparing a response t…*
+       - *A young Indian startup that is taking on the country’s antiquated insurance industry with a digital-first product — and which has already received backing from global giant Amazon — today announced a new financing round. Bangalore-based Acko said on Tuesday i…*
       
 
 <br />
