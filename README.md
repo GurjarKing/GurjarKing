@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
 
-~ Tony Hoare
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ There are two ways of constructing a software design: One way is to make it so s
 </pre>
 <strong>Daily News</strong>
   
-  - Watch Apple’s hardware event live right here
+  - Bank-as-a-service startup Swan helps other companies issue cards, accounts and IBANs
      <hr/>
      
-      - *Apple is holding a keynote today to unveil some new products. This time, the company is switching to a virtual event, which means that you’ll be able to watch the event as the company is streaming it live. The event starts at 10 a.m. PDT (1 p.m. in New York, …*
+      - *Meet Swan, a new French startup that wants to let other companies offer financial services by issuing cards, bank accounts and IBANs with just a few lines of codes. The company could be considered as a bank-as-a-service platform, like Treezor or solarisBank. …*
      
+  - Watch Apple’s hardware event live right here
+      <hr/>
+      
+      - *Apple is holding a keynote today to unveil some new products. This time, the company is switching to a virtual event, which means that you’ll be able to watch the event as the company is streaming it live. The event starts at 10 a.m. PDT (1 p.m. in New York, …*
+      
   - Homage announces strategic partnership with Infocom, one of Japan's largest healthcare IT providers
       <hr/>
       
@@ -73,16 +78,11 @@ There are two ways of constructing a software design: One way is to make it so s
       <hr/>
       
       - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
-      
+       
   - Indian e-commerce deals site CashKaro gets $10 million Series B led by Korea Investment Partners
       <hr/>
-      
-      - *CashKaro, one of the leading cashback and coupon sites in India, will expand its range of services for e-commerce after raising $10 million in Series B funding, the New Delhi-based startup announced today. The round was led by Korea Investment Partners, with …*
        
-  - Carbon Health and Color founders see power in bringing healthcare to the edge
-      <hr/>
-       
-       - *When COVID-19 spread to the United States, the pandemic exposed two conflicting realities: a healthcare system that excels at high-cost, complex treatments, while failing to provide sufficient access at the local level. That lack of access to public health in…*
+       - *CashKaro, one of the leading cashback and coupon sites in India, will expand its range of services for e-commerce after raising $10 million in Series B funding, the New Delhi-based startup announced today. The round was led by Korea Investment Partners, with …*
       
 
 <br />
