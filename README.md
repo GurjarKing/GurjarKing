@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+The manager's function is not to make people work, but to make it possible for people to work.
 
-~ Albert Einstein
+~ Tom DeMarco
 <pre>
 
 </pre>
