@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When there is no type hierarchy you don’t have to manage the type hierarchy.
+If we’d asked the customers what they wanted, they would have said “faster horses”.
 
-~ Rob Pike
+~ Henry Ford
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ When there is no type hierarchy you don’t have to manage the type hierarchy.
 </pre>
 <strong>Daily News</strong>
   
-  - N95 masks could soon be rechargeable instead of disposable
+  - Carbon Health and Color founders see power in bringing healthcare to the edge
      <hr/>
      
-      - *The pandemic has led to N95 masks quickly becoming one of the world’s most sought-after resources as essential workers burned through billions of them. New research could lead to an N95 that you can recharge rather than throw away — or even one that continuou…*
+      - *When COVID-19 spread to the United States, the pandemic exposed two conflicting realities: a healthcare system that excels at high-cost, complex treatments, while failing to provide sufficient access at the local level. That lack of access to public health in…*
      
+  - N95 masks could soon be rechargeable instead of disposable
+      <hr/>
+      
+      - *The pandemic has led to N95 masks quickly becoming one of the world’s most sought-after resources as essential workers burned through billions of them. New research could lead to an N95 that you can recharge rather than throw away — or even one that continuou…*
+      
   - SEC to investigate short seller's claims against Nikola, report says
       <hr/>
       
@@ -73,16 +78,11 @@ When there is no type hierarchy you don’t have to manage the type hierarchy.
       <hr/>
       
       - *In the middle of a pandemic, Airtable, the low-code startup, has actually had an excellent year. Just the other day, the company announced it had raised $185 million on a whopping $2.585 billion valuation. It also announced some new features that take it from…*
-      
+       
   - The Black List's Franklin Leonard on why picking winners doesn't mean making losers
       <hr/>
-      
-      - *Tech and Hollywood don’t cross-pollinate that often, but when it comes to Franklin Leonard’s way of looking at things, maybe they should. Leonard is best known as the creator of the Black List, a curated collection of the most underrated screenplays of the ye…*
        
-  - Leaked memo excoriates Facebook's 'slapdash and haphazard' response to global political manipulation
-      <hr/>
-       
-       - *A former Facebook data scientist dropped a detailed, damning memo on her last day there, calling the social network out for what she describes as an arbitrary, slow, and generally inadequate response to fake accounts and activity affecting politics worldwide.…*
+       - *Tech and Hollywood don’t cross-pollinate that often, but when it comes to Franklin Leonard’s way of looking at things, maybe they should. Leonard is best known as the creator of the Black List, a curated collection of the most underrated screenplays of the ye…*
       
 
 <br />
