@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 
-~ Dennis Ritchie
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ What we wanted to preserve was not just a good environment in which to do progra
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
+  - Homage announces strategic partnership with Infocom, one of Japan's largest healthcare IT providers
      <hr/>
      
-      - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
+      - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
      
+  - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
+      <hr/>
+      
+      - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
+      
   - Indian e-commerce deals site CashKaro gets $10 million Series B led by Korea Investment Partners
       <hr/>
       
@@ -73,16 +78,11 @@ What we wanted to preserve was not just a good environment in which to do progra
       <hr/>
       
       - *When COVID-19 spread to the United States, the pandemic exposed two conflicting realities: a healthcare system that excels at high-cost, complex treatments, while failing to provide sufficient access at the local level. That lack of access to public health in…*
-      
+       
   - N95 masks could soon be rechargeable instead of disposable
       <hr/>
-      
-      - *The pandemic has led to N95 masks quickly becoming one of the world’s most sought-after resources as essential workers burned through billions of them. New research could lead to an N95 that you can recharge rather than throw away — or even one that continuou…*
        
-  - SEC to investigate short seller's claims against Nikola, report says
-      <hr/>
-       
-       - *The U.S. Securities and Exchange Commission is reportedly looking into claims that Nikola Corp. is involved in an alleged “intricate fraud,” the latest development in a controversy that erupted last week just days after GM took an 11% stake in the newly publi…*
+       - *The pandemic has led to N95 masks quickly becoming one of the world’s most sought-after resources as essential workers burned through billions of them. New research could lead to an N95 that you can recharge rather than throw away — or even one that continuou…*
       
 
 <br />
