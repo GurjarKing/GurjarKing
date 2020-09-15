@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 
-~ Richard Hamming
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Perhaps the central problem we face in all of computer science is how we are to 
 </pre>
 <strong>Daily News</strong>
   
-  - ZenHub's new automation tools improve developer hand-offs in GitHub
+  - Google launches new AI-powered meeting room hardware
      <hr/>
      
-      - *ZenHub, the popular project management solution for GitHub users, today announced the launch of its new features for automating hand-offs between teams. The idea behind Automated Workflows, as it is called, is to remove some of the manual busywork of updating…*
+      - *Google today announced the Google Meet Series One, a new video conferencing hardware suite for meeting rooms. Built in collaboration with Lenovo, the Series One uses high-end cameras and microphones and then marries them with Google’s AI smarts thanks to usin…*
      
-  - Kleiner prints gold with Desktop Metal, netting a roughly 10x return
+  - Waze gets smarter with trip suggestions, lane guidance, traffic notifications and more
       <hr/>
       
-      - *Desktop Metal is one of the most interesting startups to come out of Boston in some time, with a technology designed to “print metal.” That’s a potentially huge expansion for the 3D printing market, where flexible polymers are the norm, a material that limits…*
+      - *Google-owned navigation app Waze is gaining a number of new product features as well as a partnership with Amazon Music, the company announced at its first major virtual event, Waze On. Among the changes, Waze is gaining personalized recommendations based on …*
       
-  - Watch the first official trailer for The Mandalorian Season 2, premiering October 30 on Disney+
+  - European Space Agency awards $153 million contract for its first planetary defense mission
       <hr/>
       
-      - *Disney has released the first trailer for the second season of The Mandalorian, and it actually provides a lot of plot detail via voice over of a conversation behind main character Mando and someone directing him as to what he should do with The Child (aka Ba…*
+      - *The European Space Agency (ESA) is doing its part to help protect the Earth from any errant asteroids that may threaten terrestrial life, awarding a €129.4 million ($153 million) contract to an industry consortium led by German space company OHB. The contract…*
       
-  - Long-range delivery drone maker Volansi raises $50M
+  - Black Tech Pipeline proves the 'pipeline problem' isn't real
       <hr/>
       
-      - *Robotics generally have seen an increase in interest during the pandemic, so it makes perfect sense that investors are taking a closer look at autonomous drone delivery. That’s good news for Volansi, which just announced a $50 million Series B. The round, led…*
+      - *The tech industry has become known as a place that is predominantly white and male. Contrary to the misguided popular belief, it’s not a pipeline problem as much as it’s a retention problem. Black Tech Pipeline, aims to debunk that myth and help support Black…*
        
-  - CBS All Access to rebrand to Paramount+, expand internationally in 2021
+  - ZenHub's new automation tools improve developer hand-offs in GitHub
       <hr/>
        
-       - *Viacom-owned streaming service CBS All Access is becoming Paramount+, the company announced this morning. The name change, which will take place next year, aims to better reflect the expanded content lineup that has joined the service following the Viacom-CBS…*
+       - *ZenHub, the popular project management solution for GitHub users, today announced the launch of its new features for automating hand-offs between teams. The idea behind Automated Workflows, as it is called, is to remove some of the manual busywork of updating…*
       
 
 <br />
