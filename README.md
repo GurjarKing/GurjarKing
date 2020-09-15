@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Nine women can't make a baby in one month.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
-~ Fred Brooks
+~ Anonymous
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Nine women can't make a baby in one month.
 </pre>
 <strong>Daily News</strong>
   
-  - IBM publishes its quantum roadmap, says it will have a 1,000-qubit machine in 2023
+  - Austin-based EmPath's employee training and re-skilling service snags seed funding from B Capital
      <hr/>
      
-      - *IBM today, for the first time, published its road map for the future of its quantum computing hardware. There is a lot to digest here, but the most important news in the short term is that the company believes it is on its way to building a quantum processor …*
+      - *By the time Felix Ortiz III left the Army in 2006, the Brooklyn, NY native had spent time taking classes at the City University of New York and St. John’s. Those experiences led him to found ViridisLearning, which aimed to give universities a better way to tr…*
      
-  - Spotawheel raises €10M debt and equity for its 'end-to-end' used car buying platform
+  - Uber wants to help its drivers and delivery workers register to vote
       <hr/>
       
-      - *Spotawheel, the “end-to-end” digital platform for buying a used car in Poland and Greece, has raised €10 million in debt and equity funding, as it sees a bounce-back from the slowdown witnessed as the coronavirus crisis took hold. Once again the new investmen…*
+      - *With the 2020 general election coming up in November, Uber has partnered with TurboVote to launch an in-app feature designed to help riders, eaters, drivers and delivery workers register to vote. This comes after Uber CEO Dara Khosrowshahi in August said the …*
       
-  - Indian decacorn Byju's CEO talks about future acquisitions, coronavirus, and international expansion
+  - Facebook announces $4.3 million grant for small businesses in India, introduces support for gift cards
       <hr/>
       
-      - *Since India enforced a lockdown across the country in late March, shutting schools and other public places, Bangalore-headquartered startup Byju’s has emerged as one of the quintessential platforms for school-going students in the world’s second largest inter…*
+      - *More than a third of small and medium-sized businesses on Facebook in India expect cash flow to be a challenge for them as they navigate through the coronavirus pandemic in the next few months, according to a report by Organisation for Economic Co-operation a…*
       
-  - Klarna raises $650 million at a $10.6 billion valuation
+  - Europe's top court says net neutrality rules bar 'zero rating'
       <hr/>
       
-      - *Fintech startup Klarna has raised a mega-round of funding led by Silver Lake. The company is raising $650 million at a post-money valuation of $10.65 billion. Klarna says it is now the highest-valued private fintech company in Europe following today’s funding…*
+      - *The European Union’s top court has handed down its first decision on the bloc’s net neutrality rules — interpreting the law as precluding the use of commercial ‘zero rating’ by Internet services providers. ‘Zero rating’ refers to the practice of ISPs offeri…*
        
-  - Bank-as-a-service startup Swan helps other companies issue cards, accounts and IBANs
+  - IBM publishes its quantum roadmap, says it will have a 1,000-qubit machine in 2023
       <hr/>
        
-       - *Meet Swan, a new French startup that wants to let other companies offer financial services by issuing cards, bank accounts and IBANs with just a few lines of codes. The company could be considered as a bank-as-a-service platform, like Treezor or solarisBank. …*
+       - *IBM today, for the first time, published its road map for the future of its quantum computing hardware. There is a lot to digest here, but the most important news in the short term is that the company believes it is on its way to building a quantum processor …*
       
 
 <br />
