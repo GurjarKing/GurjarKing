@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 
-~ Linus Torvalds
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ An infinite number of monkeys typing into GNU Emacs would never make a good prog
 </pre>
 <strong>Daily News</strong>
   
-  - Formlabs announces a large-format medical and dental 3D printer
+  - Here's what’s on tap for day two of Disrupt 2020
      <hr/>
      
-      - *Formlabs was one of a few desktop 3D printing companies to weather the massive tech bubble a few years back. The Somerville, Massachusetts-based company set itself apart by bringing advanced industrial 3D-printing technologies to the consumer space. In recent…*
+      - *Who needs caffeine after day one of Disrupt 2020? Don’t know about you, but we’re flying high on entrepreneurial euphoria. Are you buckled in and ready to take on day two? Let’s look at just some of the events of the day. You’ve got your work — and fun — cut …*
      
-  - Data virtualization service Varada raises $12M
+  - Brazil's banks try to outflank challengers by investing in a $15 million round for Quanto
       <hr/>
       
-      - *Varada, a Tel Aviv-based startup that focuses on making it easier for businesses to query data across services, today announced that it has raised a $12 million Series A round led by Israeli early-stage fund MizMaa Ventures, with participation by Gefen Capita…*
+      - *Trying to outflank competition from neo banks and other potential challengers, two of Brazil’s largest financial services institutions, Bradesco and Itaú Unibanco, have invested in Quanto, a company developing technology to let retailers and other businesses …*
       
-  - Verkada adds environmental sensors to cloud-based building operations toolkit
+  - What's ahead in IPO land for JFrog, Snowflake, Sumo Logic and Unity
       <hr/>
       
-      - *As we go deeper into the pandemic, many buildings sit empty or have limited capacity. During times like these having visibility into the state of the building can give building operations peace of mind. Today, Verkada, a startup that helps operations manage b…*
+      - *Welcome to Tuesday of TechCrunch Disrupt week. In a few hours, I’m hosting a panel about how startups can reach $100 million in annual recurring revenue (ARR) with the CEOs of Egnyte, GitLab and the President of Kaltura. It’s going to be a jam. Bring your que…*
       
-  - Researchers ready world-first vision restoration device for human clinical trials
+  - Building a white label tool for telemedicine services nabs OnCall Health $6 million
       <hr/>
       
-      - *Over a decade’s worth of work by scientists working at Melbourne, Australia’s Monash University has produced a first-of-its-kind device that can restore vision to the blind, using a combination of smartphone-style electronics and brain-implanted micro electro…*
+      - *As medical providers across the world turn to digital delivery of consultations and services, OnCall Health a Toronto-based provider of back-end services for telemedicine is having a moment. The company, which competes with services like Truepill to offer phy…*
        
-  - Mette Lykke on food waste and building a big startup on a big idea
+  - Opendoor to go public by way of Chamath Palihapitiya SPAC
       <hr/>
        
-       - *Food has been an ever-present touchpoint in the world of startups, and I don’t mean the free catered lunches, or expansive canteens that you get in bigger places, to keep startup workers sustained but also focused on building, without leaving the building. Th…*
+       - *Today, Social Capital Hedosophia II, the blank-check company associated with investor Chamath Palihapitiya, announced that it will merge with Opendoor, taking the private real estate startup public in the process. The transaction comes during a wave of market…*
       
 
 <br />
