@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A programming language is low level when its programs require attention to the irrelevant.
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 
-~ Alan Perlis
+~ Albert Einstein
 <pre>
 
 </pre>
