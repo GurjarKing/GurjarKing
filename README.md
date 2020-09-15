@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+Premature abstraction is as bad as premature optimization.
 
-~ Linus Torvalds
+~ Luciano Ramalho
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Talk is cheap. Show me the code.
 </pre>
 <strong>Daily News</strong>
   
-  - Triller aims for TikTok with additions of influencers like Charli D'Amelio and Addison Rae
+  - Spotify adds virtual event listings to its app
      <hr/>
      
-      - *Triller had been poised to benefit from a potential TikTok ban in the U.S. Though that may not happen now, given the apparent Oracle deal, the chaos around TikTok has increased the attention given to alternative apps such as Triller. As TikTok users sought ou…*
+      - *Spotify is embracing virtual events. The company today announced the addition of virtual event listings in the Spotify app, which will allow music fans to see when their favorite artists will be playing live — even if only via a livestream. These listings wil…*
      
-  - Replace legacy healthcare staffing with a vertical marketplace for workers
+  - Incredible Health updates its healthcare career platform to help nurse hiring cope with COVID
       <hr/>
       
-      - *Let’s galvanize the collective distress COVID-19 has created and use it to pioneer a more efficient model for all.*
+      - *The healthcare industry, even prior to the current pandemic, has never looked much like other industries when it comes to hiring and career management. That was the impetus behind Incredible Health, a startup founded by medical doctor Iman Abuzeid and Amazon …*
       
-  - Vibe introduces a remote collaboration solution that works with your favorite apps
+  - The Chainsmokers just closed their debut venture fund, Mantis, with $35 million
       <hr/>
       
-      - *A startup called Vibe, launching today at TechCrunch Disrupt Startup Battlefield, wants to make it easier for businesses to collaborate remotely. Its system, which combines a large interactive digital whiteboard and cloud service, allows users to host remote …*
+      - *Alex Pall and Drew Taggart are best known as The Chainsmokers, an electronic DJ and production duo whose first three albums have given rise to numerous Billboard chart-topping songs, four Grammy nominations, and one Grammy award, for the song “Don’t Let Me Do…*
       
-  - HacWare wants you to hate email security a little less
+  - Here's everything Apple revealed at its September hardware event today
       <hr/>
       
-      - *This security startup wants email security awareness to change.*
+      - *iPads, Apple Watches, iOS 14 — and more.*
        
-  - Amazon-backed Indian insurtech startup Acko raises $60 million
+  - Triller aims for TikTok with additions of influencers like Charli D'Amelio and Addison Rae
       <hr/>
        
-       - *A young Indian startup that is taking on the country’s antiquated insurance industry with a digital-first product — and which has already received backing from global giant Amazon — today announced a new financing round. Bangalore-based Acko said on Tuesday i…*
+       - *Triller had been poised to benefit from a potential TikTok ban in the U.S. Though that may not happen now, given the apparent Oracle deal, the chaos around TikTok has increased the attention given to alternative apps such as Triller. As TikTok users sought ou…*
       
 
 <br />
