@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Premature abstraction is as bad as premature optimization.
+Young man, in mathematics you don't understand things. You just get used to them.
 
-~ Luciano Ramalho
+~ John von Neumann
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Premature abstraction is as bad as premature optimization.
 </pre>
 <strong>Daily News</strong>
   
-  - Spotify adds virtual event listings to its app
+  - In 2020, Warsaw's startup ecosystem is 'a place to observe carefully'
      <hr/>
      
-      - *Spotify is embracing virtual events. The company today announced the addition of virtual event listings in the Spotify app, which will allow music fans to see when their favorite artists will be playing live — even if only via a livestream. These listings wil…*
+      - *If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list. These VCs said they are seek…*
      
+  - LanzaTech eyes two more spinoff companies
+      <hr/>
+      
+      - *Just three months after LanzaTech announced a spinout aimed at selling sustainable aviation fuel, the company is already preparing for two more. LanzaTech CEO Jennifer Holmgren said Tuesday on the Disrupt 2020 virtual stage that the carbon capture technology …*
+      
+  - Spotify adds virtual event listings to its app
+      <hr/>
+      
+      - *Spotify is embracing virtual events. The company today announced the addition of virtual event listings in the Spotify app, which will allow music fans to see when their favorite artists will be playing live — even if only via a livestream. These listings wil…*
+      
   - Incredible Health updates its healthcare career platform to help nurse hiring cope with COVID
       <hr/>
       
       - *The healthcare industry, even prior to the current pandemic, has never looked much like other industries when it comes to hiring and career management. That was the impetus behind Incredible Health, a startup founded by medical doctor Iman Abuzeid and Amazon …*
-      
+       
   - The Chainsmokers just closed their debut venture fund, Mantis, with $35 million
       <hr/>
-      
-      - *Alex Pall and Drew Taggart are best known as The Chainsmokers, an electronic DJ and production duo whose first three albums have given rise to numerous Billboard chart-topping songs, four Grammy nominations, and one Grammy award, for the song “Don’t Let Me Do…*
-      
-  - Here's everything Apple revealed at its September hardware event today
-      <hr/>
-      
-      - *iPads, Apple Watches, iOS 14 — and more.*
        
-  - Triller aims for TikTok with additions of influencers like Charli D'Amelio and Addison Rae
-      <hr/>
-       
-       - *Triller had been poised to benefit from a potential TikTok ban in the U.S. Though that may not happen now, given the apparent Oracle deal, the chaos around TikTok has increased the attention given to alternative apps such as Triller. As TikTok users sought ou…*
+       - *Alex Pall and Drew Taggart are best known as The Chainsmokers, an electronic DJ and production duo whose first three albums have given rise to numerous Billboard chart-topping songs, four Grammy nominations, and one Grammy award, for the song “Don’t Let Me Do…*
       
 
 <br />
