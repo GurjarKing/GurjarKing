@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Everything should be made as simple as possible. But to do that you have to master complexity.
+Nine women can't make a baby in one month.
 
-~ Butler Lampson
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Everything should be made as simple as possible. But to do that you have to mast
 </pre>
 <strong>Daily News</strong>
   
-  - Indian decacorn Byju's CEO talks about future acquisitions, coronavirus, and international expansion
+  - IBM publishes its quantum roadmap, says it will have a 1,000-qubit machine in 2023
      <hr/>
      
-      - *Since India enforced a lockdown across the country in late March, shutting schools and other public places, Bangalore-headquartered startup Byju’s has emerged as one of the quintessential platforms for school-going students in the world’s second largest inter…*
+      - *IBM today, for the first time, published its road map for the future of its quantum computing hardware. There is a lot to digest here, but the most important news in the short term is that the company believes it is on its way to building a quantum processor …*
      
+  - Spotawheel raises €10M debt and equity for its 'end-to-end' used car buying platform
+      <hr/>
+      
+      - *Spotawheel, the “end-to-end” digital platform for buying a used car in Poland and Greece, has raised €10 million in debt and equity funding, as it sees a bounce-back from the slowdown witnessed as the coronavirus crisis took hold. Once again the new investmen…*
+      
+  - Indian decacorn Byju's CEO talks about future acquisitions, coronavirus, and international expansion
+      <hr/>
+      
+      - *Since India enforced a lockdown across the country in late March, shutting schools and other public places, Bangalore-headquartered startup Byju’s has emerged as one of the quintessential platforms for school-going students in the world’s second largest inter…*
+      
   - Klarna raises $650 million at a $10.6 billion valuation
       <hr/>
       
       - *Fintech startup Klarna has raised a mega-round of funding led by Silver Lake. The company is raising $650 million at a post-money valuation of $10.65 billion. Klarna says it is now the highest-valued private fintech company in Europe following today’s funding…*
-      
+       
   - Bank-as-a-service startup Swan helps other companies issue cards, accounts and IBANs
       <hr/>
-      
-      - *Meet Swan, a new French startup that wants to let other companies offer financial services by issuing cards, bank accounts and IBANs with just a few lines of codes. The company could be considered as a bank-as-a-service platform, like Treezor or solarisBank. …*
-      
-  - Watch Apple’s hardware event live right here
-      <hr/>
-      
-      - *Apple is holding a keynote today to unveil some new products. This time, the company is switching to a virtual event, which means that you’ll be able to watch the event as the company is streaming it live. The event starts at 10 a.m. PDT (1 p.m. in New York, …*
        
-  - Homage announces strategic partnership with Infocom, one of Japan's largest healthcare IT providers
-      <hr/>
-       
-       - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
+       - *Meet Swan, a new French startup that wants to let other companies offer financial services by issuing cards, bank accounts and IBANs with just a few lines of codes. The company could be considered as a bank-as-a-service platform, like Treezor or solarisBank. …*
       
 
 <br />
