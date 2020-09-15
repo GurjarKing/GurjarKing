@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 
-~ Alan Perlis
+~ Tony Hoare
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Educators, generals, dieticians, psychologists, and parents program. Armies, stu
 </pre>
 <strong>Daily News</strong>
   
-  - Homage announces strategic partnership with Infocom, one of Japan's largest healthcare IT providers
+  - Watch Apple’s hardware event live right here
      <hr/>
      
-      - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
+      - *Apple is holding a keynote today to unveil some new products. This time, the company is switching to a virtual event, which means that you’ll be able to watch the event as the company is streaming it live. The event starts at 10 a.m. PDT (1 p.m. in New York, …*
      
+  - Homage announces strategic partnership with Infocom, one of Japan's largest healthcare IT providers
+      <hr/>
+      
+      - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
+      
   - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
       <hr/>
       
@@ -73,16 +78,11 @@ Educators, generals, dieticians, psychologists, and parents program. Armies, stu
       <hr/>
       
       - *CashKaro, one of the leading cashback and coupon sites in India, will expand its range of services for e-commerce after raising $10 million in Series B funding, the New Delhi-based startup announced today. The round was led by Korea Investment Partners, with …*
-      
+       
   - Carbon Health and Color founders see power in bringing healthcare to the edge
       <hr/>
-      
-      - *When COVID-19 spread to the United States, the pandemic exposed two conflicting realities: a healthcare system that excels at high-cost, complex treatments, while failing to provide sufficient access at the local level. That lack of access to public health in…*
        
-  - N95 masks could soon be rechargeable instead of disposable
-      <hr/>
-       
-       - *The pandemic has led to N95 masks quickly becoming one of the world’s most sought-after resources as essential workers burned through billions of them. New research could lead to an N95 that you can recharge rather than throw away — or even one that continuou…*
+       - *When COVID-19 spread to the United States, the pandemic exposed two conflicting realities: a healthcare system that excels at high-cost, complex treatments, while failing to provide sufficient access at the local level. That lack of access to public health in…*
       
 
 <br />
