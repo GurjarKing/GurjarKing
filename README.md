@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 
-~ Tom DeMarco
+~ Marvin Minsky
 <pre>
 
 </pre>
