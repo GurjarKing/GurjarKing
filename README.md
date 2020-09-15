@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+Everything should be made as simple as possible. But to do that you have to master complexity.
 
-~ Danny Hillis
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ One of the greatest joys in computer programming is discovering a new, faster, m
 </pre>
 <strong>Daily News</strong>
   
-  - Bank-as-a-service startup Swan helps other companies issue cards, accounts and IBANs
+  - Indian decacorn Byju's CEO talks about future acquisitions, coronavirus, and international expansion
      <hr/>
      
-      - *Meet Swan, a new French startup that wants to let other companies offer financial services by issuing cards, bank accounts and IBANs with just a few lines of codes. The company could be considered as a bank-as-a-service platform, like Treezor or solarisBank. …*
+      - *Since India enforced a lockdown across the country in late March, shutting schools and other public places, Bangalore-headquartered startup Byju’s has emerged as one of the quintessential platforms for school-going students in the world’s second largest inter…*
      
+  - Klarna raises $650 million at a $10.6 billion valuation
+      <hr/>
+      
+      - *Fintech startup Klarna has raised a mega-round of funding led by Silver Lake. The company is raising $650 million at a post-money valuation of $10.65 billion. Klarna says it is now the highest-valued private fintech company in Europe following today’s funding…*
+      
+  - Bank-as-a-service startup Swan helps other companies issue cards, accounts and IBANs
+      <hr/>
+      
+      - *Meet Swan, a new French startup that wants to let other companies offer financial services by issuing cards, bank accounts and IBANs with just a few lines of codes. The company could be considered as a bank-as-a-service platform, like Treezor or solarisBank. …*
+      
   - Watch Apple’s hardware event live right here
       <hr/>
       
       - *Apple is holding a keynote today to unveil some new products. This time, the company is switching to a virtual event, which means that you’ll be able to watch the event as the company is streaming it live. The event starts at 10 a.m. PDT (1 p.m. in New York, …*
-      
+       
   - Homage announces strategic partnership with Infocom, one of Japan's largest healthcare IT providers
       <hr/>
-      
-      - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
-      
-  - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
-      <hr/>
-      
-      - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
        
-  - Indian e-commerce deals site CashKaro gets $10 million Series B led by Korea Investment Partners
-      <hr/>
-       
-       - *CashKaro, one of the leading cashback and coupon sites in India, will expand its range of services for e-commerce after raising $10 million in Series B funding, the New Delhi-based startup announced today. The round was led by Korea Investment Partners, with …*
+       - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
       
 
 <br />
