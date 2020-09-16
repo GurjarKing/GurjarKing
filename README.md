@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+Once you stop learning you start dying.
 
-~ John von Neumann
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A large part of mathematics which becomes useful developed with absolutely no de
 </pre>
 <strong>Daily News</strong>
   
-  - Dear Sophie: How can I get my 2-year foreign residency requirement for my J-1 waived?
+  - Sony's PlayStation 5 arrives November 12, priced at $500
      <hr/>
      
-      - *My husband started his own company here on his J-2 visa work permit, and our daughter was born here, but we’re supposed to return to Italy for two years. How can we get a 212(e) waiver?*
+      - *If in-person events were still a thing in 2020, there’s a pretty good chance we’d know a lot more about the PlayStation 5 by now. With tech companies setting their own event schedules, however, Sony and Microsoft have offered themselves a more leisurely sched…*
      
-  - iOS 14 is now available to download
+  - Kerry Washington explains why she became a startup investor
       <hr/>
       
-      - *Apple has just released the final version of iOS 14, the next major version of the operating system for the iPhone. It is a free download and it works with the iPhone 6s or later, both generations of iPhone SE and the most recent iPod touch model. If your dev…*
+      - *“Scandal” and “Little Fires Everywhere” star Kerry Washington won her first Emmy Award yesterday, but when she joined us at TechCrunch Disrupt today, she was much more focused on her work as an investor. Washington traced much of her interest in technology to…*
       
-  - Can't stop won't stop: Social Capital Hedosophia just filed for its fourth SPAC, says new report
+  - iOS 14 widgets you can try today
       <hr/>
       
-      - *According to a new report in Bloomberg, Social Capital Hedosophia has filed plans confidentially with the SEC to raise $500 million for its newest blank-check company. It will be the fourth special purpose acquisition company, or SPAC, to be raised by the out…*
+      - *Despite the surprise release of iOS 14 that left app developers unprepared, an ambitious few have managed to push their way through — or even pull an all-nighter — in order to make their apps available with iOS 14 support on launch day. For the first time in …*
       
-  - The Quest is getting its own Fortnite ripoff
+  - JupiterOne raises $19M Series A to automate cyber asset management
       <hr/>
       
-      - *Fortnite may not be available in VR (or on iOS), but Quest users will soon be getting their own Fortnite clone for virtual reality. Nearly two years after its funding and initial launch announcement, BigBox VR is finally ready to roll out its battle royale ga…*
+      - *Asset management might not be the most exciting talking topic, but it’s often an overlooked area of cyber-defenses. By knowing exactly what assets your company has makes it easier to know where the security weak spots are. That’s the problem JupiterOne is try…*
        
-  - Kiri is a screen-free smart toy meant to help kids learn languages and more
+  - Dear Sophie: How can I get my 2-year foreign residency requirement for my J-1 waived?
       <hr/>
        
-       - *After six months of sheltering in place (and now weeks of hiding from wildfire smoke) alongside a toddler who never seems to run out of energy, I’m the last person who would try to make anyone feel bad for giving their kid some screen time. But if a company w…*
+       - *My husband started his own company here on his J-2 visa work permit, and our daughter was born here, but we’re supposed to return to Italy for two years. How can we get a 212(e) waiver?*
       
 
 <br />
