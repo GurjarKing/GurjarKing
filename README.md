@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+Machines as simple as thermostats can be said to have beliefs.
 
-~ Richard Hamming
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
