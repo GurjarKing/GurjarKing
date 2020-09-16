@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-From an artistic standpoint, the best software comes from the realm of intuition.
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 
-~ Bob Carr
+~ Richard Hamming
 <pre>
 
 </pre>
