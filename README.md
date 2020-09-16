@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The entire history of software engineering is that of the rise in levels of abstraction.
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 
-~ Grady Booch
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The entire history of software engineering is that of the rise in levels of abst
 </pre>
 <strong>Daily News</strong>
   
-  - Four perspectives on Apple's new service bundle
+  - Join Accel's Andrew Braccia and Sonali De Rycker for a live Q&A on September 22 at 2 pm EDT/11 am PDT
      <hr/>
      
-      - *Apple’s hardware event yesterday wasn’t particularly eventful for its most popular devices, bringing only iterative changes to Apple Watch and the iPad. But the company tipped its hand as to a new, aggressive approach to services with a fitness product and ne…*
+      - *In the midst of Disrupt 2020, we’re busy keeping tabs on all the panels, chats, demos and battling startups, but we’re also prepping for what comes next. Next Tuesday, the Extra Crunch Live series of Q&As with founders and investors resumes, this time with gu…*
      
-  - Go public now while software valuations make no sense, Part II
+  - TouchWood puts versatile, unobtrusive interfaces inside your desk, table and walls
       <hr/>
       
-      - *On August 5th, TechCrunch wrote that startups should “go public while software valuations make no sense.” What came next was a happy coincidence. Just a few weeks after that post, Unity, JFrog, Asana, Snowflake and Sumo Logic all filed to go public. Today we’…*
+      - *Everything we do seems to have an associated app these days, and all day they vie for your attention, pinging and lighting up in their needy ways. TouchWood wants to tone down this exhausting non-stop competition with a quiet, simplified interface built right…*
       
-  - Delivery Hero picks up Glovo's LatAm ops for $272M in latest food delivery consolidation
+  - Facebook wants to turn the Quest into a fitness device
       <hr/>
       
-      - *More consolidation in the thin-margin food delivery space: Delivery Hero has announced it’s buying the LatinAm operations of Glovo, a Spanish on-demand delivery app. The German company said today that it’s paying up to €230 million to take over eight markets,…*
+      - *Facebook is adding a fitness tracker, Oculus Move, to its sweet suite of software for its latest version of the Quest. Announced today as part of the Facebook Connect event outlining the company’s augmented reality and virtual reality plans for the future, th…*
       
-  - Kbox picks up £12M additional funding to let underused commercial kitchens do takeout for delivery
+  - Facebook is launching 'Project Aria' AR glasses in 2021
       <hr/>
       
-      - *Kbox Global, the U.K. startup that turns underused commercial kitchen space into takeout delivery hubs — therefore helping existing kitchens generate much-needed revenue — has raised £12 million in new funding. The round is led by Balderton Capital, and follo…*
+      - *At Facebook’s first big event since moving away from the Oculus brand and rebranding its AR and VR efforts as “Facebook Reality Labs,” the company kicked off with some big news. At the fittingly virtual event, Facebook’s Mark Zuckerberg announced that not onl…*
        
-  - Amazon Music adds podcasts, including its own original shows
+  - Jefa is a challenger bank for women without a bank account
       <hr/>
        
-       - *Amazon Music is the latest streaming service to embrace podcasts. The company announced this morning it’s launching support for podcasts in the U.S., U.K., Germany and Japan on Amazon Music at no additional cost, and is rolling out its own original programmin…*
+       - *Meet Jefa, a startup that is building a challenger bank specifically designed for women in Latin America. The company is building a product that focuses on solving the problems that women face when opening a bank account and managing it. It is participating i…*
       
 
 <br />
