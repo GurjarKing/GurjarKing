@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 
-~ Fred Brooks
+~ Steve Jobs
 <pre>
 
 </pre>
