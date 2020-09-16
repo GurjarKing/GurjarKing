@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A program that produces incorrect results twice as fast is infinitely slower.
+The entire history of software engineering is that of the rise in levels of abstraction.
 
-~ John Ousterhout
+~ Grady Booch
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A program that produces incorrect results twice as fast is infinitely slower.
 </pre>
 <strong>Daily News</strong>
   
-  - How to get the most branding bang out of your B2B IPO
+  - Four perspectives on Apple's new service bundle
      <hr/>
      
-      - *With careful planning and preparation — and plenty of help from your legal team — your brand will come out an IPO stronger than before and ready to evolve as your company moves into its next chapter of growth.*
+      - *Apple’s hardware event yesterday wasn’t particularly eventful for its most popular devices, bringing only iterative changes to Apple Watch and the iPad. But the company tipped its hand as to a new, aggressive approach to services with a fitness product and ne…*
      
-  - Grab a $50 student pass to TC Sessions: Mobility 2020 while you can
+  - Go public now while software valuations make no sense, Part II
       <hr/>
       
-      - *Students — both high school and college — if you have a burning passion for mobility tech, take advantage of our discount passes and join thousands of mobility professionals around the world for TC Sessions: Mobility 2020 on October 6-7. Buy a student pass fo…*
+      - *On August 5th, TechCrunch wrote that startups should “go public while software valuations make no sense.” What came next was a happy coincidence. Just a few weeks after that post, Unity, JFrog, Asana, Snowflake and Sumo Logic all filed to go public. Today we’…*
       
-  - The cryptocurrency moment
+  - Delivery Hero picks up Glovo's LatAm ops for $272M in latest food delivery consolidation
       <hr/>
       
-      - *It’s never too early to start designing a better, more reliable and fairer system for it to be ready for the next election—or the next big crisis.*
+      - *More consolidation in the thin-margin food delivery space: Delivery Hero has announced it’s buying the LatinAm operations of Glovo, a Spanish on-demand delivery app. The German company said today that it’s paying up to €230 million to take over eight markets,…*
       
-  - GoPro’s Hero 9 Black arrives with a bigger battery and front-facing screen
+  - Kbox picks up £12M additional funding to let underused commercial kitchens do takeout for delivery
       <hr/>
       
-      - *After leaking like crazy, the GoPro Hero 9 Black arrives today, bringing with it a handful of features aimed at keeping the company on the bleeding edge of the action camera category. GoPro has, of course, experienced a good deal of competition in the categor…*
+      - *Kbox Global, the U.K. startup that turns underused commercial kitchen space into takeout delivery hubs — therefore helping existing kitchens generate much-needed revenue — has raised £12 million in new funding. The round is led by Balderton Capital, and follo…*
        
-  - Justice Dept. charges five Chinese hackers over attacks on U.S. companies
+  - Amazon Music adds podcasts, including its own original shows
       <hr/>
        
-       - *The five alleged hackers are accused of working for APT41.*
+       - *Amazon Music is the latest streaming service to embrace podcasts. The company announced this morning it’s launching support for podcasts in the U.S., U.K., Germany and Japan on Amazon Music at no additional cost, and is rolling out its own original programmin…*
       
 
 <br />
