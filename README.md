@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 
-~ Ken Thompson
+~ Daniel T. Barry
 <pre>
 
 </pre>
