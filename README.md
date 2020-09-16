@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When there is no type hierarchy you don’t have to manage the type hierarchy.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
-~ Rob Pike
+~ Fred Brooks
 <pre>
 
 </pre>
