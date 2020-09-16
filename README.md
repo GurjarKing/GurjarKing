@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 
-~ Fred Brooks
+~ Joe Armstrong (programmer)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Conceptual integrity is the most important consideration in system design. It is
 </pre>
 <strong>Daily News</strong>
   
-  - Unity raises IPO price range after JFrog, Snowflake target steep debut valuations
+  - Apple burns developer goodwill with surprise release of iOS 14
      <hr/>
      
-      - *On the heels of two IPOs pricing above raised ranges, Unity boosted the value of its own impending debut this morning. The well-known unicorn is currently set to begin trading this Friday, pricing after the bell Thursday. If that happens, the gaming platform …*
+      - *Apple’s developer relations have hit another sour note. At the company’s hardware event on Tuesday, where it announced new Apple Watch devices and iPads, Apple surprised developers with the news that it would be releasing the updated versions of its major sof…*
      
+  - Atlassian launches a $50M venture fund to invest in its ecosystem
+      <hr/>
+      
+      - *Atlassian today announced the launch of Atlassian Ventures, a new $50 million fund that will invest into startups — and even more established companies — that are building products in the overall Atlassian ecosystem. “As more and more customers transition to …*
+      
+  - Unity raises IPO price range after JFrog, Snowflake target steep debut valuations
+      <hr/>
+      
+      - *On the heels of two IPOs pricing above raised ranges, Unity boosted the value of its own impending debut this morning. The well-known unicorn is currently set to begin trading this Friday, pricing after the bell Thursday. If that happens, the gaming platform …*
+      
   - JFrog and Snowflake's aggressive IPO pricing point to strong demand for cloud shares
       <hr/>
       
       - *After raising their IPO price ranges, both JFrog and Snowflake priced above their refreshed intervals last night. At their final IPO prices, the two debuts are aggressively valued, showing continued optimism amongst public investors that cloud shares are an a…*
-      
+       
   - Volocopter kicks off presales for its first air taxi flights -- with a wait time of 2-3 years
       <hr/>
-      
-      - *If your sad-faced technology mantra is ‘we were promised flying cars and all we got were these shitty Internet trolls’ never fear, Berlin-based autonomous air mobility startup, Volocopter, wants to revive your sci-fi dreams. It’s just kicked off presales for …*
-      
-  - Pure Storage acquires data service platform Portworx for $370M
-      <hr/>
-      
-      - *Pure Storage, the public enterprise data storage company, today announced that it has acquired Portworx, a well-funded startup that provides a cloud-native storage and data-management platform based on Kubernetes, for $370 million in cash. This marks Pure Sto…*
        
-  - After lockdowns lead to an e-bike boom, VanMoof raises $40M Series B to expand globally
-      <hr/>
-       
-       - *E-bike startup VanMoof, has raised a $40 million investment from Norwest Venture Partners, Felix Capital and Balderton Capital. The Series B financing comes after a $13.5 million investment in May. The funding brings VanMoof’s total raised to $73 million and …*
+       - *If your sad-faced technology mantra is ‘we were promised flying cars and all we got were these shitty Internet trolls’ never fear, Berlin-based autonomous air mobility startup, Volocopter, wants to revive your sci-fi dreams. It’s just kicked off presales for …*
       
 
 <br />
