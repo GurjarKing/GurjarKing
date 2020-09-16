@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+A program that produces incorrect results twice as fast is infinitely slower.
 
-~ Joe Armstrong (programmer)
+~ John Ousterhout
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The problem with object-oriented languages is they’ve got all this implicit en
 </pre>
 <strong>Daily News</strong>
   
-  - Apple burns developer goodwill with surprise release of iOS 14
+  - How to get the most branding bang out of your B2B IPO
      <hr/>
      
-      - *Apple’s developer relations have hit another sour note. At the company’s hardware event on Tuesday, where it announced new Apple Watch devices and iPads, Apple surprised developers with the news that it would be releasing the updated versions of its major sof…*
+      - *With careful planning and preparation — and plenty of help from your legal team — your brand will come out an IPO stronger than before and ready to evolve as your company moves into its next chapter of growth.*
      
-  - Atlassian launches a $50M venture fund to invest in its ecosystem
+  - Grab a $50 student pass to TC Sessions: Mobility 2020 while you can
       <hr/>
       
-      - *Atlassian today announced the launch of Atlassian Ventures, a new $50 million fund that will invest into startups — and even more established companies — that are building products in the overall Atlassian ecosystem. “As more and more customers transition to …*
+      - *Students — both high school and college — if you have a burning passion for mobility tech, take advantage of our discount passes and join thousands of mobility professionals around the world for TC Sessions: Mobility 2020 on October 6-7. Buy a student pass fo…*
       
-  - Unity raises IPO price range after JFrog, Snowflake target steep debut valuations
+  - The cryptocurrency moment
       <hr/>
       
-      - *On the heels of two IPOs pricing above raised ranges, Unity boosted the value of its own impending debut this morning. The well-known unicorn is currently set to begin trading this Friday, pricing after the bell Thursday. If that happens, the gaming platform …*
+      - *It’s never too early to start designing a better, more reliable and fairer system for it to be ready for the next election—or the next big crisis.*
       
-  - JFrog and Snowflake's aggressive IPO pricing point to strong demand for cloud shares
+  - GoPro’s Hero 9 Black arrives with a bigger battery and front-facing screen
       <hr/>
       
-      - *After raising their IPO price ranges, both JFrog and Snowflake priced above their refreshed intervals last night. At their final IPO prices, the two debuts are aggressively valued, showing continued optimism amongst public investors that cloud shares are an a…*
+      - *After leaking like crazy, the GoPro Hero 9 Black arrives today, bringing with it a handful of features aimed at keeping the company on the bleeding edge of the action camera category. GoPro has, of course, experienced a good deal of competition in the categor…*
        
-  - Volocopter kicks off presales for its first air taxi flights -- with a wait time of 2-3 years
+  - Justice Dept. charges five Chinese hackers over attacks on U.S. companies
       <hr/>
        
-       - *If your sad-faced technology mantra is ‘we were promised flying cars and all we got were these shitty Internet trolls’ never fear, Berlin-based autonomous air mobility startup, Volocopter, wants to revive your sci-fi dreams. It’s just kicked off presales for …*
+       - *The five alleged hackers are accused of working for APT41.*
       
 
 <br />
