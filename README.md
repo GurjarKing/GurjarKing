@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
 
-~ John von Neumann
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If people do not believe that mathematics is simple, it is only because they do 
 </pre>
 <strong>Daily News</strong>
   
-  - Pure Storage acquires data service platform Portworx for $370M
+  - Unity raises IPO price range after JFrog, Snowflake target steep debut valuations
      <hr/>
      
-      - *Pure Storage, the public enterprise data storage company, today announced that it has acquired Portworx, a well-funded startup that provides a cloud-native storage and data-management platform based on Kubernetes, for $370 million in cash. This marks Pure Sto…*
+      - *On the heels of two IPOs pricing above raised ranges, Unity boosted the value of its own impending debut this morning. The well-known unicorn is currently set to begin trading this Friday, pricing after the bell Thursday. If that happens, the gaming platform …*
      
+  - JFrog and Snowflake's aggressive IPO pricing point to strong demand for cloud shares
+      <hr/>
+      
+      - *After raising their IPO price ranges, both JFrog and Snowflake priced above their refreshed intervals last night. At their final IPO prices, the two debuts are aggressively valued, showing continued optimism amongst public investors that cloud shares are an a…*
+      
+  - Volocopter kicks off presales for its first air taxi flights -- with a wait time of 2-3 years
+      <hr/>
+      
+      - *If your sad-faced technology mantra is ‘we were promised flying cars and all we got were these shitty Internet trolls’ never fear, Berlin-based autonomous air mobility startup, Volocopter, wants to revive your sci-fi dreams. It’s just kicked off presales for …*
+      
+  - Pure Storage acquires data service platform Portworx for $370M
+      <hr/>
+      
+      - *Pure Storage, the public enterprise data storage company, today announced that it has acquired Portworx, a well-funded startup that provides a cloud-native storage and data-management platform based on Kubernetes, for $370 million in cash. This marks Pure Sto…*
+       
   - After lockdowns lead to an e-bike boom, VanMoof raises $40M Series B to expand globally
       <hr/>
-      
-      - *E-bike startup VanMoof, has raised a $40 million investment from Norwest Venture Partners, Felix Capital and Balderton Capital. The Series B financing comes after a $13.5 million investment in May. The funding brings VanMoof’s total raised to $73 million and …*
-      
-  - Cloud gaming platform Shadow gets a new CEO and CTO
-      <hr/>
-      
-      - *There are some changes at the helm of Blade, the French startup behind Shadow. Mike Fischer is going to work for the company and become Chief Executive Officer. Jean-Baptiste Kempf is joining the company as Chief Technology Officer. Shadow is a cloud computin…*
-      
-  - Balderton's Chandratillake doffs his cap to Clubhouse, says enterprise audio is next
-      <hr/>
-      
-      - *Suranga Chandratillake has (almost) seen it all. After being the early CTO for Autonomy, he went on to found the blinkx video search engine in 2004, long before many thought we’d even need one. He scaled the company to San Francisco and the US market, eventua…*
        
-  - Europe will go it alone on digital tax reform in 2021 if it must, says EU president, as bloc directs €150BN in COVID-19 relief toward cloud, AI and broadband
-      <hr/>
-       
-       - *Europe will propose its own digital tax early next year if there’s no agreement at a global level on how to update taxation rules for the Internet age, EU president Ursula von der Leyen said today, reiterating the bloc’s determination not to let tax reform sl…*
+       - *E-bike startup VanMoof, has raised a $40 million investment from Norwest Venture Partners, Felix Capital and Balderton Capital. The Series B financing comes after a $13.5 million investment in May. The funding brings VanMoof’s total raised to $73 million and …*
       
 
 <br />
