@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The purpose of computing is insight, not numbers.
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 
-~ Richard Hamming
+~ John von Neumann
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The purpose of computing is insight, not numbers.
 </pre>
 <strong>Daily News</strong>
   
-  - Can't stop won't stop: Social Capital Hedosophia just filed for its fourth SPAC, says new report
+  - Dear Sophie: How can I get my 2-year foreign residency requirement for my J-1 waived?
      <hr/>
      
-      - *According to a new report in Bloomberg, Social Capital Hedosophia has filed plans confidentially with the SEC to raise $500 million for its newest blank-check company. It will be the fourth special purpose acquisition company, or SPAC, to be raised by the out…*
+      - *My husband started his own company here on his J-2 visa work permit, and our daughter was born here, but we’re supposed to return to Italy for two years. How can we get a 212(e) waiver?*
      
+  - iOS 14 is now available to download
+      <hr/>
+      
+      - *Apple has just released the final version of iOS 14, the next major version of the operating system for the iPhone. It is a free download and it works with the iPhone 6s or later, both generations of iPhone SE and the most recent iPod touch model. If your dev…*
+      
+  - Can't stop won't stop: Social Capital Hedosophia just filed for its fourth SPAC, says new report
+      <hr/>
+      
+      - *According to a new report in Bloomberg, Social Capital Hedosophia has filed plans confidentially with the SEC to raise $500 million for its newest blank-check company. It will be the fourth special purpose acquisition company, or SPAC, to be raised by the out…*
+      
   - The Quest is getting its own Fortnite ripoff
       <hr/>
       
       - *Fortnite may not be available in VR (or on iOS), but Quest users will soon be getting their own Fortnite clone for virtual reality. Nearly two years after its funding and initial launch announcement, BigBox VR is finally ready to roll out its battle royale ga…*
-      
+       
   - Kiri is a screen-free smart toy meant to help kids learn languages and more
       <hr/>
-      
-      - *After six months of sheltering in place (and now weeks of hiding from wildfire smoke) alongside a toddler who never seems to run out of energy, I’m the last person who would try to make anyone feel bad for giving their kid some screen time. But if a company w…*
-      
-  - Alexa’s new celebrity wake words ‘Hey Samuel,’ turns the assistant into Samuel L. Jackson
-      <hr/>
-      
-      - *Alexa just read me Monday’s baseball scores. It was great for two reasons. First, the A’s shut out the Mariners 9-0 in the second game of a doubleheader. And second, she did so in Samuel L. Jackson’s voice. With Amazon based in Seattle, I assume they’re happy…*
        
-  - Making sense of 3 edtech extension rounds
-      <hr/>
-       
-       - *While venture capitalists are pouring funding into edtech startups, the surge of interest isn’t coming without pressure. Edtech companies are searching for new ways to tap into a booming market. As Course Hero co-founder Andrew Graeur put it, the goal for his…*
+       - *After six months of sheltering in place (and now weeks of hiding from wildfire smoke) alongside a toddler who never seems to run out of energy, I’m the last person who would try to make anyone feel bad for giving their kid some screen time. But if a company w…*
       
 
 <br />
