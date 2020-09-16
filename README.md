@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+For most software, efficiency just does not matter.
 
 ~ Daniel T. Barry
 <pre>
@@ -59,30 +59,30 @@ Code is expensive to change, but design is cheaper to change, and requirements a
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook addresses political controversy in India, monetization opportunities, startup investments
+  - Outfunnel picks up €1.1M pre-seed to bridge the gap between marketing and sale
      <hr/>
      
-      - *At the beginning of the previous decade, Facebook had a tiny presence in India. It had just started to slowly expand its team in the country and was inking deals with telecom operators to make access to its service free to users and even offer incentives such…*
+      - *Outfunnel, a startup that has built software to help companies “bridge the gap between marketing and sales functions,” has quietly raised €1.1 million in funding. The pre-seed round was led by Paua Ventures and byFounders, with participation from Lemonade Sta…*
      
+  - User-generated e-learning site Kahoot acquires Actimo for up to $33M to double down on corporate sector
+      <hr/>
+      
+      - *Norwegian company Kahoot originally made its name with a platform the lets educators and students create and share game-based online learning lessons, in the process building up a huge public catalogue of gamified lessons created by its community. Today the s…*
+      
+  - Facebook addresses political controversy in India, monetization opportunities, startup investments
+      <hr/>
+      
+      - *At the beginning of the previous decade, Facebook had a tiny presence in India. It had just started to slowly expand its team in the country and was inking deals with telecom operators to make access to its service free to users and even offer incentives such…*
+      
   - Zwift, maker of a popular indoor training app, just landed a whopping $450 million in funding led by KKR
       <hr/>
       
       - *Zwift, a 350-person, Long Beach, Calif.-based online fitness platform that immerses cyclists and runners in 3D generated worlds, just raised a hefty $450 million in funding led by the investment firm KKR in exchange for a minority stake in its business. Permi…*
-      
+       
   - Gravity Sketch scores $3.7M seed for its VR-based product design and collaboration platform
       <hr/>
-      
-      - *Gravity Sketch, the London-based product design and collaboration platform that utilises virtual reality, has raised $3.7 million in funding. The seed round was led by Kindred Capital, with participation from Point Nine Capital and previous investor Forward P…*
-      
-  - China tops 110 million 5G users in less than a year
-      <hr/>
-      
-      - *Over 110 million users in China have signed up for 5G plans, announced president of the China Academy for Information and Communications Technology (CAICT), a think tank under the telecoms watchdog Ministry of Industry and Information Technology, at an indust…*
        
-  - Homage’s Gillian Tee on how technology can serve the world’s aging population
-      <hr/>
-       
-       - *It’s always a pleasure to chat with Homage co-founder and chief executive Gillian Tee because of her nuanced take on how technology can help elderly and other vulnerable people.  According to the United Nations, people 65-years-old and over is the fastest-gro…*
+       - *Gravity Sketch, the London-based product design and collaboration platform that utilises virtual reality, has raised $3.7 million in funding. The seed round was led by Kindred Capital, with participation from Point Nine Capital and previous investor Forward P…*
       
 
 <br />
