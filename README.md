@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 
-~ Edsger W. Dijkstra
+~ Poul Anderson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If debugging is the process of removing software bugs, then programming must be 
 </pre>
 <strong>Daily News</strong>
   
-  - Ron Howard and Brian Grazer say that their accelerator can help diversify Hollywood
+  - Meet the five startup Battlefield finalists at Disrupt 2020
      <hr/>
      
-      - *Impact Creative Systems (formerly Imagine Impact) is bringing a startup accelerator-style approach to finding fresh creative talent, and it announced this morning that, with funding from venture capital firm Benchmark, it’s spinning out from Imagine Entertain…*
+      - *TechCrunch hosted an unusual Startup Battlefield this week — the founders, judges, audience and moderator (me) were all in different locations, doing our best to interact over WebEx. But the 20 startups still demonstrated their products and explained their vi…*
      
-  - Cloudflare's Michelle Zatlyn on getting funding for crazy ideas
+  - Schools are closing their doors, but OpenDoor isn’t
       <hr/>
       
-      - *It’s not easy getting funding for any startup, but when Cloudflare launched at one of our early events ten years ago, most investors sure thought its idea was a bit out there. Today, Cloudflare co-founder Michelle Zatlyn joined us at our virtual Disrupt event…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and myself hosted a live taping at Disrupt for a digital receptio…*
       
-  - Fabletics eyes what's next for its activewear empire
+  - Daily Crunch: Twitter tightens security ahead of election
       <hr/>
       
-      - *Like plenty of other modern direct-to-consumer companies, influencer marketing has been an essential part of Fabletics’ journey. Actress Kate Hudson co-founded the company and co-CEO Adam Golderberg believes that its network of spokespeople has been key to th…*
+      - *Twitter takes preemptive steps to avoid election-related hacks, we check out the new Apple Watches and Facebook launches new business tools. This is your Daily Crunch for September 17, 2020. The big story: Twitter tightens security ahead of election Twitter s…*
       
-  - Here are the 19 companies presenting at Alchemist Accelerator Demo Day XXV today
+  - Boston Robotics delivers plan for logistics robots as early as next year
       <hr/>
       
-      - *When Alchemist Accelerator shifted its Demo Day to virtual earlier this year, Alchemist director and founder Ravi Belani told me it was a move he expected the team to stick with for some time. Nearly half a year later it’s time for another Demo Day — and sure…*
+      - *Boston Dynamics is just months away from announcing their approach to logistics, the first real vertical it aims to enter, after proving their ability to build robots at scale with the quadrupedal Spot. The company’s new CEO, Robert Playter, sees the company …*
        
-  - Jennifer Doudna sees CRISPR gene-editing tech as a Swiss Army knife for COVID-19 and beyond
+  - Ron Howard and Brian Grazer say that their accelerator can help diversify Hollywood
       <hr/>
        
-       - *Jennifer Doudna, one of the pioneers of the gene-editing technique known as CRISPR, thinks the biotech tool could be an essential one for combating COVID-19 and future pandemics. Due to its capacity to be “reprogrammed” like software, CRISPR could eventually …*
+       - *Impact Creative Systems (formerly Imagine Impact) is bringing a startup accelerator-style approach to finding fresh creative talent, and it announced this morning that, with funding from venture capital firm Benchmark, it’s spinning out from Imagine Entertain…*
       
 
 <br />
