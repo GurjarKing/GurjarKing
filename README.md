@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 
-~ Fred Brooks
+~ Daniel T. Barry
 <pre>
 
 </pre>
