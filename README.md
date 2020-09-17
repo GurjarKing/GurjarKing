@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+Premature abstraction is as bad as premature optimization.
 
-~ Elon Musk
+~ Luciano Ramalho
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ There certainly will be job disruption. Because what's going to happen is robots
 </pre>
 <strong>Daily News</strong>
   
-  - Polestar built a better car than Tesla; now it needs to build a better brand
+  - With Goat Capital, Justin Kan and Robin Chan want to keep founding alongside the right teams
      <hr/>
      
-      - *Polestar is a startup in an unusual situation. Polestar has the car. It has the executives. Polestar has factories, partners, and distribution channels. It’s set for success in a way most startups are not. And yet, success is not guaranteed. I fear Polestar i…*
+      - *Justin Kan and Robin Chan have each been angel investing for more than a decade. They’re starting a new fund together now, though, to stay involved as cofounders of more startups. Goat Capital is a hybrid incubator versus a pure seed investment firm, Chan exp…*
      
-  - As the Western US burns, a forest carbon capture monitoring service nabs cash from Amazon & Bill Gates backed fund
+  - Facebook tries to clean up Groups with new policies
       <hr/>
       
-      - *Pachama, the forest carbon sequestration monitoring service that tracks how much carbon dioxide is actually captured in forestry offset projects, has raised $5 million in fresh funding from a clutch of high profile investors including Amazon, Breakthrough Ene…*
+      - *Facebook this morning announced a series of new rules designed to further penalize those who violate its Community Standards, specifically around Facebook Groups. It also introduced rules meant to crack down on the spread of misinformation through these more …*
       
-  - TikTok rumors beg the question: Did Trump solve anything?
+  - Sophie Hill on the changing face of retail and surviving 2020
       <hr/>
       
-      - *Over the past 24 hours, rumors picked up by Bloomberg, the Wall Street Journal and CNBC have put some boundaries on what a possible deal between Oracle and TikTok’s parent company ByteDance will look like. In its current incarnation floating around the DC pre…*
+      - *Threads is not your average startup and, really, it’s not a startup anymore. It’s over 10 years old, employs more than 150 people, and successfully bridged the Series A gap in Europe closing a round of $20M back in 2018. And so far, it’s surviving 2020.  COVI…*
       
-  - Caroline Brochado and Sophia Bendz on the boom in Europe's early- and growth-stage startups
+  - Contestants will compete for a SpaceX trip to the International Space Station in new reality TV show
       <hr/>
       
-      - *As part of Disrupt 2020 we wanted to look at the contrasting positions of both early and later-stage investing in Europe. Who better to unpack this subject than two highly experienced operators in these fields? After a career at Spotify and then as a VC at At…*
+      - *There’s a reality TV competition show in the works that will feature a 2023 trip to the International Space Station as the grand prize, Deadline reports. The production company behind the show, which will be called ‘Space Hero,’ has booked a seat on a SpaceX …*
        
-  - Hulu tests its co-viewing feature 'Watch Party' with ad-supported viewers
+  - Demand Sage raises $3M to make sales and marketing data more accessible
       <hr/>
        
-       - *Hulu was one of the first major streaming services to introduce a “co-viewing” feature that allows friends and family to watch Hulu content together from different locations. The feature, Hulu Watch Party, was initially only available for subscribers on the t…*
+       - *Demand Sage, a new startup from the founders of recently-acquired mobile analytics company Localytics, announced this morning that it has raised $3 million in seed funding led by Eniac Ventures and Underscore VC. When I spoke to CEO Raj Aggarwal, CTO Henry Ci…*
       
 
 <br />
