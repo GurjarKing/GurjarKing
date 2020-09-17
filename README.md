@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 
-~ Ray Ozzie
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Complexity kills. It sucks the life out of developers, it makes products difficu
 </pre>
 <strong>Daily News</strong>
   
-  - Interswitch to revive its Africa venture fund, CEO confirms
+  - Southeast Asia's East Ventures on female VCs, foreign investment, consolidation
      <hr/>
      
-      - *Pan-African fintech company Interswitch plans to fire up its corporate venture arm again—according to CEO Mitchell Elegbe—who spoke at TechCrunch Disrupt on Wednesday. The Nigerian founder didn’t offer much new on the Lagos-based firm’s expected IPO, but he d…*
+      - *Melisa Irene‘s path to becoming a partner at one of Southeast Asia’s most esteemed venture capital firms is an unconventional one. “I always consider myself to be quite lucky,” said Irene, who was promoted to be a partner at East Ventures in January 2019. At …*
      
+  - Interswitch to revive its Africa venture fund, CEO confirms
+      <hr/>
+      
+      - *Pan-African fintech company Interswitch plans to fire up its corporate venture arm again—according to CEO Mitchell Elegbe—who spoke at TechCrunch Disrupt on Wednesday. The Nigerian founder didn’t offer much new on the Lagos-based firm’s expected IPO, but he d…*
+      
   - Infarm raises $170M in equity and debt to continue building its 'vertical farming' network
       <hr/>
       
@@ -73,16 +78,11 @@ Complexity kills. It sucks the life out of developers, it makes products difficu
       <hr/>
       
       - *There have been a couple of articles published in the last two days reporting on an impromptu sweep that took place outside of a venue we are using for our TechCrunch Disrupt event in San Francisco this week. We wanted to detail what we know about what happen…*
-      
+       
   - Justice Department says WeChat users won't be penalized under Trump's executive order
       <hr/>
-      
-      - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
        
-  - Gillmor Gang: In The Bag
-      <hr/>
-       
-       - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
+       - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
       
 
 <br />
