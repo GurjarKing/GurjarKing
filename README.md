@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 
-~ Linus Torvalds
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ An infinite number of monkeys typing into GNU Emacs would never make a good prog
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: In The Bag
+  - Justice Department says WeChat users won't be penalized under Trump's executive order
      <hr/>
      
-      - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
+      - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
      
+  - Gillmor Gang: In The Bag
+      <hr/>
+      
+      - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
+      
   - The art of pivoting with Phaedra Ellis-Lamkins and Jessica Matthews
       <hr/>
       
@@ -73,16 +78,11 @@ An infinite number of monkeys typing into GNU Emacs would never make a good prog
       <hr/>
       
       - *Lightspeed Venture Partners announced the launch of its Southeast Asia operations today. Based out of the firm’s new regional headquarters in Singapore, Lightspeed’s team there will invest in startups throughout Southeast Asia from the three global funds it c…*
-      
+       
   - PlayVS is halfway to recruiting every state into its global esports community
       <hr/>
-      
-      - *Millions of high school kids play online multiplayer games, but they seldom have crosstown rivals in Fortnite or Valorant. PlayVS wants to make that happen with its platform for school-sponsored esports, and it’s growing like crazy, doubling its staff in the …*
        
-  - Daily Crunch: Facebook unveils the Oculus Quest 2
-      <hr/>
-       
-       - *Facebook makes its next steps in VR, Apple releases iOS 14 and the PlayStation 5 gets a launch date. This is your Daily Crunch for September 16, 2020. The big story: Facebook unveils the Oculus Quest 2 Facebook announced the smaller, more affordable follow-up…*
+       - *Millions of high school kids play online multiplayer games, but they seldom have crosstown rivals in Fortnite or Valorant. PlayVS wants to make that happen with its platform for school-sponsored esports, and it’s growing like crazy, doubling its staff in the …*
       
 
 <br />
