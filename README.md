@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+Cleaning code does NOT take time. NOT cleaning code does take time.
 
-~ Fred Brooks
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If each part of the task must be separately coordinated with each other part, th
 </pre>
 <strong>Daily News</strong>
   
-  - Justice Department says WeChat users won't be penalized under Trump's executive order
+  - Infarm raises $170M in equity and debt to continue building its 'vertical farming' network
      <hr/>
      
-      - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
+      - *Infarm, the vertical farming company that has built a network of urban farms to grow fresh food closer to consumers, has raised $170 million in new investment in a “first close” of a Series C. Leading the round — which is expected to reach $200 million and is…*
      
+  - TechCrunch statement on sweep at our venue
+      <hr/>
+      
+      - *There have been a couple of articles published in the last two days reporting on an impromptu sweep that took place outside of a venue we are using for our TechCrunch Disrupt event in San Francisco this week. We wanted to detail what we know about what happen…*
+      
+  - Justice Department says WeChat users won't be penalized under Trump's executive order
+      <hr/>
+      
+      - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
+      
   - Gillmor Gang: In The Bag
       <hr/>
       
       - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
-      
+       
   - The art of pivoting with Phaedra Ellis-Lamkins and Jessica Matthews
       <hr/>
-      
-      - *Building and growing a startup is hard, but pivoting said startup into something new and then achieving that same growth is even harder. But it’s not impossible. Phaedra Ellis-Lamkins, founder and CEO of PromisePay, and Jessica Matthews, founder and CEO of Un…*
-      
-  - Lightspeed announces the launch of its Southeast Asia operations
-      <hr/>
-      
-      - *Lightspeed Venture Partners announced the launch of its Southeast Asia operations today. Based out of the firm’s new regional headquarters in Singapore, Lightspeed’s team there will invest in startups throughout Southeast Asia from the three global funds it c…*
        
-  - PlayVS is halfway to recruiting every state into its global esports community
-      <hr/>
-       
-       - *Millions of high school kids play online multiplayer games, but they seldom have crosstown rivals in Fortnite or Valorant. PlayVS wants to make that happen with its platform for school-sponsored esports, and it’s growing like crazy, doubling its staff in the …*
+       - *Building and growing a startup is hard, but pivoting said startup into something new and then achieving that same growth is even harder. But it’s not impossible. Phaedra Ellis-Lamkins, founder and CEO of PromisePay, and Jessica Matthews, founder and CEO of Un…*
       
 
 <br />
