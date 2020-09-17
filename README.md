@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Walking on water and developing software from a specification are easy if both are frozen.
+I'm not a great programmer; I'm just a good programmer with great habits.
 
-~ Edward V. Berard
+~ Kent Beck
 <pre>
 
 </pre>
