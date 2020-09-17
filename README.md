@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
 
-~ Richard Feynman
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Computer science differs from physics in that it is not actually a science. It d
 </pre>
 <strong>Daily News</strong>
   
-  - Southeast Asia's East Ventures on female VCs, foreign investment, consolidation
+  - SmartNews' U.S. app unveils new features for the elections, COVID-19 and local weather
      <hr/>
      
-      - *Melisa Irene‘s path to becoming a partner at one of Southeast Asia’s most esteemed venture capital firms is an unconventional one. “I always consider myself to be quite lucky,” said Irene, who was promoted to be a partner at East Ventures in January 2019. At …*
+      - *At TechCrunch Disrupt today, SmartNews announced the release of major new features for the American version of its news discovery app, designed to make it easier for users to get updates about the elections, COVID-19 and the weather. Several features focus on…*
      
+  - Narrator raises $6.2M for a new approach to data modelling that replaces star schema
+      <hr/>
+      
+      - *Snowflake went public this week, and in a mark of the wider ecosystem that is evolving around data warehousing, a startup that has built a completely new concept for modelling warehoused data is announcing funding. Narrator — which uses an 11-column ordering …*
+      
+  - Southeast Asia's East Ventures on female VCs, foreign investment, consolidation
+      <hr/>
+      
+      - *Melisa Irene‘s path to becoming a partner at one of Southeast Asia’s most esteemed venture capital firms is an unconventional one. “I always consider myself to be quite lucky,” said Irene, who was promoted to be a partner at East Ventures in January 2019. At …*
+      
   - Interswitch to revive its Africa venture fund, CEO confirms
       <hr/>
       
       - *Pan-African fintech company Interswitch plans to fire up its corporate venture arm again—according to CEO Mitchell Elegbe—who spoke at TechCrunch Disrupt on Wednesday. The Nigerian founder didn’t offer much new on the Lagos-based firm’s expected IPO, but he d…*
-      
+       
   - Infarm raises $170M in equity and debt to continue building its 'vertical farming' network
       <hr/>
-      
-      - *Infarm, the vertical farming company that has built a network of urban farms to grow fresh food closer to consumers, has raised $170 million in new investment in a “first close” of a Series C. Leading the round — which is expected to reach $200 million and is…*
-      
-  - TechCrunch statement on sweep at our venue
-      <hr/>
-      
-      - *There have been a couple of articles published in the last two days reporting on an impromptu sweep that took place outside of a venue we are using for our TechCrunch Disrupt event in San Francisco this week. We wanted to detail what we know about what happen…*
        
-  - Justice Department says WeChat users won't be penalized under Trump's executive order
-      <hr/>
-       
-       - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
+       - *Infarm, the vertical farming company that has built a network of urban farms to grow fresh food closer to consumers, has raised $170 million in new investment in a “first close” of a Series C. Leading the round — which is expected to reach $200 million and is…*
       
 
 <br />
