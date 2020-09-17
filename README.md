@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Cleaning code does NOT take time. NOT cleaning code does take time.
+Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
 
-~ Robert C. Martin
+~ Ray Ozzie
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Cleaning code does NOT take time. NOT cleaning code does take time.
 </pre>
 <strong>Daily News</strong>
   
-  - Infarm raises $170M in equity and debt to continue building its 'vertical farming' network
+  - Interswitch to revive its Africa venture fund, CEO confirms
      <hr/>
      
-      - *Infarm, the vertical farming company that has built a network of urban farms to grow fresh food closer to consumers, has raised $170 million in new investment in a “first close” of a Series C. Leading the round — which is expected to reach $200 million and is…*
+      - *Pan-African fintech company Interswitch plans to fire up its corporate venture arm again—according to CEO Mitchell Elegbe—who spoke at TechCrunch Disrupt on Wednesday. The Nigerian founder didn’t offer much new on the Lagos-based firm’s expected IPO, but he d…*
      
+  - Infarm raises $170M in equity and debt to continue building its 'vertical farming' network
+      <hr/>
+      
+      - *Infarm, the vertical farming company that has built a network of urban farms to grow fresh food closer to consumers, has raised $170 million in new investment in a “first close” of a Series C. Leading the round — which is expected to reach $200 million and is…*
+      
   - TechCrunch statement on sweep at our venue
       <hr/>
       
@@ -73,16 +78,11 @@ Cleaning code does NOT take time. NOT cleaning code does take time.
       <hr/>
       
       - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
-      
+       
   - Gillmor Gang: In The Bag
       <hr/>
-      
-      - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
        
-  - The art of pivoting with Phaedra Ellis-Lamkins and Jessica Matthews
-      <hr/>
-       
-       - *Building and growing a startup is hard, but pivoting said startup into something new and then achieving that same growth is even harder. But it’s not impossible. Phaedra Ellis-Lamkins, founder and CEO of PromisePay, and Jessica Matthews, founder and CEO of Un…*
+       - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
       
 
 <br />
