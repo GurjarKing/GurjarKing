@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 
-~ Ken Thompson
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Modern programming scares me in many respects. It confuses me to read a program 
 </pre>
 <strong>Daily News</strong>
   
-  - X1 Card is a credit card based on your income, not your credit score
+  - APAC cloud infrastructure revenue reaches $9B in Q2 with Amazon leading the way
      <hr/>
      
-      - *There are many reasons why you could have a good or a bad credit score. But if you’re just entering the job market, you may end up with reliable income and a low limit on your credit card. X1 Card wants to solve that by setting limits based on your current an…*
+      - *When you look at the Asia-Pacific (APAC) regional cloud infrastructure numbers, it would be easy to think that one of the Chinese cloud giants, particularly Alibaba, would be the leader in that geography, but new numbers from Synergy Research show Amazon lead…*
      
+  - Amazon's first five climate fund investments include Redwood Materials, Rivian
+      <hr/>
+      
+      - *Redwood Materials, the recycling startup founded by Tesla’s longtime CTO and co-founder JB Straubel, has landed Amazon as a new investor and customer. Amazon’s investment in Redwood Materials is one of a handful announced Thursday that stems from the e-commer…*
+      
+  - Superhuman's Rahul Vohra asks 6 VCs how to raise funding when the sky is falling
+      <hr/>
+      
+      - *For founders and VCs alike, 2020 has changed the game for good.*
+      
+  - X1 Card is a credit card based on your income, not your credit score
+      <hr/>
+      
+      - *There are many reasons why you could have a good or a bad credit score. But if you’re just entering the job market, you may end up with reliable income and a low limit on your credit card. X1 Card wants to solve that by setting limits based on your current an…*
+       
   - A closer look at the new Apple Watches
       <hr/>
-      
-      - *I’m very much still working on a full review of the new Apple Watches — specifically the Series 6. As of this posting, I’ve had the wearables in my possession (and on my person) for a little under 24 hours. It’s a special circumstance attributable to the virt…*
-      
-  - Alternative protein companies have raised a whopping $1.5 billion through July of this year
-      <hr/>
-      
-      - *Companies like Perfect Day, Impossible Foods, and a host of other startups that are developing replacements for animal farmed goods used in food, clothes, cosmetics, and chemicals have raised a whopping $1.5 billion through the first half of the year. That’s …*
-      
-  - Ansa Biotechnologies wants to usher in a new era of DNA manufacturing
-      <hr/>
-      
-      - *Daniel Arlow has spent the last eighteen years studying genomics and synthetic biology. The arc of his career has taken the first-time founder of the new startup Ansa Biotechnologies from MIT to the famous Keasling Lab at the University of California at Berke…*
        
-  - Connected fitness startup Tonal raises another $110 million
-      <hr/>
-       
-       - *Connected home fitness startup Tonal announced today that it has raised an additional $110 million. The latest round of funding includes existing investor L Catterton and new names, including Delta-v Capital, Amazon’s Alexa Fund and Mousse Partners, along wit…*
+       - *I’m very much still working on a full review of the new Apple Watches — specifically the Series 6. As of this posting, I’ve had the wearables in my possession (and on my person) for a little under 24 hours. It’s a special circumstance attributable to the virt…*
       
 
 <br />
