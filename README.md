@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Simplicity is prerequisite for reliability.
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 
-~ Edsger W. Dijkstra
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Simplicity is prerequisite for reliability.
 </pre>
 <strong>Daily News</strong>
   
-  - Startup founders must overcome information overload
+  - Jennifer Doudna sees CRISPR gene-editing tech as a Swiss Army knife for COVID-19 and beyond
      <hr/>
      
-      - *One of a founder's biggest early challenges is figuring out how to sift through all the advice they receive.*
+      - *Jennifer Doudna, one of the pioneers of the gene-editing technique known as CRISPR, thinks the biotech tool could be an essential one for combating COVID-19 and future pandemics. Due to its capacity to be “reprogrammed” like software, CRISPR could eventually …*
      
+  - Twitter tightens account security for political candidates ahead of US election
+      <hr/>
+      
+      - *Twitter is taking steps to tighten account security for a range of users ahead of the US presidential election, including by requiring the use of strong passwords. “We’re taking the additional step of proactively implementing account security measures for a d…*
+      
+  - Why hasn't digital learning lived up to its promise?
+      <hr/>
+      
+      - *What is it about digital learning that has schools so keen on reopening despite the health and reputational risks?*
+      
+  - Startup founders must overcome information overload
+      <hr/>
+      
+      - *One of a founder's biggest early challenges is figuring out how to sift through all the advice they receive.*
+       
   - Mozilla shutters Firefox Send and Notes
       <hr/>
-      
-      - *Mozilla today announced that it will shutter two products: Firefox Send, the free file transfer service it already put on hiatus in July, and Firefox Notes, its note-taking extension and mobile app. Firefox Send launched in March 2019. At the time, Mozilla de…*
-      
-  - Amazon makes Alexa Routines shareable
-      <hr/>
-      
-      - *Amazon is making it easier for Alexa devices owners to use Routines. The feature, which has been around for years, allows Alexa users to combine multiple tasks into a single voice command of their choosing. For example, you could make a routine that turns off…*
-      
-  - Canix aims to ease cannabis cultivators' regulatory bookkeeping
-      <hr/>
-      
-      - *Growing cannabis on an industrial scale involves managing margins while continually adhering to compliance laws. For many growers, large and small, this consists of constant data entry from seed to sale. Canix’s solution employs a robust enterprise resource p…*
        
-  - ClearFlame Engine Technologies takes aim at cleaning up diesel engines
-      <hr/>
-       
-       - *Diesel engines are the workhorses of freight transportation and agriculture — and by extension keep the economy fed and well supplied. They also have a dirty side. The founders of ClearFlame Engine Technologies, a four-year-old startup based in Geneva, Illino…*
+       - *Mozilla today announced that it will shutter two products: Firefox Send, the free file transfer service it already put on hiatus in July, and Firefox Notes, its note-taking extension and mobile app. Firefox Send launched in March 2019. At the time, Mozilla de…*
       
 
 <br />
