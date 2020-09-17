@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+Simplicity is prerequisite for reliability.
 
-~ Linus Torvalds
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I will, in fact, claim that the difference between a bad programmer and a good o
 </pre>
 <strong>Daily News</strong>
   
-  - Perigee infrastructure security solution from former NSA employee moves into public beta
+  - Startup founders must overcome information overload
      <hr/>
      
-      - *Perigee founder Mollie Breen used to work for NSA where she built a security solution to help protect the agency’s critical infrastructure. She spent the last two years at Harvard Business School talking to Chief Information Security Officers (CISOs) and fine…*
+      - *One of a founder's biggest early challenges is figuring out how to sift through all the advice they receive.*
      
-  - Forage, formerly InsideSherpa, raises $9.3 million Series A for virtual work experiences
+  - Mozilla shutters Firefox Send and Notes
       <hr/>
       
-      - *Tech’s coveted internships were some of the first roles to be cut as offices closed and businesses shuttered in response to the coronavirus. A number of companies across the country, including Glassdoor, StubHub, Funding Circle, Yelp, Checkr and even the Nati…*
+      - *Mozilla today announced that it will shutter two products: Firefox Send, the free file transfer service it already put on hiatus in July, and Firefox Notes, its note-taking extension and mobile app. Firefox Send launched in March 2019. At the time, Mozilla de…*
       
-  - With Goat Capital, Justin Kan and Robin Chan want to keep founding alongside the right teams
+  - Amazon makes Alexa Routines shareable
       <hr/>
       
-      - *Justin Kan and Robin Chan have each been angel investing for more than a decade. They’re starting a new fund together now, though, to stay involved as cofounders of more startups. Goat Capital is a hybrid incubator versus a pure seed investment firm, Chan exp…*
+      - *Amazon is making it easier for Alexa devices owners to use Routines. The feature, which has been around for years, allows Alexa users to combine multiple tasks into a single voice command of their choosing. For example, you could make a routine that turns off…*
       
-  - Facebook tries to clean up Groups with new policies
+  - Canix aims to ease cannabis cultivators' regulatory bookkeeping
       <hr/>
       
-      - *Facebook this morning announced a series of new rules designed to further penalize those who violate its Community Standards, specifically around Facebook Groups. It also introduced rules meant to crack down on the spread of misinformation through these more …*
+      - *Growing cannabis on an industrial scale involves managing margins while continually adhering to compliance laws. For many growers, large and small, this consists of constant data entry from seed to sale. Canix’s solution employs a robust enterprise resource p…*
        
-  - Sophie Hill on the changing face of retail and surviving 2020
+  - ClearFlame Engine Technologies takes aim at cleaning up diesel engines
       <hr/>
        
-       - *Threads is not your average startup and, really, it’s not a startup anymore. It’s over 10 years old, employs more than 150 people, and successfully bridged the Series A gap in Europe closing a round of $20M back in 2018. And so far, it’s surviving 2020.  COVI…*
+       - *Diesel engines are the workhorses of freight transportation and agriculture — and by extension keep the economy fed and well supplied. They also have a dirty side. The founders of ClearFlame Engine Technologies, a four-year-old startup based in Geneva, Illino…*
       
 
 <br />
