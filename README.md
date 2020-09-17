@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 
-~ Alan Perlis
+~ Elon Musk
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ For all its power, the computer is a harsh taskmaster. Its programs must be corr
 </pre>
 <strong>Daily News</strong>
   
-  - Impact, a YC-style accelerator for the entertainment industry, spins out from Imagine Entertainment with backing from Benchmark
+  - Polestar built a better car than Tesla; now it needs to build a better brand
      <hr/>
      
-      - *Hollywood has been better known for making films and TV shows about the tech industry than it has been for being a part of it, but today a new enterprise is launching, backed by a major Silicon Valley venture firm, that hopes to hit pause on that image. Imagi…*
+      - *Polestar is a startup in an unusual situation. Polestar has the car. It has the executives. Polestar has factories, partners, and distribution channels. It’s set for success in a way most startups are not. And yet, success is not guaranteed. I fear Polestar i…*
      
-  - Watch SpaceX launch 60 more Starlink satellites for its broadband internet service live
+  - As the Western US burns, a forest carbon capture monitoring service nabs cash from Amazon & Bill Gates backed fund
       <hr/>
       
-      - *SpaceX is set to launch the latest batch of its Starlink satellites on Thursday, with a target lift-off time of 2:19 PM EDT (11:19 AM PDT). The mission will take off from Kennedy Space Center in Florida, and there’s a backup opportunity tomorrow at 1:57 PM ED…*
+      - *Pachama, the forest carbon sequestration monitoring service that tracks how much carbon dioxide is actually captured in forestry offset projects, has raised $5 million in fresh funding from a clutch of high profile investors including Amazon, Breakthrough Ene…*
       
-  - Which 5 cloud startup categories are the hottest?
+  - TikTok rumors beg the question: Did Trump solve anything?
       <hr/>
       
-      - *Hello from the midst of Disrupt 2020: after this short piece for you I am wrapping my prep for a panel with investors from Bessemer, a16z and Canaan about the future of SaaS. Luckily, The Exchange this morning is on a very similar topic. The Exchange explores…*
+      - *Over the past 24 hours, rumors picked up by Bloomberg, the Wall Street Journal and CNBC have put some boundaries on what a possible deal between Oracle and TikTok’s parent company ByteDance will look like. In its current incarnation floating around the DC pre…*
       
-  - Facebook launches Facebook Business Suite, an app for managing business accounts across Facebook, Instagram and Messenger
+  - Caroline Brochado and Sophia Bendz on the boom in Europe's early- and growth-stage startups
       <hr/>
       
-      - *Facebook this morning launched a new app designed to make it easier for businesses to manage their pages and profiles across Facebook, Instagram and Messenger in a single place. The app, Facebook Business Suite, combines access to the business’s key updates a…*
+      - *As part of Disrupt 2020 we wanted to look at the contrasting positions of both early and later-stage investing in Europe. Who better to unpack this subject than two highly experienced operators in these fields? After a career at Spotify and then as a VC at At…*
        
-  - Here’s what’s happening at Disrupt 2020 today
+  - Hulu tests its co-viewing feature 'Watch Party' with ad-supported viewers
       <hr/>
        
-       - *Rise, shine and build your business startup fans. It’s day four of Disrupt 2020, and this is your daily snapshot of just some of the heavy-hitters, events, breakout sessions and all-around opportunity that’s yours for the taking. Looking for the complete line…*
+       - *Hulu was one of the first major streaming services to introduce a “co-viewing” feature that allows friends and family to watch Hulu content together from different locations. The feature, Hulu Watch Party, was initially only available for subscribers on the t…*
       
 
 <br />
