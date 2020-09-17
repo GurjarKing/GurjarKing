@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'm not a great programmer; I'm just a good programmer with great habits.
+You should name a variable using the same care with which you name a first-born child.
 
-~ Kent Beck
+~ Jim Coplien
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I'm not a great programmer; I'm just a good programmer with great habits.
 </pre>
 <strong>Daily News</strong>
   
-  - SmartNews' Kaisei Hamamoto on how the app deals with media polarization
+  - Finance and the digital divide: a conversation with Tunde Kehinde of Lidya
      <hr/>
      
-      - *Six years ago, SmartNews took on a major challenge. After launching in Japan in 2012, the news discovery app decided that its first international market would be the United States. During Disrupt, co-founder Kaisei Hamamoto talked about how SmartNews adapts i…*
+      - *Small and medium businesses have been some of the hardest hit in the Covid-19 pandemic. And all that has been as true in emerging markets as it has been for SMBs in the developed world. Tunde Kehinde has had a front-row seat witnessing and responding to that …*
      
+  - SmartNews' Kaisei Hamamoto on how the app deals with media polarization
+      <hr/>
+      
+      - *Six years ago, SmartNews took on a major challenge. After launching in Japan in 2012, the news discovery app decided that its first international market would be the United States. During Disrupt, co-founder Kaisei Hamamoto talked about how SmartNews adapts i…*
+      
   - Blume Ventures' Karthik Reddy on Indian startup ecosystem, geo-political tension with China and coronavirus
       <hr/>
       
@@ -73,16 +78,11 @@ I'm not a great programmer; I'm just a good programmer with great habits.
       <hr/>
       
       - *At TechCrunch Disrupt today, SmartNews announced the release of major new features for the American version of its news discovery app, designed to make it easier for users to get updates about the elections, COVID-19 and the weather. Several features focus on…*
-      
+       
   - Narrator raises $6.2M for a new approach to data modelling that replaces star schema
       <hr/>
-      
-      - *Snowflake went public this week, and in a mark of the wider ecosystem that is evolving around data warehousing, a startup that has built a completely new concept for modelling warehoused data is announcing funding. Narrator — which uses an 11-column ordering …*
        
-  - Southeast Asia's East Ventures on female VCs, foreign investment, consolidation
-      <hr/>
-       
-       - *Melisa Irene‘s path to becoming a partner at one of Southeast Asia’s most esteemed venture capital firms is an unconventional one. “I always consider myself to be quite lucky,” said Irene, who was promoted to be a partner at East Ventures in January 2019. At …*
+       - *Snowflake went public this week, and in a mark of the wider ecosystem that is evolving around data warehousing, a startup that has built a completely new concept for modelling warehoused data is announcing funding. Narrator — which uses an 11-column ordering …*
       
 
 <br />
