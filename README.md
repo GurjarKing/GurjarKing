@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Premature abstraction is as bad as premature optimization.
+I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 
-~ Luciano Ramalho
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Premature abstraction is as bad as premature optimization.
 </pre>
 <strong>Daily News</strong>
   
-  - With Goat Capital, Justin Kan and Robin Chan want to keep founding alongside the right teams
+  - Perigee infrastructure security solution from former NSA employee moves into public beta
      <hr/>
      
-      - *Justin Kan and Robin Chan have each been angel investing for more than a decade. They’re starting a new fund together now, though, to stay involved as cofounders of more startups. Goat Capital is a hybrid incubator versus a pure seed investment firm, Chan exp…*
+      - *Perigee founder Mollie Breen used to work for NSA where she built a security solution to help protect the agency’s critical infrastructure. She spent the last two years at Harvard Business School talking to Chief Information Security Officers (CISOs) and fine…*
      
+  - Forage, formerly InsideSherpa, raises $9.3 million Series A for virtual work experiences
+      <hr/>
+      
+      - *Tech’s coveted internships were some of the first roles to be cut as offices closed and businesses shuttered in response to the coronavirus. A number of companies across the country, including Glassdoor, StubHub, Funding Circle, Yelp, Checkr and even the Nati…*
+      
+  - With Goat Capital, Justin Kan and Robin Chan want to keep founding alongside the right teams
+      <hr/>
+      
+      - *Justin Kan and Robin Chan have each been angel investing for more than a decade. They’re starting a new fund together now, though, to stay involved as cofounders of more startups. Goat Capital is a hybrid incubator versus a pure seed investment firm, Chan exp…*
+      
   - Facebook tries to clean up Groups with new policies
       <hr/>
       
       - *Facebook this morning announced a series of new rules designed to further penalize those who violate its Community Standards, specifically around Facebook Groups. It also introduced rules meant to crack down on the spread of misinformation through these more …*
-      
+       
   - Sophie Hill on the changing face of retail and surviving 2020
       <hr/>
-      
-      - *Threads is not your average startup and, really, it’s not a startup anymore. It’s over 10 years old, employs more than 150 people, and successfully bridged the Series A gap in Europe closing a round of $20M back in 2018. And so far, it’s surviving 2020.  COVI…*
-      
-  - Contestants will compete for a SpaceX trip to the International Space Station in new reality TV show
-      <hr/>
-      
-      - *There’s a reality TV competition show in the works that will feature a 2023 trip to the International Space Station as the grand prize, Deadline reports. The production company behind the show, which will be called ‘Space Hero,’ has booked a seat on a SpaceX …*
        
-  - Demand Sage raises $3M to make sales and marketing data more accessible
-      <hr/>
-       
-       - *Demand Sage, a new startup from the founders of recently-acquired mobile analytics company Localytics, announced this morning that it has raised $3 million in seed funding led by Eniac Ventures and Underscore VC. When I spoke to CEO Raj Aggarwal, CTO Henry Ci…*
+       - *Threads is not your average startup and, really, it’s not a startup anymore. It’s over 10 years old, employs more than 150 people, and successfully bridged the Series A gap in Europe closing a round of $20M back in 2018. And so far, it’s surviving 2020.  COVI…*
       
 
 <br />
