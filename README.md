@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+Walking on water and developing software from a specification are easy if both are frozen.
 
-~ Joe Armstrong (programmer)
+~ Edward V. Berard
 <pre>
 
 </pre>
