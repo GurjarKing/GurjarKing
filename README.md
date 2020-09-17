@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think one of the most valuable rules is avoid duplication.
+Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
 
-~ Martin Fowler
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I think one of the most valuable rules is avoid duplication.
 </pre>
 <strong>Daily News</strong>
   
-  - Connected fitness startup Tonal raises another $110 million
+  - X1 Card is a credit card based on your income, not your credit score
      <hr/>
      
-      - *Connected home fitness startup Tonal announced today that it has raised an additional $110 million. The latest round of funding includes existing investor L Catterton and new names, including Delta-v Capital, Amazon’s Alexa Fund and Mousse Partners, along wit…*
+      - *There are many reasons why you could have a good or a bad credit score. But if you’re just entering the job market, you may end up with reliable income and a low limit on your credit card. X1 Card wants to solve that by setting limits based on your current an…*
      
-  - Supercell's CEO talks about its majority owner Tencent, finding its next hit, and more
+  - A closer look at the new Apple Watches
       <hr/>
       
-      - *Mobile games maker Supercell has been one of the great, understated, breakthroughs of the European startup world. The Helsinki-based mobile games maker built an empire out of Clash of Clans, raking in tons of money and catching the eye of world class investor…*
+      - *I’m very much still working on a full review of the new Apple Watches — specifically the Series 6. As of this posting, I’ve had the wearables in my possession (and on my person) for a little under 24 hours. It’s a special circumstance attributable to the virt…*
       
-  - Finance and the digital divide: a conversation with Tunde Kehinde of Lidya
+  - Alternative protein companies have raised a whopping $1.5 billion through July of this year
       <hr/>
       
-      - *Small and medium businesses have been some of the hardest hit in the Covid-19 pandemic. And all that has been as true in emerging markets as it has been for SMBs in the developed world. Tunde Kehinde has had a front-row seat witnessing and responding to that …*
+      - *Companies like Perfect Day, Impossible Foods, and a host of other startups that are developing replacements for animal farmed goods used in food, clothes, cosmetics, and chemicals have raised a whopping $1.5 billion through the first half of the year. That’s …*
       
-  - SmartNews' Kaisei Hamamoto on how the app deals with media polarization
+  - Ansa Biotechnologies wants to usher in a new era of DNA manufacturing
       <hr/>
       
-      - *Six years ago, SmartNews took on a major challenge. After launching in Japan in 2012, the news discovery app decided that its first international market would be the United States. During Disrupt, co-founder Kaisei Hamamoto talked about how SmartNews adapts i…*
+      - *Daniel Arlow has spent the last eighteen years studying genomics and synthetic biology. The arc of his career has taken the first-time founder of the new startup Ansa Biotechnologies from MIT to the famous Keasling Lab at the University of California at Berke…*
        
-  - Blume Ventures' Karthik Reddy on Indian startup ecosystem, geo-political tension with China and coronavirus
+  - Connected fitness startup Tonal raises another $110 million
       <hr/>
        
-       - *Despite the coronavirus outbreak, which has slowed down deal-making across the world, dozens of startups in India have raised considerable amounts in recent months. Unacademy, which raised $110 million in February, closed a new round of $150 million this mont…*
+       - *Connected home fitness startup Tonal announced today that it has raised an additional $110 million. The latest round of funding includes existing investor L Catterton and new names, including Delta-v Capital, Amazon’s Alexa Fund and Mousse Partners, along wit…*
       
 
 <br />
