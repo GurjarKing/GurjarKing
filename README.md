@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+I have no special talent. I am only passionately curious.
 
-~ Poul Anderson
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I have yet to see any problem, however complicated, which when looked at in the 
 </pre>
 <strong>Daily News</strong>
   
-  - Meet the five startup Battlefield finalists at Disrupt 2020
+  - Benchmark's Peter Fenton: "10 to 20 years of innovation just got pulled forward"
      <hr/>
      
-      - *TechCrunch hosted an unusual Startup Battlefield this week — the founders, judges, audience and moderator (me) were all in different locations, doing our best to interact over WebEx. But the 20 startups still demonstrated their products and explained their vi…*
+      - *Earlier today at TechCrunch Disrupt, venture capitalist Peter Fenton joined us to talk about a variety of issues. Among them, we discussed how he’s putting his stamp on Benchmark now that, 15 years after joining the storied firm, he’s its most senior member. …*
      
+  - Meet the five startup Battlefield finalists at Disrupt 2020
+      <hr/>
+      
+      - *TechCrunch hosted an unusual Startup Battlefield this week — the founders, judges, audience and moderator (me) were all in different locations, doing our best to interact over WebEx. But the 20 startups still demonstrated their products and explained their vi…*
+      
   - Schools are closing their doors, but OpenDoor isn’t
       <hr/>
       
@@ -73,16 +78,11 @@ I have yet to see any problem, however complicated, which when looked at in the 
       <hr/>
       
       - *Twitter takes preemptive steps to avoid election-related hacks, we check out the new Apple Watches and Facebook launches new business tools. This is your Daily Crunch for September 17, 2020. The big story: Twitter tightens security ahead of election Twitter s…*
-      
+       
   - Boston Robotics delivers plan for logistics robots as early as next year
       <hr/>
-      
-      - *Boston Dynamics is just months away from announcing their approach to logistics, the first real vertical it aims to enter, after proving their ability to build robots at scale with the quadrupedal Spot. The company’s new CEO, Robert Playter, sees the company …*
        
-  - Ron Howard and Brian Grazer say that their accelerator can help diversify Hollywood
-      <hr/>
-       
-       - *Impact Creative Systems (formerly Imagine Impact) is bringing a startup accelerator-style approach to finding fresh creative talent, and it announced this morning that, with funding from venture capital firm Benchmark, it’s spinning out from Imagine Entertain…*
+       - *Boston Dynamics is just months away from announcing their approach to logistics, the first real vertical it aims to enter, after proving their ability to build robots at scale with the quadrupedal Spot. The company’s new CEO, Robert Playter, sees the company …*
       
 
 <br />
