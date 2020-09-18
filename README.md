@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
 
-~ Gary Kildall
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ It's fun to sit at a terminal and let the code flow. It sounds strange, but it j
 </pre>
 <strong>Daily News</strong>
   
-  - Gaming companies are reportedly the next targets in the US government's Tencent purge
+  - SaaS Ventures takes the investment road less traveled
      <hr/>
      
-      - *Some of the biggest names in online gaming in the United States have received letters from the U.S. government requesting information about their relationship with the multibillion-dollar Chinese technology company, Tencent, according to reports. Even as the …*
+      - *Most venture capital firms are based in hubs like Silicon Valley, New York City and Boston. These firms nurture those ecosystems and they’ve done well, but SaaS Ventures decided to go a different route: it went to cities like Chicago, Green Bay, Wisconsin and…*
      
+  - Gaming companies are reportedly the next targets in the US government's Tencent purge
+      <hr/>
+      
+      - *Some of the biggest names in online gaming in the United States have received letters from the U.S. government requesting information about their relationship with the multibillion-dollar Chinese technology company, Tencent, according to reports. Even as the …*
+      
   - Check out this never-before-seen clip from HBO's The Perfect Weapon
       <hr/>
       
@@ -73,16 +78,11 @@ It's fun to sit at a terminal and let the code flow. It sounds strange, but it j
       <hr/>
       
       - *In a case of bizarre timing, Salesforce announced it was laying off 1000 employees at the end of last month just a day after announcing a monster quarter with over $5 billion in revenue, putting the company on a $20 billion revenue run rate for the first time…*
-      
+       
   - And the winner of Startup Battlefield at Disrupt 2020 is… Canix
       <hr/>
-      
-      - *We started this competition with 20 impressive startups. After four days of fierce pitching in a wholly new virtual Startup Battlefield arena, we have a winner. The startups taking part in the Startup Battlefield have all been hand-picked to participate in ou…*
        
-  - Are high churn rates depressing earnings for app developers?
-      <hr/>
-       
-       - *It’s great to improve your subscription app’s retention rates, but don’t do it for the 85/15 split.*
+       - *We started this competition with 20 impressive startups. After four days of fierce pitching in a wholly new virtual Startup Battlefield arena, we have a winner. The startups taking part in the Startup Battlefield have all been hand-picked to participate in ou…*
       
 
 <br />
