@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+A few months writing code can save you a few hours in design.
 
-~ Joseph Yoder (computer scientist)
+~ Anonymous
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Sadly, architecture has been undervalued for so long that many engineers regard 
 </pre>
 <strong>Daily News</strong>
   
-  - Apple will launch its online store in India next week
+  - Ride-hailing was hit hard by COVID-19. Grab's Russell Cohen on how the company adapted.
      <hr/>
      
-      - *Apple will launch its online store in India on September 23, bringing a range of services directly to customers in the world’s second largest smartphone market for the first time in over 20 years since it began operations in the country. The company, which cu…*
+      - *Ride-hailing services around the world have been hit hard by the COVID-19 pandemic, and Grab was no exception. The company is one of the most highly-valued tech startups in Southeast Asia, where it operates in eight countries. Its transport business suffered …*
      
+  - Apple will launch its online store in India next week
+      <hr/>
+      
+      - *Apple will launch its online store in India on September 23, bringing a range of services directly to customers in the world’s second largest smartphone market for the first time in over 20 years since it began operations in the country. The company, which cu…*
+      
   - TikTok's Chinese rival Kuaishou becomes a popular online bazaar
       <hr/>
       
@@ -73,16 +78,11 @@ Sadly, architecture has been undervalued for so long that many engineers regard 
       <hr/>
       
       - *Earlier today at TechCrunch Disrupt, venture capitalist Peter Fenton joined us to talk about a variety of issues. Among them, we discussed how he’s putting his stamp on Benchmark now that, 15 years after joining the storied firm, he’s its most senior member. …*
-      
+       
   - Meet the five startup Battlefield finalists at Disrupt 2020
       <hr/>
-      
-      - *TechCrunch hosted an unusual Startup Battlefield this week — the founders, judges, audience and moderator (me) were all in different locations, doing our best to interact over WebEx. But the 20 startups still demonstrated their products and explained their vi…*
        
-  - Schools are closing their doors, but OpenDoor isn’t
-      <hr/>
-       
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and myself hosted a live taping at Disrupt for a digital receptio…*
+       - *TechCrunch hosted an unusual Startup Battlefield this week — the founders, judges, audience and moderator (me) were all in different locations, doing our best to interact over WebEx. But the 20 startups still demonstrated their products and explained their vi…*
       
 
 <br />
