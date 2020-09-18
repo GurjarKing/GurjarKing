@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When I invented the web, I didn't have to ask anyone's permission.
+An evolving system increases its complexity unless work is done to reduce it.
 
-~ Tim Berners-Lee
+~ Manny Lehman (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When I invented the web, I didn't have to ask anyone's permission.
 </pre>
 <strong>Daily News</strong>
   
-  - 3 investors discuss the state of SaaS investing in 2020
+  - NASA to test precision automated landing system designed for the Moon and Mars on upcoming Blue Origin mission
      <hr/>
      
-      - *Yesterday during Disrupt 2020 I sat down with three investors who know the SaaS startup market very well, hoping to get my head around how hot things are today. Coming on the heels of the epic Snowflake IPO (more to come on that in this weekend’s newsletter),…*
+      - *NASA is going to be testing out a new precision landing system designed for use on the tough terrain of the Moon and Mars for the first time during an upcoming mission of Blue Origin’s New Shepard reusable suborbital rocket. The ‘Safe and Precise Landing – In…*
      
-  - Steven Yang and Sonny Vu discuss COVID-19’s impact on tech manufacturing
+  - What makes Checkout.com different from Stripe
       <hr/>
       
-      - *Like most of the rest of the world, COVID-19 hit the manufacturing sector by surprise. That China — which continues to comprise the vast majority of electronics manufacturing — was the first global epicenter of the virus certainly didn’t help the industry suf…*
+      - *While Checkout.com has kept a low profile for many years, the company raised $380 million within a year and reached an impressive valuation of $5.5 billion. It wants to build a one-stop shop for all things related to payments, such as accepting transactions, …*
       
-  - German space agency reveals an autonomous, electric urban mobility prototype for use right here on Earth
+  - In its 4th revision to the SEC, Palantir tries to explain what the hell is going on
       <hr/>
       
-      - *The German Aerospace Center (DLR) has debuted a prototype of what it calls ‘U-Shift,’ an urban mobility vehicle designed for multiple uses. U-Shift is a fully electric vehicle, designed for autonomous operation, and could serve in a number of capacities inclu…*
+      - *For a company vaunted for its clandestine government work and strong engineering culture, you can’t help but wonder if the government’s bureaucratic norms and paperwork pushing are starting to flood into the Shire. When most companies go public, they file a F…*
       
-  - TikTok and WeChat will be banned in the U.S. from Sunday
+  - Calling VCs in Zurich & Geneva: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
       
-      - *The Commerce Department announced this morning that it will require mobile app stores to remove popular social media apps TikTok and WeChat. New users will not be able to download these apps, and while existing users will still be able to use their existing a…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Zurich and Geneva will capture how those cities are faring in terms of inves…*
        
-  - VCs have to train themselves to 'ask the stupid questions', says Hoxton Ventures' Hussein Kanji
+  - 3 investors discuss the state of SaaS investing in 2020
       <hr/>
        
-       - *If venture capitalists could predict the future, why wouldn’t they just start companies themselves? That’s the question Hussein Kanji, founding partner at Hoxton Ventures, asked rhetorically at Disrupt 2020. “If anyone says that they have predictive power in …*
+       - *Yesterday during Disrupt 2020 I sat down with three investors who know the SaaS startup market very well, hoping to get my head around how hot things are today. Coming on the heels of the epic Snowflake IPO (more to come on that in this weekend’s newsletter),…*
       
 
 <br />
