@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In order to understand recursion, one must first understand recursion.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Anonymous
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ In order to understand recursion, one must first understand recursion.
 </pre>
 <strong>Daily News</strong>
   
-  - Benchmark's Peter Fenton: "10 to 20 years of innovation just got pulled forward"
+  - TikTok's Chinese rival Kuaishou becomes a popular online bazaar
      <hr/>
      
-      - *Earlier today at TechCrunch Disrupt, venture capitalist Peter Fenton joined us to talk about a variety of issues. Among them, we discussed how he’s putting his stamp on Benchmark now that, 15 years after joining the storied firm, he’s its most senior member. …*
+      - *In China, short video apps aren’t just for mindless time killing. These services are becoming online bazaars where users can examine products, see how they are grown and made, and ask sellers questions during live sessions. Kuaishou, the main rival of TikTok’…*
      
+  - Benchmark's Peter Fenton: "10 to 20 years of innovation just got pulled forward"
+      <hr/>
+      
+      - *Earlier today at TechCrunch Disrupt, venture capitalist Peter Fenton joined us to talk about a variety of issues. Among them, we discussed how he’s putting his stamp on Benchmark now that, 15 years after joining the storied firm, he’s its most senior member. …*
+      
   - Meet the five startup Battlefield finalists at Disrupt 2020
       <hr/>
       
@@ -73,16 +78,11 @@ In order to understand recursion, one must first understand recursion.
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and myself hosted a live taping at Disrupt for a digital receptio…*
-      
+       
   - Daily Crunch: Twitter tightens security ahead of election
       <hr/>
-      
-      - *Twitter takes preemptive steps to avoid election-related hacks, we check out the new Apple Watches and Facebook launches new business tools. This is your Daily Crunch for September 17, 2020. The big story: Twitter tightens security ahead of election Twitter s…*
        
-  - Boston Robotics delivers plan for logistics robots as early as next year
-      <hr/>
-       
-       - *Boston Dynamics is just months away from announcing their approach to logistics, the first real vertical it aims to enter, after proving their ability to build robots at scale with the quadrupedal Spot. The company’s new CEO, Robert Playter, sees the company …*
+       - *Twitter takes preemptive steps to avoid election-related hacks, we check out the new Apple Watches and Facebook launches new business tools. This is your Daily Crunch for September 17, 2020. The big story: Twitter tightens security ahead of election Twitter s…*
       
 
 <br />
