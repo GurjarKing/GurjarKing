@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
 
-~ Linus Torvalds
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If you need more than 3 levels of indentation, you're screwed anyway, and should
 </pre>
 <strong>Daily News</strong>
   
-  - Outschool, newly profitable, raises a $45M Series B for virtual small group classes
+  - How the NSA is disrupting foreign hackers targeting COVID-19 vaccine research
      <hr/>
      
-      - *Outschool, which started in 2015 as a platform for homeschooled students to bolster their extracurricular activities, has dramatically widened its customer base since the coronavirus pandemic began.The platform saw its total addressable market increase dramat…*
+      - *The headlines aren’t always kind to the National Security Agency, a spy agency that operates almost entirely in the shadows. But a year ago, the NSA launched its new Cybersecurity Directorate, which in the past year has emerged as one of the more visible divi…*
      
-  - NASA to test precision automated landing system designed for the Moon and Mars on upcoming Blue Origin mission
+  - Instagram CEO, ACLU slam TikTok and WeChat app bans for putting US freedoms into the balance
       <hr/>
       
-      - *NASA is going to be testing out a new precision landing system designed for use on the tough terrain of the Moon and Mars for the first time during an upcoming mission of Blue Origin’s New Shepard reusable suborbital rocket. The ‘Safe and Precise Landing – In…*
+      - *As people begin to process the announcement from the U.S. Department of Commerce detailing how it plans, on grounds of national security, to shut down TikTok and WeChat — starting with app downloads and updates for both, plus all of WeChat’s services, on Sept…*
       
-  - What makes Checkout.com different from Stripe
+  - Chime adds $485M at a $14.5B valuation, claims EBITDA profitability
       <hr/>
       
-      - *While Checkout.com has kept a low profile for many years, the company raised $380 million within a year and reached an impressive valuation of $5.5 billion. It wants to build a one-stop shop for all things related to payments, such as accepting transactions, …*
+      - *In the midst of IPO week we have to add another name to our future debuts’ list, namely Chime, which announced a huge new round of capital today. The $485 million Series F values the consumer fintech giant at $14.5 billion, a huge figure given that Chime was …*
       
-  - In its 4th revision to the SEC, Palantir tries to explain what the hell is going on
+  - It's game on as Unity begins trading
       <hr/>
       
-      - *For a company vaunted for its clandestine government work and strong engineering culture, you can’t help but wonder if the government’s bureaucratic norms and paperwork pushing are starting to flood into the Shire. When most companies go public, they file a F…*
+      - *Unity Software, which sells a game development toolkit primarily for mobile phone app developers, raised $1.3 billion in its initial public offering. The company, which will begin trading today with the ticker symbol “U”, priced its shares at the top end of i…*
        
-  - Calling VCs in Zurich & Geneva: Be featured in The Great TechCrunch Survey of European VC
+  - Outschool, newly profitable, raises a $45M Series B for virtual small group classes
       <hr/>
        
-       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Zurich and Geneva will capture how those cities are faring in terms of inves…*
+       - *Outschool, which started in 2015 as a platform for homeschooled students to bolster their extracurricular activities, has dramatically widened its customer base since the coronavirus pandemic began.The platform saw its total addressable market increase dramat…*
       
 
 <br />
