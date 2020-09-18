@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We who cut mere stones must always be envisioning cathedrals.
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 
-~ Quarry worker's creed
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
