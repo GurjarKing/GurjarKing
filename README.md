@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+There is no reason anyone would want a computer in their home.
 
-~ Tom Cargill
+~ Ken Olsen
 <pre>
 
 </pre>
