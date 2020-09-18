@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An evolving system increases its complexity unless work is done to reduce it.
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 
-~ Manny Lehman (computer scientist)
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ An evolving system increases its complexity unless work is done to reduce it.
 </pre>
 <strong>Daily News</strong>
   
-  - NASA to test precision automated landing system designed for the Moon and Mars on upcoming Blue Origin mission
+  - Outschool, newly profitable, raises a $45M Series B for virtual small group classes
      <hr/>
      
-      - *NASA is going to be testing out a new precision landing system designed for use on the tough terrain of the Moon and Mars for the first time during an upcoming mission of Blue Origin’s New Shepard reusable suborbital rocket. The ‘Safe and Precise Landing – In…*
+      - *Outschool, which started in 2015 as a platform for homeschooled students to bolster their extracurricular activities, has dramatically widened its customer base since the coronavirus pandemic began.The platform saw its total addressable market increase dramat…*
      
+  - NASA to test precision automated landing system designed for the Moon and Mars on upcoming Blue Origin mission
+      <hr/>
+      
+      - *NASA is going to be testing out a new precision landing system designed for use on the tough terrain of the Moon and Mars for the first time during an upcoming mission of Blue Origin’s New Shepard reusable suborbital rocket. The ‘Safe and Precise Landing – In…*
+      
   - What makes Checkout.com different from Stripe
       <hr/>
       
@@ -73,16 +78,11 @@ An evolving system increases its complexity unless work is done to reduce it.
       <hr/>
       
       - *For a company vaunted for its clandestine government work and strong engineering culture, you can’t help but wonder if the government’s bureaucratic norms and paperwork pushing are starting to flood into the Shire. When most companies go public, they file a F…*
-      
+       
   - Calling VCs in Zurich & Geneva: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
-      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Zurich and Geneva will capture how those cities are faring in terms of inves…*
        
-  - 3 investors discuss the state of SaaS investing in 2020
-      <hr/>
-       
-       - *Yesterday during Disrupt 2020 I sat down with three investors who know the SaaS startup market very well, hoping to get my head around how hot things are today. Coming on the heels of the epic Snowflake IPO (more to come on that in this weekend’s newsletter),…*
+       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Zurich and Geneva will capture how those cities are faring in terms of inves…*
       
 
 <br />
