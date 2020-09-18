@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
 
-~ Addy Osmani
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ First do it, then do it right, then do it better.
 </pre>
 <strong>Daily News</strong>
   
-  - And the winner of Startup Battlefield at Disrupt 2020 is… Canix
+  - Gaming companies are reportedly the next targets in the US government's Tencent purge
      <hr/>
      
-      - *We started this competition with 20 impressive startups. After four days of fierce pitching in a wholly new virtual Startup Battlefield arena, we have a winner. The startups taking part in the Startup Battlefield have all been hand-picked to participate in ou…*
+      - *Some of the biggest names in online gaming in the United States have received letters from the U.S. government requesting information about their relationship with the multibillion-dollar Chinese technology company, Tencent, according to reports. Even as the …*
      
+  - Check out this never-before-seen clip from HBO's The Perfect Weapon
+      <hr/>
+      
+      - *At Disrupt 2020, we got a chance to see some never-before-seen footage from HBO’s upcoming documentary The Perfect Weapon. The documentary, which was executive produced by John Maggio, is based on the book by the same(ish) name written by David Sanger, Washin…*
+      
+  - Salesforce announces 12,000 new jobs in the next year just weeks after laying off 1000
+      <hr/>
+      
+      - *In a case of bizarre timing, Salesforce announced it was laying off 1000 employees at the end of last month just a day after announcing a monster quarter with over $5 billion in revenue, putting the company on a $20 billion revenue run rate for the first time…*
+      
+  - And the winner of Startup Battlefield at Disrupt 2020 is… Canix
+      <hr/>
+      
+      - *We started this competition with 20 impressive startups. After four days of fierce pitching in a wholly new virtual Startup Battlefield arena, we have a winner. The startups taking part in the Startup Battlefield have all been hand-picked to participate in ou…*
+       
   - Are high churn rates depressing earnings for app developers?
       <hr/>
-      
-      - *It’s great to improve your subscription app’s retention rates, but don’t do it for the 85/15 split.*
-      
-  - MIT engineers develop a totally flat fisheye lens that could make wide-angle cameras easier to produce
-      <hr/>
-      
-      - *Engineers at MIT, in partnership with the University of Massachusetts at Lowell, have devised a way to build a camera lens that avoids the typical spherical curve of ultra-wide-angle glass, while still providing true optical fisheye distortion. The fisheye le…*
-      
-  - Battery tech superstars JB Straubel of Redwood Materials, Celina Mikolajczak of Panasonic coming to TC Mobility 2020
-      <hr/>
-      
-      - *It was a trickle at first that has evolved into a slow and steady stream. Now, a wave of new electric vehicles is building, promising to deliver an unprecedented number of models to North America, Europe and China over the next two to three years. There might…*
        
-  - Zoox becomes fourth company to land driverless testing permit in California
-      <hr/>
-       
-       - *Zoox, the automated vehicle technology startup that was acquired by Amazon this year, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads. The permit is not for all public roads in the state, but …*
+       - *It’s great to improve your subscription app’s retention rates, but don’t do it for the 85/15 split.*
       
 
 <br />
