@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 
-~ Brian Kernighan
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Debugging is twice as hard as writing the code in the first place. Therefore, if
 </pre>
 <strong>Daily News</strong>
   
-  - Ride-hailing was hit hard by COVID-19. Grab's Russell Cohen on how the company adapted.
+  - Google pulls India's Paytm app from Play Store for repeat policy violations
      <hr/>
      
-      - *Ride-hailing services around the world have been hit hard by the COVID-19 pandemic, and Grab was no exception. The company is one of the most highly-valued tech startups in Southeast Asia, where it operates in eight countries. Its transport business suffered …*
+      - *Google has pulled Indian financial services app Paytm from the Play Store for violating its gambling policies. Paytm is India’s most valued startup and claims over 50 million monthly active users. Its marquee app, which allows users to exchange money with one…*
      
+  - Ride-hailing was hit hard by COVID-19. Grab's Russell Cohen on how the company adapted.
+      <hr/>
+      
+      - *Ride-hailing services around the world have been hit hard by the COVID-19 pandemic, and Grab was no exception. The company is one of the most highly-valued tech startups in Southeast Asia, where it operates in eight countries. Its transport business suffered …*
+      
   - Apple will launch its online store in India next week
       <hr/>
       
@@ -73,16 +78,11 @@ Debugging is twice as hard as writing the code in the first place. Therefore, if
       <hr/>
       
       - *In China, short video apps aren’t just for mindless time killing. These services are becoming online bazaars where users can examine products, see how they are grown and made, and ask sellers questions during live sessions. Kuaishou, the main rival of TikTok’…*
-      
+       
   - Benchmark's Peter Fenton: "10 to 20 years of innovation just got pulled forward"
       <hr/>
-      
-      - *Earlier today at TechCrunch Disrupt, venture capitalist Peter Fenton joined us to talk about a variety of issues. Among them, we discussed how he’s putting his stamp on Benchmark now that, 15 years after joining the storied firm, he’s its most senior member. …*
        
-  - Meet the five startup Battlefield finalists at Disrupt 2020
-      <hr/>
-       
-       - *TechCrunch hosted an unusual Startup Battlefield this week — the founders, judges, audience and moderator (me) were all in different locations, doing our best to interact over WebEx. But the 20 startups still demonstrated their products and explained their vi…*
+       - *Earlier today at TechCrunch Disrupt, venture capitalist Peter Fenton joined us to talk about a variety of issues. Among them, we discussed how he’s putting his stamp on Benchmark now that, 15 years after joining the storied firm, he’s its most senior member. …*
       
 
 <br />
