@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+When I invented the web, I didn't have to ask anyone's permission.
 
-~ Fred Brooks
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The separation of architectural effort from implementation is a very powerful wa
 </pre>
 <strong>Daily News</strong>
   
-  - German space agency reveals an autonomous, electric urban mobility prototype for use right here on Earth
+  - 3 investors discuss the state of SaaS investing in 2020
      <hr/>
      
-      - *The German Aerospace Center (DLR) has debuted a prototype of what it calls ‘U-Shift,’ an urban mobility vehicle designed for multiple uses. U-Shift is a fully electric vehicle, designed for autonomous operation, and could serve in a number of capacities inclu…*
+      - *Yesterday during Disrupt 2020 I sat down with three investors who know the SaaS startup market very well, hoping to get my head around how hot things are today. Coming on the heels of the epic Snowflake IPO (more to come on that in this weekend’s newsletter),…*
      
+  - Steven Yang and Sonny Vu discuss COVID-19’s impact on tech manufacturing
+      <hr/>
+      
+      - *Like most of the rest of the world, COVID-19 hit the manufacturing sector by surprise. That China — which continues to comprise the vast majority of electronics manufacturing — was the first global epicenter of the virus certainly didn’t help the industry suf…*
+      
+  - German space agency reveals an autonomous, electric urban mobility prototype for use right here on Earth
+      <hr/>
+      
+      - *The German Aerospace Center (DLR) has debuted a prototype of what it calls ‘U-Shift,’ an urban mobility vehicle designed for multiple uses. U-Shift is a fully electric vehicle, designed for autonomous operation, and could serve in a number of capacities inclu…*
+      
   - TikTok and WeChat will be banned in the U.S. from Sunday
       <hr/>
       
       - *The Commerce Department announced this morning that it will require mobile app stores to remove popular social media apps TikTok and WeChat. New users will not be able to download these apps, and while existing users will still be able to use their existing a…*
-      
+       
   - VCs have to train themselves to 'ask the stupid questions', says Hoxton Ventures' Hussein Kanji
       <hr/>
-      
-      - *If venture capitalists could predict the future, why wouldn’t they just start companies themselves? That’s the question Hussein Kanji, founding partner at Hoxton Ventures, asked rhetorically at Disrupt 2020. “If anyone says that they have predictive power in …*
-      
-  - China's vaping giant Relx gears up for US entry
-      <hr/>
-      
-      - *The backlash against vaping in the United States has not deterred a Chinese challenger from entering the world’s largest vaping market. Relx, one of China’s largest e-cigarette companies, is seeking to submit its Premarket Tobacco Product Application to the U…*
        
-  - Google pulls India's Paytm app from Play Store for repeat policy violations
-      <hr/>
-       
-       - *Google has pulled Indian financial services app Paytm from the Play Store for violating its gambling policies. Paytm is India’s most valued startup and claims over 50 million monthly active users. Its marquee app, which allows users to exchange money with one…*
+       - *If venture capitalists could predict the future, why wouldn’t they just start companies themselves? That’s the question Hussein Kanji, founding partner at Hoxton Ventures, asked rhetorically at Disrupt 2020. “If anyone says that they have predictive power in …*
       
 
 <br />
