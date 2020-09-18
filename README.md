@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
