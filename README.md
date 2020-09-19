@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
 
-~ Joshua Bloch
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The cleaner and nicer the program, the faster it's going to run. And if it doesn
 </pre>
 <strong>Daily News</strong>
   
-  - On lying AIs
+  - From Unity to Disrupt, tech has an especially optimistic week
      <hr/>
      
-      - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
+      - *Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.*
      
+  - Human Capital: The Black founder's burden
+      <hr/>
+      
+      - *Welcome back to Human Capital, where we unpack all-things diversity, inclusion and labor in tech. This week, we’re looking at Google’s internal message board problem, as well as some highlights from TechCrunch Disrupt, where I had the pleasure of chatting wit…*
+      
+  - On lying AIs
+      <hr/>
+      
+      - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
+      
   - This Week in Apps: iOS 14's surprise arrival, Apple's app bundle, TikTok & WeChat banned from app stores Sunday
       <hr/>
       
       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
+       
   - Unity Software has strong opening, gaining 31% after pricing above its raised range
       <hr/>
-      
-      - *Whoever said you can’t make money playing video games clearly hasn’t taken a look at Unity Software’s stock price. On its first official day of trading, the company rose more than 31%, opening at $75 per share before closing the day at $68.35. Unity’s share p…*
-      
-  - Conan O’Brien on how to embrace an ever-changing media landscape
-      <hr/>
-      
-      - *“Like most of the best things in my life,” Conan O’Brien explains, with a wry smile, “the success of the podcast was a complete surprise.” The answer is a typically self-effacing one from the comedian. Since launching “Conan O’Brien Needs a Friend” nearly two…*
        
-  - Chamath launches SPAC, SPAC, and SPAC as he SPACs the World with SPACs
-      <hr/>
-       
-       - *SPACs are going to rule the world, or at least, Chamath’s future portfolio. Chamath Palihapitiya, the founder of Social Capital, has already tripled down on SPACs, the so-called “blank check” vehicle that takes private companies and flips them onto the public…*
+       - *Whoever said you can’t make money playing video games clearly hasn’t taken a look at Unity Software’s stock price. On its first official day of trading, the company rose more than 31%, opening at $75 per share before closing the day at $68.35. Unity’s share p…*
       
 
 <br />
