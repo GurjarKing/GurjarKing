@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Before software can be reusable it first has to be usable.
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 
-~ Ralph Johnson (computer scientist)
+~ Steve Jobs
 <pre>
 
 </pre>
