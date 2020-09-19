@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you think your users are idiots, only idiots will use it.
+Never memorize something that you can look up.
 
-~ Linus Torvalds
+~ Albert Einstein
 <pre>
 
 </pre>
