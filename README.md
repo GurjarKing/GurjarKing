@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 
-~ Robert C. Martin
+~ Fred Brooks
 <pre>
 
 </pre>
