@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 
-~ Danny Hillis
+~ Marijn Haverbeke
 <pre>
 
 </pre>
