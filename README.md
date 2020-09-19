@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 
-~ Eric S. Raymond
+~ Wayne Ratliff
 <pre>
 
 </pre>
