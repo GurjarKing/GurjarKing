@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 
-~ Fred Brooks
+~ David Leinweber
 <pre>
 
 </pre>
