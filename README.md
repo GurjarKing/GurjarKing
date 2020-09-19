@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-~ Daniel T. Barry
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The notions of correctness in mathematics and programs are different. A mathemat
 </pre>
 <strong>Daily News</strong>
   
-  - Was Snowflake’s IPO mispriced or just misunderstood?
+  - President Trump reportedly has approved the Oracle deal for TikTok's US operations
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
+      - *President Donald Trump said has has given his stamp of approval “in concept” on the Oracle bid for the U.S. operations of the wildly popular social media app, TikTok, according to a report from Bloomberg. According to the Bloomberg report Trump said, “I have …*
      
+  - Homeland Security issues rare emergency alert over 'critical' Windows bug
+      <hr/>
+      
+      - *The bug can give attackers full control of an entire network in seconds.*
+      
+  - Was Snowflake’s IPO mispriced or just misunderstood?
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
+      
   - From Unity to Disrupt, tech has an especially optimistic week
       <hr/>
       
       - *Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.*
-      
+       
   - Human Capital: The Black founder's burden
       <hr/>
-      
-      - *Welcome back to Human Capital, where we unpack all-things diversity, inclusion and labor in tech. This week, we’re looking at Google’s internal message board problem, as well as some highlights from TechCrunch Disrupt, where I had the pleasure of chatting wit…*
-      
-  - On lying AIs
-      <hr/>
-      
-      - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
        
-  - This Week in Apps: iOS 14's surprise arrival, Apple's app bundle, TikTok & WeChat banned from app stores Sunday
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *Welcome back to Human Capital, where we unpack all-things diversity, inclusion and labor in tech. This week, we’re looking at Google’s internal message board problem, as well as some highlights from TechCrunch Disrupt, where I had the pleasure of chatting wit…*
       
 
 <br />
