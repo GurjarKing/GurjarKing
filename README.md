@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every good work of software starts by scratching a developer’s personal itch.
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 
-~ Eric S. Raymond
+~ Joshua Bloch
 <pre>
 
 </pre>
