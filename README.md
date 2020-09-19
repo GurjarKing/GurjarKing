@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 
-~ Brian Kernighan
+~ Mark Gibbs
 <pre>
 
 </pre>
