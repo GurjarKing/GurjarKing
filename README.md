@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+If you think your users are idiots, only idiots will use it.
 
-~ David Leinweber
+~ Linus Torvalds
 <pre>
 
 </pre>
