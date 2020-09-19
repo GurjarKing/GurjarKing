@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 
-~ Mark Gibbs
+~ Fred Brooks
 <pre>
 
 </pre>
