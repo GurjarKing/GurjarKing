@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In man-machine symbiosis, it is man who must adjust: The machines can't.
+Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
 
-~ Alan Perlis
+~ Poul-Henning Kamp
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ In man-machine symbiosis, it is man who must adjust: The machines can't.
 </pre>
 <strong>Daily News</strong>
   
-  - Unity Software has strong opening, gaining 31% after pricing above its raised range
+  - On lying AIs
      <hr/>
      
-      - *Whoever said you can’t make money playing video games clearly hasn’t taken a look at Unity Software’s stock price. On its first official day of trading, the company rose more than 31%, opening at $75 per share before closing the day at $68.35. Unity’s share p…*
+      - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
      
+  - This Week in Apps: iOS 14's surprise arrival, Apple's app bundle, TikTok & WeChat banned from app stores Sunday
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
+  - Unity Software has strong opening, gaining 31% after pricing above its raised range
+      <hr/>
+      
+      - *Whoever said you can’t make money playing video games clearly hasn’t taken a look at Unity Software’s stock price. On its first official day of trading, the company rose more than 31%, opening at $75 per share before closing the day at $68.35. Unity’s share p…*
+      
   - Conan O’Brien on how to embrace an ever-changing media landscape
       <hr/>
       
       - *“Like most of the best things in my life,” Conan O’Brien explains, with a wry smile, “the success of the podcast was a complete surprise.” The answer is a typically self-effacing one from the comedian. Since launching “Conan O’Brien Needs a Friend” nearly two…*
-      
+       
   - Chamath launches SPAC, SPAC, and SPAC as he SPACs the World with SPACs
       <hr/>
-      
-      - *SPACs are going to rule the world, or at least, Chamath’s future portfolio. Chamath Palihapitiya, the founder of Social Capital, has already tripled down on SPACs, the so-called “blank check” vehicle that takes private companies and flips them onto the public…*
-      
-  - Daily Crunch: Partial US TikTok ban is imminent
-      <hr/>
-      
-      - *The Trump administration moves forwards with plans to ban TikTok and WeChat (although TikTok gets a partial extension), Unity goes public and we announce the winner of this year’s Startup Battlefield. This is your Daily Crunch for September 18, 2020. The big …*
        
-  - SaaS Ventures takes the investment road less traveled
-      <hr/>
-       
-       - *Most venture capital firms are based in hubs like Silicon Valley, New York City and Boston. These firms nurture those ecosystems and they’ve done well, but SaaS Ventures decided to go a different route: it went to cities like Chicago, Green Bay, Wisconsin and…*
+       - *SPACs are going to rule the world, or at least, Chamath’s future portfolio. Chamath Palihapitiya, the founder of Social Capital, has already tripled down on SPACs, the so-called “blank check” vehicle that takes private companies and flips them onto the public…*
       
 
 <br />
