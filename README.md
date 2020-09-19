@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The top 5% of programmers probably write 99% of the good software.
+Every good work of software starts by scratching a developer’s personal itch.
 
-~ Paul Graham (programmer)
+~ Eric S. Raymond
 <pre>
 
 </pre>
