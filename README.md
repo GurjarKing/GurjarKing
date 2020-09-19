@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 
-~ Marijn Haverbeke
+~ Robert C. Martin
 <pre>
 
 </pre>
