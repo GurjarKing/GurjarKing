@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Never memorize something that you can look up.
+In man-machine symbiosis, it is man who must adjust: The machines can't.
 
-~ Albert Einstein
+~ Alan Perlis
 <pre>
 
 </pre>
