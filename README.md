@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+The top 5% of programmers probably write 99% of the good software.
 
-~ Douglas Crockford
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
