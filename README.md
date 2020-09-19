@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 
-~ Steve Jobs
+~ Danny Hillis
 <pre>
 
 </pre>
