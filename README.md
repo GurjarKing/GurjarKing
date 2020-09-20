@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 
-~ Bjarne Stroustrup
+~ Douglas Crockford
 <pre>
 
 </pre>
