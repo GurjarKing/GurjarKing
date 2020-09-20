@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best thing about a boolean is even if you are wrong, you are only off by a bit.
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 
-~ Anonymous
+~ Philip Greenspun
 <pre>
 
 </pre>
