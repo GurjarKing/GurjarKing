@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 
-~ Roy Fielding
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Communication must be stateless in nature, such that each request from client to
 </pre>
 <strong>Daily News</strong>
   
-  - The TikTok deal solves quite literally nothing
+  - Gangster capitalism and the American theft of Chinese innovation
      <hr/>
      
-      - *Well… that was pointless. After debasing the idea of free commerce in the U.S in the name of a misplaced security concern, stringing along several multi-billion dollar companies that embarrassed themselves in the interest of naked greed, and demanding that th…*
+      - *It used to be “easy” to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadership, a corrupt wealth generating scam that by some estimate…*
      
+  - The TikTok deal solves quite literally nothing
+      <hr/>
+      
+      - *Well… that was pointless. After debasing the idea of free commerce in the U.S in the name of a misplaced security concern, stringing along several multi-billion dollar companies that embarrassed themselves in the interest of naked greed, and demanding that th…*
+      
   - President Trump reportedly has approved the Oracle deal for TikTok's US operations
       <hr/>
       
@@ -73,16 +78,11 @@ Communication must be stateless in nature, such that each request from client to
       <hr/>
       
       - *The bug can give attackers full control of an entire network in seconds.*
-      
+       
   - Was Snowflake’s IPO mispriced or just misunderstood?
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
        
-  - From Unity to Disrupt, tech has an especially optimistic week
-      <hr/>
-       
-       - *Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
       
 
 <br />
