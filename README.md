@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Debugging is like being the detective in a crime movie where you are also the murderer.
+Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 
-~ Filipe Fortes
+~ Roy Fielding
 <pre>
 
 </pre>
