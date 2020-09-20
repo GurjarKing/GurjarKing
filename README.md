@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+Debugging is like being the detective in a crime movie where you are also the murderer.
 
-~ Charles Babbage
+~ Filipe Fortes
 <pre>
 
 </pre>
