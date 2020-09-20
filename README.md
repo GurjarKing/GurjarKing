@@ -46,9 +46,10 @@
 
 **Quote of the hour:**
 
-Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
 
-~ Edsger W. Dijkstra
+~ Douglas Crockford
 <pre>
 
 </pre>
