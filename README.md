@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
+Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 
-~ Tom DeMarco
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
