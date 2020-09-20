@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
 
-~ Bill Gates
+~ Tom DeMarco
 <pre>
 
 </pre>
