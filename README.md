@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 
-~ Ted Nelson
+~ John Warnock
 <pre>
 
 </pre>
