@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 
-~ Edsger W. Dijkstra
+~ David Leinweber
 <pre>
 
 </pre>
