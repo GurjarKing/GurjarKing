@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Object-oriented design is the roman numerals of computing.
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 
-~ Rob Pike
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Object-oriented design is the roman numerals of computing.
 </pre>
 <strong>Daily News</strong>
   
-  - Trump administration’s WeChat ban is blocked by U.S. district court
+  - How FaZe Clan is continuing to lead the esports world
      <hr/>
      
-      - *A few days ago, the U.S. Commerce Department published a series of rules that aimed to block the downloading of TikTok and WeChat by American users, following an executive order signed by President Trump back in August. TikTok got a last minute reprieve yeste…*
+      - *The esports world is evolving quickly and so are the professional organizations that drive it. FaZe Clan is among the world’s most popular. At TechCrunch Disrupt 2020 we talked to FaZe Clan CEO Lee Trink, investor Troy Carter, and Nick Kolcheff, better known …*
      
+  - Original Content podcast: 'Wireless' shows off Quibi's Turnstyle technology
+      <hr/>
+      
+      - *“Wireless” is probably the best showcase so far for Quibi’s Turnstyle technology. That’s the technology that allows the streaming video app to switch seamlessly between landscape and portrait mode depending on the orientation of your phone. With other Quibi s…*
+      
+  - Trump administration’s WeChat ban is blocked by U.S. district court
+      <hr/>
+      
+      - *A few days ago, the U.S. Commerce Department published a series of rules that aimed to block the downloading of TikTok and WeChat by American users, following an executive order signed by President Trump back in August. TikTok got a last minute reprieve yeste…*
+      
   - Gangster capitalism and the American theft of Chinese innovation
       <hr/>
       
       - *It used to be “easy” to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadership, a corrupt wealth generating scam that by some estimate…*
-      
+       
   - The TikTok deal solves quite literally nothing
       <hr/>
-      
-      - *Well… that was pointless. After debasing the idea of free commerce in the U.S in the name of a misplaced security concern, stringing along several multi-billion dollar companies that embarrassed themselves in the interest of naked greed, and demanding that th…*
-      
-  - President Trump reportedly has approved the Oracle deal for TikTok's US operations
-      <hr/>
-      
-      - *President Donald Trump said has has given his stamp of approval “in concept” on the Oracle bid for the U.S. operations of the wildly popular social media app, TikTok, according to a report from Bloomberg. According to the Bloomberg report Trump said, “I have …*
        
-  - Homeland Security issues rare emergency alert over 'critical' Windows bug
-      <hr/>
-       
-       - *The bug can give attackers full control of an entire network in seconds.*
+       - *Well… that was pointless. After debasing the idea of free commerce in the U.S in the name of a misplaced security concern, stringing along several multi-billion dollar companies that embarrassed themselves in the interest of naked greed, and demanding that th…*
       
 
 <br />
