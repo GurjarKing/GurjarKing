@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
 
-~ Joseph Yoder (computer scientist)
+~ Fred Brooks
 <pre>
 
 </pre>
