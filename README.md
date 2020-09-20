@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
 
-~ Douglas Crockford
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
