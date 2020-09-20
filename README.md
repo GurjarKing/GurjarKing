@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
-~ David Leinweber
+~ Anonymous
 <pre>
 
 </pre>
