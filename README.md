@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
 
-~ Fred Brooks
+~ Charles Babbage
 <pre>
 
 </pre>
