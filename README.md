@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Low-level programming is good for the programmer’s soul.
+Making things easy is hard.
 
-~ John Carmack
+~ Ted Nelson
 <pre>
 
 </pre>
