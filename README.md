@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 
-~ Michael A. Jackson
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The beginning of wisdom for a programmer is to recognize the difference between 
 </pre>
 <strong>Daily News</strong>
   
-  - Group discounts let you bring the team to TC Sessions: Mobility 2020
+  - Pandemic accelerated cord cutting, making 2020 the worst-ever year for pay TV
      <hr/>
      
-      - *There’s a lot of virtual ground for one person to cover — and real opportunities to uncover — during the two days of TC Sessions: Mobility 2020 (Oct. 6-7). Take advantage of our group discounts, bring the whole team and multiply your results and your ROI. Buy…*
+      - *The pandemic has accelerated adoption of a number of technologies, from online grocery to multi-platform gaming to streaming services and more. But one industry that has not benefited is traditional pay TV. According to new research from eMarketer, the cable,…*
      
+  - Microsoft commits to putting more water than it consumes back into the ecosystems where it operates by 2030
+      <hr/>
+      
+      - *One good trend in 2020 has been large technology companies almost falling over one another to make ever-bolder commitments regarding their ecological impact. A cynic might argue that just doing without most of the things they make could have a much greater im…*
+      
+  - Group discounts let you bring the team to TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *There’s a lot of virtual ground for one person to cover — and real opportunities to uncover — during the two days of TC Sessions: Mobility 2020 (Oct. 6-7). Take advantage of our group discounts, bring the whole team and multiply your results and your ROI. Buy…*
+      
   - Miami-based Marco Financial is launching a revenue-based lending service for Latin American SMEs
       <hr/>
       
       - *Marco Financial, a new Miami-based startup, is looking to take a piece of the roughly $350 billion trade finance market for Latin American exporters with its novel factoring services business.  Small and medium sized businesses in Latin America can have troub…*
-      
+       
   - The Peloton effect
       <hr/>
-      
-      - *During the most recent quarter, only a few earnings reports stood out from the rest. Zoom’s set of results were one of them, with the video-communications company showing enormous acceleration as the world replaced in-person contact with remote chat. Another …*
-      
-  - Illumina buying cancer-screening spinout Grail in blockbuster $8B biotech deal
-      <hr/>
-      
-      - *Biotech has become one of the hottest areas of venture investment in recent years, as progress in machine learning, genetics, medical devices, and biology fuse together into new products for the gargantuan health industry. Case in point: Grail, which began in…*
        
-  - NBCUniversal's Peacock is now live on Roku
-      <hr/>
-       
-       - *NBCUniversal and Roku announced late last week that they’d resolved the dispute that was keeping NBCU’s streaming Peacock app off Roku’s smart TV platform. And as of this morning, Peacock has launched on Roku . When Peacock launched in July, it was not availa…*
+       - *During the most recent quarter, only a few earnings reports stood out from the rest. Zoom’s set of results were one of them, with the video-communications company showing enormous acceleration as the world replaced in-person contact with remote chat. Another …*
       
 
 <br />
