@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
+The top 5% of programmers probably write 99% of the good software.
 
-~ Richard Stallman
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The most powerful programming language is Lisp. If you don't know Lisp (or its v
 </pre>
 <strong>Daily News</strong>
   
-  - Equity Monday: The TikTok mess, and a grip of neat European VC activity
+  - A meeting room of one's own: three VCs discuss breaking out of big firms to start their own gigs
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *One of the more salient trends in the tech world — arguably the engine that propels it — has been the recurring theme of people who hone talents at bigger companies and then strike out on their own to found their own startups. (Some, like Max Levchin, even hi…*
      
+  - In its 5th filing with the SEC, Palantir finally admits it is not a democracy
+      <hr/>
+      
+      - *Palantir is not a democracy, and it really, really, really wants you to know that. Palantir’s governance has been under an exacting lens from regulators the past few weeks as it prepares for a public direct listing on September 29th. In revision after revisio…*
+      
+  - Facebook's new Rights Manager tool lets creators protect their photos, including those embedded elsewhere
+      <hr/>
+      
+      - *Facebook today is introducing a new tool that will allow rights holders to protect and manage their photos across both Facebook and Instagram. With the newly launched “Rights Manager for Images,” Facebook is offering creators and publishers access to content …*
+      
+  - Equity Monday: The TikTok mess, and a grip of neat European VC activity
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+       
   - Microsoft set to acquire Bethesda parent ZeniMax for $7.5B
       <hr/>
-      
-      - *Microsoft this morning announced plans to acquire ZeniMax Media Inc. for $7.5 billion in cash. The gaming holding company is the parent to a number of high profile publishers, including Bethesda Game Studios, id Software, ZeniMax Online Studios, Arkane, Machi…*
-      
-  - ByteDance says it will own a majority of TikTok. Oracle says ByteDance will own 0%. WTF is this deal?
-      <hr/>
-      
-      - *You know a deal is signed and going to close when the parties keep fact checking each other and no one can agree on what the deal actually says. We’ve been following the TikTok / Oracle deal for sometime here on TechCrunch, and over the weekend, it seemed lik…*
-      
-  - Amazon details its low-bandwidth Sidewalk neighborhood network, coming to Echo and Tile devices soon
-      <hr/>
-      
-      - *Last year, Amazon announced its Sidewalk network, a new low-bandwidth, long-distance wireless protocol it developed to help connect smart devices inside and — maybe even more importantly — outside of your home. Sidewalk, which is somewhat akin to a mesh netwo…*
        
-  - The Lumos Matrix is the ideal urban bike helmet for a smarter, safer day trip
-      <hr/>
-       
-       - *With many of us are still more or less confined to our own homes and limited social spaces for the foreseeable future, and for a lot of you, that has led to a rediscovery of the joys of biking. Bike riding is a great way to spend time outdoors exploring your …*
+       - *Microsoft this morning announced plans to acquire ZeniMax Media Inc. for $7.5 billion in cash. The gaming holding company is the parent to a number of high profile publishers, including Bethesda Game Studios, id Software, ZeniMax Online Studios, Arkane, Machi…*
       
 
 <br />
