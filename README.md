@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 
-~ George Boole
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Of the many forms of false culture, a premature converse with abstractions is pe
 </pre>
 <strong>Daily News</strong>
   
-  - Pandemic accelerated cord cutting, making 2020 the worst-ever year for pay TV
+  - Twitter and Zoom's algorithmic bias issues
      <hr/>
      
-      - *The pandemic has accelerated adoption of a number of technologies, from online grocery to multi-platform gaming to streaming services and more. But one industry that has not benefited is traditional pay TV. According to new research from eMarketer, the cable,…*
+      - *Both Zoom and Twitter found themselves under fire this weekend for their respective issues with algorithmic bias. On Zoom, it’s an issue with the video conferencing service’s virtual backgrounds and on Twitter, it’s an issue with the site’s photo cropping too…*
      
-  - Microsoft commits to putting more water than it consumes back into the ecosystems where it operates by 2030
+  - Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global
       <hr/>
       
-      - *One good trend in 2020 has been large technology companies almost falling over one another to make ever-bolder commitments regarding their ecological impact. A cynic might argue that just doing without most of the things they make could have a much greater im…*
+      - *Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provided her with the still …*
       
-  - Group discounts let you bring the team to TC Sessions: Mobility 2020
+  - How to make the most of iOS 14 widgets and iPhone home screen customization
       <hr/>
       
-      - *There’s a lot of virtual ground for one person to cover — and real opportunities to uncover — during the two days of TC Sessions: Mobility 2020 (Oct. 6-7). Take advantage of our group discounts, bring the whole team and multiply your results and your ROI. Buy…*
+      - *You’ve probably seen the screenshots going around that show iOS home screens that differ considerably from the stock options that Apple provides. Yes, if you’re an Android user you’re probably laughing at iPhone owners for finally (nearly) catching up to the …*
       
-  - Miami-based Marco Financial is launching a revenue-based lending service for Latin American SMEs
+  - Launcher brings its powerful widget-making app to iOS 14
       <hr/>
       
-      - *Marco Financial, a new Miami-based startup, is looking to take a piece of the roughly $350 billion trade finance market for Latin American exporters with its novel factoring services business.  Small and medium sized businesses in Latin America can have troub…*
+      - *Launcher is bringing its customizable widgets to iOS 14 with new functionality, including the ability to rotate a widget’s icons by date, time or even location. It also supports customizable widget backgrounds, icons of different sizes, or those with no label…*
        
-  - The Peloton effect
+  - Despite slowdowns, pandemic accelerates shifts in hardware manufacturing
       <hr/>
        
-       - *During the most recent quarter, only a few earnings reports stood out from the rest. Zoom’s set of results were one of them, with the video-communications company showing enormous acceleration as the world replaced in-person contact with remote chat. Another …*
+       - *The COVID-19 pandemic didn’t hit every factory in China at once. The initial impact to China’s electronics industry arrived around the time the nation was celebrating its new year. Two weeks after announcing 59 known cases of a new form of coronavirus, the na…*
       
 
 <br />
