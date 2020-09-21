@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-JavaScript, purely by accident, has become the most popular programming language in the world.
+With artificial intelligence we are summoning the demon.
 
-~ Douglas Crockford
+~ Elon Musk
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ JavaScript, purely by accident, has become the most popular programming language
 </pre>
 <strong>Daily News</strong>
   
-  - Kindred Capital closes £81M second fund to back early-stage European startups
+  - Language learning service Babbel says it has now sold over 10M subscriptions
      <hr/>
      
-      - *Kindred Capital, the London-based VC that backs early-stage founders in Europe, has closed its second seed fund at £81 million. That’s only a tad larger than the the firm’s first fund, which invested in 29 companies and was raised in 2018. Portfolio companies…*
+      - *Babbel, the popular Berlin-based online language learning service, today announced that it has now sold a total of 10 million subscriptions to its service. For a language learning service, that’s quite a substantial number, especially given that Babbel doesn’…*
      
+  - Kindred Capital closes £81M second fund to back early-stage European startups
+      <hr/>
+      
+      - *Kindred Capital, the London-based VC that backs early-stage founders in Europe, has closed its second seed fund at £81 million. That’s only a tad larger than the the firm’s first fund, which invested in 29 companies and was raised in 2018. Portfolio companies…*
+      
   - TikTok fact-checks: US IPO, Chinese ownership, $5B in taxes
       <hr/>
       
@@ -73,16 +78,11 @@ JavaScript, purely by accident, has become the most popular programming language
       <hr/>
       
       - *Mobile Premier League (MPL) has raised $90 million in a new financing round as the two-year-old Bangalore-based esports and mobile gaming platform grows its user base and looks to expand outside of India. SIG, early-stage tech investor RTP Global, and MDI Ven…*
-      
+       
   - Senate's encryption backdoor bill is 'dangerous for Americans,' says Rep. Lofgren
       <hr/>
-      
-      - *"You cannot eliminate encryption safely," said the House Democrat.*
        
-  - Thanks to Google, app store monopoly concerns have now reached India
-      <hr/>
-       
-       - *Last week, as Epic Games, Facebook, and Microsoft continued to express concerns about Apple’s “monopolistic” hold over what a billion people can download on their iPhones, a similar story unfolded in India, the world’s second largest internet market, between …*
+       - *"You cannot eliminate encryption safely," said the House Democrat.*
       
 
 <br />
