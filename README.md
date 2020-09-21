@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
 
-~ Donald Knuth
+~ Fred Brooks
 <pre>
 
 </pre>
