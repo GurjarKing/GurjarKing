@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
 
-~ Ted Nelson
+~ Donald Knuth
 <pre>
 
 </pre>
