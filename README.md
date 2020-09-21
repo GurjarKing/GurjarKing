@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+All too many of our software systems are, architecturally, little more than shantytowns.
 
-~ Fred Brooks
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Coding is "90 percent finished" for half of the total coding time. Debugging is 
 </pre>
 <strong>Daily News</strong>
   
-  - With $100M in funding, Playco is already a mobile gaming unicorn
+  - Amazon details its low-bandwidth Sidewalk neighborhood network, coming to Echo and Tile devices soon
      <hr/>
      
-      - *Playco is a new mobile gaming startup created by Game Closure co-founder Michael Carter and Zynga co-founder Justin Waldron, as well as game producers Takeshi Otsuka and Teddy Cross. Although the Tokyo-headquartered company is only announcing its existence to…*
+      - *Last year, Amazon announced its Sidewalk network, a new low-bandwidth, long-distance wireless protocol it developed to help connect smart devices inside and — maybe even more importantly — outside of your home. Sidewalk, which is somewhat akin to a mesh netwo…*
      
-  - Ireland's data watchdog slammed for letting adtech carry on 'biggest breach of all time'
+  - The Lumos Matrix is the ideal urban bike helmet for a smarter, safer day trip
       <hr/>
       
-      - *A dossier of evidence detailing how the online ad targeting industry profiles Internet users’ intimate characteristics without their knowledge or consent has been published today by the Irish Council for Civil Liberties (ICCL), piling more pressure on the cou…*
+      - *With many of us are still more or less confined to our own homes and limited social spaces for the foreseeable future, and for a lot of you, that has led to a rediscovery of the joys of biking. Bike riding is a great way to spend time outdoors exploring your …*
       
-  - Language learning service Babbel says it has now sold over 10M subscriptions
+  - Osso VR raises $14 million to bring virtual reality to surgical and medical device training
       <hr/>
       
-      - *Babbel, the popular Berlin-based online language learning service, today announced that it has now sold a total of 10 million subscriptions to its service. For a language learning service, that’s quite a substantial number, especially given that Babbel doesn’…*
+      - *It seems that distance learning is even coming for the healthcare industry. As remote work becomes the order of the day in the COVID-19 era, any tool that can bring training and education services to folks across industries is gaining a huge amount of investo…*
       
-  - Kindred Capital closes £81M second fund to back early-stage European startups
+  - Nikola's chairman steps down, stock crashes following allegations of fraud
       <hr/>
       
-      - *Kindred Capital, the London-based VC that backs early-stage founders in Europe, has closed its second seed fund at £81 million. That’s only a tad larger than the the firm’s first fund, which invested in 29 companies and was raised in 2018. Portfolio companies…*
+      - *Nikola Corp. founder and Executive Chairman Trevor Milton is stepping down from the electric truck company effective immediately. This comes in the wake of a report from a noted short-selling accusing the company of fraud. Milton is succeeded by Stephen Girsk…*
        
-  - TikTok fact-checks: US IPO, Chinese ownership, $5B in taxes
+  - Amnesty calls for human rights controls on EU digital surveillance exports
       <hr/>
        
-       - *There is no shortage of speculations and reports around TikTok’s future in the U.S. Amid a swirl of rumors, TikTok’s Chinese parent ByteDance issued a statement (in Chinese) on Monday morning, bringing clarity to its ongoing deal that has captured global atte…*
+       - *In a new report, Amnesty International says it’s found evidence of EU companies selling digital surveillance technologies to China — despite the stark human rights risks of technologies like facial recognition ending up in the hands of an authoritarian regime…*
       
 
 <br />
