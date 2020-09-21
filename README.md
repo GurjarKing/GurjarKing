@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Making things easy is hard.
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 
-~ Ted Nelson
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Making things easy is hard.
 </pre>
 <strong>Daily News</strong>
   
-  - Thanks to Google, app store monopoly concerns have now reached India
+  - Senate's encryption backdoor bill is 'dangerous for Americans,' says Rep. Lofgren
      <hr/>
      
-      - *Last week, as Epic Games, Facebook, and Microsoft continued to express concerns about Apple’s “monopolistic” hold over what a billion people can download on their iPhones, a similar story unfolded in India, the world’s second largest internet market, between …*
+      - *"You cannot eliminate encryption safely," said the House Democrat.*
      
+  - Thanks to Google, app store monopoly concerns have now reached India
+      <hr/>
+      
+      - *Last week, as Epic Games, Facebook, and Microsoft continued to express concerns about Apple’s “monopolistic” hold over what a billion people can download on their iPhones, a similar story unfolded in India, the world’s second largest internet market, between …*
+      
   - How FaZe Clan is continuing to lead the esports world
       <hr/>
       
@@ -73,16 +78,11 @@ Making things easy is hard.
       <hr/>
       
       - *“Wireless” is probably the best showcase so far for Quibi’s Turnstyle technology. That’s the technology that allows the streaming video app to switch seamlessly between landscape and portrait mode depending on the orientation of your phone. With other Quibi s…*
-      
+       
   - Trump administration’s WeChat ban is blocked by U.S. district court
       <hr/>
-      
-      - *A few days ago, the U.S. Commerce Department published a series of rules that aimed to block the downloading of TikTok and WeChat by American users, following an executive order signed by President Trump back in August. TikTok got a last minute reprieve yeste…*
        
-  - Gangster capitalism and the American theft of Chinese innovation
-      <hr/>
-       
-       - *It used to be “easy” to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadership, a corrupt wealth generating scam that by some estimate…*
+       - *A few days ago, the U.S. Commerce Department published a series of rules that aimed to block the downloading of TikTok and WeChat by American users, following an executive order signed by President Trump back in August. TikTok got a last minute reprieve yeste…*
       
 
 <br />
