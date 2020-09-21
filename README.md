@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 
-~ Richard Hamming
+~ Alan Turing
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Perhaps the central problem we face in all of computer science is how we are to 
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter and Zoom's algorithmic bias issues
+  - Edtech investors are panning for gold
      <hr/>
      
-      - *Both Zoom and Twitter found themselves under fire this weekend for their respective issues with algorithmic bias. On Zoom, it’s an issue with the video conferencing service’s virtual backgrounds and on Twitter, it’s an issue with the site’s photo cropping too…*
+      - *The spotlight on edtech grows brighter and harsher: On one end, remote-learning startups are attracting millions in venture capital. On the other, many educators and parents are unimpressed with the technology that enables virtual learning and gaps remain in …*
      
+  - Twitter and Zoom's algorithmic bias issues
+      <hr/>
+      
+      - *Both Zoom and Twitter found themselves under fire this weekend for their respective issues with algorithmic bias. On Zoom, it’s an issue with the video conferencing service’s virtual backgrounds and on Twitter, it’s an issue with the site’s photo cropping too…*
+      
   - Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global
       <hr/>
       
@@ -73,16 +78,11 @@ Perhaps the central problem we face in all of computer science is how we are to 
       <hr/>
       
       - *You’ve probably seen the screenshots going around that show iOS home screens that differ considerably from the stock options that Apple provides. Yes, if you’re an Android user you’re probably laughing at iPhone owners for finally (nearly) catching up to the …*
-      
+       
   - Launcher brings its powerful widget-making app to iOS 14
       <hr/>
-      
-      - *Launcher is bringing its customizable widgets to iOS 14 with new functionality, including the ability to rotate a widget’s icons by date, time or even location. It also supports customizable widget backgrounds, icons of different sizes, or those with no label…*
        
-  - Despite slowdowns, pandemic accelerates shifts in hardware manufacturing
-      <hr/>
-       
-       - *The COVID-19 pandemic didn’t hit every factory in China at once. The initial impact to China’s electronics industry arrived around the time the nation was celebrating its new year. Two weeks after announcing 59 known cases of a new form of coronavirus, the na…*
+       - *Launcher is bringing its customizable widgets to iOS 14 with new functionality, including the ability to rotate a widget’s icons by date, time or even location. It also supports customizable widget backgrounds, icons of different sizes, or those with no label…*
       
 
 <br />
