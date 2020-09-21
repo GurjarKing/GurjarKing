@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+Debugging is like being the detective in a crime movie where you are also the murderer.
 
-~ Michael Hawley
+~ Filipe Fortes
 <pre>
 
 </pre>
