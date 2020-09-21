@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All too many of our software systems are, architecturally, little more than shantytowns.
+The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 
-~ Joseph Yoder (computer scientist)
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ All too many of our software systems are, architecturally, little more than shan
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon details its low-bandwidth Sidewalk neighborhood network, coming to Echo and Tile devices soon
+  - Equity Monday: The TikTok mess, and a grip of neat European VC activity
      <hr/>
      
-      - *Last year, Amazon announced its Sidewalk network, a new low-bandwidth, long-distance wireless protocol it developed to help connect smart devices inside and — maybe even more importantly — outside of your home. Sidewalk, which is somewhat akin to a mesh netwo…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
      
+  - Microsoft set to acquire Bethesda parent ZeniMax for $7.5B
+      <hr/>
+      
+      - *Microsoft this morning announced plans to acquire ZeniMax Media Inc. for $7.5 billion in cash. The gaming holding company is the parent to a number of high profile publishers, including Bethesda Game Studios, id Software, ZeniMax Online Studios, Arkane, Machi…*
+      
+  - ByteDance says it will own a majority of TikTok. Oracle says ByteDance will own 0%. WTF is this deal?
+      <hr/>
+      
+      - *You know a deal is signed and going to close when the parties keep fact checking each other and no one can agree on what the deal actually says. We’ve been following the TikTok / Oracle deal for sometime here on TechCrunch, and over the weekend, it seemed lik…*
+      
+  - Amazon details its low-bandwidth Sidewalk neighborhood network, coming to Echo and Tile devices soon
+      <hr/>
+      
+      - *Last year, Amazon announced its Sidewalk network, a new low-bandwidth, long-distance wireless protocol it developed to help connect smart devices inside and — maybe even more importantly — outside of your home. Sidewalk, which is somewhat akin to a mesh netwo…*
+       
   - The Lumos Matrix is the ideal urban bike helmet for a smarter, safer day trip
       <hr/>
-      
-      - *With many of us are still more or less confined to our own homes and limited social spaces for the foreseeable future, and for a lot of you, that has led to a rediscovery of the joys of biking. Bike riding is a great way to spend time outdoors exploring your …*
-      
-  - Osso VR raises $14 million to bring virtual reality to surgical and medical device training
-      <hr/>
-      
-      - *It seems that distance learning is even coming for the healthcare industry. As remote work becomes the order of the day in the COVID-19 era, any tool that can bring training and education services to folks across industries is gaining a huge amount of investo…*
-      
-  - Nikola's chairman steps down, stock crashes following allegations of fraud
-      <hr/>
-      
-      - *Nikola Corp. founder and Executive Chairman Trevor Milton is stepping down from the electric truck company effective immediately. This comes in the wake of a report from a noted short-selling accusing the company of fraud. Milton is succeeded by Stephen Girsk…*
        
-  - Amnesty calls for human rights controls on EU digital surveillance exports
-      <hr/>
-       
-       - *In a new report, Amnesty International says it’s found evidence of EU companies selling digital surveillance technologies to China — despite the stark human rights risks of technologies like facial recognition ending up in the hands of an authoritarian regime…*
+       - *With many of us are still more or less confined to our own homes and limited social spaces for the foreseeable future, and for a lot of you, that has led to a rediscovery of the joys of biking. Bike riding is a great way to spend time outdoors exploring your …*
       
 
 <br />
