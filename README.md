@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+Fancy algorithms are slow when n is small, and n is usually small.
 
-~ Alan Turing
+~ Rob Pike
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A computer would deserve to be called intelligent if it could deceive a human in
 </pre>
 <strong>Daily News</strong>
   
-  - Edtech investors are panning for gold
+  - Following TechCrunch reporting, Palantir rapidly removes language allowing founders to “unilaterally adjust their total voting power”
      <hr/>
      
-      - *The spotlight on edtech grows brighter and harsher: On one end, remote-learning startups are attracting millions in venture capital. On the other, many educators and parents are unimpressed with the technology that enables virtual learning and gaps remain in …*
+      - *Well, that was fast. This morning, I analyzed Palantir’s newly published 5th amendment of its S-1 filing with the SEC as it pursues a public direct listing on the NYSE. I called the company “not a democracy” after it added new provisions to create a special m…*
      
+  - Edtech investors are panning for gold
+      <hr/>
+      
+      - *The spotlight on edtech grows brighter and harsher: On one end, remote-learning startups are attracting millions in venture capital. On the other, many educators and parents are unimpressed with the technology that enables virtual learning and gaps remain in …*
+      
   - Twitter and Zoom's algorithmic bias issues
       <hr/>
       
@@ -73,16 +78,11 @@ A computer would deserve to be called intelligent if it could deceive a human in
       <hr/>
       
       - *Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provided her with the still …*
-      
+       
   - How to make the most of iOS 14 widgets and iPhone home screen customization
       <hr/>
-      
-      - *You’ve probably seen the screenshots going around that show iOS home screens that differ considerably from the stock options that Apple provides. Yes, if you’re an Android user you’re probably laughing at iPhone owners for finally (nearly) catching up to the …*
        
-  - Launcher brings its powerful widget-making app to iOS 14
-      <hr/>
-       
-       - *Launcher is bringing its customizable widgets to iOS 14 with new functionality, including the ability to rotate a widget’s icons by date, time or even location. It also supports customizable widget backgrounds, icons of different sizes, or those with no label…*
+       - *You’ve probably seen the screenshots going around that show iOS home screens that differ considerably from the stock options that Apple provides. Yes, if you’re an Android user you’re probably laughing at iPhone owners for finally (nearly) catching up to the …*
       
 
 <br />
