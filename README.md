@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
-~ Danny Hillis
+~ Richard Stallman
 <pre>
 
 </pre>
