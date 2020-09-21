@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Fancy algorithms are slow when n is small, and n is usually small.
+What one programmer can do in one month, two programmers can do in two months.
 
-~ Rob Pike
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Fancy algorithms are slow when n is small, and n is usually small.
 </pre>
 <strong>Daily News</strong>
   
-  - Following TechCrunch reporting, Palantir rapidly removes language allowing founders to “unilaterally adjust their total voting power”
+  - CDC removes updated guidelines around COVID-19 aerosol transmission, but this expert explains why it should reverse the reversal
      <hr/>
      
-      - *Well, that was fast. This morning, I analyzed Palantir’s newly published 5th amendment of its S-1 filing with the SEC as it pursues a public direct listing on the NYSE. I called the company “not a democracy” after it added new provisions to create a special m…*
+      - *Last week at TechCrunch Disrupt 2020, I got the chance to speak to Dr. Eric Feigl-Ding, an epidemiologist and health economists who is a Senior Fellow of the Federation of American Scientists. Dr. Feigl-Ding has been a frequent and vocal critic of some of the…*
      
+  - Following TechCrunch reporting, Palantir rapidly removes language allowing founders to “unilaterally adjust their total voting power”
+      <hr/>
+      
+      - *Well, that was fast. This morning, I analyzed Palantir’s newly published 5th amendment of its S-1 filing with the SEC as it pursues a public direct listing on the NYSE. I called the company “not a democracy” after it added new provisions to create a special m…*
+      
   - Edtech investors are panning for gold
       <hr/>
       
@@ -73,16 +78,11 @@ Fancy algorithms are slow when n is small, and n is usually small.
       <hr/>
       
       - *Both Zoom and Twitter found themselves under fire this weekend for their respective issues with algorithmic bias. On Zoom, it’s an issue with the video conferencing service’s virtual backgrounds and on Twitter, it’s an issue with the site’s photo cropping too…*
-      
+       
   - Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global
       <hr/>
-      
-      - *Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provided her with the still …*
        
-  - How to make the most of iOS 14 widgets and iPhone home screen customization
-      <hr/>
-       
-       - *You’ve probably seen the screenshots going around that show iOS home screens that differ considerably from the stock options that Apple provides. Yes, if you’re an Android user you’re probably laughing at iPhone owners for finally (nearly) catching up to the …*
+       - *Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provided her with the still …*
       
 
 <br />
