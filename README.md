@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 
-~ Edsger W. Dijkstra
+~ Danny Hillis
 <pre>
 
 </pre>
