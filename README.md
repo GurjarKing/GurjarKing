@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Debugging is like being the detective in a crime movie where you are also the murderer.
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 
-~ Filipe Fortes
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Debugging is like being the detective in a crime movie where you are also the mu
 </pre>
 <strong>Daily News</strong>
   
-  - Senate's encryption backdoor bill is 'dangerous for Americans,' says Rep. Lofgren
+  - Kindred Capital closes £81M second fund to back early-stage European startups
      <hr/>
      
-      - *"You cannot eliminate encryption safely," said the House Democrat.*
+      - *Kindred Capital, the London-based VC that backs early-stage founders in Europe, has closed its second seed fund at £81 million. That’s only a tad larger than the the firm’s first fund, which invested in 29 companies and was raised in 2018. Portfolio companies…*
      
+  - TikTok fact-checks: US IPO, Chinese ownership, $5B in taxes
+      <hr/>
+      
+      - *There is no shortage of speculations and reports around TikTok’s future in the U.S. Amid a swirl of rumors, TikTok’s Chinese parent ByteDance issued a statement (in Chinese) on Monday morning, bringing clarity to its ongoing deal that has captured global atte…*
+      
+  - Indian mobile gaming platform Mobile Premier League raises $90 million
+      <hr/>
+      
+      - *Mobile Premier League (MPL) has raised $90 million in a new financing round as the two-year-old Bangalore-based esports and mobile gaming platform grows its user base and looks to expand outside of India. SIG, early-stage tech investor RTP Global, and MDI Ven…*
+      
+  - Senate's encryption backdoor bill is 'dangerous for Americans,' says Rep. Lofgren
+      <hr/>
+      
+      - *"You cannot eliminate encryption safely," said the House Democrat.*
+       
   - Thanks to Google, app store monopoly concerns have now reached India
       <hr/>
-      
-      - *Last week, as Epic Games, Facebook, and Microsoft continued to express concerns about Apple’s “monopolistic” hold over what a billion people can download on their iPhones, a similar story unfolded in India, the world’s second largest internet market, between …*
-      
-  - How FaZe Clan is continuing to lead the esports world
-      <hr/>
-      
-      - *The esports world is evolving quickly and so are the professional organizations that drive it. FaZe Clan is among the world’s most popular. At TechCrunch Disrupt 2020 we talked to FaZe Clan CEO Lee Trink, investor Troy Carter, and Nick Kolcheff, better known …*
-      
-  - Original Content podcast: 'Wireless' shows off Quibi's Turnstyle technology
-      <hr/>
-      
-      - *“Wireless” is probably the best showcase so far for Quibi’s Turnstyle technology. That’s the technology that allows the streaming video app to switch seamlessly between landscape and portrait mode depending on the orientation of your phone. With other Quibi s…*
        
-  - Trump administration’s WeChat ban is blocked by U.S. district court
-      <hr/>
-       
-       - *A few days ago, the U.S. Commerce Department published a series of rules that aimed to block the downloading of TikTok and WeChat by American users, following an executive order signed by President Trump back in August. TikTok got a last minute reprieve yeste…*
+       - *Last week, as Epic Games, Facebook, and Microsoft continued to express concerns about Apple’s “monopolistic” hold over what a billion people can download on their iPhones, a similar story unfolded in India, the world’s second largest internet market, between …*
       
 
 <br />
