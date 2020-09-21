@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+JavaScript, purely by accident, has become the most popular programming language in the world.
 
-~ L. Peter Deutsch
+~ Douglas Crockford
 <pre>
 
 </pre>
