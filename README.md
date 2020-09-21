@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-With artificial intelligence we are summoning the demon.
+LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 
-~ Elon Musk
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ With artificial intelligence we are summoning the demon.
 </pre>
 <strong>Daily News</strong>
   
-  - Language learning service Babbel says it has now sold over 10M subscriptions
+  - Ireland's data watchdog slammed for letting adtech carry on 'biggest breach of all time'
      <hr/>
      
-      - *Babbel, the popular Berlin-based online language learning service, today announced that it has now sold a total of 10 million subscriptions to its service. For a language learning service, that’s quite a substantial number, especially given that Babbel doesn’…*
+      - *A dossier of evidence detailing how the online ad targeting industry profiles Internet users’ intimate characteristics without their knowledge or consent has been published today by the Irish Council for Civil Liberties (ICCL), piling more pressure on the cou…*
      
+  - Language learning service Babbel says it has now sold over 10M subscriptions
+      <hr/>
+      
+      - *Babbel, the popular Berlin-based online language learning service, today announced that it has now sold a total of 10 million subscriptions to its service. For a language learning service, that’s quite a substantial number, especially given that Babbel doesn’…*
+      
   - Kindred Capital closes £81M second fund to back early-stage European startups
       <hr/>
       
@@ -73,16 +78,11 @@ With artificial intelligence we are summoning the demon.
       <hr/>
       
       - *There is no shortage of speculations and reports around TikTok’s future in the U.S. Amid a swirl of rumors, TikTok’s Chinese parent ByteDance issued a statement (in Chinese) on Monday morning, bringing clarity to its ongoing deal that has captured global atte…*
-      
+       
   - Indian mobile gaming platform Mobile Premier League raises $90 million
       <hr/>
-      
-      - *Mobile Premier League (MPL) has raised $90 million in a new financing round as the two-year-old Bangalore-based esports and mobile gaming platform grows its user base and looks to expand outside of India. SIG, early-stage tech investor RTP Global, and MDI Ven…*
        
-  - Senate's encryption backdoor bill is 'dangerous for Americans,' says Rep. Lofgren
-      <hr/>
-       
-       - *"You cannot eliminate encryption safely," said the House Democrat.*
+       - *Mobile Premier League (MPL) has raised $90 million in a new financing round as the two-year-old Bangalore-based esports and mobile gaming platform grows its user base and looks to expand outside of India. SIG, early-stage tech investor RTP Global, and MDI Ven…*
       
 
 <br />
