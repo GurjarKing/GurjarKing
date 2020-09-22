@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+When I invented the web, I didn't have to ask anyone's permission.
 
-~ Alan Perlis
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 </pre>
 <strong>Daily News</strong>
   
-  - WellSaid Labs research takes synthetic speech from seconds-long clips to hours
+  - Pinterest breaks daily download record due to user interest in iOS 14 design ideas
      <hr/>
      
-      - *Millions of homes have voice-enabled devices, but when was the last time you heard a piece of synthesized speech longer than a handful of seconds? WellSaid Labs has pushed the field ahead with a voice engine that can easily and quickly generate hours of voice…*
+      - *The excitement around the ability to customize your iPhone homescreen following the release of iOS 14 has been paying off for Pinterest. According to new third-party estimates, Pinterest’s app has seen record global daily downloads and a swift climb up the Ap…*
      
+  - Explore the global markets of micromobility at TC Sessions: Mobility
+      <hr/>
+      
+      - *While electric scooters first launched at scale in the U.S., they quickly made their way overseas. Now, there’s a bustling electric scooter market in Europe, China, Latin America and one that’s growing in parts of Africa. At TC Sessions: Mobility on October 6…*
+      
+  - WellSaid Labs research takes synthetic speech from seconds-long clips to hours
+      <hr/>
+      
+      - *Millions of homes have voice-enabled devices, but when was the last time you heard a piece of synthesized speech longer than a handful of seconds? WellSaid Labs has pushed the field ahead with a voice engine that can easily and quickly generate hours of voice…*
+      
   - We’re updating The TechCrunch List soon. Founders, send in your recommendations of the most helpful lead VCs
       <hr/>
       
       - *Earlier this year, we launched The TechCrunch List, a carefully curated group of VCs who lead rounds recommended by thousands of founders for their acumen and friendliness, grouped by market focus, stage, and geography. Since the launch of the List, we’ve see…*
-      
+       
   - Tech must radically rethink how it treats independent contractors
       <hr/>
-      
-      - *Where tech has succeeded in creating of hundreds of thousands of independent contractor positions, it also has to lead the way in reimagining how we may treat them and reward them for their work.*
-      
-  - Despite a rough year for digital media, Blavity and The Shade Room are thriving
-      <hr/>
-      
-      - *Last week at TechCrunch Disrupt, TechCrunch media and advertising reporter Anthony Ha sat down with Blavity CEO Morgan DeBaun and The Shade Room CEO Angelica Nwandu to chat about their respective media companies, 2020 in the media world and how they view a re…*
        
-  - Big tech has 2 elephants in the room: Privacy and competition
-      <hr/>
-       
-       - *The question of how policymakers should respond to the power of big tech didn’t get a great deal of airtime at TechCrunch Disrupt last week, despite a number of investigations now underway in the United States (hi, Google). It’s also clear that attention- and…*
+       - *Where tech has succeeded in creating of hundreds of thousands of independent contractor positions, it also has to lead the way in reimagining how we may treat them and reward them for their work.*
       
 
 <br />
