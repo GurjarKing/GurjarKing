@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+The real problem with throwaway code comes when it isn't thrown away.
 
-~ Steve Jobs
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
