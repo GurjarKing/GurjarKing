@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
 
-~ Vannevar Bush
+~ Charles Babbage
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Two centuries ago Leibnitz invented a calculating machine which embodied most of
 </pre>
 <strong>Daily News</strong>
   
-  - Mark Cuban, Marc Benioff, Robert Downey Jr., Gwyneth Paltrow, and Uber CEO Dara Khosrowshahi are investing in toilet paper
+  - TikTok, WeChat and the growing digital divide between the U.S. and China
      <hr/>
      
-      - *A slew of big name entrepreneurs and celebrities are really circling the drain with their latest investment. Led by Greycroft Partners, a who’s who of celebrity investors including: Mark Cuban, Marc Benioff, Iron Man and Pepper Potts (er… Robert Downey Jr. an…*
+      - *Over the past decade, the dynamic between Chinese and United States tech companies has undergone dramatic shifts. Once seen as a promising market for American companies, that narrative flipped as China’s tech innovation and investment power became increasingl…*
      
-  - Pure Watercraft ramps up its electric outboard motors with a $23M series A
+  - Made In Space is sending the first ceramic manufacturing facility in space to the ISS next week
       <hr/>
       
-      - *Electric power only started making sense for land vehicles about ten years ago, but now the technology is ready to make the jump into the water. Pure Watercraft hopes that its electric outboard motor can replace a normal gas one for most boating needs under 5…*
+      - *In-space manufacturing company Made In Space is pushing the envelope on what can, well, be made in space with its next mission – which is set to launch aboard a Northrop Grumman International Space Station (ISS) resupply mission set for next Tuesday. Aboard t…*
       
-  - Satellite radar startup ICEYE raises 87 million to continue to grow its operational constellation
+  - Morgan Beller, co-creator of the Libra digital currency, just joined the venture firm NFX
       <hr/>
       
-      - *Finnish startup ICEYE, which has been building out and operating a constellation of Synthetic-Aperture Radar (SAR) small satellites, has raised an $87 million Series C round of financing. This round of funding was led by existing investor True Ventures, and i…*
+      - *Morgan Beller, who is a co-creator of the proposed Libra digital currency, along with Facebook vice presidents David Marcus and Kevin Weil, has left the company to become a general partner with the venture firm NFX . In a call yesterday, she said she first be…*
       
-  - Green Monday Holdings, the business arm of Hong Kong's vegetarian advocacy group, raises $70 million from TPG, Swire Pacific
+  - Uber for Business introduces a couple of commuting options to get to the office during the pandemic
       <hr/>
       
-      - *Green Monday Holdings, a manufacturer of plant-based pork substitute products and frozen meals and an operator of a chain of vegetarian-focused retail outlets and cafes, said it has raised $70 million in financing from investors including TPG’s The Rise Fund …*
+      - *Uber for Business, the business side of the consumer ride sharing service, has typically focused on helping companies track their Uber expenses, but during a pandemic needs have changed. It’s no longer about getting employees to and from the airport or shuttl…*
        
-  - TikTok says it removed 104M videos in H1 2020, proposes harmful content coalition with other social apps
+  - Mark Cuban, Marc Benioff, Robert Downey Jr., Gwyneth Paltrow, and Uber CEO Dara Khosrowshahi are investing in toilet paper
       <hr/>
        
-       - *As the future of ByteDance’s TikTok ownership continues to get hammered out between tech leviathans, investors and government officials in meeting rooms, the video app today published its latest transparency report. In all, over 104.5 million videos were take…*
+       - *A slew of big name entrepreneurs and celebrities are really circling the drain with their latest investment. Led by Greycroft Partners, a who’s who of celebrity investors including: Mark Cuban, Marc Benioff, Iron Man and Pepper Potts (er… Robert Downey Jr. an…*
       
 
 <br />
