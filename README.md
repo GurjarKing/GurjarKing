@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming is at least as difficult as developing a mathematical theory.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Daniel T. Barry
+~ Friedrich Bauer
 <pre>
 
 </pre>
