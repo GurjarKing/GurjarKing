@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+Programming is the ultimate field for someone who likes to tinker.
 
-~ Jamie Zawinski
+~ Ray Ozzie
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Professionalism has no place in art, and hacking is art. Software Engineering mi
 </pre>
 <strong>Daily News</strong>
   
-  - Royole returns with another foldable
+  - Microsoft challenges Twilio with the launch of Azure Communication Services
      <hr/>
      
-      - *I first spent time with the Royole Flexpai at a TechCrunch event in China back in 2018. The devices was exciting. It was the first commercially released foldable, after all, before Samsung and Huawei offered their respective takes on the form factor. But ulti…*
+      - *Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat, text messages to their apps, as well as old-school telephony. The company describes the new s…*
      
-  - Brazil's banks try to outflank challengers by investing in a $15 million round for Quanto
+  - Microsoft Azure launches new availability zones in Canada and Australia
       <hr/>
       
-      - *Trying to outflank competition from neo banks and other potential challengers, two of Brazil’s largest financial services institutions, Bradesco and Itaú Unibanco, have invested in Quanto, a company developing technology to let retailers and other businesses …*
+      - *Microsoft Azure offers developers access to more data center regions than its competitors, but it was late to the game of offering different availability zones in those regions for high-availability use cases. After a few high-profile issues a couple of years…*
       
-  - Latch, a smart lock company, looks to become a platform with the launch of LatchOS
+  - Microsoft brings data services to its Arc multi-cloud management service
       <hr/>
       
-      - *Tech that powers physical spaces is in the midst of a growth spurt. One company in the mix, Latch, is today announcing the next phase of the company with the launch of LatchOS. Latch was founded back in 2014 with the mission of creating a vertically integrate…*
+      - *Microsoft today launched a major update to its Arc multi-cloud service that allows Azure customers to run and manage workloads across clouds — including those of Microsoft’s competitors — and their on on-premises data centers. First announced at Microsoft Ign…*
       
-  - Google launches a work-tracking tool and Airtable rival, Tables
+  - Microsoft launches new Cortana features for business users
       <hr/>
       
-      - *Google’s in-house incubator Area 120 is today introducing a new work-tracking tool, Tables, which aims to make tracking projects more efficient by investing in automation. Instead of simply tracking notes and tasks associated with a project in various documen…*
+      - *Cortana may have failed as a virtual assistant for consumers, but Microsoft is still betting on it (or at least its brand) for business use cases, now that it has rebranded it as a ‘personal productivity assistant’ as part of Microsoft 365. Today, at its Igni…*
        
-  - Willow, the startup making the wearable breast pump, raises $55 million
+  - Microsoft Teams gets breakout rooms, custom layouts and virtual commutes
       <hr/>
        
-       - *Willow, the startup company making a new, wearable, breast pump for women, is capping off a frenetic 2020 with $55 million in fresh funding as it looks to expand its product line to more offerings for new mothers. The company is coming off a year which saw sa…*
+       - *Unsurprisingly, Teams has become a major focus for Microsoft during the COVID-19 pandemic and so it’s no surprise that the company is using its annual Ignite IT conference to announce a number of new features for the services. Today’s announcements follow the…*
       
 
 <br />
