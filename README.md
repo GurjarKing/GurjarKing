@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming is the ultimate field for someone who likes to tinker.
+One accurate measurement is worth more than a thousand expert opinions.
 
-~ Ray Ozzie
+~ Grace Hopper
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Programming is the ultimate field for someone who likes to tinker.
 </pre>
 <strong>Daily News</strong>
   
-  - Microsoft challenges Twilio with the launch of Azure Communication Services
+  - Amazon adds support for Kannada, Malayalam, Tamil and Telugu in local Indian languages push ahead of Diwali
      <hr/>
      
-      - *Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat, text messages to their apps, as well as old-school telephony. The company describes the new s…*
+      - *More than seven years after Amazon began its e-commerce operations in India, and two years after its shopping service added support for Hindi, the most popular language in the country, the American giant is embracing more local languages to court hundreds of …*
      
-  - Microsoft Azure launches new availability zones in Canada and Australia
+  - Introducing the Expo Pass for TC Sessions: Mobility 2020
       <hr/>
       
-      - *Microsoft Azure offers developers access to more data center regions than its competitors, but it was late to the game of offering different availability zones in those regions for high-availability use cases. After a few high-profile issues a couple of years…*
+      - *Don’t let budget woes keep you from participating in TC Sessions: Mobility 2020 on October 6-7. We’re dedicated to making this event accessible to as many members of the mobility community as possible. Case in point: today we’re announcing the new Expo Ticket…*
       
-  - Microsoft brings data services to its Arc multi-cloud management service
+  - HMD is bringing a 5G smartphone and wireless earbuds to the US
       <hr/>
       
-      - *Microsoft today launched a major update to its Arc multi-cloud service that allows Azure customers to run and manage workloads across clouds — including those of Microsoft’s competitors — and their on on-premises data centers. First announced at Microsoft Ign…*
+      - *Over the past four years or so, HMD has carved out a nice little niche for itself with its Nokia-branded handsets. The instant name recognition of a legacy brand was a nice little perch on which to gain some footing in an overcrowded market. Pricing has long …*
       
-  - Microsoft launches new Cortana features for business users
+  - Event discovery network IRL raises $16M Series B after refocusing on virtual events
       <hr/>
       
-      - *Cortana may have failed as a virtual assistant for consumers, but Microsoft is still betting on it (or at least its brand) for business use cases, now that it has rebranded it as a ‘personal productivity assistant’ as part of Microsoft 365. Today, at its Igni…*
+      - *The COVID-19 pandemic impacted the way a number of companies have had to do business. For the event discovery startup, IRL, it meant pivoting into the virtual events space. This April, the startup quickly reacted to government lockdowns and restrictions on in…*
        
-  - Microsoft Teams gets breakout rooms, custom layouts and virtual commutes
+  - Bose introduces a new pair of sleep-focused earbuds
       <hr/>
        
-       - *Unsurprisingly, Teams has become a major focus for Microsoft during the COVID-19 pandemic and so it’s no surprise that the company is using its annual Ignite IT conference to announce a number of new features for the services. Today’s announcements follow the…*
+       - *Sleep is tough to come by even when there isn’t a pandemic raging. Even when it doesn’t feel like the world is coming apart at the seams every damn day. Bose’s original Sleepbuds pre-date the current desperate moment of “coronasomnia” (not my turn of phrase, …*
       
 
 <br />
