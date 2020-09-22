@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When I invented the web, I didn't have to ask anyone's permission.
+A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
 
-~ Tim Berners-Lee
+~ Tony Parisi (software developer)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When I invented the web, I didn't have to ask anyone's permission.
 </pre>
 <strong>Daily News</strong>
   
-  - Pinterest breaks daily download record due to user interest in iOS 14 design ideas
+  - Gillmor Gang: Watch Party
      <hr/>
      
-      - *The excitement around the ability to customize your iPhone homescreen following the release of iOS 14 has been paying off for Pinterest. According to new third-party estimates, Pinterest’s app has seen record global daily downloads and a swift climb up the Ap…*
+      - *This Gillmor Gang episode is as much about what we didn’t talk about as what we did. In the run up to the recording session, we somehow suspected we’d talk about Apple’s virtual event on Tuesday. Then, 15 minutes after we finished, RBG lost her battle to keep…*
      
+  - CMU's MoonRanger robot rover will be the first to search for water ice on the Moon in 2022
+      <hr/>
+      
+      - *Carnegie Mellon University and spinoff space startup Astrobotic are developing a robotic rover to look for water on the Moon, and the little bot just passed the crucial preliminary design review phase, putting it one step closer to its inaugural mission plann…*
+      
+  - Chinese propaganda network on Facebook used AI-generated faces
+      <hr/>
+      
+      - *Facebook removed two networks of fake accounts spreading government propaganda on the platform Tuesday, one originating in China and one in the Philippines. In its latest report on this kind of coordinated campaign, the company says it took down 155 Facebook …*
+      
+  - Pinterest breaks daily download record due to user interest in iOS 14 design ideas
+      <hr/>
+      
+      - *The excitement around the ability to customize your iPhone homescreen following the release of iOS 14 has been paying off for Pinterest. According to new third-party estimates, Pinterest’s app has seen record global daily downloads and a swift climb up the Ap…*
+       
   - Explore the global markets of micromobility at TC Sessions: Mobility
       <hr/>
-      
-      - *While electric scooters first launched at scale in the U.S., they quickly made their way overseas. Now, there’s a bustling electric scooter market in Europe, China, Latin America and one that’s growing in parts of Africa. At TC Sessions: Mobility on October 6…*
-      
-  - WellSaid Labs research takes synthetic speech from seconds-long clips to hours
-      <hr/>
-      
-      - *Millions of homes have voice-enabled devices, but when was the last time you heard a piece of synthesized speech longer than a handful of seconds? WellSaid Labs has pushed the field ahead with a voice engine that can easily and quickly generate hours of voice…*
-      
-  - We’re updating The TechCrunch List soon. Founders, send in your recommendations of the most helpful lead VCs
-      <hr/>
-      
-      - *Earlier this year, we launched The TechCrunch List, a carefully curated group of VCs who lead rounds recommended by thousands of founders for their acumen and friendliness, grouped by market focus, stage, and geography. Since the launch of the List, we’ve see…*
        
-  - Tech must radically rethink how it treats independent contractors
-      <hr/>
-       
-       - *Where tech has succeeded in creating of hundreds of thousands of independent contractor positions, it also has to lead the way in reimagining how we may treat them and reward them for their work.*
+       - *While electric scooters first launched at scale in the U.S., they quickly made their way overseas. Now, there’s a bustling electric scooter market in Europe, China, Latin America and one that’s growing in parts of Africa. At TC Sessions: Mobility on October 6…*
       
 
 <br />
