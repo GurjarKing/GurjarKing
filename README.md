@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Software engineering is the part of computer science which is too difficult for the computer scientist.
+Code never lies, comments sometimes do.
 
-~ Friedrich Bauer
+~ Ron Jeffries
 <pre>
 
 </pre>
