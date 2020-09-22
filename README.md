@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-So much complexity in software comes from trying to make one thing do two things.
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
-~ Ryan Singer
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ So much complexity in software comes from trying to make one thing do two things
 </pre>
 <strong>Daily News</strong>
   
-  - China's electric carmaker WM Motor pulls in $1.47 billion Series D
+  - Europe's Point Nine outs new ~€100M fund to back early-stage SaaS and digital marketplaces
      <hr/>
      
-      - *Chinese electric vehicle startup WM Motor just pocketed an outsize investment to fuel growth in a competitive landscape increasingly coveted by foreign rival Tesla. The five-year-old company raised 10 billion yuan ($1.47 billion) in a Series D round, it annou…*
+      - *Point Nine, the pan-European early-stage VC focused on SaaS and digital marketplaces, has raised its fifth fund, totalling just short of €100 million (in fact, “P9 V” is a €99,999,999 fund — get it?). Despite its Berlin, Germany roots, the VC has always opera…*
      
+  - China's electric carmaker WM Motor pulls in $1.47 billion Series D
+      <hr/>
+      
+      - *Chinese electric vehicle startup WM Motor just pocketed an outsize investment to fuel growth in a competitive landscape increasingly coveted by foreign rival Tesla. The five-year-old company raised 10 billion yuan ($1.47 billion) in a Series D round, it annou…*
+      
   - Impossible Foods nabs some Canadian fast food franchises as it expands in North America
       <hr/>
       
@@ -73,16 +78,11 @@ So much complexity in software comes from trying to make one thing do two things
       <hr/>
       
       - *Companies send out conflicting messages about the TikTok deal, Microsoft acquires a gaming giant and the WeChat ban is temporarily blocked. This is your Daily Crunch for September 21, 2020. The big story: This TikTok deal is pretty confusing This keeps gettin…*
-      
+       
   - CDC removes updated guidelines around COVID-19 aerosol transmission, but this expert explains why it should reverse the reversal
       <hr/>
-      
-      - *Last week at TechCrunch Disrupt 2020, I got the chance to speak to Dr. Eric Feigl-Ding, an epidemiologist and health economists who is a Senior Fellow of the Federation of American Scientists. Dr. Feigl-Ding has been a frequent and vocal critic of some of the…*
        
-  - Following TechCrunch reporting, Palantir rapidly removes language allowing founders to “unilaterally adjust their total voting power”
-      <hr/>
-       
-       - *Well, that was fast. This morning, I analyzed Palantir’s newly published 5th amendment of its S-1 filing with the SEC as it pursues a public direct listing on the NYSE. I called the company “not a democracy” after it added new provisions to create a special m…*
+       - *Last week at TechCrunch Disrupt 2020, I got the chance to speak to Dr. Eric Feigl-Ding, an epidemiologist and health economists who is a Senior Fellow of the Federation of American Scientists. Dr. Feigl-Ding has been a frequent and vocal critic of some of the…*
       
 
 <br />
