@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The next best thing to having good ideas is recognizing good ideas from your users.
+Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 
-~ Eric S. Raymond
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The next best thing to having good ideas is recognizing good ideas from your use
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok says it removed 104M videos in H1 2020, proposes harmful content coalition with other social apps
+  - Mark Cuban, Marc Benioff, Robert Downey Jr., Gwyneth Paltrow, and Uber CEO Dara Khosrowshahi are investing in toilet paper
      <hr/>
      
-      - *As the future of ByteDance’s TikTok ownership continues to get hammered out between tech leviathans, investors and government officials in meeting rooms, the video app today published its latest transparency report. In all, over 104.5 million videos were take…*
+      - *A slew of big name entrepreneurs and celebrities are really circling the drain with their latest investment. Led by Greycroft Partners, a who’s who of celebrity investors including: Mark Cuban, Marc Benioff, Iron Man and Pepper Potts (er… Robert Downey Jr. an…*
      
-  - Europe's Point Nine outs new ~€100M fund to back early-stage SaaS and digital marketplaces
+  - Pure Watercraft ramps up its electric outboard motors with a $23M series A
       <hr/>
       
-      - *Point Nine, the pan-European early-stage VC focused on SaaS and digital marketplaces, has raised its fifth fund, totalling just short of €100 million (in fact, “P9 V” is a €99,999,999 fund — get it?). Despite its Berlin, Germany roots, the VC has always opera…*
+      - *Electric power only started making sense for land vehicles about ten years ago, but now the technology is ready to make the jump into the water. Pure Watercraft hopes that its electric outboard motor can replace a normal gas one for most boating needs under 5…*
       
-  - China's electric carmaker WM Motor pulls in $1.47 billion Series D
+  - Satellite radar startup ICEYE raises 87 million to continue to grow its operational constellation
       <hr/>
       
-      - *Chinese electric vehicle startup WM Motor just pocketed an outsize investment to fuel growth in a competitive landscape increasingly coveted by foreign rival Tesla. The five-year-old company raised 10 billion yuan ($1.47 billion) in a Series D round, it annou…*
+      - *Finnish startup ICEYE, which has been building out and operating a constellation of Synthetic-Aperture Radar (SAR) small satellites, has raised an $87 million Series C round of financing. This round of funding was led by existing investor True Ventures, and i…*
       
-  - Impossible Foods nabs some Canadian fast food franchises as it expands in North America
+  - Green Monday Holdings, the business arm of Hong Kong's vegetarian advocacy group, raises $70 million from TPG, Swire Pacific
       <hr/>
       
-      - *After rolling out in some of Canada’s most high-falutin burger bistros, Impossible Foods is hitting Canada’s fast casual market with new menu items at national chains like White Spot and Triple O’s, Cactus Club Cafe, and Burger Priest. While none of those nam…*
+      - *Green Monday Holdings, a manufacturer of plant-based pork substitute products and frozen meals and an operator of a chain of vegetarian-focused retail outlets and cafes, said it has raised $70 million in financing from investors including TPG’s The Rise Fund …*
        
-  - Daily Crunch: This TikTok deal is pretty confusing
+  - TikTok says it removed 104M videos in H1 2020, proposes harmful content coalition with other social apps
       <hr/>
        
-       - *Companies send out conflicting messages about the TikTok deal, Microsoft acquires a gaming giant and the WeChat ban is temporarily blocked. This is your Daily Crunch for September 21, 2020. The big story: This TikTok deal is pretty confusing This keeps gettin…*
+       - *As the future of ByteDance’s TikTok ownership continues to get hammered out between tech leviathans, investors and government officials in meeting rooms, the video app today published its latest transparency report. In all, over 104.5 million videos were take…*
       
 
 <br />
