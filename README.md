@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One accurate measurement is worth more than a thousand expert opinions.
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 
-~ Grace Hopper
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ One accurate measurement is worth more than a thousand expert opinions.
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon adds support for Kannada, Malayalam, Tamil and Telugu in local Indian languages push ahead of Diwali
+  - Big tech has 2 elephants in the room: Privacy and competition
      <hr/>
      
-      - *More than seven years after Amazon began its e-commerce operations in India, and two years after its shopping service added support for Hindi, the most popular language in the country, the American giant is embracing more local languages to court hundreds of …*
+      - *The question of how policymakers should respond to the power of big tech didn’t get a great deal of airtime at TechCrunch Disrupt last week, despite a number of investigations now underway in the United States (hi, Google). It’s also clear that attention- and…*
      
+  - Amazon adds support for Kannada, Malayalam, Tamil and Telugu in local Indian languages push ahead of Diwali
+      <hr/>
+      
+      - *More than seven years after Amazon began its e-commerce operations in India, and two years after its shopping service added support for Hindi, the most popular language in the country, the American giant is embracing more local languages to court hundreds of …*
+      
   - Introducing the Expo Pass for TC Sessions: Mobility 2020
       <hr/>
       
@@ -73,16 +78,11 @@ One accurate measurement is worth more than a thousand expert opinions.
       <hr/>
       
       - *Over the past four years or so, HMD has carved out a nice little niche for itself with its Nokia-branded handsets. The instant name recognition of a legacy brand was a nice little perch on which to gain some footing in an overcrowded market. Pricing has long …*
-      
+       
   - Event discovery network IRL raises $16M Series B after refocusing on virtual events
       <hr/>
-      
-      - *The COVID-19 pandemic impacted the way a number of companies have had to do business. For the event discovery startup, IRL, it meant pivoting into the virtual events space. This April, the startup quickly reacted to government lockdowns and restrictions on in…*
        
-  - Bose introduces a new pair of sleep-focused earbuds
-      <hr/>
-       
-       - *Sleep is tough to come by even when there isn’t a pandemic raging. Even when it doesn’t feel like the world is coming apart at the seams every damn day. Bose’s original Sleepbuds pre-date the current desperate moment of “coronasomnia” (not my turn of phrase, …*
+       - *The COVID-19 pandemic impacted the way a number of companies have had to do business. For the event discovery startup, IRL, it meant pivoting into the virtual events space. This April, the startup quickly reacted to government lockdowns and restrictions on in…*
       
 
 <br />
