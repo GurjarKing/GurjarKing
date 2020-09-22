@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 
-~ Charles Babbage
+~ Jamie Zawinski
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ We have already mentioned what may, perhaps, appear paradoxical to some of our r
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok, WeChat and the growing digital divide between the U.S. and China
+  - Royole returns with another foldable
      <hr/>
      
-      - *Over the past decade, the dynamic between Chinese and United States tech companies has undergone dramatic shifts. Once seen as a promising market for American companies, that narrative flipped as China’s tech innovation and investment power became increasingl…*
+      - *I first spent time with the Royole Flexpai at a TechCrunch event in China back in 2018. The devices was exciting. It was the first commercially released foldable, after all, before Samsung and Huawei offered their respective takes on the form factor. But ulti…*
      
-  - Made In Space is sending the first ceramic manufacturing facility in space to the ISS next week
+  - Brazil's banks try to outflank challengers by investing in a $15 million round for Quanto
       <hr/>
       
-      - *In-space manufacturing company Made In Space is pushing the envelope on what can, well, be made in space with its next mission – which is set to launch aboard a Northrop Grumman International Space Station (ISS) resupply mission set for next Tuesday. Aboard t…*
+      - *Trying to outflank competition from neo banks and other potential challengers, two of Brazil’s largest financial services institutions, Bradesco and Itaú Unibanco, have invested in Quanto, a company developing technology to let retailers and other businesses …*
       
-  - Morgan Beller, co-creator of the Libra digital currency, just joined the venture firm NFX
+  - Latch, a smart lock company, looks to become a platform with the launch of LatchOS
       <hr/>
       
-      - *Morgan Beller, who is a co-creator of the proposed Libra digital currency, along with Facebook vice presidents David Marcus and Kevin Weil, has left the company to become a general partner with the venture firm NFX . In a call yesterday, she said she first be…*
+      - *Tech that powers physical spaces is in the midst of a growth spurt. One company in the mix, Latch, is today announcing the next phase of the company with the launch of LatchOS. Latch was founded back in 2014 with the mission of creating a vertically integrate…*
       
-  - Uber for Business introduces a couple of commuting options to get to the office during the pandemic
+  - Google launches a work-tracking tool and Airtable rival, Tables
       <hr/>
       
-      - *Uber for Business, the business side of the consumer ride sharing service, has typically focused on helping companies track their Uber expenses, but during a pandemic needs have changed. It’s no longer about getting employees to and from the airport or shuttl…*
+      - *Google’s in-house incubator Area 120 is today introducing a new work-tracking tool, Tables, which aims to make tracking projects more efficient by investing in automation. Instead of simply tracking notes and tasks associated with a project in various documen…*
        
-  - Mark Cuban, Marc Benioff, Robert Downey Jr., Gwyneth Paltrow, and Uber CEO Dara Khosrowshahi are investing in toilet paper
+  - Willow, the startup making the wearable breast pump, raises $55 million
       <hr/>
        
-       - *A slew of big name entrepreneurs and celebrities are really circling the drain with their latest investment. Led by Greycroft Partners, a who’s who of celebrity investors including: Mark Cuban, Marc Benioff, Iron Man and Pepper Potts (er… Robert Downey Jr. an…*
+       - *Willow, the startup company making a new, wearable, breast pump for women, is capping off a frenetic 2020 with $55 million in fresh funding as it looks to expand its product line to more offerings for new mothers. The company is coming off a year which saw sa…*
       
 
 <br />
