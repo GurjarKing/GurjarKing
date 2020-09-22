@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Simplicity does not precede complexity, but follows it.
+The more code you have, the more places there are for bugs to hide.
 
-~ Alan Perlis
+~ Rich Skrenta
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Simplicity does not precede complexity, but follows it.
 </pre>
 <strong>Daily News</strong>
   
-  - Social networks are doing a voter registration blitz this week
+  - Tesla says its battery innovations will deliver its goal of a $25,000 mass market electric car
      <hr/>
      
-      - *With the most uncertain election in modern American history fast approaching, social networks are doing a final big push to get their users registered to vote. The efforts align with National Voter Registration Day, which punctuates ongoing efforts from compa…*
+      - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
      
-  - Papa raises $18 million to expand its business connecting older adults with virtual and in-person companions
+  - TransferWise reports accelerating revenue growth to 70% in its March, 2020 fiscal year
       <hr/>
       
-      - *The Miami-based startup Papa has raised an additional $18 million as it looks to expand its business connecting elderly Americans and families with physical and virtual companions, which the company calls “pals.” The company’s services are already available i…*
+      - *TransferWise, a European fintech unicorn, announced the financial results of its fiscal year ending March, 2020. The company posted strong growth, continued profit and new customer records. TransferWise was most recently valued at $5 billion during a secondar…*
       
-  - Gillmor Gang: Watch Party
+  - Caura, an app to take the hassle out of car ownership, launches from Echo co-founder Sai Lakshmi
       <hr/>
       
-      - *This Gillmor Gang episode is as much about what we didn’t talk about as what we did. In the run up to the recording session, we somehow suspected we’d talk about Apple’s virtual event on Tuesday. Then, 15 minutes after we finished, RBG lost her battle to keep…*
+      - *Caura, a new U.K. startup that aims to take the hassle out of car ownership, is breaking cover today. Founded by Sai Lakshmi, who previously co-founded Echo, the medication management service acquired by LloydsPharmacy owner McKesson, Caura is an iOS app desi…*
       
-  - CMU's MoonRanger robot rover will be the first to search for water ice on the Moon in 2022
+  - Tesla introduces its tabless battery design on the road to 10 terawatt hours of production
       <hr/>
       
-      - *Carnegie Mellon University and spinoff space startup Astrobotic are developing a robotic rover to look for water on the Moon, and the little bot just passed the crucial preliminary design review phase, putting it one step closer to its inaugural mission plann…*
+      - *For Tesla to reach the ambitious goal of 10 to 20 terawatt hours of battery production per year that the company has set, it will need to advance the battery and its production. Today, during Tesla’s self-described Battery Day event, the company laid out a se…*
        
-  - Chinese propaganda network on Facebook used AI-generated faces
+  - Future Teslas will have batteries that double as structure, making them extra stiff while improving efficiency, safety and cost
       <hr/>
        
-       - *Facebook removed two networks of fake accounts spreading government propaganda on the platform Tuesday, one originating in China and one in the Philippines. In its latest report on this kind of coordinated campaign, the company says it took down 155 Facebook …*
+       - *Tesla has fundamentally redesigned the way that its battery packs integrate into their vehicles, turning them into structural elements of the car, rather than just fuel sources on their own. At Tesla’s Battery Day event on Tuesday, Elon Musk compared this to …*
       
 
 <br />
