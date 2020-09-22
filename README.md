@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Joseph Yoder (computer scientist)
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Sadly, architecture has been undervalued for so long that many engineers regard 
 </pre>
 <strong>Daily News</strong>
   
-  - Big tech has 2 elephants in the room: Privacy and competition
+  - Despite a rough year for digital media, Blavity and The Shade Room are thriving
      <hr/>
      
-      - *The question of how policymakers should respond to the power of big tech didn’t get a great deal of airtime at TechCrunch Disrupt last week, despite a number of investigations now underway in the United States (hi, Google). It’s also clear that attention- and…*
+      - *Last week at TechCrunch Disrupt, TechCrunch media and advertising reporter Anthony Ha sat down with Blavity CEO Morgan DeBaun and The Shade Room CEO Angelica Nwandu to chat about their respective media companies, 2020 in the media world and how they view a re…*
      
+  - Big tech has 2 elephants in the room: Privacy and competition
+      <hr/>
+      
+      - *The question of how policymakers should respond to the power of big tech didn’t get a great deal of airtime at TechCrunch Disrupt last week, despite a number of investigations now underway in the United States (hi, Google). It’s also clear that attention- and…*
+      
+  - Mirakl raises $300 million for its marketplace platform
+      <hr/>
+      
+      - *French startup Mirakl has raised a $300 million funding round at a $1.5 billion valuation — the company is now a unicorn. Mirakl helps you launch and manage a marketplace on your e-commerce website. Many customers also rely on Mirakl-powered marketplaces for …*
+      
   - Amazon adds support for Kannada, Malayalam, Tamil and Telugu in local Indian languages push ahead of Diwali
       <hr/>
       
       - *More than seven years after Amazon began its e-commerce operations in India, and two years after its shopping service added support for Hindi, the most popular language in the country, the American giant is embracing more local languages to court hundreds of …*
-      
+       
   - Introducing the Expo Pass for TC Sessions: Mobility 2020
       <hr/>
-      
-      - *Don’t let budget woes keep you from participating in TC Sessions: Mobility 2020 on October 6-7. We’re dedicated to making this event accessible to as many members of the mobility community as possible. Case in point: today we’re announcing the new Expo Ticket…*
-      
-  - HMD is bringing a 5G smartphone and wireless earbuds to the US
-      <hr/>
-      
-      - *Over the past four years or so, HMD has carved out a nice little niche for itself with its Nokia-branded handsets. The instant name recognition of a legacy brand was a nice little perch on which to gain some footing in an overcrowded market. Pricing has long …*
        
-  - Event discovery network IRL raises $16M Series B after refocusing on virtual events
-      <hr/>
-       
-       - *The COVID-19 pandemic impacted the way a number of companies have had to do business. For the event discovery startup, IRL, it meant pivoting into the virtual events space. This April, the startup quickly reacted to government lockdowns and restrictions on in…*
+       - *Don’t let budget woes keep you from participating in TC Sessions: Mobility 2020 on October 6-7. We’re dedicated to making this event accessible to as many members of the mobility community as possible. Case in point: today we’re announcing the new Expo Ticket…*
       
 
 <br />
