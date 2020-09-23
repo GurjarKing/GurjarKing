@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The button is working, only, it cannot be seen.
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 
-~ Anonymous
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The button is working, only, it cannot be seen.
 </pre>
 <strong>Daily News</strong>
   
-  - Data breach at New York Sports Clubs owner exposed customer data
+  - The Oculus Quest's unofficial app store gets backing from Oculus founder Palmer Luckey
      <hr/>
      
-      - *Exclusive: The unprotected storage exposed customer addresses and phone numbers.*
+      - *Facebook garnered the ire of some virtual reality developers last year when they announced that they would be more aggressively curating the content that was for sale in the Oculus Store on their then-upcoming Quest headset. Developers who had been used to a …*
      
-  - How Robinhood and Chime raised $2B+ in the last year
+  - Instagram's TikTok clone Reels updates to allow longer videos, easier edits
       <hr/>
       
-      - *Last night Robinhood, the American fintech unicorn that provides free securities trading services to consumers via an app, announced that it raised an additional $460 million in its previously-known Series G. That round is now worth $660 million at an $11.7 b…*
+      - *Instagram is today rolling out a few changes to its TikTok competitor, Reels, after early reviews of the feature criticized its design and reports indicated it was failing to gain traction. The company says it’s responding to user feedback on a few fronts, by…*
       
-  - WhyLabs brings more transparancy to ML ops
+  - Leonardo DiCaprio takes a stake in Struck Capital to fund the future of LA's tech ecosystem
       <hr/>
       
-      - *WhyLabs, a new machine learning startup that was spun out of the Allen Institute, is coming out of stealth today. Founded by a group of former Amazon machine learning engineers, Alessya Visnjic, Sam Gracie and Andy Dang, together with Madrona Venture Group pr…*
+      - *Leonardo DiCaprio is making a significant commitment to the Los Angeles-based investment firm, Struck Capital, as part of the actor’s commitment to building LA into a tech development powerhouse. It’s part of what Struck Capital founder Adam Struck called a v…*
       
-  - EU's antitrust probe of Google-Fitbit gets more time
+  - Palantir publishes 2020 revenue guidance of $1.05B, will trade starting Sept 30th
       <hr/>
       
-      - *European antitrust regulators now have until almost the end of the year to take a decision on whether to green light Google’s planned acquisition of Fitbit. The tech giant announced its intention to buy the fitness tracking wearable maker in November 2019, sa…*
+      - *It’s been a long road for Palantir as it has submitted amendment after amendment with the SEC related to its S-1 filing over the past two months. But after weeks of back and forth, it’s official: Palantir’s S-1 has been marked effective, which means that it h…*
        
-  - Spotify adds an interactive feature for podcasts with launch of 'Polls'
+  - Blue Origin job listing sheds more light on its space-based orbital habitat ambitions
       <hr/>
        
-       - *Spotify today is introducing a new feature designed to make podcasts more interactive. The company says it’s beginning to test “Polls,” a tool that will allow listeners to engage with podcasts by answering questions posed by the podcast hosts during the show.…*
+       - *Blue Origin founder and Amazon CEO Jeff Bezos has made no secret of his ambition to eventually create orbiting space stations that act as places for people to live and work – he outlined a vision based on space settlement designs first conceived by physicist …*
       
 
 <br />
