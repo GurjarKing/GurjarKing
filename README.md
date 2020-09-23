@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+Low-level programming is good for the programmer’s soul.
 
-~ Laurence J. Peter
+~ John Carmack
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Some problems are so complex that you have to be highly intelligent and well inf
 </pre>
 <strong>Daily News</strong>
   
-  - Founded by former SpaceX engineers, First Resonance pitches tools to make things the SpaceX way
+  - Pinterest officially launches new Story Pins format in beta
      <hr/>
      
-      - *After operating in stealth mode for about two years, First Resonance, a company founded by former SpaceX engineers, is finally showing the world their software toolkit designed to let manufacturers make things using the processes employed by their former boss…*
+      - *Pinterest is announcing its spin on the increasingly popular stories format today — Story Pins, which combine multiple pages of images, videos, voiceover and overlaid text. We wrote about Story Pins back in June, and apparently various versions of the format …*
      
-  - Zoom's earliest investors are betting millions on a better Zoom for schools
+  - Bowery Farming adds executives as it expands to sell produce in 650 stores
       <hr/>
       
-      - *Zoom was never created to be a consumer product. Nonetheless, the video-conferencing company’s accessibility made it the answer to every social situation threatened by the pandemic, from happy hours to meetings. Months later, we’re realizing that force-feedin…*
+      - *Bowery Farming has added to its executive team as it expands its retail footprint to 650 stores, the company said. From three indoor farms in Kearny, N.J. and Nottingham, Md., the New York-based company is pitching a smattering of leafy greens and herbs. Irvi…*
       
-  - Facebook denies it will pull service in Europe over data transfer ban
+  - Adobe's 'Liquid Mode' uses AI to automatically redesign PDFs for mobile devices
       <hr/>
       
-      - *Facebook’s head of global policy has denied the tech giant could close its service to Europeans if local regulators order it to suspend data transfers to the US following a landmark Court of Justice ruling in July that has cemented the schism between US surve…*
+      - *We’ve probably all been there: you’ve been poking around your phone for an hour, deep in some sort of Google research rabbit hole. You finally find a link that almost certainly has the info you’ve been looking for. You tap it.. aaaand it’s a fifty page PDF. N…*
       
-  - Endel raises $5M to create personalized 'sound environments' that improve productivity and sleep
+  - Japanese startup Nature launches Remo 3, its home appliance smart remote, in the U.S. and Canada
       <hr/>
       
-      - *The pitch for Berlin-based Endel is pretty straightforward, according to its co-founder and CEO Oleg Stavitsky. “The way I usually describe Endel is: This is a technology that is built to help you focus, relax and sleep,” Stavitsky told me. “Of course, the wa…*
+      - *Nature, a Japanese hardware startup that focuses on IoT home devices, announced the launch Remo 3, its home appliance smart remote, in the United States and Canada today. Priced at $129, the Bluetooth-enabled Remo 3 allows people to control multiple appliance…*
        
-  - Salsify nabs $155M as its commerce experience platform sees a big surge of business from Covid-19
+  - Five years after creating Traefik application proxy, open source project hits 2B downloads
       <hr/>
        
-       - *As traditional brands grapple with a new world where selling online is as much or perhaps even more important than how you are positioned in a physical store, a startup that helps them get all their inventory, marketing and selling strategies all on one page …*
+       - *Five years ago, Traefik Labs founder and CEO Emile Vauge was working on a project deploying thousands of microservices and he was lacking a cloud native application proxy that could handle this kind of scale. So like any good developer, he created one himself…*
       
 
 <br />
