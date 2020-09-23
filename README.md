@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Simplicity is prerequisite for reliability.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Edsger W. Dijkstra
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Simplicity is prerequisite for reliability.
 </pre>
 <strong>Daily News</strong>
   
-  - VW's Traton Group strikes a deal with TuSimple to develop autonomous trucks
+  - 'AI-powered' fitness app Freeletics scores $25M Series B
      <hr/>
      
-      - *The Traton Group, Volkswagen AG’s heavy-truck business, has taken a minority stake in TuSimple as part of an agreement between the two companies to develop self-driving trucks. Neither company disclosed the financial terms of the partnership or the percentage…*
+      - *Freeletics, the “AI-powered” fitness coaching app, has closed $25 million in Series B funding. Leading the round is U.S.-based JAZZ Venture Partners and Causeway Media Partners, with support from KKCG. The fresh injection of capital follows $45 million in Ser…*
      
+  - Apple partner Servify raises $23 million to expand its devices after-sales and management platform overseas
+      <hr/>
+      
+      - *Servify, a Mumbai-headquartered startup that operates a device lifecycle management platform and works deeply with brands including Apple and Samsung in a number of geographies, has raised $23 million in a new financing round. The Series C financing round for…*
+      
+  - VW's Traton Group strikes a deal with TuSimple to develop autonomous trucks
+      <hr/>
+      
+      - *The Traton Group, Volkswagen AG’s heavy-truck business, has taken a minority stake in TuSimple as part of an agreement between the two companies to develop self-driving trucks. Neither company disclosed the financial terms of the partnership or the percentage…*
+      
   - Uncapped picks up another £26M to offer revenue-based finance to European entrepreneurs
       <hr/>
       
       - *Uncapped, the London-headquartered and Warsaw-based startup that offers “revenue-based” finance to European businesses so that founders don’t have to give up equity stipulated by venture capital, has raised £26 million in new funding. The round was led by Mou…*
-      
+       
   - Apple launches its online store in India
       <hr/>
-      
-      - *For the first time in more than 20 years since Apple began its operations in India, the iPhone-maker has started selling its products directly to consumers in the world’s second largest smartphone market. Apple launched its online store in India on Wednesday,…*
-      
-  - China says it won't approve TikTok sale, calls it 'extortion'
-      <hr/>
-      
-      - *The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…*
        
-  - Singapore-based Syfe, a robo-advisor with a human touch, raises $18.6 million led by Valar Ventures
-      <hr/>
-       
-       - *Syfe, a Singapore-based startup that wants to make investing more accessible in Asia, announced today that it has closed a SGD $25.2 million (USD $18.6 million) Series A led by Valar Ventures, a fintech-focused investment firm. The round also included partici…*
+       - *For the first time in more than 20 years since Apple began its operations in India, the iPhone-maker has started selling its products directly to consumers in the world’s second largest smartphone market. Apple launched its online store in India on Wednesday,…*
       
 
 <br />
