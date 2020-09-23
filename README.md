@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 
-~ L. Peter Deutsch
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Software is a discipline of detail, and that is a deep, horrendous fundamental p
 </pre>
 <strong>Daily News</strong>
   
-  - China says it won't approve TikTok sale, calls it 'extortion'
+  - Apple launches its online store in India
      <hr/>
      
-      - *The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…*
+      - *For the first time in more than 20 years since Apple began its operations in India, the iPhone-maker has started selling its products directly to consumers in the world’s second largest smartphone market. Apple launched its online store in India on Wednesday,…*
      
+  - China says it won't approve TikTok sale, calls it 'extortion'
+      <hr/>
+      
+      - *The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…*
+      
   - Singapore-based Syfe, a robo-advisor with a human touch, raises $18.6 million led by Valar Ventures
       <hr/>
       
@@ -73,16 +78,11 @@ Software is a discipline of detail, and that is a deep, horrendous fundamental p
       <hr/>
       
       - *Tesla CEO Elon Musk revealed Tuesday the Model S Plaid, the newest variant to the company’s flagship sedan that boasts some eye-popping performance and range claims, including the ability to travel at least 520 miles on a single charge. The Model S with this …*
-      
+       
   - Tesla claims it can drive battery costs down even lower with new material science innovations
       <hr/>
-      
-      - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
        
-  - Tesla is building a cathode plant and getting into the lithium mining business
-      <hr/>
-       
-       - *A little more than a year ago, during Tesla’s 2019 shareholder’s meeting, CEO Elon Musk said the company “might get into the business of mining minerals used in electric vehicle batteries.” Today, during Tesla’s so-called Battery Day event, Musk confirmed tha…*
+       - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
       
 
 <br />
