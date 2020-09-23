@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+Machines as simple as thermostats can be said to have beliefs.
 
-~ Fred Brooks
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If each part of the task must be separately coordinated with each other part, th
 </pre>
 <strong>Daily News</strong>
   
-  - Tesla claims it can drive battery costs down even lower with new material science innovations
+  - Singapore-based Syfe, a robo-advisor with a human touch, raises $18.6 million led by Valar Ventures
      <hr/>
      
-      - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
+      - *Syfe, a Singapore-based startup that wants to make investing more accessible in Asia, announced today that it has closed a SGD $25.2 million (USD $18.6 million) Series A led by Valar Ventures, a fintech-focused investment firm. The round also included partici…*
      
+  - Elon Musk reveals the Tesla Model S 'Plaid' slated for late 2021
+      <hr/>
+      
+      - *Tesla CEO Elon Musk revealed Tuesday the Model S Plaid, the newest variant to the company’s flagship sedan that boasts some eye-popping performance and range claims, including the ability to travel at least 520 miles on a single charge. The Model S with this …*
+      
+  - Tesla claims it can drive battery costs down even lower with new material science innovations
+      <hr/>
+      
+      - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
+      
   - Tesla is building a cathode plant and getting into the lithium mining business
       <hr/>
       
       - *A little more than a year ago, during Tesla’s 2019 shareholder’s meeting, CEO Elon Musk said the company “might get into the business of mining minerals used in electric vehicle batteries.” Today, during Tesla’s so-called Battery Day event, Musk confirmed tha…*
-      
+       
   - Tesla says its battery innovations will deliver its goal of a $25,000 mass market electric car
       <hr/>
-      
-      - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
-      
-  - TransferWise reports accelerating revenue growth to 70% in its March, 2020 fiscal year
-      <hr/>
-      
-      - *TransferWise, a European fintech unicorn, announced the financial results of its fiscal year ending March, 2020. The company posted strong growth, continued profit and new customer records. TransferWise was most recently valued at $5 billion during a secondar…*
        
-  - Caura, an app to take the hassle out of car ownership, launches from Echo co-founder Sai Lakshmi
-      <hr/>
-       
-       - *Caura, a new U.K. startup that aims to take the hassle out of car ownership, is breaking cover today. Founded by Sai Lakshmi, who previously co-founded Echo, the medication management service acquired by LloydsPharmacy owner McKesson, Caura is an iOS app desi…*
+       - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
       
 
 <br />
