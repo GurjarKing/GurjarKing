@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 
-~ Fred Brooks
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ To achieve conceptual integrity, a design must proceed from one mind or a small 
 </pre>
 <strong>Daily News</strong>
   
-  - 'AI-powered' fitness app Freeletics scores $25M Series B
+  - New research shows European startups are spending drastically less on a US launch, for the same gains
      <hr/>
      
-      - *Freeletics, the “AI-powered” fitness coaching app, has closed $25 million in Series B funding. Leading the round is U.S.-based JAZZ Venture Partners and Causeway Media Partners, with support from KKCG. The fresh injection of capital follows $45 million in Ser…*
+      - *It used to be the case that in order to scale glocally, European companies needed to spend big on launching in the US to achieve the kind of growth they wanted. That usually meant re-locating large swathes of the team to the San Francisco / Bay Area, or New Y…*
      
+  - 'AI-powered' fitness app Freeletics scores $25M Series B
+      <hr/>
+      
+      - *Freeletics, the “AI-powered” fitness coaching app, has closed $25 million in Series B funding. Leading the round is U.S.-based JAZZ Venture Partners and Causeway Media Partners, with support from KKCG. The fresh injection of capital follows $45 million in Ser…*
+      
   - Apple partner Servify raises $23 million to expand its devices after-sales and management platform overseas
       <hr/>
       
@@ -73,16 +78,11 @@ To achieve conceptual integrity, a design must proceed from one mind or a small 
       <hr/>
       
       - *The Traton Group, Volkswagen AG’s heavy-truck business, has taken a minority stake in TuSimple as part of an agreement between the two companies to develop self-driving trucks. Neither company disclosed the financial terms of the partnership or the percentage…*
-      
+       
   - Uncapped picks up another £26M to offer revenue-based finance to European entrepreneurs
       <hr/>
-      
-      - *Uncapped, the London-headquartered and Warsaw-based startup that offers “revenue-based” finance to European businesses so that founders don’t have to give up equity stipulated by venture capital, has raised £26 million in new funding. The round was led by Mou…*
        
-  - Apple launches its online store in India
-      <hr/>
-       
-       - *For the first time in more than 20 years since Apple began its operations in India, the iPhone-maker has started selling its products directly to consumers in the world’s second largest smartphone market. Apple launched its online store in India on Wednesday,…*
+       - *Uncapped, the London-headquartered and Warsaw-based startup that offers “revenue-based” finance to European businesses so that founders don’t have to give up equity stipulated by venture capital, has raised £26 million in new funding. The round was led by Mou…*
       
 
 <br />
