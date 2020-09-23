@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 
-~ Brian Kernighan
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Debugging is twice as hard as writing the code in the first place. Therefore, if
 </pre>
 <strong>Daily News</strong>
   
-  - Salsify nabs $155M as its commerce experience platform sees a big surge of business from Covid-19
+  - Endel raises $5M to create personalized 'sound environments' that improve productivity and sleep
      <hr/>
      
-      - *As traditional brands grapple with a new world where selling online is as much or perhaps even more important than how you are positioned in a physical store, a startup that helps them get all their inventory, marketing and selling strategies all on one page …*
+      - *The pitch for Berlin-based Endel is pretty straightforward, according to its co-founder and CEO Oleg Stavitsky. “The way I usually describe Endel is: This is a technology that is built to help you focus, relax and sleep,” Stavitsky told me. “Of course, the wa…*
      
+  - Salsify nabs $155M as its commerce experience platform sees a big surge of business from Covid-19
+      <hr/>
+      
+      - *As traditional brands grapple with a new world where selling online is as much or perhaps even more important than how you are positioned in a physical store, a startup that helps them get all their inventory, marketing and selling strategies all on one page …*
+      
   - New research shows European startups are spending drastically less on a US launch, for the same gains
       <hr/>
       
@@ -73,16 +78,11 @@ Debugging is twice as hard as writing the code in the first place. Therefore, if
       <hr/>
       
       - *Freeletics, the “AI-powered” fitness coaching app, has closed $25 million in Series B funding. Leading the round is U.S.-based JAZZ Venture Partners and Causeway Media Partners, with support from KKCG. The fresh injection of capital follows $45 million in Ser…*
-      
+       
   - Apple partner Servify raises $23 million to expand its devices after-sales and management platform overseas
       <hr/>
-      
-      - *Servify, a Mumbai-headquartered startup that operates a device lifecycle management platform and works deeply with brands including Apple and Samsung in a number of geographies, has raised $23 million in a new financing round. The Series C financing round for…*
        
-  - VW's Traton Group strikes a deal with TuSimple to develop autonomous trucks
-      <hr/>
-       
-       - *The Traton Group, Volkswagen AG’s heavy-truck business, has taken a minority stake in TuSimple as part of an agreement between the two companies to develop self-driving trucks. Neither company disclosed the financial terms of the partnership or the percentage…*
+       - *Servify, a Mumbai-headquartered startup that operates a device lifecycle management platform and works deeply with brands including Apple and Samsung in a number of geographies, has raised $23 million in a new financing round. The Series C financing round for…*
       
 
 <br />
