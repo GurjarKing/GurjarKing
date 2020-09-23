@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+When I invented the web, I didn't have to ask anyone's permission.
 
-~ Bjarne Stroustrup
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ There are only two kinds of languages: the ones people complain about and the on
 </pre>
 <strong>Daily News</strong>
   
-  - Sling TV launches a co-watching feature for live TV, Sling Watch Party
+  - The eighth-generation iPad is a fine choice for casual users
      <hr/>
      
-      - *Live TV streaming service Sling TV is joining in on the co-watching trend. The company today announced the launch of its own version of a co-viewing feature, which allows friends and family in different locations to watch live TV together at the same time. Wh…*
+      - *It happens to the best of us. Some newer, flashier model comes along and we’re no longer the latest and greatest new thing. The iPad’s had a plenty good run, of course. Ten years ago, the device redefined what a tablet is and has maintained a dominant spot at…*
      
+  - Sneaker culture staple GOAT hits $1.75 billion valuation on new $100 million round
+      <hr/>
+      
+      - *In this case, money, it really is the shoes. GOAT, the proprietor of online and physical retail locations for reselling the collectible kicks and kits that are the currency of street cred and cultural cool among the youths, is now worth a whopping $1.75 billi…*
+      
+  - Sling TV launches a co-watching feature for live TV, Sling Watch Party
+      <hr/>
+      
+      - *Live TV streaming service Sling TV is joining in on the co-watching trend. The company today announced the launch of its own version of a co-viewing feature, which allows friends and family in different locations to watch live TV together at the same time. Wh…*
+      
   - TikTok files for injunction against pending Trump app ban
       <hr/>
       
       - *TikTok’s fight with the Trump administration doesn’t yet appear to be over, regardless of what the deal that was signed between its parent company ByteDance and Oracle says over the weekend. Earlier today, the company filed a motion to stop the Commerce Depar…*
-      
+       
   - Shopify says two support staff stole customer data from sellers
       <hr/>
-      
-      - *An email to affected merchants said the breach happened on September 15.*
-      
-  - Tesla sues Trump Administration to end tariffs on the 'brain' of its vehicles
-      <hr/>
-      
-      - *Tesla is suing the Trump Administration over tariffs on a computer chip and other parts it imports from China, joining an increasingly long list of similar lawsuits filed by hundreds of companies, including automakers Ford, Mercedes-Benz and Volvo. Tesla, whi…*
        
-  - California will require all passenger vehicles sold in the state be zero-emission by 2035
-      <hr/>
-       
-       - *California Governor Gavin Newsom issued an executive order on Wednesday requiring sales of all new passenger vehicles be zero-emission by 2035. The new order would be a huge boost for electric vehicles, and vehicles using alternative fuels like hydrogen, and …*
+       - *An email to affected merchants said the breach happened on September 15.*
       
 
 <br />
