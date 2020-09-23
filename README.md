@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Low-level programming is good for the programmer’s soul.
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 
-~ John Carmack
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Low-level programming is good for the programmer’s soul.
 </pre>
 <strong>Daily News</strong>
   
-  - Pinterest officially launches new Story Pins format in beta
+  - Spotify adds an interactive feature for podcasts with launch of 'Polls'
      <hr/>
      
-      - *Pinterest is announcing its spin on the increasingly popular stories format today — Story Pins, which combine multiple pages of images, videos, voiceover and overlaid text. We wrote about Story Pins back in June, and apparently various versions of the format …*
+      - *Spotify today is introducing a new feature designed to make podcasts more interactive. The company says it’s beginning to test “Polls,” a tool that will allow listeners to engage with podcasts by answering questions posed by the podcast hosts during the show.…*
      
-  - Bowery Farming adds executives as it expands to sell produce in 650 stores
+  - The Galaxy S20 FE is Samsung’s new $699 budget flagship
       <hr/>
       
-      - *Bowery Farming has added to its executive team as it expands its retail footprint to 650 stores, the company said. From three indoor farms in Kearny, N.J. and Nottingham, Md., the New York-based company is pitching a smattering of leafy greens and herbs. Irvi…*
+      - *One thing Samsung knows for certain: it’s interested in budget flagships. The category makes sense these days, as users are increasingly unwilling to spend north of $1,000 on new phones. That’s doubly the case during the COVID-19 pandemic, with people leaving…*
       
-  - Adobe's 'Liquid Mode' uses AI to automatically redesign PDFs for mobile devices
+  - Yext launches Hitchhikers, a self-serve version of its site search tool
       <hr/>
       
-      - *We’ve probably all been there: you’ve been poking around your phone for an hour, deep in some sort of Google research rabbit hole. You finally find a link that almost certainly has the info you’ve been looking for. You tap it.. aaaand it’s a fifty page PDF. N…*
+      - *Yext is making its site search product Yext Answers available to a broader set of customers today with the launch of a new program that it calls Hitchhikers. The company launched Yext Answers in October 2019 with the goal of making a brand’s website — rather …*
       
-  - Japanese startup Nature launches Remo 3, its home appliance smart remote, in the U.S. and Canada
+  - Submer is dunking servers in goo to save the planet
       <hr/>
       
-      - *Nature, a Japanese hardware startup that focuses on IoT home devices, announced the launch Remo 3, its home appliance smart remote, in the United States and Canada today. Priced at $129, the Bluetooth-enabled Remo 3 allows people to control multiple appliance…*
+      - *Digital technologies now serve as the central nervous system for the global economy, and making that nervous system work depends on networks of massive data centers that hoover up enormous amounts of power to keep businesses operating around the world. It’s n…*
        
-  - Five years after creating Traefik application proxy, open source project hits 2B downloads
+  - MWC plans to go forward in person in 2021, but pushes show back to late-June
       <hr/>
        
-       - *Five years ago, Traefik Labs founder and CEO Emile Vauge was working on a project deploying thousands of microservices and he was lacking a cloud native application proxy that could handle this kind of scale. So like any good developer, he created one himself…*
+       - *Over the past several months, it’s become painfully clear that COVID-19 isn’t a problem that we’re going to leave behind in 2021. After hemming and hawing a bit, the CTA ultimately pulled the trigger for an online-only version of the show in January. Other te…*
       
 
 <br />
