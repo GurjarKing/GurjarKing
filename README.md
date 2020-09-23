@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Donald Knuth
+~ Pete Cordell
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Science is what we understand well enough to explain to a computer. Art is every
 </pre>
 <strong>Daily News</strong>
   
-  - Curly the curling robot throws stones like a pro
+  - Scaling to $100 million ARR: 3 founders share their insights
      <hr/>
      
-      - *Robots have shown themselves to excel at any number of sports and activities, though they do best when they have a single task. Fortunately some sports, such as curling, consist mostly of one task, and Korean researchers have made a robot that throws the ston…*
+      - *Last week at TechCrunch Disrupt, Alex Wilhelm hosted a panel titled “Getting to $100 million ARR” on the Extra Crunch Stage. He was joined by three executives, including Vineet Jain, CEO and co-founder at Egnyte, Michal Tsur, president and co-founder at Kaltu…*
      
+  - Tesla experienced an hour-long network outage early Wednesday
+      <hr/>
+      
+      - *Tesla owners were locked out of their vehicles and the accompanying app for about an hour Wednesday morning, thanks to an outage that affected the company’s entire network, according to several sources. The Tesla outage was caused by an internal break of thei…*
+      
+  - TC Sessions Mobility 2020 kicks off in two weeks
+      <hr/>
+      
+      - *Holy cats, it’s less than two weeks until TC Sessions: Mobility 2020 kicks off for two program-packed days focused squarely on mobility and transportation technology. On October 6-7, thousands of people from around the world will gather virtually to talk tren…*
+      
+  - Curly the curling robot throws stones like a pro
+      <hr/>
+      
+      - *Robots have shown themselves to excel at any number of sports and activities, though they do best when they have a single task. Fortunately some sports, such as curling, consist mostly of one task, and Korean researchers have made a robot that throws the ston…*
+       
   - Top 20 iOS homescreen customization apps reach 5.7M installs after iOS 14 release
       <hr/>
-      
-      - *The iOS 14 homescreen customization trend is driving a new set of apps to the top of the App Store charts, and delivering record downloads for sources of inspiration, like Pinterest. According to new data from app store market intelligence firm Sensor Tower, …*
-      
-  - Selling a startup can come with an emotional cost
-      <hr/>
-      
-      - *Every founder dreams of building a substantial company. For those who make it through the myriad challenges, it typically results in an exit. If it’s through an acquisition, that can mean cashing in your equity, paying back investors and rewarding long-time e…*
-      
-  - Fundraising lessons from David Rogier of MasterClass
-      <hr/>
-      
-      - *Conventional wisdom says your company should be up and running and have some traction before you raise, but MasterClass co-founder David Rogier says entrepreneurs should try to raise funds before launching.*
        
-  - Email startup Superhuman debuts a cheaper $10/mo tier for students and academics
-      <hr/>
-       
-       - *Email startup Superhuman has been lauded by plenty in the tech community as a simpler and faster way to navigate email, but at $30 per month, the service’s hefty subscription price has been out of reach for plenty of potential users. Today, the startup is tak…*
+       - *The iOS 14 homescreen customization trend is driving a new set of apps to the top of the App Store charts, and delivering record downloads for sources of inspiration, like Pinterest. According to new data from app store market intelligence firm Sensor Tower, …*
       
 
 <br />
