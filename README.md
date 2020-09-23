@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When I invented the web, I didn't have to ask anyone's permission.
+As with most projects, the last two percent takes fifty percent of the time.
 
-~ Tim Berners-Lee
+~ John Warnock
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When I invented the web, I didn't have to ask anyone's permission.
 </pre>
 <strong>Daily News</strong>
   
-  - The eighth-generation iPad is a fine choice for casual users
+  - New report finds VC investment into ClimateTech growing five times faster than overall VC
      <hr/>
      
-      - *It happens to the best of us. Some newer, flashier model comes along and we’re no longer the latest and greatest new thing. The iPad’s had a plenty good run, of course. Ten years ago, the device redefined what a tablet is and has maintained a dominant spot at…*
+      - *VC and corporate investment into ClimateTech grew at a faster rate than overall VC investment as a whole between 2013 – 2019, according to a major new report — to the tune of $60 billion of early-stage capital. The new research by PwC (“The State of Climate T…*
      
+  - Peterson Ventures, a  firm that quietly backed Allbirds and Bonobos, just closed a $65 million fund
+      <hr/>
+      
+      - *Peterson Ventures, a 12-year-old, Salt Lake City, Ut.-based seed-stage fund, has long operated fairly quietly, but many of its bets have become known brands in the respective worlds of consumer and enterprise software investing. Among these is the shoe compan…*
+      
+  - Daily Crunch: Shopify confirms data breach
+      <hr/>
+      
+      - *Shopify blames “rogue” employees for a data breach, Google Maps adds COVID-19 data and China pushes back against the TikTok deal. This is your Daily Crunch for September 23, 2020. The big story: Shopify confirms data breach The e-commerce platform blamed two …*
+      
+  - The eighth-generation iPad is a fine choice for casual users
+      <hr/>
+      
+      - *It happens to the best of us. Some newer, flashier model comes along and we’re no longer the latest and greatest new thing. The iPad’s had a plenty good run, of course. Ten years ago, the device redefined what a tablet is and has maintained a dominant spot at…*
+       
   - Sneaker culture staple GOAT hits $1.75 billion valuation on new $100 million round
       <hr/>
-      
-      - *In this case, money, it really is the shoes. GOAT, the proprietor of online and physical retail locations for reselling the collectible kicks and kits that are the currency of street cred and cultural cool among the youths, is now worth a whopping $1.75 billi…*
-      
-  - Sling TV launches a co-watching feature for live TV, Sling Watch Party
-      <hr/>
-      
-      - *Live TV streaming service Sling TV is joining in on the co-watching trend. The company today announced the launch of its own version of a co-viewing feature, which allows friends and family in different locations to watch live TV together at the same time. Wh…*
-      
-  - TikTok files for injunction against pending Trump app ban
-      <hr/>
-      
-      - *TikTok’s fight with the Trump administration doesn’t yet appear to be over, regardless of what the deal that was signed between its parent company ByteDance and Oracle says over the weekend. Earlier today, the company filed a motion to stop the Commerce Depar…*
        
-  - Shopify says two support staff stole customer data from sellers
-      <hr/>
-       
-       - *An email to affected merchants said the breach happened on September 15.*
+       - *In this case, money, it really is the shoes. GOAT, the proprietor of online and physical retail locations for reselling the collectible kicks and kits that are the currency of street cred and cultural cool among the youths, is now worth a whopping $1.75 billi…*
       
 
 <br />
