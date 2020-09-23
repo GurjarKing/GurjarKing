@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
 
-~ Douglas Crockford
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ It turns out that style matters in programming for the same reason that it matte
 </pre>
 <strong>Daily News</strong>
   
-  - Email startup Superhuman debuts a cheaper $10/mo tier for students and academics
+  - Curly the curling robot throws stones like a pro
      <hr/>
      
-      - *Email startup Superhuman has been lauded by plenty in the tech community as a simpler and faster way to navigate email, but at $30 per month, the service’s hefty subscription price has been out of reach for plenty of potential users. Today, the startup is tak…*
+      - *Robots have shown themselves to excel at any number of sports and activities, though they do best when they have a single task. Fortunately some sports, such as curling, consist mostly of one task, and Korean researchers have made a robot that throws the ston…*
      
-  - Kard raises another $3.5 million for its challenger bank for teens
+  - Top 20 iOS homescreen customization apps reach 5.7M installs after iOS 14 release
       <hr/>
       
-      - *French startup Kard has added $3.5 million (€3 million) to its seed round. The company already raised the same amount last year, which means that Kard has raised $7 million (€6 million) in total for its seed round. Founders Future is leading the round, with L…*
+      - *The iOS 14 homescreen customization trend is driving a new set of apps to the top of the App Store charts, and delivering record downloads for sources of inspiration, like Pinterest. According to new data from app store market intelligence firm Sensor Tower, …*
       
-  - Teachers deserve two screens, and Two Screens for Teachers aims to get them just that
+  - Selling a startup can come with an emotional cost
       <hr/>
       
-      - *The pandemic has caused K-12 classrooms, chaotic at the best of times, to descend into Zoom call chaos. What’s more, thousands of teachers who must wrangle this new, weird system are doing so with just a single monitor, making it difficult to see their studen…*
+      - *Every founder dreams of building a substantial company. For those who make it through the myriad challenges, it typically results in an exit. If it’s through an acquisition, that can mean cashing in your equity, paying back investors and rewarding long-time e…*
       
-  - Google Maps gets a COVID-19 layer
+  - Fundraising lessons from David Rogier of MasterClass
       <hr/>
       
-      - *Google today announced an update to Google Maps that will bring a new COVID-19 layer to the service to help you better understand the number of cases in a given area. With the pandemic continuing to spread in many countries — and ahead of what many fear will …*
+      - *Conventional wisdom says your company should be up and running and have some traction before you raise, but MasterClass co-founder David Rogier says entrepreneurs should try to raise funds before launching.*
        
-  - Spain's top court rejects Glovo's classification of couriers as self-employed
+  - Email startup Superhuman debuts a cheaper $10/mo tier for students and academics
       <hr/>
        
-       - *Glovo, a Spain-based delivery platform startup, is facing legal disruption in its home market after the country’s Supreme Court ruled against its classification of delivery couriers as ‘autonomous’ (i.e. self employed) — finding riders are instead in a labour…*
+       - *Email startup Superhuman has been lauded by plenty in the tech community as a simpler and faster way to navigate email, but at $30 per month, the service’s hefty subscription price has been out of reach for plenty of potential users. Today, the startup is tak…*
       
 
 <br />
