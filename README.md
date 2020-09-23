@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 
-~ Pete Cordell
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Telling a programmer there's already a library to do X is like telling a songwri
 </pre>
 <strong>Daily News</strong>
   
-  - Scaling to $100 million ARR: 3 founders share their insights
+  - California will require all passenger vehicles sold in the state be zero-emission by 2035
      <hr/>
      
-      - *Last week at TechCrunch Disrupt, Alex Wilhelm hosted a panel titled “Getting to $100 million ARR” on the Extra Crunch Stage. He was joined by three executives, including Vineet Jain, CEO and co-founder at Egnyte, Michal Tsur, president and co-founder at Kaltu…*
+      - *California Governor Gavin Newsom issued an executive order on Wednesday requiring sales of all new passenger vehicles be zero-emission by 2035. The new order would be a huge boost for electric vehicles, and vehicles using alternative fuels like hydrogen, and …*
      
+  - Scaling to $100 million ARR: 3 founders share their insights
+      <hr/>
+      
+      - *Last week at TechCrunch Disrupt, Alex Wilhelm hosted a panel titled “Getting to $100 million ARR” on the Extra Crunch Stage. He was joined by three executives, including Vineet Jain, CEO and co-founder at Egnyte, Michal Tsur, president and co-founder at Kaltu…*
+      
   - Tesla experienced an hour-long network outage early Wednesday
       <hr/>
       
@@ -73,16 +78,11 @@ Telling a programmer there's already a library to do X is like telling a songwri
       <hr/>
       
       - *Holy cats, it’s less than two weeks until TC Sessions: Mobility 2020 kicks off for two program-packed days focused squarely on mobility and transportation technology. On October 6-7, thousands of people from around the world will gather virtually to talk tren…*
-      
+       
   - Curly the curling robot throws stones like a pro
       <hr/>
-      
-      - *Robots have shown themselves to excel at any number of sports and activities, though they do best when they have a single task. Fortunately some sports, such as curling, consist mostly of one task, and Korean researchers have made a robot that throws the ston…*
        
-  - Top 20 iOS homescreen customization apps reach 5.7M installs after iOS 14 release
-      <hr/>
-       
-       - *The iOS 14 homescreen customization trend is driving a new set of apps to the top of the App Store charts, and delivering record downloads for sources of inspiration, like Pinterest. According to new data from app store market intelligence firm Sensor Tower, …*
+       - *Robots have shown themselves to excel at any number of sports and activities, though they do best when they have a single task. Fortunately some sports, such as curling, consist mostly of one task, and Korean researchers have made a robot that throws the ston…*
       
 
 <br />
