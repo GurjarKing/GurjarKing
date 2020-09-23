@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
-~ Dennis Ritchie
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ What we wanted to preserve was not just a good environment in which to do progra
 </pre>
 <strong>Daily News</strong>
   
-  - New research shows European startups are spending drastically less on a US launch, for the same gains
+  - Salsify nabs $155M as its commerce experience platform sees a big surge of business from Covid-19
      <hr/>
      
-      - *It used to be the case that in order to scale glocally, European companies needed to spend big on launching in the US to achieve the kind of growth they wanted. That usually meant re-locating large swathes of the team to the San Francisco / Bay Area, or New Y…*
+      - *As traditional brands grapple with a new world where selling online is as much or perhaps even more important than how you are positioned in a physical store, a startup that helps them get all their inventory, marketing and selling strategies all on one page …*
      
+  - New research shows European startups are spending drastically less on a US launch, for the same gains
+      <hr/>
+      
+      - *It used to be the case that in order to scale glocally, European companies needed to spend big on launching in the US to achieve the kind of growth they wanted. That usually meant re-locating large swathes of the team to the San Francisco / Bay Area, or New Y…*
+      
   - 'AI-powered' fitness app Freeletics scores $25M Series B
       <hr/>
       
@@ -73,16 +78,11 @@ What we wanted to preserve was not just a good environment in which to do progra
       <hr/>
       
       - *Servify, a Mumbai-headquartered startup that operates a device lifecycle management platform and works deeply with brands including Apple and Samsung in a number of geographies, has raised $23 million in a new financing round. The Series C financing round for…*
-      
+       
   - VW's Traton Group strikes a deal with TuSimple to develop autonomous trucks
       <hr/>
-      
-      - *The Traton Group, Volkswagen AG’s heavy-truck business, has taken a minority stake in TuSimple as part of an agreement between the two companies to develop self-driving trucks. Neither company disclosed the financial terms of the partnership or the percentage…*
        
-  - Uncapped picks up another £26M to offer revenue-based finance to European entrepreneurs
-      <hr/>
-       
-       - *Uncapped, the London-headquartered and Warsaw-based startup that offers “revenue-based” finance to European businesses so that founders don’t have to give up equity stipulated by venture capital, has raised £26 million in new funding. The round was led by Mou…*
+       - *The Traton Group, Volkswagen AG’s heavy-truck business, has taken a minority stake in TuSimple as part of an agreement between the two companies to develop self-driving trucks. Neither company disclosed the financial terms of the partnership or the percentage…*
       
 
 <br />
