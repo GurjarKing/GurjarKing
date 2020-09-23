@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
+If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 
-~ Tom DeMarco
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The very best technology never has as much impact as girlfriend or boyfriend tro
 </pre>
 <strong>Daily News</strong>
   
-  - Tesla is building a cathode plant and getting into the lithium mining business
+  - Tesla claims it can drive battery costs down even lower with new material science innovations
      <hr/>
      
-      - *A little more than a year ago, during Tesla’s 2019 shareholder’s meeting, CEO Elon Musk said the company “might get into the business of mining minerals used in electric vehicle batteries.” Today, during Tesla’s so-called Battery Day event, Musk confirmed tha…*
+      - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
      
+  - Tesla is building a cathode plant and getting into the lithium mining business
+      <hr/>
+      
+      - *A little more than a year ago, during Tesla’s 2019 shareholder’s meeting, CEO Elon Musk said the company “might get into the business of mining minerals used in electric vehicle batteries.” Today, during Tesla’s so-called Battery Day event, Musk confirmed tha…*
+      
   - Tesla says its battery innovations will deliver its goal of a $25,000 mass market electric car
       <hr/>
       
@@ -73,16 +78,11 @@ The very best technology never has as much impact as girlfriend or boyfriend tro
       <hr/>
       
       - *TransferWise, a European fintech unicorn, announced the financial results of its fiscal year ending March, 2020. The company posted strong growth, continued profit and new customer records. TransferWise was most recently valued at $5 billion during a secondar…*
-      
+       
   - Caura, an app to take the hassle out of car ownership, launches from Echo co-founder Sai Lakshmi
       <hr/>
-      
-      - *Caura, a new U.K. startup that aims to take the hassle out of car ownership, is breaking cover today. Founded by Sai Lakshmi, who previously co-founded Echo, the medication management service acquired by LloydsPharmacy owner McKesson, Caura is an iOS app desi…*
        
-  - Tesla introduces its tabless battery design on the road to 10 terawatt hours of production
-      <hr/>
-       
-       - *For Tesla to reach the ambitious goal of 10 to 20 terawatt hours of battery production per year that the company has set, it will need to advance the battery and its production. Today, during Tesla’s self-described Battery Day event, the company laid out a se…*
+       - *Caura, a new U.K. startup that aims to take the hassle out of car ownership, is breaking cover today. Founded by Sai Lakshmi, who previously co-founded Echo, the medication management service acquired by LloydsPharmacy owner McKesson, Caura is an iOS app desi…*
       
 
 <br />
