@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The more code you have, the more places there are for bugs to hide.
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
 
-~ Rich Skrenta
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The more code you have, the more places there are for bugs to hide.
 </pre>
 <strong>Daily News</strong>
   
-  - Tesla says its battery innovations will deliver its goal of a $25,000 mass market electric car
+  - Tesla is building a cathode plant and getting into the lithium mining business
      <hr/>
      
-      - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
+      - *A little more than a year ago, during Tesla’s 2019 shareholder’s meeting, CEO Elon Musk said the company “might get into the business of mining minerals used in electric vehicle batteries.” Today, during Tesla’s so-called Battery Day event, Musk confirmed tha…*
      
+  - Tesla says its battery innovations will deliver its goal of a $25,000 mass market electric car
+      <hr/>
+      
+      - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
+      
   - TransferWise reports accelerating revenue growth to 70% in its March, 2020 fiscal year
       <hr/>
       
@@ -73,16 +78,11 @@ The more code you have, the more places there are for bugs to hide.
       <hr/>
       
       - *Caura, a new U.K. startup that aims to take the hassle out of car ownership, is breaking cover today. Founded by Sai Lakshmi, who previously co-founded Echo, the medication management service acquired by LloydsPharmacy owner McKesson, Caura is an iOS app desi…*
-      
+       
   - Tesla introduces its tabless battery design on the road to 10 terawatt hours of production
       <hr/>
-      
-      - *For Tesla to reach the ambitious goal of 10 to 20 terawatt hours of battery production per year that the company has set, it will need to advance the battery and its production. Today, during Tesla’s self-described Battery Day event, the company laid out a se…*
        
-  - Future Teslas will have batteries that double as structure, making them extra stiff while improving efficiency, safety and cost
-      <hr/>
-       
-       - *Tesla has fundamentally redesigned the way that its battery packs integrate into their vehicles, turning them into structural elements of the car, rather than just fuel sources on their own. At Tesla’s Battery Day event on Tuesday, Elon Musk compared this to …*
+       - *For Tesla to reach the ambitious goal of 10 to 20 terawatt hours of battery production per year that the company has set, it will need to advance the battery and its production. Today, during Tesla’s self-described Battery Day event, the company laid out a se…*
       
 
 <br />
