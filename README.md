@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Machines as simple as thermostats can be said to have beliefs.
+Making things easy is hard.
 
-~ John McCarthy (computer scientist)
+~ Ted Nelson
 <pre>
 
 </pre>
