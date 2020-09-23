@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+The button is working, only, it cannot be seen.
 
-~ Tom DeMarco
+~ Anonymous
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The business of software building isn't really high-tech at all. It's most of al
 </pre>
 <strong>Daily News</strong>
   
-  - Spotify adds an interactive feature for podcasts with launch of 'Polls'
+  - Data breach at New York Sports Clubs owner exposed customer data
      <hr/>
      
-      - *Spotify today is introducing a new feature designed to make podcasts more interactive. The company says it’s beginning to test “Polls,” a tool that will allow listeners to engage with podcasts by answering questions posed by the podcast hosts during the show.…*
+      - *Exclusive: The unprotected storage exposed customer addresses and phone numbers.*
      
-  - The Galaxy S20 FE is Samsung’s new $699 budget flagship
+  - How Robinhood and Chime raised $2B+ in the last year
       <hr/>
       
-      - *One thing Samsung knows for certain: it’s interested in budget flagships. The category makes sense these days, as users are increasingly unwilling to spend north of $1,000 on new phones. That’s doubly the case during the COVID-19 pandemic, with people leaving…*
+      - *Last night Robinhood, the American fintech unicorn that provides free securities trading services to consumers via an app, announced that it raised an additional $460 million in its previously-known Series G. That round is now worth $660 million at an $11.7 b…*
       
-  - Yext launches Hitchhikers, a self-serve version of its site search tool
+  - WhyLabs brings more transparancy to ML ops
       <hr/>
       
-      - *Yext is making its site search product Yext Answers available to a broader set of customers today with the launch of a new program that it calls Hitchhikers. The company launched Yext Answers in October 2019 with the goal of making a brand’s website — rather …*
+      - *WhyLabs, a new machine learning startup that was spun out of the Allen Institute, is coming out of stealth today. Founded by a group of former Amazon machine learning engineers, Alessya Visnjic, Sam Gracie and Andy Dang, together with Madrona Venture Group pr…*
       
-  - Submer is dunking servers in goo to save the planet
+  - EU's antitrust probe of Google-Fitbit gets more time
       <hr/>
       
-      - *Digital technologies now serve as the central nervous system for the global economy, and making that nervous system work depends on networks of massive data centers that hoover up enormous amounts of power to keep businesses operating around the world. It’s n…*
+      - *European antitrust regulators now have until almost the end of the year to take a decision on whether to green light Google’s planned acquisition of Fitbit. The tech giant announced its intention to buy the fitness tracking wearable maker in November 2019, sa…*
        
-  - MWC plans to go forward in person in 2021, but pushes show back to late-June
+  - Spotify adds an interactive feature for podcasts with launch of 'Polls'
       <hr/>
        
-       - *Over the past several months, it’s become painfully clear that COVID-19 isn’t a problem that we’re going to leave behind in 2021. After hemming and hawing a bit, the CTA ultimately pulled the trigger for an online-only version of the show in January. Other te…*
+       - *Spotify today is introducing a new feature designed to make podcasts more interactive. The company says it’s beginning to test “Polls,” a tool that will allow listeners to engage with podcasts by answering questions posed by the podcast hosts during the show.…*
       
 
 <br />
