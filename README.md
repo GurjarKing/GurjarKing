@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
 
-~ Harlan Mills
+~ Albert Einstein
 <pre>
 
 </pre>
