@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 
-~ Alan Perlis
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I think it is inevitable that people program poorly. Training will not substanti
 </pre>
 <strong>Daily News</strong>
   
-  - The Oculus Quest's unofficial app store gets backing from Oculus founder Palmer Luckey
+  - Email startup Superhuman debuts a cheaper $10/mo tier for students and academics
      <hr/>
      
-      - *Facebook garnered the ire of some virtual reality developers last year when they announced that they would be more aggressively curating the content that was for sale in the Oculus Store on their then-upcoming Quest headset. Developers who had been used to a …*
+      - *Email startup Superhuman has been lauded by plenty in the tech community as a simpler and faster way to navigate email, but at $30 per month, the service’s hefty subscription price has been out of reach for plenty of potential users. Today, the startup is tak…*
      
-  - Instagram's TikTok clone Reels updates to allow longer videos, easier edits
+  - Kard raises another $3.5 million for its challenger bank for teens
       <hr/>
       
-      - *Instagram is today rolling out a few changes to its TikTok competitor, Reels, after early reviews of the feature criticized its design and reports indicated it was failing to gain traction. The company says it’s responding to user feedback on a few fronts, by…*
+      - *French startup Kard has added $3.5 million (€3 million) to its seed round. The company already raised the same amount last year, which means that Kard has raised $7 million (€6 million) in total for its seed round. Founders Future is leading the round, with L…*
       
-  - Leonardo DiCaprio takes a stake in Struck Capital to fund the future of LA's tech ecosystem
+  - Teachers deserve two screens, and Two Screens for Teachers aims to get them just that
       <hr/>
       
-      - *Leonardo DiCaprio is making a significant commitment to the Los Angeles-based investment firm, Struck Capital, as part of the actor’s commitment to building LA into a tech development powerhouse. It’s part of what Struck Capital founder Adam Struck called a v…*
+      - *The pandemic has caused K-12 classrooms, chaotic at the best of times, to descend into Zoom call chaos. What’s more, thousands of teachers who must wrangle this new, weird system are doing so with just a single monitor, making it difficult to see their studen…*
       
-  - Palantir publishes 2020 revenue guidance of $1.05B, will trade starting Sept 30th
+  - Google Maps gets a COVID-19 layer
       <hr/>
       
-      - *It’s been a long road for Palantir as it has submitted amendment after amendment with the SEC related to its S-1 filing over the past two months. But after weeks of back and forth, it’s official: Palantir’s S-1 has been marked effective, which means that it h…*
+      - *Google today announced an update to Google Maps that will bring a new COVID-19 layer to the service to help you better understand the number of cases in a given area. With the pandemic continuing to spread in many countries — and ahead of what many fear will …*
        
-  - Blue Origin job listing sheds more light on its space-based orbital habitat ambitions
+  - Spain's top court rejects Glovo's classification of couriers as self-employed
       <hr/>
        
-       - *Blue Origin founder and Amazon CEO Jeff Bezos has made no secret of his ambition to eventually create orbiting space stations that act as places for people to live and work – he outlined a vision based on space settlement designs first conceived by physicist …*
+       - *Glovo, a Spain-based delivery platform startup, is facing legal disruption in its home market after the country’s Supreme Court ruled against its classification of delivery couriers as ‘autonomous’ (i.e. self employed) — finding riders are instead in a labour…*
       
 
 <br />
