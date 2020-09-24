@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ John Carmack
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The situation is so much better for programmers today - a cheap used PC, a linux
 </pre>
 <strong>Daily News</strong>
   
-  - Bowery Farming adds executives as it expands to sell produce in 650 stores
+  - NUVIA raises $240M from Mithril to make climate-ready enterprise chips
      <hr/>
      
-      - *Bowery Farming has added to its executive team as it expands its retail footprint to 650 stores, the company said. From three indoor farms in Kearny, N.J. and Nottingham, Md., the New York-based company is pitching a smattering of leafy greens and herbs. Irvi…*
+      - *Climate change is on everyone’s minds these days, what with the outer Bay Area on fire, orange skies above San Francisco, and a hurricane season that is bearing down on the East Coast with alacrity (and that’s just the United States in the past two weeks). A …*
      
+  - E-commerce platform Whitebox raises $18M
+      <hr/>
+      
+      - *Whitebox, a startup that manages e-commerce logistics and fulfillment for a variety for brands, has raised $18 million in Series B funding. While discussing the new funding, CEO Marcus Startzel repeated a point he made after Whitebox raised its $5 million Ser…*
+      
+  - Bowery Farming adds executives as it expands to sell produce in 650 stores
+      <hr/>
+      
+      - *Bowery Farming has added to its executive team as it expands its retail footprint to 650 stores, the company said. From three indoor farms in Kearny, N.J. and Nottingham, Md., the New York-based company is pitching a smattering of leafy greens and herbs. Irvi…*
+      
   - Airship acquires SMS commerce company ReplyBuy
       <hr/>
       
       - *Airship is announcing that it has acquired mobile commerce startup ReplyBuy. The startup (which was a finalist at TechCrunch’s 1st and Future startup competition in 2016) works with customers like entertainment venues and professional and college sports teams…*
-      
+       
   - Spectrum Labs raises $10M for its AI-based platform to combat online toxicity
       <hr/>
-      
-      - *With the US presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips, and misleading ads, will be used, and often abused, to influence people’s d…*
-      
-  - Valar triples down on Petal, leading $55M Series C round into the credit card disruptor
-      <hr/>
-      
-      - *Sometimes raising venture capital can be as simple as talking to your existing investor and having them wire over another check. When we last caught up with Petal in January 2019, the startup was hot off its $30 million Series B round and was accelerating its…*
        
-  - United Airlines is making COVID-19 tests available to passengers, powered in part by Color
-      <hr/>
-       
-       - *There’s still no clear path back to any sense of ‘business-as-usual’ as the COVID-19 pandemic continues, but United Airlines is embarking on a new pilot project to see if easy access to COVID-19 testing immediately prior to a flight can help ease freedom of m…*
+       - *With the US presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips, and misleading ads, will be used, and often abused, to influence people’s d…*
       
 
 <br />
