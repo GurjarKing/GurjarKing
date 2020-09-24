@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programs must be written for people to read, and only incidentally for machines to execute.
+Codes are a puzzle. A game, just like any other game.
 
-~ Hal Abelson
+~ Alan Turing
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Programs must be written for people to read, and only incidentally for machines 
 </pre>
 <strong>Daily News</strong>
   
-  - Spotify CEO Daniel Ek pledges $1Bn of his wealth to back deeptech startups from Europe
+  - 3 founders on why they pursued alternative startup ownership structures
      <hr/>
      
-      - *At an online event today, Daniel Ek, the founder of Spotify, said he would invest 1 billion euros ($1.2 billion) of his personal fortune in deeptech “moonshot projects”, spread across the next 10 years. Ek indicated that he was referring to machine learning, …*
+      - *There is no one-size-fits all model for building a startup. At TechCrunch Disrupt, we heard from a handful of founders about alternative approaches to creating a sustainable company that ensures more than just VCs and early founders benefit from its success. …*
      
-  - The first rule of BookClub? No boring book clubs.
+  - Amazon announces Luna+ game-streaming platform
       <hr/>
       
-      - *Book clubs can be magical. Bring together a group of friends, tear apart a book and all of a sudden the words have a second, paperless, life. But what if the author could join in the banter? Imagine riffing with Roxane Gay, debating with Ta-Nehisi Coates and …*
+      - *At its Devices and Services event, Amazon launched its own cloud gaming competitor to Google Stadia and Microsoft xCloud. The company is launching the product in early access at an introductory price of $5.99 per month Users will be able to stream titles wire…*
       
-  - Drive predictable B2B revenue growth with insights from big data and CDPs
+  - Amazon redesigns the Echo line with spherical speakers and swiveling screens
       <hr/>
       
-      - *Your CDP feeds your AI, and AIs love a big data feast. The more data you give it, the more accurate the predictions will be*
+      - *Amazon today announced a lot of new products including the new Echo speaker line. And the products looks dramatically different. Gone are the cylinders. They’re spheres now and look like nothing else on the market. The lights are now on the bottom, while ther…*
       
-  - EV charging network ChargePoint to go public via SPAC
+  - Amazon’s new Echo Show 10 follows you as you move
       <hr/>
       
-      - *Several electric vehicle startups, including Canoo, Fisker Inc., Lordstown Motors and Nikola Corp., have gone public this year by merging with a special purpose acquisition company. Now, an electric vehicle charging company is joining the growing list of SPAC…*
+      - *So this is crazy. Amazon’s new Echo Show 10 swivels on its base to follow you around the room. The on-board camera is capable of recognizing a person and spins around to follow them — essentially taking the person tracking feature found on Facebook’s Portal a…*
        
-  - Learning how to ask questions is an essential skill for startup founders
+  - Ring's newest security camera is a $249 autonomous indoor drone shipping in 2021
       <hr/>
        
-       - *As I interviewed founders about the most valuable learning resources that allowed them to grow into the leaders they are today, I realized that many leaned heavily on carefully-crafted approaches to asking questions.*
+       - *Ring built its entire business on reinventing the doorbell – and now it’s taking a similar approach to the humble home security camera, with the Ring Always Home Cam, set to be available sometime next year. You might not guess from its name, but this security…*
       
 
 <br />
