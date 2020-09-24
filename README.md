@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 
 ~ Fred Brooks
 <pre>
@@ -59,30 +59,30 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
 </pre>
 <strong>Daily News</strong>
   
-  - NUVIA raises $240M from Mithril to make climate-ready enterprise chips
+  - Spotify and Chernin Entertainment enter first-look deal to turn podcasts into TV shows and movies
      <hr/>
      
-      - *Climate change is on everyone’s minds these days, what with the outer Bay Area on fire, orange skies above San Francisco, and a hurricane season that is bearing down on the East Coast with alacrity (and that’s just the United States in the past two weeks). A …*
+      - *More Spotify podcasts could soon become TV shows or movies thanks to a new, multi-year partnership announced today between the streaming music provider and film and television production company, Chernin Entertainment. The agreement will allow Chernin to iden…*
      
-  - E-commerce platform Whitebox raises $18M
+  - Atlanta gets a billion dollar startup business as Greenlight's family-focused fintech nabs $215 million
       <hr/>
       
-      - *Whitebox, a startup that manages e-commerce logistics and fulfillment for a variety for brands, has raised $18 million in Series B funding. While discussing the new funding, CEO Marcus Startzel repeated a point he made after Whitebox raised its $5 million Ser…*
+      - *Greenlight Financial Technology, the fintech company that pitches parents on kid-friendly bank accounts, has raised $215 million in a new round of funding. The round gives the Atlanta-based startup a $1.2 billion valuation thanks to backing from Canapi Ventur…*
       
-  - Bowery Farming adds executives as it expands to sell produce in 650 stores
+  - Roli’s light-up learning keyboard goes up for pre-order at $299
       <hr/>
       
-      - *Bowery Farming has added to its executive team as it expands its retail footprint to 650 stores, the company said. From three indoor farms in Kearny, N.J. and Nottingham, Md., the New York-based company is pitching a smattering of leafy greens and herbs. Irvi…*
+      - *Roli is cool startup that makes fascinating music products. The Seaboard led the way, with a clever take on the keyboard that allowed players to bend notes like guitar strings. Blocks were even more fascinating — the modular light pads offered innovative cont…*
       
-  - Airship acquires SMS commerce company ReplyBuy
+  - As tech stocks dip, is insurtech startup Root targeting an IPO?
       <hr/>
       
-      - *Airship is announcing that it has acquired mobile commerce startup ReplyBuy. The startup (which was a finalist at TechCrunch’s 1st and Future startup competition in 2016) works with customers like entertainment venues and professional and college sports teams…*
+      - *During the week’s news cycle one particular bit of reporting slipped under our radar: Root Insurance is tipped by Reuters to be prepping an IPO that could value the neo-insurance provider at around $6 billion. Coming after two 2020 insurtech IPOs, Root’s step…*
        
-  - Spectrum Labs raises $10M for its AI-based platform to combat online toxicity
+  - LinkedIn launches Stories, plus Zoom, BlueJeans and Teams video integrations as part of wider redesign
       <hr/>
        
-       - *With the US presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips, and misleading ads, will be used, and often abused, to influence people’s d…*
+       - *With the employment market remaining sluggish as the world continues to struggle with Covid-19, a company that has built its popular businesses largely around recruitment is launching a redesign that pushes engagement in other ways as it waits for the job eco…*
       
 
 <br />
