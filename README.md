@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Codes are a puzzle. A game, just like any other game.
+When debugging, novices insert corrective code; experts remove defective code.
 
-~ Alan Turing
+~ Richard E. Pattis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Codes are a puzzle. A game, just like any other game.
 </pre>
 <strong>Daily News</strong>
   
-  - 3 founders on why they pursued alternative startup ownership structures
+  - Hootsuite says it will terminate its ICE contract 'without delay'
      <hr/>
      
-      - *There is no one-size-fits all model for building a startup. At TechCrunch Disrupt, we heard from a handful of founders about alternative approaches to creating a sustainable company that ensures more than just VCs and early founders benefit from its success. …*
+      - *After disagreements within the company spilled over into public controversy, Hootsuite says it won’t go forward with a contract with U.S. Immigration and Customs Enforcement. Through an external spokesperson, the company told TechCrunch it “can confirm the te…*
      
-  - Amazon announces Luna+ game-streaming platform
+  - Announcing the final agenda for TC Sessions: Mobility 2020
       <hr/>
       
-      - *At its Devices and Services event, Amazon launched its own cloud gaming competitor to Google Stadia and Microsoft xCloud. The company is launching the product in early access at an introductory price of $5.99 per month Users will be able to stream titles wire…*
+      - *TC Sessions: Mobility is back and we’re excited to give the final look of what and who is coming to the main stage. Before we get into who is coming, let’s tackle one important change from our 2019 inaugural event: this year, TC Sessions: Mobility will be vir…*
       
-  - Amazon redesigns the Echo line with spherical speakers and swiveling screens
+  - Here's everything Amazon announced at its latest hardware event
       <hr/>
       
-      - *Amazon today announced a lot of new products including the new Echo speaker line. And the products looks dramatically different. Gone are the cylinders. They’re spheres now and look like nothing else on the market. The lights are now on the bottom, while ther…*
+      - *From new Ring flying indoor drone cameras to an adorable new kids version of one of its most popular Amazon home products, Jeff Bezos’ Seattle retailer unveiled a slew of new hardware goodies just ahead of the holiday shopping season. Echo updates Amazon kick…*
       
-  - Amazon’s new Echo Show 10 follows you as you move
+  - Netflix finally comes to the Amazon Echo Show
       <hr/>
       
-      - *So this is crazy. Amazon’s new Echo Show 10 swivels on its base to follow you around the room. The on-board camera is capable of recognizing a person and spins around to follow them — essentially taking the person tracking feature found on Facebook’s Portal a…*
+      - *Amazon announced the Echo Show line in 2017, and today, it’s finally gaining access to Netflix. The video service joins Hulu and Prime Video as the only officially supported video streaming apps.6 The news came from Amazon’s yearly Echo event where the compan…*
        
-  - Ring's newest security camera is a $249 autonomous indoor drone shipping in 2021
+  - Amazon redesigns Fire TV, introduces new Fire TV Stick and low-cost Fire TV Stick Lite
       <hr/>
        
-       - *Ring built its entire business on reinventing the doorbell – and now it’s taking a similar approach to the humble home security camera, with the Ring Always Home Cam, set to be available sometime next year. You might not guess from its name, but this security…*
+       - *Amazon today announced a redesign Fire TV experience along with an updated Fire TV Stick and a new, lower-cost Fire TV Stick Lite. The updated interface for the Alexa-enabled smart TV platform will introduce a handful of new features, including support video …*
       
 
 <br />
