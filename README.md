@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 
-~ Arthur C. Clarke
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When a distinguished but elderly scientist states that something is possible, th
 </pre>
 <strong>Daily News</strong>
   
-  - Coinbase UX teardown: 5 fails and how to fix them
+  - Don't buy the hype: Free VPNs are bad for your privacy
      <hr/>
      
-      - *Digital currency exchange Coinbase has probably done more than most to push cryptocurrencies closer to the mainstream, earning an $8 billion valuation by private investors along the way. The company is reportedly eyeing a public listing next year, and is inar…*
+      - *Many free VPNs promise to protect your privacy. Don't believe it.*
      
+  - Fitbit Sense review
+      <hr/>
+      
+      - *The Versa helped Fitbit reverse its fortunes after a long, gradual slide. The company was slow to embrace the smartwatch, and stumbled somewhat out of the gate with the Ionic. But the Versa found a perfect sweet spot that build atop generations of wearable he…*
+      
+  - Coinbase UX teardown: 5 fails and how to fix them
+      <hr/>
+      
+      - *Digital currency exchange Coinbase has probably done more than most to push cryptocurrencies closer to the mainstream, earning an $8 billion valuation by private investors along the way. The company is reportedly eyeing a public listing next year, and is inar…*
+      
   - Why isn't Robinhood a verb yet?
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and your humble servant gathered to chat through a host of rounds…*
-      
+       
   - Hootsuite says it will terminate its ICE contract 'without delay'
       <hr/>
-      
-      - *After disagreements within the company spilled over into public controversy, Hootsuite says it won’t go forward with a contract with U.S. Immigration and Customs Enforcement. Through an external spokesperson, the company told TechCrunch it “can confirm the te…*
-      
-  - Announcing the final agenda for TC Sessions: Mobility 2020
-      <hr/>
-      
-      - *TC Sessions: Mobility is back and we’re excited to give the final look of what and who is coming to the main stage. Before we get into who is coming, let’s tackle one important change from our 2019 inaugural event: this year, TC Sessions: Mobility will be vir…*
        
-  - Here's everything Amazon announced at its latest hardware event
-      <hr/>
-       
-       - *From new Ring flying indoor drone cameras to an adorable new kids version of one of its most popular Amazon home products, Jeff Bezos’ Seattle retailer unveiled a slew of new hardware goodies just ahead of the holiday shopping season. Echo updates Amazon kick…*
+       - *After disagreements within the company spilled over into public controversy, Hootsuite says it won’t go forward with a contract with U.S. Immigration and Customs Enforcement. Through an external spokesperson, the company told TechCrunch it “can confirm the te…*
       
 
 <br />
