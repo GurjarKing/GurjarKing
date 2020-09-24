@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In man-machine symbiosis, it is man who must adjust: The machines can't.
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 
-~ Alan Perlis
+~ William Wulf
 <pre>
 
 </pre>
