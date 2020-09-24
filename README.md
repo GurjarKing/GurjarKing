@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+In man-machine symbiosis, it is man who must adjust: The machines can't.
 
-~ David Leinweber
+~ Alan Perlis
 <pre>
 
 </pre>
