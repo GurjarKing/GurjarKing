@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
 
-~ Fred Brooks
+~ Arthur C. Clarke
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The separation of architectural effort from implementation is a very powerful wa
 </pre>
 <strong>Daily News</strong>
   
-  - Spotify and Chernin Entertainment enter first-look deal to turn podcasts into TV shows and movies
+  - EV charging network ChargePoint to go public via SPAC
      <hr/>
      
-      - *More Spotify podcasts could soon become TV shows or movies thanks to a new, multi-year partnership announced today between the streaming music provider and film and television production company, Chernin Entertainment. The agreement will allow Chernin to iden…*
+      - *Several electric vehicle startups, including Canoo, Fisker Inc., Lordstown Motors and Nikola Corp., have gone public this year by merging with a special purpose acquisition company. Now, an electric vehicle charging company is joining the growing list of SPAC…*
      
+  - Learning how to ask questions is an essential skill for startup founders
+      <hr/>
+      
+      - *As I interviewed founders about the most valuable learning resources that allowed them to grow into the leaders they are today, I realized that many leaned heavily on carefully-crafted approaches to asking questions.*
+      
+  - Entrepreneurship and investing as social good
+      <hr/>
+      
+      - *Democratized access to startups yields more opportunity for investors to find ventures that align with their values while diversifying their profiles can provide tremendous results.*
+      
+  - Spotify and Chernin Entertainment enter first-look deal to turn podcasts into TV shows and movies
+      <hr/>
+      
+      - *More Spotify podcasts could soon become TV shows or movies thanks to a new, multi-year partnership announced today between the streaming music provider and film and television production company, Chernin Entertainment. The agreement will allow Chernin to iden…*
+       
   - Atlanta gets a billion dollar startup business as Greenlight's family-focused fintech nabs $215 million
       <hr/>
-      
-      - *Greenlight Financial Technology, the fintech company that pitches parents on kid-friendly bank accounts, has raised $215 million in a new round of funding. The round gives the Atlanta-based startup a $1.2 billion valuation thanks to backing from Canapi Ventur…*
-      
-  - Roli’s light-up learning keyboard goes up for pre-order at $299
-      <hr/>
-      
-      - *Roli is cool startup that makes fascinating music products. The Seaboard led the way, with a clever take on the keyboard that allowed players to bend notes like guitar strings. Blocks were even more fascinating — the modular light pads offered innovative cont…*
-      
-  - As tech stocks dip, is insurtech startup Root targeting an IPO?
-      <hr/>
-      
-      - *During the week’s news cycle one particular bit of reporting slipped under our radar: Root Insurance is tipped by Reuters to be prepping an IPO that could value the neo-insurance provider at around $6 billion. Coming after two 2020 insurtech IPOs, Root’s step…*
        
-  - LinkedIn launches Stories, plus Zoom, BlueJeans and Teams video integrations as part of wider redesign
-      <hr/>
-       
-       - *With the employment market remaining sluggish as the world continues to struggle with Covid-19, a company that has built its popular businesses largely around recruitment is launching a redesign that pushes engagement in other ways as it waits for the job eco…*
+       - *Greenlight Financial Technology, the fintech company that pitches parents on kid-friendly bank accounts, has raised $215 million in a new round of funding. The round gives the Atlanta-based startup a $1.2 billion valuation thanks to backing from Canapi Ventur…*
       
 
 <br />
