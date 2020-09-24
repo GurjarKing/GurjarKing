@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+The manager's function is not to make people work, but to make it possible for people to work.
 
-~ William Wulf
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ More computing sins are committed in the name of efficiency (without necessarily
 </pre>
 <strong>Daily News</strong>
   
-  - New report finds VC investment into ClimateTech growing five times faster than overall VC
+  - Facebook gives more details about its efforts against hate speech before Myanmar's general election
      <hr/>
      
-      - *VC and corporate investment into ClimateTech grew at a faster rate than overall VC investment as a whole between 2013 – 2019, according to a major new report — to the tune of $60 billion of early-stage capital. The new research by PwC (“The State of Climate T…*
+      - *About three weeks ago, Facebook announced will increase its efforts against hate speech and misinformation in Myanmar before the country’s general election on November 8, 2020. Today, it gave some more details about what the company is doing to prevent the sp…*
      
+  - New report finds VC investment into ClimateTech growing five times faster than overall VC
+      <hr/>
+      
+      - *VC and corporate investment into ClimateTech grew at a faster rate than overall VC investment as a whole between 2013 – 2019, according to a major new report — to the tune of $60 billion of early-stage capital. The new research by PwC (“The State of Climate T…*
+      
   - Peterson Ventures, a  firm that quietly backed Allbirds and Bonobos, just closed a $65 million fund
       <hr/>
       
@@ -73,16 +78,11 @@ More computing sins are committed in the name of efficiency (without necessarily
       <hr/>
       
       - *Shopify blames “rogue” employees for a data breach, Google Maps adds COVID-19 data and China pushes back against the TikTok deal. This is your Daily Crunch for September 23, 2020. The big story: Shopify confirms data breach The e-commerce platform blamed two …*
-      
+       
   - The eighth-generation iPad is a fine choice for casual users
       <hr/>
-      
-      - *It happens to the best of us. Some newer, flashier model comes along and we’re no longer the latest and greatest new thing. The iPad’s had a plenty good run, of course. Ten years ago, the device redefined what a tablet is and has maintained a dominant spot at…*
        
-  - Sneaker culture staple GOAT hits $1.75 billion valuation on new $100 million round
-      <hr/>
-       
-       - *In this case, money, it really is the shoes. GOAT, the proprietor of online and physical retail locations for reselling the collectible kicks and kits that are the currency of street cred and cultural cool among the youths, is now worth a whopping $1.75 billi…*
+       - *It happens to the best of us. Some newer, flashier model comes along and we’re no longer the latest and greatest new thing. The iPad’s had a plenty good run, of course. Ten years ago, the device redefined what a tablet is and has maintained a dominant spot at…*
       
 
 <br />
