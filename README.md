@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
+The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
 
-~ Kevlin Henney
+~ John Carmack
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The act of describing a program in unambiguous detail and the act of programming
 </pre>
 <strong>Daily News</strong>
   
-  - Ohio-based collaboration service for biotech and pharma research, Within3, raises $100 million
+  - Bowery Farming adds executives as it expands to sell produce in 650 stores
      <hr/>
      
-      - *Within3, a collaboration and communication service for the biotech and pharma industries, has raised over $100 million in new financing, the company said. The investment came from Insight Partners with participation from Silversmith Capital Partners. Most of …*
+      - *Bowery Farming has added to its executive team as it expands its retail footprint to 650 stores, the company said. From three indoor farms in Kearny, N.J. and Nottingham, Md., the New York-based company is pitching a smattering of leafy greens and herbs. Irvi…*
      
-  - Snyk acquires DeepCode to boost its code review smarts
+  - Airship acquires SMS commerce company ReplyBuy
       <hr/>
       
-      - *Switzerland-based machine learning code review startup DeepCode — which bills itself as ‘Grammarly for coders’ — has been acquired by Snyk, a post-unicorn valuation cybersecurity startup which is focused on helping developers secure their code. Financial term…*
+      - *Airship is announcing that it has acquired mobile commerce startup ReplyBuy. The startup (which was a finalist at TechCrunch’s 1st and Future startup competition in 2016) works with customers like entertainment venues and professional and college sports teams…*
       
-  - YouTube will add mail-in voting info box next to videos that discuss voting by mail
+  - Spectrum Labs raises $10M for its AI-based platform to combat online toxicity
       <hr/>
       
-      - *YouTube has been relatively quiet about its strategy to battle the flow of misinformation leading into the 2020 U.S. election, but the platform has a few new measures in store. The video sharing site will begin attaching a box with vetted facts about mail-in …*
+      - *With the US presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips, and misleading ads, will be used, and often abused, to influence people’s d…*
       
-  - UK launches COVID-19 exposure notification app for England and Wales
+  - Valar triples down on Petal, leading $55M Series C round into the credit card disruptor
       <hr/>
       
-      - *The last two regions of the UK now have an official coronavirus contacts tracing app, after the UK government pushed the button to launch the NHS COVID-19 app across England and Wales today. Northern Ireland and Scotland launched their own official apps to au…*
+      - *Sometimes raising venture capital can be as simple as talking to your existing investor and having them wire over another check. When we last caught up with Petal in January 2019, the startup was hot off its $30 million Series B round and was accelerating its…*
        
-  - Ripjar, founded by GCHQ alums, raises $36.8M for AI that detects financial crime
+  - United Airlines is making COVID-19 tests available to passengers, powered in part by Color
       <hr/>
        
-       - *Financial crime as a wider category of cybercrime continues to be one of the most potent of online threats, covering nefarious actives as diverse as fraud, money laundering and funding terrorism. Today, one of the startups that has been building data intellig…*
+       - *There’s still no clear path back to any sense of ‘business-as-usual’ as the COVID-19 pandemic continues, but United Airlines is embarking on a new pilot project to see if easy access to COVID-19 testing immediately prior to a flight can help ease freedom of m…*
       
 
 <br />
