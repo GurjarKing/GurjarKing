@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 
-~ George Boole
+~ David Leinweber
 <pre>
 
 </pre>
