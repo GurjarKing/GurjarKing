@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The key to keeping software costs down is to write code that is easily modified.
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
-~ Daniel T. Barry
+~ Richard Stallman
 <pre>
 
 </pre>
