@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When debugging, novices insert corrective code; experts remove defective code.
+People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 
-~ Richard E. Pattis
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When debugging, novices insert corrective code; experts remove defective code.
 </pre>
 <strong>Daily News</strong>
   
-  - Hootsuite says it will terminate its ICE contract 'without delay'
+  - Coinbase UX teardown: 5 fails and how to fix them
      <hr/>
      
-      - *After disagreements within the company spilled over into public controversy, Hootsuite says it won’t go forward with a contract with U.S. Immigration and Customs Enforcement. Through an external spokesperson, the company told TechCrunch it “can confirm the te…*
+      - *Digital currency exchange Coinbase has probably done more than most to push cryptocurrencies closer to the mainstream, earning an $8 billion valuation by private investors along the way. The company is reportedly eyeing a public listing next year, and is inar…*
      
+  - Why isn't Robinhood a verb yet?
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and your humble servant gathered to chat through a host of rounds…*
+      
+  - Hootsuite says it will terminate its ICE contract 'without delay'
+      <hr/>
+      
+      - *After disagreements within the company spilled over into public controversy, Hootsuite says it won’t go forward with a contract with U.S. Immigration and Customs Enforcement. Through an external spokesperson, the company told TechCrunch it “can confirm the te…*
+      
   - Announcing the final agenda for TC Sessions: Mobility 2020
       <hr/>
       
       - *TC Sessions: Mobility is back and we’re excited to give the final look of what and who is coming to the main stage. Before we get into who is coming, let’s tackle one important change from our 2019 inaugural event: this year, TC Sessions: Mobility will be vir…*
-      
+       
   - Here's everything Amazon announced at its latest hardware event
       <hr/>
-      
-      - *From new Ring flying indoor drone cameras to an adorable new kids version of one of its most popular Amazon home products, Jeff Bezos’ Seattle retailer unveiled a slew of new hardware goodies just ahead of the holiday shopping season. Echo updates Amazon kick…*
-      
-  - Netflix finally comes to the Amazon Echo Show
-      <hr/>
-      
-      - *Amazon announced the Echo Show line in 2017, and today, it’s finally gaining access to Netflix. The video service joins Hulu and Prime Video as the only officially supported video streaming apps.6 The news came from Amazon’s yearly Echo event where the compan…*
        
-  - Amazon redesigns Fire TV, introduces new Fire TV Stick and low-cost Fire TV Stick Lite
-      <hr/>
-       
-       - *Amazon today announced a redesign Fire TV experience along with an updated Fire TV Stick and a new, lower-cost Fire TV Stick Lite. The updated interface for the Alexa-enabled smart TV platform will introduce a handful of new features, including support video …*
+       - *From new Ring flying indoor drone cameras to an adorable new kids version of one of its most popular Amazon home products, Jeff Bezos’ Seattle retailer unveiled a slew of new hardware goodies just ahead of the holiday shopping season. Echo updates Amazon kick…*
       
 
 <br />
