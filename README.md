@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+Programs must be written for people to read, and only incidentally for machines to execute.
 
-~ Arthur C. Clarke
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When a distinguished but elderly scientist states that something is possible, th
 </pre>
 <strong>Daily News</strong>
   
-  - EV charging network ChargePoint to go public via SPAC
+  - Spotify CEO Daniel Ek pledges $1Bn of his wealth to back deeptech startups from Europe
      <hr/>
      
-      - *Several electric vehicle startups, including Canoo, Fisker Inc., Lordstown Motors and Nikola Corp., have gone public this year by merging with a special purpose acquisition company. Now, an electric vehicle charging company is joining the growing list of SPAC…*
+      - *At an online event today, Daniel Ek, the founder of Spotify, said he would invest 1 billion euros ($1.2 billion) of his personal fortune in deeptech “moonshot projects”, spread across the next 10 years. Ek indicated that he was referring to machine learning, …*
      
+  - The first rule of BookClub? No boring book clubs.
+      <hr/>
+      
+      - *Book clubs can be magical. Bring together a group of friends, tear apart a book and all of a sudden the words have a second, paperless, life. But what if the author could join in the banter? Imagine riffing with Roxane Gay, debating with Ta-Nehisi Coates and …*
+      
+  - Drive predictable B2B revenue growth with insights from big data and CDPs
+      <hr/>
+      
+      - *Your CDP feeds your AI, and AIs love a big data feast. The more data you give it, the more accurate the predictions will be*
+      
+  - EV charging network ChargePoint to go public via SPAC
+      <hr/>
+      
+      - *Several electric vehicle startups, including Canoo, Fisker Inc., Lordstown Motors and Nikola Corp., have gone public this year by merging with a special purpose acquisition company. Now, an electric vehicle charging company is joining the growing list of SPAC…*
+       
   - Learning how to ask questions is an essential skill for startup founders
       <hr/>
-      
-      - *As I interviewed founders about the most valuable learning resources that allowed them to grow into the leaders they are today, I realized that many leaned heavily on carefully-crafted approaches to asking questions.*
-      
-  - Entrepreneurship and investing as social good
-      <hr/>
-      
-      - *Democratized access to startups yields more opportunity for investors to find ventures that align with their values while diversifying their profiles can provide tremendous results.*
-      
-  - Spotify and Chernin Entertainment enter first-look deal to turn podcasts into TV shows and movies
-      <hr/>
-      
-      - *More Spotify podcasts could soon become TV shows or movies thanks to a new, multi-year partnership announced today between the streaming music provider and film and television production company, Chernin Entertainment. The agreement will allow Chernin to iden…*
        
-  - Atlanta gets a billion dollar startup business as Greenlight's family-focused fintech nabs $215 million
-      <hr/>
-       
-       - *Greenlight Financial Technology, the fintech company that pitches parents on kid-friendly bank accounts, has raised $215 million in a new round of funding. The round gives the Atlanta-based startup a $1.2 billion valuation thanks to backing from Canapi Ventur…*
+       - *As I interviewed founders about the most valuable learning resources that allowed them to grow into the leaders they are today, I realized that many leaned heavily on carefully-crafted approaches to asking questions.*
       
 
 <br />
