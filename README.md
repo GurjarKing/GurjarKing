@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Pete Cordell
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Telling a programmer there's already a library to do X is like telling a songwri
 </pre>
 <strong>Daily News</strong>
   
-  - WeWork sells majority stake in Chinese entity, seeks localization
+  - Small business challenger bank Finom raises another $12 million to expand in Europe
      <hr/>
      
-      - *Four years after its foray into the Chinese market followed by rapid and cash-hemorrhaging expansion, WeWork decided to wind down its involvement in the country. WeWork’s Chinese unit has secured a $200 million investment led by Shanghai-based equity firm Tru…*
+      - *B2B financial service start-up Finom — which provides online financial services for SMEs, freelancers, and the self-employed in Europe — has raised an additional $12 million (€10.3 million) to add to its previous Seed round of €6.5 million last April. The tot…*
      
+  - WeWork sells majority stake in Chinese entity, seeks localization
+      <hr/>
+      
+      - *Four years after its foray into the Chinese market followed by rapid and cash-hemorrhaging expansion, WeWork decided to wind down its involvement in the country. WeWork’s Chinese unit has secured a $200 million investment led by Shanghai-based equity firm Tru…*
+      
   - Mobileye signs driver-assistance deal with Geely, one of China's largest privately-held auto makers
       <hr/>
       
@@ -73,16 +78,11 @@ Telling a programmer there's already a library to do X is like telling a songwri
       <hr/>
       
       - *About three weeks ago, Facebook announced will increase its efforts against hate speech and misinformation in Myanmar before the country’s general election on November 8, 2020. Today, it gave some more details about what the company is doing to prevent the sp…*
-      
+       
   - New report finds VC investment into ClimateTech growing five times faster than overall VC
       <hr/>
-      
-      - *VC and corporate investment into ClimateTech grew at a faster rate than overall VC investment as a whole between 2013 – 2019, according to a major new report — to the tune of $60 billion of early-stage capital. The new research by PwC (“The State of Climate T…*
        
-  - Peterson Ventures, a  firm that quietly backed Allbirds and Bonobos, just closed a $65 million fund
-      <hr/>
-       
-       - *Peterson Ventures, a 12-year-old, Salt Lake City, Ut.-based seed-stage fund, has long operated fairly quietly, but many of its bets have become known brands in the respective worlds of consumer and enterprise software investing. Among these is the shoe compan…*
+       - *VC and corporate investment into ClimateTech grew at a faster rate than overall VC investment as a whole between 2013 – 2019, according to a major new report — to the tune of $60 billion of early-stage capital. The new research by PwC (“The State of Climate T…*
       
 
 <br />
