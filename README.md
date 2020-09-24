@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Harlan Mills
+~ Pete Cordell
 <pre>
 
 </pre>
