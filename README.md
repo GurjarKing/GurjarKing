@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-As with most projects, the last two percent takes fifty percent of the time.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ John Warnock
+~ George Boole
 <pre>
 
 </pre>
