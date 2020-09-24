@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 
-~ Gottfried Wilhelm Leibniz
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Instead of the progression of tens, I have for many years used the simplest prog
 </pre>
 <strong>Daily News</strong>
   
-  - Don't buy the hype: Free VPNs are bad for your privacy
+  - Anduril among companies tapped to build the Air Force's 'internet of things' for war
      <hr/>
      
-      - *Many free VPNs promise to protect your privacy. Don't believe it.*
+      - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
      
-  - Fitbit Sense review
+  - You can now return Apple’s Solo Loop for a new size, without sending back the Watch
       <hr/>
       
-      - *The Versa helped Fitbit reverse its fortunes after a long, gradual slide. The company was slow to embrace the smartwatch, and stumbled somewhat out of the gate with the Ionic. But the Versa found a perfect sweet spot that build atop generations of wearable he…*
+      - *Call it Apple Bandgate, if you must. It’s the latest online dustup, following Apple’s recent Watch Series 6 release. The announcement of the Solo Loop was more or less glossed over during last week’s big event, because, well, watch bands don’t often take cent…*
       
-  - Coinbase UX teardown: 5 fails and how to fix them
+  - Launch Center Pro lets you build custom icons to customize your iOS 14 home screen
       <hr/>
       
-      - *Digital currency exchange Coinbase has probably done more than most to push cryptocurrencies closer to the mainstream, earning an $8 billion valuation by private investors along the way. The company is reportedly eyeing a public listing next year, and is inar…*
+      - *Launch Center Pro, an iOS utility that offered widgets and custom icons long before they were allowed on the iPhone’s home screen, is bringing its design tools to iOS 14. The app aims to capitalize on the recent trend toward home screen personalization by off…*
       
-  - Why isn't Robinhood a verb yet?
+  - Daily Crunch: Amazon unveils its own game-streaming platform
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and your humble servant gathered to chat through a host of rounds…*
+      - *Amazon announces a new game service and plenty of hardware upgrades, tech companies team up against app stores and United Airlines tests a program for rapid COVID-19 testing. This is your Daily Crunch for September 24, 2020. The big story: Amazon unveils its …*
        
-  - Hootsuite says it will terminate its ICE contract 'without delay'
+  - Don't buy the hype: Free VPNs are bad for your privacy
       <hr/>
        
-       - *After disagreements within the company spilled over into public controversy, Hootsuite says it won’t go forward with a contract with U.S. Immigration and Customs Enforcement. Through an external spokesperson, the company told TechCrunch it “can confirm the te…*
+       - *Many free VPNs promise to protect your privacy. Don't believe it.*
       
 
 <br />
