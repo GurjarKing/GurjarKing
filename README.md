@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Tim Berners-Lee
+~ Friedrich Bauer
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I invented the Web just because I needed it, really, because it was so frustrati
 </pre>
 <strong>Daily News</strong>
   
-  - Small business challenger bank Finom raises another $12 million to expand in Europe
+  - Ripjar, founded by GCHQ alums, raises $36.8M for AI that detects financial crime
      <hr/>
      
-      - *B2B financial service start-up Finom — which provides online financial services for SMEs, freelancers, and the self-employed in Europe — has raised an additional $12 million (€10.3 million) to add to its previous Seed round of €6.5 million last April. The tot…*
+      - *Financial crime as a wider category of cybercrime continues to be one of the most potent of online threats, covering nefarious actives as diverse as fraud, money laundering and funding terrorism. Today, one of the startups that has been building data intellig…*
      
+  - Small business challenger bank Finom raises another $12 million to expand in Europe
+      <hr/>
+      
+      - *B2B financial service start-up Finom — which provides online financial services for SMEs, freelancers, and the self-employed in Europe — has raised an additional $12 million (€10.3 million) to add to its previous Seed round of €6.5 million last April. The tot…*
+      
   - WeWork sells majority stake in Chinese entity, seeks localization
       <hr/>
       
@@ -73,16 +78,11 @@ I invented the Web just because I needed it, really, because it was so frustrati
       <hr/>
       
       - *Mobileye’s computer vision technology will be used in a new premium electric vehicle called Zero Concept from Geely Auto Group, one of China’s largest privately-held automobile manufacturers. Mobileye’s owner Intel made the announcement today at the Beijing A…*
-      
+       
   - Facebook gives more details about its efforts against hate speech before Myanmar's general election
       <hr/>
-      
-      - *About three weeks ago, Facebook announced will increase its efforts against hate speech and misinformation in Myanmar before the country’s general election on November 8, 2020. Today, it gave some more details about what the company is doing to prevent the sp…*
        
-  - New report finds VC investment into ClimateTech growing five times faster than overall VC
-      <hr/>
-       
-       - *VC and corporate investment into ClimateTech grew at a faster rate than overall VC investment as a whole between 2013 – 2019, according to a major new report — to the tune of $60 billion of early-stage capital. The new research by PwC (“The State of Climate T…*
+       - *About three weeks ago, Facebook announced will increase its efforts against hate speech and misinformation in Myanmar before the country’s general election on November 8, 2020. Today, it gave some more details about what the company is doing to prevent the sp…*
       
 
 <br />
