@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 
-~ Fred Brooks
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If each part of the task must be separately coordinated with each other part, th
 </pre>
 <strong>Daily News</strong>
   
-  - Mobileye signs driver-assistance deal with Geely, one of China's largest privately-held auto makers
+  - WeWork sells majority stake in Chinese entity, seeks localization
      <hr/>
      
-      - *Mobileye’s computer vision technology will be used in a new premium electric vehicle called Zero Concept from Geely Auto Group, one of China’s largest privately-held automobile manufacturers. Mobileye’s owner Intel made the announcement today at the Beijing A…*
+      - *Four years after its foray into the Chinese market followed by rapid and cash-hemorrhaging expansion, WeWork decided to wind down its involvement in the country. WeWork’s Chinese unit has secured a $200 million investment led by Shanghai-based equity firm Tru…*
      
+  - Mobileye signs driver-assistance deal with Geely, one of China's largest privately-held auto makers
+      <hr/>
+      
+      - *Mobileye’s computer vision technology will be used in a new premium electric vehicle called Zero Concept from Geely Auto Group, one of China’s largest privately-held automobile manufacturers. Mobileye’s owner Intel made the announcement today at the Beijing A…*
+      
   - Facebook gives more details about its efforts against hate speech before Myanmar's general election
       <hr/>
       
@@ -73,16 +78,11 @@ If each part of the task must be separately coordinated with each other part, th
       <hr/>
       
       - *VC and corporate investment into ClimateTech grew at a faster rate than overall VC investment as a whole between 2013 – 2019, according to a major new report — to the tune of $60 billion of early-stage capital. The new research by PwC (“The State of Climate T…*
-      
+       
   - Peterson Ventures, a  firm that quietly backed Allbirds and Bonobos, just closed a $65 million fund
       <hr/>
-      
-      - *Peterson Ventures, a 12-year-old, Salt Lake City, Ut.-based seed-stage fund, has long operated fairly quietly, but many of its bets have become known brands in the respective worlds of consumer and enterprise software investing. Among these is the shoe compan…*
        
-  - Daily Crunch: Shopify confirms data breach
-      <hr/>
-       
-       - *Shopify blames “rogue” employees for a data breach, Google Maps adds COVID-19 data and China pushes back against the TikTok deal. This is your Daily Crunch for September 23, 2020. The big story: Shopify confirms data breach The e-commerce platform blamed two …*
+       - *Peterson Ventures, a 12-year-old, Salt Lake City, Ut.-based seed-stage fund, has long operated fairly quietly, but many of its bets have become known brands in the respective worlds of consumer and enterprise software investing. Among these is the shoe compan…*
       
 
 <br />
