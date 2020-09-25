@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 
-~ Ward Cunningham
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ What is simplicity? Simplicity is the shortest path to a solution.
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: Moving away from 'master/slave' terminology
+  - NASA commissions report to show its economic impact: $64B and 312K jobs
      <hr/>
      
-      - *TGIF, am I right? Welcome back to Human Capital, where we explore some of the latest news in labor, and diversity and inclusion in tech. This week, we’re looking at the use of “master/slave” terminology in computer programming and the current state of gig wor…*
+      - *Perhaps anticipating budget pushback from the federal government, NASA has released its first ever agency-wide economic report, documenting the agency’s impact on the nation’s jobs and cash flow. Everyone knew NASA was impactful, but now we know exactly how i…*
      
+  - 4 things to remember when adapting AI/ML learning models during a pandemic
+      <hr/>
+      
+      - *The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.*
+      
+  - Human Capital: Moving away from 'master/slave' terminology
+      <hr/>
+      
+      - *TGIF, am I right? Welcome back to Human Capital, where we explore some of the latest news in labor, diversity and inclusion in tech. This week, we’re looking at the use of “master/slave” terminology in computer programming and the current state of gig workers…*
+      
   - Alexis Ohanian files for a new $150M fund, with a nod to his Olympian family
       <hr/>
       
       - *According to an SEC filing, Alexis Ohanian, the co-founder of Reddit and early-stage VC firm Initialized Capital, is raising a new fund, named 776, with a target of $150 million. The filing comes three months after the entrepreneur left Initialized Capital an…*
-      
+       
   - Apple Watch Series 6 review
       <hr/>
-      
-      - *When it comes to smartwatches, it’s Apple against the world. It’s not that there aren’t plenty of other products to choose from — it’s more that the company has just utterly dominated the space to such a point that any other device is relegated to the realm o…*
-      
-  - Nikola's Steve Girsky eyes his next transportation investment
-      <hr/>
-      
-      - *Steve Girksy, the former GM vice chairman, consultant and investor whose special purpose acquisition company (SPAC) merged with hydrogen electric startup Nikola this summer, is in talks to back self-driving trucks startup TuSimple, according to four people fa…*
        
-  - Privacy data management innovations reduce risk, create new revenue channels
-      <hr/>
-       
-       - *Investments in privacy tools and management practices now are almost certain to deliver major business dividends in the future.*
+       - *When it comes to smartwatches, it’s Apple against the world. It’s not that there aren’t plenty of other products to choose from — it’s more that the company has just utterly dominated the space to such a point that any other device is relegated to the realm o…*
       
 
 <br />
