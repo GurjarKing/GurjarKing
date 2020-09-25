@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 
-~ Martin Fowler
+~ Kent Beck
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If you can get today’s work done today, but you do it in such a way that you c
 </pre>
 <strong>Daily News</strong>
   
-  - HumanForest suspends London e-bike sharing service, cuts jobs after customer accident
+  - Nikola's Steve Girsky eyes his next transportation investment
      <hr/>
      
-      - *UK-based startup HumanForest has suspended its nascent ‘free’ e-bike service in London this week, after experiencing “mechanical” issues and after a user had an accident on one of its bikes, TechCrunch has learned. The suspension has also seen the company mak…*
+      - *Steve Girksy, the former GM vice chairman, consultant and investor whose special purpose acquisition company (SPAC) merged with hydrogen electric startup Nikola this summer, is in talks to back self-driving trucks startup TuSimple, according to four people fa…*
      
+  - Privacy data management innovations reduce risk, create new revenue channels
+      <hr/>
+      
+      - *Investments in privacy tools and management practices now are almost certain to deliver major business dividends in the future.*
+      
+  - Want to hire and retain high-quality developers? Give them stimulating work
+      <hr/>
+      
+      - *Not only is it the right way to treat your team, but when developers are more stimulated, the standard of their work goes up, along with productivity levels and general morale.*
+      
+  - HumanForest suspends London e-bike sharing service, cuts jobs after customer accident
+      <hr/>
+      
+      - *UK-based startup HumanForest has suspended its nascent ‘free’ e-bike service in London this week, after experiencing “mechanical” issues and after a user had an accident on one of its bikes, TechCrunch has learned. The suspension has also seen the company mak…*
+       
   - Apple is (temporarily) waiving its App Store fee for Facebook's online events
       <hr/>
-      
-      - *Last month, Facebook introduced support for paid online events — and since many of the businesses offering those events have struggled during the coronavirus pandemic, the company also said it would not collect fees for the next year. At the same time, it com…*
-      
-  - Don’t miss the Q&A sessions at TC Sessions: Mobility 2020
-      <hr/>
-      
-      - *It’s nearly October, startup fans and that means TC Sessions: Mobility 2020 is right around the corner. On October 6 & 7, you’ll experience an incredible two-day agenda packed with the top leaders, visionaries, makers and investors, and they’re ready to drop …*
-      
-  - Twitter warns developers that their private keys and account tokens may have been exposed
-      <hr/>
-      
-      - *The social media giant said developer private keys may have been stored in the browser's cache by mistake.*
        
-  - The highest valued company in Bessemer's annual cloud report has defied convention by staying private
-      <hr/>
-       
-       - *This year’s Bessemer Venture Partners’ annual Cloud 100 Benchmark report was published recently and my colleague Alex Wilhelm looked at some broad trends in the report, but digging into the data, I decided to concentrate on the Top 10 companies by valuation. …*
+       - *Last month, Facebook introduced support for paid online events — and since many of the businesses offering those events have struggled during the coronavirus pandemic, the company also said it would not collect fees for the next year. At the same time, it com…*
       
 
 <br />
