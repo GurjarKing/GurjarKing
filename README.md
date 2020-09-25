@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
-~ Sean Parent
+~ Martin Fowler
 <pre>
 
 </pre>
