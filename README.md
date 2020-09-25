@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An evolving system increases its complexity unless work is done to reduce it.
+Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
 
-~ Manny Lehman (computer scientist)
+~ Bill Gates
 <pre>
 
 </pre>
