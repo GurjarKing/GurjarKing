@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+Talk is cheap. Show me the code.
 
-~ Bill Gates
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Is studying computer science the best way to prepare to be a programmer? No. the
 </pre>
 <strong>Daily News</strong>
   
-  - Calling Helsinki VCs: Be featured in The Great TechCrunch Survey of European VC
+  - The highest valued company in Bessemer's annual cloud report has defied convention by staying private
      <hr/>
      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Helsinki will capture how the city is faring, and what changes are being wro…*
+      - *This year’s Bessemer Venture Partners’ annual Cloud 100 Benchmark report was published recently and my colleague Alex Wilhelm looked at some broad trends in the report, but digging into the data, I decided to concentrate on the Top 10 companies by valuation. …*
      
+  - Calling Helsinki VCs: Be featured in The Great TechCrunch Survey of European VC
+      <hr/>
+      
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Helsinki will capture how the city is faring, and what changes are being wro…*
+      
   - European Commission to appeal decision that reversed Apple's $15B State Aid tax bill in Ireland
       <hr/>
       
@@ -73,16 +78,11 @@ Is studying computer science the best way to prepare to be a programmer? No. the
       <hr/>
       
       - *The former CEO of Cambridge Analytica, the disgraced data company that worked for the 2016 Trump campaign and shut down in 2018 over a voter manipulation scandal involving masses of Facebook data — has been banned from running limited companies for seven year…*
-      
+       
   - This new Southeast Asian fund has its eye on Chinese cross-border firms
       <hr/>
-      
-      - *As U.S.-China relations remain tense, Southeast Asia becomes the darling for investors and tech companies from both sides as they seek overseas expansion. Behemoths like Google, Facebook, Alibaba, Tencent and ByteDance have elbowed into the region. Some set u…*
        
-  - Indonesian cloud kitchen startup Yummy gets $12 million Series B led by SoftBank Ventures Asia
-      <hr/>
-       
-       - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
+       - *As U.S.-China relations remain tense, Southeast Asia becomes the darling for investors and tech companies from both sides as they seek overseas expansion. Behemoths like Google, Facebook, Alibaba, Tencent and ByteDance have elbowed into the region. Some set u…*
       
 
 <br />
