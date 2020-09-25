@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
 
-~ Martin Fowler
+~ Charles Babbage
 <pre>
 
 </pre>
