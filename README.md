@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 
-~ Ada Lovelace
+~ Martin Fowler
 <pre>
 
 </pre>
