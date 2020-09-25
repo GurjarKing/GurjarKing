@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 
-~ Richard Hamming
+~ Richard Stallman
 <pre>
 
 </pre>
