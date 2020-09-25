@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A programming language is low level when its programs require attention to the irrelevant.
+The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 
-~ Alan Perlis
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A programming language is low level when its programs require attention to the i
 </pre>
 <strong>Daily News</strong>
   
-  - The highest valued company in Bessemer's annual cloud report has defied convention by staying private
+  - HumanForest suspends London e-bike sharing service, cuts jobs after customer accident
      <hr/>
      
-      - *This year’s Bessemer Venture Partners’ annual Cloud 100 Benchmark report was published recently and my colleague Alex Wilhelm looked at some broad trends in the report, but digging into the data, I decided to concentrate on the Top 10 companies by valuation. …*
+      - *UK-based startup HumanForest has suspended its nascent ‘free’ e-bike service in London this week, after experiencing “mechanical” issues and after a user had an accident on one of its bikes, TechCrunch has learned. The suspension has also seen the company mak…*
      
-  - Calling Helsinki VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Apple is (temporarily) waiving its App Store fee for Facebook's online events
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Helsinki will capture how the city is faring, and what changes are being wro…*
+      - *Last month, Facebook introduced support for paid online events — and since many of the businesses offering those events have struggled during the coronavirus pandemic, the company also said it would not collect fees for the next year. At the same time, it com…*
       
-  - European Commission to appeal decision that reversed Apple's $15B State Aid tax bill in Ireland
+  - Don’t miss the Q&A sessions at TC Sessions: Mobility 2020
       <hr/>
       
-      - *It’s not over until it’s over for Apple and its ongoing tax headache in Europe. Today the European Commission announced that it plans to appeal the July 2020 ruling that overturned the original $15 billion fine that it leveled against Apple and Ireland over S…*
+      - *It’s nearly October, startup fans and that means TC Sessions: Mobility 2020 is right around the corner. On October 6 & 7, you’ll experience an incredible two-day agenda packed with the top leaders, visionaries, makers and investors, and they’re ready to drop …*
       
-  - Cambridge Analytica's former boss gets 7-year ban on being a business director
+  - Twitter warns developers that their private keys and account tokens may have been exposed
       <hr/>
       
-      - *The former CEO of Cambridge Analytica, the disgraced data company that worked for the 2016 Trump campaign and shut down in 2018 over a voter manipulation scandal involving masses of Facebook data — has been banned from running limited companies for seven year…*
+      - *The social media giant said developer private keys may have been stored in the browser's cache by mistake.*
        
-  - This new Southeast Asian fund has its eye on Chinese cross-border firms
+  - The highest valued company in Bessemer's annual cloud report has defied convention by staying private
       <hr/>
        
-       - *As U.S.-China relations remain tense, Southeast Asia becomes the darling for investors and tech companies from both sides as they seek overseas expansion. Behemoths like Google, Facebook, Alibaba, Tencent and ByteDance have elbowed into the region. Some set u…*
+       - *This year’s Bessemer Venture Partners’ annual Cloud 100 Benchmark report was published recently and my colleague Alex Wilhelm looked at some broad trends in the report, but digging into the data, I decided to concentrate on the Top 10 companies by valuation. …*
       
 
 <br />
