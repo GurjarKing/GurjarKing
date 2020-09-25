@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-~ Richard Stallman
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The free software community rejects the “priesthood of technology”, which ke
 </pre>
 <strong>Daily News</strong>
   
-  - Black founders face a unique set of challenges
+  - Postmates cuts losses in Q2 as it heads towards tie-up with Uber
      <hr/>
      
-      - *The notion that Black people in America need to work twice as hard as others to succeed may be a depressing sentiment, but it has been deeply ingrained into the psyches of many African-Americans. At TechCrunch Disrupt, several Black founders spoke about some …*
+      - *Popular food delivery service Postmates is in the process of merging with Uber in a blockbuster $2.65 billion deal that would see it join forces with its food delivery competitor, Uber Eats. The deal remains under antitrust scrutiny, and has not yet been appr…*
      
+  - Daily Crunch: Reviewing the new Apple Watch
+      <hr/>
+      
+      - *We’ve got an in-depth review of the Apple Watch Series 6, Apple gives Facebook a temporary break on App Store fees and Alexis Ohanian is raising a new fund. This is your Daily Crunch for September 25, 2020. The big story: Reviewing the new Apple Watch Brian H…*
+      
+  - Black founders face a unique set of challenges
+      <hr/>
+      
+      - *The notion that Black people in America need to work twice as hard as others to succeed may be a depressing sentiment, but it has been deeply ingrained into the psyches of many African-Americans. At TechCrunch Disrupt, several Black founders spoke about some …*
+      
   - NASA commissions report to show its economic impact: $64B and 312K jobs
       <hr/>
       
       - *Perhaps anticipating budget pushback from the federal government, NASA has released its first ever agency-wide economic report, documenting the agency’s impact on the nation’s jobs and cash flow. Everyone knew NASA was impactful, but now we know exactly how i…*
-      
+       
   - 4 things to remember when adapting AI/ML learning models during a pandemic
       <hr/>
-      
-      - *The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.*
-      
-  - Human Capital: Moving away from 'master/slave' terminology
-      <hr/>
-      
-      - *TGIF, am I right? Welcome back to Human Capital, where we explore some of the latest news in labor, diversity and inclusion in tech. This week, we’re looking at the use of “master/slave” terminology in computer programming and the current state of gig workers…*
        
-  - Alexis Ohanian files for a new $150M fund, with a nod to his Olympian family
-      <hr/>
-       
-       - *According to an SEC filing, Alexis Ohanian, the co-founder of Reddit and early-stage VC firm Initialized Capital, is raising a new fund, named 776, with a target of $150 million. The filing comes three months after the entrepreneur left Initialized Capital an…*
+       - *The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.*
       
 
 <br />
