@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 
-~ Fred Brooks
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The separation of architectural effort from implementation is a very powerful wa
 </pre>
 <strong>Daily News</strong>
   
-  - The eSIM maker powering Xiaomi's IoT devices raises $15M
+  - Writer Anand Giridharadas on tech's billionaires: "Are they even on the same team as us?"
      <hr/>
      
-      - *Connectivity is vital to a future managed and shaped by smart hardware, and Chinese startup Showmac Tech is proposing eSIMs as the infrastructure solution for seamless and stable communication between devices and the service providers behind. Xiaomi accepted …*
+      - *Since the start of the coronavirus pandemic, America’s roughly 640 billionaires have seen their fortunes soar by $845 billion in combined assets or 29% collectively, widening the already yawning gap between the very richest and the rest of U.S. Many of those …*
      
+  - The eSIM maker powering Xiaomi's IoT devices raises $15M
+      <hr/>
+      
+      - *Connectivity is vital to a future managed and shaped by smart hardware, and Chinese startup Showmac Tech is proposing eSIMs as the infrastructure solution for seamless and stable communication between devices and the service providers behind. Xiaomi accepted …*
+      
   - Anduril among companies tapped to build the Air Force's 'internet of things' for war
       <hr/>
       
@@ -73,16 +78,11 @@ The separation of architectural effort from implementation is a very powerful wa
       <hr/>
       
       - *Call it Apple Bandgate, if you must. It’s the latest online dustup, following Apple’s recent Watch Series 6 release. The announcement of the Solo Loop was more or less glossed over during last week’s big event, because, well, watch bands don’t often take cent…*
-      
+       
   - Launch Center Pro lets you build custom icons to customize your iOS 14 home screen
       <hr/>
-      
-      - *Launch Center Pro, an iOS utility that offered widgets and custom icons long before they were allowed on the iPhone’s home screen, is bringing its design tools to iOS 14. The app aims to capitalize on the recent trend toward home screen personalization by off…*
        
-  - Daily Crunch: Amazon unveils its own game-streaming platform
-      <hr/>
-       
-       - *Amazon announces a new game service and plenty of hardware upgrades, tech companies team up against app stores and United Airlines tests a program for rapid COVID-19 testing. This is your Daily Crunch for September 24, 2020. The big story: Amazon unveils its …*
+       - *Launch Center Pro, an iOS utility that offered widgets and custom icons long before they were allowed on the iPhone’s home screen, is bringing its design tools to iOS 14. The app aims to capitalize on the recent trend toward home screen personalization by off…*
       
 
 <br />
