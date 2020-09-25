@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Everything should be made as simple as possible. But to do that you have to master complexity.
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 
-~ Butler Lampson
+~ Sean Parent
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Everything should be made as simple as possible. But to do that you have to mast
 </pre>
 <strong>Daily News</strong>
   
-  - Google Meet and other Google services go down (Updated)
+  - Indonesian cloud kitchen startup Yummy gets $12 million Series B led by SoftBank Ventures Asia
      <hr/>
      
-      - *Google’s engineers aren’t having a good day today. This afternoon, a number of Google services went offline or are barely reachable. These services include Google Meet, Drive, Docs, Analytics, Classroom and Calendar, for example. While Google’s own status das…*
+      - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
      
+  - Google Meet and other Google services go down (Updated)
+      <hr/>
+      
+      - *Google’s engineers aren’t having a good day today. This afternoon, a number of Google services went offline or are barely reachable. These services include Google Meet, Drive, Docs, Analytics, Classroom and Calendar, for example. While Google’s own status das…*
+      
   - Writer Anand Giridharadas on tech's billionaires: "Are they even on the same team as us?"
       <hr/>
       
@@ -73,16 +78,11 @@ Everything should be made as simple as possible. But to do that you have to mast
       <hr/>
       
       - *Connectivity is vital to a future managed and shaped by smart hardware, and Chinese startup Showmac Tech is proposing eSIMs as the infrastructure solution for seamless and stable communication between devices and the service providers behind. Xiaomi accepted …*
-      
+       
   - Anduril among companies tapped to build the Air Force's 'internet of things' for war
       <hr/>
-      
-      - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
        
-  - You can now return Apple’s Solo Loop for a new size, without sending back the Watch
-      <hr/>
-       
-       - *Call it Apple Bandgate, if you must. It’s the latest online dustup, following Apple’s recent Watch Series 6 release. The announcement of the Solo Loop was more or less glossed over during last week’s big event, because, well, watch bands don’t often take cent…*
+       - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
       
 
 <br />
