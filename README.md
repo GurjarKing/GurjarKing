@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
 
-~ Martin Fowler
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ W​henever I have to think to understand what the code is doing, I ask myself i
 </pre>
 <strong>Daily News</strong>
   
-  - NASA commissions report to show its economic impact: $64B and 312K jobs
+  - Black founders face a unique set of challenges
      <hr/>
      
-      - *Perhaps anticipating budget pushback from the federal government, NASA has released its first ever agency-wide economic report, documenting the agency’s impact on the nation’s jobs and cash flow. Everyone knew NASA was impactful, but now we know exactly how i…*
+      - *The notion that Black people in America need to work twice as hard as others to succeed may be a depressing sentiment, but it has been deeply ingrained into the psyches of many African-Americans. At TechCrunch Disrupt, several Black founders spoke about some …*
      
+  - NASA commissions report to show its economic impact: $64B and 312K jobs
+      <hr/>
+      
+      - *Perhaps anticipating budget pushback from the federal government, NASA has released its first ever agency-wide economic report, documenting the agency’s impact on the nation’s jobs and cash flow. Everyone knew NASA was impactful, but now we know exactly how i…*
+      
   - 4 things to remember when adapting AI/ML learning models during a pandemic
       <hr/>
       
@@ -73,16 +78,11 @@ W​henever I have to think to understand what the code is doing, I ask myself i
       <hr/>
       
       - *TGIF, am I right? Welcome back to Human Capital, where we explore some of the latest news in labor, diversity and inclusion in tech. This week, we’re looking at the use of “master/slave” terminology in computer programming and the current state of gig workers…*
-      
+       
   - Alexis Ohanian files for a new $150M fund, with a nod to his Olympian family
       <hr/>
-      
-      - *According to an SEC filing, Alexis Ohanian, the co-founder of Reddit and early-stage VC firm Initialized Capital, is raising a new fund, named 776, with a target of $150 million. The filing comes three months after the entrepreneur left Initialized Capital an…*
        
-  - Apple Watch Series 6 review
-      <hr/>
-       
-       - *When it comes to smartwatches, it’s Apple against the world. It’s not that there aren’t plenty of other products to choose from — it’s more that the company has just utterly dominated the space to such a point that any other device is relegated to the realm o…*
+       - *According to an SEC filing, Alexis Ohanian, the co-founder of Reddit and early-stage VC firm Initialized Capital, is raising a new fund, named 776, with a target of $150 million. The filing comes three months after the entrepreneur left Initialized Capital an…*
       
 
 <br />
