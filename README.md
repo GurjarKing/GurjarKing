@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+What is simplicity? Simplicity is the shortest path to a solution.
 
-~ Fred Brooks
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ First, my wife, my colleagues, and my editors find me to err far more often in o
 </pre>
 <strong>Daily News</strong>
   
-  - Alexis Ohanian files for a new $150M fund, with a nod to his Olympian family
+  - Human Capital: Moving away from 'master/slave' terminology
      <hr/>
      
-      - *According to an SEC filing, Alexis Ohanian, the co-founder of Reddit and early-stage VC firm Initialized Capital, is raising a new fund, named 776, with a target of $150 million. The filing comes three months after the entrepreneur left Initialized Capital an…*
+      - *TGIF, am I right? Welcome back to Human Capital, where we explore some of the latest news in labor, and diversity and inclusion in tech. This week, we’re looking at the use of “master/slave” terminology in computer programming and the current state of gig wor…*
      
+  - Alexis Ohanian files for a new $150M fund, with a nod to his Olympian family
+      <hr/>
+      
+      - *According to an SEC filing, Alexis Ohanian, the co-founder of Reddit and early-stage VC firm Initialized Capital, is raising a new fund, named 776, with a target of $150 million. The filing comes three months after the entrepreneur left Initialized Capital an…*
+      
   - Apple Watch Series 6 review
       <hr/>
       
@@ -73,16 +78,11 @@ First, my wife, my colleagues, and my editors find me to err far more often in o
       <hr/>
       
       - *Steve Girksy, the former GM vice chairman, consultant and investor whose special purpose acquisition company (SPAC) merged with hydrogen electric startup Nikola this summer, is in talks to back self-driving trucks startup TuSimple, according to four people fa…*
-      
+       
   - Privacy data management innovations reduce risk, create new revenue channels
       <hr/>
-      
-      - *Investments in privacy tools and management practices now are almost certain to deliver major business dividends in the future.*
        
-  - Want to hire and retain high-quality developers? Give them stimulating work
-      <hr/>
-       
-       - *Not only is it the right way to treat your team, but when developers are more stimulated, the standard of their work goes up, along with productivity levels and general morale.*
+       - *Investments in privacy tools and management practices now are almost certain to deliver major business dividends in the future.*
       
 
 <br />
