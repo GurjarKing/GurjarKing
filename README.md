@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 
-~ Kent Beck
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When you feel the need to write a comment, first try to refactor the code so tha
 </pre>
 <strong>Daily News</strong>
   
-  - Nikola's Steve Girsky eyes his next transportation investment
+  - Alexis Ohanian files for a new $150M fund, with a nod to his Olympian family
      <hr/>
      
-      - *Steve Girksy, the former GM vice chairman, consultant and investor whose special purpose acquisition company (SPAC) merged with hydrogen electric startup Nikola this summer, is in talks to back self-driving trucks startup TuSimple, according to four people fa…*
+      - *According to an SEC filing, Alexis Ohanian, the co-founder of Reddit and early-stage VC firm Initialized Capital, is raising a new fund, named 776, with a target of $150 million. The filing comes three months after the entrepreneur left Initialized Capital an…*
      
+  - Apple Watch Series 6 review
+      <hr/>
+      
+      - *When it comes to smartwatches, it’s Apple against the world. It’s not that there aren’t plenty of other products to choose from — it’s more that the company has just utterly dominated the space to such a point that any other device is relegated to the realm o…*
+      
+  - Nikola's Steve Girsky eyes his next transportation investment
+      <hr/>
+      
+      - *Steve Girksy, the former GM vice chairman, consultant and investor whose special purpose acquisition company (SPAC) merged with hydrogen electric startup Nikola this summer, is in talks to back self-driving trucks startup TuSimple, according to four people fa…*
+      
   - Privacy data management innovations reduce risk, create new revenue channels
       <hr/>
       
       - *Investments in privacy tools and management practices now are almost certain to deliver major business dividends in the future.*
-      
+       
   - Want to hire and retain high-quality developers? Give them stimulating work
       <hr/>
-      
-      - *Not only is it the right way to treat your team, but when developers are more stimulated, the standard of their work goes up, along with productivity levels and general morale.*
-      
-  - HumanForest suspends London e-bike sharing service, cuts jobs after customer accident
-      <hr/>
-      
-      - *UK-based startup HumanForest has suspended its nascent ‘free’ e-bike service in London this week, after experiencing “mechanical” issues and after a user had an accident on one of its bikes, TechCrunch has learned. The suspension has also seen the company mak…*
        
-  - Apple is (temporarily) waiving its App Store fee for Facebook's online events
-      <hr/>
-       
-       - *Last month, Facebook introduced support for paid online events — and since many of the businesses offering those events have struggled during the coronavirus pandemic, the company also said it would not collect fees for the next year. At the same time, it com…*
+       - *Not only is it the right way to treat your team, but when developers are more stimulated, the standard of their work goes up, along with productivity levels and general morale.*
       
 
 <br />
