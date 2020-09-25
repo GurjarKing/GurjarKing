@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+A programming language is low level when its programs require attention to the irrelevant.
 
-~ Linus Torvalds
+~ Alan Perlis
 <pre>
 
 </pre>
