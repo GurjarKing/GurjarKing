@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
+An evolving system increases its complexity unless work is done to reduce it.
 
-~ Hal Abelson
+~ Manny Lehman (computer scientist)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The reason that we think computer science is about computers is pretty much the 
 </pre>
 <strong>Daily News</strong>
   
-  - European Commission to appeal decision that reversed Apple's $15B State Aid tax bill in Ireland
+  - Calling Helsinki VCs: Be featured in The Great TechCrunch Survey of European VC
      <hr/>
      
-      - *It’s not over until it’s over for Apple and its ongoing tax headache in Europe. Today the European Commission announced that it plans to appeal the July 2020 ruling that overturned the original $15 billion fine that it leveled against Apple and Ireland over S…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Helsinki will capture how the city is faring, and what changes are being wro…*
      
+  - European Commission to appeal decision that reversed Apple's $15B State Aid tax bill in Ireland
+      <hr/>
+      
+      - *It’s not over until it’s over for Apple and its ongoing tax headache in Europe. Today the European Commission announced that it plans to appeal the July 2020 ruling that overturned the original $15 billion fine that it leveled against Apple and Ireland over S…*
+      
   - Cambridge Analytica's former boss gets 7-year ban on being a business director
       <hr/>
       
@@ -73,16 +78,11 @@ The reason that we think computer science is about computers is pretty much the 
       <hr/>
       
       - *As U.S.-China relations remain tense, Southeast Asia becomes the darling for investors and tech companies from both sides as they seek overseas expansion. Behemoths like Google, Facebook, Alibaba, Tencent and ByteDance have elbowed into the region. Some set u…*
-      
+       
   - Indonesian cloud kitchen startup Yummy gets $12 million Series B led by SoftBank Ventures Asia
       <hr/>
-      
-      - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
        
-  - Google Meet and other Google services go down (Updated)
-      <hr/>
-       
-       - *Google’s engineers aren’t having a good day today. This afternoon, a number of Google services went offline or are barely reachable. These services include Google Meet, Drive, Docs, Analytics, Classroom and Calendar, for example. While Google’s own status das…*
+       - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
       
 
 <br />
