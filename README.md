@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Object-oriented design is the roman numerals of computing.
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 
-~ Rob Pike
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
