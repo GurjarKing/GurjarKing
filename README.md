@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 
-~ Ward Cunningham
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Putting a new feature into a program is important, but refactoring so new featur
 </pre>
 <strong>Daily News</strong>
   
-  - Anduril among companies tapped to build the Air Force's 'internet of things' for war
+  - The eSIM maker powering Xiaomi's IoT devices raises $15M
      <hr/>
      
-      - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
+      - *Connectivity is vital to a future managed and shaped by smart hardware, and Chinese startup Showmac Tech is proposing eSIMs as the infrastructure solution for seamless and stable communication between devices and the service providers behind. Xiaomi accepted …*
      
+  - Anduril among companies tapped to build the Air Force's 'internet of things' for war
+      <hr/>
+      
+      - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
+      
   - You can now return Apple’s Solo Loop for a new size, without sending back the Watch
       <hr/>
       
@@ -73,16 +78,11 @@ Putting a new feature into a program is important, but refactoring so new featur
       <hr/>
       
       - *Launch Center Pro, an iOS utility that offered widgets and custom icons long before they were allowed on the iPhone’s home screen, is bringing its design tools to iOS 14. The app aims to capitalize on the recent trend toward home screen personalization by off…*
-      
+       
   - Daily Crunch: Amazon unveils its own game-streaming platform
       <hr/>
-      
-      - *Amazon announces a new game service and plenty of hardware upgrades, tech companies team up against app stores and United Airlines tests a program for rapid COVID-19 testing. This is your Daily Crunch for September 24, 2020. The big story: Amazon unveils its …*
        
-  - Don't buy the hype: Free VPNs are bad for your privacy
-      <hr/>
-       
-       - *Many free VPNs promise to protect your privacy. Don't believe it.*
+       - *Amazon announces a new game service and plenty of hardware upgrades, tech companies team up against app stores and United Airlines tests a program for rapid COVID-19 testing. This is your Daily Crunch for September 24, 2020. The big story: Amazon unveils its …*
       
 
 <br />
