@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Software gets slower faster than hardware gets faster.
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 
-~ Niklaus Wirth
+~ John Carmack
 <pre>
 
 </pre>
