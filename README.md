@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 
-~ Fred Brooks
+~ Jeremy S. Anderson
 <pre>
 
 </pre>
