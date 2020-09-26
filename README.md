@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+Before software can be reusable it first has to be usable.
 
-~ Alan Kay
+~ Ralph Johnson (computer scientist)
 <pre>
 
 </pre>
