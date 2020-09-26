@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Before software can be reusable it first has to be usable.
+A language that doesn't affect the way you think about programming, is not worth knowing.
 
-~ Ralph Johnson (computer scientist)
+~ Alan Perlis
 <pre>
 
 </pre>
