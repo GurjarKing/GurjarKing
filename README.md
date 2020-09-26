@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 
-~ Jeremy S. Anderson
+~ Danny Hillis
 <pre>
 
 </pre>
