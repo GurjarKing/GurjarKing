@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Machines as simple as thermostats can be said to have beliefs.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 
-~ John McCarthy (computer scientist)
+~ Daniel T. Barry
 <pre>
 
 </pre>
