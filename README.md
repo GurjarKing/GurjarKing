@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+Every good work of software starts by scratching a developer’s personal itch.
 
-~ Daniel T. Barry
+~ Eric S. Raymond
 <pre>
 
 </pre>
