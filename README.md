@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-AI is a fundamental risk to the existence of human civilization.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ Elon Musk
+~ Fred Brooks
 <pre>
 
 </pre>
