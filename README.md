@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 
-~ Kent Beck
+~ Richard Hamming
 <pre>
 
 </pre>
