@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Beware of bugs in the above code; I have only proved it correct, not tried it.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
-~ Donald Knuth
+~ Alan Perlis
 <pre>
 
 </pre>
