@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 
-~ Tim Berners-Lee
+~ Kent Beck
 <pre>
 
 </pre>
