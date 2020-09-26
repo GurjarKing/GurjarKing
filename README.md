@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 
-~ Edsger W. Dijkstra
+~ Daniel T. Barry
 <pre>
 
 </pre>
