@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every good work of software starts by scratching a developer’s personal itch.
+The top 5% of programmers probably write 99% of the good software.
 
-~ Eric S. Raymond
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Every good work of software starts by scratching a developer’s personal itch.
 </pre>
 <strong>Daily News</strong>
   
-  - Postmates cuts losses in Q2 as it heads towards tie-up with Uber
+  - This Week in Apps: Redesigning the iOS 14 home screen, app makers form 'fairness' coalition, latest on TikTok ban
      <hr/>
      
-      - *Popular food delivery service Postmates is in the process of merging with Uber in a blockbuster $2.65 billion deal that would see it join forces with its food delivery competitor, Uber Eats. The deal remains under antitrust scrutiny, and has not yet been appr…*
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
      
+  - Postmates cuts losses in Q2 as it heads towards tie-up with Uber
+      <hr/>
+      
+      - *Popular food delivery service Postmates is in the process of merging with Uber in a blockbuster $2.65 billion deal that would see it join forces with its food delivery competitor, Uber Eats. The deal remains under antitrust scrutiny, and has not yet been appr…*
+      
   - Daily Crunch: Reviewing the new Apple Watch
       <hr/>
       
@@ -73,16 +78,11 @@ Every good work of software starts by scratching a developer’s personal itch.
       <hr/>
       
       - *The notion that Black people in America need to work twice as hard as others to succeed may be a depressing sentiment, but it has been deeply ingrained into the psyches of many African-Americans. At TechCrunch Disrupt, several Black founders spoke about some …*
-      
+       
   - NASA commissions report to show its economic impact: $64B and 312K jobs
       <hr/>
-      
-      - *Perhaps anticipating budget pushback from the federal government, NASA has released its first ever agency-wide economic report, documenting the agency’s impact on the nation’s jobs and cash flow. Everyone knew NASA was impactful, but now we know exactly how i…*
        
-  - 4 things to remember when adapting AI/ML learning models during a pandemic
-      <hr/>
-       
-       - *The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.*
+       - *Perhaps anticipating budget pushback from the federal government, NASA has released its first ever agency-wide economic report, documenting the agency’s impact on the nation’s jobs and cash flow. Everyone knew NASA was impactful, but now we know exactly how i…*
       
 
 <br />
