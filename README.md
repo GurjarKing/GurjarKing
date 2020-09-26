@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+Software gets slower faster than hardware gets faster.
 
-~ Alan Perlis
+~ Niklaus Wirth
 <pre>
 
 </pre>
