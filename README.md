@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A language that doesn't affect the way you think about programming, is not worth knowing.
+AI is a fundamental risk to the existence of human civilization.
 
-~ Alan Perlis
+~ Elon Musk
 <pre>
 
 </pre>
