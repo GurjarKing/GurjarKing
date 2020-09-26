@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 
-~ John Carmack
+~ Terry Winograd
 <pre>
 
 </pre>
