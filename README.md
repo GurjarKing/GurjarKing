@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 
-~ Danny Hillis
+~ Martin Fowler
 <pre>
 
 </pre>
