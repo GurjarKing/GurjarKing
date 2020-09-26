@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The top 5% of programmers probably write 99% of the good software.
+To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 
-~ Paul Graham (programmer)
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The top 5% of programmers probably write 99% of the good software.
 </pre>
 <strong>Daily News</strong>
   
-  - This Week in Apps: Redesigning the iOS 14 home screen, app makers form 'fairness' coalition, latest on TikTok ban
+  - Is your startup the next Tik Tok?
      <hr/>
      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. And I don’t mean building an app that gets the world addicted to short-form videos. I mean, where you build a hu…*
      
+  - This Week in Apps: Redesigning the iOS 14 home screen, app makers form 'fairness' coalition, latest on TikTok ban
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
   - Postmates cuts losses in Q2 as it heads towards tie-up with Uber
       <hr/>
       
@@ -73,16 +78,11 @@ The top 5% of programmers probably write 99% of the good software.
       <hr/>
       
       - *We’ve got an in-depth review of the Apple Watch Series 6, Apple gives Facebook a temporary break on App Store fees and Alexis Ohanian is raising a new fund. This is your Daily Crunch for September 25, 2020. The big story: Reviewing the new Apple Watch Brian H…*
-      
+       
   - Black founders face a unique set of challenges
       <hr/>
-      
-      - *The notion that Black people in America need to work twice as hard as others to succeed may be a depressing sentiment, but it has been deeply ingrained into the psyches of many African-Americans. At TechCrunch Disrupt, several Black founders spoke about some …*
        
-  - NASA commissions report to show its economic impact: $64B and 312K jobs
-      <hr/>
-       
-       - *Perhaps anticipating budget pushback from the federal government, NASA has released its first ever agency-wide economic report, documenting the agency’s impact on the nation’s jobs and cash flow. Everyone knew NASA was impactful, but now we know exactly how i…*
+       - *The notion that Black people in America need to work twice as hard as others to succeed may be a depressing sentiment, but it has been deeply ingrained into the psyches of many African-Americans. At TechCrunch Disrupt, several Black founders spoke about some …*
       
 
 <br />
