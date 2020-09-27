@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
 
-~ Alan Turing
+~ David Parnas
 <pre>
 
 </pre>
