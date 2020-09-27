@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+I'm not a great programmer; I'm just a good programmer with great habits.
 
-~ Leslie Lamport
+~ Kent Beck
 <pre>
 
 </pre>
