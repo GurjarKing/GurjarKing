@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 
-~ Tom DeMarco
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
