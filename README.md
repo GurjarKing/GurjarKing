@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Software gets slower faster than hardware gets faster.
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
 
-~ Niklaus Wirth
+~ Tom DeMarco
 <pre>
 
 </pre>
