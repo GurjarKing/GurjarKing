@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 
-~ Daniel T. Barry
+~ Alan Turing
 <pre>
 
 </pre>
