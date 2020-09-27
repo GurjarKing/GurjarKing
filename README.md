@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
-~ L. Peter Deutsch
+~ Douglas Crockford
 <pre>
 
 </pre>
