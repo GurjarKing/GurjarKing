@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+Once you stop learning you start dying.
 
-~ Danny Hillis
+~ Albert Einstein
 <pre>
 
 </pre>
