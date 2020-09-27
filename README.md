@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 
-~ David Parnas
+~ Harlan Mills
 <pre>
 
 </pre>
