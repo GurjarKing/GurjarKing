@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 
-~ Addy Osmani
+~ Tom Cargill
 <pre>
 
 </pre>
