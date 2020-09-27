@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 
-~ Marijn Haverbeke
+~ Richard Feynman
 <pre>
 
 </pre>
