@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+Within C++, there is a much smaller and cleaner language struggling to get out.
 
-~ Richard Feynman
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
