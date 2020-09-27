@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
-~ John von Neumann
+~ Alan Perlis
 <pre>
 
 </pre>
