@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 
-~ Alan Perlis
+~ Leslie Lamport
 <pre>
 
 </pre>
