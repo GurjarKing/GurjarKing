@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 
-~ Philip Greenspun
+~ Joshua Bloch
 <pre>
 
 </pre>
