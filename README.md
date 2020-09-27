@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Once you stop learning you start dying.
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 
-~ Albert Einstein
+~ Philip Greenspun
 <pre>
 
 </pre>
