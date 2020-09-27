@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+First do it, then do it right, then do it better.
 
-~ David Parnas
+~ Addy Osmani
 <pre>
 
 </pre>
