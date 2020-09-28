@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+In order to understand recursion, one must first understand recursion.
 
-~ Linus Torvalds
+~ Anonymous
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I'm doing a free operating system (just a hobby, won't be big and professional l
 </pre>
 <strong>Daily News</strong>
   
-  - Hear from Postmates, Refraction AI and FedEx about autonomous delivery at TC Sessions: Mobility 2020
+  - Get a free Extra Crunch membership when you buy TC Sessions: Mobility 2020 tickets
      <hr/>
      
-      - *Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery. But is the world —…*
+      - *TC Sessions: Mobility is coming up next week, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free annual membership to Extra Crunch, our membership program focused on startups, founders and…*
      
+  - Hear from Postmates, Refraction AI and FedEx about autonomous delivery at TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery. But is the world —…*
+      
   - Cannabis vape companies experiencing sales boom during pandemic
       <hr/>
       
@@ -73,16 +78,11 @@ I'm doing a free operating system (just a hobby, won't be big and professional l
       <hr/>
       
       - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
-      
+       
   - N26 hires Adrienne Gormley as its new Chief Operating Officer
       <hr/>
-      
-      - *Fintech startup N26 is announcing some changes in the leadership team with two new C-Level hires. First, Adrienne Gormley, pictured above, is joining the company as Chief Operating Officer, replacing Martin Schilling who left the company in March 2020. Second…*
        
-  - Google Play to better enforce in-app purchase policies, ease use of third-party Android app stores
-      <hr/>
-       
-       - *Under threat of regulation, Google announced today it’s updating its Google Play billing policies to better clarify which types of transactions will be subject to Google’s commissions on in-app purchases. While the more detailed language doesn’t actually chan…*
+       - *Fintech startup N26 is announcing some changes in the leadership team with two new C-Level hires. First, Adrienne Gormley, pictured above, is joining the company as Chief Operating Officer, replacing Martin Schilling who left the company in March 2020. Second…*
       
 
 <br />
