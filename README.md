@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-AI is a fundamental risk to the existence of human civilization.
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 
-~ Elon Musk
+~ Daniel T. Barry
 <pre>
 
 </pre>
