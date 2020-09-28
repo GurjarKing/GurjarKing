@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
+AI is a fundamental risk to the existence of human civilization.
 
-~ Vannevar Bush
+~ Elon Musk
 <pre>
 
 </pre>
