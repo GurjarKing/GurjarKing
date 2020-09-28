@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Life is too short to run proprietary software.
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 
-~ Bdale Garbee
+~ Richard Hamming
 <pre>
 
 </pre>
