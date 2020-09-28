@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best minds of my generation are thinking about how to make people click ads.
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
 
-~ Jeff Hammerbacher
+~ Vannevar Bush
 <pre>
 
 </pre>
