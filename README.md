@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Cool URIs don't change.
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 
-~ Tim Berners-Lee
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Cool URIs don't change.
 </pre>
 <strong>Daily News</strong>
   
-  - Cannabis vape companies experiencing sales boom during pandemic
+  - Hear from Postmates, Refraction AI and FedEx about autonomous delivery at TC Sessions: Mobility 2020
      <hr/>
      
-      - *The global pandemic is driving interest towards cannabis, and device makers are recording record sales. From startups to major players, several leading manufacturers told TechCrunch that their companies are seeing a boom in sales since the start of the crisis…*
+      - *Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery. But is the world —…*
      
+  - Cannabis vape companies experiencing sales boom during pandemic
+      <hr/>
+      
+      - *The global pandemic is driving interest towards cannabis, and device makers are recording record sales. From startups to major players, several leading manufacturers told TechCrunch that their companies are seeing a boom in sales since the start of the crisis…*
+      
   - Deep Science: Robot perception, acoustic monitoring, using ML to detect arthritis
       <hr/>
       
@@ -73,16 +78,11 @@ Cool URIs don't change.
       <hr/>
       
       - *Fintech startup N26 is announcing some changes in the leadership team with two new C-Level hires. First, Adrienne Gormley, pictured above, is joining the company as Chief Operating Officer, replacing Martin Schilling who left the company in March 2020. Second…*
-      
+       
   - Google Play to better enforce in-app purchase policies, ease use of third-party Android app stores
       <hr/>
-      
-      - *Under threat of regulation, Google announced today it’s updating its Google Play billing policies to better clarify which types of transactions will be subject to Google’s commissions on in-app purchases. While the more detailed language doesn’t actually chan…*
        
-  - GV bets on young team behind high school social app HAGS
-      <hr/>
-       
-       - *As high schools pivot to hybrid models and students see less in-person face time with friends, the current social app sphere seems to be missing a way to build deeper bonds with classmates. HAGS is building a social network designed around high school network…*
+       - *Under threat of regulation, Google announced today it’s updating its Google Play billing policies to better clarify which types of transactions will be subject to Google’s commissions on in-app purchases. While the more detailed language doesn’t actually chan…*
       
 
 <br />
