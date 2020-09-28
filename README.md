@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 
 ~ Donald Knuth
 <pre>
@@ -59,30 +59,30 @@ By understanding a machine-oriented language, the programmer will tend to use a 
 </pre>
 <strong>Daily News</strong>
   
-  - Healthcare giant UHS hit by ransomware attack, sources say
+  - A quarter of US adults now get news from YouTube, Pew Research study finds
      <hr/>
      
-      - *Sources say the Ryuk ransomware is to blame.*
+      - *Around a quarter of U.S. adults, or roughly 26%, say they get news by watching YouTube videos, according to a new study from Pew Research Center, which examined the Google-owned video platform’s growing influence over news distribution in the U.S., as well as…*
      
+  - One week until we discover the future of transportation at TC Sessions: Mobility
+      <hr/>
+      
+      - *Were you Born to be Wild? Then get your electric motor running, head out on the virtual highway to look for adventure, because we’re just one week away from TC Sessions: Mobility 2020. Join thousands of global attendees October 6-7 for two programming-packed …*
+      
+  - Mental health startup eQuoo will be distributed by Unilever in new global youth campaign
+      <hr/>
+      
+      - *Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany, as a client. It’s now been selected …*
+      
+  - Healthcare giant UHS hit by ransomware attack, sources say
+      <hr/>
+      
+      - *Sources say the Ryuk ransomware is to blame.*
+       
   - Adobe beefs up developer tools to make it easer to build apps on Experience Cloud
       <hr/>
-      
-      - *Adobe has had a developer program for years called Adobe.io, but today at the Adobe Developers Live virtual conference, the company announced some new tools with a fresh emphasis on helping developers build custom apps on the Adobe Experience Cloud. Jason Woo…*
-      
-  - SoftBank will bring Bear’s serving robots to Japan, amid restaurant labor shortages
-      <hr/>
-      
-      - *SoftBank has been quite bullish on Bear Robotics this year, beginning with leadership in a $32 million Series A back in January. It’s easy to see why the investment firm believes that this is the breakthrough moment for the Bay Area-based startup, as the COVI…*
-      
-  - Watch SpaceX launch 60 more Starlink satellites for its broadband internet service
-      <hr/>
-      
-      - *SpaceX is launching 60 additional satellites to join the over 500 already on orbit as part of its Starlink global broadband internet constellation. The launch is set to take off at 10:22 AM EDT (7:22 AM PDT) and will fly from Kennedy Space Center in Florida. …*
        
-  - Calling VCs in Rome and Milan: Be featured in The Great TechCrunch Survey of European VC
-      <hr/>
-       
-       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Rome and Milan will capture how the cities are faring, and what changes are …*
+       - *Adobe has had a developer program for years called Adobe.io, but today at the Adobe Developers Live virtual conference, the company announced some new tools with a fresh emphasis on helping developers build custom apps on the Adobe Experience Cloud. Jason Woo…*
       
 
 <br />
