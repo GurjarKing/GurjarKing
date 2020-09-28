@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+If we’d asked the customers what they wanted, they would have said “faster horses”.
 
-~ Daniel T. Barry
+~ Henry Ford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
 </pre>
 <strong>Daily News</strong>
   
-  - Klaxoon launches Board, an interactive meeting product for video calls
+  - Roku introduces a new Ultra player, a 2-in-1 'Streambar,' and a new OS with support for AirPlay 2
      <hr/>
      
-      - *A few weeks after teasing its new product, French startup Klaxoon is launching Board, a visual interface that lets you work together during a video call. Instead of staring at other people’s faces, you get a shared canvas that you can use for presentations an…*
+      - *Streaming media device maker Roku is updating its lineup in advance of the holiday season with the addition of two new products: a redesigned version of its high-end Roku Ultra which, for the first time, adds Dolby Vision support as well as Bluetooth. The com…*
      
+  - Skydio partners with EagleView for autonomous residential roof inspections via drone
+      <hr/>
+      
+      - *Skydio only just recently announced its expansion into the enterprise and commercial market with hardware and software tools for its autonomous drone technology, and now it’s taking the lid off a brand new big partnership with one commercial partner. Skydio w…*
+      
+  - Klaxoon launches Board, an interactive meeting product for video calls
+      <hr/>
+      
+      - *A few weeks after teasing its new product, French startup Klaxoon is launching Board, a visual interface that lets you work together during a video call. Instead of staring at other people’s faces, you get a shared canvas that you can use for presentations an…*
+      
   - Amazon's Prime Day mega sale event will take place October 13-14
       <hr/>
       
       - *Holiday shopping season is getting a big head start this year. Amazon today announced that it will hold Prime Day — its annual mega global sale event on a big range of items, including toys, TVs, electronics, fashion, beauty, kitchen, home, and Amazon Devices…*
-      
+       
   - Uber wins latest London licence appeal
       <hr/>
-      
-      - *Uber has won its appeal against having its licence to operate withdrawn in London. In today’s judgement the court decided it was satisfied with process improvements made by the ride-hailing company, including around its communication with the city’s transport…*
-      
-  - Noyo raises $12.5M Series A to keep building its health insurance API business
-      <hr/>
-      
-      - *This morning, Noyo, a startup that provides APIs that link players in the health insurance space, announced that it has closed a $12.5 million Series A round of funding.  The new capital comes less than a year after the startup disclosed that it had raised ar…*
        
-  - Philippines payment processing startup PayMongo lands $12 million Series A led by Stripe
-      <hr/>
-       
-       - *Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to …*
+       - *Uber has won its appeal against having its licence to operate withdrawn in London. In today’s judgement the court decided it was satisfied with process improvements made by the ride-hailing company, including around its communication with the city’s transport…*
       
 
 <br />
