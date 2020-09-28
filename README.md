@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+What is simplicity? Simplicity is the shortest path to a solution.
 
-~ Donald Knuth
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
 </pre>
 <strong>Daily News</strong>
   
-  - A quarter of US adults now get news from YouTube, Pew Research study finds
+  - N26 hires Adrienne Gormley as its new Chief Operating Officer
      <hr/>
      
-      - *Around a quarter of U.S. adults, or roughly 26%, say they get news by watching YouTube videos, according to a new study from Pew Research Center, which examined the Google-owned video platform’s growing influence over news distribution in the U.S., as well as…*
+      - *Fintech startup N26 is announcing some changes in the leadership team with two new C-Level hires. First, Adrienne Gormley, pictured above, is joining the company as Chief Operating Officer, replacing Martin Schilling who left the company in March 2020. Second…*
      
-  - One week until we discover the future of transportation at TC Sessions: Mobility
+  - Google Play to better enforce in-app purchase policies, ease use of third-party Android app stores
       <hr/>
       
-      - *Were you Born to be Wild? Then get your electric motor running, head out on the virtual highway to look for adventure, because we’re just one week away from TC Sessions: Mobility 2020. Join thousands of global attendees October 6-7 for two programming-packed …*
+      - *Under threat of regulation, Google announced today it’s updating its Google Play billing policies to better clarify which types of transactions will be subject to Google’s commissions on in-app purchases. While the more detailed language doesn’t actually chan…*
       
-  - Mental health startup eQuoo will be distributed by Unilever in new global youth campaign
+  - GV bets on young team behind high school social app HAGS
       <hr/>
       
-      - *Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany, as a client. It’s now been selected …*
+      - *As high schools pivot to hybrid models and students see less in-person face time with friends, the current social app sphere seems to be missing a way to build deeper bonds with classmates. HAGS is building a social network designed around high school network…*
       
-  - Healthcare giant UHS hit by ransomware attack, sources say
+  - 2 strategies for creating top-of-funnel marketing content
       <hr/>
       
-      - *Sources say the Ryuk ransomware is to blame.*
+      - *Utilizing content marketing and digital PR can make huge strides in getting your brand name out there.*
        
-  - Adobe beefs up developer tools to make it easer to build apps on Experience Cloud
+  - A quarter of US adults now get news from YouTube, Pew Research study finds
       <hr/>
        
-       - *Adobe has had a developer program for years called Adobe.io, but today at the Adobe Developers Live virtual conference, the company announced some new tools with a fresh emphasis on helping developers build custom apps on the Adobe Experience Cloud. Jason Woo…*
+       - *Around a quarter of U.S. adults, or roughly 26%, say they get news by watching YouTube videos, according to a new study from Pew Research Center, which examined the Google-owned video platform’s growing influence over news distribution in the U.S., as well as…*
       
 
 <br />
