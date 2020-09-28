@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-You can’t trust code that you did not totally create yourself.
+Life is too short to run proprietary software.
 
-~ Ken Thompson
+~ Bdale Garbee
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ You can’t trust code that you did not totally create yourself.
 </pre>
 <strong>Daily News</strong>
   
-  - Trump administration’s TikTok ban has been delayed, court rules
+  - Philippines payment processing startup PayMongo lands $12 million Series A led by Stripe
      <hr/>
      
-      - *A U.S. federal court has said a ban on TikTok will not go into effect on Monday as scheduled. The move to delay the anticipated ban will allow Americans to continue using the app while the court considers the ban’s legality and whether the app poses a risk to…*
+      - *Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to …*
      
+  - Trump administration’s TikTok ban has been delayed, court rules
+      <hr/>
+      
+      - *A U.S. federal court has said a ban on TikTok will not go into effect on Monday as scheduled. The move to delay the anticipated ban will allow Americans to continue using the app while the court considers the ban’s legality and whether the app poses a risk to…*
+      
   - This is how police request customer data from Amazon
       <hr/>
       
@@ -73,16 +78,11 @@ You can’t trust code that you did not totally create yourself.
       <hr/>
       
       - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. And I don’t mean building an app that gets the world addicted to short-form videos. I mean, where you build a hu…*
-      
+       
   - This Week in Apps: Redesigning the iOS 14 home screen, app makers form 'fairness' coalition, latest on TikTok ban
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
        
-  - Postmates cuts losses in Q2 as it heads towards tie-up with Uber
-      <hr/>
-       
-       - *Popular food delivery service Postmates is in the process of merging with Uber in a blockbuster $2.65 billion deal that would see it join forces with its food delivery competitor, Uber Eats. The deal remains under antitrust scrutiny, and has not yet been appr…*
+       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
       
 
 <br />
