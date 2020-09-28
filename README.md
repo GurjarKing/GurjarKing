@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 
-~ Richard Hamming
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Any unwillingness to learn mathematics today can greatly restrict your possibili
 </pre>
 <strong>Daily News</strong>
   
-  - Equity Monday: Palantir might have a very eventful hump day
+  - Healthcare giant UHS hit by ransomware attack, sources say
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Sources say the Ryuk ransomware is to blame.*
      
-  - Tech giants are ignoring questions over the legality of their EU-US data transfers
+  - Adobe beefs up developer tools to make it easer to build apps on Experience Cloud
       <hr/>
       
-      - *A survey of responses from more than 30 companies to questions about how they’re approaching EU-US data transfers in the wake of a landmark ruling (aka Schrems II) by Europe’s top court in July, which struck down the flagship Privacy Shield over US surveillan…*
+      - *Adobe has had a developer program for years called Adobe.io, but today at the Adobe Developers Live virtual conference, the company announced some new tools with a fresh emphasis on helping developers build custom apps on the Adobe Experience Cloud. Jason Woo…*
       
-  - Roku introduces a new Ultra player, a 2-in-1 'Streambar,' and a new OS with support for AirPlay 2
+  - SoftBank will bring Bear’s serving robots to Japan, amid restaurant labor shortages
       <hr/>
       
-      - *Streaming media device maker Roku is updating its lineup in advance of the holiday season with the addition of two new products: a redesigned version of its high-end Roku Ultra which, for the first time, adds Dolby Vision support as well as Bluetooth. The com…*
+      - *SoftBank has been quite bullish on Bear Robotics this year, beginning with leadership in a $32 million Series A back in January. It’s easy to see why the investment firm believes that this is the breakthrough moment for the Bay Area-based startup, as the COVI…*
       
-  - Skydio partners with EagleView for autonomous residential roof inspections via drone
+  - Watch SpaceX launch 60 more Starlink satellites for its broadband internet service
       <hr/>
       
-      - *Skydio only just recently announced its expansion into the enterprise and commercial market with hardware and software tools for its autonomous drone technology, and now it’s taking the lid off a brand new big partnership with one commercial partner. Skydio w…*
+      - *SpaceX is launching 60 additional satellites to join the over 500 already on orbit as part of its Starlink global broadband internet constellation. The launch is set to take off at 10:22 AM EDT (7:22 AM PDT) and will fly from Kennedy Space Center in Florida. …*
        
-  - Klaxoon launches Board, an interactive meeting product for video calls
+  - Calling VCs in Rome and Milan: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
        
-       - *A few weeks after teasing its new product, French startup Klaxoon is launching Board, a visual interface that lets you work together during a video call. Instead of staring at other people’s faces, you get a shared canvas that you can use for presentations an…*
+       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Rome and Milan will capture how the cities are faring, and what changes are …*
       
 
 <br />
