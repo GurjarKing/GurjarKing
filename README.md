@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+Within C++, there is a much smaller and cleaner language struggling to get out.
 
-~ David Parnas
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
