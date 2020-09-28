@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+The best minds of my generation are thinking about how to make people click ads.
 
-~ Randall E. Stross
+~ Jeff Hammerbacher
 <pre>
 
 </pre>
