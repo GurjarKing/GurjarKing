@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+Everything should be made as simple as possible. But to do that you have to master complexity.
 
-~ Daniel T. Barry
+~ Butler Lampson
 <pre>
 
 </pre>
