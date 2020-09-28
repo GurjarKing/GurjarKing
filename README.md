@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If Microsoft ever does applications for Linux it means I've won.
+Cool URIs don't change.
 
-~ Linus Torvalds
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If Microsoft ever does applications for Linux it means I've won.
 </pre>
 <strong>Daily News</strong>
   
-  - N26 hires Adrienne Gormley as its new Chief Operating Officer
+  - Cannabis vape companies experiencing sales boom during pandemic
      <hr/>
      
-      - *Fintech startup N26 is announcing some changes in the leadership team with two new C-Level hires. First, Adrienne Gormley, pictured above, is joining the company as Chief Operating Officer, replacing Martin Schilling who left the company in March 2020. Second…*
+      - *The global pandemic is driving interest towards cannabis, and device makers are recording record sales. From startups to major players, several leading manufacturers told TechCrunch that their companies are seeing a boom in sales since the start of the crisis…*
      
+  - Deep Science: Robot perception, acoustic monitoring, using ML to detect arthritis
+      <hr/>
+      
+      - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
+      
+  - N26 hires Adrienne Gormley as its new Chief Operating Officer
+      <hr/>
+      
+      - *Fintech startup N26 is announcing some changes in the leadership team with two new C-Level hires. First, Adrienne Gormley, pictured above, is joining the company as Chief Operating Officer, replacing Martin Schilling who left the company in March 2020. Second…*
+      
   - Google Play to better enforce in-app purchase policies, ease use of third-party Android app stores
       <hr/>
       
       - *Under threat of regulation, Google announced today it’s updating its Google Play billing policies to better clarify which types of transactions will be subject to Google’s commissions on in-app purchases. While the more detailed language doesn’t actually chan…*
-      
+       
   - GV bets on young team behind high school social app HAGS
       <hr/>
-      
-      - *As high schools pivot to hybrid models and students see less in-person face time with friends, the current social app sphere seems to be missing a way to build deeper bonds with classmates. HAGS is building a social network designed around high school network…*
-      
-  - 2 strategies for creating top-of-funnel marketing content
-      <hr/>
-      
-      - *Utilizing content marketing and digital PR can make huge strides in getting your brand name out there.*
        
-  - A quarter of US adults now get news from YouTube, Pew Research study finds
-      <hr/>
-       
-       - *Around a quarter of U.S. adults, or roughly 26%, say they get news by watching YouTube videos, according to a new study from Pew Research Center, which examined the Google-owned video platform’s growing influence over news distribution in the U.S., as well as…*
+       - *As high schools pivot to hybrid models and students see less in-person face time with friends, the current social app sphere seems to be missing a way to build deeper bonds with classmates. HAGS is building a social network designed around high school network…*
       
 
 <br />
