@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 
-~ Henry Ford
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If we’d asked the customers what they wanted, they would have said “faster h
 </pre>
 <strong>Daily News</strong>
   
-  - Roku introduces a new Ultra player, a 2-in-1 'Streambar,' and a new OS with support for AirPlay 2
+  - Equity Monday: Palantir might have a very eventful hump day
      <hr/>
      
-      - *Streaming media device maker Roku is updating its lineup in advance of the holiday season with the addition of two new products: a redesigned version of its high-end Roku Ultra which, for the first time, adds Dolby Vision support as well as Bluetooth. The com…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
      
+  - Tech giants are ignoring questions over the legality of their EU-US data transfers
+      <hr/>
+      
+      - *A survey of responses from more than 30 companies to questions about how they’re approaching EU-US data transfers in the wake of a landmark ruling (aka Schrems II) by Europe’s top court in July, which struck down the flagship Privacy Shield over US surveillan…*
+      
+  - Roku introduces a new Ultra player, a 2-in-1 'Streambar,' and a new OS with support for AirPlay 2
+      <hr/>
+      
+      - *Streaming media device maker Roku is updating its lineup in advance of the holiday season with the addition of two new products: a redesigned version of its high-end Roku Ultra which, for the first time, adds Dolby Vision support as well as Bluetooth. The com…*
+      
   - Skydio partners with EagleView for autonomous residential roof inspections via drone
       <hr/>
       
       - *Skydio only just recently announced its expansion into the enterprise and commercial market with hardware and software tools for its autonomous drone technology, and now it’s taking the lid off a brand new big partnership with one commercial partner. Skydio w…*
-      
+       
   - Klaxoon launches Board, an interactive meeting product for video calls
       <hr/>
-      
-      - *A few weeks after teasing its new product, French startup Klaxoon is launching Board, a visual interface that lets you work together during a video call. Instead of staring at other people’s faces, you get a shared canvas that you can use for presentations an…*
-      
-  - Amazon's Prime Day mega sale event will take place October 13-14
-      <hr/>
-      
-      - *Holiday shopping season is getting a big head start this year. Amazon today announced that it will hold Prime Day — its annual mega global sale event on a big range of items, including toys, TVs, electronics, fashion, beauty, kitchen, home, and Amazon Devices…*
        
-  - Uber wins latest London licence appeal
-      <hr/>
-       
-       - *Uber has won its appeal against having its licence to operate withdrawn in London. In today’s judgement the court decided it was satisfied with process improvements made by the ride-hailing company, including around its communication with the city’s transport…*
+       - *A few weeks after teasing its new product, French startup Klaxoon is launching Board, a visual interface that lets you work together during a video call. Instead of staring at other people’s faces, you get a shared canvas that you can use for presentations an…*
       
 
 <br />
