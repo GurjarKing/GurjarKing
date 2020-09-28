@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+If Microsoft ever does applications for Linux it means I've won.
 
-~ Ward Cunningham
+~ Linus Torvalds
 <pre>
 
 </pre>
