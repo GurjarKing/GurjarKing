@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
 
-~ Richard Hamming
+~ Daniel T. Barry
 <pre>
 
 </pre>
