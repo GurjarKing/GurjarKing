@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+You can’t trust code that you did not totally create yourself.
 
-~ Joseph Yoder (computer scientist)
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Managing a large project is a qualitatively different problem from managing a sm
 </pre>
 <strong>Daily News</strong>
   
-  - This is how police request customer data from Amazon
+  - Trump administration’s TikTok ban has been delayed, court rules
      <hr/>
      
-      - *Anyone can access portions of a web portal, used by law enforcement to request customer data from Amazon, even though the portal is supposed to require a verified email address and password. Amazon’s law enforcement request portal allows police and federal ag…*
+      - *A U.S. federal court has said a ban on TikTok will not go into effect on Monday as scheduled. The move to delay the anticipated ban will allow Americans to continue using the app while the court considers the ban’s legality and whether the app poses a risk to…*
      
+  - This is how police request customer data from Amazon
+      <hr/>
+      
+      - *Anyone can access portions of a web portal, used by law enforcement to request customer data from Amazon, even though the portal is supposed to require a verified email address and password. Amazon’s law enforcement request portal allows police and federal ag…*
+      
   - Is your startup the next Tik Tok?
       <hr/>
       
@@ -73,16 +78,11 @@ Managing a large project is a qualitatively different problem from managing a sm
       <hr/>
       
       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
+       
   - Postmates cuts losses in Q2 as it heads towards tie-up with Uber
       <hr/>
-      
-      - *Popular food delivery service Postmates is in the process of merging with Uber in a blockbuster $2.65 billion deal that would see it join forces with its food delivery competitor, Uber Eats. The deal remains under antitrust scrutiny, and has not yet been appr…*
        
-  - Daily Crunch: Reviewing the new Apple Watch
-      <hr/>
-       
-       - *We’ve got an in-depth review of the Apple Watch Series 6, Apple gives Facebook a temporary break on App Store fees and Alexis Ohanian is raising a new fund. This is your Daily Crunch for September 25, 2020. The big story: Reviewing the new Apple Watch Brian H…*
+       - *Popular food delivery service Postmates is in the process of merging with Uber in a blockbuster $2.65 billion deal that would see it join forces with its food delivery competitor, Uber Eats. The deal remains under antitrust scrutiny, and has not yet been appr…*
       
 
 <br />
