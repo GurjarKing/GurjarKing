@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Within C++, there is a much smaller and cleaner language struggling to get out.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Bjarne Stroustrup
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Within C++, there is a much smaller and cleaner language struggling to get out.
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon's Prime Day mega sale event will take place October 13-14
+  - Klaxoon launches Board, an interactive meeting product for video calls
      <hr/>
      
-      - *Holiday shopping season is getting a big head start this year. Amazon today announced that it will hold Prime Day — its annual mega global sale event on a big range of items, including toys, TVs, electronics, fashion, beauty, kitchen, home, and Amazon Devices…*
+      - *A few weeks after teasing its new product, French startup Klaxoon is launching Board, a visual interface that lets you work together during a video call. Instead of staring at other people’s faces, you get a shared canvas that you can use for presentations an…*
      
+  - Amazon's Prime Day mega sale event will take place October 13-14
+      <hr/>
+      
+      - *Holiday shopping season is getting a big head start this year. Amazon today announced that it will hold Prime Day — its annual mega global sale event on a big range of items, including toys, TVs, electronics, fashion, beauty, kitchen, home, and Amazon Devices…*
+      
   - Uber wins latest London licence appeal
       <hr/>
       
@@ -73,16 +78,11 @@ Within C++, there is a much smaller and cleaner language struggling to get out.
       <hr/>
       
       - *This morning, Noyo, a startup that provides APIs that link players in the health insurance space, announced that it has closed a $12.5 million Series A round of funding.  The new capital comes less than a year after the startup disclosed that it had raised ar…*
-      
+       
   - Philippines payment processing startup PayMongo lands $12 million Series A led by Stripe
       <hr/>
-      
-      - *Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to …*
        
-  - Trump administration’s TikTok ban has been delayed, court rules
-      <hr/>
-       
-       - *A U.S. federal court has said a ban on TikTok will not go into effect on Monday as scheduled. The move to delay the anticipated ban will allow Americans to continue using the app while the court considers the ban’s legality and whether the app poses a risk to…*
+       - *Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to …*
       
 
 <br />
