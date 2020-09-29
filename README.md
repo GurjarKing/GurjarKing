@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
 
-~ George Boole
+~ John Carmack
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ No matter how correct a mathematical theorem may appear to be, one ought never t
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon introduces the Amazon One, a way to pay with your palm when entering stores
+  - TikTok launches a U.S. elections guide in its app
      <hr/>
      
-      - *In the middle of a pandemic when customers are often wearing plastic gloves to stores alongside their face masks, Amazon’s physical retail team is introducing a new biometric device that will allow shoppers to pay at Amazon Go stores using their palm. The com…*
+      - *Though TikTok is in the middle of fighting off the Trump administration’s attempt to ban its app in the U.S. over data privacy concerns, the company today is launching a new feature focused on the 2020 U.S. elections. TikTok announced this morning it’s introd…*
      
-  - Rally raises $17M to expand a platform that lets you invest in (but not buy) collectibles
+  - Extra Crunch Live: Join us today at 2pm EDT / 11am PDT to discuss the future of startup investing with Index Ventures VCs Nina Achadjian and Sarah Cannon
       <hr/>
       
-      - *When people ponder the investment opportunity around collectibles, they probably think about things like wine auctions, sales of very expensive, old cars or baseball cards, or maybe a pocket watch that made an unlikely appearance on an antiques TV show, hopin…*
+      - *The venture capital world is rapidly changing, and thank heavens we have two of the smartest VCs on the future of investing, productivity tools, and remote work joining us today to make sense of all the noise. On Extra Crunch Live today, Sarah Cannon and Nina…*
       
-  - Businesses reducing trash and plastic consumption are beginning to look like treasure to some VCs
+  - Datasaur snags $3.9M investment to build intelligent machine learning labeling platform
       <hr/>
       
-      - *Zuleyka Strasner didn’t set out to become an advocate for zero-waste consumption. The former manager of partner operations at Felicis Ventures had initially pursued a career in politics in the UK before a move to San Francisco with her husband. It was on thei…*
+      - *As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch, announced a $3.9 million investment today…*
       
-  - New program wants to be the Y Combinator for emerging fund managers
+  - D-Wave launches its 5,000+ qubit Advantage system
       <hr/>
       
-      - *Rolling funds, the rise of solo capitalists, crowd syndicates, and team-based seed funds all scream one thing in unison: venture capital is growing and getting unbundled at the same time. While the asset class remains largely exclusive and skewed white and ma…*
+      - *D-Wave today announced the launch of its new Advantage quantum computers. These new systems, with over 5,000 qubits and 15-way qubit connectivity, are now available in the company’s Leap cloud computing platform. That’s up from about 2,000 qubits in the previ…*
        
-  - Axis Security raises $32M to help companies stay secure while working from home
+  - Google offers Europe more checks Fitbit data won't be used for ads
       <hr/>
        
-       - *Axis Security launched last year with the idea of helping customers to enable contractors and third parties to remotely access a company’s systems in a safe way, but when the pandemic hit, they saw another use case, one which had been on their road map: helpi…*
+       - *Google has offered a second round of concessions to try to persuade European regulators to clear its acquisition of wearables maker Fitbit . The deal has been stalled by concerns over its impact on consumer privacy and competition in the wearables market. Las…*
       
 
 <br />
