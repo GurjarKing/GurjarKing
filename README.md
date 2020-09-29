@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
 
-~ Alan Perlis
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If you have a procedure with 10 parameters, you probably missed some.
 </pre>
 <strong>Daily News</strong>
   
-  - Exotec raises $90 million for its warehouse robots
+  - Russian surveillance tech startup NtechLab nets $13M from sovereign wealth funds
      <hr/>
      
-      - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
+      - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
      
+  - Exotec raises $90 million for its warehouse robots
+      <hr/>
+      
+      - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
+      
   - XtalPi lands massive $319M SoftBank-led round C to continue its high-tech drug discovery
       <hr/>
       
@@ -73,16 +78,11 @@ If you have a procedure with 10 parameters, you probably missed some.
       <hr/>
       
       - *A month after completing Y Combinator’s accelerator program, BukuWarung, an financial tech startup that serves small businesses in Indonesia, announced it has raised new funding from a roster of high-profile investors, including partners of DST Global, Soma C…*
-      
+       
   - Microsoft outage leaves users unable to access Office, Outlook, Teams
       <hr/>
-      
-      - *Users are unable to login to several Microsoft services.*
        
-  - Gillmor Gang: Over 2 U
-      <hr/>
-       
-       - *The pandemic shook up our and virtually every other video news production process as Zoom became the focus of our daily lives; slowly but surely we’ve altered the production process to reflect Zoom’s easy on boarding and semi-casual approach to virtualized me…*
+       - *Users are unable to login to several Microsoft services.*
       
 
 <br />
