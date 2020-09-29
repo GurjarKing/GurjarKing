@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+I'm not a great programmer; I'm just a good programmer with great habits.
 
-~ Daniel T. Barry
+~ Kent Beck
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A team of highly competent programmers who are also highly territorial, egotisti
 </pre>
 <strong>Daily News</strong>
   
-  - Self-cleaning water bottle company LARQ raises a $10M Series A
+  - Trym raises $3.1M seed to grow its cannabis cultivation platform
      <hr/>
      
-      - *After launching its first bottle in 2018, LARQ has drummed up a good deal of interest among consumers looking for ways to wean themselves off of plastic bottles. Last year alone, the Bay Area-based startup managed to sell 75,000 bottles, with help from retail…*
+      - *Commercial cannabis operations often rely on software platforms to track and forecast crops from seed to sale. Trym today is announcing a large $3.1M seed round that will help the company expand its software offering. Trym’s solution offers commercial growers…*
      
+  - Self-cleaning water bottle company LARQ raises a $10M Series A
+      <hr/>
+      
+      - *After launching its first bottle in 2018, LARQ has drummed up a good deal of interest among consumers looking for ways to wean themselves off of plastic bottles. Last year alone, the Bay Area-based startup managed to sell 75,000 bottles, with help from retail…*
+      
   - PayCargo raises $35M from Insight for its cloud-based platform targeting the freight industry
       <hr/>
       
@@ -73,16 +78,11 @@ A team of highly competent programmers who are also highly territorial, egotisti
       <hr/>
       
       - *Bitpanda, a crypto assets platform, has closed a $52 million Series A funding round form Valar Ventures, a venture capital firm backed by Peter Thiel. Vienna-based VC Speedinvest also participated, alongside other unnamed investors. Claiming 1.3 million users…*
-      
+       
   - Online course platform Thinkific raises $22M
       <hr/>
-      
-      - *It’s been a big year for online learning companies — and it sounds like Thinkific is no exception. The Vancouver-based startup is announcing that it has raised $22 million in new funding. Thinkific different from businesses like MasterClass (which raised $100…*
        
-  - Huboo, the 'full stack' fulfilment provider, picks up £14M Series A
-      <hr/>
-       
-       - *Huboo, the U.K.-headquartered startup that offers an end-to-end fulfilment service for online retailers of all sizes, has raised £14 million in Series A funding. The round is led by Stride.VC, with participation from Hearst Ventures. Existing investors, inclu…*
+       - *It’s been a big year for online learning companies — and it sounds like Thinkific is no exception. The Vancouver-based startup is announcing that it has raised $22 million in new funding. Thinkific different from businesses like MasterClass (which raised $100…*
       
 
 <br />
