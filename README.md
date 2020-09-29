@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 
 ~ Daniel T. Barry
 <pre>
@@ -59,30 +59,30 @@ Reliable computations are obtainable from buggy programs, which after all, are t
 </pre>
 <strong>Daily News</strong>
   
-  - Multis is a business bank account for cryptocurrencies
+  - Huboo, the 'full stack' fulfilment provider, picks up £14M Series A
      <hr/>
      
-      - *Meet Multis, a French startup that is building business bank accounts, except that it lets you store, send and receive cryptocurrencies. The startup just raised a $2.2 million seed round. Investors in today’s funding round include White Star Capital, Y Combin…*
+      - *Huboo, the U.K.-headquartered startup that offers an end-to-end fulfilment service for online retailers of all sizes, has raised £14 million in Series A funding. The round is led by Stride.VC, with participation from Hearst Ventures. Existing investors, inclu…*
      
+  - Travel activities platform KKDay raises $75 million Series C as it focuses on "staycations"
+      <hr/>
+      
+      - *With lockdowns around the world, the COVID-19 pandemic has hit the travel industry especially hard. In Asia, however, several startups are adapting by focusing on domestic activities (or “staycations”) instead of international travel. They include Taipei-base…*
+      
+  - Multis is a business bank account for cryptocurrencies
+      <hr/>
+      
+      - *Meet Multis, a French startup that is building business bank accounts, except that it lets you store, send and receive cryptocurrencies. The startup just raised a $2.2 million seed round. Investors in today’s funding round include White Star Capital, Y Combin…*
+      
   - Russian surveillance tech startup NtechLab nets $13M from sovereign wealth funds
       <hr/>
       
       - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
-      
+       
   - Exotec raises $90 million for its warehouse robots
       <hr/>
-      
-      - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
-      
-  - XtalPi lands massive $319M SoftBank-led round C to continue its high-tech drug discovery
-      <hr/>
-      
-      - *XtalPi, an American-Chinese biotech firm that focuses on AI-assisted drug discovery, has raised a $319 million round C from a slate of enthusiastic investors led by SoftBank’s Vision Fund. It joins numerous others with 9-figure rounds in what is clearly a val…*
        
-  - Indonesian fintech startup BukuWarung gets new funding to add financial services for small merchants
-      <hr/>
-       
-       - *A month after completing Y Combinator’s accelerator program, BukuWarung, an financial tech startup that serves small businesses in Indonesia, announced it has raised new funding from a roster of high-profile investors, including partners of DST Global, Soma C…*
+       - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
       
 
 <br />
