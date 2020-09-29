@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ John Carmack
+~ Marvin Minsky
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If you want to set off and go develop some grand new thing, you don't need milli
 </pre>
 <strong>Daily News</strong>
   
-  - Serious injuries at Amazon fulfillment centers topped 14,000, despite the company's safety claims
+  - Spin workers just ratified their first union contract
      <hr/>
      
-      - *As Amazon‘s biggest shopping day of the year approaches, a new report reveals that the company’s investments in automation and safety have not stemmed surging numbers of serious injuries in the company’s warehouses and fulfillment centers. Even as Amazon spen…*
+      - *A group of 40 workers at Ford-owned Spin just successfully ratified their first union contract. This comes after this group of shift leads, maintenance specialists, operations specialists, community ambassadors, and scooter deployers and collectors joined Tea…*
      
+  - Amazon launches a virtual tours and experience platform, Amazon Explore
+      <hr/>
+      
+      - *Amazon today is launching a new service called Amazon Explore that allows customers to book live, virtual experiences led by local experts. The experiences may be focused on creativity, learning DIY skills, taking virtual tours of far-off places or cultural l…*
+      
+  - Ford drops the price of its all-electric Mustang Mach-E to stay "fully competitive"
+      <hr/>
+      
+      - *Ford has slashed the price of its upcoming all-electric Mustang Mach-E crossover by as much as $3,000 as the automaker seeks to stay competitive in an increasingly crowded and unsettled sector of the automotive market. The price reductions, which were shared …*
+      
+  - Serious injuries at Amazon fulfillment centers topped 14,000, despite the company's safety claims
+      <hr/>
+      
+      - *As Amazon‘s biggest shopping day of the year approaches, a new report reveals that the company’s investments in automation and safety have not stemmed surging numbers of serious injuries in the company’s warehouses and fulfillment centers. Even as Amazon spen…*
+       
   - Duolingo CEO explains language app's surge in bookings
       <hr/>
-      
-      - *Language learning apps, like many educational technology platforms, soared when millions of students went home in response to safety concerns from the coronavirus pandemic. It makes sense: Everyone became an online learner in some capacity, and for non-frontl…*
-      
-  - How Twilio built its own conference platform
-      <hr/>
-      
-      - *Twilio’s annual customer conference was supposed to happen in May, but like everyone else who had live events scheduled for this year, it ran smack-dab into COVID-19 and was forced to cancel. That left the company wondering how to reimagine the event online. …*
-      
-  - With a Warby Parker playbook, SISU raises funding from Greycroft to face-off against cosmetic clinics
-      <hr/>
-      
-      - *With so many people getting ‘botox’ and ‘filler’ treatments to their faces these days (or are they, during the pandemic?), it’s probably no wonder that Venture Capital has decided to look at the space. In the same way that the small and scattered market of sp…*
        
-  - Starlink puts towns devastated by wildfires online for disaster relief workers
-      <hr/>
-       
-       - *SpaceX’s Starlink has showed its utility in connecting far-flung locations to the internet quickly and relatively simply in Washington, where like much of the west coast wildfires have caused enormous damage to rural areas. A couple small towns in the state h…*
+       - *Language learning apps, like many educational technology platforms, soared when millions of students went home in response to safety concerns from the coronavirus pandemic. It makes sense: Everyone became an online learner in some capacity, and for non-frontl…*
       
 
 <br />
