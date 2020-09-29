@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 
-~ Kent Beck
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When you feel the need to write a comment, first try to refactor the code so tha
 </pre>
 <strong>Daily News</strong>
   
-  - Online course platform Thinkific raises $22M
+  - Self-cleaning water bottle company LARQ raises a $10M Series A
      <hr/>
      
-      - *It’s been a big year for online learning companies — and it sounds like Thinkific is no exception. The Vancouver-based startup is announcing that it has raised $22 million in new funding. Thinkific different from businesses like MasterClass (which raised $100…*
+      - *After launching its first bottle in 2018, LARQ has drummed up a good deal of interest among consumers looking for ways to wean themselves off of plastic bottles. Last year alone, the Bay Area-based startup managed to sell 75,000 bottles, with help from retail…*
      
+  - PayCargo raises $35M from Insight for its cloud-based platform targeting the freight industry
+      <hr/>
+      
+      - *Shipping has long been one of the more antiquated, and least technological, segments in the world of commerce, with its physical aspects — rooted in massive cargo tankers, giant fleets of aircraft and trucks, and trains of linked-up containers — underscoring …*
+      
+  - Crypto exchange Bitpanda closes $52M Series A from Valar Ventures, backed by Peter Thiel
+      <hr/>
+      
+      - *Bitpanda, a crypto assets platform, has closed a $52 million Series A funding round form Valar Ventures, a venture capital firm backed by Peter Thiel. Vienna-based VC Speedinvest also participated, alongside other unnamed investors. Claiming 1.3 million users…*
+      
+  - Online course platform Thinkific raises $22M
+      <hr/>
+      
+      - *It’s been a big year for online learning companies — and it sounds like Thinkific is no exception. The Vancouver-based startup is announcing that it has raised $22 million in new funding. Thinkific different from businesses like MasterClass (which raised $100…*
+       
   - Huboo, the 'full stack' fulfilment provider, picks up £14M Series A
       <hr/>
-      
-      - *Huboo, the U.K.-headquartered startup that offers an end-to-end fulfilment service for online retailers of all sizes, has raised £14 million in Series A funding. The round is led by Stride.VC, with participation from Hearst Ventures. Existing investors, inclu…*
-      
-  - Travel activities platform KKDay raises $75 million Series C as it focuses on "staycations"
-      <hr/>
-      
-      - *With lockdowns around the world, the COVID-19 pandemic has hit the travel industry especially hard. In Asia, however, several startups are adapting by focusing on domestic activities (or “staycations”) instead of international travel. They include Taipei-base…*
-      
-  - Multis is a business bank account for cryptocurrencies
-      <hr/>
-      
-      - *Meet Multis, a French startup that is building business bank accounts, except that it lets you store, send and receive cryptocurrencies. The startup just raised a $2.2 million seed round. Investors in today’s funding round include White Star Capital, Y Combin…*
        
-  - Russian surveillance tech startup NtechLab nets $13M from sovereign wealth funds
-      <hr/>
-       
-       - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
+       - *Huboo, the U.K.-headquartered startup that offers an end-to-end fulfilment service for online retailers of all sizes, has raised £14 million in Series A funding. The round is led by Stride.VC, with participation from Hearst Ventures. Existing investors, inclu…*
       
 
 <br />
