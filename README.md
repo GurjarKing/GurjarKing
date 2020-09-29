@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 
-~ Leslie Lamport
+~ Martin Fowler
 <pre>
 
 </pre>
