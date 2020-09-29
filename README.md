@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+If you have a procedure with 10 parameters, you probably missed some.
 
-~ Bjarne Stroustrup
+~ Alan Perlis
 <pre>
 
 </pre>
