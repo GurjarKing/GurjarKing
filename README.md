@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 
-~ Bill Gates
+~ Leslie Lamport
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Sometimes we do get taken by surprise. For example, when the Internet came along
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Judge delays TikTok ban
+  - XtalPi lands massive $319M SoftBank-led round C to continue its high-tech drug discovery
      <hr/>
      
-      - *Americans can continue using TikTok for now, Google updates its developer policies and Uber gets approval to resume operations in London. This is your Daily Crunch for September 28, 2020. The big story: Judge delays TikTok ban The saga continues! The Trump ad…*
+      - *XtalPi, an American-Chinese biotech firm that focuses on AI-assisted drug discovery, has raised a $319 million round C from a slate of enthusiastic investors led by SoftBank’s Vision Fund. It joins numerous others with 9-figure rounds in what is clearly a val…*
      
-  - Amazon launches a $4.99-per-month 'personal shopper' service for men's fashion
+  - Indonesian fintech startup BukuWarung gets new funding to add financial services for small merchants
       <hr/>
       
-      - *Amazon is introducing a personal shopping service for men’s fashion. The service, now available to Prime members, is an expansion of the existing Personal Shopper by Prime Wardrobe, a $4.99 per month Stitch Fix rival, originally aimed at women. With Personal …*
+      - *A month after completing Y Combinator’s accelerator program, BukuWarung, an financial tech startup that serves small businesses in Indonesia, announced it has raised new funding from a roster of high-profile investors, including partners of DST Global, Soma C…*
       
-  - Get a free Extra Crunch membership when you buy TC Sessions: Mobility 2020 tickets
+  - Microsoft outage leaves users unable to access Office, Outlook, Teams
       <hr/>
       
-      - *TC Sessions: Mobility is coming up next week, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free annual membership to Extra Crunch, our membership program focused on startups, founders and…*
+      - *Users are unable to login to several Microsoft services.*
       
-  - Hear from Postmates, Refraction AI and FedEx about autonomous delivery at TC Sessions: Mobility 2020
+  - Gillmor Gang: Over 2 U
       <hr/>
       
-      - *Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery. But is the world —…*
+      - *The pandemic shook up our and virtually every other video news production process as Zoom became the focus of our daily lives; slowly but surely we’ve altered the production process to reflect Zoom’s easy on boarding and semi-casual approach to virtualized me…*
        
-  - Cannabis vape companies experiencing sales boom during pandemic
+  - Daily Crunch: Judge delays TikTok ban
       <hr/>
        
-       - *The global pandemic is driving interest towards cannabis, and device makers are recording record sales. From startups to major players, several leading manufacturers told TechCrunch that their companies are seeing a boom in sales since the start of the crisis…*
+       - *Americans can continue using TikTok for now, Google updates its developer policies and Uber gets approval to resume operations in London. This is your Daily Crunch for September 28, 2020. The big story: Judge delays TikTok ban The saga continues! The Trump ad…*
       
 
 <br />
