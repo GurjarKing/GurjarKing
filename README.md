@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+Never memorize something that you can look up.
 
-~ Mario Fusco
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The code you write makes you a programmer. The code you delete makes you a good 
 </pre>
 <strong>Daily News</strong>
   
-  - With a Warby Parker playbook, SISU raises funding from Greycroft to face-off against cosmetic clinics
+  - How Twilio built its own conference platform
      <hr/>
      
-      - *With so many people getting ‘botox’ and ‘filler’ treatments to their faces these days (or are they, during the pandemic?), it’s probably no wonder that Venture Capital has decided to look at the space. In the same way that the small and scattered market of sp…*
+      - *Twilio’s annual customer conference was supposed to happen in May, but like everyone else who had live events scheduled for this year, it ran smack-dab into COVID-19 and was forced to cancel. That left the company wondering how to reimagine the event online. …*
      
+  - With a Warby Parker playbook, SISU raises funding from Greycroft to face-off against cosmetic clinics
+      <hr/>
+      
+      - *With so many people getting ‘botox’ and ‘filler’ treatments to their faces these days (or are they, during the pandemic?), it’s probably no wonder that Venture Capital has decided to look at the space. In the same way that the small and scattered market of sp…*
+      
   - Starlink puts towns devastated by wildfires online for disaster relief workers
       <hr/>
       
@@ -73,16 +78,11 @@ The code you write makes you a programmer. The code you delete makes you a good 
       <hr/>
       
       - *Spain’s startup ecosystem has two main hubs: Madrid and Barcelona. Most observers place Barcelona first and Madrid second, but the gap appears to close every year. Barcelona has benefitted from attracting expats in search of sun, beach and lifestyle who tend …*
-      
+       
   - Collective, a back office platform that caters to 'businesses of one,' just landed a hefty seed round
       <hr/>
-      
-      - *Americans and other global citizens are increasingly self-employed, thanks to great software, the need for flexibility, and because skilled services especially can pay fairly well, among other reasons. In fact, exactly one year ago, the Freelancers Union and …*
        
-  - Shipt shoppers are organizing a walkout in protest of new pay model
-      <hr/>
-       
-       - *Shipt shoppers are organizing a handful of actions in protest of Shipt’s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to wal…*
+       - *Americans and other global citizens are increasingly self-employed, thanks to great software, the need for flexibility, and because skilled services especially can pay fairly well, among other reasons. In fact, exactly one year ago, the Freelancers Union and …*
       
 
 <br />
