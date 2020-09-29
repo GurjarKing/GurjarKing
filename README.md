@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
 
-~ John Carmack
+~ Douglas Crockford
 <pre>
 
 </pre>
