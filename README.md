@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Randall E. Stross
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The best programmers are not marginally better than merely good ones. They are a
 </pre>
 <strong>Daily News</strong>
   
-  - XtalPi lands massive $319M SoftBank-led round C to continue its high-tech drug discovery
+  - Exotec raises $90 million for its warehouse robots
      <hr/>
      
-      - *XtalPi, an American-Chinese biotech firm that focuses on AI-assisted drug discovery, has raised a $319 million round C from a slate of enthusiastic investors led by SoftBank’s Vision Fund. It joins numerous others with 9-figure rounds in what is clearly a val…*
+      - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
      
+  - XtalPi lands massive $319M SoftBank-led round C to continue its high-tech drug discovery
+      <hr/>
+      
+      - *XtalPi, an American-Chinese biotech firm that focuses on AI-assisted drug discovery, has raised a $319 million round C from a slate of enthusiastic investors led by SoftBank’s Vision Fund. It joins numerous others with 9-figure rounds in what is clearly a val…*
+      
   - Indonesian fintech startup BukuWarung gets new funding to add financial services for small merchants
       <hr/>
       
@@ -73,16 +78,11 @@ The best programmers are not marginally better than merely good ones. They are a
       <hr/>
       
       - *Users are unable to login to several Microsoft services.*
-      
+       
   - Gillmor Gang: Over 2 U
       <hr/>
-      
-      - *The pandemic shook up our and virtually every other video news production process as Zoom became the focus of our daily lives; slowly but surely we’ve altered the production process to reflect Zoom’s easy on boarding and semi-casual approach to virtualized me…*
        
-  - Daily Crunch: Judge delays TikTok ban
-      <hr/>
-       
-       - *Americans can continue using TikTok for now, Google updates its developer policies and Uber gets approval to resume operations in London. This is your Daily Crunch for September 28, 2020. The big story: Judge delays TikTok ban The saga continues! The Trump ad…*
+       - *The pandemic shook up our and virtually every other video news production process as Zoom became the focus of our daily lives; slowly but surely we’ve altered the production process to reflect Zoom’s easy on boarding and semi-casual approach to virtualized me…*
       
 
 <br />
