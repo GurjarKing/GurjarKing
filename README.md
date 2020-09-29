@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+Nine women can't make a baby in one month.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
