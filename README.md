@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think the best way to supervise is by personal example and by frequent code reviews.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Charles Simonyi
+~ Mario Fusco
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I think the best way to supervise is by personal example and by frequent code re
 </pre>
 <strong>Daily News</strong>
   
-  - Healthcare entrepreneurs should prepare for an upcoming VC/PE bubble
+  - With a Warby Parker playbook, SISU raises funding from Greycroft to face-off against cosmetic clinics
      <hr/>
      
-      - *Now is potentially a prime time to create a healthcare startup, but the road ahead will not be an easy one for emerging solution providers.*
+      - *With so many people getting ‘botox’ and ‘filler’ treatments to their faces these days (or are they, during the pandemic?), it’s probably no wonder that Venture Capital has decided to look at the space. In the same way that the small and scattered market of sp…*
      
-  - Greylock and MLT are trying to diversify tech's wealth cycle
+  - Starlink puts towns devastated by wildfires online for disaster relief workers
       <hr/>
       
-      - *Greylock Partners has teamed up with Management Leadership for Tomorrow to address issues of diversity and inclusion in the technology industry. “Our view is this has to be a comprehensive approach,” MLT Founder and CEO John Rice told TechCrunch. “This is not…*
+      - *SpaceX’s Starlink has showed its utility in connecting far-flung locations to the internet quickly and relatively simply in Washington, where like much of the west coast wildfires have caused enormous damage to rural areas. A couple small towns in the state h…*
       
-  - Final week to score $50 student passes to TC Sessions: Mobility 2020
+  - 9 VCs in Madrid and Barcelona discuss the COVID-19 era and look to the future
       <hr/>
       
-      - *Class is about to be in session, students. If you’re passionate about mobility and transportation tech and hungry to learn from the visionaries, makers and investors who are building the future today, don’t miss out on TC Sessions: Mobility 2020 on October 6-…*
+      - *Spain’s startup ecosystem has two main hubs: Madrid and Barcelona. Most observers place Barcelona first and Madrid second, but the gap appears to close every year. Barcelona has benefitted from attracting expats in search of sun, beach and lifestyle who tend …*
       
-  - Biden campaign calls out Facebook for spreading Team Trump's dangerous voting lies
+  - Collective, a back office platform that caters to 'businesses of one,' just landed a hefty seed round
       <hr/>
       
-      - *In a new letter to its chief executive on the eve of the first presidential debate, the Biden campaign slammed Facebook for its failure to act on false claims about voting in the U.S. election. In the scathing letter, published by Axios, Biden Campaign Manage…*
+      - *Americans and other global citizens are increasingly self-employed, thanks to great software, the need for flexibility, and because skilled services especially can pay fairly well, among other reasons. In fact, exactly one year ago, the Freelancers Union and …*
        
-  - Polaris and Zero Motorcycles reach deal to bring electric off roaders to market
+  - Shipt shoppers are organizing a walkout in protest of new pay model
       <hr/>
        
-       - *Polaris is a name synonymous with powersports — just head to any of the hundreds of snowmobile trails in Wisconsin, Minnesota or other sufficiently wintry place for evidence. Now, it’s teaming up with Zero Motorcycles, Santa Cruz-based maker of electric motor…*
+       - *Shipt shoppers are organizing a handful of actions in protest of Shipt’s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to wal…*
       
 
 <br />
