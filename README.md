@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+I think the best way to supervise is by personal example and by frequent code reviews.
 
-~ Douglas Crockford
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Most programming languages contain good parts and bad parts. I discovered that I
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok launches a U.S. elections guide in its app
+  - Healthcare entrepreneurs should prepare for an upcoming VC/PE bubble
      <hr/>
      
-      - *Though TikTok is in the middle of fighting off the Trump administration’s attempt to ban its app in the U.S. over data privacy concerns, the company today is launching a new feature focused on the 2020 U.S. elections. TikTok announced this morning it’s introd…*
+      - *Now is potentially a prime time to create a healthcare startup, but the road ahead will not be an easy one for emerging solution providers.*
      
-  - Extra Crunch Live: Join us today at 2pm EDT / 11am PDT to discuss the future of startup investing with Index Ventures VCs Nina Achadjian and Sarah Cannon
+  - Greylock and MLT are trying to diversify tech's wealth cycle
       <hr/>
       
-      - *The venture capital world is rapidly changing, and thank heavens we have two of the smartest VCs on the future of investing, productivity tools, and remote work joining us today to make sense of all the noise. On Extra Crunch Live today, Sarah Cannon and Nina…*
+      - *Greylock Partners has teamed up with Management Leadership for Tomorrow to address issues of diversity and inclusion in the technology industry. “Our view is this has to be a comprehensive approach,” MLT Founder and CEO John Rice told TechCrunch. “This is not…*
       
-  - Datasaur snags $3.9M investment to build intelligent machine learning labeling platform
+  - Final week to score $50 student passes to TC Sessions: Mobility 2020
       <hr/>
       
-      - *As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch, announced a $3.9 million investment today…*
+      - *Class is about to be in session, students. If you’re passionate about mobility and transportation tech and hungry to learn from the visionaries, makers and investors who are building the future today, don’t miss out on TC Sessions: Mobility 2020 on October 6-…*
       
-  - D-Wave launches its 5,000+ qubit Advantage system
+  - Biden campaign calls out Facebook for spreading Team Trump's dangerous voting lies
       <hr/>
       
-      - *D-Wave today announced the launch of its new Advantage quantum computers. These new systems, with over 5,000 qubits and 15-way qubit connectivity, are now available in the company’s Leap cloud computing platform. That’s up from about 2,000 qubits in the previ…*
+      - *In a new letter to its chief executive on the eve of the first presidential debate, the Biden campaign slammed Facebook for its failure to act on false claims about voting in the U.S. election. In the scathing letter, published by Axios, Biden Campaign Manage…*
        
-  - Google offers Europe more checks Fitbit data won't be used for ads
+  - Polaris and Zero Motorcycles reach deal to bring electric off roaders to market
       <hr/>
        
-       - *Google has offered a second round of concessions to try to persuade European regulators to clear its acquisition of wearables maker Fitbit . The deal has been stalled by concerns over its impact on consumer privacy and competition in the wearables market. Las…*
+       - *Polaris is a name synonymous with powersports — just head to any of the hundreds of snowmobile trails in Wisconsin, Minnesota or other sufficiently wintry place for evidence. Now, it’s teaming up with Zero Motorcycles, Santa Cruz-based maker of electric motor…*
       
 
 <br />
