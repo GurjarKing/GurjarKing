@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 
-~ Vannevar Bush
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If scientific reasoning were limited to the logical processes of arithmetic, we 
 </pre>
 <strong>Daily News</strong>
   
-  - Russian surveillance tech startup NtechLab nets $13M from sovereign wealth funds
+  - Multis is a business bank account for cryptocurrencies
      <hr/>
      
-      - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
+      - *Meet Multis, a French startup that is building business bank accounts, except that it lets you store, send and receive cryptocurrencies. The startup just raised a $2.2 million seed round. Investors in today’s funding round include White Star Capital, Y Combin…*
      
+  - Russian surveillance tech startup NtechLab nets $13M from sovereign wealth funds
+      <hr/>
+      
+      - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
+      
   - Exotec raises $90 million for its warehouse robots
       <hr/>
       
@@ -73,16 +78,11 @@ If scientific reasoning were limited to the logical processes of arithmetic, we 
       <hr/>
       
       - *XtalPi, an American-Chinese biotech firm that focuses on AI-assisted drug discovery, has raised a $319 million round C from a slate of enthusiastic investors led by SoftBank’s Vision Fund. It joins numerous others with 9-figure rounds in what is clearly a val…*
-      
+       
   - Indonesian fintech startup BukuWarung gets new funding to add financial services for small merchants
       <hr/>
-      
-      - *A month after completing Y Combinator’s accelerator program, BukuWarung, an financial tech startup that serves small businesses in Indonesia, announced it has raised new funding from a roster of high-profile investors, including partners of DST Global, Soma C…*
        
-  - Microsoft outage leaves users unable to access Office, Outlook, Teams
-      <hr/>
-       
-       - *Users are unable to login to several Microsoft services.*
+       - *A month after completing Y Combinator’s accelerator program, BukuWarung, an financial tech startup that serves small businesses in Indonesia, announced it has raised new funding from a roster of high-profile investors, including partners of DST Global, Soma C…*
       
 
 <br />
