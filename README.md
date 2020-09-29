@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 
-~ Martin Fowler
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
