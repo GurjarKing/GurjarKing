@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Nine women can't make a baby in one month.
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 
-~ Fred Brooks
+~ Kent Beck
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Nine women can't make a baby in one month.
 </pre>
 <strong>Daily News</strong>
   
-  - Huboo, the 'full stack' fulfilment provider, picks up £14M Series A
+  - Online course platform Thinkific raises $22M
      <hr/>
      
-      - *Huboo, the U.K.-headquartered startup that offers an end-to-end fulfilment service for online retailers of all sizes, has raised £14 million in Series A funding. The round is led by Stride.VC, with participation from Hearst Ventures. Existing investors, inclu…*
+      - *It’s been a big year for online learning companies — and it sounds like Thinkific is no exception. The Vancouver-based startup is announcing that it has raised $22 million in new funding. Thinkific different from businesses like MasterClass (which raised $100…*
      
+  - Huboo, the 'full stack' fulfilment provider, picks up £14M Series A
+      <hr/>
+      
+      - *Huboo, the U.K.-headquartered startup that offers an end-to-end fulfilment service for online retailers of all sizes, has raised £14 million in Series A funding. The round is led by Stride.VC, with participation from Hearst Ventures. Existing investors, inclu…*
+      
   - Travel activities platform KKDay raises $75 million Series C as it focuses on "staycations"
       <hr/>
       
@@ -73,16 +78,11 @@ Nine women can't make a baby in one month.
       <hr/>
       
       - *Meet Multis, a French startup that is building business bank accounts, except that it lets you store, send and receive cryptocurrencies. The startup just raised a $2.2 million seed round. Investors in today’s funding round include White Star Capital, Y Combin…*
-      
+       
   - Russian surveillance tech startup NtechLab nets $13M from sovereign wealth funds
       <hr/>
-      
-      - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
        
-  - Exotec raises $90 million for its warehouse robots
-      <hr/>
-       
-       - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
+       - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
       
 
 <br />
