@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
-~ Donald Knuth
+~ Anonymous
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Email is a wonderful thing for people whose role in life is to be on top of thin
 </pre>
 <strong>Daily News</strong>
   
-  - Everything Google announced at today's hardware event
+  - Lots of happy people as Palantir and Asana spike on first day of trading
      <hr/>
      
-      - *This year, Google’s annual hardware event consisted of a brisk 30 minutes of pre-recorded promotional videos, but the company managed to pack a number of new product announcements into that time. To make things easy for you, here’s a quick rundown of everythi…*
+      - *The markets are closed and the verdicts are in: investors liked what they saw in Palantir and Asana . The two companies, which debuted this morning in dual (and duel) direct listings, continued to prove that enterprise tech companies without the brand recogni…*
      
+  - Dustin Moskovitz discusses Asana’s first trading day
+      <hr/>
+      
+      - *It’s a big day for Asana, the work management tool that debuted on the NYSE this morning in a direct listing. Founded back in 2009 by Dustin Moskovitz and Justin Rosenstein, the company has assiduously grown over the years, taking in about $213 million in ven…*
+      
+  - Everything Google announced at today's hardware event
+      <hr/>
+      
+      - *This year, Google’s annual hardware event consisted of a brisk 30 minutes of pre-recorded promotional videos, but the company managed to pack a number of new product announcements into that time. To make things easy for you, here’s a quick rundown of everythi…*
+      
   - How 3 remote-friendly tech companies plan to return to the office
       <hr/>
       
       - *Six months ago, millions of workers left their offices for the last time without realizing it. Many would be laid off because of the pandemic, but for those fortunate to keep their jobs, some of their employers still haven’t determined whether they will open …*
-      
+       
   - Investors give Baltimore's Facet Wealth $25 million to sell businesses on financial planning as a benefit
       <hr/>
-      
-      - *Yesterday, Baltimore-based fintech company Facet Wealth said it raised $25 million in financing as it readies a new business line pitching financial planning as an employment benefit to businesses looking to recruit top talent. Employment benefit packages are…*
-      
-  - A new Google Assistant feature, 'Hold for Me,' waits on hold so you don't have to
-      <hr/>
-      
-      - *Google has been pushing forward the capabilities of what a smartphone can do when it comes to one of the device’s most basic — if these days, often overlooked — features: phone calls. In previous years, the company launched Call Screen to vet your incoming ca…*
        
-  - AOC flagged 'material risks' to Palantir investors in letter to SEC
-      <hr/>
-       
-       - *In a newly released letter, New York Rep. Alexandria Ocasio-Cortez issued words of warning to the SEC over Palantir’s efforts to take the company public, cautioning the regulatory body over details the progressive congresswoman says were “omitted” in the comp…*
+       - *Yesterday, Baltimore-based fintech company Facet Wealth said it raised $25 million in financing as it readies a new business line pitching financial planning as an employment benefit to businesses looking to recruit top talent. Employment benefit packages are…*
       
 
 <br />
