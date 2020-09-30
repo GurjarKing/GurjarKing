@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 
-~ Manuel Blum
+~ John Carmack
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The only difference between a FA [finite automata] and a TM [Turing machine] is 
 </pre>
 <strong>Daily News</strong>
   
-  - Hailo challenges Intel and Google with its new AI modules for edge devices
+  - VTEX raises $225M at a $1.7B valuation for e-commerce solutions aimed at retailers and brands
      <hr/>
      
-      - *Hailo, a Tel Aviv-based startup best known for its high-performance AI chips, today announced the launch of its M.2 and Mini PCIe high-AI acceleration modules. Based around its Hailo-8 chip, these new models are meant to be used in edge devices for anything f…*
+      - *Retailers and consumer brands are focused more than ever in their histories on using e-commerce channels to connect with customers: the global health pandemic has disrupted much of their traditional business in places like physical stores, event venues and re…*
      
-  - Xbox Game Pass Ultimate subscribers will get EA Play on November 10th
+  - Facebook introduces cross-app communication between Messenger and Instagram, plus other features
       <hr/>
       
-      - *Earlier this month, Microsoft announced that Xbox Game Pass Ultimate subscribers would be able to access EA Play for no additional cost. The company shared more details about the rollout. Console players will be able to activate their complimentary EA Play su…*
+      - *Facebook announced today it will begin rolling out new functionality that will allow Instagram and Messenger users to communicate across apps, in addition to bringing a host of Messenger -inspired features to the Instagram inbox. On Instagram, users will be p…*
       
-  - Apple removes two RSS feed readers from China App Store
+  - Silverlake adds a $2 billion long-only hedge fund backed by Abu Dhabi to its tech finance toolkit
       <hr/>
       
-      - *It looks like Apple is scouring its Chinese App Store for any remaining services that may not sit well with Chinese censors. Two RSS reader apps, Reeder and Fiery Feeds, said this week that their iOS apps have been removed in China over content that is consid…*
+      - *Silver Lake Partners, the multi-billion dollar tech-focused investment firm, is adding a long-only hedge fund backed by Abu Dhabi’s sovereign wealth fund, Mubadala, to its array of investment vehicles to finance technology companies. The move into multi-strat…*
       
-  - Apple to release new emojis with iOS 14.2
+  - Watch Google’s Pixel 5 event live right here
       <hr/>
       
-      - *While the current version of iOS is iOS 14.0.1, Apple is already testing iOS 14.2. The company released an early beta version of the update yesterday, and it includes a new set of emojis, as Emojipedia spotted. Apple already shared an early look of the new em…*
+      - *Google is holding an event to unveil its new phone, the Google Pixel 5. It is going to be a virtual event, and you can steam it live. The event starts at 11 a.m. PDT (2 p.m. in New York, 7 p.m. in London, 8 p.m. in Paris). Rumor has it that there could be […]*
        
-  - Lee Fixel's Addition leads $35 million investment in India's Inshorts
+  - Memo Bank details its offering for its business bank accounts
       <hr/>
        
-       - *Inshorts, which operates a popular news aggregator app in India, has raised $35 million in a new financing round led by Lee Fixel’s Addition as the Indian startup looks to scale its adjacent, social network platform. For Fixel, who wrote several high-profile …*
+       - *French startup Memo Bank has unveiled three different plans for its new customers. The company is building a business bank for small and medium companies that generate between €2 million and €50 million in annual turnover. Earlier this year, Memo Bank obtaine…*
       
 
 <br />
