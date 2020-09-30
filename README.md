@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
 
 ~ Fred Brooks
 <pre>
@@ -59,11 +59,16 @@ The fundamental problem with program maintenance is that fixing a defect has a s
 </pre>
 <strong>Daily News</strong>
   
-  - Homer nabs $50M from Lego, Sesame Workshop and Gymboree for its early learning apps
+  - Europe eyeing limits on how big tech can use data and bundle apps -- reports
      <hr/>
      
-      - *For better or worse, tablets and smartphones have become a cornerstone of how many smaller children pass the time. Today, a company that builds literacy and other educational apps to help make that time more worthwhile is announcing a large round of funding f…*
+      - *European lawmakers are considering new rules for Internet giants that could include forcing them to share data with smaller rivals and/or put narrow limits on how they can use data in a bid to level the digital playing field. Other ideas in the mix are a ban …*
      
+  - Homer nabs $50M from Lego, Sesame Workshop and Gymboree for its early learning apps
+      <hr/>
+      
+      - *For better or worse, tablets and smartphones have become a cornerstone of how many smaller children pass the time. Today, a company that builds literacy and other educational apps to help make that time more worthwhile is announcing a large round of funding f…*
+      
   - Coralogix lands $25M Series B to rethink log analysis and monitoring
       <hr/>
       
@@ -73,16 +78,11 @@ The fundamental problem with program maintenance is that fixing a defect has a s
       <hr/>
       
       - *Bykea, which leads the ride-hailing market in Pakistan, has raised $13 million in a new financing round as the five-year-old startup looks to deepen its penetration in the South Asian country and become a “super app.” The startup’s new financing round, a Seri…*
-      
+       
   - Element acquires Gitter to get more developers on board with the open Matrix messaging protocol
       <hr/>
-      
-      - *Some interesting news for lovers of open, decentralized communications tech: Element, the company behind the eponymous Matrix -based Slack competitor (formerly known as Riot) has acquired developer-focused chat platform, Gitter, from dev services giant GitLab…*
        
-  - Juno Bio launches a vaginal microbiome test kit -- targeting the women's health data gap
-      <hr/>
-       
-       - *Entrepreneur First -backed Juno Bio has launched a home test kit for women wanting to get a better understanding of their vaginal microbiome while also contributing data to further research into women’s health. The vaginal microbiome refers to the community o…*
+       - *Some interesting news for lovers of open, decentralized communications tech: Element, the company behind the eponymous Matrix -based Slack competitor (formerly known as Riot) has acquired developer-focused chat platform, Gitter, from dev services giant GitLab…*
       
 
 <br />
