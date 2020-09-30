@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-People should be able to speak and breathe programs just like they talk now.
+The most important thing is to be able to think what you want, not to say what you want.
 
-~ Jaron Lanier
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ People should be able to speak and breathe programs just like they talk now.
 </pre>
 <strong>Daily News</strong>
   
-  - Swarm prices out its orbital IoT network's hardware and services
+  - Facebook names VP of product growth Alex Schultz as new CMO
      <hr/>
      
-      - *Swarm’s new network of satellites is intended to provide low-bandwidth, low-power connectivity to “Internet of Things” devices all over the world, and the company just announced how much its technology will actually cost. A $119 board will be sold to be integ…*
+      - *To fill its empty CMO position, Facebook just promoted a longtime Facebook executive focused on product growth to the C-suite. Former VP of product growth and analytics Alex Schultz, who has been with the company since 2007, announced the move Tuesday in a Fa…*
      
+  - Swarm prices out its orbital IoT network's hardware and services
+      <hr/>
+      
+      - *Swarm’s new network of satellites is intended to provide low-bandwidth, low-power connectivity to “Internet of Things” devices all over the world, and the company just announced how much its technology will actually cost. A $119 board will be sold to be integ…*
+      
   - Palantir’s reference price values it at roughly $16 billion
       <hr/>
       
@@ -73,16 +78,11 @@ People should be able to speak and breathe programs just like they talk now.
       <hr/>
       
       - *Amazon unveils a new biometric ID technology, the Biden campaign takes aim at Facebook and iRobot’s co-founder joins a robotic gardening startup. This is your Daily Crunch for September 29, 2020. The big story: Amazon lets you pay with your palm The company a…*
-      
+       
   - Spin workers just ratified their first union contract
       <hr/>
-      
-      - *A group of 40 workers at Ford-owned Spin just successfully ratified their first union contract. This comes after this group of shift leads, maintenance specialists, operations specialists, community ambassadors, and scooter deployers and collectors joined Tea…*
        
-  - Amazon launches a virtual tours and experience platform, Amazon Explore
-      <hr/>
-       
-       - *Amazon today is launching a new service called Amazon Explore that allows customers to book live, virtual experiences led by local experts. The experiences may be focused on creativity, learning DIY skills, taking virtual tours of far-off places or cultural l…*
+       - *A group of 40 workers at Ford-owned Spin just successfully ratified their first union contract. This comes after this group of shift leads, maintenance specialists, operations specialists, community ambassadors, and scooter deployers and collectors joined Tea…*
       
 
 <br />
