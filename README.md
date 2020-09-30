@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Really good programs live forever.
+Once you stop learning you start dying.
 
-~ Charles Simonyi
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Really good programs live forever.
 </pre>
 <strong>Daily News</strong>
   
-  - The roadmap to startup consolidation in Southeast Asia is becoming clearer
+  - A new Google Assistant feature, 'Hold for Me,' waits on hold so you don't have to
      <hr/>
      
-      - *While Southeast Asia’s startup ecosystems are still young compared to those in China or India, it has matured over the last five years. Unicorns like Grab, Gojek and Garena are continuing to grow, and more competitive startups are emerging in sectors like fin…*
+      - *Google has been pushing forward the capabilities of what a smartphone can do when it comes to one of the device’s most basic — if these days, often overlooked — features: phone calls. In previous years, the company launched Call Screen to vet your incoming ca…*
      
-  - Following Apple’s Sidecar launch, Astropad announces Luna Display for Windows
+  - AOC flagged 'material risks' to Palantir investors in letter to SEC
       <hr/>
       
-      - *In June, Luna Display creator Astropad wrote a blog post titled, “Why Getting Sherlocked by Apple Was a Blessing in Disguise.” It arrived on the one-year anniversary of Apple’s launch of Sidecar for macOS, which let Mac owners use an iPad as a second display …*
+      - *In a newly released letter, New York Rep. Alexandria Ocasio-Cortez issued words of warning to the SEC over Palantir’s efforts to take the company public, cautioning the regulatory body over details the progressive congresswoman says were “omitted” in the comp…*
       
-  - Aurora Labs ramps 'self-healing' software with $23M from LG Technology Ventures, Porsche SE, Toyota Tsusho
+  - Pixel 5 and 4a 5g get the same, improved cameras with rear ultrawide lens, Night Sight portraits and more
       <hr/>
       
-      - *The automotive market is grappling with increasingly complex software systems, and in turn greater risks of glitches that can cause costly and unsafe disruptions and damage an automaker’s credibility. Just look at today’s new cars, trucks and SUVs compared to…*
+      - *Google made its newest smartphones official today, unveiling the much-leaked Pixel 4a 5g and Pixel 5. Both smartphones will get the same, improved cameras, despite a $200 price different between the models, which is great news for people who are specifically …*
       
-  - 'The Real Facebook Oversight Board' launches to counter Facebook's 'Oversight Board'
+  - Google unveils the $99 Nest Audio smart speaker
       <hr/>
       
-      - *Today a group of academics, researchers and civil rights leaders go live on with ‘The Real Facebook Oversight Board’ which is designed to criticize and discuss the role of the platform in the upcoming US election. The group includes Facebook’s ex-head of elec…*
+      - *Four years after the introduction of Google Home, Google showcased its successor to the company’s mid-range smart speaker. In keeping with the broader rebranding of the company’s smart home products, the device is now called Nest Audio. The smart speaker will…*
        
-  - Asana up 39% and Palantir still holding as both direct listings hit the public markets
+  - Google launches the $499 Pixel 4a 5G
       <hr/>
        
-       - *Two direct listings in one day. Lots to talk about. Asana started trading just a bit after noon Eastern today, quickly zooming to roughly $29 a share in early trading this afternoon. We are still waiting for the first trades of Palantir to hit the market. Asa…*
+       - *As expected, Google today announced the 5G version of its Pixel 4a phone at its annual hardware event. Given all the previous leaks, there were no real surprises left and Google had already announced the $499 price. The new phone, together with the new Pixel …*
       
 
 <br />
