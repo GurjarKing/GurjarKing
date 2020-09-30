@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
 
-~ Danny Hillis
+~ Poul-Henning Kamp
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The computer is not just an advanced calculator or camera or paintbrush; rather,
 </pre>
 <strong>Daily News</strong>
   
-  - E-scooter startup Neuron Mobility adds $12M to its Series A for expansion in Australia and New Zealand
+  - Papaya Global raises $40M for a payroll and HR platform aimed at global workforces
      <hr/>
      
-      - *Neuron Mobility, a Singapore-based e-scooter rental startup, announced today that it has added $12 million to its Series A. Led by Square Peg, an Australian venture capital firm and GSR Ventures, this increases the round’s new total to $30.5 million. The comp…*
+      - *Workforces are getting more global, and people who work day in, day out for organizations don’t always sit day in, day out in a single office, in a single country, to get a job done. Today, one of the startups building HR to help companies provision services …*
      
-  - Facebook names VP of product growth Alex Schultz as new CMO
+  - Salesforce creates for profit platform to help governments distribute COVID vaccine when it's ready
       <hr/>
       
-      - *To fill its empty CMO position, Facebook just promoted a longtime Facebook executive focused on product growth to the C-suite. Former VP of product growth and analytics Alex Schultz, who has been with the company since 2007, announced the move Tuesday in a Fa…*
+      - *For more than 20 years, Salesforce has been selling cloud business software, but it has also used the same platform to build ways to track other elements besides sales, marketing and service information including Work.com, the platform it created earlier this…*
       
-  - Swarm prices out its orbital IoT network's hardware and services
+  - TravelPerk launches an open API platform to extend its work trip SaaS
       <hr/>
       
-      - *Swarm’s new network of satellites is intended to provide low-bandwidth, low-power connectivity to “Internet of Things” devices all over the world, and the company just announced how much its technology will actually cost. A $119 board will be sold to be integ…*
+      - *Business travel SaaS startup, TravelPerk, has launched an open API-based platform — letting its customers and partners build custom integration and apps. The initial APIs covers HR and expense management use-cases but more are set to be added as usage and dem…*
       
-  - Palantir’s reference price values it at roughly $16 billion
+  - The joke is on consumers as Liquid Death raises $23 million more
       <hr/>
       
-      - *Palantir is preparing for its public debut tomorrow morning on the NYSE after 17 years, and now we are getting some data on how the company’s shares are being valued by investors. NYSE announced that the the company, which will be traded under the ticker PLTR…*
+      - *In what began as a kind of funny, savvy marketing stunt that has since gained traction, a nearly three-year-old, Santa Monica-based startup that sells water from the Austrian Alps under the brand Liquid Death, has raised $23 million in Series B funding. Backe…*
        
-  - Daily Crunch: Amazon lets you pay with your palm
+  - E-scooter startup Neuron Mobility adds $12M to its Series A for expansion in Australia and New Zealand
       <hr/>
        
-       - *Amazon unveils a new biometric ID technology, the Biden campaign takes aim at Facebook and iRobot’s co-founder joins a robotic gardening startup. This is your Daily Crunch for September 29, 2020. The big story: Amazon lets you pay with your palm The company a…*
+       - *Neuron Mobility, a Singapore-based e-scooter rental startup, announced today that it has added $12 million to its Series A. Led by Square Peg, an Australian venture capital firm and GSR Ventures, this increases the round’s new total to $30.5 million. The comp…*
       
 
 <br />
