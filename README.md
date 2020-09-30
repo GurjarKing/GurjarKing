@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+Imagination is more important than knowledge.
 
-~ Charles Babbage
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbag
 </pre>
 <strong>Daily News</strong>
   
-  - Papaya Global raises $40M for a payroll and HR platform aimed at global workforces
+  - Emjoy picks up $3M to get more women tuned into sexual self-care
      <hr/>
      
-      - *Workforces are getting more global, and people who work day in, day out for organizations don’t always sit day in, day out in a single office, in a single country, to get a job done. Today, one of the startups building HR to help companies provision services …*
+      - *Barcelona-based Emjoy, an audio app for women that sells a narrative of sexual self-care and empowerment, has picked up $3 million in seed funding led by JME Ventures, with existing investor Nauta Capital participating. The femtech startup believes it has lit…*
      
-  - Salesforce creates for profit platform to help governments distribute COVID vaccine when it's ready
+  - October closes $300 million in new funds for its SME lending marketplace
       <hr/>
       
-      - *For more than 20 years, Salesforce has been selling cloud business software, but it has also used the same platform to build ways to track other elements besides sales, marketing and service information including Work.com, the platform it created earlier this…*
-      
-  - TravelPerk launches an open API platform to extend its work trip SaaS
-      <hr/>
-      
-      - *Business travel SaaS startup, TravelPerk, has launched an open API-based platform — letting its customers and partners build custom integration and apps. The initial APIs covers HR and expense management use-cases but more are set to be added as usage and dem…*
+      - *French fintech startup October has raised some fresh capital to invest in small and medium companies on its lending platform. Overall, the company has gathered $300 million (€258 million) from various partners that will be deployed over the next few years. Th…*
       
   - Baidu's smart voice unit to raise independent round on $2.9B valuation
       <hr/>
       
       - *Baidu, China’s dominant search service and a leader in artificial intelligence research, is further diversifying into the smart voice space as its smart living group is poised to raise an independent round on a 20 billion yuan ($2.94 billion) post-money valua…*
+      
+  - Papaya Global raises $40M for a payroll and HR platform aimed at global workforces
+      <hr/>
+      
+      - *Workforces are getting more global, and people who work day in, day out for organizations don’t always sit day in, day out in a single office, in a single country, to get a job done. Today, one of the startups building HR to help companies provision services …*
        
-  - The joke is on consumers as Liquid Death raises $23 million more
+  - Salesforce creates for profit platform to help governments distribute COVID vaccine when it's ready
       <hr/>
        
-       - *In what began as a kind of funny, savvy marketing stunt that has since gained traction, a nearly three-year-old, Santa Monica-based startup that sells water from the Austrian Alps under the brand Liquid Death, has raised $23 million in Series B funding. Backe…*
+       - *For more than 20 years, Salesforce has been selling cloud business software, but it has also used the same platform to build ways to track other elements besides sales, marketing and service information including Work.com, the platform it created earlier this…*
       
 
 <br />
