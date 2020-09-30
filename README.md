@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-You should name a variable using the same care with which you name a first-born child.
+I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
 
-~ Jim Coplien
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ You should name a variable using the same care with which you name a first-born 
 </pre>
 <strong>Daily News</strong>
   
-  - Twitch launches a rights-cleared music catalog for streamers, Soundtrack by Twitch
+  - Twilio launches an app for frontline workers, a free 1:1 video toolkit and a new IoT platform
      <hr/>
      
-      - *Twitch today is introducing a new tool, Soundtrack by Twitch, that will allows it creators to add licensed music within their streams. The feature, which has been in development over the past year, is meant to not only make it easier to find rights-cleared mu…*
+      - *Twilio is hosting its annual Signal conference today and as usual, the company is using the event to launch a host of new products and features. For the most part, especially if you’re a web or mobile developer, these are not groundbreaking new features. The …*
      
-  - Applicants say a DC Bar website bug exposed their personal data and background checks
+  - Dear Sophie: Will October 2020 Visa Bulletin changes expedite my immigration case?
       <hr/>
       
-      - *Prospective lawyers say the DC Bar has not told applicants about the security incident.*
+      - *I’ve been waiting for years for my green card. Is there any way to expedite my case? What does the October shift in Visa Bulletin priority dates mean for me?*
       
-  - See what's new from Chargepoint, Wejo, Waymo and Planet M at TechCrunch's mobility event next week
+  - Online garden shop Bloomscape raises $15M Series B, acquires plant care app Vera
       <hr/>
       
-      - *We’re in the final run up to TC Sessions: Mobility 2020 on October 6-7, and the great stuff just keeps on coming. We’ve stacked the two-day agenda with plenty of programming to keep you engaged, informed and on track to build a stronger business. You’ll alway…*
+      - *If you thought to invest in more plants or started growing a small garden during 2020’s coronavirus lockdowns, you weren’t alone. According to Bloomscape, a company that ships live plants straight from greenhouses to customers’ homes, a number of people becom…*
       
-  - Brands building for scale should look to hypercultural Latinx consumers
+  - Dfinity's valuation soars to $9.5Bn after revealing its governance system and token economics
       <hr/>
       
-      - *Hypercultural Latinx consumers are different from their mostly white counterparts in the way they vigorously engage with technology, their obsession with being online at all times and their unique shopping habits.*
+      - *We’ve been tracking one of the few genuinely interesting stories to come out of the blockchain world, ever since Dfinity raised $102M from Andreessen Horowitz and Polychain Capital for a decentralised ‘Internet Computer’ to rival AWS in August last year. It l…*
        
-  - Vista-owned backup and recovery company Datto files to go public
+  - Twitch launches a rights-cleared music catalog for streamers, Soundtrack by Twitch
       <hr/>
        
-       - *When Vista Equity Partners acquired backup and disaster recovery firm Datto in 2017, it was easy to think that was the end of the company’s story. It would be comfortably absorbed into the private equity portfolio continuing to make money for the firm, but th…*
+       - *Twitch today is introducing a new tool, Soundtrack by Twitch, that will allows it creators to add licensed music within their streams. The feature, which has been in development over the past year, is meant to not only make it easier to find rights-cleared mu…*
       
 
 <br />
