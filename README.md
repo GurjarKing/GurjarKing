@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
+On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 
-~ Poul-Henning Kamp
+~ Charles Babbage
 <pre>
 
 </pre>
@@ -74,15 +74,15 @@ Make a guess, double the number, and then move to the next larger unit of time. 
       
       - *Business travel SaaS startup, TravelPerk, has launched an open API-based platform — letting its customers and partners build custom integration and apps. The initial APIs covers HR and expense management use-cases but more are set to be added as usage and dem…*
       
-  - The joke is on consumers as Liquid Death raises $23 million more
+  - Baidu's smart voice unit to raise independent round on $2.9B valuation
       <hr/>
       
-      - *In what began as a kind of funny, savvy marketing stunt that has since gained traction, a nearly three-year-old, Santa Monica-based startup that sells water from the Austrian Alps under the brand Liquid Death, has raised $23 million in Series B funding. Backe…*
+      - *Baidu, China’s dominant search service and a leader in artificial intelligence research, is further diversifying into the smart voice space as its smart living group is poised to raise an independent round on a 20 billion yuan ($2.94 billion) post-money valua…*
        
-  - E-scooter startup Neuron Mobility adds $12M to its Series A for expansion in Australia and New Zealand
+  - The joke is on consumers as Liquid Death raises $23 million more
       <hr/>
        
-       - *Neuron Mobility, a Singapore-based e-scooter rental startup, announced today that it has added $12 million to its Series A. Led by Square Peg, an Australian venture capital firm and GSR Ventures, this increases the round’s new total to $30.5 million. The comp…*
+       - *In what began as a kind of funny, savvy marketing stunt that has since gained traction, a nearly three-year-old, Santa Monica-based startup that sells water from the Austrian Alps under the brand Liquid Death, has raised $23 million in Series B funding. Backe…*
       
 
 <br />
