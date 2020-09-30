@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I have no special talent. I am only passionately curious.
+The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
 
-~ Albert Einstein
+~ Manuel Blum
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I have no special talent. I am only passionately curious.
 </pre>
 <strong>Daily News</strong>
   
-  - Apple removes two RSS feed readers from China App Store
+  - Hailo challenges Intel and Google with its new AI modules for edge devices
      <hr/>
      
-      - *It looks like Apple is scouring its Chinese App Store for any remaining services that may not sit well with Chinese censors. Two RSS reader apps, Reeder and Fiery Feeds, said this week that their iOS apps have been removed in China over content that is consid…*
+      - *Hailo, a Tel Aviv-based startup best known for its high-performance AI chips, today announced the launch of its M.2 and Mini PCIe high-AI acceleration modules. Based around its Hailo-8 chip, these new models are meant to be used in edge devices for anything f…*
      
+  - Xbox Game Pass Ultimate subscribers will get EA Play on November 10th
+      <hr/>
+      
+      - *Earlier this month, Microsoft announced that Xbox Game Pass Ultimate subscribers would be able to access EA Play for no additional cost. The company shared more details about the rollout. Console players will be able to activate their complimentary EA Play su…*
+      
+  - Apple removes two RSS feed readers from China App Store
+      <hr/>
+      
+      - *It looks like Apple is scouring its Chinese App Store for any remaining services that may not sit well with Chinese censors. Two RSS reader apps, Reeder and Fiery Feeds, said this week that their iOS apps have been removed in China over content that is consid…*
+      
   - Apple to release new emojis with iOS 14.2
       <hr/>
       
       - *While the current version of iOS is iOS 14.0.1, Apple is already testing iOS 14.2. The company released an early beta version of the update yesterday, and it includes a new set of emojis, as Emojipedia spotted. Apple already shared an early look of the new em…*
-      
+       
   - Lee Fixel's Addition leads $35 million investment in India's Inshorts
       <hr/>
-      
-      - *Inshorts, which operates a popular news aggregator app in India, has raised $35 million in a new financing round led by Lee Fixel’s Addition as the Indian startup looks to scale its adjacent, social network platform. For Fixel, who wrote several high-profile …*
-      
-  - Emjoy picks up $3M to get more women tuned into sexual self-care
-      <hr/>
-      
-      - *Barcelona-based Emjoy, an audio app for women that sells a narrative of sexual self-care and empowerment, has picked up $3 million in seed funding led by JME Ventures, with existing investor Nauta Capital participating. The femtech startup believes it has lit…*
        
-  - October closes $300 million in new funds for its SME lending marketplace
-      <hr/>
-       
-       - *French fintech startup October has raised some fresh capital to invest in small and medium companies on its lending platform. Overall, the company has gathered $300 million (€258 million) from various partners that will be deployed over the next few years. Th…*
+       - *Inshorts, which operates a popular news aggregator app in India, has raised $35 million in a new financing round led by Lee Fixel’s Addition as the Indian startup looks to scale its adjacent, social network platform. For Fixel, who wrote several high-profile …*
       
 
 <br />
