@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
+Nine women can't make a baby in one month.
 
-~ Joseph Yoder (computer scientist)
+~ Fred Brooks
 <pre>
 
 </pre>
