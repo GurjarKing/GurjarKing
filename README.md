@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+Really good programs live forever.
 
-~ Donald Knuth
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I’ve got this need to program. I wake up in the morning with sentences of a li
 </pre>
 <strong>Daily News</strong>
   
-  - Twilio launches an app for frontline workers, a free 1:1 video toolkit and a new IoT platform
+  - The roadmap to startup consolidation in Southeast Asia is becoming clearer
      <hr/>
      
-      - *Twilio is hosting its annual Signal conference today and as usual, the company is using the event to launch a host of new products and features. For the most part, especially if you’re a web or mobile developer, these are not groundbreaking new features. The …*
+      - *While Southeast Asia’s startup ecosystems are still young compared to those in China or India, it has matured over the last five years. Unicorns like Grab, Gojek and Garena are continuing to grow, and more competitive startups are emerging in sectors like fin…*
      
-  - Dear Sophie: Will October 2020 Visa Bulletin changes expedite my immigration case?
+  - Following Apple’s Sidecar launch, Astropad announces Luna Display for Windows
       <hr/>
       
-      - *I’ve been waiting for years for my green card. Is there any way to expedite my case? What does the October shift in Visa Bulletin priority dates mean for me?*
+      - *In June, Luna Display creator Astropad wrote a blog post titled, “Why Getting Sherlocked by Apple Was a Blessing in Disguise.” It arrived on the one-year anniversary of Apple’s launch of Sidecar for macOS, which let Mac owners use an iPad as a second display …*
       
-  - Online garden shop Bloomscape raises $15M Series B, acquires plant care app Vera
+  - Aurora Labs ramps 'self-healing' software with $23M from LG Technology Ventures, Porsche SE, Toyota Tsusho
       <hr/>
       
-      - *If you thought to invest in more plants or started growing a small garden during 2020’s coronavirus lockdowns, you weren’t alone. According to Bloomscape, a company that ships live plants straight from greenhouses to customers’ homes, a number of people becom…*
+      - *The automotive market is grappling with increasingly complex software systems, and in turn greater risks of glitches that can cause costly and unsafe disruptions and damage an automaker’s credibility. Just look at today’s new cars, trucks and SUVs compared to…*
       
-  - Dfinity's valuation soars to $9.5Bn after revealing its governance system and token economics
+  - 'The Real Facebook Oversight Board' launches to counter Facebook's 'Oversight Board'
       <hr/>
       
-      - *We’ve been tracking one of the few genuinely interesting stories to come out of the blockchain world, ever since Dfinity raised $102M from Andreessen Horowitz and Polychain Capital for a decentralised ‘Internet Computer’ to rival AWS in August last year. It l…*
+      - *Today a group of academics, researchers and civil rights leaders go live on with ‘The Real Facebook Oversight Board’ which is designed to criticize and discuss the role of the platform in the upcoming US election. The group includes Facebook’s ex-head of elec…*
        
-  - Twitch launches a rights-cleared music catalog for streamers, Soundtrack by Twitch
+  - Asana up 39% and Palantir still holding as both direct listings hit the public markets
       <hr/>
        
-       - *Twitch today is introducing a new tool, Soundtrack by Twitch, that will allows it creators to add licensed music within their streams. The feature, which has been in development over the past year, is meant to not only make it easier to find rights-cleared mu…*
+       - *Two direct listings in one day. Lots to talk about. Asana started trading just a bit after noon Eastern today, quickly zooming to roughly $29 a share in early trading this afternoon. We are still waiting for the first trades of Palantir to hit the market. Asa…*
       
 
 <br />
