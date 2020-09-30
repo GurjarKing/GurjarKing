@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Nine women can't make a baby in one month.
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 
-~ Fred Brooks
+~ Robert L. Glass
 <pre>
 
 </pre>
