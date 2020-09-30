@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most important thing is to be able to think what you want, not to say what you want.
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 
-~ Paul Graham (programmer)
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
