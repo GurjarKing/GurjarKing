@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+You should name a variable using the same care with which you name a first-born child.
 
-~ Fred Brooks
+~ Jim Coplien
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The complexity of software is an essential property, not an accidental one. Henc
 </pre>
 <strong>Daily News</strong>
   
-  - Europe eyeing limits on how big tech can use data and bundle apps -- reports
+  - Twitch launches a rights-cleared music catalog for streamers, Soundtrack by Twitch
      <hr/>
      
-      - *European lawmakers are considering new rules for Internet giants that could include forcing them to share data with smaller rivals and/or put narrow limits on how they can use data in a bid to level the digital playing field. Other ideas in the mix are a ban …*
+      - *Twitch today is introducing a new tool, Soundtrack by Twitch, that will allows it creators to add licensed music within their streams. The feature, which has been in development over the past year, is meant to not only make it easier to find rights-cleared mu…*
      
-  - Homer nabs $50M from Lego, Sesame Workshop and Gymboree for its early learning apps
+  - Applicants say a DC Bar website bug exposed their personal data and background checks
       <hr/>
       
-      - *For better or worse, tablets and smartphones have become a cornerstone of how many smaller children pass the time. Today, a company that builds literacy and other educational apps to help make that time more worthwhile is announcing a large round of funding f…*
+      - *Prospective lawyers say the DC Bar has not told applicants about the security incident.*
       
-  - Coralogix lands $25M Series B to rethink log analysis and monitoring
+  - See what's new from Chargepoint, Wejo, Waymo and Planet M at TechCrunch's mobility event next week
       <hr/>
       
-      - *Logging and monitoring tends to be an expensive endeavor because of the sheer amount of data involved. Companies are therefore forced to pick and choose what they monitor, limiting what they can see. Coralogix wants to change that by offering a more flexible …*
+      - *We’re in the final run up to TC Sessions: Mobility 2020 on October 6-7, and the great stuff just keeps on coming. We’ve stacked the two-day agenda with plenty of programming to keep you engaged, informed and on track to build a stronger business. You’ll alway…*
       
-  - Prosus Ventures leads $13 million investment in Pakistan's ride-hailing giant Bykea
+  - Brands building for scale should look to hypercultural Latinx consumers
       <hr/>
       
-      - *Bykea, which leads the ride-hailing market in Pakistan, has raised $13 million in a new financing round as the five-year-old startup looks to deepen its penetration in the South Asian country and become a “super app.” The startup’s new financing round, a Seri…*
+      - *Hypercultural Latinx consumers are different from their mostly white counterparts in the way they vigorously engage with technology, their obsession with being online at all times and their unique shopping habits.*
        
-  - Element acquires Gitter to get more developers on board with the open Matrix messaging protocol
+  - Vista-owned backup and recovery company Datto files to go public
       <hr/>
        
-       - *Some interesting news for lovers of open, decentralized communications tech: Element, the company behind the eponymous Matrix -based Slack competitor (formerly known as Riot) has acquired developer-focused chat platform, Gitter, from dev services giant GitLab…*
+       - *When Vista Equity Partners acquired backup and disaster recovery firm Datto in 2017, it was easy to think that was the end of the company’s story. It would be comfortably absorbed into the private equity portfolio continuing to make money for the firm, but th…*
       
 
 <br />
