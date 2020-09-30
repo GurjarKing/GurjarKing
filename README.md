@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
 
-~ Charles Simonyi
+~ Danny Hillis
 <pre>
 
 </pre>
