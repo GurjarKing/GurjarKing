@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 
-~ John Carmack
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Story in a game is like a story in a porn movie. It's expected to be there, but 
 </pre>
 <strong>Daily News</strong>
   
-  - VTEX raises $225M at a $1.7B valuation for e-commerce solutions aimed at retailers and brands
+  - After breach, Twitter hires a new cybersecurity chief
      <hr/>
      
-      - *Retailers and consumer brands are focused more than ever in their histories on using e-commerce channels to connect with customers: the global health pandemic has disrupted much of their traditional business in places like physical stores, event venues and re…*
+      - *Rinki Sethi previously served at Rubrik, IBM, Palo Alto Networks, and Intuit.*
      
+  - VTEX raises $225M at a $1.7B valuation for e-commerce solutions aimed at retailers and brands
+      <hr/>
+      
+      - *Retailers and consumer brands are focused more than ever in their histories on using e-commerce channels to connect with customers: the global health pandemic has disrupted much of their traditional business in places like physical stores, event venues and re…*
+      
   - Facebook introduces cross-app communication between Messenger and Instagram, plus other features
       <hr/>
       
@@ -73,16 +78,11 @@ Story in a game is like a story in a porn movie. It's expected to be there, but 
       <hr/>
       
       - *Silver Lake Partners, the multi-billion dollar tech-focused investment firm, is adding a long-only hedge fund backed by Abu Dhabi’s sovereign wealth fund, Mubadala, to its array of investment vehicles to finance technology companies. The move into multi-strat…*
-      
+       
   - Watch Google’s Pixel 5 event live right here
       <hr/>
-      
-      - *Google is holding an event to unveil its new phone, the Google Pixel 5. It is going to be a virtual event, and you can steam it live. The event starts at 11 a.m. PDT (2 p.m. in New York, 7 p.m. in London, 8 p.m. in Paris). Rumor has it that there could be […]*
        
-  - Memo Bank details its offering for its business bank accounts
-      <hr/>
-       
-       - *French startup Memo Bank has unveiled three different plans for its new customers. The company is building a business bank for small and medium companies that generate between €2 million and €50 million in annual turnover. Earlier this year, Memo Bank obtaine…*
+       - *Google is holding an event to unveil its new phone, the Google Pixel 5. It is going to be a virtual event, and you can steam it live. The event starts at 11 a.m. PDT (2 p.m. in New York, 7 p.m. in London, 8 p.m. in Paris). Rumor has it that there could be […]*
       
 
 <br />
