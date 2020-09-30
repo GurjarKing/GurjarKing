@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best thing about a boolean is even if you are wrong, you are only off by a bit.
+Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
 
-~ Anonymous
+~ Marijn Haverbeke
 <pre>
 
 </pre>
