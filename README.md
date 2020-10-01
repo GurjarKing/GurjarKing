@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Before software can be reusable it first has to be usable.
+The way to arrest entropy in software is to refactor it.
 
-~ Ralph Johnson (computer scientist)
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Before software can be reusable it first has to be usable.
 </pre>
 <strong>Daily News</strong>
   
-  - Macrometa, an edge computing service for app developers, lands $7M seed round led by DNX
+  - News apps in the US and China use algorithms to drive engagement, discovery
      <hr/>
      
-      - *As people continue to work and study from home because of the COVID-19 pandemic, interest in edge computing has increased. Macrometa, a Palo Alto-based that provides edge computing infrastructure for app developers, announced today it has closed a $7 million …*
+      - *Algorithms are reshaping many parts of our lives, including how news gets to us. Around the world, entrepreneurs make use of algorithms to program their ideal news apps, and while they normally agree on universal objectives like fighting fake news, their view…*
      
+  - SAP continues to build out customer experience business with Emarsys acquisition
+      <hr/>
+      
+      - *SAP seemed to be all in on customer experience when it acquired Qualtrics for $8 billion in 2018. It continued on that journey today when it announced it was acquiring Austrian cloud marketing company Emarsys for an undisclosed amount of money. Emarsys, which…*
+      
+  - Macrometa, an edge computing service for app developers, lands $7M seed round led by DNX
+      <hr/>
+      
+      - *As people continue to work and study from home because of the COVID-19 pandemic, interest in edge computing has increased. Macrometa, a Palo Alto-based that provides edge computing infrastructure for app developers, announced today it has closed a $7 million …*
+      
   - Motif Foodworks preps commercial production for its first ingredient, improving the flavor of beef substitutes
       <hr/>
       
       - *Motif Foodworks, the Ginkgo Bioworks spinout focused on developing new plant-based flavorings and food ingredients, is readying commercial scale production of its first product an ingredient to improve the flavor of beef substitutes. The expansion of Motif’s …*
-      
+       
   - Cisco acquires PortShift to raise its game in DevOps and Kubernetes security
       <hr/>
-      
-      - *Cisco is making another acquisition to expand its reach in security solutions, this time specifically targeting DevOps and the world of container management. It is acquiring PortShift, an Israeli startup that has built a Kubernetes-native security platform. T…*
-      
-  - Altinity grabs $4M seed to build cloud version of ClickHouse open source data warehouse
-      <hr/>
-      
-      - *Earlier this month, cloud data warehouse Snowflake turned heads when it debuted on the stock market. Today, Altinity, the commercial company behind the open source ClickHouse data warehouse announced a $4 million seed round from Accel along with a new cloud s…*
        
-  - Microsoft adds the $549 Laptop Go to its growing Surface lineup
-      <hr/>
-       
-       - *Microsoft just added a couple of key additions to its ever-growing lineup of Surface devices. There are a bunch of new accessories and an update to the Surface Pro X, which you can read about here. The biggest news of the morning, however, is the arrival of t…*
+       - *Cisco is making another acquisition to expand its reach in security solutions, this time specifically targeting DevOps and the world of container management. It is acquiring PortShift, an Israeli startup that has built a Kubernetes-native security platform. T…*
       
 
 <br />
