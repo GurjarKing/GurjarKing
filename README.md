@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+In order to understand recursion, one must first understand recursion.
 
-~ Bjarne Stroustrup
+~ Anonymous
 <pre>
 
 </pre>
