@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 
-~ René Descartes
+~ Carl Friedrich Gauss
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Thus it is observable that the buildings which a single architect has planned an
 </pre>
 <strong>Daily News</strong>
   
-  - Google to pay out $1B to publishers to license content for new Google News Showcase
+  - Jüsto adds another $5 million in funding to build its online, delivery-only grocery store for Latin America
      <hr/>
      
-      - *Google has long had a frenemy position with the world of news: it can direct a lot of traffic to online publishers, but that’s only if people bother to click on links after getting the gist of the story from Google itself  (and that’s before considering the A…*
+      - *As it begins expanding beyond its home base in Mexico City, the on-demand, online only grocery store Jüsto has  added another $5 million in early stage funding. The new money came from Bimbo Ventures, the strategic investment arm of one of the world’s largest…*
      
+  - Google to pay out $1B to publishers to license content for new Google News Showcase
+      <hr/>
+      
+      - *Google has long had a frenemy position with the world of news: it can direct a lot of traffic to online publishers, but that’s only if people bother to click on links after getting the gist of the story from Google itself  (and that’s before considering the A…*
+      
   - Cazoo, the UK used car sales portal, raises another $311M, now valued at over $2B
       <hr/>
       
@@ -73,16 +78,11 @@ Thus it is observable that the buildings which a single architect has planned an
       <hr/>
       
       - *As more companies and brands put the internet at the core of how they run their businesses these days, it’s giving a strong push to the growth of startups that are building tools to help them. In the latest development, Sendinblue, an eight-year-old French st…*
-      
+       
   - eFounders unveils its next batch of enterprise SaaS startups
       <hr/>
-      
-      - *Since 2011, European startup studio eFounders has launched 27 companies with a focus on software-as-a-service companies trying to improve the way we work. Some of them have been quite successful, such as Front and Aircall. And the company is working on its ne…*
        
-  - Allbirds CEO Joey Zwillinger on the startup's $100 million round, profitability, and SPAC mania
-      <hr/>
-       
-       - *As people spend less time out and about and more time wondering longingly when a vaccine will arrive, comfortable lifestyle shoes are only gaining traction. One obvious beneficiary is Allbirds, the San Francisco-based maker of sustainable shoes and, more newl…*
+       - *Since 2011, European startup studio eFounders has launched 27 companies with a focus on software-as-a-service companies trying to improve the way we work. Some of them have been quite successful, such as Front and Aircall. And the company is working on its ne…*
       
 
 <br />
