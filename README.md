@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 
-~ Alan Turing
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The idea behind digital computers may be explained by saying that these machines
 </pre>
 <strong>Daily News</strong>
   
-  - With $18M in new funding, Braintrust says it's creating a fairer model for freelancers
+  - Bullpen Capital raises $130 million more to fund the far afield and misunderstood
      <hr/>
      
-      - *Braintrust, a network for freelance technical and design talent that launched over the summer, is announcing that it has raised $18 million in new funding. Co-founder and CEO Adam Jackson has written for TechCrunch about how tech companies need to treat indep…*
+      - *Bullpen Capital, a now 10-year-old, venture fund in Menlo Park that focuses on what it calls post-seed investing — it backs startups that have already raised up to $5 million and “aren’t quite ready for a $10 million check but another $5 million would make th…*
      
-  - The Spectrum Equity-backed video education platform Kajabi has already hit $60 million in ARR
+  - Ethel's Club founder is launching Somewhere Good, a social platform that centers people of color
       <hr/>
       
-      - *Kajabi may not be an American household name, but users of the web hosting and video tech platform are now being seen in a lot of American households. The company, initially bootstrapped and profitable since its launch, raised a minority investment from Spect…*
+      - *Naj Austin, founder and CEO of subscription-based physical and digital community Ethel’s Club, is building Somewhere Good to be a one-stop shop for people of color. Beyond being a place for people of color to connect, it’s also about creating a safe space for…*
       
-  - Google takes aim at 'beauty filters' with design changes coming to Pixel phones
+  - IonQ claims it has built the most powerful quantum computer yet
       <hr/>
       
-      - *Google is taking aim at photo face filters and other “beautifying” techniques that mental health experts believe can warp a person’s self-confidence, particularly when they’re introduced to younger users. The company says it will now rely on expert guidance w…*
+      - *Trapped-ion quantum computing startup IonQ today announced the launch of its latest quantum computer, which features what IonQ calls “32 perfect qubits with low gate errors.” Using IBM’s preferred quantum benchmark, IonQ expects to hit a quantum volume of 4,0…*
       
-  - Hear how Porsche is preparing for the electric future at TC Sessions: Mobility
+  - Teenage Engineering's OB-4 'magic radio' is a weird and beautiful wireless speaker
       <hr/>
       
-      - *Detlev von Platen is a car guy, and in this age of new mobility, that’s important. Platen has been at Porsche for over 30 years and is currently on Porsche’s executive board as the sales and marketing executive. Before his current role, he lead Porsche North …*
+      - *I’ve found a new object of desire which, once acquired, I would probably never use. It’s this OB-4 “magic radio” from Teenage Engineering, a design group that creates tech with a playful but premium approach. This wireless speaker not only looks lovely but ha…*
        
-  - Google now has three mid-range Pixel phones
+  - Facebook Groups to gain suite of new tools for managing discussions, surfacing public content
       <hr/>
        
-       - *The Pixel has always been a mixed bag. The first-generation product was announced roughly this time four years ago, with Google finally offering a full-throated entry into the smartphone space after years of device partnerships. Of course, by 2016, the market…*
+       - *Facebook is introducing a suite of new features for Facebook Groups, the private social networking product now used by over 1.8 billion people every month. At the company’s digitally hosted Facebook Communities Summit today, Facebook detailed a set of upcomin…*
       
 
 <br />
