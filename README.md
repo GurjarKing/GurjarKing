@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-JavaScript is the world's most misunderstood programming language.
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
 
-~ Douglas Crockford
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ JavaScript is the world's most misunderstood programming language.
 </pre>
 <strong>Daily News</strong>
   
-  - There’s a way to pick the absolute best images for your content: Apply AI
+  - A PC gaming site had to ban political troll mods for games, because nowhere is safe
      <hr/>
      
-      - *Is there a data-driven — or even better, an AI-driven — process for gaining deeper insight into which images are more likely to engage users?*
+      - *NexusMods, a large platform and gathering place for modding PC games, has banned all content relating to the U.S. elections following a flood of troll content, saying “we’ve decided to wipe our hands clean of this mess.” Not exactly headline news, no, but a r…*
      
-  - Facebook sues two companies engaged in data scraping operations
+  - Spain's startup ecosystem: 9 investors on remote work, green shoots and 2020 trends
       <hr/>
       
-      - *Facebook today says it has filed a lawsuit in the U.S. against two companies that had engaged in an international “data scraping” operation. The operation extended across Facebook properties, including both Facebook and Instagram, as well as other large websi…*
+      - *As reported in the first half of our Spain-focused VC survey, the nation’s startup ecosystem continues to grow and is keeping pace with ecosystems in more developed European countries such as U.K., France, Sweden and Germany. While main hubs Madrid and Barcel…*
       
-  - Section 230 will be on the chopping block at the next big tech hearing
+  - Digital vote-by-mail applications in most states are inaccessible to people with disabilities
       <hr/>
       
-      - *It looks like we’re in for another big tech CEO hearing. The Senate Commerce Committee voted Thursday to move forward with subpoenas for Twitter’s Jack Dorsey, Facebook’s Mark Zuckerberg and Sundar Pichai, the CEO of Alphabet. The unusual decision to subpoena…*
+      - *The 2020 election is without a doubt going to be the biggest one in history for voting by mail, but people with disabilities may find it rather difficult to apply for their ballot, since according to an audit by Deque, most states don’t actually have an acces…*
       
-  - What if the kernel is corrupt?
+  - Daily Crunch: Google commits $1B to pay publishers
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s VC-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week, Alex is on a much deserved vacation (but not from Twitter, it seems) so Danny Crichton and I chatted through the …*
+      - *Google is paying a lot of money for its news licensing program, Microsoft announces an affordable laptop and Facebook says it won’t accept ads casting doubts on the election. This is your Daily Crunch for October 1, 2020. The big story: Google commits $1B to …*
        
-  - Oracle's TikTok and Zoom deals won't move cloud market share needle significantly
+  - There’s a way to pick the absolute best images for your content: Apply AI
       <hr/>
        
-       - *While the overall cloud infrastructure market is booming having reached $30 billion last quarter worldwide, Oracle is struggling with market share in the low single digits. It is hoping that the Zoom and TikTok deals can jump start those numbers, but trying t…*
+       - *Is there a data-driven — or even better, an AI-driven — process for gaining deeper insight into which images are more likely to engage users?*
       
 
 <br />
