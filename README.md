@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
 
-~ Vannevar Bush
+~ John Romero
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Two centuries ago Leibnitz invented a calculating machine which embodied most of
 </pre>
 <strong>Daily News</strong>
   
-  - Allbirds CEO Joey Zwillinger on the startup's $100 million round, profitability, and SPAC mania
+  - eFounders unveils its next batch of enterprise SaaS startups
      <hr/>
      
-      - *As people spend less time out and about and more time wondering longingly when a vaccine will arrive, comfortable lifestyle shoes are only gaining traction. One obvious beneficiary is Allbirds, the San Francisco-based maker of sustainable shoes and, more newl…*
+      - *Since 2011, European startup studio eFounders has launched 27 companies with a focus on software-as-a-service companies trying to improve the way we work. Some of them have been quite successful, such as Front and Aircall. And the company is working on its ne…*
      
+  - Allbirds CEO Joey Zwillinger on the startup's $100 million round, profitability, and SPAC mania
+      <hr/>
+      
+      - *As people spend less time out and about and more time wondering longingly when a vaccine will arrive, comfortable lifestyle shoes are only gaining traction. One obvious beneficiary is Allbirds, the San Francisco-based maker of sustainable shoes and, more newl…*
+      
   - Indian startups explore forming an alliance and alternative app store to fight Google’s ‘monopoly’
       <hr/>
       
@@ -73,16 +78,11 @@ Two centuries ago Leibnitz invented a calculating machine which embodied most of
       <hr/>
       
       - *The markets are closed and the verdicts are in: investors liked what they saw in Palantir and Asana . The two companies, which debuted this morning in dual (and duel) direct listings, continued to prove that enterprise tech companies without the brand recogni…*
-      
+       
   - Dustin Moskovitz discusses Asana’s first trading day
       <hr/>
-      
-      - *It’s a big day for Asana, the work management tool that debuted on the NYSE this morning in a direct listing. Founded back in 2009 by Dustin Moskovitz and Justin Rosenstein, the company has assiduously grown over the years, taking in about $213 million in ven…*
        
-  - Everything Google announced at today's hardware event
-      <hr/>
-       
-       - *This year, Google’s annual hardware event consisted of a brisk 30 minutes of pre-recorded promotional videos, but the company managed to pack a number of new product announcements into that time. To make things easy for you, here’s a quick rundown of everythi…*
+       - *It’s a big day for Asana, the work management tool that debuted on the NYSE this morning in a direct listing. Founded back in 2009 by Dustin Moskovitz and Justin Rosenstein, the company has assiduously grown over the years, taking in about $213 million in ven…*
       
 
 <br />
