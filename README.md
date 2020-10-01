@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ Marijn Haverbeke
+~ Donald Knuth
 <pre>
 
 </pre>
