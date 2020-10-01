@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 
-~ Gerald Weinberg
+~ René Descartes
 <pre>
 
 </pre>
