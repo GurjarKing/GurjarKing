@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 
-~ Alan Turing
+~ René Descartes
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A computer would deserve to be called intelligent if it could deceive a human in
 </pre>
 <strong>Daily News</strong>
   
-  - Cazoo, the UK used car sales portal, raises another $311M, now valued at over $2B
+  - Google to pay out $1B to publishers to license content for new Google News Showcase
      <hr/>
      
-      - *A lot of people are opting to use cars instead of taking public transportation in the UK at the moment, as a way of ensuring more social distancing, and today one of the startups that’s built a more efficient way of selling and buying cars is announcing a big…*
+      - *Google has long had a frenemy position with the world of news: it can direct a lot of traffic to online publishers, but that’s only if people bother to click on links after getting the gist of the story from Google itself  (and that’s before considering the A…*
      
+  - Cazoo, the UK used car sales portal, raises another $311M, now valued at over $2B
+      <hr/>
+      
+      - *A lot of people are opting to use cars instead of taking public transportation in the UK at the moment, as a way of ensuring more social distancing, and today one of the startups that’s built a more efficient way of selling and buying cars is announcing a big…*
+      
   - France's Sendinblue, an all-in-one digital marketing platform, raises $160M
       <hr/>
       
@@ -73,16 +78,11 @@ A computer would deserve to be called intelligent if it could deceive a human in
       <hr/>
       
       - *Since 2011, European startup studio eFounders has launched 27 companies with a focus on software-as-a-service companies trying to improve the way we work. Some of them have been quite successful, such as Front and Aircall. And the company is working on its ne…*
-      
+       
   - Allbirds CEO Joey Zwillinger on the startup's $100 million round, profitability, and SPAC mania
       <hr/>
-      
-      - *As people spend less time out and about and more time wondering longingly when a vaccine will arrive, comfortable lifestyle shoes are only gaining traction. One obvious beneficiary is Allbirds, the San Francisco-based maker of sustainable shoes and, more newl…*
        
-  - Indian startups explore forming an alliance and alternative app store to fight Google’s ‘monopoly’
-      <hr/>
-       
-       - *Google, which reaches more internet users than any other firm in India and commands 99% of the nation’s smartphone market, has stumbled upon an odd challenge in the world’s second largest internet market: Scores of top local entrepreneurs. Dozens of top start…*
+       - *As people spend less time out and about and more time wondering longingly when a vaccine will arrive, comfortable lifestyle shoes are only gaining traction. One obvious beneficiary is Allbirds, the San Francisco-based maker of sustainable shoes and, more newl…*
       
 
 <br />
