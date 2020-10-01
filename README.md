@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are few sources of energy so powerful as a procrastinating grad student.
+JavaScript is the world's most misunderstood programming language.
 
-~ Paul Graham (programmer)
+~ Douglas Crockford
 <pre>
 
 </pre>
