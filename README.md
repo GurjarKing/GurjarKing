@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The way to arrest entropy in software is to refactor it.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Joseph Yoder (computer scientist)
+~ Alan Turing
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The way to arrest entropy in software is to refactor it.
 </pre>
 <strong>Daily News</strong>
   
-  - News apps in the US and China use algorithms to drive engagement, discovery
+  - With $18M in new funding, Braintrust says it's creating a fairer model for freelancers
      <hr/>
      
-      - *Algorithms are reshaping many parts of our lives, including how news gets to us. Around the world, entrepreneurs make use of algorithms to program their ideal news apps, and while they normally agree on universal objectives like fighting fake news, their view…*
+      - *Braintrust, a network for freelance technical and design talent that launched over the summer, is announcing that it has raised $18 million in new funding. Co-founder and CEO Adam Jackson has written for TechCrunch about how tech companies need to treat indep…*
      
-  - SAP continues to build out customer experience business with Emarsys acquisition
+  - The Spectrum Equity-backed video education platform Kajabi has already hit $60 million in ARR
       <hr/>
       
-      - *SAP seemed to be all in on customer experience when it acquired Qualtrics for $8 billion in 2018. It continued on that journey today when it announced it was acquiring Austrian cloud marketing company Emarsys for an undisclosed amount of money. Emarsys, which…*
+      - *Kajabi may not be an American household name, but users of the web hosting and video tech platform are now being seen in a lot of American households. The company, initially bootstrapped and profitable since its launch, raised a minority investment from Spect…*
       
-  - Macrometa, an edge computing service for app developers, lands $7M seed round led by DNX
+  - Google takes aim at 'beauty filters' with design changes coming to Pixel phones
       <hr/>
       
-      - *As people continue to work and study from home because of the COVID-19 pandemic, interest in edge computing has increased. Macrometa, a Palo Alto-based that provides edge computing infrastructure for app developers, announced today it has closed a $7 million …*
+      - *Google is taking aim at photo face filters and other “beautifying” techniques that mental health experts believe can warp a person’s self-confidence, particularly when they’re introduced to younger users. The company says it will now rely on expert guidance w…*
       
-  - Motif Foodworks preps commercial production for its first ingredient, improving the flavor of beef substitutes
+  - Hear how Porsche is preparing for the electric future at TC Sessions: Mobility
       <hr/>
       
-      - *Motif Foodworks, the Ginkgo Bioworks spinout focused on developing new plant-based flavorings and food ingredients, is readying commercial scale production of its first product an ingredient to improve the flavor of beef substitutes. The expansion of Motif’s …*
+      - *Detlev von Platen is a car guy, and in this age of new mobility, that’s important. Platen has been at Porsche for over 30 years and is currently on Porsche’s executive board as the sales and marketing executive. Before his current role, he lead Porsche North …*
        
-  - Cisco acquires PortShift to raise its game in DevOps and Kubernetes security
+  - Google now has three mid-range Pixel phones
       <hr/>
        
-       - *Cisco is making another acquisition to expand its reach in security solutions, this time specifically targeting DevOps and the world of container management. It is acquiring PortShift, an Israeli startup that has built a Kubernetes-native security platform. T…*
+       - *The Pixel has always been a mixed bag. The first-generation product was announced roughly this time four years ago, with Google finally offering a full-throated entry into the smartphone space after years of device partnerships. Of course, by 2016, the market…*
       
 
 <br />
