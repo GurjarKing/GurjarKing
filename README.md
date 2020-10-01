@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+Debugging is like being the detective in a crime movie where you are also the murderer.
 
-~ Daniel T. Barry
+~ Filipe Fortes
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook won't accept ads that 'delegitimize' U.S. election results
+  - Latin America's digital transformation is making up for lost time
      <hr/>
      
-      - *Following a particularly dark and vivid display of the threats to the 2020 U.S. election during Tuesday’s first presidential debate, Facebook has further clarified its new rules around election-related ads. Facebook is now expanding its political advertising …*
+      - *If we look beyond the data at the bigger picture instead of searching for mythical creatures, the promise of digitalization in Latin America is clear.*
      
+  - Facebook won't accept ads that 'delegitimize' U.S. election results
+      <hr/>
+      
+      - *Following a particularly dark and vivid display of the threats to the 2020 U.S. election during Tuesday’s first presidential debate, Facebook has further clarified its new rules around election-related ads. Facebook is now expanding its political advertising …*
+      
   - Last chance to demo at TC Sessions: Mobility 2020: Sales end tomorrow
       <hr/>
       
@@ -73,16 +78,11 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
       <hr/>
       
       - *People do their best work and form championship teams when they feel good about supporting their teammates and colleagues, not when they remain silent on their behalf.*
-      
+       
   - Google Maps gets improved Live View AR directions
       <hr/>
-      
-      - *Google today announced a few updates to Live View, the augmented reality walking directions in its Google Maps app that officially launched last year. Live View uses your phone’s camera and GPS to tell you exactly where to go, making it a nice addition to the…*
        
-  - Bullpen Capital raises $130 million more to fund the far afield and misunderstood
-      <hr/>
-       
-       - *Bullpen Capital, a now 10-year-old, venture fund in Menlo Park that focuses on what it calls post-seed investing — it backs startups that have already raised up to $5 million and “aren’t quite ready for a $10 million check but another $5 million would make th…*
+       - *Google today announced a few updates to Live View, the augmented reality walking directions in its Google Maps app that officially launched last year. Live View uses your phone’s camera and GPS to tell you exactly where to go, making it a nice addition to the…*
       
 
 <br />
