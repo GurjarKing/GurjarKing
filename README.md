@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Good judgement comes from experience. Experience comes from bad judgement.
+Before software can be reusable it first has to be usable.
 
-~ Jim Horning
+~ Ralph Johnson (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Good judgement comes from experience. Experience comes from bad judgement.
 </pre>
 <strong>Daily News</strong>
   
-  - Microsoft adds the $549 Laptop Go to its growing Surface lineup
+  - Macrometa, an edge computing service for app developers, lands $7M seed round led by DNX
      <hr/>
      
-      - *Microsoft just added a couple of key additions to its ever-growing lineup of Surface devices. There are a bunch of new accessories and an update to the Surface Pro X, which you can read about here. The biggest news of the morning, however, is the arrival of t…*
+      - *As people continue to work and study from home because of the COVID-19 pandemic, interest in edge computing has increased. Macrometa, a Palo Alto-based that provides edge computing infrastructure for app developers, announced today it has closed a $7 million …*
      
-  - Microsoft updates its Arm-based Surface Pro X  tablet with a faster CPU
+  - Motif Foodworks preps commercial production for its first ingredient, improving the flavor of beef substitutes
       <hr/>
       
-      - *Microsoft today announced the second generation of its Arm-based Surface Pro X tablet. The first generation of the Pro X launched last October and since then, Microsoft worked with Qualcomm to design the second generation of the SQ2 processor that powers it. …*
+      - *Motif Foodworks, the Ginkgo Bioworks spinout focused on developing new plant-based flavorings and food ingredients, is readying commercial scale production of its first product an ingredient to improve the flavor of beef substitutes. The expansion of Motif’s …*
       
-  - Imperva to acquire database security startup jSonar
+  - Cisco acquires PortShift to raise its game in DevOps and Kubernetes security
       <hr/>
       
-      - *Cybersecurity giant Imperva will acquire jSonar, a database security startup that recently landed $50 million from Goldman Sachs. Financial terms of the deal weren’t disclosed. The acquisition of jSonar, which provides security and compliance to databases on-…*
+      - *Cisco is making another acquisition to expand its reach in security solutions, this time specifically targeting DevOps and the world of container management. It is acquiring PortShift, an Israeli startup that has built a Kubernetes-native security platform. T…*
       
-  - Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M
+  - Altinity grabs $4M seed to build cloud version of ClickHouse open source data warehouse
       <hr/>
       
-      - *SOPHiA GENETICS, the shoutily and poorly capitalized named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care, has raised $110 million in new fund…*
+      - *Earlier this month, cloud data warehouse Snowflake turned heads when it debuted on the stock market. Today, Altinity, the commercial company behind the open source ClickHouse data warehouse announced a $4 million seed round from Accel along with a new cloud s…*
        
-  - Jüsto adds another $5 million in funding to build its online, delivery-only grocery store for Latin America
+  - Microsoft adds the $549 Laptop Go to its growing Surface lineup
       <hr/>
        
-       - *As it begins expanding beyond its home base in Mexico City, the on-demand, online only grocery store Jüsto has  added another $5 million in early stage funding. The new money came from Bimbo Ventures, the strategic investment arm of one of the world’s largest…*
+       - *Microsoft just added a couple of key additions to its ever-growing lineup of Surface devices. There are a bunch of new accessories and an update to the Surface Pro X, which you can read about here. The biggest news of the morning, however, is the arrival of t…*
       
 
 <br />
