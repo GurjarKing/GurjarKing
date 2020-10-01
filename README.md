@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Debugging is like being the detective in a crime movie where you are also the murderer.
+The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 
-~ Filipe Fortes
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Debugging is like being the detective in a crime movie where you are also the mu
 </pre>
 <strong>Daily News</strong>
   
-  - Latin America's digital transformation is making up for lost time
+  - What if the kernel is corrupt?
      <hr/>
      
-      - *If we look beyond the data at the bigger picture instead of searching for mythical creatures, the promise of digitalization in Latin America is clear.*
+      - *Hello and welcome back to Equity, TechCrunch’s VC-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week, Alex is on a much deserved vacation (but not from Twitter, it seems) so Danny Crichton and I chatted through the …*
      
+  - Oracle's TikTok and Zoom deals won't move cloud market share needle significantly
+      <hr/>
+      
+      - *While the overall cloud infrastructure market is booming having reached $30 billion last quarter worldwide, Oracle is struggling with market share in the low single digits. It is hoping that the Zoom and TikTok deals can jump start those numbers, but trying t…*
+      
+  - Latin America's digital transformation is making up for lost time
+      <hr/>
+      
+      - *If we look beyond the data at the bigger picture instead of searching for mythical creatures, the promise of digitalization in Latin America is clear.*
+      
   - Facebook won't accept ads that 'delegitimize' U.S. election results
       <hr/>
       
       - *Following a particularly dark and vivid display of the threats to the 2020 U.S. election during Tuesday’s first presidential debate, Facebook has further clarified its new rules around election-related ads. Facebook is now expanding its political advertising …*
-      
+       
   - Last chance to demo at TC Sessions: Mobility 2020: Sales end tomorrow
       <hr/>
-      
-      - *Opportunity alert! We’re just five short days away from TC Sessions: Mobility 2020, a two-day event focused on building the future of transportation. Thousands of attendees from around the world will be looking for the latest technologies and up-and-coming st…*
-      
-  - Working for social justice isn't a 'distraction' for mission-focused companies
-      <hr/>
-      
-      - *People do their best work and form championship teams when they feel good about supporting their teammates and colleagues, not when they remain silent on their behalf.*
        
-  - Google Maps gets improved Live View AR directions
-      <hr/>
-       
-       - *Google today announced a few updates to Live View, the augmented reality walking directions in its Google Maps app that officially launched last year. Live View uses your phone’s camera and GPS to tell you exactly where to go, making it a nice addition to the…*
+       - *Opportunity alert! We’re just five short days away from TC Sessions: Mobility 2020, a two-day event focused on building the future of transportation. Thousands of attendees from around the world will be looking for the latest technologies and up-and-coming st…*
       
 
 <br />
