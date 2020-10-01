@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Charles Simonyi
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ What is programming? Some people call it a science, some people call it an art, 
 </pre>
 <strong>Daily News</strong>
   
-  - Bullpen Capital raises $130 million more to fund the far afield and misunderstood
+  - Facebook won't accept ads that 'delegitimize' U.S. election results
      <hr/>
      
-      - *Bullpen Capital, a now 10-year-old, venture fund in Menlo Park that focuses on what it calls post-seed investing — it backs startups that have already raised up to $5 million and “aren’t quite ready for a $10 million check but another $5 million would make th…*
+      - *Following a particularly dark and vivid display of the threats to the 2020 U.S. election during Tuesday’s first presidential debate, Facebook has further clarified its new rules around election-related ads. Facebook is now expanding its political advertising …*
      
-  - Ethel's Club founder is launching Somewhere Good, a social platform that centers people of color
+  - Last chance to demo at TC Sessions: Mobility 2020: Sales end tomorrow
       <hr/>
       
-      - *Naj Austin, founder and CEO of subscription-based physical and digital community Ethel’s Club, is building Somewhere Good to be a one-stop shop for people of color. Beyond being a place for people of color to connect, it’s also about creating a safe space for…*
+      - *Opportunity alert! We’re just five short days away from TC Sessions: Mobility 2020, a two-day event focused on building the future of transportation. Thousands of attendees from around the world will be looking for the latest technologies and up-and-coming st…*
       
-  - IonQ claims it has built the most powerful quantum computer yet
+  - Working for social justice isn't a 'distraction' for mission-focused companies
       <hr/>
       
-      - *Trapped-ion quantum computing startup IonQ today announced the launch of its latest quantum computer, which features what IonQ calls “32 perfect qubits with low gate errors.” Using IBM’s preferred quantum benchmark, IonQ expects to hit a quantum volume of 4,0…*
+      - *People do their best work and form championship teams when they feel good about supporting their teammates and colleagues, not when they remain silent on their behalf.*
       
-  - Teenage Engineering's OB-4 'magic radio' is a weird and beautiful wireless speaker
+  - Google Maps gets improved Live View AR directions
       <hr/>
       
-      - *I’ve found a new object of desire which, once acquired, I would probably never use. It’s this OB-4 “magic radio” from Teenage Engineering, a design group that creates tech with a playful but premium approach. This wireless speaker not only looks lovely but ha…*
+      - *Google today announced a few updates to Live View, the augmented reality walking directions in its Google Maps app that officially launched last year. Live View uses your phone’s camera and GPS to tell you exactly where to go, making it a nice addition to the…*
        
-  - Facebook Groups to gain suite of new tools for managing discussions, surfacing public content
+  - Bullpen Capital raises $130 million more to fund the far afield and misunderstood
       <hr/>
        
-       - *Facebook is introducing a suite of new features for Facebook Groups, the private social networking product now used by over 1.8 billion people every month. At the company’s digitally hosted Facebook Communities Summit today, Facebook detailed a set of upcomin…*
+       - *Bullpen Capital, a now 10-year-old, venture fund in Menlo Park that focuses on what it calls post-seed investing — it backs startups that have already raised up to $5 million and “aren’t quite ready for a $10 million check but another $5 million would make th…*
       
 
 <br />
