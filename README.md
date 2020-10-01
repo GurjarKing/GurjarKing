@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Carl Friedrich Gauss
+~ Jim Horning
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I am never satisfied until I have said as much as possible in a few words, and w
 </pre>
 <strong>Daily News</strong>
   
-  - Jüsto adds another $5 million in funding to build its online, delivery-only grocery store for Latin America
+  - Microsoft adds the $549 Laptop Go to its growing Surface lineup
      <hr/>
      
-      - *As it begins expanding beyond its home base in Mexico City, the on-demand, online only grocery store Jüsto has  added another $5 million in early stage funding. The new money came from Bimbo Ventures, the strategic investment arm of one of the world’s largest…*
+      - *Microsoft just added a couple of key additions to its ever-growing lineup of Surface devices. There are a bunch of new accessories and an update to the Surface Pro X, which you can read about here. The biggest news of the morning, however, is the arrival of t…*
      
-  - Google to pay out $1B to publishers to license content for new Google News Showcase
+  - Microsoft updates its Arm-based Surface Pro X  tablet with a faster CPU
       <hr/>
       
-      - *Google has long had a frenemy position with the world of news: it can direct a lot of traffic to online publishers, but that’s only if people bother to click on links after getting the gist of the story from Google itself  (and that’s before considering the A…*
+      - *Microsoft today announced the second generation of its Arm-based Surface Pro X tablet. The first generation of the Pro X launched last October and since then, Microsoft worked with Qualcomm to design the second generation of the SQ2 processor that powers it. …*
       
-  - Cazoo, the UK used car sales portal, raises another $311M, now valued at over $2B
+  - Imperva to acquire database security startup jSonar
       <hr/>
       
-      - *A lot of people are opting to use cars instead of taking public transportation in the UK at the moment, as a way of ensuring more social distancing, and today one of the startups that’s built a more efficient way of selling and buying cars is announcing a big…*
+      - *Cybersecurity giant Imperva will acquire jSonar, a database security startup that recently landed $50 million from Goldman Sachs. Financial terms of the deal weren’t disclosed. The acquisition of jSonar, which provides security and compliance to databases on-…*
       
-  - France's Sendinblue, an all-in-one digital marketing platform, raises $160M
+  - Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M
       <hr/>
       
-      - *As more companies and brands put the internet at the core of how they run their businesses these days, it’s giving a strong push to the growth of startups that are building tools to help them. In the latest development, Sendinblue, an eight-year-old French st…*
+      - *SOPHiA GENETICS, the shoutily and poorly capitalized named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care, has raised $110 million in new fund…*
        
-  - eFounders unveils its next batch of enterprise SaaS startups
+  - Jüsto adds another $5 million in funding to build its online, delivery-only grocery store for Latin America
       <hr/>
        
-       - *Since 2011, European startup studio eFounders has launched 27 companies with a focus on software-as-a-service companies trying to improve the way we work. Some of them have been quite successful, such as Front and Aircall. And the company is working on its ne…*
+       - *As it begins expanding beyond its home base in Mexico City, the on-demand, online only grocery store Jüsto has  added another $5 million in early stage funding. The new money came from Bimbo Ventures, the strategic investment arm of one of the world’s largest…*
       
 
 <br />
