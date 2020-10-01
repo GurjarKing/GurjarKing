@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every good work of software starts by scratching a developer’s personal itch.
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 
-~ Eric S. Raymond
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
