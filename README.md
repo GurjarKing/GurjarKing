@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 
-~ René Descartes
+~ Alan Turing
 <pre>
 
 </pre>
