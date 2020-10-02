@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 
-~ John McCarthy (computer scientist)
+~ Robert L. Glass
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Program designers have a tendency to think of the users as idiots who need to be
 </pre>
 <strong>Daily News</strong>
   
-  - Blossom Capital appoints Carmen Alfonso Rico as its newest partner
+  - Paired picks up $1M funding and launches its relationship app for couples
      <hr/>
      
-      - *Blossom Capital, the early-stage venture capital firm founded by Ophelia Brown, has recruited its latest partner: Carmen Alfonso Rico has joined from Samaipata VC, where she led the U.K. office. Before that she was at Felix Capital and is also a co-founder of…*
+      - *Paired, a new app for couples, is launching today and disclosing $1 million in funding. Backing the startup, which wants to support “happier and healthier” relationships, is Taavet Hinrikus of TransferWise, the co-founders of Runtastic (which was sold to Adid…*
      
+  - Blossom Capital appoints Carmen Alfonso Rico as its newest partner
+      <hr/>
+      
+      - *Blossom Capital, the early-stage venture capital firm founded by Ophelia Brown, has recruited its latest partner: Carmen Alfonso Rico has joined from Samaipata VC, where she led the U.K. office. Before that she was at Felix Capital and is also a co-founder of…*
+      
   - Nintendo’s new RC Mario Kart looks terrific
       <hr/>
       
@@ -73,16 +78,11 @@ Program designers have a tendency to think of the users as idiots who need to be
       <hr/>
       
       - *NexusMods, a large platform and gathering place for modding PC games, has banned all content relating to the U.S. elections following a flood of troll content, saying “we’ve decided to wipe our hands clean of this mess.” Not exactly headline news, no, but a r…*
-      
+       
   - Spain's startup ecosystem: 9 investors on remote work, green shoots and 2020 trends
       <hr/>
-      
-      - *As reported in the first half of our Spain-focused VC survey, the nation’s startup ecosystem continues to grow and is keeping pace with ecosystems in more developed European countries such as U.K., France, Sweden and Germany. While main hubs Madrid and Barcel…*
        
-  - Digital vote-by-mail applications in most states are inaccessible to people with disabilities
-      <hr/>
-       
-       - *The 2020 election is without a doubt going to be the biggest one in history for voting by mail, but people with disabilities may find it rather difficult to apply for their ballot, since according to an audit by Deque, most states don’t actually have an acces…*
+       - *As reported in the first half of our Spain-focused VC survey, the nation’s startup ecosystem continues to grow and is keeping pace with ecosystems in more developed European countries such as U.K., France, Sweden and Germany. While main hubs Madrid and Barcel…*
       
 
 <br />
