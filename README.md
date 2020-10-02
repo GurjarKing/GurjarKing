@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+The hardest part of design is keeping features out.
 
-~ Elon Musk
+~ Don Norman
 <pre>
 
 </pre>
