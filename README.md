@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 
-~ Alan Perlis
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ For all its power, the computer is a harsh taskmaster. Its programs must be corr
 </pre>
 <strong>Daily News</strong>
   
-  - Air quality monitoring service Airly raises $2 million as fires, pollution force consumers to take note
+  - Bolt Threads partners with Adidas, owners of Balenciaga and Gucci, and Stella McCartney on mushroom leather
      <hr/>
      
-      - *As smoke from fires chokes the skies Western U.S. and pollution chokes much of the world, air quality has become yet another issue for civilization to address. Industrialization and natural disasters wrought by climate change are spewing more toxic matter int…*
+      - *Bolt Threads has brought together some new and existing partners including Stella McCartney, Kering (the fashion house behind brands like Balenciaga, Gucci, Alexander McQueen and Bottega Veneta), Lululemon and Adidas to create a consortium that will explore t…*
      
+  - Elon Musk says an update for its Starship spacecraft development program is coming in 3 weeks
+      <hr/>
+      
+      - *SpaceX will provide an update about what’s happening with their Starship spacecraft in roughly three weeks, according to CEO and founder Elon Musk. Starship is a next-generation, fully reusable spacecraft that the company is developing with the aim of replaci…*
+      
+  - Air quality monitoring service Airly raises $2 million as fires, pollution force consumers to take note
+      <hr/>
+      
+      - *As smoke from fires chokes the skies Western U.S. and pollution chokes much of the world, air quality has become yet another issue for civilization to address. Industrialization and natural disasters wrought by climate change are spewing more toxic matter int…*
+      
   - Indianapolis-based Malomo raises $2.8 million to turn order tracking into a branded customer experience
       <hr/>
       
       - *Yaw Aning, named Malomo, the service he launched for small businesses to turn their order-tracking services into branded customer experiences, as a tribute to his mother, who was a small business owner herself. “Malomo” means flowers in Swahili and it was the…*
-      
+       
   - Zynga completes its acquisition of hyper-casual game maker Rollic
       <hr/>
-      
-      - *Zynga announced in August that it would be acquiring Istanbul-based Rollic, developer and publisher of hyper-casual gaming hits like Go Knots 3D and Tangle Master 3D. Today, it says the deal has closed. To be clear, Zynga doesn’t completely own Rollic yet. In…*
-      
-  - American stocks drop in wake of President's COVID-19 diagnosis
-      <hr/>
-      
-      - *American stocks are selling in the wake of President Trump, and members of his family and a key staff member, testing positive for COVID-19. The news, which came overnight, is weighing heavily on all major American indices, but heaviest on tech shares. As of …*
        
-  - Twitter may let users choose how to crop image previews after bias scrutiny
-      <hr/>
-       
-       - *In an interesting development in the wake of a bias controversy over its cropping algorithm Twitter has said it’s considering giving users decision making power over how tweet previews look, saying it wants to decrease its reliance on machine learning-based i…*
+       - *Zynga announced in August that it would be acquiring Istanbul-based Rollic, developer and publisher of hyper-casual gaming hits like Go Knots 3D and Tangle Master 3D. Today, it says the deal has closed. To be clear, Zynga doesn’t completely own Rollic yet. In…*
       
 
 <br />
