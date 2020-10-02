@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Good software, like good wine, takes time.
+Programming can be addictive.
 
-~ Joel Spolsky
+~ Bob Carr
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Good software, like good wine, takes time.
 </pre>
 <strong>Daily News</strong>
   
-  - Kaleido's Unscreen is dead simple drag-and-drop background removal for video
+  - Writer pens a $5M seed round for its AI style guide that flags bias and tone
      <hr/>
      
-      - *Removing the background of a video you’ve shot can be a real pain if you don’t have the kind of tools and setup used by professionals — and even then it isn’t as easy as it should be. Kaleido’s one-step background removal tool for images, remove.bg, has gradu…*
+      - *Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough, or refer to a group …*
      
+  - Propy, a blockchain-verified platform for selling houses, raises funding from Tim Draper
+      <hr/>
+      
+      - *For several years, blockchain technology has been touted as a way to verify the sale of property. Any kind of property. And so entrepreneurs busily began the process of trying to create a startup that could complete a property deal on the blockchain. One that…*
+      
+  - Coinbase lets you withdraw funds to your debit card
+      <hr/>
+      
+      - *Cryptocurrency exchange Coinbase is adding a new way to withdraw funds from your Coinbase account. If you’ve added a compatible debit card to your account, you can transfer USD, EUR or GBP to your bank account nearly instantly. There are some drawbacks, and t…*
+      
+  - Kaleido's Unscreen is dead simple drag-and-drop background removal for video
+      <hr/>
+      
+      - *Removing the background of a video you’ve shot can be a real pain if you don’t have the kind of tools and setup used by professionals — and even then it isn’t as easy as it should be. Kaleido’s one-step background removal tool for images, remove.bg, has gradu…*
+       
   - Watch SpaceX launch a GPS satellite for the U.S. Space Force live
       <hr/>
-      
-      - *SpaceX is set to launch a GPS-III satellite for the U.S. Space Force using a Falcon 9 rocket, with a target launch time of 9:43 PM EDT (6:43 PM PDT). That opens a 15-minute launch window, and so far weather is looking relatively good, which will hopefully hel…*
-      
-  - With $2.7M in fresh funding, Sora hopes to bring virtual high school to the mainstream
-      <hr/>
-      
-      - *Long before the coronavirus, Sora, a startup run by a team of Atlanta entrepreneurs, was toying with the idea of live, virtual high school. The program would focus on student autonomy and organize its curriculum around projects that learners wanted to work on…*
-      
-  - Announcing the TC Pitch-Off: Mobility startups
-      <hr/>
-      
-      - *For the past two years, TechCrunch has brought together the best and brightest minds in mobility at for our TechCrunch Sessions: Mobility event. This year, we are adding a little extra twist. On October 5, the day before Mobility 2020, TC is hosting a pitch-o…*
        
-  - Bolt Threads partners with Adidas, owners of Balenciaga and Gucci, and Stella McCartney on mushroom leather
-      <hr/>
-       
-       - *Bolt Threads has brought together some new and existing partners including Stella McCartney, Kering (the fashion house behind brands like Balenciaga, Gucci, Alexander McQueen and Bottega Veneta), Lululemon and Adidas to create a consortium that will explore t…*
+       - *SpaceX is set to launch a GPS-III satellite for the U.S. Space Force using a Falcon 9 rocket, with a target launch time of 9:43 PM EDT (6:43 PM PDT). That opens a 15-minute launch window, and so far weather is looking relatively good, which will hopefully hel…*
       
 
 <br />
