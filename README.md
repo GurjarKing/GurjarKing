@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
 
-~ Maurice Wilkes
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: Coinbase and Clubhouse aside, Ethel’s Club founder wants to take us 'Somewhere Good'
+  - Google wakes up from its VR daydream
      <hr/>
      
-      - *Welcome back to Human Capital, a weekly digest about diversity, inclusion and the human labor that powers tech. This week, we’re looking at a number of topics because a lot went down. Coinbase CEO Brian Armstrong took a controversial stance on social, Clubhou…*
+      - *Daydream, Google’s mobile-focused virtual reality platform is losing official support from Google, Android Police reports. The company confirmed that it will no longer be updating the Daydream software, with the publication noting that “Daydream may not even …*
      
+  - A security flaw in Grindr let anyone easily hijack user accounts
+      <hr/>
+      
+      - *Secret tokens used to reset account passwords were leaking to the browser.*
+      
+  - Uber sells $500M stake in its freight business as the ride-hailing giant works to conserve cash
+      <hr/>
+      
+      - *One year ago, Uber’s business model could be categorized as an “all of the above approach,” a strategy to generate revenue from all forms of transportation, including ride-hailing, micromobility, logistics, and package and food delivery. The COVID-19 pandemic…*
+      
+  - Human Capital: Coinbase and Clubhouse aside, Ethel’s Club founder wants to take us 'Somewhere Good'
+      <hr/>
+      
+      - *Welcome back to Human Capital, a weekly digest about diversity, inclusion and the human labor that powers tech. This week, we’re looking at a number of topics because a lot went down. Coinbase CEO Brian Armstrong took a controversial stance on social, Clubhou…*
+       
   - Singapore's GIC to invest $752 million in Reliance Retail
       <hr/>
-      
-      - *GIC, Singapore’s sovereign wealth fund, will invest $752 million in Mukesh Ambani’s Reliance Retail, the Indian firm said Saturday midnight. The Government of Singapore Investment Corp is the fifth high-profile investor to back Reliance Retail, India’s larges…*
-      
-  - Which neobanks will rise or fall?
-      <hr/>
-      
-      - *Neobanks have created a new tech stack, completely changing the services, products and speed at which they are delivered, and creating more fluidity in payments and currencies.*
-      
-  - Plaid improves its account linking flow
-      <hr/>
-      
-      - *Plaid, the company building a universal banking API that lets you connect an app or service with a bank account, has updated Plaid Link. Plaid Link is the interface that you see when you add your bank account to any app or service that uses Plaid, such as Cas…*
        
-  - Writer pens a $5M seed round for its AI style guide that flags bias and tone
-      <hr/>
-       
-       - *Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough, or refer to a group …*
+       - *GIC, Singapore’s sovereign wealth fund, will invest $752 million in Mukesh Ambani’s Reliance Retail, the Indian firm said Saturday midnight. The Government of Singapore Investment Corp is the fifth high-profile investor to back Reliance Retail, India’s larges…*
       
 
 <br />
