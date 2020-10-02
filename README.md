@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Object-oriented design is the roman numerals of computing.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Rob Pike
+~ Fred Brooks
 <pre>
 
 </pre>
