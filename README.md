@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
+Really good programs live forever.
 
-~ Fred Brooks
+~ Charles Simonyi
 <pre>
 
 </pre>
