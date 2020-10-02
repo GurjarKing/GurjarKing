@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming can be addictive.
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 
-~ Bob Carr
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Programming can be addictive.
 </pre>
 <strong>Daily News</strong>
   
-  - Writer pens a $5M seed round for its AI style guide that flags bias and tone
+  - Which neobanks will rise or fall?
      <hr/>
      
-      - *Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough, or refer to a group …*
+      - *Neobanks have created a new tech stack, completely changing the services, products and speed at which they are delivered, and creating more fluidity in payments and currencies.*
      
+  - Plaid improves its account linking flow
+      <hr/>
+      
+      - *Plaid, the company building a universal banking API that lets you connect an app or service with a bank account, has updated Plaid Link. Plaid Link is the interface that you see when you add your bank account to any app or service that uses Plaid, such as Cas…*
+      
+  - Writer pens a $5M seed round for its AI style guide that flags bias and tone
+      <hr/>
+      
+      - *Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough, or refer to a group …*
+      
   - Propy, a blockchain-verified platform for selling houses, raises funding from Tim Draper
       <hr/>
       
       - *For several years, blockchain technology has been touted as a way to verify the sale of property. Any kind of property. And so entrepreneurs busily began the process of trying to create a startup that could complete a property deal on the blockchain. One that…*
-      
+       
   - Coinbase lets you withdraw funds to your debit card
       <hr/>
-      
-      - *Cryptocurrency exchange Coinbase is adding a new way to withdraw funds from your Coinbase account. If you’ve added a compatible debit card to your account, you can transfer USD, EUR or GBP to your bank account nearly instantly. There are some drawbacks, and t…*
-      
-  - Kaleido's Unscreen is dead simple drag-and-drop background removal for video
-      <hr/>
-      
-      - *Removing the background of a video you’ve shot can be a real pain if you don’t have the kind of tools and setup used by professionals — and even then it isn’t as easy as it should be. Kaleido’s one-step background removal tool for images, remove.bg, has gradu…*
        
-  - Watch SpaceX launch a GPS satellite for the U.S. Space Force live
-      <hr/>
-       
-       - *SpaceX is set to launch a GPS-III satellite for the U.S. Space Force using a Falcon 9 rocket, with a target launch time of 9:43 PM EDT (6:43 PM PDT). That opens a 15-minute launch window, and so far weather is looking relatively good, which will hopefully hel…*
+       - *Cryptocurrency exchange Coinbase is adding a new way to withdraw funds from your Coinbase account. If you’ve added a compatible debit card to your account, you can transfer USD, EUR or GBP to your bank account nearly instantly. There are some drawbacks, and t…*
       
 
 <br />
