@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-~ Joseph Yoder (computer scientist)
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ While much attention has been focused on high-level software architectural patte
 </pre>
 <strong>Daily News</strong>
   
-  - Which neobanks will rise or fall?
+  - Human Capital: Coinbase and Clubhouse aside, Ethel’s Club founder wants to take us 'Somewhere Good'
      <hr/>
      
-      - *Neobanks have created a new tech stack, completely changing the services, products and speed at which they are delivered, and creating more fluidity in payments and currencies.*
+      - *Welcome back to Human Capital, a weekly digest about diversity, inclusion and the human labor that powers tech. This week, we’re looking at a number of topics because a lot went down. Coinbase CEO Brian Armstrong took a controversial stance on social, Clubhou…*
      
+  - Singapore's GIC to invest $752 million in Reliance Retail
+      <hr/>
+      
+      - *GIC, Singapore’s sovereign wealth fund, will invest $752 million in Mukesh Ambani’s Reliance Retail, the Indian firm said Saturday midnight. The Government of Singapore Investment Corp is the fifth high-profile investor to back Reliance Retail, India’s larges…*
+      
+  - Which neobanks will rise or fall?
+      <hr/>
+      
+      - *Neobanks have created a new tech stack, completely changing the services, products and speed at which they are delivered, and creating more fluidity in payments and currencies.*
+      
   - Plaid improves its account linking flow
       <hr/>
       
       - *Plaid, the company building a universal banking API that lets you connect an app or service with a bank account, has updated Plaid Link. Plaid Link is the interface that you see when you add your bank account to any app or service that uses Plaid, such as Cas…*
-      
+       
   - Writer pens a $5M seed round for its AI style guide that flags bias and tone
       <hr/>
-      
-      - *Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough, or refer to a group …*
-      
-  - Propy, a blockchain-verified platform for selling houses, raises funding from Tim Draper
-      <hr/>
-      
-      - *For several years, blockchain technology has been touted as a way to verify the sale of property. Any kind of property. And so entrepreneurs busily began the process of trying to create a startup that could complete a property deal on the blockchain. One that…*
        
-  - Coinbase lets you withdraw funds to your debit card
-      <hr/>
-       
-       - *Cryptocurrency exchange Coinbase is adding a new way to withdraw funds from your Coinbase account. If you’ve added a compatible debit card to your account, you can transfer USD, EUR or GBP to your bank account nearly instantly. There are some drawbacks, and t…*
+       - *Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough, or refer to a group …*
       
 
 <br />
