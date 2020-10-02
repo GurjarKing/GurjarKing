@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programs must be written for people to read, and only incidentally for machines to execute.
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 
-~ Hal Abelson
+~ Elon Musk
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Programs must be written for people to read, and only incidentally for machines 
 </pre>
 <strong>Daily News</strong>
   
-  - Paired picks up $1M funding and launches its relationship app for couples
+  - Twitter may let users choose how to crop image previews after bias scrutiny
      <hr/>
      
-      - *Paired, a new app for couples, is launching today and disclosing $1 million in funding. Backing the startup, which wants to support “happier and healthier” relationships, is Taavet Hinrikus of TransferWise, the co-founders of Runtastic (which was sold to Adid…*
+      - *In an interesting development in the wake of a bias controversy over its cropping algorithm Twitter has said it’s considering giving users decision making power over how tweet previews look, saying it wants to decrease its reliance on machine learning-based i…*
      
+  - Paired picks up $1M funding and launches its relationship app for couples
+      <hr/>
+      
+      - *Paired, a new app for couples, is launching today and disclosing $1 million in funding. Backing the startup, which wants to support “happier and healthier” relationships, is Taavet Hinrikus of TransferWise, the co-founders of Runtastic (which was sold to Adid…*
+      
   - Blossom Capital appoints Carmen Alfonso Rico as its newest partner
       <hr/>
       
@@ -73,16 +78,11 @@ Programs must be written for people to read, and only incidentally for machines 
       <hr/>
       
       - *In a year, Nintendo would have demoed, in person, Mario Kart Live: Home Circuit. The company would have invited select members of the press into some rented event space and let us experience the game first-hand, like it had with Labo and Ring Fit Adventures. …*
-      
+       
   - A PC gaming site had to ban political troll mods for games, because nowhere is safe
       <hr/>
-      
-      - *NexusMods, a large platform and gathering place for modding PC games, has banned all content relating to the U.S. elections following a flood of troll content, saying “we’ve decided to wipe our hands clean of this mess.” Not exactly headline news, no, but a r…*
        
-  - Spain's startup ecosystem: 9 investors on remote work, green shoots and 2020 trends
-      <hr/>
-       
-       - *As reported in the first half of our Spain-focused VC survey, the nation’s startup ecosystem continues to grow and is keeping pace with ecosystems in more developed European countries such as U.K., France, Sweden and Germany. While main hubs Madrid and Barcel…*
+       - *NexusMods, a large platform and gathering place for modding PC games, has banned all content relating to the U.S. elections following a flood of troll content, saying “we’ve decided to wipe our hands clean of this mess.” Not exactly headline news, no, but a r…*
       
 
 <br />
