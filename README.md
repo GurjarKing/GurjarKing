@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Tom DeMarco
+~ Daniel T. Barry
 <pre>
 
 </pre>
