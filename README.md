@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Less code equals less bugs.
+Good software, like good wine, takes time.
 
-~ Kevlin Henney
+~ Joel Spolsky
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Less code equals less bugs.
 </pre>
 <strong>Daily News</strong>
   
-  - Watch SpaceX launch a GPS satellite for the U.S. Space Force live
+  - Kaleido's Unscreen is dead simple drag-and-drop background removal for video
      <hr/>
      
-      - *SpaceX is set to launch a GPS-III satellite for the U.S. Space Force using a Falcon 9 rocket, with a target launch time of 9:43 PM EDT (6:43 PM PDT). That opens a 15-minute launch window, and so far weather is looking relatively good, which will hopefully hel…*
+      - *Removing the background of a video you’ve shot can be a real pain if you don’t have the kind of tools and setup used by professionals — and even then it isn’t as easy as it should be. Kaleido’s one-step background removal tool for images, remove.bg, has gradu…*
      
+  - Watch SpaceX launch a GPS satellite for the U.S. Space Force live
+      <hr/>
+      
+      - *SpaceX is set to launch a GPS-III satellite for the U.S. Space Force using a Falcon 9 rocket, with a target launch time of 9:43 PM EDT (6:43 PM PDT). That opens a 15-minute launch window, and so far weather is looking relatively good, which will hopefully hel…*
+      
   - With $2.7M in fresh funding, Sora hopes to bring virtual high school to the mainstream
       <hr/>
       
@@ -73,16 +78,11 @@ Less code equals less bugs.
       <hr/>
       
       - *For the past two years, TechCrunch has brought together the best and brightest minds in mobility at for our TechCrunch Sessions: Mobility event. This year, we are adding a little extra twist. On October 5, the day before Mobility 2020, TC is hosting a pitch-o…*
-      
+       
   - Bolt Threads partners with Adidas, owners of Balenciaga and Gucci, and Stella McCartney on mushroom leather
       <hr/>
-      
-      - *Bolt Threads has brought together some new and existing partners including Stella McCartney, Kering (the fashion house behind brands like Balenciaga, Gucci, Alexander McQueen and Bottega Veneta), Lululemon and Adidas to create a consortium that will explore t…*
        
-  - Tesla delivers 139,300 vehicles in Q3, beating expectations
-      <hr/>
-       
-       - *Tesla delivered 139,300 vehicles in the third quarter, slightly above Wall Street’s expectations and a notable improvement from last quarter as well as the same period a year ago. Tesla’s numbers in the third quarter marked a 43% improvement from the same per…*
+       - *Bolt Threads has brought together some new and existing partners including Stella McCartney, Kering (the fashion house behind brands like Balenciaga, Gucci, Alexander McQueen and Bottega Veneta), Lululemon and Adidas to create a consortium that will explore t…*
       
 
 <br />
