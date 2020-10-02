@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 
-~ Fred Brooks
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ All repairs tend to destroy structure, to increase the entropy and disorder of a
 </pre>
 <strong>Daily News</strong>
   
-  - Nintendo’s new RC Mario Kart looks terrific
+  - Blossom Capital appoints Carmen Alfonso Rico as its newest partner
      <hr/>
      
-      - *In a year, Nintendo would have demoed, in person, Mario Kart Live: Home Circuit. The company would have invited select members of the press into some rented event space and let us experience the game first-hand, like it had with Labo and Ring Fit Adventures. …*
+      - *Blossom Capital, the early-stage venture capital firm founded by Ophelia Brown, has recruited its latest partner: Carmen Alfonso Rico has joined from Samaipata VC, where she led the U.K. office. Before that she was at Felix Capital and is also a co-founder of…*
      
+  - Nintendo’s new RC Mario Kart looks terrific
+      <hr/>
+      
+      - *In a year, Nintendo would have demoed, in person, Mario Kart Live: Home Circuit. The company would have invited select members of the press into some rented event space and let us experience the game first-hand, like it had with Labo and Ring Fit Adventures. …*
+      
   - A PC gaming site had to ban political troll mods for games, because nowhere is safe
       <hr/>
       
@@ -73,16 +78,11 @@ All repairs tend to destroy structure, to increase the entropy and disorder of a
       <hr/>
       
       - *As reported in the first half of our Spain-focused VC survey, the nation’s startup ecosystem continues to grow and is keeping pace with ecosystems in more developed European countries such as U.K., France, Sweden and Germany. While main hubs Madrid and Barcel…*
-      
+       
   - Digital vote-by-mail applications in most states are inaccessible to people with disabilities
       <hr/>
-      
-      - *The 2020 election is without a doubt going to be the biggest one in history for voting by mail, but people with disabilities may find it rather difficult to apply for their ballot, since according to an audit by Deque, most states don’t actually have an acces…*
        
-  - Daily Crunch: Google commits $1B to pay publishers
-      <hr/>
-       
-       - *Google is paying a lot of money for its news licensing program, Microsoft announces an affordable laptop and Facebook says it won’t accept ads casting doubts on the election. This is your Daily Crunch for October 1, 2020. The big story: Google commits $1B to …*
+       - *The 2020 election is without a doubt going to be the biggest one in history for voting by mail, but people with disabilities may find it rather difficult to apply for their ballot, since according to an audit by Deque, most states don’t actually have an acces…*
       
 
 <br />
