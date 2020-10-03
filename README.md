@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 
-~ Fred Brooks
+~ John Warnock
 <pre>
 
 </pre>
