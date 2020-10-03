@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
 
-~ John Warnock
+~ Charles Babbage
 <pre>
 
 </pre>
