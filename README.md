@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+A program that produces incorrect results twice as fast is infinitely slower.
 
-~ Michael Hawley
+~ John Ousterhout
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ What I like about programming is that it really helps you think about how we com
 </pre>
 <strong>Daily News</strong>
   
-  - This Week in Apps: Google Play gets new rules, Apple launches app marketing tools, EU looks to reign in tech giants
+  - Airbnb nears IPO as Asana and Palantir land their direct listings
      <hr/>
      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      - *World events have so far not stopped the enthusiasm for tech investing, and really, where else are those dollars going to go?*
      
+  - This Week in Apps: Google Play gets new rules, Apple launches app marketing tools, EU looks to reign in tech giants
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
   - Controversial former Uber exec Emil Michael has registered plans for a $250 million SPAC
       <hr/>
       
@@ -73,16 +78,11 @@ What I like about programming is that it really helps you think about how we com
       <hr/>
       
       - *An aspect of video calls that many of us take for granted is the way they can switch between feeds to highlight whoever’s speaking. Great — if speaking is how you communicate. Silent speech like sign language doesn’t trigger those algorithms, unfortunately, b…*
-      
+       
   - The next big tech hearing is scheduled for October 28
       <hr/>
-      
-      - *A day after the Senate Commerce Committee moved forward with plans to subpoena the CEOs of Twitter, Facebook and Google, it looks like some of the most powerful leaders in tech will testify willingly. Twitter announced late Friday that Jack Dorsey would appea…*
        
-  - Twitter will make users remove tweets hoping Trump dies of COVID-19
-      <hr/>
-       
-       - *President Donald Trump’s positive COVID-19 result has made Twitter a busy place in the past 24 hours, including some tweets that have publicly wished — some subtly and others more directly — that he die from the disease caused by coronavirus. Twitter put out …*
+       - *A day after the Senate Commerce Committee moved forward with plans to subpoena the CEOs of Twitter, Facebook and Google, it looks like some of the most powerful leaders in tech will testify willingly. Twitter announced late Friday that Jack Dorsey would appea…*
       
 
 <br />
