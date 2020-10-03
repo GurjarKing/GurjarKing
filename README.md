@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Vannevar Bush
+~ Linus Torvalds
 <pre>
 
 </pre>
