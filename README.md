@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
-~ Buckminster Fuller
+~ Richard Stallman
 <pre>
 
 </pre>
