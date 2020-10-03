@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 
-~ Danny Hillis
+~ Dennis Ritchie
 <pre>
 
 </pre>
