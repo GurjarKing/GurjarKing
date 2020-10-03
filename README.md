@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 
-~ Gottfried Wilhelm Leibniz
+~ Michael Hawley
 <pre>
 
 </pre>
