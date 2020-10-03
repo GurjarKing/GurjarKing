@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+What I cannot build, I do not understand.
 
-~ Chris Sacca
+~ Richard Feynman
 <pre>
 
 </pre>
