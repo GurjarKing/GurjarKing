@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Good people with a good process will outperform good people with no process every time.
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 
-~ Grady Booch
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Good people with a good process will outperform good people with no process ever
 </pre>
 <strong>Daily News</strong>
   
-  - 2 Kindred Capital partners discuss the firm's focus and equitable venture model
+  - Google research lets sign language switch 'active speaker' in video calls
      <hr/>
      
-      - *Kindred Capital, the London-based VC that backs early-stage founders in Europe and Israel, recently closed its second seed fund at £81 million. Out if its first fund raised in 2018, the firm has backed 29 companies. They include Five, which is building softwa…*
+      - *An aspect of video calls that many of us take for granted is the way they can switch between feeds to highlight whoever’s speaking. Great — if speaking is how you communicate. Silent speech like sign language doesn’t trigger those algorithms, unfortunately, b…*
      
+  - The next big tech hearing is scheduled for October 28
+      <hr/>
+      
+      - *A day after the Senate Commerce Committee moved forward with plans to subpoena the CEOs of Twitter, Facebook and Google, it looks like some of the most powerful leaders in tech will testify willingly. Twitter announced late Friday that Jack Dorsey would appea…*
+      
+  - Twitter will make users remove tweets hoping Trump dies of COVID-19
+      <hr/>
+      
+      - *President Donald Trump’s positive COVID-19 result has made Twitter a busy place in the past 24 hours, including some tweets that have publicly wished — some subtly and others more directly — that he die from the disease caused by coronavirus. Twitter put out …*
+      
+  - 2 Kindred Capital partners discuss the firm's focus and equitable venture model
+      <hr/>
+      
+      - *Kindred Capital, the London-based VC that backs early-stage founders in Europe and Israel, recently closed its second seed fund at £81 million. Out if its first fund raised in 2018, the firm has backed 29 companies. They include Five, which is building softwa…*
+       
   - Daily Crunch: Twitter confronts image-cropping concerns
       <hr/>
-      
-      - *Twitter addresses questions of bias in its image-cropping algorithms, we take a look at Mario Kart Live and the stock market takes a hit after President Trump’s COVID-19 diagnosis. This is your Daily Crunch for October 2, 2020. The big story: Twitter confront…*
-      
-  - Index Ventures’ Nina Achadjian and Sarah Cannon: 'There's basically an infinite bid' for growth-stage startups
-      <hr/>
-      
-      - *The venture world is swimming in capital these days, and the flood doesn’t appear to be abating. That’s changing the game for venture capitalists and their firms, which transformed from solo practitioners focused on one stage and a single geographical area to…*
-      
-  - Twitter is building 'Birdwatch,' a system to fight misinformation by adding more context to tweets
-      <hr/>
-      
-      - *Twitter is developing a new product called “Birdwatch,” which the company confirms is an attempt at addressing misinformation across its platform by providing more context for tweets, in the form of notes. Tweets can be added to “Birdwatch” — meaning flagged …*
        
-  - Google wakes up from its VR daydream
-      <hr/>
-       
-       - *Daydream, Google’s mobile-focused virtual reality platform is losing official support from Google, Android Police reports. The company confirmed that it will no longer be updating the Daydream software, with the publication noting that “Daydream may not even …*
+       - *Twitter addresses questions of bias in its image-cropping algorithms, we take a look at Mario Kart Live and the stock market takes a hit after President Trump’s COVID-19 diagnosis. This is your Daily Crunch for October 2, 2020. The big story: Twitter confront…*
       
 
 <br />
