@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When I invented the web, I didn't have to ask anyone's permission.
+What is simplicity? Simplicity is the shortest path to a solution.
 
-~ Tim Berners-Lee
+~ Ward Cunningham
 <pre>
 
 </pre>
