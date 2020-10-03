@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 
-~ Ward Cunningham
+~ Alan Perlis
 <pre>
 
 </pre>
