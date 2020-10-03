@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 
-~ Danny Hillis
+~ Vannevar Bush
 <pre>
 
 </pre>
