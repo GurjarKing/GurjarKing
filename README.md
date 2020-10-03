@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 
-~ Linus Torvalds
+~ Chris Sacca
 <pre>
 
 </pre>
