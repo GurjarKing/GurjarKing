@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+The Domain Name Server (DNS) is the Achilles heel of the Web.
 
-~ Alan Perlis
+~ Tim Berners-Lee
 <pre>
 
 </pre>
