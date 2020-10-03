@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+When I invented the web, I didn't have to ask anyone's permission.
 
-~ Charles Babbage
+~ Tim Berners-Lee
 <pre>
 
 </pre>
