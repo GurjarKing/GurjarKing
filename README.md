@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 ~ Martin Fowler
 <pre>
