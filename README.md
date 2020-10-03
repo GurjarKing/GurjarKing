@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What I cannot build, I do not understand.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Richard Feynman
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ What I cannot build, I do not understand.
 </pre>
 <strong>Daily News</strong>
   
-  - Google research lets sign language switch 'active speaker' in video calls
+  - Controversial former Uber exec Emil Michael has registered plans for a $250 million SPAC
      <hr/>
      
-      - *An aspect of video calls that many of us take for granted is the way they can switch between feeds to highlight whoever’s speaking. Great — if speaking is how you communicate. Silent speech like sign language doesn’t trigger those algorithms, unfortunately, b…*
+      - *SPACs, or special purpose acquisition companies, are all the rage right now, and people are emerging from all corners to raise them. Among the latest entrants — and someone who might be of interest to Silicon Valley watchers — is Emil Michael, a former Uber e…*
      
+  - Google research lets sign language switch 'active speaker' in video calls
+      <hr/>
+      
+      - *An aspect of video calls that many of us take for granted is the way they can switch between feeds to highlight whoever’s speaking. Great — if speaking is how you communicate. Silent speech like sign language doesn’t trigger those algorithms, unfortunately, b…*
+      
   - The next big tech hearing is scheduled for October 28
       <hr/>
       
@@ -73,16 +78,11 @@ What I cannot build, I do not understand.
       <hr/>
       
       - *President Donald Trump’s positive COVID-19 result has made Twitter a busy place in the past 24 hours, including some tweets that have publicly wished — some subtly and others more directly — that he die from the disease caused by coronavirus. Twitter put out …*
-      
+       
   - 2 Kindred Capital partners discuss the firm's focus and equitable venture model
       <hr/>
-      
-      - *Kindred Capital, the London-based VC that backs early-stage founders in Europe and Israel, recently closed its second seed fund at £81 million. Out if its first fund raised in 2018, the firm has backed 29 companies. They include Five, which is building softwa…*
        
-  - Daily Crunch: Twitter confronts image-cropping concerns
-      <hr/>
-       
-       - *Twitter addresses questions of bias in its image-cropping algorithms, we take a look at Mario Kart Live and the stock market takes a hit after President Trump’s COVID-19 diagnosis. This is your Daily Crunch for October 2, 2020. The big story: Twitter confront…*
+       - *Kindred Capital, the London-based VC that backs early-stage founders in Europe and Israel, recently closed its second seed fund at £81 million. Out if its first fund raised in 2018, the firm has backed 29 companies. They include Five, which is building softwa…*
       
 
 <br />
