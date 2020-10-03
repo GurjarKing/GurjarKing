@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 
-~ Martin Fowler
+~ Danny Hillis
 <pre>
 
 </pre>
