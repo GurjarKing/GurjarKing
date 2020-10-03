@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The Domain Name Server (DNS) is the Achilles heel of the Web.
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 
-~ Tim Berners-Lee
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
