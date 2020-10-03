@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 
-~ L. Peter Deutsch
+~ Danny Hillis
 <pre>
 
 </pre>
