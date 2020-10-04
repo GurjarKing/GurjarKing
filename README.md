@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The hardest part of design is keeping features out.
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 
-~ Don Norman
+~ Donald Knuth
 <pre>
 
 </pre>
