@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+The hardest part of design is keeping features out.
 
-~ Andy Hunt (author)
+~ Don Norman
 <pre>
 
 </pre>
