@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 
-~ Jeremy S. Anderson
+~ Bill Gates
 <pre>
 
 </pre>
