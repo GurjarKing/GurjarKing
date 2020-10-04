@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Daniel T. Barry
+~ Quarry worker's creed
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The cost to repair an error goes up dramatically as project moves towards comple
 </pre>
 <strong>Daily News</strong>
   
-  - Digging into the next wave of tech IPOs
+  - Original Content podcast: Netflix's 'Away' deftly balances space exploration and human drama
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. Let’s talk money, startups and spicy IPO rumors.*
+      - *“Away,” a new drama on Netflix, tells the story of the first manned expedition to Mars — Emma Green (played by Hilary Swank) leads an international team of astronauts on the three-year mission, while her husband Matt (Josh Charles) is part of the support team…*
      
+  - Accel VCs Sonali De Rycker and Andrew Braccia say European deal pace is 'incredibly active'
+      <hr/>
+      
+      - *The other week TechCrunch’s Extra Crunch Live series sat down with Accel VCs Sonali De Rycker and Andrew Braccia to chat about the state of the global startup investing ecosystem. Given their firm’s broad geographic footprint, we wanted to know what was going…*
+      
+  - Digging into the next wave of tech IPOs
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. Let’s talk money, startups and spicy IPO rumors.*
+      
   - Meet Cocoa Press, the Philly startup making a 3D printer for chocolate
       <hr/>
       
       - *Evan Weinstein, the founder of the Philadelphia-based startup, Cocoa Press, which makes a 3D printer for chocolate, doesn’t have much of a sweet tooth. But the young founder was fascinated by 3D printing technologies and was looking for a way to move the tech…*
-      
+       
   - Airbnb nears IPO as Asana and Palantir land their direct listings
       <hr/>
-      
-      - *World events have so far not stopped the enthusiasm for tech investing, and really, where else are those dollars going to go?*
-      
-  - This Week in Apps: Google Play gets new rules, Apple launches app marketing tools, EU looks to reign in tech giants
-      <hr/>
-      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
        
-  - Controversial former Uber exec Emil Michael has registered plans for a $250 million SPAC
-      <hr/>
-       
-       - *SPACs, or special purpose acquisition companies, are all the rage right now, and people are emerging from all corners to raise them. Among the latest entrants — and someone who might be of interest to Silicon Valley watchers — is Emil Michael, a former Uber e…*
+       - *World events have so far not stopped the enthusiasm for tech investing, and really, where else are those dollars going to go?*
       
 
 <br />
