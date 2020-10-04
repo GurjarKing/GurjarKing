@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+The limits of my language mean the limits of my world.
 
-~ Donald Knuth
+~ Ludwig Wittgenstein
 <pre>
 
 </pre>
