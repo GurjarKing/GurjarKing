@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 
-~ Hal Abelson
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The reason that we think computer science is about computers is pretty much the 
 </pre>
 <strong>Daily News</strong>
   
-  - Lime and Scoot veterans have built Ridepanda, a one-stop micromobility marketplace
+  - Ola fails to get ride-hailing license renewed in London, says it will appeal and continues to operate
      <hr/>
      
-      - *Chinmay Malaviya and Charlie Depman found themselves at the center of the shared micromobility industry just as it took off, working for companies like Bird, Lime and Scoot. They experienced a rollercoaster ride of venture funding and skyrocketing demand, pro…*
+      - *Just six days after Uber won its appeal against London transportation regulators to continue operating in London for another 18 months, one of its bigger rivals has found itself in the hot seat. Ola, the India-based ride-hailing startup, is not getting its Tr…*
      
+  - Lime and Scoot veterans have built Ridepanda, a one-stop micromobility marketplace
+      <hr/>
+      
+      - *Chinmay Malaviya and Charlie Depman found themselves at the center of the shared micromobility industry just as it took off, working for companies like Bird, Lime and Scoot. They experienced a rollercoaster ride of venture funding and skyrocketing demand, pro…*
+      
   - Einride raises $10 million to fast track its autonomous electric cargo pods
       <hr/>
       
@@ -73,16 +78,11 @@ The reason that we think computer science is about computers is pretty much the 
       <hr/>
       
       - *“Away,” a new drama on Netflix, tells the story of the first manned expedition to Mars — Emma Green (played by Hilary Swank) leads an international team of astronauts on the three-year mission, while her husband Matt (Josh Charles) is part of the support team…*
-      
+       
   - Accel VCs Sonali De Rycker and Andrew Braccia say European deal pace is 'incredibly active'
       <hr/>
-      
-      - *The other week TechCrunch’s Extra Crunch Live series sat down with Accel VCs Sonali De Rycker and Andrew Braccia to chat about the state of the global startup investing ecosystem. Given their firm’s broad geographic footprint, we wanted to know what was going…*
        
-  - Digging into the next wave of tech IPOs
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. Let’s talk money, startups and spicy IPO rumors.*
+       - *The other week TechCrunch’s Extra Crunch Live series sat down with Accel VCs Sonali De Rycker and Andrew Braccia to chat about the state of the global startup investing ecosystem. Given their firm’s broad geographic footprint, we wanted to know what was going…*
       
 
 <br />
