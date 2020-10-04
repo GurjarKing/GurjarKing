@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
 
-~ Joseph Yoder (computer scientist)
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Reviews and pair programming provide programmers with something their work would
 </pre>
 <strong>Daily News</strong>
   
-  - Einride raises $10 million to fast track its autonomous electric cargo pods
+  - Lime and Scoot veterans have built Ridepanda, a one-stop micromobility marketplace
      <hr/>
      
-      - *For the past four years, Swedish startup Einride has captured interest, investment and even a few customer contracts for its unusual-looking pods — electric and autonomous vehicles that are designed to carry freight. But progress in developing, testing and va…*
+      - *Chinmay Malaviya and Charlie Depman found themselves at the center of the shared micromobility industry just as it took off, working for companies like Bird, Lime and Scoot. They experienced a rollercoaster ride of venture funding and skyrocketing demand, pro…*
      
+  - Einride raises $10 million to fast track its autonomous electric cargo pods
+      <hr/>
+      
+      - *For the past four years, Swedish startup Einride has captured interest, investment and even a few customer contracts for its unusual-looking pods — electric and autonomous vehicles that are designed to carry freight. But progress in developing, testing and va…*
+      
   - Original Content podcast: Netflix's 'Away' deftly balances space exploration and human drama
       <hr/>
       
@@ -73,16 +78,11 @@ Reviews and pair programming provide programmers with something their work would
       <hr/>
       
       - *The other week TechCrunch’s Extra Crunch Live series sat down with Accel VCs Sonali De Rycker and Andrew Braccia to chat about the state of the global startup investing ecosystem. Given their firm’s broad geographic footprint, we wanted to know what was going…*
-      
+       
   - Digging into the next wave of tech IPOs
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. Let’s talk money, startups and spicy IPO rumors.*
        
-  - Meet Cocoa Press, the Philly startup making a 3D printer for chocolate
-      <hr/>
-       
-       - *Evan Weinstein, the founder of the Philadelphia-based startup, Cocoa Press, which makes a 3D printer for chocolate, doesn’t have much of a sweet tooth. But the young founder was fascinated by 3D printing technologies and was looking for a way to move the tech…*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. Let’s talk money, startups and spicy IPO rumors.*
       
 
 <br />
