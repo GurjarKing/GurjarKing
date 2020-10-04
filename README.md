@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 
 ~ Alan Turing
 <pre>
@@ -59,11 +59,16 @@ A man provided with paper, pencil, and rubber, and subject to strict discipline,
 </pre>
 <strong>Daily News</strong>
   
-  - Original Content podcast: Netflix's 'Away' deftly balances space exploration and human drama
+  - Einride raises $10 million to fast track its autonomous electric cargo pods
      <hr/>
      
-      - *“Away,” a new drama on Netflix, tells the story of the first manned expedition to Mars — Emma Green (played by Hilary Swank) leads an international team of astronauts on the three-year mission, while her husband Matt (Josh Charles) is part of the support team…*
+      - *For the past four years, Swedish startup Einride has captured interest, investment and even a few customer contracts for its unusual-looking pods — electric and autonomous vehicles that are designed to carry freight. But progress in developing, testing and va…*
      
+  - Original Content podcast: Netflix's 'Away' deftly balances space exploration and human drama
+      <hr/>
+      
+      - *“Away,” a new drama on Netflix, tells the story of the first manned expedition to Mars — Emma Green (played by Hilary Swank) leads an international team of astronauts on the three-year mission, while her husband Matt (Josh Charles) is part of the support team…*
+      
   - Accel VCs Sonali De Rycker and Andrew Braccia say European deal pace is 'incredibly active'
       <hr/>
       
@@ -73,16 +78,11 @@ A man provided with paper, pencil, and rubber, and subject to strict discipline,
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. Let’s talk money, startups and spicy IPO rumors.*
-      
+       
   - Meet Cocoa Press, the Philly startup making a 3D printer for chocolate
       <hr/>
-      
-      - *Evan Weinstein, the founder of the Philadelphia-based startup, Cocoa Press, which makes a 3D printer for chocolate, doesn’t have much of a sweet tooth. But the young founder was fascinated by 3D printing technologies and was looking for a way to move the tech…*
        
-  - Airbnb nears IPO as Asana and Palantir land their direct listings
-      <hr/>
-       
-       - *World events have so far not stopped the enthusiasm for tech investing, and really, where else are those dollars going to go?*
+       - *Evan Weinstein, the founder of the Philadelphia-based startup, Cocoa Press, which makes a 3D printer for chocolate, doesn’t have much of a sweet tooth. But the young founder was fascinated by 3D printing technologies and was looking for a way to move the tech…*
       
 
 <br />
