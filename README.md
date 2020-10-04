@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+Unix is simple. It just takes a genius to understand its simplicity.
 
-~ Joseph Yoder (computer scientist)
+~ Dennis Ritchie
 <pre>
 
 </pre>
