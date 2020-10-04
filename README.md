@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Unix is simple. It just takes a genius to understand its simplicity.
+When in doubt, use brute force.
 
-~ Dennis Ritchie
+~ Ken Thompson
 <pre>
 
 </pre>
