@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+The most important thing is to be able to think what you want, not to say what you want.
 
-~ Bill Gates
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
