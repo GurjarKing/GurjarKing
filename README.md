@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We who cut mere stones must always be envisioning cathedrals.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ Quarry worker's creed
+~ Donald Knuth
 <pre>
 
 </pre>
