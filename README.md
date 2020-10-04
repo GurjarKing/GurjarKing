@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When in doubt, use brute force.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Ken Thompson
+~ Jim Horning
 <pre>
 
 </pre>
