@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A beautiful program is like a beautiful theorem: It does the job elegantly.
+No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 
-~ Butler Lampson
+~ Andy Hunt (author)
 <pre>
 
 </pre>
