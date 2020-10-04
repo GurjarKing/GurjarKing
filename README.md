@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most important thing is to be able to think what you want, not to say what you want.
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 
-~ Paul Graham (programmer)
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The most important thing is to be able to think what you want, not to say what y
 </pre>
 <strong>Daily News</strong>
   
-  - Airbnb nears IPO as Asana and Palantir land their direct listings
+  - Digging into the next wave of tech IPOs
      <hr/>
      
-      - *World events have so far not stopped the enthusiasm for tech investing, and really, where else are those dollars going to go?*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. Let’s talk money, startups and spicy IPO rumors.*
      
+  - Meet Cocoa Press, the Philly startup making a 3D printer for chocolate
+      <hr/>
+      
+      - *Evan Weinstein, the founder of the Philadelphia-based startup, Cocoa Press, which makes a 3D printer for chocolate, doesn’t have much of a sweet tooth. But the young founder was fascinated by 3D printing technologies and was looking for a way to move the tech…*
+      
+  - Airbnb nears IPO as Asana and Palantir land their direct listings
+      <hr/>
+      
+      - *World events have so far not stopped the enthusiasm for tech investing, and really, where else are those dollars going to go?*
+      
   - This Week in Apps: Google Play gets new rules, Apple launches app marketing tools, EU looks to reign in tech giants
       <hr/>
       
       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
+       
   - Controversial former Uber exec Emil Michael has registered plans for a $250 million SPAC
       <hr/>
-      
-      - *SPACs, or special purpose acquisition companies, are all the rage right now, and people are emerging from all corners to raise them. Among the latest entrants — and someone who might be of interest to Silicon Valley watchers — is Emil Michael, a former Uber e…*
-      
-  - Google research lets sign language switch 'active speaker' in video calls
-      <hr/>
-      
-      - *An aspect of video calls that many of us take for granted is the way they can switch between feeds to highlight whoever’s speaking. Great — if speaking is how you communicate. Silent speech like sign language doesn’t trigger those algorithms, unfortunately, b…*
        
-  - The next big tech hearing is scheduled for October 28
-      <hr/>
-       
-       - *A day after the Senate Commerce Committee moved forward with plans to subpoena the CEOs of Twitter, Facebook and Google, it looks like some of the most powerful leaders in tech will testify willingly. Twitter announced late Friday that Jack Dorsey would appea…*
+       - *SPACs, or special purpose acquisition companies, are all the rage right now, and people are emerging from all corners to raise them. Among the latest entrants — and someone who might be of interest to Silicon Valley watchers — is Emil Michael, a former Uber e…*
       
 
 <br />
