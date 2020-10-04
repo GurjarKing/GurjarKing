@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Good judgement comes from experience. Experience comes from bad judgement.
+If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 
-~ Jim Horning
+~ Fred Brooks
 <pre>
 
 </pre>
