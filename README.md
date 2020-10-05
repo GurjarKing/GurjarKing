@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
 
-~ Ada Lovelace
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ In the case of the Analytical Engine, we have undoubtedly to lay out a certain c
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Airborne
+  - Google teams up with Samsonite to launch a Jacquard smart fabric-enabled backpack
      <hr/>
      
-      - *Lorne Michaels is the showrunner, to use a binge term, for Saturday Night Live. The show returned for its first season under the watchful gaze of pandemic rule, and the results were thankfully successful. Last season struggled in the early days of the virus, …*
+      - *It has been over four years since Project Jacquard, Google’s smart fabric technology, made its debut at the I/O developer conference. Launched out of what was then Google’s ATAP unit, Jacquard is currently best known for being available on Levi’s jeans jacket…*
      
+  - Feds arrest former Amazon employee after company reported him to FBI for fraud
+      <hr/>
+      
+      - *Amazon today disclosed that a former employee has been arrested for committing fraud against the online retailer. The company says it reported Vu Anh Nguyen to the Federal Bureau of Investigation in July 2020 fro falsely issuing refunds for products ordered o…*
+      
+  - Gillmor Gang: Airborne
+      <hr/>
+      
+      - *Lorne Michaels is the showrunner, to use a binge term, for Saturday Night Live. The show returned for its first season under the watchful gaze of pandemic rule, and the results were thankfully successful. Last season struggled in the early days of the virus, …*
+      
   - Ocean Solutions Accelerator's third wave tackles a new set of aquatic challenges
       <hr/>
       
       - *The Sustainable Ocean Alliance and its Ocean Solutions Accelerator take on the problems facing our planet’s waters, and the latest cohort of companies in the latter show a fresh slate of issues to address and resources to utilize. From reef rehabilitation to …*
-      
+       
   - Dear Sophie: Now that a judge has paused Trump's H-1B visa ban, how can I qualify my employees?
       <hr/>
-      
-      - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
-      
-  - Quantum photonics startup Nu Quantum raises £2.1M  from Amadeus Capital Partners
-      <hr/>
-      
-      - *For Quantum cryptography and simulation to become real, the technology requires high-performance light-emitting and light-detecting components that operate at the single-photon level and at ambient temperature. One of the few companies operating in this rarif…*
        
-  - Accessibility's nextgen breakthroughs will be literally in your head
-      <hr/>
-       
-       - *Predicting the future of technology for people with visual impairments is easier than you might think. In 2003, I wrote an article entitled “In the Palm of Your Hand” for the Journal of Visual Impairment & Blindness from the American Foundation for the Blind.…*
+       - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
       
 
 <br />
