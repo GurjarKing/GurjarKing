@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+Programming can be addictive.
 
-~ Edsger W. Dijkstra
+~ Bob Carr
 <pre>
 
 </pre>
