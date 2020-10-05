@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
 
-~ Pete Cordell
+~ Donald Knuth
 <pre>
 
 </pre>
