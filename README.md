@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think one of the most valuable rules is avoid duplication.
+My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
 
-~ Martin Fowler
+~ Fred Brooks
 <pre>
 
 </pre>
