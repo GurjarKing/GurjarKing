@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+I think one of the most valuable rules is avoid duplication.
 
-~ Douglas Crockford
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ One of the things I’ve been pushing is code reading. I think that is the most 
 </pre>
 <strong>Daily News</strong>
   
-  - Google delays mandating Play Store's 30% cut in India to April 2022
+  - Cooler Screens raises $80M to bring interactive screens into cooler aisles
      <hr/>
      
-      - *Google is postponing the enforcement of its new Play Store billing policy in India to April 2022, days after more than 150 startups in the world’s second largest internet market forged an informal coalition to express concerns over the 30% charge the Android-…*
+      - *Cooler Screens, which replaces the glass doors in store cooler aisles with interactive digital displays, is announcing that it has raised more than $80 million in Series C funding. The startup has now raised more than $100 million in funding. The latest round…*
      
+  - Crowdcube and Seedrs agree to merge, creating a significant private equity marketplace
+      <hr/>
+      
+      - *The two main crowd-equity fundraising platforms in the UK, Crowdcube and Seedrs, have agreed terms on a long-rumoured merger, thus creating one of the world’s largest private equity marketplaces. The merger is being structured as an acquisition by Crowdcube o…*
+      
+  - Google delays mandating Play Store's 30% cut in India to April 2022
+      <hr/>
+      
+      - *Google is postponing the enforcement of its new Play Store billing policy in India to April 2022, days after more than 150 startups in the world’s second largest internet market forged an informal coalition to express concerns over the 30% charge the Android-…*
+      
   - Ola fails to get ride-hailing license renewed in London, says it will appeal and continues to operate
       <hr/>
       
       - *Just six days after Uber won its appeal against London transportation regulators to continue operating in London for another 18 months, one of its bigger rivals has found itself in the hot seat. Ola, the India-based ride-hailing startup, is not getting its Tr…*
-      
+       
   - Lime and Scoot veterans have built Ridepanda, a one-stop micromobility marketplace
       <hr/>
-      
-      - *Chinmay Malaviya and Charlie Depman found themselves at the center of the shared micromobility industry just as it took off, working for companies like Bird, Lime and Scoot. They experienced a rollercoaster ride of venture funding and skyrocketing demand, pro…*
-      
-  - Einride raises $10 million to fast track its autonomous electric cargo pods
-      <hr/>
-      
-      - *For the past four years, Swedish startup Einride has captured interest, investment and even a few customer contracts for its unusual-looking pods — electric and autonomous vehicles that are designed to carry freight. But progress in developing, testing and va…*
        
-  - Original Content podcast: Netflix's 'Away' deftly balances space exploration and human drama
-      <hr/>
-       
-       - *“Away,” a new drama on Netflix, tells the story of the first manned expedition to Mars — Emma Green (played by Hilary Swank) leads an international team of astronauts on the three-year mission, while her husband Matt (Josh Charles) is part of the support team…*
+       - *Chinmay Malaviya and Charlie Depman found themselves at the center of the shared micromobility industry just as it took off, working for companies like Bird, Lime and Scoot. They experienced a rollercoaster ride of venture funding and skyrocketing demand, pro…*
       
 
 <br />
