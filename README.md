@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 
-~ Donald Knuth
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I’ll use dirty tricks for two reasons. One is, if it’s really going to give 
 </pre>
 <strong>Daily News</strong>
   
-  - Strike Graph raises $3.9M to help automate security audits
+  - Printing giant Vistaprint acquires 99designs
      <hr/>
      
-      - *Compliance automation isn’t exactly the most exciting topic, but security audits are big business and companies that aim to get a SOC 2, ISO 207001 or FedRamp certification can often spend six figures to get through the process with the help of an auditing se…*
+      - *Vistaprint announced today that its parent company Cimpress has acquired freelance design marketplace 99designs. The companies say that 99designs will become part of Vistaprint while also operating as a separate brand, with 99designs CEO Patrick Llewelyn cont…*
      
+  - TC Sessions: Mobility 2020 starts tomorrow
+      <hr/>
+      
+      - *TC Sessions: Mobility 2020, kicks off in full swing tomorrow! Don’t miss out on two full days devoted to the technology and people that make things fly, roll, haul or deliver. Today’s the last day you can save on the price of admission, which starts at just $…*
+      
+  - Strike Graph raises $3.9M to help automate security audits
+      <hr/>
+      
+      - *Compliance automation isn’t exactly the most exciting topic, but security audits are big business and companies that aim to get a SOC 2, ISO 207001 or FedRamp certification can often spend six figures to get through the process with the help of an auditing se…*
+      
   - Camera that will film a spacewalk in VR delivered to the International Space Station
       <hr/>
       
       - *One of the payloads aboard the International Space Station resupply mission that launched last Friday will providing a new perspective on one of the most enervating human experiences – the spacewalk. It’s a custom-made, 3D camera designed to capture content i…*
-      
+       
   - Instagram expands shopping on IGTV, plans test of shopping on Reels
       <hr/>
-      
-      - *Instagram this morning announced the global expansion of its Instagram Shopping service across IGTV. The product, which lets you watch a video then checkout with a few taps, offers creators and influencers a way to more directly monetize their user base on In…*
-      
-  - Equity Monday: Ola, DeFi, and how to turn cooler cabinets into ads
-      <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
        
-  - As it closes in on ARM, Nvidia announces UK supercomputer dedicated to medical research
-      <hr/>
-       
-       - *As Nvidia continues to work through its deal to acquire ARM for $40 billion from SoftBank, the computing giant is making another big move to lay out its commitment to investing in UK technology. Today the company announced plans to develop Cambridge-1, a new …*
+       - *Instagram this morning announced the global expansion of its Instagram Shopping service across IGTV. The product, which lets you watch a video then checkout with a few taps, offers creators and influencers a way to more directly monetize their user base on In…*
       
 
 <br />
