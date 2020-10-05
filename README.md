@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
 
-~ Marijn Haverbeke
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ There are many terrible mistakes to make in program design, so go ahead and make
 </pre>
 <strong>Daily News</strong>
   
-  - Quantum photonics startup Nu Quantum raises £2.1M  from Amadeus Capital Partners
+  - Gillmor Gang: Airborne
      <hr/>
      
-      - *For Quantum cryptography and simulation to become real, the technology requires high-performance light-emitting and light-detecting components that operate at the single-photon level and at ambient temperature. One of the few companies operating in this rarif…*
+      - *Lorne Michaels is the showrunner, to use a binge term, for Saturday Night Live. The show returned for its first season under the watchful gaze of pandemic rule, and the results were thankfully successful. Last season struggled in the early days of the virus, …*
      
+  - Ocean Solutions Accelerator's third wave tackles a new set of aquatic challenges
+      <hr/>
+      
+      - *The Sustainable Ocean Alliance and its Ocean Solutions Accelerator take on the problems facing our planet’s waters, and the latest cohort of companies in the latter show a fresh slate of issues to address and resources to utilize. From reef rehabilitation to …*
+      
+  - Dear Sophie: Now that a judge has paused Trump's H-1B visa ban, how can I qualify my employees?
+      <hr/>
+      
+      - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
+      
+  - Quantum photonics startup Nu Quantum raises £2.1M  from Amadeus Capital Partners
+      <hr/>
+      
+      - *For Quantum cryptography and simulation to become real, the technology requires high-performance light-emitting and light-detecting components that operate at the single-photon level and at ambient temperature. One of the few companies operating in this rarif…*
+       
   - Accessibility's nextgen breakthroughs will be literally in your head
       <hr/>
-      
-      - *Predicting the future of technology for people with visual impairments is easier than you might think. In 2003, I wrote an article entitled “In the Palm of Your Hand” for the Journal of Visual Impairment & Blindness from the American Foundation for the Blind.…*
-      
-  - Venmo launches its first credit card, offering up to 3% cash back, personalized rewards
-      <hr/>
-      
-      - *Last October, Venmo announced it would launch its first credit card sometime in 2020. Today, the PayPal-owned company is making good on those promises with the debut of the Venmo Credit Card, initially rolling out to select customers. The Visa card offers 3% …*
-      
-  - Six favorite Techstars startups ahead of its next rush of demo days
-      <hr/>
-      
-      - *With TechCrunch Disrupt happening last month, I fell behind on watching accelerator demo days. It’s time to correct that oversight. In August and September, the Techstars network of startup accelerators held demo days for various classes of startups, grouped …*
        
-  - Printing giant Vistaprint acquires 99designs
-      <hr/>
-       
-       - *Vistaprint announced today that its parent company Cimpress has acquired freelance design marketplace 99designs. The companies say that 99designs will become part of Vistaprint while also operating as a separate brand, with 99designs CEO Patrick Llewelyn cont…*
+       - *Predicting the future of technology for people with visual impairments is easier than you might think. In 2003, I wrote an article entitled “In the Palm of Your Hand” for the Journal of Visual Impairment & Blindness from the American Foundation for the Blind.…*
       
 
 <br />
