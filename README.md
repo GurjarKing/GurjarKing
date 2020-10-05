@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+Every time you improve process, work becomes harder.
 
-~ Bjarne Stroustrup
+~ Daniel T. Barry
 <pre>
 
 </pre>
