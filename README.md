@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 
-~ Ken Thompson
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I’ll throw away code as soon I want to add something to it and I get the feeli
 </pre>
 <strong>Daily News</strong>
   
-  - Trump's battle with COVID-19 is fueling a fresh misinformation frenzy
+  - John McAfee arrested after DOJ indicts crypto millionaire for tax evasion
      <hr/>
      
-      - *With the president hospitalized, his doctors evading basic questions and an election 29 days away, chaos reigned after Trump tested positive for the virus that’s killed more than 200,000 Americans. Now, after a four-day stay at Walter Reed medical center, the…*
+      - *Cybersecurity entrepreneur and crypto personality John McAfee’s wild ride could be coming to an end after he was arrested in Spain today, now facing extradition to the US over charges spanning tax evasion and fraud. The SEC accuses McAfee of being paid more t…*
      
+  - Daily Crunch: Venmo launches a credit card
+      <hr/>
+      
+      - *Venmo’s first credit card is here, a former Amazon employee is arrested for fraud and we review the Nest Audio smart speaker. This is your Daily Crunch for October 5, 2020. The big story: Venmo launches a credit card PayPal -owned mobile payment app Venmo alr…*
+      
+  - Trump's battle with COVID-19 is fueling a fresh misinformation frenzy
+      <hr/>
+      
+      - *With the president hospitalized, his doctors evading basic questions and an election 29 days away, chaos reigned after Trump tested positive for the virus that’s killed more than 200,000 Americans. Now, after a four-day stay at Walter Reed medical center, the…*
+      
   - Embedded finance might represent fintech's future
       <hr/>
       
       - *The fintech industry is on a tear. Popular consumer services like Robinhood to Coinbase and Revolut have managed to attract millions of customers, but the most interesting trend right now is embedded finance. Tech companies that don’t necessarily provide fina…*
-      
+       
   - Google teams up with Samsonite to launch a Jacquard smart fabric-enabled backpack
       <hr/>
-      
-      - *It has been over four years since Project Jacquard, Google’s smart fabric technology, made its debut at the I/O developer conference. Launched out of what was then Google’s ATAP unit, Jacquard is currently best known for being available on Levi’s jeans jacket…*
-      
-  - Feds arrest former Amazon employee after company reported him to FBI for fraud
-      <hr/>
-      
-      - *Amazon today disclosed that a former employee has been arrested for committing fraud against the online retailer. The company says it reported Vu Anh Nguyen to the Federal Bureau of Investigation in July 2020 fro falsely issuing refunds for products ordered o…*
        
-  - Gillmor Gang: Airborne
-      <hr/>
-       
-       - *Lorne Michaels is the showrunner, to use a binge term, for Saturday Night Live. The show returned for its first season under the watchful gaze of pandemic rule, and the results were thankfully successful. Last season struggled in the early days of the virus, …*
+       - *It has been over four years since Project Jacquard, Google’s smart fabric technology, made its debut at the I/O developer conference. Launched out of what was then Google’s ATAP unit, Jacquard is currently best known for being available on Levi’s jeans jacket…*
       
 
 <br />
