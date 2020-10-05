@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Lawrence Flon
+~ Pete Cordell
 <pre>
 
 </pre>
