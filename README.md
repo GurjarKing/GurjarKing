@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 
-~ Buckminster Fuller
+~ George Boole
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When I am working on a problem I never think about beauty. I think only how to s
 </pre>
 <strong>Daily News</strong>
   
-  - Corsair's TBT100 Thunderbolt 3 dock offers the right expandability in a well-designed package
+  - The Little Black Door app makes luxury wardrobes shareable, resalable, and sustainable
      <hr/>
      
-      - *Gaming peripheral expert Corsair has released a new Thunderbolt 3 docking station that boasts a number of useful ports, paired with aesthetics that should fit in perfectly with any of Apple’s Space Gray hardware kit. The TBT100 dock offers plenty of expandabi…*
+      - *When Lexi Willetts and Marina Pengilly realized they could make as much as £30,000 a year reselling their luxury clothes and accessories online, they resolved to create a solution for modern women who are already well-versed in the behaviors of Instagram and …*
      
+  - GrubMarket raises $60M at a $500M+ valuation as food delivery stays center stage
+      <hr/>
+      
+      - *Companies that have leveraged technology to make the procurement and delivery of food more accessible to more people have been seeing a big surge of business this year, as millions of consumers are encouraged (or outright mandated, due to Covid-19) to sociall…*
+      
+  - Corsair's TBT100 Thunderbolt 3 dock offers the right expandability in a well-designed package
+      <hr/>
+      
+      - *Gaming peripheral expert Corsair has released a new Thunderbolt 3 docking station that boasts a number of useful ports, paired with aesthetics that should fit in perfectly with any of Apple’s Space Gray hardware kit. The TBT100 dock offers plenty of expandabi…*
+      
   - Nest Audio review
       <hr/>
       
       - *The Nest Audio is a surprisingly hefty thing. It’s compact, but dense, packing a lot into a footprint not much taller than an iPhone. At 2.65 pounds, it’s 2.5x the weight of the original Home. It’s clear that, above all, Google was interested in offering up s…*
-      
+       
   - Heura's plant-based 'chicken' hits UK shops
       <hr/>
-      
-      - *Heura, a vegan-friendly alternative to chicken that’s been cooked up by a Barcelona-based startup, has launched its first products in the UK. It’s working with local distributors The Vegan Kind and Planet Organic to sell three of its most popular products in …*
-      
-  - Cooler Screens raises $80M to bring interactive screens into cooler aisles
-      <hr/>
-      
-      - *Cooler Screens, which replaces the glass doors in store cooler aisles with interactive digital displays, is announcing that it has raised more than $80 million in Series C funding. The startup has now raised more than $100 million in funding. The latest round…*
        
-  - Crowdcube and Seedrs agree to merge, creating a significant private equity marketplace
-      <hr/>
-       
-       - *The two main crowd-equity fundraising platforms in the UK, Crowdcube and Seedrs, have agreed terms on a long-rumoured merger, thus creating one of the world’s largest private equity marketplaces. The merger is being structured as an acquisition by Crowdcube o…*
+       - *Heura, a vegan-friendly alternative to chicken that’s been cooked up by a Barcelona-based startup, has launched its first products in the UK. It’s working with local distributors The Vegan Kind and Planet Organic to sell three of its most popular products in …*
       
 
 <br />
