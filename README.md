@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every time you improve process, work becomes harder.
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 
-~ Daniel T. Barry
+~ Douglas Crockford
 <pre>
 
 </pre>
