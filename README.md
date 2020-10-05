@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 
-~ Donald Knuth
+~ Ellen Ullman
 <pre>
 
 </pre>
