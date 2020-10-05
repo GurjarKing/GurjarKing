@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 
-~ Vannevar Bush
+~ Ken Thompson
 <pre>
 
 </pre>
