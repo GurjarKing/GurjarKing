@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+Code never lies, comments sometimes do.
 
-~ Douglas Crockford
+~ Ron Jeffries
 <pre>
 
 </pre>
