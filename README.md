@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-JavaScript, purely by accident, has become the most popular programming language in the world.
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 
-~ Douglas Crockford
+~ Wayne Ratliff
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ JavaScript, purely by accident, has become the most popular programming language
 </pre>
 <strong>Daily News</strong>
   
-  - Months-old Uni raises $18.5 million seed round to expand India's credit card market
+  - Instagram's 10th birthday release introduces a Stories Map, custom icons and more
      <hr/>
      
-      - *Even as close to a billion debit cards are in use in India today, only about 58 million credit cards are in circulation in the world’s second most populous nation. According to industry estimates, between 30 million to 35 million people in the country today h…*
+      - *Instagram today is celebrating its 10th birthday with the launch of several new features, including a private “Stories Map,” offering a retrospective of the Stories you’ve shared over the last three years, a pair of well-being updates, and the previously anno…*
      
+  - Months-old Uni raises $18.5 million seed round to expand India's credit card market
+      <hr/>
+      
+      - *Even as close to a billion debit cards are in use in India today, only about 58 million credit cards are in circulation in the world’s second most populous nation. According to industry estimates, between 30 million to 35 million people in the country today h…*
+      
   - John McAfee arrested after DOJ indicts crypto millionaire for tax evasion
       <hr/>
       
@@ -73,16 +78,11 @@ JavaScript, purely by accident, has become the most popular programming language
       <hr/>
       
       - *Venmo’s first credit card is here, a former Amazon employee is arrested for fraud and we review the Nest Audio smart speaker. This is your Daily Crunch for October 5, 2020. The big story: Venmo launches a credit card PayPal -owned mobile payment app Venmo alr…*
-      
+       
   - Trump's battle with COVID-19 is fueling a fresh misinformation frenzy
       <hr/>
-      
-      - *With the president hospitalized, his doctors evading basic questions and an election 29 days away, chaos reigned after Trump tested positive for the virus that’s killed more than 200,000 Americans. Now, after a four-day stay at Walter Reed medical center, the…*
        
-  - Embedded finance might represent fintech's future
-      <hr/>
-       
-       - *The fintech industry is on a tear. Popular consumer services like Robinhood to Coinbase and Revolut have managed to attract millions of customers, but the most interesting trend right now is embedded finance. Tech companies that don’t necessarily provide fina…*
+       - *With the president hospitalized, his doctors evading basic questions and an election 29 days away, chaos reigned after Trump tested positive for the virus that’s killed more than 200,000 Americans. Now, after a four-day stay at Walter Reed medical center, the…*
       
 
 <br />
