@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+Making things easy is hard.
 
-~ Sean Parent
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Good code is short, simple, and symmetrical - the challenge is figuring out how 
 </pre>
 <strong>Daily News</strong>
   
-  - 4 sustainable industries where founders and VCs can see green by going green
+  - Google's new logos are bad
      <hr/>
      
-      - *Now’s the time for sustainable investments to shine. There are billions of dollars in funding in both public and private markets dedicated to new sustainable investing and demand for consumers for a more conscious capitalism has never been stronger. As founde…*
+      - *Google really whiffed with the new logos for its “reimagination” of G Suite as Google Workspace, replacing icons that are familiar, recognizable, and in Gmail’s case iconic if you will, with little rainbow blobs that everyone will now struggle to tell apart i…*
      
+  - 4 sustainable industries where founders and VCs can see green by going green
+      <hr/>
+      
+      - *Now’s the time for sustainable investments to shine. There are billions of dollars in funding in both public and private markets dedicated to new sustainable investing and demand for consumers for a more conscious capitalism has never been stronger. As founde…*
+      
   - A clean energy company now has a market cap rivaling ExxonMobil
       <hr/>
       
@@ -73,16 +78,11 @@ Good code is short, simple, and symmetrical - the challenge is figuring out how 
       <hr/>
       
       - *As investing whirlwind Chamath Palihapitiya continues to make headlines with his full-court press to take private tech companies public via SPACs while markets are hot, one of his targets has disclosed financial information that helps us better understand the…*
-      
+       
   - To fill funding gaps, VCs boost efforts to find India's standout early-stage startups
       <hr/>
-      
-      - *After demonstrating scale, growth and financial improvement, one founder of a two-year-old agritech startup based in India told me that he’s now confronting a new challenge: Unlike his peers in edtech, fintech or e-commerce, there are very few investors he co…*
        
-  - Twitter tests a new way to find accounts to follow
-      <hr/>
-       
-       - *Twitter is testing a new way to follow accounts. The company announced today it’s rolling out a new feature, “Suggested Follows,” that will pop up a list of other accounts you may want to follow on the profile page of someone you had just followed. The featur…*
+       - *After demonstrating scale, growth and financial improvement, one founder of a two-year-old agritech startup based in India told me that he’s now confronting a new challenge: Unlike his peers in edtech, fintech or e-commerce, there are very few investors he co…*
       
 
 <br />
