@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We need to be super careful with AI. Potentially more dangerous than nukes.
+Low-level programming is good for the programmer’s soul.
 
-~ Elon Musk
+~ John Carmack
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ We need to be super careful with AI. Potentially more dangerous than nukes.
 </pre>
 <strong>Daily News</strong>
   
-  - Security flaw left 'smart' chastity sex toy users at risk of permanent lock-in
+  - Tipalti receives $150M at a $2B+ valuation after its accounts payable platform sees a surge in use
      <hr/>
      
-      - *The bug allowed anyone to permanently lock in the chastity device user's penis.*
+      - *Digital transformation has been one of the big enterprise themes of 2020: organizations are doubling down on cloud services both to link up suddenly remote teams and centralize apps, documents and data in a more efficient way. Today, one of the startups that …*
      
+  - Spotify’s new Soundtrap capture app offers collaborative voice notes for songwriters
+      <hr/>
+      
+      - *Acquired in 2017, Soundtrap more or less serves a similar role as Anchor under the larger Spotify banner — albeit largely focused on music creation, instead of podcasting. The company’s software of the same name is a cloud-based service designed to let musici…*
+      
+  - Spacebit books a second trip to the Moon via NASA's commercial lunar payload program
+      <hr/>
+      
+      - *UK-based robotic rover startup Spacebit has booked a second payload delivery to the Moon, aboard the Nova-C lander that Intuitive Machines is planning to send in 2021 as part of NASA’s Commercial Lunar Payload Services (CLPS) program. Spacebit already has a b…*
+      
+  - Security flaw left 'smart' chastity sex toy users at risk of permanent lock-in
+      <hr/>
+      
+      - *The bug allowed anyone to permanently lock in the chastity device user's penis.*
+       
   - Dialpad raises $100M Series E at a $1.2B valuation
       <hr/>
-      
-      - *Dialpad, the business-centric voice, video and contact-center service, today announced that it has raised a $100 million Series E funding round led by OMERS Growth Equity. Andreessen Horowitz, Google Ventures, ICONIQ Capital and Work-Bench also participated. …*
-      
-  - Europe's top court confirms no mass surveillance without limits
-      <hr/>
-      
-      - *Europe’s top court has delivered another slap-down to indiscriminate government mass surveillance regimes. In a ruling today the CJEU has made it clear that national security concerns do not exclude EU Member States from the need to comply with general princi…*
-      
-  - Ÿnsect, the makers of the world’s most expensive bug farm, raises another $224 million
-      <hr/>
-      
-      - *Ÿnsect, the startup building the world’s most high tech bug colony, have added $224 million in equity and debt to an already impressive $148 million cash haul as it looks to commercialize its business. Investors backing the company include the Los Angeles-bas…*
        
-  - Calling Amsterdam VCs: Be featured in The Great TechCrunch Survey of European VC
-      <hr/>
-       
-       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Amsterdam will capture how the city is faring, and what changes are being wr…*
+       - *Dialpad, the business-centric voice, video and contact-center service, today announced that it has raised a $100 million Series E funding round led by OMERS Growth Equity. Andreessen Horowitz, Google Ventures, ICONIQ Capital and Work-Bench also participated. …*
       
 
 <br />
