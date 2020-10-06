@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 
-~ Bjarne Stroustrup
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Maybe "just one little global variable" isn't too unmanageable, but that style l
 </pre>
 <strong>Daily News</strong>
   
-  - Faraday Future plans to go public through a SPAC deal
+  - Picker, an app to discover products recommended by people you follow, picks up €1.3M seed
      <hr/>
      
-      - *Faraday Future, the electric vehicle startup with a messy and complicated past, is planning to go public through a special-purchase acquisition company (SPAC) deal. The company’s chief executive Carsten Breitfeld told Reuters that the company is working on a …*
+      - *Picker, an app that lets you discover and buy products recommended by people you follow, has raised €1.3 million in seed funding. Backing the Barcelona-based startup is Berlin’s Btov. The company has received €2 million in funding to date, mainly from various…*
      
+  - G Suite is now Google Workspace
+      <hr/>
+      
+      - *Google is rebranding G Suite, its set of online productivity and collaboration tools for businesses that include the likes of Gmail, Drive, Docs and Meet. The new name is Google Workspace, a name the company already hinted at when it first introduced a set of…*
+      
+  - Cryptocurrency wallet BRD reaches 6 million users, driven by growth in Latin America and India
+      <hr/>
+      
+      - *Mobile cryptocurrency wallet BRD announced today that it now has more than six million users worldwide, thanks to strong growth in India and Latin America. With this momentum, the company expects to reach 10 million users by early 2021. Founded in 2015, Zuric…*
+      
+  - Faraday Future plans to go public through a SPAC deal
+      <hr/>
+      
+      - *Faraday Future, the electric vehicle startup with a messy and complicated past, is planning to go public through a special-purchase acquisition company (SPAC) deal. The company’s chief executive Carsten Breitfeld told Reuters that the company is working on a …*
+       
   - Instagram's 10th birthday release introduces a Stories Map, custom icons and more
       <hr/>
-      
-      - *Instagram today is celebrating its 10th birthday with the launch of several new features, including a private “Stories Map,” offering a retrospective of the Stories you’ve shared over the last three years, a pair of well-being updates, and the previously anno…*
-      
-  - Months-old Uni raises $18.5 million seed round to expand India's credit card market
-      <hr/>
-      
-      - *Even as close to a billion debit cards are in use in India today, only about 58 million credit cards are in circulation in the world’s second most populous nation. According to industry estimates, between 30 million to 35 million people in the country today h…*
-      
-  - John McAfee arrested after DOJ indicts crypto millionaire for tax evasion
-      <hr/>
-      
-      - *Cybersecurity entrepreneur and crypto personality John McAfee’s wild ride could be coming to an end after he was arrested in Spain today, now facing extradition to the US over charges spanning tax evasion and fraud. The SEC accuses McAfee of being paid more t…*
        
-  - Daily Crunch: Venmo launches a credit card
-      <hr/>
-       
-       - *Venmo’s first credit card is here, a former Amazon employee is arrested for fraud and we review the Nest Audio smart speaker. This is your Daily Crunch for October 5, 2020. The big story: Venmo launches a credit card PayPal -owned mobile payment app Venmo alr…*
+       - *Instagram today is celebrating its 10th birthday with the launch of several new features, including a private “Stories Map,” offering a retrospective of the Stories you’ve shared over the last three years, a pair of well-being updates, and the previously anno…*
       
 
 <br />
