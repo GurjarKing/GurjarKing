@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 
-~ John von Neumann
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A large part of mathematics which becomes useful developed with absolutely no de
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon's Josh Miele and Ann Toth talk Alexa and the future of accessibility at Sight Tech Global
+  - SpaceX awarded contract to help develop U.S. missile-tracking satellite network
      <hr/>
      
-      - *When Alexa launched six years ago, no one imagined that by today there would be hundreds of millions of Alexa-enabled devices or that Alexa would become part of so many lives. For people who are blind or visually impaired, voice assistants are a huge convenie…*
+      - *SpaceX has secured a contract valued at just shy of $150 million by the U.S. Space Development Agency, a branch of the U.S. military that is tasked with building out America’s space-based defense capabilities. The contract covers creation and delivery of “spa…*
      
+  - Snap announced its latest slate of Originals programming
+      <hr/>
+      
+      - *Snap, the social media platform for Gen Z, launched its latest slate of Snap Originals today, in a sign that not every media company has failed to capture the imagination of an audience with short form content. Even as Quibi’s billion dollar gambit continues …*
+      
+  - Salesforce Ventures launches $100M Impact Fund to invest in cloud startups with social mission
+      <hr/>
+      
+      - *When Salesforce Ventures launched the first $50 million Impact Fund in 2017, it wanted to invest not only in promising cloud businesses, but startups with a socially positive mission. Today, the company launched the second Impact Fund, this time doubling its …*
+      
+  - Amazon's Josh Miele and Ann Toth talk Alexa and the future of accessibility at Sight Tech Global
+      <hr/>
+      
+      - *When Alexa launched six years ago, no one imagined that by today there would be hundreds of millions of Alexa-enabled devices or that Alexa would become part of so many lives. For people who are blind or visually impaired, voice assistants are a huge convenie…*
+       
   - Trump is already breaking platform rules again with false claim that COVID-19 is 'far less lethal' than the flu
       <hr/>
-      
-      - *Facebook and Twitter took action against a post from President Trump Tuesday that claimed that COVID-19 is “far less lethal” than the flu. Trump made the tweet and posted the same message to Facebook just hours after arriving back at the White House following…*
-      
-  - Google adds 'Stories' to its search app for iOS and Android
-      <hr/>
-      
-      - *Google announced today it’s introducing a Stories feature to its Google app for iOS and Android, which now reaches over 800 million people per month. In a new carousel within the app, users in supported markets will be presented with a row of tappable visual …*
-      
-  - Tone raises $4M to help e-commerce brands text with their customers
-      <hr/>
-      
-      - *While many companies are using chatbots and other forms of automation to manage their communication with customers, Boston-based Tone is betting that humans will remain a key part of the equation. “The traditional models of bots and humans is, ‘Hello, I’m a b…*
        
-  - Apple will announce the next iPhone on October 13
-      <hr/>
-       
-       - *Apple just sent out invites for its upcoming hardware event, all but confirming the arrival of the next iPhone. The event is scheduled nearly a month to the day after the its last big event, which gave us the Apple Watch Series 6 and two new iPads. A new iPho…*
+       - *Facebook and Twitter took action against a post from President Trump Tuesday that claimed that COVID-19 is “far less lethal” than the flu. Trump made the tweet and posted the same message to Facebook just hours after arriving back at the White House following…*
       
 
 <br />
