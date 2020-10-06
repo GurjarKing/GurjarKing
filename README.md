@@ -46,10 +46,9 @@
 
 **Quote of the hour:**
 
-I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+The best way to predict the future is to invent it.
 
-~ Douglas Crockford
+~ Alan Kay
 <pre>
 
 </pre>
@@ -60,11 +59,16 @@ make it smaller. If we could just get it down to what it does really well and re
 </pre>
 <strong>Daily News</strong>
   
-  - Instagram's 10th birthday release introduces a Stories Map, custom icons and more
+  - Faraday Future plans to go public through a SPAC deal
      <hr/>
      
-      - *Instagram today is celebrating its 10th birthday with the launch of several new features, including a private “Stories Map,” offering a retrospective of the Stories you’ve shared over the last three years, a pair of well-being updates, and the previously anno…*
+      - *Faraday Future, the electric vehicle startup with a messy and complicated past, is planning to go public through a special-purchase acquisition company (SPAC) deal. The company’s chief executive Carsten Breitfeld told Reuters that the company is working on a …*
      
+  - Instagram's 10th birthday release introduces a Stories Map, custom icons and more
+      <hr/>
+      
+      - *Instagram today is celebrating its 10th birthday with the launch of several new features, including a private “Stories Map,” offering a retrospective of the Stories you’ve shared over the last three years, a pair of well-being updates, and the previously anno…*
+      
   - Months-old Uni raises $18.5 million seed round to expand India's credit card market
       <hr/>
       
@@ -74,16 +78,11 @@ make it smaller. If we could just get it down to what it does really well and re
       <hr/>
       
       - *Cybersecurity entrepreneur and crypto personality John McAfee’s wild ride could be coming to an end after he was arrested in Spain today, now facing extradition to the US over charges spanning tax evasion and fraud. The SEC accuses McAfee of being paid more t…*
-      
+       
   - Daily Crunch: Venmo launches a credit card
       <hr/>
-      
-      - *Venmo’s first credit card is here, a former Amazon employee is arrested for fraud and we review the Nest Audio smart speaker. This is your Daily Crunch for October 5, 2020. The big story: Venmo launches a credit card PayPal -owned mobile payment app Venmo alr…*
        
-  - Trump's battle with COVID-19 is fueling a fresh misinformation frenzy
-      <hr/>
-       
-       - *With the president hospitalized, his doctors evading basic questions and an election 29 days away, chaos reigned after Trump tested positive for the virus that’s killed more than 200,000 Americans. Now, after a four-day stay at Walter Reed medical center, the…*
+       - *Venmo’s first credit card is here, a former Amazon employee is arrested for fraud and we review the Nest Audio smart speaker. This is your Daily Crunch for October 5, 2020. The big story: Venmo launches a credit card PayPal -owned mobile payment app Venmo alr…*
       
 
 <br />
