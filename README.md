@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 
-~ Edsger W. Dijkstra
+~ Sean Parent
 <pre>
 
 </pre>
