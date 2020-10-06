@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+In theory, there is no difference between theory and practice. But, in practice, there is.
 
-~ Gottfried Wilhelm Leibniz
+~ Jan L. A. van de Snepscheut
 <pre>
 
 </pre>
