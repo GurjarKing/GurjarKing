@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+JavaScript, purely by accident, has become the most popular programming language in the world.
 
-~ Joseph Yoder (computer scientist)
+~ Douglas Crockford
 <pre>
 
 </pre>
