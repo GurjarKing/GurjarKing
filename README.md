@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 
-~ Alan Kay
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
