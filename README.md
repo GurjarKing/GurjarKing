@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 
-~ Alan Perlis
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
