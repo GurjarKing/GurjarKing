@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 
-~ Fred Brooks
+~ John Carmack
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ To achieve conceptual integrity, a design must proceed from one mind or a small 
 </pre>
 <strong>Daily News</strong>
   
-  - Google is providing cash awards to 76 startups through a racial equity initiative announced in June
+  - Apple will announce the next iPhone on October 13
      <hr/>
      
-      - *In June of this year, as more of the world began to awaken to the many ways that people of color are systematically discriminated against amid months of protest, a wide number of companies announced initiatives aimed at improving the representation of underre…*
+      - *Apple just sent out invites for its upcoming hardware event, all but confirming the arrival of the next iPhone. The event is scheduled nearly a month to the day after the its last big event, which gave us the Apple Watch Series 6 and two new iPads. A new iPho…*
      
-  - Top five mobility startups to showcase at TC Sessions: Mobility 2020
+  - Google Assistant comes to gaze-powered accessible devices
       <hr/>
       
-      - *Tonight, 10 disruptive mobility companies pitched on the virtual TechCrunch stage for a spot at TC Sessions: Mobility 2020. Each company pitched for one minute followed by a Q&A with our expert panel of judges – Shahin Farshchi (Lux Capital), Natalia Quintero…*
+      - *People who rely on gaze-tracking to interact with their devices on an everyday basis now have a powerful new tool in their arsenal: Google Assistant. Substituting gaze for its original voice-based interface, the Assistant’s multiple integrations and communica…*
       
-  - Here’s what’s happening today at TC Sessions: Mobility 2020
+  - Despite pandemic, Amazon Prime Day expected to generate nearly $10B in global sales
       <hr/>
       
-      - *Mobility enthusiasts from around the world, welcome to Day One of TC Sessions: Mobility 2020! Get ready for two days of programming dedicated to the people and technology behind the transformation of transportation. Mobility’s a rapidly evolving revolution, a…*
+      - *A new forecast released today estimates Amazon’s delayed Prime Day sales event will top last year’s by bringing in an estimated nearly $10 billion in worldwide sales when it runs later this month. According to eMarketer, which released its first-ever Prime Da…*
       
-  - Facebook's Portal adds support for Netflix, Zoom and other features
+  - Nivelo nabs $2.5M seed to reduce risk in digital ACH payments
       <hr/>
       
-      - *Facebook announced this morning it’s bringing a number of new features and services to its family of Portal devices, including support for Netflix and Zoom. The company will also introduce easier ways to launch Netflix and other video streaming apps via one-t…*
+      - *As we plunge deeper into the pandemic, online transactions have become increasingly important, and ACH transactions, the ones that help us get direct deposit of our paychecks or pay our bills are growing ever more essential. Nivelo, an early stage startup fro…*
        
-  - Scribe Therapeutics launches a platform for engineering CRISPR-based therapeutics
+  - Google is providing cash awards to 76 startups through a racial equity initiative announced in June
       <hr/>
        
-       - *A new company called Scribe Therapeutics founded by two former members of CRISPR pioneer Jennifer Doudna’s UC Berkely genetics lab (alongside Doudna herself) launched on Tuesday, debuting a platform designed specifically to help develop and engineer new there…*
+       - *In June of this year, as more of the world began to awaken to the many ways that people of color are systematically discriminated against amid months of protest, a wide number of companies announced initiatives aimed at improving the representation of underre…*
       
 
 <br />
