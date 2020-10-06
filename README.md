@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Linus Torvalds
+~ Ivan Sutherland
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If you need more than 3 levels of indentation, you're screwed anyway, and should
 </pre>
 <strong>Daily News</strong>
   
-  - SpaceX awarded contract to help develop U.S. missile-tracking satellite network
+  - I’m a software engineer at Uber and I’m voting against Prop 22
      <hr/>
      
-      - *SpaceX has secured a contract valued at just shy of $150 million by the U.S. Space Development Agency, a branch of the U.S. military that is tasked with building out America’s space-based defense capabilities. The contract covers creation and delivery of “spa…*
+      - *I’ve been a software engineer at Uber for two years, and I’ve also been a ride-share driver.*
      
-  - Snap announced its latest slate of Originals programming
+  - Cambridge Analytica sought to use Facebook data to predict partisanship for voter targeting, UK investigation confirms
       <hr/>
       
-      - *Snap, the social media platform for Gen Z, launched its latest slate of Snap Originals today, in a sign that not every media company has failed to capture the imagination of an audience with short form content. Even as Quibi’s billion dollar gambit continues …*
+      - *The UK’s data watchdog has sent a letter to parliament In lieu of a final report on a wide-ranging investigation into online political advertising which saw it raid the offices of Cambridge Analytica in 2018 after it emerged that the disgraced (and now defunc…*
       
-  - Salesforce Ventures launches $100M Impact Fund to invest in cloud startups with social mission
+  - Standing by developers through Google v. Oracle
       <hr/>
       
-      - *When Salesforce Ventures launched the first $50 million Impact Fund in 2017, it wanted to invest not only in promising cloud businesses, but startups with a socially positive mission. Today, the company launched the second Impact Fund, this time doubling its …*
+      - *We should give developers the right to freely reimplement APIs, as developer ability to shift applications and skills between software ecosystems benefits everyone - we all get better software to accomplish more.*
       
-  - Amazon's Josh Miele and Ann Toth talk Alexa and the future of accessibility at Sight Tech Global
+  - Why startups are going public now
       <hr/>
       
-      - *When Alexa launched six years ago, no one imagined that by today there would be hundreds of millions of Alexa-enabled devices or that Alexa would become part of so many lives. For people who are blind or visually impaired, voice assistants are a huge convenie…*
+      - *After all those years of startups not going public, 2020 is a little bit different. It feels like more companies are filing, and more companies are seeing their debuts through. We’re even seeing direct listings and SPAC-led deals, along with a trove of tradit…*
        
-  - Trump is already breaking platform rules again with false claim that COVID-19 is 'far less lethal' than the flu
+  - SpaceX awarded contract to help develop U.S. missile-tracking satellite network
       <hr/>
        
-       - *Facebook and Twitter took action against a post from President Trump Tuesday that claimed that COVID-19 is “far less lethal” than the flu. Trump made the tweet and posted the same message to Facebook just hours after arriving back at the White House following…*
+       - *SpaceX has secured a contract valued at just shy of $150 million by the U.S. Space Development Agency, a branch of the U.S. military that is tasked with building out America’s space-based defense capabilities. The contract covers creation and delivery of “spa…*
       
 
 <br />
