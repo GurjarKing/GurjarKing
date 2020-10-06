@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Bill Gates
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If you ever talk to a great programmer, you'll find he knows his tools like an a
 </pre>
 <strong>Daily News</strong>
   
-  - Scribe Therapeutics launches a platform for engineering CRISPR-based therapeutics
+  - Google is providing cash awards to 76 startups through a racial equity initiative announced in June
      <hr/>
      
-      - *A new company called Scribe Therapeutics founded by two former members of CRISPR pioneer Jennifer Doudna’s UC Berkely genetics lab (alongside Doudna herself) launched on Tuesday, debuting a platform designed specifically to help develop and engineer new there…*
+      - *In June of this year, as more of the world began to awaken to the many ways that people of color are systematically discriminated against amid months of protest, a wide number of companies announced initiatives aimed at improving the representation of underre…*
      
-  - Remotion raises $13M to create a workplace video platform for short, spontaneous conversations
+  - Top five mobility startups to showcase at TC Sessions: Mobility 2020
       <hr/>
       
-      - *One of the broader trends of the pandemic has been the unbundling of Zoom with startups pulling out a feature or two and designing entire products centered around a specific vision of remote work. One of the more tempting product ideas has been the developmen…*
+      - *Tonight, 10 disruptive mobility companies pitched on the virtual TechCrunch stage for a spot at TC Sessions: Mobility 2020. Each company pitched for one minute followed by a Q&A with our expert panel of judges – Shahin Farshchi (Lux Capital), Natalia Quintero…*
       
-  - Envoy launches Protect to help workers return to the office safely
+  - Here’s what’s happening today at TC Sessions: Mobility 2020
       <hr/>
       
-      - *No matter the industry, the coronavirus pandemic has absolutely rocked the way that we work. Work from home is the new norm. But many are anxious to get back into the office and startups are looking to help with that transition in the safest way possible. One…*
+      - *Mobility enthusiasts from around the world, welcome to Day One of TC Sessions: Mobility 2020! Get ready for two days of programming dedicated to the people and technology behind the transformation of transportation. Mobility’s a rapidly evolving revolution, a…*
       
-  - Inside Root's IPO filing
+  - Facebook's Portal adds support for Netflix, Zoom and other features
       <hr/>
       
-      - *Last night, Root filed to go public, adding a second name to the insurtech IPO rolls in 2020. Lemonade was first out the gate this summer, taking its rental and home insurance business public at an attractive valuation, compared to its revenues and margins as…*
+      - *Facebook announced this morning it’s bringing a number of new features and services to its family of Portal devices, including support for Netflix and Zoom. The company will also introduce easier ways to launch Netflix and other video streaming apps via one-t…*
        
-  - Ambani sells over $750 million Reliance Retail stake to Abu Dhabi Investment Authority
+  - Scribe Therapeutics launches a platform for engineering CRISPR-based therapeutics
       <hr/>
        
-       - *Abu Dhabi Investment Authority, which invested $750 million in Indian telecom giant Jio Platforms in June this year, has returned to invest just as much capital in Mukesh Ambani’s other venture. Reliance Retail, India’s largest retail chain, said on Tuesday t…*
+       - *A new company called Scribe Therapeutics founded by two former members of CRISPR pioneer Jennifer Doudna’s UC Berkely genetics lab (alongside Doudna herself) launched on Tuesday, debuting a platform designed specifically to help develop and engineer new there…*
       
 
 <br />
