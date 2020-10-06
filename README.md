@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 
-~ John Carmack
+~ John von Neumann
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Sometimes, the elegant implementation is a function. Not a method. Not a class. 
 </pre>
 <strong>Daily News</strong>
   
-  - Apple will announce the next iPhone on October 13
+  - Amazon's Josh Miele and Ann Toth talk Alexa and the future of accessibility at Sight Tech Global
      <hr/>
      
-      - *Apple just sent out invites for its upcoming hardware event, all but confirming the arrival of the next iPhone. The event is scheduled nearly a month to the day after the its last big event, which gave us the Apple Watch Series 6 and two new iPads. A new iPho…*
+      - *When Alexa launched six years ago, no one imagined that by today there would be hundreds of millions of Alexa-enabled devices or that Alexa would become part of so many lives. For people who are blind or visually impaired, voice assistants are a huge convenie…*
      
-  - Google Assistant comes to gaze-powered accessible devices
+  - Trump is already breaking platform rules again with false claim that COVID-19 is 'far less lethal' than the flu
       <hr/>
       
-      - *People who rely on gaze-tracking to interact with their devices on an everyday basis now have a powerful new tool in their arsenal: Google Assistant. Substituting gaze for its original voice-based interface, the Assistant’s multiple integrations and communica…*
+      - *Facebook and Twitter took action against a post from President Trump Tuesday that claimed that COVID-19 is “far less lethal” than the flu. Trump made the tweet and posted the same message to Facebook just hours after arriving back at the White House following…*
       
-  - Despite pandemic, Amazon Prime Day expected to generate nearly $10B in global sales
+  - Google adds 'Stories' to its search app for iOS and Android
       <hr/>
       
-      - *A new forecast released today estimates Amazon’s delayed Prime Day sales event will top last year’s by bringing in an estimated nearly $10 billion in worldwide sales when it runs later this month. According to eMarketer, which released its first-ever Prime Da…*
+      - *Google announced today it’s introducing a Stories feature to its Google app for iOS and Android, which now reaches over 800 million people per month. In a new carousel within the app, users in supported markets will be presented with a row of tappable visual …*
       
-  - Nivelo nabs $2.5M seed to reduce risk in digital ACH payments
+  - Tone raises $4M to help e-commerce brands text with their customers
       <hr/>
       
-      - *As we plunge deeper into the pandemic, online transactions have become increasingly important, and ACH transactions, the ones that help us get direct deposit of our paychecks or pay our bills are growing ever more essential. Nivelo, an early stage startup fro…*
+      - *While many companies are using chatbots and other forms of automation to manage their communication with customers, Boston-based Tone is betting that humans will remain a key part of the equation. “The traditional models of bots and humans is, ‘Hello, I’m a b…*
        
-  - Google is providing cash awards to 76 startups through a racial equity initiative announced in June
+  - Apple will announce the next iPhone on October 13
       <hr/>
        
-       - *In June of this year, as more of the world began to awaken to the many ways that people of color are systematically discriminated against amid months of protest, a wide number of companies announced initiatives aimed at improving the representation of underre…*
+       - *Apple just sent out invites for its upcoming hardware event, all but confirming the arrival of the next iPhone. The event is scheduled nearly a month to the day after the its last big event, which gave us the Apple Watch Series 6 and two new iPads. A new iPho…*
       
 
 <br />
