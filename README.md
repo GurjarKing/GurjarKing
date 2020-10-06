@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
+If you have a procedure with 10 parameters, you probably missed some.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Maintenance cost is strongly affected by the number of users. More users find mo
 </pre>
 <strong>Daily News</strong>
   
-  - John McAfee arrested after DOJ indicts crypto millionaire for tax evasion
+  - Months-old Uni raises $18.5 million seed round to expand India's credit card market
      <hr/>
      
-      - *Cybersecurity entrepreneur and crypto personality John McAfee’s wild ride could be coming to an end after he was arrested in Spain today, now facing extradition to the US over charges spanning tax evasion and fraud. The SEC accuses McAfee of being paid more t…*
+      - *Even as close to a billion debit cards are in use in India today, only about 58 million credit cards are in circulation in the world’s second most populous nation. According to industry estimates, between 30 million to 35 million people in the country today h…*
      
+  - John McAfee arrested after DOJ indicts crypto millionaire for tax evasion
+      <hr/>
+      
+      - *Cybersecurity entrepreneur and crypto personality John McAfee’s wild ride could be coming to an end after he was arrested in Spain today, now facing extradition to the US over charges spanning tax evasion and fraud. The SEC accuses McAfee of being paid more t…*
+      
   - Daily Crunch: Venmo launches a credit card
       <hr/>
       
@@ -73,16 +78,11 @@ Maintenance cost is strongly affected by the number of users. More users find mo
       <hr/>
       
       - *With the president hospitalized, his doctors evading basic questions and an election 29 days away, chaos reigned after Trump tested positive for the virus that’s killed more than 200,000 Americans. Now, after a four-day stay at Walter Reed medical center, the…*
-      
+       
   - Embedded finance might represent fintech's future
       <hr/>
-      
-      - *The fintech industry is on a tear. Popular consumer services like Robinhood to Coinbase and Revolut have managed to attract millions of customers, but the most interesting trend right now is embedded finance. Tech companies that don’t necessarily provide fina…*
        
-  - Google teams up with Samsonite to launch a Jacquard smart fabric-enabled backpack
-      <hr/>
-       
-       - *It has been over four years since Project Jacquard, Google’s smart fabric technology, made its debut at the I/O developer conference. Launched out of what was then Google’s ATAP unit, Jacquard is currently best known for being available on Levi’s jeans jacket…*
+       - *The fintech industry is on a tear. Popular consumer services like Robinhood to Coinbase and Revolut have managed to attract millions of customers, but the most interesting trend right now is embedded finance. Tech companies that don’t necessarily provide fina…*
       
 
 <br />
