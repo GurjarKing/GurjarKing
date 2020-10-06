@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 
-~ Ken Thompson
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ One of my most productive days was throwing away 1,000 lines of code.
 </pre>
 <strong>Daily News</strong>
   
-  - Scratchpad announces $3.6M seed to put work space on top of Salesforce
+  - Scribe Therapeutics launches a platform for engineering CRISPR-based therapeutics
      <hr/>
      
-      - *One thing that annoys sales people is entering data into a CRM like Salesforce because it’s time spent not selling. Part of the problem is Salesforce is a database and as such is not necessarily designed for speed. Scratchpad wants to simplify that process by…*
+      - *A new company called Scribe Therapeutics founded by two former members of CRISPR pioneer Jennifer Doudna’s UC Berkely genetics lab (alongside Doudna herself) launched on Tuesday, debuting a platform designed specifically to help develop and engineer new there…*
      
-  - Chargebee raises $55 million to help businesses move to subscriptions
+  - Remotion raises $13M to create a workplace video platform for short, spontaneous conversations
       <hr/>
       
-      - *Chargebee, which helps businesses set up and manage their billing, subscription, revenue operations and compliance, said on Tuesday it has raised $55 million in a new financing round as it looks to accelerate its expansion in global markets. The new financing…*
+      - *One of the broader trends of the pandemic has been the unbundling of Zoom with startups pulling out a feature or two and designing entire products centered around a specific vision of remote work. One of the more tempting product ideas has been the developmen…*
       
-  - Tokyo-based virtual reality game developer Thirdverse gets $8.5 million Series A
+  - Envoy launches Protect to help workers return to the office safely
       <hr/>
       
-      - *Thirdverse, the virtual reality game developer behind “Swords of Gargantua,” has raised $8.5 million in Series A funding. The round was led by JAFCO, with participation from Presence Capital, Sisu Ventures, Incubate Fund and KDDI. Based in Tokyo, Thirdverse w…*
+      - *No matter the industry, the coronavirus pandemic has absolutely rocked the way that we work. Work from home is the new norm. But many are anxious to get back into the office and startups are looking to help with that transition in the safest way possible. One…*
       
-  - SpaceX successfully launches another Starlink mission, with over 700 satellites launched to date
+  - Inside Root's IPO filing
       <hr/>
       
-      - *SpaceX has launched yet another flight of 60 of its Starlink broadband internet satellites. The launch took off from Kennedy Space Center in Florida at 7:29 AM EDT (4:29 AM PDT) this morning, after having been delayed three times earlier due to scrubs – twice…*
+      - *Last night, Root filed to go public, adding a second name to the insurtech IPO rolls in 2020. Lemonade was first out the gate this summer, taking its rental and home insurance business public at an attractive valuation, compared to its revenues and margins as…*
        
-  - Tipalti receives $150M at a $2B+ valuation after its accounts payable platform sees a surge in use
+  - Ambani sells over $750 million Reliance Retail stake to Abu Dhabi Investment Authority
       <hr/>
        
-       - *Digital transformation has been one of the big enterprise themes of 2020: organizations are doubling down on cloud services both to link up suddenly remote teams and centralize apps, documents and data in a more efficient way. Today, one of the startups that …*
+       - *Abu Dhabi Investment Authority, which invested $750 million in Indian telecom giant Jio Platforms in June this year, has returned to invest just as much capital in Mukesh Ambani’s other venture. Reliance Retail, India’s largest retail chain, said on Tuesday t…*
       
 
 <br />
