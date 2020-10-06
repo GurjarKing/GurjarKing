@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Low-level programming is good for the programmer’s soul.
+One of my most productive days was throwing away 1,000 lines of code.
 
-~ John Carmack
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Low-level programming is good for the programmer’s soul.
 </pre>
 <strong>Daily News</strong>
   
-  - Tipalti receives $150M at a $2B+ valuation after its accounts payable platform sees a surge in use
+  - Scratchpad announces $3.6M seed to put work space on top of Salesforce
      <hr/>
      
-      - *Digital transformation has been one of the big enterprise themes of 2020: organizations are doubling down on cloud services both to link up suddenly remote teams and centralize apps, documents and data in a more efficient way. Today, one of the startups that …*
+      - *One thing that annoys sales people is entering data into a CRM like Salesforce because it’s time spent not selling. Part of the problem is Salesforce is a database and as such is not necessarily designed for speed. Scratchpad wants to simplify that process by…*
      
-  - Spotify’s new Soundtrap capture app offers collaborative voice notes for songwriters
+  - Chargebee raises $55 million to help businesses move to subscriptions
       <hr/>
       
-      - *Acquired in 2017, Soundtrap more or less serves a similar role as Anchor under the larger Spotify banner — albeit largely focused on music creation, instead of podcasting. The company’s software of the same name is a cloud-based service designed to let musici…*
+      - *Chargebee, which helps businesses set up and manage their billing, subscription, revenue operations and compliance, said on Tuesday it has raised $55 million in a new financing round as it looks to accelerate its expansion in global markets. The new financing…*
       
-  - Spacebit books a second trip to the Moon via NASA's commercial lunar payload program
+  - Tokyo-based virtual reality game developer Thirdverse gets $8.5 million Series A
       <hr/>
       
-      - *UK-based robotic rover startup Spacebit has booked a second payload delivery to the Moon, aboard the Nova-C lander that Intuitive Machines is planning to send in 2021 as part of NASA’s Commercial Lunar Payload Services (CLPS) program. Spacebit already has a b…*
+      - *Thirdverse, the virtual reality game developer behind “Swords of Gargantua,” has raised $8.5 million in Series A funding. The round was led by JAFCO, with participation from Presence Capital, Sisu Ventures, Incubate Fund and KDDI. Based in Tokyo, Thirdverse w…*
       
-  - Security flaw left 'smart' chastity sex toy users at risk of permanent lock-in
+  - SpaceX successfully launches another Starlink mission, with over 700 satellites launched to date
       <hr/>
       
-      - *The bug allowed anyone to permanently lock in the chastity device user's penis.*
+      - *SpaceX has launched yet another flight of 60 of its Starlink broadband internet satellites. The launch took off from Kennedy Space Center in Florida at 7:29 AM EDT (4:29 AM PDT) this morning, after having been delayed three times earlier due to scrubs – twice…*
        
-  - Dialpad raises $100M Series E at a $1.2B valuation
+  - Tipalti receives $150M at a $2B+ valuation after its accounts payable platform sees a surge in use
       <hr/>
        
-       - *Dialpad, the business-centric voice, video and contact-center service, today announced that it has raised a $100 million Series E funding round led by OMERS Growth Equity. Andreessen Horowitz, Google Ventures, ICONIQ Capital and Work-Bench also participated. …*
+       - *Digital transformation has been one of the big enterprise themes of 2020: organizations are doubling down on cloud services both to link up suddenly remote teams and centralize apps, documents and data in a more efficient way. Today, one of the startups that …*
       
 
 <br />
