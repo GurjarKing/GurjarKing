@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 
-~ Joseph Yoder (computer scientist)
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Reviews and pair programming provide programmers with something their work would
 </pre>
 <strong>Daily News</strong>
   
-  - Shogun raises $35M to help brands take on Amazon with faster and better sites of their own
+  - Envisics nabs $50M for its in-car holographic display tech at a $250M+ valuation
      <hr/>
      
-      - *E-commerce has boomed this year, with more businesses and shoppers than ever before turning to websites and apps as a safer, socially distanced alternative during the current global health pandemic. Today, a startup that has built a platform to help individua…*
+      - *The jury is still out on what might become the most viable business models for augmented reality technology, but in the meantime a startup out of the UK is betting one big area will be in vehicles, in the form of holographic displays. And today it is announci…*
      
-  - Big tech blows a collective raspberry at the House's antitrust report
+  - Bespoken Spirits raises $2.6M in seed funding to combine machine learning and accelerated whiskey aging
       <hr/>
       
-      - *Big tech has responded to the mammoth antitrust report put out by the U.S. House Judiciary Committee yesterday with blanket denials there’s any monopolistic behaviour or competitive imbalances to see here. Here’s a quick run down of Amazon, Apple, Facebook an…*
+      - *Bespoken Spirits, a Silicon Valley spirits company that has developed a new data-driven process to accelerate the aging of whiskey and create specific flavors, today announced that it has raised a $2.6 million seed funding round. Investors include Clos de la …*
       
-  - Truecaller tops 250 million users
+  - Slack introduces new features to ease messaging between business partners
       <hr/>
       
-      - *Popular caller-identification service Truecaller has amassed 250 million monthly active users and 200 million daily active users, demonstrating an accelerated pace of growth in recent quarters even as a global pandemic has hurt most businesses, it said on Wed…*
+      - *Slack is holding its Frontiers conference this week — virtually like everyone else in 2020 — and it’s introducing some new features to make it easier to message between partners. At the same time, it’s talking about some experimental features that could appea…*
       
-  - Dictionary app Reverso launches desktop app
+  - Okta adds new no-code workflows that use identity to trigger sales and marketing tasks
       <hr/>
       
-      - *Language learning company Reverso is launching its desktop app for macOS and Windows. Like on mobile, it lets you access a translation dictionary and get examples in context. The company has attracted 40,000 downloads in two days. While Google Translate is ma…*
+      - *It seems that no-code is the tech watchword of the year. It refers to the ability to create something that normally would require a developer to code, and replace it with dragging and dropping components instead, putting the task in reach of much less technic…*
        
-  - Elvie adds a non-electric breast pump and cups to its growing femtech portfolio
+  - Kong launches Kong Konnect, its cloud-native connectivity platform
       <hr/>
        
-       - *Femtech hardware maker Elvie has added a softer, hands-free breast pump that uses natural suction to its portfolio two years after launching its debut ‘next-gen’ connected breast pump. The Elvie Curve is described as “a wearable, silicone breast pump that all…*
+       - *At its (virtual) Kong Summit 2020, API platform Kong today announced the launch of Kong Konnect, its managed end-to-end cloud-native connectivity platform. The idea here is to give businesses a single service that allows them to manage the connectivity betwee…*
       
 
 <br />
