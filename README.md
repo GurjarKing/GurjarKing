@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Edsger W. Dijkstra
+~ Seymour Cray
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ LISP has assisted a number of our most gifted fellow humans in thinking previous
 </pre>
 <strong>Daily News</strong>
   
-  - Adding Claire Díaz-Ortiz to its partnership, Magma Partners launches initiative to invest in female founders in LatAm
+  - YouTube Premium subscribers get a new perk with launch of testing program
      <hr/>
      
-      - *Claire Díaz-Ortiz has been many things over the course of her career — an angel investor, an early Twitter employee (who notably got the Pope on Twitter), the founder of a nonprofit, a published author and an entrepreneur. Now, the globe-trotting, multi-hyphe…*
+      - *YouTube has long allowed its users to test new features and products before they go live to a wider audience. But in a recent change, YouTube’s latest series of experiments are being limited to those who subscribe the Premium tier of YouTube’s service. Curren…*
      
+  - Decrypted: The major ransomware attack you probably didn't hear about
+      <hr/>
+      
+      - *This week we look at one of the biggest hacks of the year that you probably didn't know about.*
+      
+  - Transportation VCs suggest frayed US-China ties will impact mobility markets
+      <hr/>
+      
+      - *On Tuesday, during TechCrunch’s annual Mobility event, we had the opportunity to interview three investors who spend much of their time focused narrowly on shifts in the transportation industry and we talked with the three — Amy Gu of Hemi Ventures, Reilly Br…*
+      
+  - Adding Claire Díaz-Ortiz to its partnership, Magma Partners launches initiative to invest in female founders in LatAm
+      <hr/>
+      
+      - *Claire Díaz-Ortiz has been many things over the course of her career — an angel investor, an early Twitter employee (who notably got the Pope on Twitter), the founder of a nonprofit, a published author and an entrepreneur. Now, the globe-trotting, multi-hyphe…*
+       
   - Tech-publisher coalition backs new push for browser-level privacy controls
       <hr/>
-      
-      - *Remember ‘Do Not Track‘? The tracker-loving adtech industry hopes you don’t recall that decade+ doomed attempt to bake user-friendly privacy controls into browsers. But a coalition of privacy-forward tech companies, publishers and advocacy groups has taken th…*
-      
-  - Dear Sophie: Is it easier and faster to get an O-1A than an EB-1A?
-      <hr/>
-      
-      - *Here’s a summary of the pros and cons of O-1A and EB-1A visas.*
-      
-  - Google Assistant gets an incognito-like guest mode
-      <hr/>
-      
-      - *Google is launching a few new privacy features today that include a refreshed Safety Center that’s now live in the U.S. and coming soon globally, as well as more prominent alerts when the company expects that your account has been tampered with. The most inte…*
        
-  - Former Apple engineer and autocorrect creator builds his first app, a word game called Up Spell
-      <hr/>
-       
-       - *Former Apple software engineer and designer Ken Kocienda, whose work included the original iPhone and the development of touchscreen autocorrect, has created his first iOS app, Up Spell. The fast-paced, fun word game challenges users to spell all the words yo…*
+       - *Remember ‘Do Not Track‘? The tracker-loving adtech industry hopes you don’t recall that decade+ doomed attempt to bake user-friendly privacy controls into browsers. But a coalition of privacy-forward tech companies, publishers and advocacy groups has taken th…*
       
 
 <br />
