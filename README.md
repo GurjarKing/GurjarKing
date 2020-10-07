@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Simplicity does not precede complexity, but follows it.
+The best way to predict the future is to invent it.
 
-~ Alan Perlis
+~ Alan Kay
 <pre>
 
 </pre>
