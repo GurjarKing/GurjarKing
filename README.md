@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Ed Adams of IBM found that 80% of the reliability problems are caused by only 2%
 </pre>
 <strong>Daily News</strong>
   
-  - Helsinki rides the Slush wave toward a booming startup future
+  - Dictionary app Reverso launches desktop app
      <hr/>
      
-      - *In September 2020, Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital …*
+      - *Language learning company Reverso is launching its desktop app for macOS and Windows. Like on mobile, it lets you access a translation dictionary and get examples in context. The company has attracted 40,000 downloads in two days. While Google Translate is ma…*
      
+  - Elvie adds a non-electric breast pump and cups to its growing femtech portfolio
+      <hr/>
+      
+      - *Femtech hardware maker Elvie has added a softer, hands-free breast pump that uses natural suction to its portfolio two years after launching its debut ‘next-gen’ connected breast pump. The Elvie Curve is described as “a wearable, silicone breast pump that all…*
+      
+  - Helsinki rides the Slush wave toward a booming startup future
+      <hr/>
+      
+      - *In September 2020, Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital …*
+      
   - India approves Apple partners and Samsung for $143 billion smartphone manufacturing plan
       <hr/>
       
       - *Samsung and three major contract manufacturing partners of Apple are among 16 firms to win $6.65 billion incentives under India’s federal plan to boost domestic smartphone production over the next five years. These companies had applied for the incentive prog…*
-      
+       
   - Greycroft has rounded up $678 million in capital across two new funds
       <hr/>
-      
-      - *Greycroft, the New York and L.A.-based venture firm founded in 2006 by investors Alan Patricof, Dana Settle, and Ian Sigalow, has closed on two new funds totaling $678 million in capital commitments. One of those funds is its sixth flagship early-stage fund a…*
-      
-  - Quarantine drives interest in autonomous delivery, but it's still miles from mainstream
-      <hr/>
-      
-      - *The prospect of truly zero contact delivery seems closer — and more important — than ever with the pandemic changing how we think of last mile logistics. Autonomous delivery executives from FedEx, Postmates, and Refraction AI joined us to talk about the emerg…*
        
-  - Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more
-      <hr/>
-       
-       - *Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit, I sat down with Arm CEO Simon Segars…*
+       - *Greycroft, the New York and L.A.-based venture firm founded in 2006 by investors Alan Patricof, Dana Settle, and Ian Sigalow, has closed on two new funds totaling $678 million in capital commitments. One of those funds is its sixth flagship early-stage fund a…*
       
 
 <br />
