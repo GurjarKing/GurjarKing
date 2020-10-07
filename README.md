@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 
-~ Fred Brooks
+~ Stan Kelly-Bootle
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ First, we must observe that the anomaly is not that software progress is so slow
 </pre>
 <strong>Daily News</strong>
   
-  - India approves Apple partners and Samsung for $143 billion smartphone manufacturing plan
+  - Helsinki rides the Slush wave toward a booming startup future
      <hr/>
      
-      - *Samsung and three major contract manufacturing partners of Apple are among 16 firms to win $6.65 billion incentives under India’s federal plan to boost domestic smartphone production over the next five years. These companies had applied for the incentive prog…*
+      - *In September 2020, Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital …*
      
+  - India approves Apple partners and Samsung for $143 billion smartphone manufacturing plan
+      <hr/>
+      
+      - *Samsung and three major contract manufacturing partners of Apple are among 16 firms to win $6.65 billion incentives under India’s federal plan to boost domestic smartphone production over the next five years. These companies had applied for the incentive prog…*
+      
   - Greycroft has rounded up $678 million in capital across two new funds
       <hr/>
       
@@ -73,16 +78,11 @@ First, we must observe that the anomaly is not that software progress is so slow
       <hr/>
       
       - *The prospect of truly zero contact delivery seems closer — and more important — than ever with the pandemic changing how we think of last mile logistics. Autonomous delivery executives from FedEx, Postmates, and Refraction AI joined us to talk about the emerg…*
-      
+       
   - Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more
       <hr/>
-      
-      - *Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit, I sat down with Arm CEO Simon Segars…*
        
-  - Daily Crunch: G Suite becomes Google Workspace
-      <hr/>
-       
-       - *Google rebrands G Suite, Apple announces its next event date and John McAfee is arrested. This is your Daily Crunch for October 6, 2020. The big story: G Suite becomes Google Workspace To a large extent, Google Workspace is just a rebranding of G Suite, compl…*
+       - *Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit, I sat down with Arm CEO Simon Segars…*
       
 
 <br />
