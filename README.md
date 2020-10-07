@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 
-~ Donald Knuth
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ We should forget about small efficiencies, say about 97% of the time: premature 
 </pre>
 <strong>Daily News</strong>
   
-  - Here's the curtain raise on the Sight Tech Global agenda
+  - Amazon sends legal notice to India's Future Group over deal with Ambani's Reliance Retail
      <hr/>
      
-      - *The goal of Sight Tech Global, a virtual, global event on December 2-3, 2020, is to gather the world’s top experts who are applying advanced technologies, notably AI, to the future of accessibility and assistive tech for people who are blind or visually impai…*
+      - *Amazon has sent a legal notice to Future Retail, India’s second largest retail chain, for breaching the terms of its contract by selling a significant portion of the business to Ambani’s Reliance Retail. Future Group announced in late August that it was selli…*
      
+  - Here's the curtain raise on the Sight Tech Global agenda
+      <hr/>
+      
+      - *The goal of Sight Tech Global, a virtual, global event on December 2-3, 2020, is to gather the world’s top experts who are applying advanced technologies, notably AI, to the future of accessibility and assistive tech for people who are blind or visually impai…*
+      
   - Media roundup: Google to cut big checks for news publishers, Substack continues to draw top creators, more
       <hr/>
       
@@ -73,16 +78,11 @@ We should forget about small efficiencies, say about 97% of the time: premature 
       <hr/>
       
       - *YouTube has long allowed its users to test new features and products before they go live to a wider audience. But in a recent change, YouTube’s latest series of experiments are being limited to those who subscribe the Premium tier of YouTube’s service. Curren…*
-      
+       
   - Decrypted: The major ransomware attack you probably didn't hear about
       <hr/>
-      
-      - *This week we look at one of the biggest hacks of the year that you probably didn't know about.*
        
-  - Transportation VCs suggest frayed US-China ties will impact mobility markets
-      <hr/>
-       
-       - *On Tuesday, during TechCrunch’s annual Mobility event, we had the opportunity to interview three investors who spend much of their time focused narrowly on shifts in the transportation industry and we talked with the three — Amy Gu of Hemi Ventures, Reilly Br…*
+       - *This week we look at one of the biggest hacks of the year that you probably didn't know about.*
       
 
 <br />
