@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Edsger W. Dijkstra
+~ Jim Horning
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Are you quite sure that all those bells and whistles, all those wonderful facili
 </pre>
 <strong>Daily News</strong>
   
-  - Uber still sees micromobility and AVs in its future, and could push Prop 22 beyond California
+  - Unqork's $207M Series C underscores growing enterprise demand for no-code apps
      <hr/>
      
-      - *Uber made headlines earlier this year when it offloaded Jump, the shared bike and scooter unit that once appeared to be a critical piece of its transportation. Despite that move, Uber still sees micromobility as “really important” to the company, according to…*
+      - *This week, Unqork, a startup that helps other companies build business apps with a no-code platform, raised a $207 million Series C. The new capital valued the firm at around $2 billion. Even given how much attention 2020 has brought to no-code startups and t…*
      
-  - Apple brings Health Records to iPhone in the UK and Canada
+  - DoorDash introduces a new corporate product, DoorDash for Work
       <hr/>
       
-      - *Apple has added support for the Health Records feature of its Health app on iPhones in two new markets – the UK and Canada. The electronic medical records feature originally debuted in the U.S. in 2018, and the company says that it’s now supported by over 500…*
+      - *Delivery service DoorDash is giving employers a way to feed their remote employees through a new suite of products called DoorDash for Work. There are four main products, starting with DashPass for Work, where employers can fund employee memberships to DashPa…*
       
-  - Envisics nabs $50M for its in-car holographic display tech at a $250M+ valuation
+  - Solvo raises $3M seed round to automatically manage cloud infrastructure permissions
       <hr/>
       
-      - *The jury is still out on what might become the most viable business models for augmented reality technology, but in the meantime a startup out of the UK is betting one big area will be in vehicles, in the form of holographic displays. And today it is announci…*
+      - *Solvo, a Tel Aviv-based startup that promises to automatically generate cloud security permissions by analyzing a developer’s code, today announced that it has raised a $3 million seed funding round from TLV Partners and Surround Ventures. The idea here is to…*
       
-  - Bespoken Spirits raises $2.6M in seed funding to combine machine learning and accelerated whiskey aging
+  - Nobel laureate Jennifer Doudna shares her perspective on COVID-19 and CRISPR
       <hr/>
       
-      - *Bespoken Spirits, a Silicon Valley spirits company that has developed a new data-driven process to accelerate the aging of whiskey and create specific flavors, today announced that it has raised a $2.6 million seed funding round. Investors include Clos de la …*
+      - *CRISPR co-discoverer Jennifer Doudna was named a Nobel laureate in Chemistry today, sharing the honour with Emmanuelle Charpentier . We had the opportunity to speak to Doudna recently at our TechCrunch Disrupt 2020 event, and she shared her thoughts on CRISPR…*
        
-  - Slack introduces new features to ease messaging between business partners
+  - European antitrust regulators settle with Broadcom a year after 'interim measures' flex
       <hr/>
        
-       - *Slack is holding its Frontiers conference this week — virtually like everyone else in 2020 — and it’s introducing some new features to make it easier to message between partners. At the same time, it’s talking about some experimental features that could appea…*
+       - *A European antitrust probe of chipmaker Broadcom has been settled at an impressive clip, a little over a year after formally kicking off. The Commission announced today it has accepted commitments from the U.S. chipmaker to suspend all existing agreements con…*
       
 
 <br />
