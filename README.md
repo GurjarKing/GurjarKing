@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer Science is no more about computers than astronomy is about telescopes.
+Never trust a computer you can’t throw out a window.
 
-~ Edsger W. Dijkstra
+~ Steve Wozniak
 <pre>
 
 </pre>
