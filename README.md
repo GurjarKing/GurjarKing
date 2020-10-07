@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 
-~ Seymour Cray
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The trouble with programmers is that you can never tell what a programmer is doi
 </pre>
 <strong>Daily News</strong>
   
-  - YouTube Premium subscribers get a new perk with launch of testing program
+  - Here's the curtain raise on the Sight Tech Global agenda
      <hr/>
      
-      - *YouTube has long allowed its users to test new features and products before they go live to a wider audience. But in a recent change, YouTube’s latest series of experiments are being limited to those who subscribe the Premium tier of YouTube’s service. Curren…*
+      - *The goal of Sight Tech Global, a virtual, global event on December 2-3, 2020, is to gather the world’s top experts who are applying advanced technologies, notably AI, to the future of accessibility and assistive tech for people who are blind or visually impai…*
      
+  - Media roundup: Google to cut big checks for news publishers, Substack continues to draw top creators, more
+      <hr/>
+      
+      - *Welcome back to Extra Crunch’s Media Roundup, where I round up the stories that entrepreneurs in the content and advertising business should be thinking about — trends, larger platform shifts, as well as noteworthy funding rounds. This time, we’ve got some ba…*
+      
+  - YouTube Premium subscribers get a new perk with launch of testing program
+      <hr/>
+      
+      - *YouTube has long allowed its users to test new features and products before they go live to a wider audience. But in a recent change, YouTube’s latest series of experiments are being limited to those who subscribe the Premium tier of YouTube’s service. Curren…*
+      
   - Decrypted: The major ransomware attack you probably didn't hear about
       <hr/>
       
       - *This week we look at one of the biggest hacks of the year that you probably didn't know about.*
-      
+       
   - Transportation VCs suggest frayed US-China ties will impact mobility markets
       <hr/>
-      
-      - *On Tuesday, during TechCrunch’s annual Mobility event, we had the opportunity to interview three investors who spend much of their time focused narrowly on shifts in the transportation industry and we talked with the three — Amy Gu of Hemi Ventures, Reilly Br…*
-      
-  - Adding Claire Díaz-Ortiz to its partnership, Magma Partners launches initiative to invest in female founders in LatAm
-      <hr/>
-      
-      - *Claire Díaz-Ortiz has been many things over the course of her career — an angel investor, an early Twitter employee (who notably got the Pope on Twitter), the founder of a nonprofit, a published author and an entrepreneur. Now, the globe-trotting, multi-hyphe…*
        
-  - Tech-publisher coalition backs new push for browser-level privacy controls
-      <hr/>
-       
-       - *Remember ‘Do Not Track‘? The tracker-loving adtech industry hopes you don’t recall that decade+ doomed attempt to bake user-friendly privacy controls into browsers. But a coalition of privacy-forward tech companies, publishers and advocacy groups has taken th…*
+       - *On Tuesday, during TechCrunch’s annual Mobility event, we had the opportunity to interview three investors who spend much of their time focused narrowly on shifts in the transportation industry and we talked with the three — Amy Gu of Hemi Ventures, Reilly Br…*
       
 
 <br />
