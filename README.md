@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
 
 ~ Fred Brooks
 <pre>
@@ -59,11 +59,16 @@ My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for comp
 </pre>
 <strong>Daily News</strong>
   
-  - Dictionary app Reverso launches desktop app
+  - Truecaller tops 250 million users
      <hr/>
      
-      - *Language learning company Reverso is launching its desktop app for macOS and Windows. Like on mobile, it lets you access a translation dictionary and get examples in context. The company has attracted 40,000 downloads in two days. While Google Translate is ma…*
+      - *Popular caller-identification service Truecaller has amassed 250 million monthly active users and 200 million daily active users, demonstrating an accelerated pace of growth in recent quarters even as a global pandemic has hurt most businesses, it said on Wed…*
      
+  - Dictionary app Reverso launches desktop app
+      <hr/>
+      
+      - *Language learning company Reverso is launching its desktop app for macOS and Windows. Like on mobile, it lets you access a translation dictionary and get examples in context. The company has attracted 40,000 downloads in two days. While Google Translate is ma…*
+      
   - Elvie adds a non-electric breast pump and cups to its growing femtech portfolio
       <hr/>
       
@@ -73,16 +78,11 @@ My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for comp
       <hr/>
       
       - *In September 2020, Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital …*
-      
+       
   - India approves Apple partners and Samsung for $143 billion smartphone manufacturing plan
       <hr/>
-      
-      - *Samsung and three major contract manufacturing partners of Apple are among 16 firms to win $6.65 billion incentives under India’s federal plan to boost domestic smartphone production over the next five years. These companies had applied for the incentive prog…*
        
-  - Greycroft has rounded up $678 million in capital across two new funds
-      <hr/>
-       
-       - *Greycroft, the New York and L.A.-based venture firm founded in 2006 by investors Alan Patricof, Dana Settle, and Ian Sigalow, has closed on two new funds totaling $678 million in capital commitments. One of those funds is its sixth flagship early-stage fund a…*
+       - *Samsung and three major contract manufacturing partners of Apple are among 16 firms to win $6.65 billion incentives under India’s federal plan to boost domestic smartphone production over the next five years. These companies had applied for the incentive prog…*
       
 
 <br />
