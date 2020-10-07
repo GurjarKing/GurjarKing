@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When there is no type hierarchy you don’t have to manage the type hierarchy.
+A program that produces incorrect results twice as fast is infinitely slower.
 
-~ Rob Pike
+~ John Ousterhout
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When there is no type hierarchy you don’t have to manage the type hierarchy.
 </pre>
 <strong>Daily News</strong>
   
-  - Startups joining SK Telecom's accelerator include AI-driven mapping and vision for delivery robots
+  - Bringing micromobility to Africa
      <hr/>
      
-      - *We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless c…*
+      - *When you look at maps of micromobility across the world, it appears there’s not a ton of activity throughout Africa. Well, that’s because there’s not, Gura Ride founder and CEO Tony Adesina said at TC Sessions: Mobility. In Africa, there are “very few” microm…*
      
+  - Daily Crunch: Big tech responds to antitrust report
+      <hr/>
+      
+      - *The major tech platforms push back against the House antitrust report, Google Assistant gets a “guest” mode and we interview a freshly minted Nobel laureate. This is your Daily Crunch for October 7, 2020. The big story: Big tech responds to antitrust report T…*
+      
+  - Startups joining SK Telecom's accelerator include AI-driven mapping and vision for delivery robots
+      <hr/>
+      
+      - *We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless c…*
+      
   - Facebook: Trump can't recruit 'army' of poll watchers under new voter intimidation rules
       <hr/>
       
       - *In a blog post Wednesday, Facebook said it will no longer allow content that encourages poll watching that uses “militarized” language or intends to “intimidate, exert control, or display power over election officials or voters.” Facebook credited the update …*
-      
+       
   - Amazon sends legal notice to India's Future Group over deal with Ambani's Reliance Retail
       <hr/>
-      
-      - *Amazon has sent a legal notice to Future Retail, India’s second largest retail chain, for breaching the terms of its contract by selling a significant portion of the business to Ambani’s Reliance Retail. Future Group announced in late August that it was selli…*
-      
-  - Here's the curtain raise on the Sight Tech Global agenda
-      <hr/>
-      
-      - *The goal of Sight Tech Global, a virtual, global event on December 2-3, 2020, is to gather the world’s top experts who are applying advanced technologies, notably AI, to the future of accessibility and assistive tech for people who are blind or visually impai…*
        
-  - Media roundup: Google to cut big checks for news publishers, Substack continues to draw top creators, more
-      <hr/>
-       
-       - *Welcome back to Extra Crunch’s Media Roundup, where I round up the stories that entrepreneurs in the content and advertising business should be thinking about — trends, larger platform shifts, as well as noteworthy funding rounds. This time, we’ve got some ba…*
+       - *Amazon has sent a legal notice to Future Retail, India’s second largest retail chain, for breaching the terms of its contract by selling a significant portion of the business to Ambani’s Reliance Retail. Future Group announced in late August that it was selli…*
       
 
 <br />
