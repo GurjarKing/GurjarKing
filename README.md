@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Ideas don't disappear. They change form, they merge with other ideas.
+Computer Science is no more about computers than astronomy is about telescopes.
 
-~ Bob Frankston
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
