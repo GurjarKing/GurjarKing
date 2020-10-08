@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 
-~ Douglas Crockford
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ One of the things I’ve been pushing is code reading. I think that is the most 
 </pre>
 <strong>Daily News</strong>
   
-  - Lanturn, a Singaporean tech-enabled corporate services provider, raises $3 million seed round
+  - Lydia partners with Tink to improve open banking features
      <hr/>
      
-      - *Running a small- to medium-sized business means a small staff needs to juggle a plethora of tasks, like bookkeeping, tax records and regulatory filings. Singaporean startup Lanturn streamlines their workload with a combination of corporate services and an int…*
+      - *French fintech startup Lydia is going to work with financial API startup Tink for its open banking features in its app. Lydia started as a peer-to-peer payment app and now has 4 million users in Europe. Lydia’s vision has evolved to become a financial super a…*
      
+  - Lanturn, a Singaporean tech-enabled corporate services provider, raises $3 million seed round
+      <hr/>
+      
+      - *Running a small- to medium-sized business means a small staff needs to juggle a plethora of tasks, like bookkeeping, tax records and regulatory filings. Singaporean startup Lanturn streamlines their workload with a combination of corporate services and an int…*
+      
   - Bringing micromobility to Africa
       <hr/>
       
@@ -73,16 +78,11 @@ One of the things I’ve been pushing is code reading. I think that is the most 
       <hr/>
       
       - *The major tech platforms push back against the House antitrust report, Google Assistant gets a “guest” mode and we interview a freshly minted Nobel laureate. This is your Daily Crunch for October 7, 2020. The big story: Big tech responds to antitrust report T…*
-      
+       
   - Startups joining SK Telecom's accelerator include AI-driven mapping and vision for delivery robots
       <hr/>
-      
-      - *We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless c…*
        
-  - Facebook: Trump can't recruit 'army' of poll watchers under new voter intimidation rules
-      <hr/>
-       
-       - *In a blog post Wednesday, Facebook said it will no longer allow content that encourages poll watching that uses “militarized” language or intends to “intimidate, exert control, or display power over election officials or voters.” Facebook credited the update …*
+       - *We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless c…*
       
 
 <br />
