@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 
-~ Bill Gates
+~ John Carmack
 <pre>
 
 </pre>
