@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+What I cannot build, I do not understand.
 
-~ Nathaniel Borenstein
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ It should be noted that no ethically-trained software engineer would ever consen
 </pre>
 <strong>Daily News</strong>
   
-  - Google must negotiate to pay for French news, appeals court confirms
+  - MessageBird, the 'omnichannel platform-as-a-service,' raises $200M Series C at $3B valuation
      <hr/>
      
-      - *Google’s appeal against an order by France’s competition watchdog to negotiate with publishers for reuse of snippets of their content has failed. As we reported in April, the French authority was acting on a new ‘neighbouring right’ for news which was transpo…*
+      - *MessageBird, the Amsterdam-headquartered cloud communications company, has raised $200 million in Series C funding in a round led by Silicon Valley’s Spark Capital. The new investment gives 2011-founded MessageBird a whopping $3 billion valuation, and include…*
      
-  - Consumers spent a record $28 billion in apps in Q3, aided by pandemic
+  - Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production
       <hr/>
       
-      - *Mobile usage continues to remain high amidst the COVID-19 pandemic, which has prompted social distancing measures and lockdown policies, and has pushed consumers to connect online for work, school and socializing. This, in turn, has helped drive record spendi…*
+      - *Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.6 million Series A funding round, which c…*
       
-  - German energy company E.ON forms EUR250 million venture fund focused on smart grid tech
+  - Second U.S. Presidential debate will be done remotely via live-streamed video
       <hr/>
       
-      - *The German energy company E.ON, which counts over 50 million commercial, residential, and industrial customers, has created a new EUR250 million ($265 million) investment fund called Future Energy Ventures to invest in “asset-light” tech startups. As utilitie…*
+      - *The next U.S. Presidential debate between President Trump and Democratic candidate and former VP Joe Biden will be done remotely, the U.S. Commission on Presidential Debates (CPD) announced today. This follows an intense news cycle that came immediately after…*
       
-  - Tech for Campaigns, created to get Democrats elected, on the parties' biggest differences
+  - Dr Lal PathLabs, one of India's largest blood test labs, exposed patient data
       <hr/>
       
-      - *Yesterday, a 450-page “investigation on competition in digital markets” was published by the House based on 16 months of evidence gathering, including interviews with employees and past employees and others with first-hand knowledge of the inner workings of F…*
+      - *Exclusive: The lab giant left patients and test data on the internet without a password.*
        
-  - Lydia partners with Tink to improve open banking features
+  - Google must negotiate to pay for French news, appeals court confirms
       <hr/>
        
-       - *French fintech startup Lydia is going to work with financial API startup Tink for its open banking features in its app. Lydia started as a peer-to-peer payment app and now has 4 million users in Europe. Lydia’s vision has evolved to become a financial super a…*
+       - *Google’s appeal against an order by France’s competition watchdog to negotiate with publishers for reuse of snippets of their content has failed. As we reported in April, the French authority was acting on a new ‘neighbouring right’ for news which was transpo…*
       
 
 <br />
