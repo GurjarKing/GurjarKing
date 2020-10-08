@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 
-~ Henry Ford
+~ John von Neumann
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If we’d asked the customers what they wanted, they would have said “faster h
 </pre>
 <strong>Daily News</strong>
   
-  - The Zebra reaches $100M run rate, turns profitable as insurtech booms
+  - Enhanced computer vision, sensors raise manufacturing stakes for robots as a service
      <hr/>
      
-      - *EBMARGO From a cluster of insurance marketplace startups raising capital earlier this year, to neoinsurance provider Lemonade going public this summer at a strong valuation, Hippo’s huge new round and Root’s impending unicorn IPO, 2020 has proven to be a busy…*
+      - *Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.*
      
-  - Greycroft, Lerer Hippeau and Audible back audio measurement startup Veritonic
+  - Blissfully expands from SaaS management into wider IT services aimed at midmarket
       <hr/>
       
-      - *Veritonic is announcing that it has raised $3.2 million in Series A funding led by Greycroft, with participation from Lerer Hippeau and Amazon-owned audiobook service Audible. CEO Scott Simonelli, who founded the New York startup with COO Andrew Eisner and CT…*
+      - *When Blissfully launched in 2016, it was focused on helping companies understand their SaaS usage inside their organizations, but over time the company has seen that there is a wider need, especially in midmarket companies, and today it announced it was expan…*
       
-  - Microsoft is building a price comparison engine into its Edge browser
+  - Millennial Media's Paul Palmieri launches Tradeswell, a startup promising to fix e-commerce margins
       <hr/>
       
-      - *With its Edge browser now stable, Microsoft’s current focus for its Chromium-based browser is to build features that differentiate it from the competition. With the holiday season coming up fast (though who knows what that will actually look like this year), …*
+      - *A new startup called Tradeswell said it’s using artificial intelligence to help direct-to-consumer and e-commerce brands build healthier businesses. The company is led by Paul Palmieri, who previously took mobile advertising company Millennial Media public an…*
       
-  - Headroom, which uses AI to supercharge videoconferencing, raises $5M
+  - Instacart raises $200M more at $17.7B valuation
       <hr/>
       
-      - *Videoconferencing has become a cornerstone of how many of us work these days — so much so that one leading service, Zoom, has graduated into verb status because of how much it’s getting used. But does that mean videoconferencing works as well as it should? To…*
+      - *Instacart announced today that it has raised $200 million in a new funding round featuring prior investors. D1 Capital and Valiant Peregrine Fund led the investment. Instacart is now worth $17.7 billion, post-money, or $17.5 billion pre-money. The plan is to …*
        
-  - Delivery startup goPuff raises $380M at a $3.9B valuation
+  - Waymo starts to open driverless ride-hailing service to the public
       <hr/>
        
-       - *GoPuff is a Philadelphia-headquartered startup that delivers products like over-the-counter medicine, baby food and alcohol (basically, the stuff you’d buy at a convenience store) in 30 minutes or less. Yakir Gola, who serves as co-CEO with his co-founder Raf…*
+       - *Waymo, the Google self-driving-project-turned-Alphabet unit, is beginning to open up its driverless ride-hailing service to the public. The company said that starting today members of its Waymo One service will be able to take family and friends along on thei…*
       
 
 <br />
