@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most important part of writing a program is designing the data structures.
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
-~ Dan Bricklin
+~ Douglas Crockford
 <pre>
 
 </pre>
