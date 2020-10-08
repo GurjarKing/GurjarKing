@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A program that produces incorrect results twice as fast is infinitely slower.
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 
-~ John Ousterhout
+~ Alan Kay
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A program that produces incorrect results twice as fast is infinitely slower.
 </pre>
 <strong>Daily News</strong>
   
-  - Bringing micromobility to Africa
+  - Lanturn, a Singaporean tech-enabled corporate services provider, raises $3 million seed round
      <hr/>
      
-      - *When you look at maps of micromobility across the world, it appears there’s not a ton of activity throughout Africa. Well, that’s because there’s not, Gura Ride founder and CEO Tony Adesina said at TC Sessions: Mobility. In Africa, there are “very few” microm…*
+      - *Running a small- to medium-sized business means a small staff needs to juggle a plethora of tasks, like bookkeeping, tax records and regulatory filings. Singaporean startup Lanturn streamlines their workload with a combination of corporate services and an int…*
      
+  - Bringing micromobility to Africa
+      <hr/>
+      
+      - *When you look at maps of micromobility across the world, it appears there’s not a ton of activity throughout Africa. Well, that’s because there’s not, Gura Ride founder and CEO Tony Adesina said at TC Sessions: Mobility. In Africa, there are “very few” microm…*
+      
   - Daily Crunch: Big tech responds to antitrust report
       <hr/>
       
@@ -73,16 +78,11 @@ A program that produces incorrect results twice as fast is infinitely slower.
       <hr/>
       
       - *We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless c…*
-      
+       
   - Facebook: Trump can't recruit 'army' of poll watchers under new voter intimidation rules
       <hr/>
-      
-      - *In a blog post Wednesday, Facebook said it will no longer allow content that encourages poll watching that uses “militarized” language or intends to “intimidate, exert control, or display power over election officials or voters.” Facebook credited the update …*
        
-  - Amazon sends legal notice to India's Future Group over deal with Ambani's Reliance Retail
-      <hr/>
-       
-       - *Amazon has sent a legal notice to Future Retail, India’s second largest retail chain, for breaching the terms of its contract by selling a significant portion of the business to Ambani’s Reliance Retail. Future Group announced in late August that it was selli…*
+       - *In a blog post Wednesday, Facebook said it will no longer allow content that encourages poll watching that uses “militarized” language or intends to “intimidate, exert control, or display power over election officials or voters.” Facebook credited the update …*
       
 
 <br />
