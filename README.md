@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+No code is faster than no code.
 
-~ Bill Gates
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Success is a lousy teacher. It seduces smart people into thinking they can't los
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon debuts its first fully electric delivery vehicle, created in partnership with Rivian
+  - Delivery startup goPuff raises $380M at a $3.9B valuation
      <hr/>
      
-      - *Amazon has received delivery of its very first, custom-built EV delivery van – a vehicle built through its partnership with electric transportation startup Rivian. The van doesn’t look too different from existing, traditional fuel and hybrid commercial delive…*
+      - *GoPuff is a Philadelphia-headquartered startup that delivers products like over-the-counter medicine, baby food and alcohol (basically, the stuff you’d buy at a convenience store) in 30 minutes or less. Yakir Gola, who serves as co-CEO with his co-founder Raf…*
      
-  - Zero’s SR/S doubles as an EV sport motorcycle and sport-tourer
+  - Density's Open Area radar tracks people in a space, precisely but anonymously
       <hr/>
       
-      - *Zero’s 2020 SR/S could be your EV sport bike or sport-tourer. Unveiled earlier this year, the all electric motorcycle brings performance attributes of both classes — with a unique list of pros and cons compared to gas-powered peers. The SR/S also adds to the …*
+      - *Everyone in the world is rethinking shared spaces right about now, and part of that rethink is understanding how they’re used, minute by minute and day by day. Density’s tiny ceiling-mounted radar finds and tracks people unobtrusively but with great precision…*
       
-  - Investors, founders report hot market for API startups
+  - Harbor, the app that gamifies emergency preparedness, launches
       <hr/>
       
-      - *Startups that deliver their service via an API are having a moment. Or perhaps a year. Speaking with founders and investors this year, it has become clear that the API model of delivering a product is more than an occasional hit-maker for companies like Twili…*
+      - *Harbor, an emergency-preparedness company that just raised $5 million in seed, has today publicly launched its app. The app gamifies the process of preparing your home and family for whatever crisis may befall them, including common emergencies like house fir…*
       
-  - Revolut lets you track your subscriptions, adds savings bonus in the US
+  - Understanding Airbnb's summer recovery
       <hr/>
       
-      - *Fintech startup Revolut has rolled out a handful of additional features over the past few days. The financial app lets you track all your subscriptions that you pay with your Revolut account or your card. In the U.S., Revolut is adding a savings bonus based o…*
+      - *New numbers concerning Airbnb’s summer performance were reported this week, with The Information adding to the performance figures that Bloomberg previously detailed earlier this year. Airbnb announced that it filed privately to pursue a debut this August. We…*
        
-  - Neocis, the maker of dental surgery robots, roots out another $72 million
+  - Lime revamps its app to include competitors, starting with Wheels ebikes
       <hr/>
        
-       - *Since the robotic dental surgery assistant Yomi first came on the market in 2019 more than 2,700 patients have stared up at its plastic sheathed metal arms, and now the company behind it, Neocis, has raised $72 million to bring it into more dentists’ offices.…*
+       - *Lime might best known for its bright green micromobility devices, or more recently, its ownership of the iconic red Jump electric bikes. But now, the company is expanding in a way that could see it “housing” numerous other micromobility brands on its own app.…*
       
 
 <br />
