@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 
-~ Fred Brooks
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Very good professional programmers are ten times as productive as poor ones, at 
 </pre>
 <strong>Daily News</strong>
   
-  - Revolut lets you track your subscriptions, adds savings bonus in the US
+  - Amazon debuts its first fully electric delivery vehicle, created in partnership with Rivian
      <hr/>
      
-      - *Fintech startup Revolut has rolled out a handful of additional features over the past few days. The financial app lets you track all your subscriptions that you pay with your Revolut account or your card. In the U.S., Revolut is adding a savings bonus based o…*
+      - *Amazon has received delivery of its very first, custom-built EV delivery van – a vehicle built through its partnership with electric transportation startup Rivian. The van doesn’t look too different from existing, traditional fuel and hybrid commercial delive…*
      
+  - Zero’s SR/S doubles as an EV sport motorcycle and sport-tourer
+      <hr/>
+      
+      - *Zero’s 2020 SR/S could be your EV sport bike or sport-tourer. Unveiled earlier this year, the all electric motorcycle brings performance attributes of both classes — with a unique list of pros and cons compared to gas-powered peers. The SR/S also adds to the …*
+      
+  - Investors, founders report hot market for API startups
+      <hr/>
+      
+      - *Startups that deliver their service via an API are having a moment. Or perhaps a year. Speaking with founders and investors this year, it has become clear that the API model of delivering a product is more than an occasional hit-maker for companies like Twili…*
+      
+  - Revolut lets you track your subscriptions, adds savings bonus in the US
+      <hr/>
+      
+      - *Fintech startup Revolut has rolled out a handful of additional features over the past few days. The financial app lets you track all your subscriptions that you pay with your Revolut account or your card. In the U.S., Revolut is adding a savings bonus based o…*
+       
   - Neocis, the maker of dental surgery robots, roots out another $72 million
       <hr/>
-      
-      - *Since the robotic dental surgery assistant Yomi first came on the market in 2019 more than 2,700 patients have stared up at its plastic sheathed metal arms, and now the company behind it, Neocis, has raised $72 million to bring it into more dentists’ offices.…*
-      
-  - Betaworks and Betalab unveil their first four startups working to ‘fix the internet’
-      <hr/>
-      
-      - *Back in March, startup studio Betaworks announced that was partnering with James Murdoch’s Lupa Systems to create a new program called Betalab, which would fund and mentor early-stage startups that would try to “Fix the Internet.” In the initial announcement,…*
-      
-  - Kroger, one of America's largest grocery chains, experiments with ghost kitchens and delivery in the Midwest
-      <hr/>
-      
-      - *The Kroger Co., one of the biggest grocery chains in the Midwest is dipping its toe into on-demand delivery and the ghost kitchen craze through a partnership with an Indianapolis-based startup, ClusterTruck. Supermarkets would seem to be logical places to sit…*
        
-  - U.S. Space Force is getting an immersive space sim training tool built in part by the VFX studio behind 'The Mandalorian'
-      <hr/>
-       
-       - *The U.S. Space Force obviously won’t be able to train most of their service people in actual space, so they relatively new arm of America’s defense forces has tasked Slingshot Aerospace to create a VR space sim, in partnership with The Third Floor, a Hollywoo…*
+       - *Since the robotic dental surgery assistant Yomi first came on the market in 2019 more than 2,700 patients have stared up at its plastic sheathed metal arms, and now the company behind it, Neocis, has raised $72 million to bring it into more dentists’ offices.…*
       
 
 <br />
