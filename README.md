@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
 
-~ Donald Knuth
+~ John Romero
 <pre>
 
 </pre>
