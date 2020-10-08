@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We need to be super careful with AI. Potentially more dangerous than nukes.
+So much complexity in software comes from trying to make one thing do two things.
 
-~ Elon Musk
+~ Ryan Singer
 <pre>
 
 </pre>
