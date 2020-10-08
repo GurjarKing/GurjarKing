@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+The most important part of writing a program is designing the data structures.
 
-~ John Carmack
+~ Dan Bricklin
 <pre>
 
 </pre>
