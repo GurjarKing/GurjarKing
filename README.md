@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 
-~ Donald Knuth
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The problem is that coding isn’t fun if all you can do is call things out of a
 </pre>
 <strong>Daily News</strong>
   
-  - Lydia partners with Tink to improve open banking features
+  - Tech for Campaigns, created to get Democrats elected, on the parties' biggest differences
      <hr/>
      
-      - *French fintech startup Lydia is going to work with financial API startup Tink for its open banking features in its app. Lydia started as a peer-to-peer payment app and now has 4 million users in Europe. Lydia’s vision has evolved to become a financial super a…*
+      - *Yesterday, a 450-page “investigation on competition in digital markets” was published by the House based on 16 months of evidence gathering, including interviews with employees and past employees and others with first-hand knowledge of the inner workings of F…*
      
+  - Lydia partners with Tink to improve open banking features
+      <hr/>
+      
+      - *French fintech startup Lydia is going to work with financial API startup Tink for its open banking features in its app. Lydia started as a peer-to-peer payment app and now has 4 million users in Europe. Lydia’s vision has evolved to become a financial super a…*
+      
   - Lanturn, a Singaporean tech-enabled corporate services provider, raises $3 million seed round
       <hr/>
       
@@ -73,16 +78,11 @@ The problem is that coding isn’t fun if all you can do is call things out of a
       <hr/>
       
       - *When you look at maps of micromobility across the world, it appears there’s not a ton of activity throughout Africa. Well, that’s because there’s not, Gura Ride founder and CEO Tony Adesina said at TC Sessions: Mobility. In Africa, there are “very few” microm…*
-      
+       
   - Daily Crunch: Big tech responds to antitrust report
       <hr/>
-      
-      - *The major tech platforms push back against the House antitrust report, Google Assistant gets a “guest” mode and we interview a freshly minted Nobel laureate. This is your Daily Crunch for October 7, 2020. The big story: Big tech responds to antitrust report T…*
        
-  - Startups joining SK Telecom's accelerator include AI-driven mapping and vision for delivery robots
-      <hr/>
-       
-       - *We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless c…*
+       - *The major tech platforms push back against the House antitrust report, Google Assistant gets a “guest” mode and we interview a freshly minted Nobel laureate. This is your Daily Crunch for October 7, 2020. The big story: Big tech responds to antitrust report T…*
       
 
 <br />
