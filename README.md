@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What I cannot build, I do not understand.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
-~ Richard Feynman
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ What I cannot build, I do not understand.
 </pre>
 <strong>Daily News</strong>
   
-  - MessageBird, the 'omnichannel platform-as-a-service,' raises $200M Series C at $3B valuation
+  - Revolut lets you track your subscriptions, adds savings bonus in the US
      <hr/>
      
-      - *MessageBird, the Amsterdam-headquartered cloud communications company, has raised $200 million in Series C funding in a round led by Silicon Valley’s Spark Capital. The new investment gives 2011-founded MessageBird a whopping $3 billion valuation, and include…*
+      - *Fintech startup Revolut has rolled out a handful of additional features over the past few days. The financial app lets you track all your subscriptions that you pay with your Revolut account or your card. In the U.S., Revolut is adding a savings bonus based o…*
      
-  - Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production
+  - Neocis, the maker of dental surgery robots, roots out another $72 million
       <hr/>
       
-      - *Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.6 million Series A funding round, which c…*
+      - *Since the robotic dental surgery assistant Yomi first came on the market in 2019 more than 2,700 patients have stared up at its plastic sheathed metal arms, and now the company behind it, Neocis, has raised $72 million to bring it into more dentists’ offices.…*
       
-  - Second U.S. Presidential debate will be done remotely via live-streamed video
+  - Betaworks and Betalab unveil their first four startups working to ‘fix the internet’
       <hr/>
       
-      - *The next U.S. Presidential debate between President Trump and Democratic candidate and former VP Joe Biden will be done remotely, the U.S. Commission on Presidential Debates (CPD) announced today. This follows an intense news cycle that came immediately after…*
+      - *Back in March, startup studio Betaworks announced that was partnering with James Murdoch’s Lupa Systems to create a new program called Betalab, which would fund and mentor early-stage startups that would try to “Fix the Internet.” In the initial announcement,…*
       
-  - Dr Lal PathLabs, one of India's largest blood test labs, exposed patient data
+  - Kroger, one of America's largest grocery chains, experiments with ghost kitchens and delivery in the Midwest
       <hr/>
       
-      - *Exclusive: The lab giant left patients and test data on the internet without a password.*
+      - *The Kroger Co., one of the biggest grocery chains in the Midwest is dipping its toe into on-demand delivery and the ghost kitchen craze through a partnership with an Indianapolis-based startup, ClusterTruck. Supermarkets would seem to be logical places to sit…*
        
-  - Google must negotiate to pay for French news, appeals court confirms
+  - U.S. Space Force is getting an immersive space sim training tool built in part by the VFX studio behind 'The Mandalorian'
       <hr/>
        
-       - *Google’s appeal against an order by France’s competition watchdog to negotiate with publishers for reuse of snippets of their content has failed. As we reported in April, the French authority was acting on a new ‘neighbouring right’ for news which was transpo…*
+       - *The U.S. Space Force obviously won’t be able to train most of their service people in actual space, so they relatively new arm of America’s defense forces has tasked Slingshot Aerospace to create a VR space sim, in partnership with The Third Floor, a Hollywoo…*
       
 
 <br />
