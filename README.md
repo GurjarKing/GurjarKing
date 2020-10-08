@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+Life is too short to run proprietary software.
 
-~ John von Neumann
+~ Bdale Garbee
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If people do not believe that mathematics is simple, it is only because they do 
 </pre>
 <strong>Daily News</strong>
   
-  - Enhanced computer vision, sensors raise manufacturing stakes for robots as a service
+  - Google Assistant can now control Android apps
      <hr/>
      
-      - *Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.*
+      - *Google today announced it’s making it possible to use the voice command “Hey Google” to not just open but also perform specific tasks within Android apps. The feature will be rolled out to all Google Assistant-enabled Android phones, allowing users to launch …*
      
+  - Enhanced computer vision, sensors raise manufacturing stakes for robots as a service
+      <hr/>
+      
+      - *Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.*
+      
   - Blissfully expands from SaaS management into wider IT services aimed at midmarket
       <hr/>
       
@@ -73,16 +78,11 @@ If people do not believe that mathematics is simple, it is only because they do 
       <hr/>
       
       - *A new startup called Tradeswell said it’s using artificial intelligence to help direct-to-consumer and e-commerce brands build healthier businesses. The company is led by Paul Palmieri, who previously took mobile advertising company Millennial Media public an…*
-      
+       
   - Instacart raises $200M more at $17.7B valuation
       <hr/>
-      
-      - *Instacart announced today that it has raised $200 million in a new funding round featuring prior investors. D1 Capital and Valiant Peregrine Fund led the investment. Instacart is now worth $17.7 billion, post-money, or $17.5 billion pre-money. The plan is to …*
        
-  - Waymo starts to open driverless ride-hailing service to the public
-      <hr/>
-       
-       - *Waymo, the Google self-driving-project-turned-Alphabet unit, is beginning to open up its driverless ride-hailing service to the public. The company said that starting today members of its Waymo One service will be able to take family and friends along on thei…*
+       - *Instacart announced today that it has raised $200 million in a new funding round featuring prior investors. D1 Capital and Valiant Peregrine Fund led the investment. Instacart is now worth $17.7 billion, post-money, or $17.5 billion pre-money. The plan is to …*
       
 
 <br />
