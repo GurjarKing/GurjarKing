@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+Once the computers got control, we might never get it back.
 
-~ John Romero
+~ Marvin Minsky
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ You might not think that programmers are artists, but programming is an extremel
 </pre>
 <strong>Daily News</strong>
   
-  - Tech for Campaigns, created to get Democrats elected, on the parties' biggest differences
+  - Consumers spent a record $28 billion in apps in Q3, aided by pandemic
      <hr/>
      
-      - *Yesterday, a 450-page “investigation on competition in digital markets” was published by the House based on 16 months of evidence gathering, including interviews with employees and past employees and others with first-hand knowledge of the inner workings of F…*
+      - *Mobile usage continues to remain high amidst the COVID-19 pandemic, which has prompted social distancing measures and lockdown policies, and has pushed consumers to connect online for work, school and socializing. This, in turn, has helped drive record spendi…*
      
+  - German energy company E.ON forms EUR250 million venture fund focused on smart grid tech
+      <hr/>
+      
+      - *The German energy company E.ON, which counts over 50 million commercial, residential, and industrial customers, has created a new EUR250 million ($265 million) investment fund called Future Energy Ventures to invest in “asset-light” tech startups. As utilitie…*
+      
+  - Tech for Campaigns, created to get Democrats elected, on the parties' biggest differences
+      <hr/>
+      
+      - *Yesterday, a 450-page “investigation on competition in digital markets” was published by the House based on 16 months of evidence gathering, including interviews with employees and past employees and others with first-hand knowledge of the inner workings of F…*
+      
   - Lydia partners with Tink to improve open banking features
       <hr/>
       
       - *French fintech startup Lydia is going to work with financial API startup Tink for its open banking features in its app. Lydia started as a peer-to-peer payment app and now has 4 million users in Europe. Lydia’s vision has evolved to become a financial super a…*
-      
+       
   - Lanturn, a Singaporean tech-enabled corporate services provider, raises $3 million seed round
       <hr/>
-      
-      - *Running a small- to medium-sized business means a small staff needs to juggle a plethora of tasks, like bookkeeping, tax records and regulatory filings. Singaporean startup Lanturn streamlines their workload with a combination of corporate services and an int…*
-      
-  - Bringing micromobility to Africa
-      <hr/>
-      
-      - *When you look at maps of micromobility across the world, it appears there’s not a ton of activity throughout Africa. Well, that’s because there’s not, Gura Ride founder and CEO Tony Adesina said at TC Sessions: Mobility. In Africa, there are “very few” microm…*
        
-  - Daily Crunch: Big tech responds to antitrust report
-      <hr/>
-       
-       - *The major tech platforms push back against the House antitrust report, Google Assistant gets a “guest” mode and we interview a freshly minted Nobel laureate. This is your Daily Crunch for October 7, 2020. The big story: Big tech responds to antitrust report T…*
+       - *Running a small- to medium-sized business means a small staff needs to juggle a plethora of tasks, like bookkeeping, tax records and regulatory filings. Singaporean startup Lanturn streamlines their workload with a combination of corporate services and an int…*
       
 
 <br />
