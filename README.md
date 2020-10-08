@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-No code is faster than no code.
+If we’d asked the customers what they wanted, they would have said “faster horses”.
 
-~ Kevlin Henney
+~ Henry Ford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ No code is faster than no code.
 </pre>
 <strong>Daily News</strong>
   
-  - Delivery startup goPuff raises $380M at a $3.9B valuation
+  - The Zebra reaches $100M run rate, turns profitable as insurtech booms
      <hr/>
      
-      - *GoPuff is a Philadelphia-headquartered startup that delivers products like over-the-counter medicine, baby food and alcohol (basically, the stuff you’d buy at a convenience store) in 30 minutes or less. Yakir Gola, who serves as co-CEO with his co-founder Raf…*
+      - *EBMARGO From a cluster of insurance marketplace startups raising capital earlier this year, to neoinsurance provider Lemonade going public this summer at a strong valuation, Hippo’s huge new round and Root’s impending unicorn IPO, 2020 has proven to be a busy…*
      
-  - Density's Open Area radar tracks people in a space, precisely but anonymously
+  - Greycroft, Lerer Hippeau and Audible back audio measurement startup Veritonic
       <hr/>
       
-      - *Everyone in the world is rethinking shared spaces right about now, and part of that rethink is understanding how they’re used, minute by minute and day by day. Density’s tiny ceiling-mounted radar finds and tracks people unobtrusively but with great precision…*
+      - *Veritonic is announcing that it has raised $3.2 million in Series A funding led by Greycroft, with participation from Lerer Hippeau and Amazon-owned audiobook service Audible. CEO Scott Simonelli, who founded the New York startup with COO Andrew Eisner and CT…*
       
-  - Harbor, the app that gamifies emergency preparedness, launches
+  - Microsoft is building a price comparison engine into its Edge browser
       <hr/>
       
-      - *Harbor, an emergency-preparedness company that just raised $5 million in seed, has today publicly launched its app. The app gamifies the process of preparing your home and family for whatever crisis may befall them, including common emergencies like house fir…*
+      - *With its Edge browser now stable, Microsoft’s current focus for its Chromium-based browser is to build features that differentiate it from the competition. With the holiday season coming up fast (though who knows what that will actually look like this year), …*
       
-  - Understanding Airbnb's summer recovery
+  - Headroom, which uses AI to supercharge videoconferencing, raises $5M
       <hr/>
       
-      - *New numbers concerning Airbnb’s summer performance were reported this week, with The Information adding to the performance figures that Bloomberg previously detailed earlier this year. Airbnb announced that it filed privately to pursue a debut this August. We…*
+      - *Videoconferencing has become a cornerstone of how many of us work these days — so much so that one leading service, Zoom, has graduated into verb status because of how much it’s getting used. But does that mean videoconferencing works as well as it should? To…*
        
-  - Lime revamps its app to include competitors, starting with Wheels ebikes
+  - Delivery startup goPuff raises $380M at a $3.9B valuation
       <hr/>
        
-       - *Lime might best known for its bright green micromobility devices, or more recently, its ownership of the iconic red Jump electric bikes. But now, the company is expanding in a way that could see it “housing” numerous other micromobility brands on its own app.…*
+       - *GoPuff is a Philadelphia-headquartered startup that delivers products like over-the-counter medicine, baby food and alcohol (basically, the stuff you’d buy at a convenience store) in 30 minutes or less. Yakir Gola, who serves as co-CEO with his co-founder Raf…*
       
 
 <br />
