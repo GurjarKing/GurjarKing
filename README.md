@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
 
-~ Dennis Ritchie
+~ Bill Gates
 <pre>
 
 </pre>
