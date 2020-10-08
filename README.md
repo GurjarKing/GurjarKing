@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Once the computers got control, we might never get it back.
+It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 
-~ Marvin Minsky
+~ Nathaniel Borenstein
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Once the computers got control, we might never get it back.
 </pre>
 <strong>Daily News</strong>
   
-  - Consumers spent a record $28 billion in apps in Q3, aided by pandemic
+  - Google must negotiate to pay for French news, appeals court confirms
      <hr/>
      
-      - *Mobile usage continues to remain high amidst the COVID-19 pandemic, which has prompted social distancing measures and lockdown policies, and has pushed consumers to connect online for work, school and socializing. This, in turn, has helped drive record spendi…*
+      - *Google’s appeal against an order by France’s competition watchdog to negotiate with publishers for reuse of snippets of their content has failed. As we reported in April, the French authority was acting on a new ‘neighbouring right’ for news which was transpo…*
      
+  - Consumers spent a record $28 billion in apps in Q3, aided by pandemic
+      <hr/>
+      
+      - *Mobile usage continues to remain high amidst the COVID-19 pandemic, which has prompted social distancing measures and lockdown policies, and has pushed consumers to connect online for work, school and socializing. This, in turn, has helped drive record spendi…*
+      
   - German energy company E.ON forms EUR250 million venture fund focused on smart grid tech
       <hr/>
       
@@ -73,16 +78,11 @@ Once the computers got control, we might never get it back.
       <hr/>
       
       - *Yesterday, a 450-page “investigation on competition in digital markets” was published by the House based on 16 months of evidence gathering, including interviews with employees and past employees and others with first-hand knowledge of the inner workings of F…*
-      
+       
   - Lydia partners with Tink to improve open banking features
       <hr/>
-      
-      - *French fintech startup Lydia is going to work with financial API startup Tink for its open banking features in its app. Lydia started as a peer-to-peer payment app and now has 4 million users in Europe. Lydia’s vision has evolved to become a financial super a…*
        
-  - Lanturn, a Singaporean tech-enabled corporate services provider, raises $3 million seed round
-      <hr/>
-       
-       - *Running a small- to medium-sized business means a small staff needs to juggle a plethora of tasks, like bookkeeping, tax records and regulatory filings. Singaporean startup Lanturn streamlines their workload with a combination of corporate services and an int…*
+       - *French fintech startup Lydia is going to work with financial API startup Tink for its open banking features in its app. Lydia started as a peer-to-peer payment app and now has 4 million users in Europe. Lydia’s vision has evolved to become a financial super a…*
       
 
 <br />
