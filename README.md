@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming can be addictive.
+To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 
-~ Bob Carr
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Programming can be addictive.
 </pre>
 <strong>Daily News</strong>
   
-  - Odell Beckham Jr. turned to Mojichat's advertising features during his inaugural live-stream
+  - Changing how retweets work, Twitter seeks to slow down election misinformation
      <hr/>
      
-      - *Mojiit, the Los Angeles-based company behind the popular avatar generation service Mojichat, has landed one of its highest profile users with the launch of Odell Beckham Jr.’s livestream over the weekend. As Odell Beckham Jr. did his first livestream with the…*
+      - *Twitter announced a major set of changes to the way its platform would work Friday as the social network braces for the most contentious, uncertain and potentially high stakes election in modern U.S. history. In what will likely be the most noticeable change,…*
      
+  - Odell Beckham Jr. turned to Mojichat's advertising features during his inaugural live-stream
+      <hr/>
+      
+      - *Mojiit, the Los Angeles-based company behind the popular avatar generation service Mojichat, has landed one of its highest profile users with the launch of Odell Beckham Jr.’s livestream over the weekend. As Odell Beckham Jr. did his first livestream with the…*
+      
   - Polestar CEO defends the Polestar 2’s recall and 233-mile EPA rating
       <hr/>
       
@@ -73,16 +78,11 @@ Programming can be addictive.
       <hr/>
       
       - *This morning, YCharts, a financial data and charting service, announced that it has been purchased by LLR Partners, a private equity firm. The companies are dubbing the transaction a “growth recapitalization,” indicating that the smaller firm won’t be strippe…*
-      
+       
   - Porsche is researching synthetic fuels to make gas-powered cars sustainable
       <hr/>
-      
-      - *The road to sustainable vehicles likely ends at electric cars, yet the route to this goal isn’t clear. There are multiple ways to get there, and Porsche is looking at synthetic fuels as a potential path. These so-called eFuels are produced from CO2 and hydrog…*
        
-  - Funding for female founders falls to 2017 levels as pandemic shakes up the VC market
-      <hr/>
-       
-       - *So much for progress. New data out this week from PitchBook indicates that the number of rounds raised by female-founded and co-founded companies fell year-over-year, with dollars invested in those rounds collapsing to 2017-era levels. The Exchange explores s…*
+       - *The road to sustainable vehicles likely ends at electric cars, yet the route to this goal isn’t clear. There are multiple ways to get there, and Porsche is looking at synthetic fuels as a potential path. These so-called eFuels are produced from CO2 and hydrog…*
       
 
 <br />
