@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+People should be able to speak and breathe programs just like they talk now.
 
-~ Stewart Brand
+~ Jaron Lanier
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Once a new technology starts rolling, if you’re not part of the steamroller, y
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: Uber engineer explains why he spoke out against Prop 22
+  - Dear Sophie: How can employers hire & comply with all this new H-1B craziness?
      <hr/>
      
-      - *Welcome back to Human Capital where we discuss the latest in labor, and diversity and inclusion in tech. This week’s eyebrow-raising moment came Wednesday when the U.S. Department of Labor essentially accused Microsoft of reverse racism (not a real thing) for…*
+      - *Although both the DOL and DHS rules will likely be challenged, they will likely remain in effect for some time before any litigation has an impact.*
      
+  - Human Capital: Uber engineer explains why he spoke out against Prop 22
+      <hr/>
+      
+      - *Welcome back to Human Capital where we discuss the latest in labor, and diversity and inclusion in tech. This week’s eyebrow-raising moment came Wednesday when the U.S. Department of Labor essentially accused Microsoft of reverse racism (not a real thing) for…*
+      
   - How Roblox completely transformed its tech stack
       <hr/>
       
@@ -73,16 +78,11 @@ Once a new technology starts rolling, if you’re not part of the steamroller, y
       <hr/>
       
       - *JB Straubel, the Tesla co-founder and former CTO, is often cast as the humble and pioneering engineer, the quiet one who toiled away in the background for 15 years on some of the company’s most important technologies. That characterization — which intensified…*
-      
+       
   - Facebook and Instagram will pin vote-by-mail explainers to top of feeds
       <hr/>
-      
-      - *Starting this weekend, everyone of voting age in the U.S. will begin seeing informational videos at the top of Instagram and Facebook offering tips and state-specific guidance on how to vote through the mail. The videos will be offered in both English and Spa…*
        
-  - New Chinese browser offers a glimpse beyond the Great Firewall - with caveats
-      <hr/>
-       
-       - *China now has a tool that lets users access YouTube, Facebook, Twitter, Instagram, Google, and other internet services that have otherwise long been banned in the country. Called Tuber, the mobile browser recently debuted on China’s third-party Android stores…*
+       - *Starting this weekend, everyone of voting age in the U.S. will begin seeing informational videos at the top of Instagram and Facebook offering tips and state-specific guidance on how to vote through the mail. The videos will be offered in both English and Spa…*
       
 
 <br />
