@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 
-~ Linus Torvalds
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If you need more than 3 levels of indentation, you're screwed anyway, and should
 </pre>
 <strong>Daily News</strong>
   
-  - Dear Sophie: How can employers hire & comply with all this new H-1B craziness?
+  - Judge denies Epic's request to force Apple to bring Fortnite back to App Store
      <hr/>
      
-      - *Although both the DOL and DHS rules will likely be challenged, they will likely remain in effect for some time before any litigation has an impact.*
+      - *The California judge in the legal skirmish between Epic Games and Apple has denied Epic’s request that Apple be forced to reinstate Fortnite in the App Store, but did affirm that Apple can not take action against the Epic Games developer accounts used to brin…*
      
+  - Dear Sophie: How can employers hire & comply with all this new H-1B craziness?
+      <hr/>
+      
+      - *Although both the DOL and DHS rules will likely be challenged, they will likely remain in effect for some time before any litigation has an impact.*
+      
   - Human Capital: Uber engineer explains why he spoke out against Prop 22
       <hr/>
       
@@ -73,16 +78,11 @@ If you need more than 3 levels of indentation, you're screwed anyway, and should
       <hr/>
       
       - *Picture yourself in the role of CIO at Roblox in 2017. At that point, the gaming platform and publishing system that launched in 2005 was growing fast, but its underlying technology was aging, consisting of a single data center in Chicago and a bunch of third…*
-      
+       
   - Why Amazon and Panasonic are betting on this battery recycling startup
       <hr/>
-      
-      - *JB Straubel, the Tesla co-founder and former CTO, is often cast as the humble and pioneering engineer, the quiet one who toiled away in the background for 15 years on some of the company’s most important technologies. That characterization — which intensified…*
        
-  - Facebook and Instagram will pin vote-by-mail explainers to top of feeds
-      <hr/>
-       
-       - *Starting this weekend, everyone of voting age in the U.S. will begin seeing informational videos at the top of Instagram and Facebook offering tips and state-specific guidance on how to vote through the mail. The videos will be offered in both English and Spa…*
+       - *JB Straubel, the Tesla co-founder and former CTO, is often cast as the humble and pioneering engineer, the quiet one who toiled away in the background for 15 years on some of the company’s most important technologies. That characterization — which intensified…*
       
 
 <br />
