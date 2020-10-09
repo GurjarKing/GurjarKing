@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+C is quirky, flawed, and an enormous success.
 
-~ Tim Berners-Lee
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ To be a hacker - when I use the term - is somebody who is creative and does wond
 </pre>
 <strong>Daily News</strong>
   
-  - Hong Kong logistics unicorn Lalamove unveils foray into the US
+  - Devialet announces wireless earbuds
      <hr/>
      
-      - *Lalamove, an on-demand logistics service active in China, Southeast Asia, and Latin America, has officially entered the U.S. seven years after launch. As the COVID-19 pandemic keeps millions of Americans home, Hong Kong-based Lalamove believes it can seize th…*
+      - *High-end speaker manufacturer Devialet is launching its first pair of earbuds called Devialet Gemini. The in-ear earbuds feature active noise canceling and cost £279 in the U.K. — they will be available in the coming weeks. The Devialet Gemini are completely …*
      
+  - Hong Kong logistics unicorn Lalamove unveils foray into the US
+      <hr/>
+      
+      - *Lalamove, an on-demand logistics service active in China, Southeast Asia, and Latin America, has officially entered the U.S. seven years after launch. As the COVID-19 pandemic keeps millions of Americans home, Hong Kong-based Lalamove believes it can seize th…*
+      
   - Amid a boom in SPACs, relatively few women investors
       <hr/>
       
@@ -73,16 +78,11 @@ To be a hacker - when I use the term - is somebody who is creative and does wond
       <hr/>
       
       - *According to details from a shocking new affidavit, the FBI uncovered a group planning “violent action against multiple state governments,” including a detailed plot to capture or kill Michigan Governor Gretchen Whitmer. The domestic terror group organized ac…*
-      
+       
   - Daily Crunch: Waymo opens up driverless ride-hailing
       <hr/>
-      
-      - *Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for October 8, 2020. The big story: Waymo opens up driverless ride-hailing Waymo hit a m…*
        
-  - No-code is the new blockchain
-      <hr/>
-       
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha was on vacation, so Danny and your humble servant had to endeavour alone. She’s back next wee…*
+       - *Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for October 8, 2020. The big story: Waymo opens up driverless ride-hailing Waymo hit a m…*
       
 
 <br />
