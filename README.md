@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+No code is faster than no code.
 
-~ Ward Cunningham
+~ Kevlin Henney
 <pre>
 
 </pre>
