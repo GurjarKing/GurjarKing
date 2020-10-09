@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 
-~ Edsger W. Dijkstra
+~ Danny Hillis
 <pre>
 
 </pre>
