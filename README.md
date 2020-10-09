@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'm interested in creating images that communicate with people.
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 
-~ Toru Iwatani
+~ Stewart Brand
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I'm interested in creating images that communicate with people.
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook and Instagram will pin vote-by-mail explainers to top of feeds
+  - Human Capital: Uber engineer explains why he spoke out against Prop 22
      <hr/>
      
-      - *Starting this weekend, everyone of voting age in the U.S. will begin seeing informational videos at the top of Instagram and Facebook offering tips and state-specific guidance on how to vote through the mail. The videos will be offered in both English and Spa…*
+      - *Welcome back to Human Capital where we discuss the latest in labor, and diversity and inclusion in tech. This week’s eyebrow-raising moment came Wednesday when the U.S. Department of Labor essentially accused Microsoft of reverse racism (not a real thing) for…*
      
+  - How Roblox completely transformed its tech stack
+      <hr/>
+      
+      - *Picture yourself in the role of CIO at Roblox in 2017. At that point, the gaming platform and publishing system that launched in 2005 was growing fast, but its underlying technology was aging, consisting of a single data center in Chicago and a bunch of third…*
+      
+  - Why Amazon and Panasonic are betting on this battery recycling startup
+      <hr/>
+      
+      - *JB Straubel, the Tesla co-founder and former CTO, is often cast as the humble and pioneering engineer, the quiet one who toiled away in the background for 15 years on some of the company’s most important technologies. That characterization — which intensified…*
+      
+  - Facebook and Instagram will pin vote-by-mail explainers to top of feeds
+      <hr/>
+      
+      - *Starting this weekend, everyone of voting age in the U.S. will begin seeing informational videos at the top of Instagram and Facebook offering tips and state-specific guidance on how to vote through the mail. The videos will be offered in both English and Spa…*
+       
   - New Chinese browser offers a glimpse beyond the Great Firewall - with caveats
       <hr/>
-      
-      - *China now has a tool that lets users access YouTube, Facebook, Twitter, Instagram, Google, and other internet services that have otherwise long been banned in the country. Called Tuber, the mobile browser recently debuted on China’s third-party Android stores…*
-      
-  - Top mobility VCs on the risks and rewards in partnering with giants like Amazon
-      <hr/>
-      
-      - *At our recent TechCrunch Mobility event, we spoke with Amy Gu, the founder and managing partner of Hemi Ventures, Olaf Sakkers, a founding partner at Maniv Mobility and Reilly Brennan, the founding general partner at Trucks VC. We discussed a wide range of th…*
-      
-  - Changing how retweets work, Twitter seeks to slow down election misinformation
-      <hr/>
-      
-      - *Twitter announced a major set of changes to the way its platform would work Friday as the social network braces for the most contentious, uncertain and potentially high stakes election in modern U.S. history. In what will likely be the most noticeable change,…*
        
-  - Odell Beckham Jr. turned to Mojichat's advertising features during his inaugural live-stream
-      <hr/>
-       
-       - *Mojiit, the Los Angeles-based company behind the popular avatar generation service Mojichat, has landed one of its highest profile users with the launch of Odell Beckham Jr.’s livestream over the weekend. As Odell Beckham Jr. did his first livestream with the…*
+       - *China now has a tool that lets users access YouTube, Facebook, Twitter, Instagram, Google, and other internet services that have otherwise long been banned in the country. Called Tuber, the mobile browser recently debuted on China’s third-party Android stores…*
       
 
 <br />
