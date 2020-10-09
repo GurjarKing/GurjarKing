@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-No code is faster than no code.
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 
-~ Kevlin Henney
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ No code is faster than no code.
 </pre>
 <strong>Daily News</strong>
   
-  - Devialet announces wireless earbuds
+  - High-profile startup execs back Indian influencers platform CreatorOS
      <hr/>
      
-      - *High-end speaker manufacturer Devialet is launching its first pair of earbuds called Devialet Gemini. The in-ear earbuds feature active noise canceling and cost £279 in the U.K. — they will be available in the coming weeks. The Devialet Gemini are completely …*
+      - *The advent of low-cost Android smartphones and the world’s cheapest mobile data has paved the way for millions of social media influencers in India to amass a following of tens of millions of users in recent years. These influencers, also known as creators, s…*
      
+  - Devialet announces wireless earbuds
+      <hr/>
+      
+      - *High-end speaker manufacturer Devialet is launching its first pair of earbuds called Devialet Gemini. The in-ear earbuds feature active noise canceling and cost £279 in the U.K. — they will be available in the coming weeks. The Devialet Gemini are completely …*
+      
   - Hong Kong logistics unicorn Lalamove unveils foray into the US
       <hr/>
       
@@ -73,16 +78,11 @@ No code is faster than no code.
       <hr/>
       
       - *If you’ve been following the SPAC boom, you may have noticed something about these blank-check vehicles that are springing up left and right in order to take public privately held companies. They are being organized mostly by men. It’s not surprising, given t…*
-      
+       
   - Domestic terrorism suspects who plotted to kidnap Whitmer shared plans in Facebook groups
       <hr/>
-      
-      - *According to details from a shocking new affidavit, the FBI uncovered a group planning “violent action against multiple state governments,” including a detailed plot to capture or kill Michigan Governor Gretchen Whitmer. The domestic terror group organized ac…*
        
-  - Daily Crunch: Waymo opens up driverless ride-hailing
-      <hr/>
-       
-       - *Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for October 8, 2020. The big story: Waymo opens up driverless ride-hailing Waymo hit a m…*
+       - *According to details from a shocking new affidavit, the FBI uncovered a group planning “violent action against multiple state governments,” including a detailed plot to capture or kill Michigan Governor Gretchen Whitmer. The domestic terror group organized ac…*
       
 
 <br />
