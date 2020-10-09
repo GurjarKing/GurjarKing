@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 
-~ Danny Hillis
+~ David Leinweber
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ It turns out that there is no algorithm for examining a program and determining 
 </pre>
 <strong>Daily News</strong>
   
-  - Join Yext's Howard Lerman for a Q&A October 13 at 2 pm ET/11 am PT
+  - Pakistan bans TikTok over 'immoral and indecent' videos
      <hr/>
      
-      - *Heading into the third quarter and earnings season, TechCrunch is excited to announce that Yext CEO Howard Lerman will join us for a live Q&A next Tuesday as part of our continuing Extra Crunch Live series. The series recently hosted pairs of investors from A…*
+      - *Pakistan has banned popular short video app TikTok in the nation, citing circulation of videos that it deemed “immoral and indecent.” The move comes months after the South Asian country raised serious concerns about the nature of videos that spread on ByteDan…*
      
+  - Join Yext's Howard Lerman for a Q&A October 13 at 2 pm ET/11 am PT
+      <hr/>
+      
+      - *Heading into the third quarter and earnings season, TechCrunch is excited to announce that Yext CEO Howard Lerman will join us for a live Q&A next Tuesday as part of our continuing Extra Crunch Live series. The series recently hosted pairs of investors from A…*
+      
   - High-profile startup execs back Indian influencers platform CreatorOS
       <hr/>
       
@@ -73,16 +78,11 @@ It turns out that there is no algorithm for examining a program and determining 
       <hr/>
       
       - *High-end speaker manufacturer Devialet is launching its first pair of earbuds called Devialet Gemini. The in-ear earbuds feature active noise canceling and cost £279 in the U.K. — they will be available in the coming weeks. The Devialet Gemini are completely …*
-      
+       
   - Hong Kong logistics unicorn Lalamove unveils foray into the US
       <hr/>
-      
-      - *Lalamove, an on-demand logistics service active in China, Southeast Asia, and Latin America, has officially entered the U.S. seven years after launch. As the COVID-19 pandemic keeps millions of Americans home, Hong Kong-based Lalamove believes it can seize th…*
        
-  - Amid a boom in SPACs, relatively few women investors
-      <hr/>
-       
-       - *If you’ve been following the SPAC boom, you may have noticed something about these blank-check vehicles that are springing up left and right in order to take public privately held companies. They are being organized mostly by men. It’s not surprising, given t…*
+       - *Lalamove, an on-demand logistics service active in China, Southeast Asia, and Latin America, has officially entered the U.S. seven years after launch. As the COVID-19 pandemic keeps millions of Americans home, Hong Kong-based Lalamove believes it can seize th…*
       
 
 <br />
