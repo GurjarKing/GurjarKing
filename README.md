@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-People should be able to speak and breathe programs just like they talk now.
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 
-~ Jaron Lanier
+~ Linus Torvalds
 <pre>
 
 </pre>
