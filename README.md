@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 
-~ Albert Einstein
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
