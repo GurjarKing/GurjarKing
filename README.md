@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+So much complexity in software comes from trying to make one thing do two things.
 
-~ Danny Hillis
+~ Ryan Singer
 <pre>
 
 </pre>
