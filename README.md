@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 
-~ David Parnas
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I can build a reliable system with thousands of bugs, if you let me choose my bu
 </pre>
 <strong>Daily News</strong>
   
-  - Funding for female founders falls to 2017 levels as pandemic shakes up the VC market
+  - YCharts sells to PE firm in all-cash transaction as it looks to pass $15M ARR this year
      <hr/>
      
-      - *So much for progress. New data out this week from PitchBook indicates that the number of rounds raised by female-founded and co-founded companies fell year-over-year, with dollars invested in those rounds collapsing to 2017-era levels. The Exchange explores s…*
+      - *This morning, YCharts, a financial data and charting service, announced that it has been purchased by LLR Partners, a private equity firm. The companies are dubbing the transaction a “growth recapitalization,” indicating that the smaller firm won’t be strippe…*
      
+  - Porsche is researching synthetic fuels to make gas-powered cars sustainable
+      <hr/>
+      
+      - *The road to sustainable vehicles likely ends at electric cars, yet the route to this goal isn’t clear. There are multiple ways to get there, and Porsche is looking at synthetic fuels as a potential path. These so-called eFuels are produced from CO2 and hydrog…*
+      
+  - Funding for female founders falls to 2017 levels as pandemic shakes up the VC market
+      <hr/>
+      
+      - *So much for progress. New data out this week from PitchBook indicates that the number of rounds raised by female-founded and co-founded companies fell year-over-year, with dollars invested in those rounds collapsing to 2017-era levels. The Exchange explores s…*
+      
   - Pakistan bans TikTok over 'immoral and indecent' videos
       <hr/>
       
       - *Pakistan has banned popular short video app TikTok in the nation, citing circulation of videos that it deemed “immoral and indecent.” The move comes months after the South Asian country raised serious concerns about the nature of videos that spread on ByteDan…*
-      
+       
   - Join Yext's Howard Lerman for a Q&A October 13 at 2 pm ET/11 am PT
       <hr/>
-      
-      - *Heading into the third quarter and earnings season, TechCrunch is excited to announce that Yext CEO Howard Lerman will join us for a live Q&A next Tuesday as part of our continuing Extra Crunch Live series. The series recently hosted pairs of investors from A…*
-      
-  - High-profile startup execs back Indian influencers platform CreatorOS
-      <hr/>
-      
-      - *The advent of low-cost Android smartphones and the world’s cheapest mobile data has paved the way for millions of social media influencers in India to amass a following of tens of millions of users in recent years. These influencers, also known as creators, s…*
        
-  - Devialet announces wireless earbuds
-      <hr/>
-       
-       - *High-end speaker manufacturer Devialet is launching its first pair of earbuds called Devialet Gemini. The in-ear earbuds feature active noise canceling and cost £279 in the U.K. — they will be available in the coming weeks. The Devialet Gemini are completely …*
+       - *Heading into the third quarter and earnings season, TechCrunch is excited to announce that Yext CEO Howard Lerman will join us for a live Q&A next Tuesday as part of our continuing Extra Crunch Live series. The series recently hosted pairs of investors from A…*
       
 
 <br />
