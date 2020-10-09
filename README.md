@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-C is quirky, flawed, and an enormous success.
+It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 
-~ Dennis Ritchie
+~ Danny Hillis
 <pre>
 
 </pre>
