@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 
 ~ Danny Hillis
 <pre>
@@ -59,11 +59,16 @@ Computers are the most complex objects we human beings have ever created, but in
 </pre>
 <strong>Daily News</strong>
   
-  - High-profile startup execs back Indian influencers platform CreatorOS
+  - Join Yext's Howard Lerman for a Q&A October 13 at 2 pm ET/11 am PT
      <hr/>
      
-      - *The advent of low-cost Android smartphones and the world’s cheapest mobile data has paved the way for millions of social media influencers in India to amass a following of tens of millions of users in recent years. These influencers, also known as creators, s…*
+      - *Heading into the third quarter and earnings season, TechCrunch is excited to announce that Yext CEO Howard Lerman will join us for a live Q&A next Tuesday as part of our continuing Extra Crunch Live series. The series recently hosted pairs of investors from A…*
      
+  - High-profile startup execs back Indian influencers platform CreatorOS
+      <hr/>
+      
+      - *The advent of low-cost Android smartphones and the world’s cheapest mobile data has paved the way for millions of social media influencers in India to amass a following of tens of millions of users in recent years. These influencers, also known as creators, s…*
+      
   - Devialet announces wireless earbuds
       <hr/>
       
@@ -73,16 +78,11 @@ Computers are the most complex objects we human beings have ever created, but in
       <hr/>
       
       - *Lalamove, an on-demand logistics service active in China, Southeast Asia, and Latin America, has officially entered the U.S. seven years after launch. As the COVID-19 pandemic keeps millions of Americans home, Hong Kong-based Lalamove believes it can seize th…*
-      
+       
   - Amid a boom in SPACs, relatively few women investors
       <hr/>
-      
-      - *If you’ve been following the SPAC boom, you may have noticed something about these blank-check vehicles that are springing up left and right in order to take public privately held companies. They are being organized mostly by men. It’s not surprising, given t…*
        
-  - Domestic terrorism suspects who plotted to kidnap Whitmer shared plans in Facebook groups
-      <hr/>
-       
-       - *According to details from a shocking new affidavit, the FBI uncovered a group planning “violent action against multiple state governments,” including a detailed plot to capture or kill Michigan Governor Gretchen Whitmer. The domestic terror group organized ac…*
+       - *If you’ve been following the SPAC boom, you may have noticed something about these blank-check vehicles that are springing up left and right in order to take public privately held companies. They are being organized mostly by men. It’s not surprising, given t…*
       
 
 <br />
