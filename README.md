@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-So much complexity in software comes from trying to make one thing do two things.
+What is simplicity? Simplicity is the shortest path to a solution.
 
-~ Ryan Singer
+~ Ward Cunningham
 <pre>
 
 </pre>
