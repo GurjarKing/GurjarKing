@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming is the ultimate field for someone who likes to tinker.
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
 
-~ Ray Ozzie
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Programming is the ultimate field for someone who likes to tinker.
 </pre>
 <strong>Daily News</strong>
   
-  - Domestic terrorism suspects who plotted to kidnap Whitmer shared plans in Facebook groups
+  - Amid a boom in SPACs, relatively few women investors
      <hr/>
      
-      - *According to details from a shocking new affidavit, the FBI uncovered a group planning “violent action against multiple state governments,” including a detailed plot to capture or kill Michigan Governor Gretchen Whitmer. The domestic terror group organized ac…*
+      - *If you’ve been following the SPAC boom, you may have noticed something about these blank-check vehicles that are springing up left and right in order to take public privately held companies. They are being organized mostly by men. It’s not surprising, given t…*
      
+  - Domestic terrorism suspects who plotted to kidnap Whitmer shared plans in Facebook groups
+      <hr/>
+      
+      - *According to details from a shocking new affidavit, the FBI uncovered a group planning “violent action against multiple state governments,” including a detailed plot to capture or kill Michigan Governor Gretchen Whitmer. The domestic terror group organized ac…*
+      
   - Daily Crunch: Waymo opens up driverless ride-hailing
       <hr/>
       
@@ -73,16 +78,11 @@ Programming is the ultimate field for someone who likes to tinker.
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha was on vacation, so Danny and your humble servant had to endeavour alone. She’s back next wee…*
-      
+       
   - These tiny sensors can hitch a ride on mothback
       <hr/>
-      
-      - *Everyone is familiar with carrier pigeons, but what about carrier moths? This research project uses the nocturnal insects as a delivery service for tiny electronic packages that weigh less than a hundredth of an ounce. The system was created by graduate stude…*
        
-  - Waymo and TuSimple autonomous trucking leaders on the difficulty of building a highway-safe AI
-      <hr/>
-       
-       - *TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020. Interestingly, w…*
+       - *Everyone is familiar with carrier pigeons, but what about carrier moths? This research project uses the nocturnal insects as a delivery service for tiny electronic packages that weigh less than a hundredth of an ounce. The system was created by graduate stude…*
       
 
 <br />
