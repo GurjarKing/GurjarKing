@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ Douglas Crockford
+~ Donald Knuth
 <pre>
 
 </pre>
