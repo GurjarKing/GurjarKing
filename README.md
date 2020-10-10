@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'm not a great programmer; I'm just a good programmer with great habits.
+Computer Science is no more about computers than astronomy is about telescopes.
 
-~ Kent Beck
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
