@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 
-~ Tim Berners-Lee
+~ Michael Stal
 <pre>
 
 </pre>
