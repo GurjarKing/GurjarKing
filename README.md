@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
 
-~ Daniel T. Barry
+~ Douglas Crockford
 <pre>
 
 </pre>
