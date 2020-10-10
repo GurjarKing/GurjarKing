@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An evolving system increases its complexity unless work is done to reduce it.
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
 
-~ Manny Lehman (computer scientist)
+~ Vannevar Bush
 <pre>
 
 </pre>
