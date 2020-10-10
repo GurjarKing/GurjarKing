@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Michael Stal
+~ Mario Fusco
 <pre>
 
 </pre>
