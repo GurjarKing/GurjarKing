@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Just because you've implemented something doesn't mean you understand it.
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 
-~ Brian Cantwell Smith
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
