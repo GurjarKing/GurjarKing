@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 
-~ Donald Knuth
+~ Gerald Weinberg
 <pre>
 
 </pre>
