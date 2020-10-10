@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+I'm not a great programmer; I'm just a good programmer with great habits.
 
-~ Edsger W. Dijkstra
+~ Kent Beck
 <pre>
 
 </pre>
