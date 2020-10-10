@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+The proper use of comments is to compensate for our failure to express ourself in code.
 
-~ Fred Brooks
+~ Robert C. Martin
 <pre>
 
 </pre>
