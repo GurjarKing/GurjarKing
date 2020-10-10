@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+An evolving system increases its complexity unless work is done to reduce it.
 
-~ Addy Osmani
+~ Manny Lehman (computer scientist)
 <pre>
 
 </pre>
