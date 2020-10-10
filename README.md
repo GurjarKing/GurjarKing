@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
+Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
 
-~ Richard Stallman
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The most powerful programming language is Lisp. If you don't know Lisp (or its v
 </pre>
 <strong>Daily News</strong>
   
-  - Judge denies Epic's request to force Apple to bring Fortnite back to App Store
+  - Brian Armstrong's new problem: 60-plus free agents
      <hr/>
      
-      - *The California judge in the legal skirmish between Epic Games and Apple has denied Epic’s request that Apple be forced to reinstate Fortnite in the App Store, but did affirm that Apple can not take action against the Epic Games developer accounts used to brin…*
+      - *A lot has been made of the open memo that CEO Brian Armstrong published nearly two weekends ago, essentially barring political activism at work because he sees it as a distraction. He also made it clear that employees who disagreed with the decision — and he …*
      
+  - Judge denies Epic's request to force Apple to bring Fortnite back to App Store
+      <hr/>
+      
+      - *The California judge in the legal skirmish between Epic Games and Apple has denied Epic’s request that Apple be forced to reinstate Fortnite in the App Store, but did affirm that Apple can not take action against the Epic Games developer accounts used to brin…*
+      
   - Dear Sophie: How can employers hire & comply with all this new H-1B craziness?
       <hr/>
       
@@ -73,16 +78,11 @@ The most powerful programming language is Lisp. If you don't know Lisp (or its v
       <hr/>
       
       - *Welcome back to Human Capital where we discuss the latest in labor, and diversity and inclusion in tech. This week’s eyebrow-raising moment came Wednesday when the U.S. Department of Labor essentially accused Microsoft of reverse racism (not a real thing) for…*
-      
+       
   - How Roblox completely transformed its tech stack
       <hr/>
-      
-      - *Picture yourself in the role of CIO at Roblox in 2017. At that point, the gaming platform and publishing system that launched in 2005 was growing fast, but its underlying technology was aging, consisting of a single data center in Chicago and a bunch of third…*
        
-  - Why Amazon and Panasonic are betting on this battery recycling startup
-      <hr/>
-       
-       - *JB Straubel, the Tesla co-founder and former CTO, is often cast as the humble and pioneering engineer, the quiet one who toiled away in the background for 15 years on some of the company’s most important technologies. That characterization — which intensified…*
+       - *Picture yourself in the role of CIO at Roblox in 2017. At that point, the gaming platform and publishing system that launched in 2005 was growing fast, but its underlying technology was aging, consisting of a single data center in Chicago and a bunch of third…*
       
 
 <br />
