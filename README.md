@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 
-~ Vannevar Bush
+~ Jonathan Sachs
 <pre>
 
 </pre>
