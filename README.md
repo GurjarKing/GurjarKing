@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+Just because you've implemented something doesn't mean you understand it.
 
-~ Daniel T. Barry
+~ Brian Cantwell Smith
 <pre>
 
 </pre>
