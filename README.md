@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
 
-~ Gerald Weinberg
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When program developers are not territorial about their code and encourage other
 </pre>
 <strong>Daily News</strong>
   
-  - A prison video visitation service exposed private calls between inmates and their attorneys
+  - Public investors stay in love with tech, as Root and Affirm file to IPO
      <hr/>
      
-      - *Exclusive: Calls supposed to be protected by attorney-client privilege were recorded and transcribed.*
+      - *Why there are so many tech IPOs right now.*
      
+  - This Week in Apps: Antitrust investigation dubs App Store a monopoly, Microsoft adopts 'app fairness' rules, pandemic boosts Q3 app revenues
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
+  - A prison video visitation service exposed private calls between inmates and their attorneys
+      <hr/>
+      
+      - *Exclusive: Calls supposed to be protected by attorney-client privilege were recorded and transcribed.*
+      
   - Original Content podcast: Netflix's 'Enola Holmes' is thoroughly mediocre
       <hr/>
       
       - *There’s nothing excessively bad about “Enola Holmes,” a new film about Sherlock Holmes’ younger sister Enola. But there’s nothing particularly good, either. The film was originally planned for a theatrical release from Warner Bros., but Netflix picked it up e…*
-      
+       
   - Brian Armstrong's new problem: 60-plus free agents
       <hr/>
-      
-      - *A lot has been made of the open memo that CEO Brian Armstrong published nearly two weekends ago, essentially barring political activism at work because he sees it as a distraction. He also made it clear that employees who disagreed with the decision — and he …*
-      
-  - Judge denies Epic's request to force Apple to bring Fortnite back to App Store
-      <hr/>
-      
-      - *The California judge in the legal skirmish between Epic Games and Apple has denied Epic’s request that Apple be forced to reinstate Fortnite in the App Store, but did affirm that Apple can not take action against the Epic Games developer accounts used to brin…*
        
-  - Dear Sophie: How can employers hire & comply with all this new H-1B craziness?
-      <hr/>
-       
-       - *Although both the DOL and DHS rules will likely be challenged, they will likely remain in effect for some time before any litigation has an impact.*
+       - *A lot has been made of the open memo that CEO Brian Armstrong published nearly two weekends ago, essentially barring political activism at work because he sees it as a distraction. He also made it clear that employees who disagreed with the decision — and he …*
       
 
 <br />
