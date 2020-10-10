@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Good judgement comes from experience. Experience comes from bad judgement.
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 
-~ Jim Horning
+~ Daniel T. Barry
 <pre>
 
 </pre>
