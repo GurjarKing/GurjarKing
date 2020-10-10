@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-With artificial intelligence we are summoning the demon.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Elon Musk
+~ Jim Horning
 <pre>
 
 </pre>
