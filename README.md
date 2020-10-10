@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+With artificial intelligence we are summoning the demon.
 
-~ Mario Fusco
+~ Elon Musk
 <pre>
 
 </pre>
