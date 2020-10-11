@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-~ Martin Fowler
+~ Rick Osborne
 <pre>
 
 </pre>
