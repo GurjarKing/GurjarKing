@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+As with most projects, the last two percent takes fifty percent of the time.
 
-~ Jim Horning
+~ John Warnock
 <pre>
 
 </pre>
