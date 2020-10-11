@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 
-~ Tom DeMarco
+~ Jamie Zawinski
 <pre>
 
 </pre>
