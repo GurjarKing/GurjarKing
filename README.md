@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
 
-~ Joe Armstrong (programmer)
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
