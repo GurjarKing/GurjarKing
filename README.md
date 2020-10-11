@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 
-~ Jonathan Sachs
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
