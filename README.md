@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 
-~ Ken Thompson
+~ Jim Horning
 <pre>
 
 </pre>
