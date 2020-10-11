@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 
-~ Martin Fowler
+~ René Descartes
 <pre>
 
 </pre>
