@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 
-~ Fred Brooks
+~ Jim Horning
 <pre>
 
 </pre>
