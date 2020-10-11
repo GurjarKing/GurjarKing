@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer Science is no more about computers than astronomy is about telescopes.
+Cool URIs don't change.
 
-~ Edsger W. Dijkstra
+~ Tim Berners-Lee
 <pre>
 
 </pre>
