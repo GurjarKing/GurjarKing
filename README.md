@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 
-~ Marijn Haverbeke
+~ Joe Armstrong (programmer)
 <pre>
 
 </pre>
