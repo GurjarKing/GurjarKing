@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Cool URIs don't change.
+Any product that needs a manual to work is broken.
 
-~ Tim Berners-Lee
+~ Elon Musk
 <pre>
 
 </pre>
