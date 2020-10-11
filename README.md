@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+Computer Science is no more about computers than astronomy is about telescopes.
 
-~ Jim Horning
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
