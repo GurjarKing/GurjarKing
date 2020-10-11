@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-As with most projects, the last two percent takes fifty percent of the time.
+There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 
-~ John Warnock
+~ Martin Fowler
 <pre>
 
 </pre>
