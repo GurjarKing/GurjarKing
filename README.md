@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you think your users are idiots, only idiots will use it.
+The key to keeping software costs down is to write code that is easily modified.
 
-~ Linus Torvalds
+~ Daniel T. Barry
 <pre>
 
 </pre>
