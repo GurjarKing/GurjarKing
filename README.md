@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Once you stop learning you start dying.
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 
-~ Albert Einstein
+~ John Carmack
 <pre>
 
 </pre>
