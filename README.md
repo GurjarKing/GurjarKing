@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
+Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 
-~ Vannevar Bush
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Whenever logical processes of thought are employed, there is an opportunity for 
 </pre>
 <strong>Daily News</strong>
   
-  - Twilio's $3.2B Segment acquisition about helping developers build data-fueled apps
+  - With thousands of subscribers, The Juggernaut raises $2 million for South Asian-focused news outlet
      <hr/>
      
-      - *The pandemic has forced businesses to change the way they interact with customers. Whether it’s how they deliver goods and services, or how they communicate, there is one common denominator, and that’s that everything is being forced to be digitally driven mu…*
+      - *As paid newsletters grow in popularity, Snigdha Sur, the founder of South Asian-focused media company The Juggernaut, has no qualms about avoiding the approach entirely. In October 2017, Sur started The Juggernaut as a free newsletter, called InkMango. As she…*
      
+  - How startups should budget in uncertain times
+      <hr/>
+      
+      - *My guiding principle at this time is surely familiar: control burn until income streams are more predictable. Many startups find themselves in a similar position these days: ramen or sushi?*
+      
+  - eBay takes a bite at StockX and GOAT with sneaker authentication for sales $100+ in the U.S.
+      <hr/>
+      
+      - *eBay is announcing today that it’s going to start authenticating sneaker sales over $100 in the U.S. This is a clear bite into the dominance of StockX and GOAT in the limited sneaker universe. The authentication will be done by Sneaker Con, the company that r…*
+      
+  - Twilio's $3.2B Segment acquisition about helping developers build data-fueled apps
+      <hr/>
+      
+      - *The pandemic has forced businesses to change the way they interact with customers. Whether it’s how they deliver goods and services, or how they communicate, there is one common denominator, and that’s that everything is being forced to be digitally driven mu…*
+       
   - Hoping to be LatAm's top digital bank for SMBs, Xepelin launches a lending and revenue management service
       <hr/>
-      
-      - *There’s another entrant in the startup race to provide financial services to Latin America’s small and medium-sized businesses. Financial services have been a huge opportunity for startups coming out of Brazil, Colombia, and Mexico in recent years, and now Xe…*
-      
-  - If data is labor, can collective bargaining limit big tech?
-      <hr/>
-      
-      - *What if consumer platforms had to do business with large coalitions representing ordinary peoples to get the right to exploit their data?*
-      
-  - 4-year founder vesting is dead
-      <hr/>
-      
-      - *A growing number of founders are starting to realize that a 4-year vesting schedule can damage their startup irreparably.*
        
-  - France’s Health Data Hub to move to European cloud infrastructure to avoid EU-US data transfers
-      <hr/>
-       
-       - *France’s data regulator CNIL has issued some recommendations for French services that handle health data, as Mediapart first reported. Those services should avoid using American cloud hosting companies altogether, such as Microsoft Azure, Amazon Web Services …*
+       - *There’s another entrant in the startup race to provide financial services to Latin America’s small and medium-sized businesses. Financial services have been a huge opportunity for startups coming out of Brazil, Colombia, and Mexico in recent years, and now Xe…*
       
 
 <br />
