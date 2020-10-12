@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+If you think your users are idiots, only idiots will use it.
 
-~ John Carmack
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Sometimes, the elegant implementation is a function. Not a method. Not a class. 
 </pre>
 <strong>Daily News</strong>
   
-  - China's digital yuan tests leap forward in Shenzhen
+  - Twilio confirms it is buying Segment for $3.2B in an all-stock deal
      <hr/>
      
-      - *Shenzhen, known for its maker community and manufacturing resources, is taking the lead in trialing China’s digital yuan. Last week, the city issued 10 million yuan worth of digital currency to 50,000 randomly selected residents. The government doled out the …*
+      - *Twilio today announced its biggest acquisition to date, spearheading a strong move into customer data management alongside its existing API-based tools for building and running customer communications services. Twilio is paying $3.2 billion “in Twilio Class A…*
      
+  - China's digital yuan tests leap forward in Shenzhen
+      <hr/>
+      
+      - *Shenzhen, known for its maker community and manufacturing resources, is taking the lead in trialing China’s digital yuan. Last week, the city issued 10 million yuan worth of digital currency to 50,000 randomly selected residents. The government doled out the …*
+      
   - Thailand's logistics startup Flash Express raises $200 million
       <hr/>
       
@@ -73,16 +78,11 @@ Sometimes, the elegant implementation is a function. Not a method. Not a class. 
       <hr/>
       
       - *Like many folks this year, I have been cooking a lot. Though I’ve always loved food and have had a deep and abiding interest for the art of cooking, I’ve definitely pushed myself to learn how to do a lot of things from scratch in the kitchen this year. From c…*
-      
+       
   - AC Ventures announces the first close of its $80 million fund for Indonesian startups
       <hr/>
-      
-      - *As one of the world’s most populated countries, with a fast-growing internet economy, Indonesia offers plenty of opportunity for startups. AC Ventures wants to tap into that with its $80 million ACV Capital III L.P. fund. The firm announced the first close of…*
        
-  - India's Razorpay becomes unicorn after new $100 million funding round
-      <hr/>
-       
-       - *Bangalore-headquartered Razorpay, one of the handful of Indian fintech startups that has demonstrated accelerated growth in recent years, has joined the coveted unicorn club after raising $100 million in a new financing round, the payments processing startup …*
+       - *As one of the world’s most populated countries, with a fast-growing internet economy, Indonesia offers plenty of opportunity for startups. AC Ventures wants to tap into that with its $80 million ACV Capital III L.P. fund. The firm announced the first close of…*
       
 
 <br />
