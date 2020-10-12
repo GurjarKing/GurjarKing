@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
 
-~ Edsger W. Dijkstra
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A picture may be worth a thousand words, a formula is worth a thousand pictures.
 </pre>
 <strong>Daily News</strong>
   
-  - If data is labor, can collective bargaining limit big tech?
+  - Twilio's $3.2B Segment acquisition about helping developers build data-fueled apps
      <hr/>
      
-      - *What if consumer platforms had to do business with large coalitions representing ordinary peoples to get the right to exploit their data?*
+      - *The pandemic has forced businesses to change the way they interact with customers. Whether it’s how they deliver goods and services, or how they communicate, there is one common denominator, and that’s that everything is being forced to be digitally driven mu…*
      
+  - Hoping to be LatAm's top digital bank for SMBs, Xepelin launches a lending and revenue management service
+      <hr/>
+      
+      - *There’s another entrant in the startup race to provide financial services to Latin America’s small and medium-sized businesses. Financial services have been a huge opportunity for startups coming out of Brazil, Colombia, and Mexico in recent years, and now Xe…*
+      
+  - If data is labor, can collective bargaining limit big tech?
+      <hr/>
+      
+      - *What if consumer platforms had to do business with large coalitions representing ordinary peoples to get the right to exploit their data?*
+      
   - 4-year founder vesting is dead
       <hr/>
       
       - *A growing number of founders are starting to realize that a 4-year vesting schedule can damage their startup irreparably.*
-      
+       
   - France’s Health Data Hub to move to European cloud infrastructure to avoid EU-US data transfers
       <hr/>
-      
-      - *France’s data regulator CNIL has issued some recommendations for French services that handle health data, as Mediapart first reported. Those services should avoid using American cloud hosting companies altogether, such as Microsoft Azure, Amazon Web Services …*
-      
-  - Yotascale raises a $13M Series B to help companies track and manage their cloud spends
-      <hr/>
-      
-      - *These days when you found a startup, you don’t go out and buy a rack of servers. And you don’t build an in-house datacenter team. Instead, you farm out your infrastructure needs to the major cloud platforms, namely Amazon AWS, Microsoft Azure and Google Cloud…*
        
-  - Free-to-play gaming giant Roblox confidentially files to go public
-      <hr/>
-       
-       - *The gaming company Roblox announced today that it had confidentially filed paperwork with the SEC to make its public debut. In February, the company which operates a free-to-play gaming empire with tens of million of users, was valued at $4 billion after a Se…*
+       - *France’s data regulator CNIL has issued some recommendations for French services that handle health data, as Mediapart first reported. Those services should avoid using American cloud hosting companies altogether, such as Microsoft Azure, Amazon Web Services …*
       
 
 <br />
