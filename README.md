@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+Once you stop learning you start dying.
 
-~ Marvin Minsky
+~ Albert Einstein
 <pre>
 
 </pre>
