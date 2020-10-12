@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 
-~ Edsger W. Dijkstra
+~ George Boole
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ It is practically impossible to teach good programming to students that have had
 </pre>
 <strong>Daily News</strong>
   
-  - Quince launches out of beta with new 'manufacturer-to-customer' model
+  - Microsoft and partners aim to shrink the 'data desert' limiting accessible AI
      <hr/>
      
-      - *The retail landscape is shifting rapidly. While D2C brands have changed the way we shop, Quince is looking to change retail even more dramatically. The brand, which raised $8.5 million in seed funding last year (and only revealed as much today), is looking to…*
+      - *AI-based tools like computer vision and voice interfaces have the potential to be life-changing for people with disabilities, but the truth is those AI models are usually built with very little data sourced from those people. Microsoft is working with several…*
      
-  - Nest launches its $129 thermostat with a new design, swipe and touch interface on the side
+  - Snapdocs raises $60M to manage the mortgage process in the cloud
       <hr/>
       
-      - *Google’s Nest unit today launched its newest thermostat. At $129, the new thermostat is the company’s most affordable one yet, but it’s also the first to feature a new swipe and tap interface on its side, as well as Google’s Soli radar technology to sense roo…*
+      - *The US economy may be in a precarious state right now with a presidential election looming on the horizon and the country still in the grips of the coronavirus pandemic. But partly thanks to lower interest rates, the housing market continues to rise, and toda…*
       
-  - Equity Monday: Twilio buys Segment, and Airkit raises  $28M for its low-code platform
+  - Facebook, in a reversal, will now ban Holocaust denial content under its hate speech policy
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Facebook this morning announced a significant change in how it approaches Holocaust denial content on its social network. For years, the company has been criticized for not taking down this extremely offensive form of content in favor of allowing free speech …*
       
-  - Twilio confirms it is buying Segment for $3.2B in an all-stock deal
+  - Facebook EU-US data transfer complaint: Schrems gets a judicial review of the Irish DPC's procedure
       <hr/>
       
-      - *Twilio today announced its biggest acquisition to date, spearheading a strong move into customer data management alongside its existing API-based tools for building and running customer communications services. Twilio is paying $3.2 billion “in Twilio Class A…*
+      - *Another twist in a multi-year complaint saga related to the legality of Facebook’s data transfers: European privacy campaigner, Max Schrems, has today been granted a judicial review of the Irish regulator’s handling of his complaint. He’s expecting the hearin…*
        
-  - China's digital yuan tests leap forward in Shenzhen
+  - Quince launches out of beta with new 'manufacturer-to-customer' model
       <hr/>
        
-       - *Shenzhen, known for its maker community and manufacturing resources, is taking the lead in trialing China’s digital yuan. Last week, the city issued 10 million yuan worth of digital currency to 50,000 randomly selected residents. The government doled out the …*
+       - *The retail landscape is shifting rapidly. While D2C brands have changed the way we shop, Quince is looking to change retail even more dramatically. The brand, which raised $8.5 million in seed funding last year (and only revealed as much today), is looking to…*
       
 
 <br />
