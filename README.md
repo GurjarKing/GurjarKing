@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The key to keeping software costs down is to write code that is easily modified.
+It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
 
-~ Daniel T. Barry
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The key to keeping software costs down is to write code that is easily modified.
 </pre>
 <strong>Daily News</strong>
   
-  - Twilio confirms it is buying Segment for $3.2B in an all-stock deal
+  - Quince launches out of beta with new 'manufacturer-to-customer' model
      <hr/>
      
-      - *Twilio today announced its biggest acquisition to date, spearheading a strong move into customer data management alongside its existing API-based tools for building and running customer communications services. Twilio is paying $3.2 billion “in Twilio Class A…*
+      - *The retail landscape is shifting rapidly. While D2C brands have changed the way we shop, Quince is looking to change retail even more dramatically. The brand, which raised $8.5 million in seed funding last year (and only revealed as much today), is looking to…*
      
+  - Nest launches its $129 thermostat with a new design, swipe and touch interface on the side
+      <hr/>
+      
+      - *Google’s Nest unit today launched its newest thermostat. At $129, the new thermostat is the company’s most affordable one yet, but it’s also the first to feature a new swipe and tap interface on its side, as well as Google’s Soli radar technology to sense roo…*
+      
+  - Equity Monday: Twilio buys Segment, and Airkit raises  $28M for its low-code platform
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      
+  - Twilio confirms it is buying Segment for $3.2B in an all-stock deal
+      <hr/>
+      
+      - *Twilio today announced its biggest acquisition to date, spearheading a strong move into customer data management alongside its existing API-based tools for building and running customer communications services. Twilio is paying $3.2 billion “in Twilio Class A…*
+       
   - China's digital yuan tests leap forward in Shenzhen
       <hr/>
-      
-      - *Shenzhen, known for its maker community and manufacturing resources, is taking the lead in trialing China’s digital yuan. Last week, the city issued 10 million yuan worth of digital currency to 50,000 randomly selected residents. The government doled out the …*
-      
-  - Thailand's logistics startup Flash Express raises $200 million
-      <hr/>
-      
-      - *Flash Express, a two-year-old logistics startup that works with e-commerce firms in Thailand, said on Monday it has raised $200 million in a new financing round as it looks to double down on a rapidly growing market spurred by demand due to the coronavirus pa…*
-      
-  - The Otto Wilde Grill delivers the drama of delicious restaurant steak at home
-      <hr/>
-      
-      - *Like many folks this year, I have been cooking a lot. Though I’ve always loved food and have had a deep and abiding interest for the art of cooking, I’ve definitely pushed myself to learn how to do a lot of things from scratch in the kitchen this year. From c…*
        
-  - AC Ventures announces the first close of its $80 million fund for Indonesian startups
-      <hr/>
-       
-       - *As one of the world’s most populated countries, with a fast-growing internet economy, Indonesia offers plenty of opportunity for startups. AC Ventures wants to tap into that with its $80 million ACV Capital III L.P. fund. The firm announced the first close of…*
+       - *Shenzhen, known for its maker community and manufacturing resources, is taking the lead in trialing China’s digital yuan. Last week, the city issued 10 million yuan worth of digital currency to 50,000 randomly selected residents. The government doled out the …*
       
 
 <br />
