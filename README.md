@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-JavaScript, purely by accident, has become the most popular programming language in the world.
+If you learn how to solve problems, you can go through life and do pretty well.
 
-~ Douglas Crockford
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ JavaScript, purely by accident, has become the most popular programming language
 </pre>
 <strong>Daily News</strong>
   
-  - Walt Disney announces reorganization to focus on streaming
+  - OnePlus co-founder Carl Pei leaves the company to start a new venture
      <hr/>
      
-      - *Disney is going all-in on streaming media.  On Monday, the company announced a massive reorganization of its media and entertainment business that will focus on developing productions that will debut on its streaming and broadcast services. Disney’s media bus…*
+      - *Carl Pei, who co-founded the smartphone giant OnePlus in his 20s, is leaving the company, two sources familiar with the matter told TechCrunch. Pei played an instrumental role in designing the OnePlus smartphone lineup over the years, including the recently l…*
      
+  - Alphabet's latest moonshot is a field-roving, plant-inspecting robo-buggy
+      <hr/>
+      
+      - *Alphabet (you know… Google) has taken the wraps off the latest “moonshot” from its X labs: A robotic buggy that cruises over crops, inspecting each plant individually and, perhaps, generating the kind of “big data” that agriculture needs to keep up with the d…*
+      
+  - Walt Disney announces reorganization to focus on streaming
+      <hr/>
+      
+      - *Disney is going all-in on streaming media.  On Monday, the company announced a massive reorganization of its media and entertainment business that will focus on developing productions that will debut on its streaming and broadcast services. Disney’s media bus…*
+      
   - If the ad industry is serious about transparency, let’s open-source our SDKs
       <hr/>
       
       - *Showing exactly how the code within the SDK has been written is the best way to reassure developers and partners that there are no hidden functions or unwanted features.*
-      
+       
   - Family tracking app Life360 launches 'Bubbles,' a location-sharing feature inspired by teens on TikTok
       <hr/>
-      
-      - *Helicopter parenting turned into surveillance with the debut of family tracking apps like Life360. While the app can alleviate parental fears when setting younger kids loose in the neighborhood, Life360’s teenage users have hated the app’s location tracking f…*
-      
-  - With thousands of subscribers, The Juggernaut raises $2 million for South Asian-focused news outlet
-      <hr/>
-      
-      - *As paid newsletters grow in popularity, Snigdha Sur, the founder of South Asian-focused media company The Juggernaut, has no qualms about avoiding the approach entirely. In October 2017, Sur started The Juggernaut as a free newsletter, called InkMango. As she…*
        
-  - How startups should budget in uncertain times
-      <hr/>
-       
-       - *My guiding principle at this time is surely familiar: control burn until income streams are more predictable. Many startups find themselves in a similar position these days: ramen or sushi?*
+       - *Helicopter parenting turned into surveillance with the debut of family tracking apps like Life360. While the app can alleviate parental fears when setting younger kids loose in the neighborhood, Life360’s teenage users have hated the app’s location tracking f…*
       
 
 <br />
