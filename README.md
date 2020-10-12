@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 
-~ Addy Osmani
+~ Robert C. Martin
 <pre>
 
 </pre>
