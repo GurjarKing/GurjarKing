@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
-~ Hal Abelson
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A computational process is indeed much like a sorcerer's idea of a spirit. It ca
 </pre>
 <strong>Daily News</strong>
   
-  - 4-year founder vesting is dead
+  - If data is labor, can collective bargaining limit big tech?
      <hr/>
      
-      - *A growing number of founders are starting to realize that a 4-year vesting schedule can damage their startup irreparably.*
+      - *What if consumer platforms had to do business with large coalitions representing ordinary peoples to get the right to exploit their data?*
      
+  - 4-year founder vesting is dead
+      <hr/>
+      
+      - *A growing number of founders are starting to realize that a 4-year vesting schedule can damage their startup irreparably.*
+      
   - France’s Health Data Hub to move to European cloud infrastructure to avoid EU-US data transfers
       <hr/>
       
@@ -73,16 +78,11 @@ A computational process is indeed much like a sorcerer's idea of a spirit. It ca
       <hr/>
       
       - *These days when you found a startup, you don’t go out and buy a rack of servers. And you don’t build an in-house datacenter team. Instead, you farm out your infrastructure needs to the major cloud platforms, namely Amazon AWS, Microsoft Azure and Google Cloud…*
-      
+       
   - Free-to-play gaming giant Roblox confidentially files to go public
       <hr/>
-      
-      - *The gaming company Roblox announced today that it had confidentially filed paperwork with the SEC to make its public debut. In February, the company which operates a free-to-play gaming empire with tens of million of users, was valued at $4 billion after a Se…*
        
-  - Bumble balances gender representation of C-Suite with two new hires
-      <hr/>
-       
-       - *Women-friendly dating and networking app Bumble announced today it’s expanding its C-Suite with two new hires: Anu Subramanian as Bumble’s Chief Financial Officer, who hails from Univision, and Selby Drummond as Chief Brand Officer, who is joining from Snap. …*
+       - *The gaming company Roblox announced today that it had confidentially filed paperwork with the SEC to make its public debut. In February, the company which operates a free-to-play gaming empire with tens of million of users, was valued at $4 billion after a Se…*
       
 
 <br />
