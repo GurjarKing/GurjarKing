@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
 
-~ Tom DeMarco
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The manager's function is not to make people work, but to make it possible for p
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon launches an AR app that works with new QR codes on its boxes
+  - 4-year founder vesting is dead
      <hr/>
      
-      - *Amazon has quietly launched a new augmented reality application that works with QR codes on the company’s shipping boxes to create “interactive, shareable” AR experiences. Called simply “Amazon Augmented Reality,” the retailer describes the app as a “fun way …*
+      - *A growing number of founders are starting to realize that a 4-year vesting schedule can damage their startup irreparably.*
      
-  - What to expect from Apple’s ‘Hi Speed’ iPhone event
+  - France’s Health Data Hub to move to European cloud infrastructure to avoid EU-US data transfers
       <hr/>
       
-      - *For starters, iPhones, of course. That one was easy. The company skipped out on new mobile devices during its recent Apple Watch event, owing to COVID-19-related delays. And, of course, the fact that the events are all pre-taped and virtual now means companie…*
+      - *France’s data regulator CNIL has issued some recommendations for French services that handle health data, as Mediapart first reported. Those services should avoid using American cloud hosting companies altogether, such as Microsoft Azure, Amazon Web Services …*
       
-  - 2020 IPO report card: are tech's newest public companies meeting expectations?
+  - Yotascale raises a $13M Series B to help companies track and manage their cloud spends
       <hr/>
       
-      - *As the American election looms and the IPO cycle slows some, it’s a good time to review how well the public offerings we have seen thus far have performed. The Exchange explores startups, markets and money. Read it every morning on Extra Crunch, or get The Ex…*
+      - *These days when you found a startup, you don’t go out and buy a rack of servers. And you don’t build an in-house datacenter team. Instead, you farm out your infrastructure needs to the major cloud platforms, namely Amazon AWS, Microsoft Azure and Google Cloud…*
       
-  - Calling Lisbon VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Free-to-play gaming giant Roblox confidentially files to go public
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Lisbon will capture how the city is faring, and what changes are being wroug…*
+      - *The gaming company Roblox announced today that it had confidentially filed paperwork with the SEC to make its public debut. In February, the company which operates a free-to-play gaming empire with tens of million of users, was valued at $4 billion after a Se…*
        
-  - Microsoft and partners aim to shrink the 'data desert' limiting accessible AI
+  - Bumble balances gender representation of C-Suite with two new hires
       <hr/>
        
-       - *AI-based tools like computer vision and voice interfaces have the potential to be life-changing for people with disabilities, but the truth is those AI models are usually built with very little data sourced from those people. Microsoft is working with several…*
+       - *Women-friendly dating and networking app Bumble announced today it’s expanding its C-Suite with two new hires: Anu Subramanian as Bumble’s Chief Financial Officer, who hails from Univision, and Selby Drummond as Chief Brand Officer, who is joining from Snap. …*
       
 
 <br />
