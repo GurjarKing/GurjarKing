@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 
-~ Robert C. Martin
+~ Marvin Minsky
 <pre>
 
 </pre>
