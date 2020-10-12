@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
 
-~ John von Neumann
+~ John Locke
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A large part of mathematics which becomes useful developed with absolutely no de
 </pre>
 <strong>Daily News</strong>
   
-  - Thailand's logistics startup Flash Express raises $200 million
+  - China's digital yuan tests leap forward in Shenzhen
      <hr/>
      
-      - *Flash Express, a two-year-old logistics startup that works with e-commerce firms in Thailand, said on Monday it has raised $200 million in a new financing round as it looks to double down on a rapidly growing market spurred by demand due to the coronavirus pa…*
+      - *Shenzhen, known for its maker community and manufacturing resources, is taking the lead in trialing China’s digital yuan. Last week, the city issued 10 million yuan worth of digital currency to 50,000 randomly selected residents. The government doled out the …*
      
+  - Thailand's logistics startup Flash Express raises $200 million
+      <hr/>
+      
+      - *Flash Express, a two-year-old logistics startup that works with e-commerce firms in Thailand, said on Monday it has raised $200 million in a new financing round as it looks to double down on a rapidly growing market spurred by demand due to the coronavirus pa…*
+      
   - The Otto Wilde Grill delivers the drama of delicious restaurant steak at home
       <hr/>
       
@@ -73,16 +78,11 @@ A large part of mathematics which becomes useful developed with absolutely no de
       <hr/>
       
       - *As one of the world’s most populated countries, with a fast-growing internet economy, Indonesia offers plenty of opportunity for startups. AC Ventures wants to tap into that with its $80 million ACV Capital III L.P. fund. The firm announced the first close of…*
-      
+       
   - India's Razorpay becomes unicorn after new $100 million funding round
       <hr/>
-      
-      - *Bangalore-headquartered Razorpay, one of the handful of Indian fintech startups that has demonstrated accelerated growth in recent years, has joined the coveted unicorn club after raising $100 million in a new financing round, the payments processing startup …*
        
-  - Twilio is buying customer data startup Segment for between $3B and $4B
-      <hr/>
-       
-       - *Sources have told TechCrunch that Twilio intends to acquire customer data startup Segment for between $3 and $4 billion. Forbes broke the story on Friday night, reporting a price tag of $3.2 billion. We have heard from a couple of industry sources that the de…*
+       - *Bangalore-headquartered Razorpay, one of the handful of Indian fintech startups that has demonstrated accelerated growth in recent years, has joined the coveted unicorn club after raising $100 million in a new financing round, the payments processing startup …*
       
 
 <br />
