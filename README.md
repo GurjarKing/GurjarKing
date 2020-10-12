@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
 
-~ Jamie Zawinski
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Professionalism has no place in art, and hacking is art. Software Engineering mi
 </pre>
 <strong>Daily News</strong>
   
-  - India's Razorpay becomes unicorn after new $100 million funding round
+  - The Otto Wilde Grill delivers the drama of delicious restaurant steak at home
      <hr/>
      
-      - *Bangalore-headquartered Razorpay, one of the handful of Indian fintech startups that has demonstrated accelerated growth in recent years, has joined the coveted unicorn club after raising $100 million in a new financing round, the payments processing startup …*
+      - *Like many folks this year, I have been cooking a lot. Though I’ve always loved food and have had a deep and abiding interest for the art of cooking, I’ve definitely pushed myself to learn how to do a lot of things from scratch in the kitchen this year. From c…*
      
+  - AC Ventures announces the first close of its $80 million fund for Indonesian startups
+      <hr/>
+      
+      - *As one of the world’s most populated countries, with a fast-growing internet economy, Indonesia offers plenty of opportunity for startups. AC Ventures wants to tap into that with its $80 million ACV Capital III L.P. fund. The firm announced the first close of…*
+      
+  - India's Razorpay becomes unicorn after new $100 million funding round
+      <hr/>
+      
+      - *Bangalore-headquartered Razorpay, one of the handful of Indian fintech startups that has demonstrated accelerated growth in recent years, has joined the coveted unicorn club after raising $100 million in a new financing round, the payments processing startup …*
+      
   - Twilio is buying customer data startup Segment for between $3B and $4B
       <hr/>
       
       - *Sources have told TechCrunch that Twilio intends to acquire customer data startup Segment for between $3 and $4 billion. Forbes broke the story on Friday night, reporting a price tag of $3.2 billion. We have heard from a couple of industry sources that the de…*
-      
+       
   - Hands on with Telepath, the social network taking aim at abuse, fake news and, to some extent, 'free speech'
       <hr/>
-      
-      - *There’s no doubt that modern social networks have let us down. Filled with hate speech and abuse, moderation and anti-abuse tools were an afterthought they’re now trying to cram in. Meanwhile, personalization engines deliver us only what will keep us engaged,…*
-      
-  - Venture capital gets less diverse in 2020
-      <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
        
-  - Public investors stay in love with tech, as Root and Affirm file to IPO
-      <hr/>
-       
-       - *Why there are so many tech IPOs right now.*
+       - *There’s no doubt that modern social networks have let us down. Filled with hate speech and abuse, moderation and anti-abuse tools were an afterthought they’re now trying to cram in. Meanwhile, personalization engines deliver us only what will keep us engaged,…*
       
 
 <br />
