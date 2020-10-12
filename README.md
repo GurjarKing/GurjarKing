@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+The manager's function is not to make people work, but to make it possible for people to work.
 
-~ Fred Brooks
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -59,15 +59,15 @@ Very good professional programmers are ten times as productive as poor ones, at 
 </pre>
 <strong>Daily News</strong>
   
-  - What to expect from Apple’s ‘Hi Speed’ iPhone event
+  - Amazon launches an AR app that works with new QR codes on its boxes
      <hr/>
      
-      - *For starters, iPhones, of course. That one was easy. The company skipped out on new mobile devices during its recent Apple Watch event, owing to COVID-19-related delays. And, of course, the fact that the events are all pre-taped and virtual now means companie…*
+      - *Amazon has quietly launched a new augmented reality application that works with QR codes on the company’s shipping boxes to create “interactive, shareable” AR experiences. Called simply “Amazon Augmented Reality,” the retailer describes the app as a “fun way …*
      
-  - Nym Health raises $14 million for its auditable machine learning tools for automating hospital billing
+  - What to expect from Apple’s ‘Hi Speed’ iPhone event
       <hr/>
       
-      - *A little less than two years after raising its seed round, the Israeli-based Nym Health has added another $14 million to its cash haul so it can roll out its technology developing auditable machine learning tools for automating hospital billing. The new finan…*
+      - *For starters, iPhones, of course. That one was easy. The company skipped out on new mobile devices during its recent Apple Watch event, owing to COVID-19-related delays. And, of course, the fact that the events are all pre-taped and virtual now means companie…*
       
   - 2020 IPO report card: are tech's newest public companies meeting expectations?
       <hr/>
