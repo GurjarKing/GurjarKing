@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The fundamental problem with program maintenance is that fixing a defect has a s
 </pre>
 <strong>Daily News</strong>
   
-  - The Otto Wilde Grill delivers the drama of delicious restaurant steak at home
+  - Thailand's logistics startup Flash Express raises $200 million
      <hr/>
      
-      - *Like many folks this year, I have been cooking a lot. Though I’ve always loved food and have had a deep and abiding interest for the art of cooking, I’ve definitely pushed myself to learn how to do a lot of things from scratch in the kitchen this year. From c…*
+      - *Flash Express, a two-year-old logistics startup that works with e-commerce firms in Thailand, said on Monday it has raised $200 million in a new financing round as it looks to double down on a rapidly growing market spurred by demand due to the coronavirus pa…*
      
+  - The Otto Wilde Grill delivers the drama of delicious restaurant steak at home
+      <hr/>
+      
+      - *Like many folks this year, I have been cooking a lot. Though I’ve always loved food and have had a deep and abiding interest for the art of cooking, I’ve definitely pushed myself to learn how to do a lot of things from scratch in the kitchen this year. From c…*
+      
   - AC Ventures announces the first close of its $80 million fund for Indonesian startups
       <hr/>
       
@@ -73,16 +78,11 @@ The fundamental problem with program maintenance is that fixing a defect has a s
       <hr/>
       
       - *Bangalore-headquartered Razorpay, one of the handful of Indian fintech startups that has demonstrated accelerated growth in recent years, has joined the coveted unicorn club after raising $100 million in a new financing round, the payments processing startup …*
-      
+       
   - Twilio is buying customer data startup Segment for between $3B and $4B
       <hr/>
-      
-      - *Sources have told TechCrunch that Twilio intends to acquire customer data startup Segment for between $3 and $4 billion. Forbes broke the story on Friday night, reporting a price tag of $3.2 billion. We have heard from a couple of industry sources that the de…*
        
-  - Hands on with Telepath, the social network taking aim at abuse, fake news and, to some extent, 'free speech'
-      <hr/>
-       
-       - *There’s no doubt that modern social networks have let us down. Filled with hate speech and abuse, moderation and anti-abuse tools were an afterthought they’re now trying to cram in. Meanwhile, personalization engines deliver us only what will keep us engaged,…*
+       - *Sources have told TechCrunch that Twilio intends to acquire customer data startup Segment for between $3 and $4 billion. Forbes broke the story on Friday night, reporting a price tag of $3.2 billion. We have heard from a couple of industry sources that the de…*
       
 
 <br />
