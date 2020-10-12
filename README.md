@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 
-~ Edsger W. Dijkstra
+~ Steve Jobs
 <pre>
 
 </pre>
