@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
 
-~ Ada Lovelace
+~ Fred Brooks
 <pre>
 
 </pre>
