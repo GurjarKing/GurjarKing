@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In my second year in graduate school, I took a computer course and that was like lightening striking.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Ted Nelson
+~ Jim Horning
 <pre>
 
 </pre>
