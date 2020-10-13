@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 
-~ Ward Cunningham
+~ Robert L. Glass
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Putting a new feature into a program is important, but refactoring so new featur
 </pre>
 <strong>Daily News</strong>
   
-  - Apple's iPhone 12 Pro camera upgrades sharpen focus on serious photographers
+  - Daily Crunch: Apple introduces the iPhone 12
      <hr/>
      
-      - *Apple’s iPhone 12 Pro heaps improvements on the already-formidable power of its camera system, adding features that will be prized by “serious” photographers — that is to say, the type who like to really mess around with their shots after the fact. Of course …*
+      - *Apple embraces 5G, Facebook Messenger gets better integrated with Instagram and Kahoot raises $215 million. This is your Daily Crunch for October 13, 2020. The big story: Apple introduces the iPhone 12 Apple’s big event today kicked off with the announcement …*
      
-  - Snapchat among first to leverage iPhone 12 Pro's LiDAR Scanner for AR
+  - PopSockets is working on MagSafe-compatible iPhone accessories
       <hr/>
       
-      - *Apple introduced its latest flagship iPhone models, the iPhone 12 Pro and 12 Pro Max, at its iPhone event on Tuesday. Among other things, the devices sport a new LiDAR Scanner designed to allow for more immersive augmented reality (AR) experiences. Snapchat t…*
+      - *PopSockets will support Apple’s MagSafe technology, TechCrunch has confirmed — meaning you’ll soon be able to pop on and off these ubiquitous iPhone accessories without worrying about the sticker on the back losing its adhesiveness over time and needing a rin…*
       
-  - Apple's stock dips and Verizon's recovers during iPhone event
+  - Discuss the unbundling of early-stage VC with Unusual Ventures' Sarah Leary & John Vrionis
       <hr/>
       
-      - *Earlier today Apple announced a slew of new hardware. In case you’ve not yet caught up, there’s a $99 HomePod Mini coming, new iPhones, a new method for shouting at your electronics, the return of MagSafe, some cost-cutting masquerading as environmentalism an…*
+      - *This year has been everything but business as usual for the venture and tech community. And we still have a presidential election ahead of us. So, why not listen to the aptly-named experts over at Unusual Ventures? Partners Sarah Leary (co-founder of Nextdoor…*
       
-  - Apple’s iPhone 12, 12 mini, 12 Pro and 12 Pro Max: what’s the difference?
+  - Two Screens For Teachers will outfit all educators in Seattle Public Schools with a second monitor
       <hr/>
       
-      - *Gone are the days a company like Apple could simply roll out a single flagship handset or two. Consumer demands have evolved quite a bit in the more than 13 years since the company released its first smartphone, and its offerings have had to evolve with it. T…*
+      - *The admirable effort Two Screens For Teachers, which as you may guess is about getting teachers a second screen to use at home, has put together enough funds to get every educator in the Seattle Public School system a new monitor who needs one. They’re hoping…*
        
-  - Apple unveils its flagship 5G phones, the iPhone 12 Pro and Pro Max
+  - Apple's iPhone 12 Pro camera upgrades sharpen focus on serious photographers
       <hr/>
        
-       - *At Apple’s iPhone event on Tuesday, the company introduced a range of new phones, led by the just-announced flagships: the iPhone 12 Pro, starting at $999, and iPhone 12 Pro Max, starting at $1099. The new 5G-ready devices sport an all-screen Super Retina XDR…*
+       - *Apple’s iPhone 12 Pro heaps improvements on the already-formidable power of its camera system, adding features that will be prized by “serious” photographers — that is to say, the type who like to really mess around with their shots after the fact. Of course …*
       
 
 <br />
