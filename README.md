@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If Microsoft ever does applications for Linux it means I've won.
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 
-~ Linus Torvalds
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If Microsoft ever does applications for Linux it means I've won.
 </pre>
 <strong>Daily News</strong>
   
-  - Landscape site launches with the aim of becoming the 'Glassdoor for VC'
+  - Qatalog, the 'virtual workspace' rebundling SaaS tools to help teams function better, raises $15M
      <hr/>
      
-      - *You’ve probably heard of Glassdoor, which exists to allow employees to rate companies anonymously. Now a UK entrepreneur has decided to address the thorny issue of rating venture capitalists. Landscape, a new review platform for tech startup founders to disco…*
+      - *Qatalog, a London-based startup that has developed a “virtual workspace” that brings together disparate SaaS tools to help teams function better, is disclosing $15 million in Series A funding. Leading the round is European venture capital firm Atomico, with p…*
      
+  - Kahoot picks up $215M from SoftBank for its user-generated, gamified e-learning platform
+      <hr/>
+      
+      - *After announcing a modest $28 million raise earlier this year, the user-generated gamified e-learning platform Kahoot today announced a much bigger round to double down on the current surge in demand for remote education. The Norwegian startup — which has clo…*
+      
+  - Landscape site launches with the aim of becoming the 'Glassdoor for VC'
+      <hr/>
+      
+      - *You’ve probably heard of Glassdoor, which exists to allow employees to rate companies anonymously. Now a UK entrepreneur has decided to address the thorny issue of rating venture capitalists. Landscape, a new review platform for tech startup founders to disco…*
+      
   - Watch Apple unveil the new iPhone live right here
       <hr/>
       
       - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
-      
+       
   - Hong Kong and New York-based Easyship joins Shopify Plus' tech partner program
       <hr/>
-      
-      - *Easyship, a logistics startup that allows e-commerce sellers to add multiple carriers to their stores, announced it has joined the Shopify Plus Technology Partner Program. Easyship is headquartered in Hong Kong and New York. Co-founder Tommaso Tamburnotti tol…*
-      
-  - Why are VCs launching SPACs? Amish Jani of FirstMark shares his firm's rationale
-      <hr/>
-      
-      - *It’s happening slowly but surely. With every passing week, more venture firms are beginning to announce SPACs. The veritable blitz of SPACs formed by investor Chamath Palihapitiya notwithstanding, we’ve now seen a SPAC (or plans for a SPAC) revealed by Ribbit…*
        
-  - Malaysian on-demand work platform GoGet lands $2 million Series A
-      <hr/>
-       
-       - *GoGet, a Malaysian on-demand work platform, announced today that it has raised a $2 million Series A led by Monk’s Hill Ventures. The platform currently has 20,000 gig workers, who are called “GoGetters,” and has onboarded 5,000 businesses, including Lazada M…*
+       - *Easyship, a logistics startup that allows e-commerce sellers to add multiple carriers to their stores, announced it has joined the Shopify Plus Technology Partner Program. Easyship is headquartered in Hong Kong and New York. Co-founder Tommaso Tamburnotti tol…*
       
 
 <br />
