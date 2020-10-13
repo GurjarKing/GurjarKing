@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Deleted code is debugged code.
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
 
-~ Jeff Sickel
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Deleted code is debugged code.
 </pre>
 <strong>Daily News</strong>
   
-  - Genemod raises cash for its lab inventory management service used by research institutions around the US
+  - Nym Health raises $16.5 million for its auditable machine learning tools for automating hospital billing
      <hr/>
      
-      - *Genemod, a software for laboratory inventory management used by institutions like the University of Washington School of Medicine; the University of California, Berkeley, and the National Institutes of Health; has raised $1.7 million from a clutch of top vent…*
+      - *A little less than two years after raising its seed round, the Israeli-based Nym Health has added another $16.5 million to its cash haul so it can roll out its technology developing auditable machine learning tools for automating hospital billing. The new fin…*
      
-  - London Business School and LocalGlobe launch new VC course aimed at women, Black and Asian candidates
+  - Live from Apple's virtual 2020 iPhone event
       <hr/>
       
-      - *With the UK’s Black Tech Fest on this week it’s timely that a new executive education course aimed at those wanting to enter the venture capital industry has been launched to serve previously under-represented groups, especially women, Black, Asian and other …*
+      - *Apple’s big iPhone event is finally here – virtual, which is to be expected these day. This is already the second virtual event Apple has hosted this fall, following one in September at which it revealed the Apple Watch Series 6 and a new iPad Air. This time …*
       
-  - Join Yext’s Howard Lerman for a live Q&A today at 2 pm ET/11 am PT
+  - WordPress can now turn blog posts into tweetstorms automatically
       <hr/>
       
-      - *Today’s the day! This afternoon at 2 pm ET/11 am PT, Yext CEO Howard Lerman will join TechCrunch for a live chat. The conversation is part of our continuing Extra Crunch Live series, now in its second season. What are we up to in the second installment of the…*
+      - *Earlier this year, WordPress .com introduced an easier way to post your Twitter threads, also known as tweetstorms, to your blog with the introduction of “unroll” option for Twitter embeds. Today, the company is addressing the flip side of tweetstorm publicat…*
       
-  - The iPhone 12 and HomePod mini leak ahead of today’s big Apple event
+  - BLCK VC launches educational initiative to bring more Blacks into investing ecosystem
       <hr/>
       
-      - *I guess maybe don’t read this if you like being surprised. Though you already read the headline and saw the first image, so you might as well keep keep going, right? And this is an Apple event we’re talking about, so surely there will be a surprise or two lef…*
+      - *It is no secret that Black founders face an uphill battle in Silicon Valley with just a sliver of the investment pie being devoted to people of color. BLCK VC along with partners Operator Collective, Salesforce Ventures and Berkeley Haas School of Business ar…*
        
-  - Nuvemshop, a Latin American answer to Shopify, raises $30 million
+  - HBO is making a limited series about Elon Musk and the founding of SpaceX
       <hr/>
        
-       - *After several failed startup attempts and nine years spent building Nuvemshop into Latin America’s answer to Shopify, the four co-founders of the company have managed to raise $30 million in venture capital funding as they look to expand their business. The n…*
+       - *HBO is in the process of developing a six-episode limited series about the founding days of SpaceX and Elon Musk, Variety reports. The show will be based on Ashlee Vance’s biography of the Tesla CEO and SpaceX founder, but billionaire entrepreneur himself is …*
       
 
 <br />
