@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
-~ Harlan Mills
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ An interactive debugger is an outstanding example of what is not needed - it enc
 </pre>
 <strong>Daily News</strong>
   
-  - Kegg, a connected fertility tracker and kegel trainer for women, launches out of beta
+  - Kayhan Space wants to be the air traffic control service for satellites in space
      <hr/>
      
-      - *Fertility tracking has seen an explosion of startup activity in recent years. Femtech startup Lady Technologies is adding to this rich mix with the full U.S. launch of a dual-purpose device, called kegg, that’s designed to measure hormonal changes in a woman’…*
+      - *Kayhan Space, the Boulder, Colo. and Atlanta-based company launched from Techstars virtual space-focused accelerator, wants nothing more than to be the air traffic control service for satellites in space. Founded by two childhood friends, Araz Feyzi and Siama…*
      
+  - Kegg, a connected fertility tracker and kegel trainer for women, launches out of beta
+      <hr/>
+      
+      - *Fertility tracking has seen an explosion of startup activity in recent years. Femtech startup Lady Technologies is adding to this rich mix with the full U.S. launch of a dual-purpose device, called kegg, that’s designed to measure hormonal changes in a woman’…*
+      
   - Commercializing the open source FingerprintJS browser fingerprinting tech nabs Chicago entrepreneur $4M
       <hr/>
       
@@ -73,16 +78,11 @@ An interactive debugger is an outstanding example of what is not needed - it enc
       <hr/>
       
       - *Blue Origin is set to return to active flight today, after a hiatus of nearly a year since its last launch in December 2019. Today’s launch is a mission for the company’s New Shepard reusable sub-orbital rocket – a record-setting sixth flight for this particu…*
-      
+       
   - Cyberpion raises $8.25M in seed funding to help businesses secure assets beyond their firewall
       <hr/>
-      
-      - *Hijacking a company’s DNS or injecting code into third-party tools are the kind of attacks that many companies aren’t equipped to handle. Cyberpion, a new security startup founded by a number of experienced security experts, aims to help enterprises identify …*
        
-  - South Korea pushes for AI semiconductors as global demand grows
-      <hr/>
-       
-       - *The South Korean government has made no secret of its ambition to be a key player in the global artificial intelligence industry, including making the semiconductors powering AI functionalities. This week, the country’s information and communications technolo…*
+       - *Hijacking a company’s DNS or injecting code into third-party tools are the kind of attacks that many companies aren’t equipped to handle. Cyberpion, a new security startup founded by a number of experienced security experts, aims to help enterprises identify …*
       
 
 <br />
