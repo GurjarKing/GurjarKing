@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
-~ Dennis Ritchie
+~ Ted Nelson
 <pre>
 
 </pre>
