@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+From an artistic standpoint, the best software comes from the realm of intuition.
 
-~ Stewart Brand
+~ Bob Carr
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Once a new technology starts rolling, if you’re not part of the steamroller, y
 </pre>
 <strong>Daily News</strong>
   
-  - Cyberpion raises $8.25M in seed funding to help businesses secure assets beyond their firewall
+  - Watch Blue Origin launch its reusable New Shepard rocket live, with a key NASA system test on board
      <hr/>
      
-      - *Hijacking a company’s DNS or injecting code into third-party tools are the kind of attacks that many companies aren’t equipped to handle. Cyberpion, a new security startup founded by a number of experienced security experts, aims to help enterprises identify …*
+      - *Blue Origin is set to return to active flight today, after a hiatus of nearly a year since its last launch in December 2019. Today’s launch is a mission for the company’s New Shepard reusable sub-orbital rocket – a record-setting sixth flight for this particu…*
      
+  - Cyberpion raises $8.25M in seed funding to help businesses secure assets beyond their firewall
+      <hr/>
+      
+      - *Hijacking a company’s DNS or injecting code into third-party tools are the kind of attacks that many companies aren’t equipped to handle. Cyberpion, a new security startup founded by a number of experienced security experts, aims to help enterprises identify …*
+      
   - South Korea pushes for AI semiconductors as global demand grows
       <hr/>
       
@@ -73,16 +78,11 @@ Once a new technology starts rolling, if you’re not part of the steamroller, y
       <hr/>
       
       - *Qatalog, a London-based startup that has developed a “virtual workspace” that brings together disparate SaaS tools to help teams function better, is disclosing $15 million in Series A funding. Leading the round is European venture capital firm Atomico, with p…*
-      
+       
   - Kahoot picks up $215M from SoftBank for its user-generated, gamified e-learning platform
       <hr/>
-      
-      - *After announcing a modest $28 million raise earlier this year, the user-generated gamified e-learning platform Kahoot today announced a much bigger round to double down on the current surge in demand for remote education. The Norwegian startup — which has clo…*
        
-  - Landscape site launches with the aim of becoming the 'Glassdoor for VC'
-      <hr/>
-       
-       - *You’ve probably heard of Glassdoor, which exists to allow employees to rate companies anonymously. Now a UK entrepreneur has decided to address the thorny issue of rating venture capitalists. Landscape, a new review platform for tech startup founders to disco…*
+       - *After announcing a modest $28 million raise earlier this year, the user-generated gamified e-learning platform Kahoot today announced a much bigger round to double down on the current surge in demand for remote education. The Norwegian startup — which has clo…*
       
 
 <br />
