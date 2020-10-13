@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+In order to understand recursion, one must first understand recursion.
 
-~ Donald Knuth
+~ Anonymous
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Email is a wonderful thing for people whose role in life is to be on top of thin
 </pre>
 <strong>Daily News</strong>
   
-  - Watch Apple unveil the new iPhone live right here
+  - Apple launches new ecosystem of accessories and wireless chargers with MagSafe
      <hr/>
      
-      - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
+      - *Apple just announced the iPhone 12, and it features some new capabilities hidden in the rear of the phone. Thanks to alignment magnets, you can snap accessories to the back of your phone. And the company is releasing new accessories that work with this magnet…*
      
-  - DroneDeploy teams with Boston Dynamics to deliver inside-outside view of job site
+  - Apple's new 'Intercom' feature will let you shout across your Apple devices
       <hr/>
       
-      - *DroneDeploy, a cloud software company that uses drone footage to help industries like agriculture, oil and gas and construction get a birds-eye view of a site to build a 3D picture, announced a new initiative today that combines drone photos with cameras on t…*
+      - *Apple today introduced a new feature designed for use with its HomePod speakers, including its just-introduced HomePod Mini: Intercom. Similar to Alexa’s “announce” feature, Intercom will allow HomePod owners to leverage their smart speakers — and other Apple…*
       
-  - Spendesk raises another $18 million for its corporate card and expense service
+  - This is the iPhone 12
       <hr/>
       
-      - *French startup Spendesk has added $18 million to its Series B round. The company already raised $38.4 million as part of its Series B last year, which means that it raised $56.4 million as part of this round. Eight Roads Ventures is investing in today’s exten…*
+      - *It took a bit longer than usual (thank COVID-19 from some insurmountable manufacturing delays), but the iPhone 12 is here. And as expected, it comes bearing 5G. The latest version of Apple’s smartphone also arrives in a variety of different sizes, as the comp…*
       
-  - Edge computing startup Edgify secures $6.5M Seed from Octopus, Mangrove and semiconductor
+  - Apple reveals the $99 HomePod Mini
       <hr/>
       
-      - *Edgify, which builds AI for edge computing, has secured a $6.5m seed funding round backed by Octopus Ventures, Mangrove Capital Partners and an unnamed semiconductor giant. The name was not released but TechCrunch understands it nay be Intel Corp. or Qualcomm…*
+      - *Today, during its iPhone hardware event, Apple unveiled the $99 HomePod Mini. The HomePod Mini is clearly a reach for a broader swath of new users. The original HomePod managed to impress audiophiles but its high price served as a high barrier of entry to new…*
        
-  - Men's health subscription startup Numan closes £10M Series A funding round
+  - Watch Apple unveil the new iPhone live right here
       <hr/>
        
-       - *Launched almost 18 months ago, Numan joined the growing list of sites aiming at men’s health, such as Roman and Hims, for example. Numan launched aiming to promote accessible medical remedies for Erectile Dysfunction but has since expanded into other areas to…*
+       - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
       
 
 <br />
