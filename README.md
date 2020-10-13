@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-From an artistic standpoint, the best software comes from the realm of intuition.
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 
-~ Bob Carr
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ From an artistic standpoint, the best software comes from the realm of intuition
 </pre>
 <strong>Daily News</strong>
   
-  - Watch Blue Origin launch its reusable New Shepard rocket live, with a key NASA system test on board
+  - Kegg, a connected fertility tracker and kegel trainer for women, launches out of beta
      <hr/>
      
-      - *Blue Origin is set to return to active flight today, after a hiatus of nearly a year since its last launch in December 2019. Today’s launch is a mission for the company’s New Shepard reusable sub-orbital rocket – a record-setting sixth flight for this particu…*
+      - *Fertility tracking has seen an explosion of startup activity in recent years. Femtech startup Lady Technologies is adding to this rich mix with the full U.S. launch of a dual-purpose device, called kegg, that’s designed to measure hormonal changes in a woman’…*
      
+  - Commercializing the open source FingerprintJS browser fingerprinting tech nabs Chicago entrepreneur $4M
+      <hr/>
+      
+      - *Chicago-based serial entrepreneur Dan Pinto has raised new cash and launched a new company looking to commercialize a years-old open source project that purports to solve one of the web’s hardest problems — fraud prevention. The company he launched in January…*
+      
+  - Watch Blue Origin launch its reusable New Shepard rocket live, with a key NASA system test on board
+      <hr/>
+      
+      - *Blue Origin is set to return to active flight today, after a hiatus of nearly a year since its last launch in December 2019. Today’s launch is a mission for the company’s New Shepard reusable sub-orbital rocket – a record-setting sixth flight for this particu…*
+      
   - Cyberpion raises $8.25M in seed funding to help businesses secure assets beyond their firewall
       <hr/>
       
       - *Hijacking a company’s DNS or injecting code into third-party tools are the kind of attacks that many companies aren’t equipped to handle. Cyberpion, a new security startup founded by a number of experienced security experts, aims to help enterprises identify …*
-      
+       
   - South Korea pushes for AI semiconductors as global demand grows
       <hr/>
-      
-      - *The South Korean government has made no secret of its ambition to be a key player in the global artificial intelligence industry, including making the semiconductors powering AI functionalities. This week, the country’s information and communications technolo…*
-      
-  - Qatalog, the 'virtual workspace' rebundling SaaS tools to help teams function better, raises $15M
-      <hr/>
-      
-      - *Qatalog, a London-based startup that has developed a “virtual workspace” that brings together disparate SaaS tools to help teams function better, is disclosing $15 million in Series A funding. Leading the round is European venture capital firm Atomico, with p…*
        
-  - Kahoot picks up $215M from SoftBank for its user-generated, gamified e-learning platform
-      <hr/>
-       
-       - *After announcing a modest $28 million raise earlier this year, the user-generated gamified e-learning platform Kahoot today announced a much bigger round to double down on the current surge in demand for remote education. The Norwegian startup — which has clo…*
+       - *The South Korean government has made no secret of its ambition to be a key player in the global artificial intelligence industry, including making the semiconductors powering AI functionalities. This week, the country’s information and communications technolo…*
       
 
 <br />
