@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Controlling complexity is the essence of computer programming.
+The only way to learn a new programming language is by writing programs in it.
 
-~ Brian Kernighan
+~ Dennis Ritchie
 <pre>
 
 </pre>
