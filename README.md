@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 
-~ Charles Babbage
+~ Ted Nelson
 <pre>
 
 </pre>
