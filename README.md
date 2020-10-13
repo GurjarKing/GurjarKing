@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 
-~ Bill Gates
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If you ever talk to a great programmer, you'll find he knows his tools like an a
 </pre>
 <strong>Daily News</strong>
   
-  - Qatalog, the 'virtual workspace' rebundling SaaS tools to help teams function better, raises $15M
+  - South Korea pushes for AI semiconductors as global demand grows
      <hr/>
      
-      - *Qatalog, a London-based startup that has developed a “virtual workspace” that brings together disparate SaaS tools to help teams function better, is disclosing $15 million in Series A funding. Leading the round is European venture capital firm Atomico, with p…*
+      - *The South Korean government has made no secret of its ambition to be a key player in the global artificial intelligence industry, including making the semiconductors powering AI functionalities. This week, the country’s information and communications technolo…*
      
+  - Qatalog, the 'virtual workspace' rebundling SaaS tools to help teams function better, raises $15M
+      <hr/>
+      
+      - *Qatalog, a London-based startup that has developed a “virtual workspace” that brings together disparate SaaS tools to help teams function better, is disclosing $15 million in Series A funding. Leading the round is European venture capital firm Atomico, with p…*
+      
   - Kahoot picks up $215M from SoftBank for its user-generated, gamified e-learning platform
       <hr/>
       
@@ -73,16 +78,11 @@ If you ever talk to a great programmer, you'll find he knows his tools like an a
       <hr/>
       
       - *You’ve probably heard of Glassdoor, which exists to allow employees to rate companies anonymously. Now a UK entrepreneur has decided to address the thorny issue of rating venture capitalists. Landscape, a new review platform for tech startup founders to disco…*
-      
+       
   - Watch Apple unveil the new iPhone live right here
       <hr/>
-      
-      - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
        
-  - Hong Kong and New York-based Easyship joins Shopify Plus' tech partner program
-      <hr/>
-       
-       - *Easyship, a logistics startup that allows e-commerce sellers to add multiple carriers to their stores, announced it has joined the Shopify Plus Technology Partner Program. Easyship is headquartered in Hong Kong and New York. Co-founder Tommaso Tamburnotti tol…*
+       - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
       
 
 <br />
