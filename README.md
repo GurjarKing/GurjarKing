@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you learn how to solve problems, you can go through life and do pretty well.
+Controlling complexity is the essence of computer programming.
 
-~ Gary Kildall
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If you learn how to solve problems, you can go through life and do pretty well.
 </pre>
 <strong>Daily News</strong>
   
-  - OnePlus co-founder Carl Pei leaves the company to start a new venture
+  - Malaysian on-demand work platform GoGet lands $2 million Series A
      <hr/>
      
-      - *Carl Pei, who co-founded the smartphone giant OnePlus in his 20s, is leaving the company, two sources familiar with the matter told TechCrunch. Pei played an instrumental role in designing the OnePlus smartphone lineup over the years, including the recently l…*
+      - *GoGet, a Malaysian on-demand work platform, announced today that it has raised a $2 million Series A led by Monk’s Hill Ventures. The platform currently has 20,000 gig workers, who are called “GoGetters,” and has onboarded 5,000 businesses, including Lazada M…*
      
+  - OnePlus co-founder Carl Pei leaves the company to start a new venture
+      <hr/>
+      
+      - *Carl Pei, who co-founded the smartphone giant OnePlus in his 20s, is leaving the company, two sources familiar with the matter told TechCrunch. Pei played an instrumental role in designing the OnePlus smartphone lineup over the years, including the recently l…*
+      
   - Alphabet's latest moonshot is a field-roving, plant-inspecting robo-buggy
       <hr/>
       
@@ -73,16 +78,11 @@ If you learn how to solve problems, you can go through life and do pretty well.
       <hr/>
       
       - *Disney is going all-in on streaming media.  On Monday, the company announced a massive reorganization of its media and entertainment business that will focus on developing productions that will debut on its streaming and broadcast services. Disney’s media bus…*
-      
+       
   - If the ad industry is serious about transparency, let’s open-source our SDKs
       <hr/>
-      
-      - *Showing exactly how the code within the SDK has been written is the best way to reassure developers and partners that there are no hidden functions or unwanted features.*
        
-  - Family tracking app Life360 launches 'Bubbles,' a location-sharing feature inspired by teens on TikTok
-      <hr/>
-       
-       - *Helicopter parenting turned into surveillance with the debut of family tracking apps like Life360. While the app can alleviate parental fears when setting younger kids loose in the neighborhood, Life360’s teenage users have hated the app’s location tracking f…*
+       - *Showing exactly how the code within the SDK has been written is the best way to reassure developers and partners that there are no hidden functions or unwanted features.*
       
 
 <br />
