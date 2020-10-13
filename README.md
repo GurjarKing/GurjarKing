@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
+Deleted code is debugged code.
 
-~ George Boole
+~ Jeff Sickel
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ There is not only a close analogy between the operations of the mind in general 
 </pre>
 <strong>Daily News</strong>
   
-  - Ureeka taps Kevin O'Leary (AKA Mr. Wonderful) to launch SMB curriculum
+  - Genemod raises cash for its lab inventory management service used by research institutions around the US
      <hr/>
      
-      - *Ureeka, a SMB mentorship platform for next-wave entrepreneurs, has today announced the Kevin O’Leary Bootcamp, which will offer members access to an exclusive curriculum of his knowledge and advice. The startup, which raised $8.6 million in April, looks to of…*
+      - *Genemod, a software for laboratory inventory management used by institutions like the University of Washington School of Medicine; the University of California, Berkeley, and the National Institutes of Health; has raised $1.7 million from a clutch of top vent…*
      
-  - Is the Twilio-Segment deal expensive?
+  - London Business School and LocalGlobe launch new VC course aimed at women, Black and Asian candidates
       <hr/>
       
-      - *The Twilio-Segment acquisition was the biggest story of the weekend, and in our current IPO lull, it is the most-discussed deal of the moment. So it hasn’t been a surprise to see folks working to figure out if the $3.2 billion price tag Twilio expects to pay …*
+      - *With the UK’s Black Tech Fest on this week it’s timely that a new executive education course aimed at those wanting to enter the venture capital industry has been launched to serve previously under-represented groups, especially women, Black, Asian and other …*
       
-  - Caliber, with $2.2 million in seed funding, launches a fitness coaching platform
+  - Join Yext’s Howard Lerman for a live Q&A today at 2 pm ET/11 am PT
       <hr/>
       
-      - *The coronavirus pandemic has thrown the fitness space for a loop. Caliber, a startup that focuses on one-to-one personal training, is today launching a brand new digital coaching platform on the heels of a $2.2 million seed round led by Trinity Ventures. Cali…*
+      - *Today’s the day! This afternoon at 2 pm ET/11 am PT, Yext CEO Howard Lerman will join TechCrunch for a live chat. The conversation is part of our continuing Extra Crunch Live series, now in its second season. What are we up to in the second installment of the…*
       
-  - Armory nabs $40M Series C as commercial biz on top of open source Spinnaker project takes off
+  - The iPhone 12 and HomePod mini leak ahead of today’s big Apple event
       <hr/>
       
-      - *As companies continue to shift more quickly to the cloud, pushed by the pandemic, startups like Armory that work in the cloud native space are seeing an uptick in interest. Armory is a company built to be commercial layer on top of the open source continuous …*
+      - *I guess maybe don’t read this if you like being surprised. Though you already read the headline and saw the first image, so you might as well keep keep going, right? And this is an Apple event we’re talking about, so surely there will be a surprise or two lef…*
        
-  - Messenger's latest update brings new features, cross-app communication with Instagram
+  - Nuvemshop, a Latin American answer to Shopify, raises $30 million
       <hr/>
        
-       - *Facebook Messenger is getting a visual update and a number of new features, including support for chat themes, custom reactions, and soon, selfie stickers and vanish mode. The changes are a part of Facebook’s overhauled messaging platform, announced in late S…*
+       - *After several failed startup attempts and nine years spent building Nuvemshop into Latin America’s answer to Shopify, the four co-founders of the company have managed to raise $30 million in venture capital funding as they look to expand their business. The n…*
       
 
 <br />
