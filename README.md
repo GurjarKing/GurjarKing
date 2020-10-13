@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 
-~ Fred Brooks
+~ George Boole
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ All repairs tend to destroy structure, to increase the entropy and disorder of a
 </pre>
 <strong>Daily News</strong>
   
-  - Kayhan Space wants to be the air traffic control service for satellites in space
+  - Ureeka taps Kevin O'Leary (AKA Mr. Wonderful) to launch SMB curriculum
      <hr/>
      
-      - *Kayhan Space, the Boulder, Colo. and Atlanta-based company launched from Techstars virtual space-focused accelerator, wants nothing more than to be the air traffic control service for satellites in space. Founded by two childhood friends, Araz Feyzi and Siama…*
+      - *Ureeka, a SMB mentorship platform for next-wave entrepreneurs, has today announced the Kevin O’Leary Bootcamp, which will offer members access to an exclusive curriculum of his knowledge and advice. The startup, which raised $8.6 million in April, looks to of…*
      
-  - Kegg, a connected fertility tracker and kegel trainer for women, launches out of beta
+  - Is the Twilio-Segment deal expensive?
       <hr/>
       
-      - *Fertility tracking has seen an explosion of startup activity in recent years. Femtech startup Lady Technologies is adding to this rich mix with the full U.S. launch of a dual-purpose device, called kegg, that’s designed to measure hormonal changes in a woman’…*
+      - *The Twilio-Segment acquisition was the biggest story of the weekend, and in our current IPO lull, it is the most-discussed deal of the moment. So it hasn’t been a surprise to see folks working to figure out if the $3.2 billion price tag Twilio expects to pay …*
       
-  - Commercializing the open source FingerprintJS browser fingerprinting tech nabs Chicago entrepreneur $4M
+  - Caliber, with $2.2 million in seed funding, launches a fitness coaching platform
       <hr/>
       
-      - *Chicago-based serial entrepreneur Dan Pinto has raised new cash and launched a new company looking to commercialize a years-old open source project that purports to solve one of the web’s hardest problems — fraud prevention. The company he launched in January…*
+      - *The coronavirus pandemic has thrown the fitness space for a loop. Caliber, a startup that focuses on one-to-one personal training, is today launching a brand new digital coaching platform on the heels of a $2.2 million seed round led by Trinity Ventures. Cali…*
       
-  - Watch Blue Origin launch its reusable New Shepard rocket live, with a key NASA system test on board
+  - Armory nabs $40M Series C as commercial biz on top of open source Spinnaker project takes off
       <hr/>
       
-      - *Blue Origin is set to return to active flight today, after a hiatus of nearly a year since its last launch in December 2019. Today’s launch is a mission for the company’s New Shepard reusable sub-orbital rocket – a record-setting sixth flight for this particu…*
+      - *As companies continue to shift more quickly to the cloud, pushed by the pandemic, startups like Armory that work in the cloud native space are seeing an uptick in interest. Armory is a company built to be commercial layer on top of the open source continuous …*
        
-  - Cyberpion raises $8.25M in seed funding to help businesses secure assets beyond their firewall
+  - Messenger's latest update brings new features, cross-app communication with Instagram
       <hr/>
        
-       - *Hijacking a company’s DNS or injecting code into third-party tools are the kind of attacks that many companies aren’t equipped to handle. Cyberpion, a new security startup founded by a number of experienced security experts, aims to help enterprises identify …*
+       - *Facebook Messenger is getting a visual update and a number of new features, including support for chat themes, custom reactions, and soon, selfie stickers and vanish mode. The changes are a part of Facebook’s overhauled messaging platform, announced in late S…*
       
 
 <br />
