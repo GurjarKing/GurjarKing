@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In order to understand recursion, one must first understand recursion.
+It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 
-~ Anonymous
+~ Nathaniel Borenstein
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ In order to understand recursion, one must first understand recursion.
 </pre>
 <strong>Daily News</strong>
   
-  - Apple launches new ecosystem of accessories and wireless chargers with MagSafe
+  - Apple unveils its flagship 5G phones, the iPhone 12 Pro and Pro Max
      <hr/>
      
-      - *Apple just announced the iPhone 12, and it features some new capabilities hidden in the rear of the phone. Thanks to alignment magnets, you can snap accessories to the back of your phone. And the company is releasing new accessories that work with this magnet…*
+      - *At Apple’s iPhone event on Tuesday, the company introduced a range of new phones, led by the just-announced flagships: the iPhone 12 Pro, starting at $999, and iPhone 12 Pro Max, starting at $1099. The new 5G-ready devices sport an all-screen Super Retina XDR…*
      
-  - Apple's new 'Intercom' feature will let you shout across your Apple devices
+  - iPhones won't come with headphones or power adapters in the box from now on
       <hr/>
       
-      - *Apple today introduced a new feature designed for use with its HomePod speakers, including its just-introduced HomePod Mini: Intercom. Similar to Alexa’s “announce” feature, Intercom will allow HomePod owners to leverage their smart speakers — and other Apple…*
+      - *That drawer full of bad headphones and extra power adapters for your phone won’t get any more cluttered if you decide to pick up a new iPhone 12. Apple will no longer include those items in the box, part of a redoubled effort to reduce its environmental footp…*
       
-  - This is the iPhone 12
+  - Beats announces $50 Bluetooth earbuds
       <hr/>
       
-      - *It took a bit longer than usual (thank COVID-19 from some insurmountable manufacturing delays), but the iPhone 12 is here. And as expected, it comes bearing 5G. The latest version of Apple’s smartphone also arrives in a variety of different sizes, as the comp…*
+      - *Apple clearly has plenty to announce during today’s big iPhone event. That means, as usual, its Beats line didn’t really get any love. The company is much more content to focus on its own audio offerings, instead. But the Apple-owned brand had some news to sh…*
       
-  - Apple reveals the $99 HomePod Mini
+  - Should you replace your developer portal with a hybrid integration platform?
       <hr/>
       
-      - *Today, during its iPhone hardware event, Apple unveiled the $99 HomePod Mini. The HomePod Mini is clearly a reach for a broader swath of new users. The original HomePod managed to impress audiophiles but its high price served as a high barrier of entry to new…*
+      - *The growing use of hybrid integration systems is drastically reducing adoption complications, improving user experiences and minimizing technical complexity — while increasing security.*
        
-  - Watch Apple unveil the new iPhone live right here
+  - Apple launches new ecosystem of accessories and wireless chargers with MagSafe
       <hr/>
        
-       - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
+       - *Apple just announced the iPhone 12, and it features some new capabilities hidden in the rear of the phone. Thanks to alignment magnets, you can snap accessories to the back of your phone. And the company is releasing new accessories that work with this magnet…*
       
 
 <br />
