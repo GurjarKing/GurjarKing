@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
+Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 
-~ Gary Kildall
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I don't comment on the code itself because I feel that properly written code is 
 </pre>
 <strong>Daily News</strong>
   
-  - Nym Health raises $16.5 million for its auditable machine learning tools for automating hospital billing
+  - Watch Apple unveil the new iPhone live right here
      <hr/>
      
-      - *A little less than two years after raising its seed round, the Israeli-based Nym Health has added another $16.5 million to its cash haul so it can roll out its technology developing auditable machine learning tools for automating hospital billing. The new fin…*
+      - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
      
-  - Live from Apple's virtual 2020 iPhone event
+  - DroneDeploy teams with Boston Dynamics to deliver inside-outside view of job site
       <hr/>
       
-      - *Apple’s big iPhone event is finally here – virtual, which is to be expected these day. This is already the second virtual event Apple has hosted this fall, following one in September at which it revealed the Apple Watch Series 6 and a new iPad Air. This time …*
+      - *DroneDeploy, a cloud software company that uses drone footage to help industries like agriculture, oil and gas and construction get a birds-eye view of a site to build a 3D picture, announced a new initiative today that combines drone photos with cameras on t…*
       
-  - WordPress can now turn blog posts into tweetstorms automatically
+  - Spendesk raises another $18 million for its corporate card and expense service
       <hr/>
       
-      - *Earlier this year, WordPress .com introduced an easier way to post your Twitter threads, also known as tweetstorms, to your blog with the introduction of “unroll” option for Twitter embeds. Today, the company is addressing the flip side of tweetstorm publicat…*
+      - *French startup Spendesk has added $18 million to its Series B round. The company already raised $38.4 million as part of its Series B last year, which means that it raised $56.4 million as part of this round. Eight Roads Ventures is investing in today’s exten…*
       
-  - BLCK VC launches educational initiative to bring more Blacks into investing ecosystem
+  - Edge computing startup Edgify secures $6.5M Seed from Octopus, Mangrove and semiconductor
       <hr/>
       
-      - *It is no secret that Black founders face an uphill battle in Silicon Valley with just a sliver of the investment pie being devoted to people of color. BLCK VC along with partners Operator Collective, Salesforce Ventures and Berkeley Haas School of Business ar…*
+      - *Edgify, which builds AI for edge computing, has secured a $6.5m seed funding round backed by Octopus Ventures, Mangrove Capital Partners and an unnamed semiconductor giant. The name was not released but TechCrunch understands it nay be Intel Corp. or Qualcomm…*
        
-  - HBO is making a limited series about Elon Musk and the founding of SpaceX
+  - Men's health subscription startup Numan closes £10M Series A funding round
       <hr/>
        
-       - *HBO is in the process of developing a six-episode limited series about the founding days of SpaceX and Elon Musk, Variety reports. The show will be based on Ashlee Vance’s biography of the Tesla CEO and SpaceX founder, but billionaire entrepreneur himself is …*
+       - *Launched almost 18 months ago, Numan joined the growing list of sites aiming at men’s health, such as Roman and Hims, for example. Numan launched aiming to promote accessible medical remedies for Erectile Dysfunction but has since expanded into other areas to…*
       
 
 <br />
