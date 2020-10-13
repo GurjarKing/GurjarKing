@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Good judgement comes from experience. Experience comes from bad judgement.
+If Microsoft ever does applications for Linux it means I've won.
 
-~ Jim Horning
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Good judgement comes from experience. Experience comes from bad judgement.
 </pre>
 <strong>Daily News</strong>
   
-  - Why are VCs launching SPACs? Amish Jani of FirstMark shares his firm's rationale
+  - Landscape site launches with the aim of becoming the 'Glassdoor for VC'
      <hr/>
      
-      - *It’s happening slowly but surely. With every passing week, more venture firms are beginning to announce SPACs. The veritable blitz of SPACs formed by investor Chamath Palihapitiya notwithstanding, we’ve now seen a SPAC (or plans for a SPAC) revealed by Ribbit…*
+      - *You’ve probably heard of Glassdoor, which exists to allow employees to rate companies anonymously. Now a UK entrepreneur has decided to address the thorny issue of rating venture capitalists. Landscape, a new review platform for tech startup founders to disco…*
      
+  - Watch Apple unveil the new iPhone live right here
+      <hr/>
+      
+      - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
+      
+  - Hong Kong and New York-based Easyship joins Shopify Plus' tech partner program
+      <hr/>
+      
+      - *Easyship, a logistics startup that allows e-commerce sellers to add multiple carriers to their stores, announced it has joined the Shopify Plus Technology Partner Program. Easyship is headquartered in Hong Kong and New York. Co-founder Tommaso Tamburnotti tol…*
+      
+  - Why are VCs launching SPACs? Amish Jani of FirstMark shares his firm's rationale
+      <hr/>
+      
+      - *It’s happening slowly but surely. With every passing week, more venture firms are beginning to announce SPACs. The veritable blitz of SPACs formed by investor Chamath Palihapitiya notwithstanding, we’ve now seen a SPAC (or plans for a SPAC) revealed by Ribbit…*
+       
   - Malaysian on-demand work platform GoGet lands $2 million Series A
       <hr/>
-      
-      - *GoGet, a Malaysian on-demand work platform, announced today that it has raised a $2 million Series A led by Monk’s Hill Ventures. The platform currently has 20,000 gig workers, who are called “GoGetters,” and has onboarded 5,000 businesses, including Lazada M…*
-      
-  - OnePlus co-founder Carl Pei leaves the company to start a new venture
-      <hr/>
-      
-      - *Carl Pei, who co-founded the smartphone giant OnePlus in his 20s, is leaving the company, two sources familiar with the matter told TechCrunch. Pei played an instrumental role in designing the OnePlus smartphone lineup over the years, including the recently l…*
-      
-  - Alphabet's latest moonshot is a field-roving, plant-inspecting robo-buggy
-      <hr/>
-      
-      - *Alphabet (you know… Google) has taken the wraps off the latest “moonshot” from its X labs: A robotic buggy that cruises over crops, inspecting each plant individually and, perhaps, generating the kind of “big data” that agriculture needs to keep up with the d…*
        
-  - Walt Disney announces reorganization to focus on streaming
-      <hr/>
-       
-       - *Disney is going all-in on streaming media.  On Monday, the company announced a massive reorganization of its media and entertainment business that will focus on developing productions that will debut on its streaming and broadcast services. Disney’s media bus…*
+       - *GoGet, a Malaysian on-demand work platform, announced today that it has raised a $2 million Series A led by Monk’s Hill Ventures. The platform currently has 20,000 gig workers, who are called “GoGetters,” and has onboarded 5,000 businesses, including Lazada M…*
       
 
 <br />
