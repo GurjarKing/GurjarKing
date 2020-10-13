@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 
-~ Martin Fowler
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Often designers do complicated things that improve the capacity on a particular 
 </pre>
 <strong>Daily News</strong>
   
-  - Snapchat among first to leverage iPhone 12 Pro's LiDAR Scanner for AR
+  - Apple's iPhone 12 Pro camera upgrades sharpen focus on serious photographers
      <hr/>
      
-      - *Apple introduced its latest flagship iPhone models, the iPhone 12 Pro and 12 Pro Max, at its iPhone event on Tuesday. Among other things, the devices sport a new LiDAR Scanner designed to allow for more immersive augmented reality (AR) experiences. Snapchat t…*
+      - *Apple’s iPhone 12 Pro heaps improvements on the already-formidable power of its camera system, adding features that will be prized by “serious” photographers — that is to say, the type who like to really mess around with their shots after the fact. Of course …*
      
+  - Snapchat among first to leverage iPhone 12 Pro's LiDAR Scanner for AR
+      <hr/>
+      
+      - *Apple introduced its latest flagship iPhone models, the iPhone 12 Pro and 12 Pro Max, at its iPhone event on Tuesday. Among other things, the devices sport a new LiDAR Scanner designed to allow for more immersive augmented reality (AR) experiences. Snapchat t…*
+      
   - Apple's stock dips and Verizon's recovers during iPhone event
       <hr/>
       
@@ -73,16 +78,11 @@ Often designers do complicated things that improve the capacity on a particular 
       <hr/>
       
       - *Gone are the days a company like Apple could simply roll out a single flagship handset or two. Consumer demands have evolved quite a bit in the more than 13 years since the company released its first smartphone, and its offerings have had to evolve with it. T…*
-      
+       
   - Apple unveils its flagship 5G phones, the iPhone 12 Pro and Pro Max
       <hr/>
-      
-      - *At Apple’s iPhone event on Tuesday, the company introduced a range of new phones, led by the just-announced flagships: the iPhone 12 Pro, starting at $999, and iPhone 12 Pro Max, starting at $1099. The new 5G-ready devices sport an all-screen Super Retina XDR…*
        
-  - Here's everything Apple announced at its "Hi, Speed" iPhone event today
-      <hr/>
-       
-       - *Just shy of one month after their last event, Apple was back today with another one. Everyone had a pretty good feeling this would be the one where they announced this year’s new iPhone… instead, Apple announced four new iPhones, plus a new HomePod for good m…*
+       - *At Apple’s iPhone event on Tuesday, the company introduced a range of new phones, led by the just-announced flagships: the iPhone 12 Pro, starting at $999, and iPhone 12 Pro Max, starting at $1099. The new 5G-ready devices sport an all-screen Super Retina XDR…*
       
 
 <br />
