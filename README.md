@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Jim Horning
+~ Ted Nelson
 <pre>
 
 </pre>
