@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
 
-~ George Boole
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ That language is an instrument of human reason, and not merely a medium for the 
 </pre>
 <strong>Daily News</strong>
   
-  - Mycons makes it easy to create and buy custom icons for your iOS homescreen
+  - Suspect provenance of Hunter Biden data cache prompts skepticism and social media bans
      <hr/>
      
-      - *A new app called Mycons, launched today, is tapping into the iOS 14 homescreen customization trend by making it easier for anyone, including non-designers, to quickly create their own custom icons, as well as shop premade icon-and-wallpaper packs from designe…*
+      - *A cache of emails and other selected data purportedly from a laptop owned by Hunter Biden were published today by the New York Post. Ordinarily a major leak related to a figure involved in a controversy of Presidential importance would be on every front page …*
      
+  - Mycons makes it easy to create and buy custom icons for your iOS homescreen
+      <hr/>
+      
+      - *A new app called Mycons, launched today, is tapping into the iOS 14 homescreen customization trend by making it easier for anyone, including non-designers, to quickly create their own custom icons, as well as shop premade icon-and-wallpaper packs from designe…*
+      
   - Elon Musk tweets the Model S will be priced at $69,420 because he’s a child
       <hr/>
       
@@ -73,16 +78,11 @@ That language is an instrument of human reason, and not merely a medium for the 
       <hr/>
       
       - *To shutter employment-based visa programs, even temporarily, is to shut out the innovation and entrepreneurialism our economy desperately needs.*
-      
+       
   - Tesla to begin production on 7-seat Model Y in November, with deliveries in early December
       <hr/>
-      
-      - *Elon Musk has shared some updated info about the timeline for the seven-seat version of the Model Y, Tesla’s more affordable electric SUV. The Model Y began deliveries to customers in March of this year in the U.S., but Musk said in June that he anticipated t…*
        
-  - Fall sale: Get 10% off an annual Extra Crunch membership
-      <hr/>
-       
-       - *From now until October 25, TechCrunch readers in the U.S. can save 10% on an annual plan for Extra Crunch. If you aren’t familiar, Extra Crunch is our membership program focused on startups, founders and investors with more than 100 exclusive articles publish…*
+       - *Elon Musk has shared some updated info about the timeline for the seven-seat version of the Model Y, Tesla’s more affordable electric SUV. The Model Y began deliveries to customers in March of this year in the U.S., but Musk said in June that he anticipated t…*
       
 
 <br />
