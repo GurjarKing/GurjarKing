@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Documentation is a love letter that you write to your future self.
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 
-~ Damian Conway
+~ Linus Torvalds
 <pre>
 
 </pre>
