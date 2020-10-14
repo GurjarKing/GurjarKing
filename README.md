@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Even in the games of children there are things to interest the greatest mathematician.
+The entire history of software engineering is that of the rise in levels of abstraction.
 
-~ Gottfried Wilhelm Leibniz
+~ Grady Booch
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Even in the games of children there are things to interest the greatest mathemat
 </pre>
 <strong>Daily News</strong>
   
-  - Dear Sophie: I came on a B-1 visa, then COVID-19 happened. How can I stay?
+  - Virgin Galactic readies first spaceflight from Spaceport America for 'later this this fall'
      <hr/>
      
-      - *I had only planned to stay a couple months, but got stuck. Now my company has some real opportunities to expand. How can I stay and start working?*
+      - *Virgin Galactic is getting ready to fly its first mission to space from its Spaceport America facility in New Mexico. This is the site that the company will use to host all of its commercial flights, and making it to space from this launch locale is crucial t…*
      
-  - True Ventures has $840 million more to invest in nascent and breakout startups
+  - NASA loads 14 companies with $370M for 'tipping point' technologies
       <hr/>
       
-      - *True Ventures, the now 15-year-old firm with offices in Palo Alto, Calif., and San Francisco, is taking the wraps off two new funds this morning: it has closed its seventh early-stage fund with $465 million, and capped its fourth opportunity-type fund — used …*
+      - *NASA has announced more than a third of a billion dollars worth of “Tipping Point” contracts awarded to over a dozen companies pursuing potentially transformative space technologies. The projects range from in-space testing of cryogenic tech to a 4G LTE netwo…*
       
-  - Zoom to start first phase of E2E encryption rollout next week
+  - Sanity, a platform to build and manage content flows on sites, raises $9.3M from Ev Williams, Threshold and more
       <hr/>
       
-      - *Zoom will begin rolling out end-to-end encryption to users of its videoconferencing platform from next week, it said today. The platform, whose fortunes have been supercharged by the pandemic-driven boom in remote working and socializing this year, has been w…*
+      - *There are more than 2 billion websites in existence in the world today, millions of apps, and a growing range of digital screens where people and businesses present constantly changing arrays of information to each other. But all that opportunity also has a f…*
       
-  - OpenView Venture Partners raises $450M for sixth fund, its largest to date
+  - Virgin Orbit aims for December for second attempt at orbital demonstration launch
       <hr/>
       
-      - *This morning OpenView Venture Partners announced that it has closed $450 million for its new, sixth fund. The capital pool is its largest to date, coming in at roughly 50% larger than its preceding fund five. OpenView is based in Boston, but invests globally.…*
+      - *Would-be small satellite launch service provider Virgin Orbit is aiming to redo its key orbital demonstration launch this December, which would be a remarkable turnaround after its attempt in March didn’t manage to reach orbit as the company had hoped. The co…*
        
-  - Toronto will trial automated shuttles from Local Motors in new pilot program
+  - Plenty has raised over $500 million to grow fruits and veggies indoors
       <hr/>
        
-       - *The city of Toronto is going to start operating autonomous shuttles on a trial basis, through an agreement with Local Motors that will see that company’s Olli 2.0 all-electric self-driving shuttle ferry passengers beginning in Spring 2021. The trial is being …*
+       - *Plenty‌ ‌Unlimited‌ has raised $140 million in new funding to build more vertical farms around the U.S. The new funding, which brings the company’s total cash haul to an abundant $500 million, was led by existing investor Softbank Vision Fund also included th…*
       
 
 <br />
