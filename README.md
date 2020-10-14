@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When in doubt, use brute force.
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 
-~ Ken Thompson
+~ Carl Friedrich Gauss
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ When in doubt, use brute force.
 </pre>
 <strong>Daily News</strong>
   
-  - Menlo Micro, a startup bringing semiconductor tech to the humble switch, is ready for its closeup
+  - Engageli comes out of stealth with $14.5M and a new approach to teaching by video remotely
      <hr/>
      
-      - *Sixteen years ago a group of material scientists and engineers at General Electric banded together to reinvent the circuit breaker. Now, Menlo Microsystems, the spinoff commercializing that technology, is ready to bring its revolutionary new switches to marke…*
+      - *Zoom, Microsoft Teams and Google Meet have become standard tools for teachers who have had to run lessons remotely since the start of the Covid-19 pandemic. But they’re not apps necessarily designed for classrooms, and that fact has opened a gap in the market…*
      
+  - Menlo Micro, a startup bringing semiconductor tech to the humble switch, is ready for its closeup
+      <hr/>
+      
+      - *Sixteen years ago a group of material scientists and engineers at General Electric banded together to reinvent the circuit breaker. Now, Menlo Microsystems, the spinoff commercializing that technology, is ready to bring its revolutionary new switches to marke…*
+      
   - Huawei plans to divest budget phone unit Honor: reports
       <hr/>
       
@@ -73,16 +78,11 @@ When in doubt, use brute force.
       <hr/>
       
       - *According to Austrian Startup Monitor, entrepreneurs have founded more than 2,200 startups in Austria since 2008, with the number of tech companies growing 12% per year since then, significantly faster than the 3% growth rate for traditional companies. Home t…*
-      
+       
   - Gillmor Gang: Home Stretch
       <hr/>
-      
-      - *On this edition of the Gillmor Gang, the live recording session was briefly interrupted by a rolling upgrade from Zoom. We’ve been using Zoom to virtualize what we’ve been doing for years with a combination of video switching hardware (Newtek’s TriCaster), a …*
        
-  - Daily Crunch: Apple introduces the iPhone 12
-      <hr/>
-       
-       - *Apple embraces 5G, Facebook Messenger gets better integrated with Instagram and Kahoot raises $215 million. This is your Daily Crunch for October 13, 2020. The big story: Apple introduces the iPhone 12 Apple’s big event today kicked off with the announcement …*
+       - *On this edition of the Gillmor Gang, the live recording session was briefly interrupted by a rolling upgrade from Zoom. We’ve been using Zoom to virtualize what we’ve been doing for years with a combination of video switching hardware (Newtek’s TriCaster), a …*
       
 
 <br />
