@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 
-~ Edsger W. Dijkstra
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Don't blame me for the fact that competent programming will be too difficult for
 </pre>
 <strong>Daily News</strong>
   
-  - Google launches a suite of tech-powered tools for reporters, Journalist Studio
+  - Atlassian Smarts adds machine learning layer across the company's platform of services
      <hr/>
      
-      - *Google is putting A.I. and machine learning technologies into the hands of journalists. The company this morning announced a suite of new tools, Journalist Studio, that will allow reporters to do their work more easily. At launch, the suite includes a host of…*
+      - *Atlassian has been offering collaboration tools, often favored by developers and IT for some time with such stalwarts as Jira for help desk tickets, Confluence to organize your work and BitBucket to organize your development deliverables, but what it lacked w…*
      
-  - Turbo Systems becomes Appify and launches app marketplace
+  - Databricks crossed $350M run rate in Q3, up from $200M one year ago
       <hr/>
       
-      - *When Jen Grant joined Turbo Systems, the no-code mobile application platform, as CEO in March, she came on board just as COVID was shutting down businesses, but she went straight to work and over the last six months she has led two major initiatives that the …*
+      - *The Exchange regularly covers companies as they approach and crest the $100 million revenue mark. Our goal in tracking startups growing at scale is to scout future IPO candidates and better understand the late-stage financing market. Today we’re digging into …*
       
-  - Playbook, a fitness platform that puts creators first, raises $9.3 million
+  - Zoom launches its events platform and marketplace, brings apps to your calls
       <hr/>
       
-      - *Playbook, aiming to be the Patreon of fitness content, has raised an additional $9.3 million in Series A funding from E.ventures, Michael Ovitz, Abstract, Algae Ventures, Porsche Ventures and FJ Labs. The pandemic has hit the personal trainer and fitness indu…*
+      - *Zoom is hosting its virtual Zoomtopia user conference this week. Given the attention the company has received as the de facto standard video meeting service since the start of the pandemic, it’s no surprise that the company is using the event to launch a numb…*
       
-  - Twentyeight Health is a telemedicine company expanding access to women's health and reproductive care
+  - Spotify introduces a new music-and-spoken word format, open to all creators
       <hr/>
       
-      - *New York’s Twentyeight Health is taking the wildly telemedicine services for women’s health popularized by companies like Nurx and bringing them to a patient population that previously hadn’t had access.  The mission to provide women who are Medicaid or under…*
+      - *Spotify today is launching a new feature that combines spoken word audio commentary with music tracks. The new format will allow Spotify to reproduce the radio-like experience of listening to a DJ or a music journalist offering their perspective on the music.…*
        
-  - Dataloop raises $11M Series A round for its AI data management platform
+  - With a new focus on marketing software, NewsCred relaunches as Welcome
       <hr/>
        
-       - *Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million. This includes a $5…*
+       - *The company formerly known as NewsCred has a new name and a new product: Welcome. Co-founder and CEO Shafqat Islam explained that this follows a broader shift in the company’s strategy. While previously known as a content marketing business, Islam said NewsCr…*
       
 
 <br />
