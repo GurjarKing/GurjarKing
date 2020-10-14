@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Gary Kildall
+~ George Boole
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I start with drawing the data structures, and I spend a lot of time thinking abo
 </pre>
 <strong>Daily News</strong>
   
-  - Elon Musk tweets the Model S will be priced at $69,420 because he’s a child
+  - Mycons makes it easy to create and buy custom icons for your iOS homescreen
      <hr/>
      
-      - *The Tesla Model S is about to get a bit less expensive. Tesla CEO and resident meme maker, Elon Musk, just tweeted that the Model S sedan will soon be priced at $69,420. This pricing wasn’t done on a whim and a joint. The price cut is likely in response to Lu…*
+      - *A new app called Mycons, launched today, is tapping into the iOS 14 homescreen customization trend by making it easier for anyone, including non-designers, to quickly create their own custom icons, as well as shop premade icon-and-wallpaper packs from designe…*
      
+  - Elon Musk tweets the Model S will be priced at $69,420 because he’s a child
+      <hr/>
+      
+      - *The Tesla Model S is about to get a bit less expensive. Tesla CEO and resident meme maker, Elon Musk, just tweeted that the Model S sedan will soon be priced at $69,420. This pricing wasn’t done on a whim and a joint. The price cut is likely in response to Lu…*
+      
   - Trump’s latest immigration restrictions are bad news for American workers
       <hr/>
       
@@ -73,16 +78,11 @@ I start with drawing the data structures, and I spend a lot of time thinking abo
       <hr/>
       
       - *Elon Musk has shared some updated info about the timeline for the seven-seat version of the Model Y, Tesla’s more affordable electric SUV. The Model Y began deliveries to customers in March of this year in the U.S., but Musk said in June that he anticipated t…*
-      
+       
   - Fall sale: Get 10% off an annual Extra Crunch membership
       <hr/>
-      
-      - *From now until October 25, TechCrunch readers in the U.S. can save 10% on an annual plan for Extra Crunch. If you aren’t familiar, Extra Crunch is our membership program focused on startups, founders and investors with more than 100 exclusive articles publish…*
        
-  - Microsoft reverse engineers a budget computer with the Surface Laptop Go
-      <hr/>
-       
-       - *The Surface Laptop Go joined me in the woods last week. It lived in my backpack for a few days and came along for a 20-mile hike through footpaths and across bridges of questionable integrity. It is, without a doubt, light. It’s certainly lighter than the Mac…*
+       - *From now until October 25, TechCrunch readers in the U.S. can save 10% on an annual plan for Extra Crunch. If you aren’t familiar, Extra Crunch is our membership program focused on startups, founders and investors with more than 100 exclusive articles publish…*
       
 
 <br />
