@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+What I cannot build, I do not understand.
 
-~ Carl Friedrich Gauss
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I am never satisfied until I have said as much as possible in a few words, and w
 </pre>
 <strong>Daily News</strong>
   
-  - Engageli comes out of stealth with $14.5M and a new approach to teaching by video remotely
+  - Augury taps $55M for tech that predicts machine faults from vibration, sound and temperature
      <hr/>
      
-      - *Zoom, Microsoft Teams and Google Meet have become standard tools for teachers who have had to run lessons remotely since the start of the Covid-19 pandemic. But they’re not apps necessarily designed for classrooms, and that fact has opened a gap in the market…*
+      - *On the heels of Amazon about to launch a new enterprise service to detect whether a machine is working well or not based on external physical changes in sound, vibration and temperature, a startup that has already built a big business in the space is announci…*
      
-  - Menlo Micro, a startup bringing semiconductor tech to the humble switch, is ready for its closeup
+  - Lead Edge Capital just closed on $950 million from a whopping 500 investors
       <hr/>
       
-      - *Sixteen years ago a group of material scientists and engineers at General Electric banded together to reinvent the circuit breaker. Now, Menlo Microsystems, the spinoff commercializing that technology, is ready to bring its revolutionary new switches to marke…*
+      - *Lead Edge Capital, a software-focused venture firm with one office in New York and another in California, was founded just 11 years ago. Yet it’s already managing $3  billion in assets through a process that founder Mitchell Green half-kiddingly refers to as …*
       
-  - Huawei plans to divest budget phone unit Honor: reports
+  - Coa wants to bring an emotional workout into your fitness regimen
       <hr/>
       
-      - *Besieged by U.S. tech sanctions, Huawei may be looking to shake up its smartphone business that has taken a hit after losing core semiconductor parts and software services. The Chinese giant is in talks with Digital China Group to sell parts of Honor, its low…*
+      - *When’s the last time you worked out your soul? A mid-spin pep talk at SoulCycle might make you shed a tear, but not in the way that the co-founders of Coa, Alexa Meyer and Dr. Emily Anhalt, want. The founders, instead, want people to ask themselves: When was …*
       
-  - As investors and founders mature, Vienna emerges as a European startup hub
+  - Latest Space Station crew docks in record time following successful launch
       <hr/>
       
-      - *According to Austrian Startup Monitor, entrepreneurs have founded more than 2,200 startups in Austria since 2008, with the number of tech companies growing 12% per year since then, significantly faster than the 3% growth rate for traditional companies. Home t…*
+      - *Typically, there’s a bit of a delay between when astronauts launch from Earth to the International Space Station, and when they actually dock with the orbital lab. This has to do with the relative orbits of the launch spacecraft and the ISS, as well as their …*
        
-  - Gillmor Gang: Home Stretch
+  - Engageli comes out of stealth with $14.5M and a new approach to teaching by video remotely
       <hr/>
        
-       - *On this edition of the Gillmor Gang, the live recording session was briefly interrupted by a rolling upgrade from Zoom. We’ve been using Zoom to virtualize what we’ve been doing for years with a combination of video switching hardware (Newtek’s TriCaster), a …*
+       - *Zoom, Microsoft Teams and Google Meet have become standard tools for teachers who have had to run lessons remotely since the start of the Covid-19 pandemic. But they’re not apps necessarily designed for classrooms, and that fact has opened a gap in the market…*
       
 
 <br />
