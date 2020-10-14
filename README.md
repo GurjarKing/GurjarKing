@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Everything should be made as simple as possible. But to do that you have to master complexity.
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 
-~ Butler Lampson
+~ Jim Horning
 <pre>
 
 </pre>
