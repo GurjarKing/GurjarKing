@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+Even in the games of children there are things to interest the greatest mathematician.
 
-~ Danny Hillis
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The computer is not just an advanced calculator or camera or paintbrush; rather,
 </pre>
 <strong>Daily News</strong>
   
-  - OpenView Venture Partners raises $450M for sixth fund, its largest to date
+  - Dear Sophie: I came on a B-1 visa, then COVID-19 happened. How can I stay?
      <hr/>
      
-      - *This morning OpenView Venture Partners announced that it has closed $450 million for its new, sixth fund. The capital pool is its largest to date, coming in at roughly 50% larger than its preceding fund five. OpenView is based in Boston, but invests globally.…*
+      - *I had only planned to stay a couple months, but got stuck. Now my company has some real opportunities to expand. How can I stay and start working?*
      
+  - True Ventures has $840 million more to invest in nascent and breakout startups
+      <hr/>
+      
+      - *True Ventures, the now 15-year-old firm with offices in Palo Alto, Calif., and San Francisco, is taking the wraps off two new funds this morning: it has closed its seventh early-stage fund with $465 million, and capped its fourth opportunity-type fund — used …*
+      
+  - Zoom to start first phase of E2E encryption rollout next week
+      <hr/>
+      
+      - *Zoom will begin rolling out end-to-end encryption to users of its videoconferencing platform from next week, it said today. The platform, whose fortunes have been supercharged by the pandemic-driven boom in remote working and socializing this year, has been w…*
+      
+  - OpenView Venture Partners raises $450M for sixth fund, its largest to date
+      <hr/>
+      
+      - *This morning OpenView Venture Partners announced that it has closed $450 million for its new, sixth fund. The capital pool is its largest to date, coming in at roughly 50% larger than its preceding fund five. OpenView is based in Boston, but invests globally.…*
+       
   - Toronto will trial automated shuttles from Local Motors in new pilot program
       <hr/>
-      
-      - *The city of Toronto is going to start operating autonomous shuttles on a trial basis, through an agreement with Local Motors that will see that company’s Olli 2.0 all-electric self-driving shuttle ferry passengers beginning in Spring 2021. The trial is being …*
-      
-  - M1 Finance closes $45M Series C mere months after it raised its $33M Series B
-      <hr/>
-      
-      - *Just months after it announced a $33 million Series B, Chicago-based M1 Finance today disclosed a $45 Series C. The new financing event was led by Left Lane Capital, the same investor that led M1’s Series B. Bear in mind that so-called inside rounds are now a…*
-      
-  - Lucid reveals the price of its base Air sedan -- $77,400 minus $7,500 US tax credit
-      <hr/>
-      
-      - *Electric car company Lucid finally revealed the price of its least expensive vehicle and it will start at $77,400. US buyers also qualify for a $7,500 tax credit making the vehicle eventually cost $69,900. This version of the Lucid Air comes rightfully less e…*
        
-  - Atlassian Smarts adds machine learning layer across the company's platform of services
-      <hr/>
-       
-       - *Atlassian has been offering collaboration tools, often favored by developers and IT for some time with such stalwarts as Jira for help desk tickets, Confluence to organize your work and BitBucket to organize your development deliverables, but what it lacked w…*
+       - *The city of Toronto is going to start operating autonomous shuttles on a trial basis, through an agreement with Local Motors that will see that company’s Olli 2.0 all-electric self-driving shuttle ferry passengers beginning in Spring 2021. The trial is being …*
       
 
 <br />
