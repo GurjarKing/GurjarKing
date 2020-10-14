@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
 
-~ Richard Feynman
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Computer science differs from physics in that it is not actually a science. It d
 </pre>
 <strong>Daily News</strong>
   
-  - Atlassian Smarts adds machine learning layer across the company's platform of services
+  - OpenView Venture Partners raises $450M for sixth fund, its largest to date
      <hr/>
      
-      - *Atlassian has been offering collaboration tools, often favored by developers and IT for some time with such stalwarts as Jira for help desk tickets, Confluence to organize your work and BitBucket to organize your development deliverables, but what it lacked w…*
+      - *This morning OpenView Venture Partners announced that it has closed $450 million for its new, sixth fund. The capital pool is its largest to date, coming in at roughly 50% larger than its preceding fund five. OpenView is based in Boston, but invests globally.…*
      
-  - Databricks crossed $350M run rate in Q3, up from $200M one year ago
+  - Toronto will trial automated shuttles from Local Motors in new pilot program
       <hr/>
       
-      - *The Exchange regularly covers companies as they approach and crest the $100 million revenue mark. Our goal in tracking startups growing at scale is to scout future IPO candidates and better understand the late-stage financing market. Today we’re digging into …*
+      - *The city of Toronto is going to start operating autonomous shuttles on a trial basis, through an agreement with Local Motors that will see that company’s Olli 2.0 all-electric self-driving shuttle ferry passengers beginning in Spring 2021. The trial is being …*
       
-  - Zoom launches its events platform and marketplace, brings apps to your calls
+  - M1 Finance closes $45M Series C mere months after it raised its $33M Series B
       <hr/>
       
-      - *Zoom is hosting its virtual Zoomtopia user conference this week. Given the attention the company has received as the de facto standard video meeting service since the start of the pandemic, it’s no surprise that the company is using the event to launch a numb…*
+      - *Just months after it announced a $33 million Series B, Chicago-based M1 Finance today disclosed a $45 Series C. The new financing event was led by Left Lane Capital, the same investor that led M1’s Series B. Bear in mind that so-called inside rounds are now a…*
       
-  - Spotify introduces a new music-and-spoken word format, open to all creators
+  - Lucid reveals the price of its base Air sedan -- $77,400 minus $7,500 US tax credit
       <hr/>
       
-      - *Spotify today is launching a new feature that combines spoken word audio commentary with music tracks. The new format will allow Spotify to reproduce the radio-like experience of listening to a DJ or a music journalist offering their perspective on the music.…*
+      - *Electric car company Lucid finally revealed the price of its least expensive vehicle and it will start at $77,400. US buyers also qualify for a $7,500 tax credit making the vehicle eventually cost $69,900. This version of the Lucid Air comes rightfully less e…*
        
-  - With a new focus on marketing software, NewsCred relaunches as Welcome
+  - Atlassian Smarts adds machine learning layer across the company's platform of services
       <hr/>
        
-       - *The company formerly known as NewsCred has a new name and a new product: Welcome. Co-founder and CEO Shafqat Islam explained that this follows a broader shift in the company’s strategy. While previously known as a content marketing business, Islam said NewsCr…*
+       - *Atlassian has been offering collaboration tools, often favored by developers and IT for some time with such stalwarts as Jira for help desk tickets, Confluence to organize your work and BitBucket to organize your development deliverables, but what it lacked w…*
       
 
 <br />
