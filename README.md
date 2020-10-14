@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The entire history of software engineering is that of the rise in levels of abstraction.
+Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 
-~ Grady Booch
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The entire history of software engineering is that of the rise in levels of abst
 </pre>
 <strong>Daily News</strong>
   
-  - Virgin Galactic readies first spaceflight from Spaceport America for 'later this this fall'
+  - Microsoft reverse engineers a budget computer with the Surface Laptop Go
      <hr/>
      
-      - *Virgin Galactic is getting ready to fly its first mission to space from its Spaceport America facility in New Mexico. This is the site that the company will use to host all of its commercial flights, and making it to space from this launch locale is crucial t…*
+      - *The Surface Laptop Go joined me in the woods last week. It lived in my backpack for a few days and came along for a 20-mile hike through footpaths and across bridges of questionable integrity. It is, without a doubt, light. It’s certainly lighter than the Mac…*
      
+  - Virgin Galactic readies first spaceflight from Spaceport America for 'later this this fall'
+      <hr/>
+      
+      - *Virgin Galactic is getting ready to fly its first mission to space from its Spaceport America facility in New Mexico. This is the site that the company will use to host all of its commercial flights, and making it to space from this launch locale is crucial t…*
+      
   - NASA loads 14 companies with $370M for 'tipping point' technologies
       <hr/>
       
@@ -73,16 +78,11 @@ The entire history of software engineering is that of the rise in levels of abst
       <hr/>
       
       - *There are more than 2 billion websites in existence in the world today, millions of apps, and a growing range of digital screens where people and businesses present constantly changing arrays of information to each other. But all that opportunity also has a f…*
-      
+       
   - Virgin Orbit aims for December for second attempt at orbital demonstration launch
       <hr/>
-      
-      - *Would-be small satellite launch service provider Virgin Orbit is aiming to redo its key orbital demonstration launch this December, which would be a remarkable turnaround after its attempt in March didn’t manage to reach orbit as the company had hoped. The co…*
        
-  - Plenty has raised over $500 million to grow fruits and veggies indoors
-      <hr/>
-       
-       - *Plenty‌ ‌Unlimited‌ has raised $140 million in new funding to build more vertical farms around the U.S. The new funding, which brings the company’s total cash haul to an abundant $500 million, was led by existing investor Softbank Vision Fund also included th…*
+       - *Would-be small satellite launch service provider Virgin Orbit is aiming to redo its key orbital demonstration launch this December, which would be a remarkable turnaround after its attempt in March didn’t manage to reach orbit as the company had hoped. The co…*
       
 
 <br />
