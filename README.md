@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Compatibility means deliberately repeating other people’s mistakes.
+Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
 
-~ David Wheeler (computer scientist)
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Compatibility means deliberately repeating other people’s mistakes.
 </pre>
 <strong>Daily News</strong>
   
-  - Dataloop raises $11M Series A round for its AI data management platform
+  - Google launches a suite of tech-powered tools for reporters, Journalist Studio
      <hr/>
      
-      - *Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million. This includes a $5…*
+      - *Google is putting A.I. and machine learning technologies into the hands of journalists. The company this morning announced a suite of new tools, Journalist Studio, that will allow reporters to do their work more easily. At launch, the suite includes a host of…*
      
-  - Getaround raises a $140 million Series E amid rebound in short-distance travel
+  - Turbo Systems becomes Appify and launches app marketplace
       <hr/>
       
-      - *Amid a rebound in short-distance travel, Getaround, a Silicon Valley car rental startup, has raised some new money to meet demand. The startup, which allows customers to instantly rent cars near them in over 100 cities, announced today that it has raised $140…*
+      - *When Jen Grant joined Turbo Systems, the no-code mobile application platform, as CEO in March, she came on board just as COVID was shutting down businesses, but she went straight to work and over the last six months she has led two major initiatives that the …*
       
-  - Vivun announces $18M Series A to keep growing pre-sales platform
+  - Playbook, a fitness platform that puts creators first, raises $9.3 million
       <hr/>
       
-      - *Vivun’s co-founder and CEO, Matt Darrow used to run pre-sales at Zuora and he saw that pre-sales team members had a lot of insight into customers. He believed if he could capture that insight, it would turn into valuable data to be shared across the company. …*
+      - *Playbook, aiming to be the Patreon of fitness content, has raised an additional $9.3 million in Series A funding from E.ventures, Michael Ovitz, Abstract, Algae Ventures, Porsche Ventures and FJ Labs. The pandemic has hit the personal trainer and fitness indu…*
       
-  - Frontegg raises $5M to help SaaS companies build SaaS faster
+  - Twentyeight Health is a telemedicine company expanding access to women's health and reproductive care
       <hr/>
       
-      - *Frontegg, a Tel Aviv-based startup that helps SaaS companies build their products faster by giving them access to a set of enterprise-ready building blocks for often-used features like authentication and notifications, today announced that it has raised a $5 …*
+      - *New York’s Twentyeight Health is taking the wildly telemedicine services for women’s health popularized by companies like Nurx and bringing them to a patient population that previously hadn’t had access.  The mission to provide women who are Medicaid or under…*
        
-  - Lab-grown meat project gets first taste of EU public funds
+  - Dataloop raises $11M Series A round for its AI data management platform
       <hr/>
        
-       - *A cultured meat research program led by a Spanish biotech firm has been awarded a €2.7M grant under the European Union’s Horizon 2020 R&D funding framework. The consortium project, called ‘Meat4All’, says it’s the first lab-grown meat research effort to get p…*
+       - *Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million. This includes a $5…*
       
 
 <br />
