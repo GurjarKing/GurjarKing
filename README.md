@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What I cannot build, I do not understand.
+Compatibility means deliberately repeating other people’s mistakes.
 
-~ Richard Feynman
+~ David Wheeler (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ What I cannot build, I do not understand.
 </pre>
 <strong>Daily News</strong>
   
-  - Augury taps $55M for tech that predicts machine faults from vibration, sound and temperature
+  - Dataloop raises $11M Series A round for its AI data management platform
      <hr/>
      
-      - *On the heels of Amazon about to launch a new enterprise service to detect whether a machine is working well or not based on external physical changes in sound, vibration and temperature, a startup that has already built a big business in the space is announci…*
+      - *Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million. This includes a $5…*
      
-  - Lead Edge Capital just closed on $950 million from a whopping 500 investors
+  - Getaround raises a $140 million Series E amid rebound in short-distance travel
       <hr/>
       
-      - *Lead Edge Capital, a software-focused venture firm with one office in New York and another in California, was founded just 11 years ago. Yet it’s already managing $3  billion in assets through a process that founder Mitchell Green half-kiddingly refers to as …*
+      - *Amid a rebound in short-distance travel, Getaround, a Silicon Valley car rental startup, has raised some new money to meet demand. The startup, which allows customers to instantly rent cars near them in over 100 cities, announced today that it has raised $140…*
       
-  - Coa wants to bring an emotional workout into your fitness regimen
+  - Vivun announces $18M Series A to keep growing pre-sales platform
       <hr/>
       
-      - *When’s the last time you worked out your soul? A mid-spin pep talk at SoulCycle might make you shed a tear, but not in the way that the co-founders of Coa, Alexa Meyer and Dr. Emily Anhalt, want. The founders, instead, want people to ask themselves: When was …*
+      - *Vivun’s co-founder and CEO, Matt Darrow used to run pre-sales at Zuora and he saw that pre-sales team members had a lot of insight into customers. He believed if he could capture that insight, it would turn into valuable data to be shared across the company. …*
       
-  - Latest Space Station crew docks in record time following successful launch
+  - Frontegg raises $5M to help SaaS companies build SaaS faster
       <hr/>
       
-      - *Typically, there’s a bit of a delay between when astronauts launch from Earth to the International Space Station, and when they actually dock with the orbital lab. This has to do with the relative orbits of the launch spacecraft and the ISS, as well as their …*
+      - *Frontegg, a Tel Aviv-based startup that helps SaaS companies build their products faster by giving them access to a set of enterprise-ready building blocks for often-used features like authentication and notifications, today announced that it has raised a $5 …*
        
-  - Engageli comes out of stealth with $14.5M and a new approach to teaching by video remotely
+  - Lab-grown meat project gets first taste of EU public funds
       <hr/>
        
-       - *Zoom, Microsoft Teams and Google Meet have become standard tools for teachers who have had to run lessons remotely since the start of the Covid-19 pandemic. But they’re not apps necessarily designed for classrooms, and that fact has opened a gap in the market…*
+       - *A cultured meat research program led by a Spanish biotech firm has been awarded a €2.7M grant under the European Union’s Horizon 2020 R&D funding framework. The consortium project, called ‘Meat4All’, says it’s the first lab-grown meat research effort to get p…*
       
 
 <br />
