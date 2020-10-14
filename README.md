@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Adding manpower to a late software project makes it later.
+Everything should be made as simple as possible. But to do that you have to master complexity.
 
-~ Fred Brooks
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Adding manpower to a late software project makes it later.
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Home Stretch
+  - As investors and founders mature, Vienna emerges as a European startup hub
      <hr/>
      
-      - *On this edition of the Gillmor Gang, the live recording session was briefly interrupted by a rolling upgrade from Zoom. We’ve been using Zoom to virtualize what we’ve been doing for years with a combination of video switching hardware (Newtek’s TriCaster), a …*
+      - *According to Austrian Startup Monitor, entrepreneurs have founded more than 2,200 startups in Austria since 2008, with the number of tech companies growing 12% per year since then, significantly faster than the 3% growth rate for traditional companies. Home t…*
      
+  - Gillmor Gang: Home Stretch
+      <hr/>
+      
+      - *On this edition of the Gillmor Gang, the live recording session was briefly interrupted by a rolling upgrade from Zoom. We’ve been using Zoom to virtualize what we’ve been doing for years with a combination of video switching hardware (Newtek’s TriCaster), a …*
+      
   - Daily Crunch: Apple introduces the iPhone 12
       <hr/>
       
@@ -73,16 +78,11 @@ Adding manpower to a late software project makes it later.
       <hr/>
       
       - *PopSockets will support Apple’s MagSafe technology, TechCrunch has confirmed — meaning you’ll soon be able to pop on and off these ubiquitous iPhone accessories without worrying about the sticker on the back losing its adhesiveness over time and needing a rin…*
-      
+       
   - Discuss the unbundling of early-stage VC with Unusual Ventures' Sarah Leary & John Vrionis
       <hr/>
-      
-      - *This year has been everything but business as usual for the venture and tech community. And we still have a presidential election ahead of us. So, why not listen to the aptly-named experts over at Unusual Ventures? Partners Sarah Leary (co-founder of Nextdoor…*
        
-  - Two Screens For Teachers will outfit all educators in Seattle Public Schools with a second monitor
-      <hr/>
-       
-       - *The admirable effort Two Screens For Teachers, which as you may guess is about getting teachers a second screen to use at home, has put together enough funds to get every educator in the Seattle Public School system a new monitor who needs one. They’re hoping…*
+       - *This year has been everything but business as usual for the venture and tech community. And we still have a presidential election ahead of us. So, why not listen to the aptly-named experts over at Unusual Ventures? Partners Sarah Leary (co-founder of Nextdoor…*
       
 
 <br />
