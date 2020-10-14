@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
 
-~ L. Peter Deutsch
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I would make a strong case that programming languages have not improved qualitat
 </pre>
 <strong>Daily News</strong>
   
-  - Suspect provenance of Hunter Biden data cache prompts skepticism and social media bans
+  - Brighteye Ventures sees $54M first close of its second fund to back edtech startups in Europe
      <hr/>
      
-      - *A cache of emails and other selected data purportedly from a laptop owned by Hunter Biden were published today by the New York Post. Ordinarily a major leak related to a figure involved in a controversy of Presidential importance would be on every front page …*
+      - *Brighteye Ventures, the European edtech VC firm, is announcing the $54 million first close of its second fund, bringing total assets under management to over $112 million. Backing comes from a mixture of existing and new investors, made up primarily of unname…*
      
-  - Mycons makes it easy to create and buy custom icons for your iOS homescreen
+  - Daily Crunch: Zoom launches its events marketplace
       <hr/>
       
-      - *A new app called Mycons, launched today, is tapping into the iOS 14 homescreen customization trend by making it easier for anyone, including non-designers, to quickly create their own custom icons, as well as shop premade icon-and-wallpaper packs from designe…*
+      - *Zoom has a new marketplace and new integrations, Spotify gets a new format and we review Microsoft’s Surface Laptop Go. This is your Daily Crunch for October 14, 2020. The big story: Zoom launches its events marketplace Zoom’s new OnZoom marketplace allows an…*
       
-  - Elon Musk tweets the Model S will be priced at $69,420 because he’s a child
+  - The Wing co-founder admits the coworking space upheld 'the kind of social inequality we set out to upend'
       <hr/>
       
-      - *The Tesla Model S is about to get a bit less expensive. Tesla CEO and resident meme maker, Elon Musk, just tweeted that the Model S sedan will soon be priced at $69,420. This pricing wasn’t done on a whim and a joint. The price cut is likely in response to Lu…*
+      - *Audrey Gelman, the former CEO of The Wing who resigned in June, today posted a letter she sent to former employees of The Wing last week. In it, Gelman apologized for not taking action to combat mistreatment of women of color at The Wing. She also acknowledge…*
       
-  - Trump’s latest immigration restrictions are bad news for American workers
+  - Google keeps it simple with the Pixel 5
       <hr/>
       
-      - *To shutter employment-based visa programs, even temporarily, is to shut out the innovation and entrepreneurialism our economy desperately needs.*
+      - *I’m going to be totally honest with you. I don’t really understand Google’s phone strategy right now. And for what it’s worth, I’m not really sure Google does either. I wrote about it here, but I’ll save you from having to read an additional 800 words on top …*
        
-  - Tesla to begin production on 7-seat Model Y in November, with deliveries in early December
+  - Suspect provenance of Hunter Biden data cache prompts skepticism and social media bans
       <hr/>
        
-       - *Elon Musk has shared some updated info about the timeline for the seven-seat version of the Model Y, Tesla’s more affordable electric SUV. The Model Y began deliveries to customers in March of this year in the U.S., but Musk said in June that he anticipated t…*
+       - *A cache of emails and other selected data purportedly from a laptop owned by Hunter Biden were published today by the New York Post. Ordinarily a major leak related to a figure involved in a controversy of Presidential importance would be on every front page …*
       
 
 <br />
