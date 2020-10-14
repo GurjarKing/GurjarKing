@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-~ Linus Torvalds
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Really, I'm not out to destroy Microsoft. That will just be a completely uninten
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Apple introduces the iPhone 12
+  - Gillmor Gang: Home Stretch
      <hr/>
      
-      - *Apple embraces 5G, Facebook Messenger gets better integrated with Instagram and Kahoot raises $215 million. This is your Daily Crunch for October 13, 2020. The big story: Apple introduces the iPhone 12 Apple’s big event today kicked off with the announcement …*
+      - *On this edition of the Gillmor Gang, the live recording session was briefly interrupted by a rolling upgrade from Zoom. We’ve been using Zoom to virtualize what we’ve been doing for years with a combination of video switching hardware (Newtek’s TriCaster), a …*
      
+  - Daily Crunch: Apple introduces the iPhone 12
+      <hr/>
+      
+      - *Apple embraces 5G, Facebook Messenger gets better integrated with Instagram and Kahoot raises $215 million. This is your Daily Crunch for October 13, 2020. The big story: Apple introduces the iPhone 12 Apple’s big event today kicked off with the announcement …*
+      
   - PopSockets is working on MagSafe-compatible iPhone accessories
       <hr/>
       
@@ -73,16 +78,11 @@ Really, I'm not out to destroy Microsoft. That will just be a completely uninten
       <hr/>
       
       - *This year has been everything but business as usual for the venture and tech community. And we still have a presidential election ahead of us. So, why not listen to the aptly-named experts over at Unusual Ventures? Partners Sarah Leary (co-founder of Nextdoor…*
-      
+       
   - Two Screens For Teachers will outfit all educators in Seattle Public Schools with a second monitor
       <hr/>
-      
-      - *The admirable effort Two Screens For Teachers, which as you may guess is about getting teachers a second screen to use at home, has put together enough funds to get every educator in the Seattle Public School system a new monitor who needs one. They’re hoping…*
        
-  - Apple's iPhone 12 Pro camera upgrades sharpen focus on serious photographers
-      <hr/>
-       
-       - *Apple’s iPhone 12 Pro heaps improvements on the already-formidable power of its camera system, adding features that will be prized by “serious” photographers — that is to say, the type who like to really mess around with their shots after the fact. Of course …*
+       - *The admirable effort Two Screens For Teachers, which as you may guess is about getting teachers a second screen to use at home, has put together enough funds to get every educator in the Seattle Public School system a new monitor who needs one. They’re hoping…*
       
 
 <br />
