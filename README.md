@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+Documentation is a love letter that you write to your future self.
 
-~ Tom DeMarco
+~ Damian Conway
 <pre>
 
 </pre>
