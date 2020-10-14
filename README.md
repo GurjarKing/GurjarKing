@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 
-~ Ted Nelson
+~ Tim Berners-Lee
 <pre>
 
 </pre>
