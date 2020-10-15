@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ L. Peter Deutsch
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I never in my wildest dreams would have predicted the evolution of the Internet.
 </pre>
 <strong>Daily News</strong>
   
-  - Duplex, Google's conversational A.I, has updated 3M+ business listings since pandemic
+  - Startup founders set up hacker homes to recreate Silicon Valley synergy
      <hr/>
      
-      - *Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing, for example. When the pandemic b…*
+      - *“We joke that we’ve got so many people in the house that have different pieces of expertise that you just yell down the hallway if you have a problem."*
      
+  - Duplex, Google's conversational A.I, has updated 3M+ business listings since pandemic
+      <hr/>
+      
+      - *Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing, for example. When the pandemic b…*
+      
   - With 'absurd' timing, FCC announces intention to revisit Section 230
       <hr/>
       
@@ -73,16 +78,11 @@ I never in my wildest dreams would have predicted the evolution of the Internet.
       <hr/>
       
       - *Google has added a new feature that lets you figure out what song is stuck in your head by humming, whistling or singing – a much more useful version of the kind of song-matching audio feature that it and competitors like Apple’s Shazam have offered previousl…*
-      
+       
   - Audio learning startup Knowable switches to a $9.99-per-month subscription model
       <hr/>
-      
-      - *Knowable, the Andreessen Horowitz-backed startup focused on audio learning, is switching business models. When the company launched last year, it charged users on a per-class basis. Starting today, it’s shifting entirely to a subscription model, where listene…*
        
-  - Google launches a slew of Search updates
-      <hr/>
-       
-       - *Google today announced a number of improvements to its core search engine, with a strong focus on how the company is using AI to help its users. These include the ability to better answer questions with very specific answers, very broad questions and a new al…*
+       - *Knowable, the Andreessen Horowitz-backed startup focused on audio learning, is switching business models. When the company launched last year, it charged users on a per-class basis. Starting today, it’s shifting entirely to a subscription model, where listene…*
       
 
 <br />
