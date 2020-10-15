@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Never trust a computer you can’t throw out a window.
+Much of the essence of building a program is in fact the debugging of the specification.
 
-~ Steve Wozniak
+~ Fred Brooks
 <pre>
 
 </pre>
