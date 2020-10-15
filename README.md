@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 
-~ Anonymous
+~ David Gelernter
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ You can have the project: Done On Time. Done On Budget. Done Properly - Pick two
 </pre>
 <strong>Daily News</strong>
   
-  - Popmenu earns raves from investors for its marketing and delivery software for restaurants
+  - Snapchat launches its TikTok rival, Sounds on Snapchat
      <hr/>
      
-      - *Brendan Sweeney didn’t know anything about the restaurant business before he and his co-founders launched the Atlanta-based startup Popmenu. What Sweeney did know was that it was nuts that while every other business was using incredible graphics, curated text…*
+      - *Snapchat this summer announced it would soon release a new music-powered feature that would allow users to set their Snaps to music. Today, the company made good on that promise with the launch of “Sounds on Snapchat” on iOS, a feature that lets users enhance…*
      
-  - Mario Kart Live: Home Circuit Review
+  - River, the latest venture from Wander founder Jeremy Fisher, launches with $10.4 million in funding
       <hr/>
       
-      - *Nintendo’s new RC Mario Kart looks terrific*
+      - *River, the latest venture from Wander founder Jeremy Fisher, has today announced the close of a $10.4 million funding round from Founders Fund, .406, BoxGroup, Josh Kushner and Scooter Braun. River is meant to rethink the way we consume content across the int…*
       
-  - Stripe acquires Nigeria's Paystack for $200M+ to expand into the African continent
+  - Application security platform NeuraLegion raises $4.7 million seed led by DNX Ventures
       <hr/>
       
-      - *When Stripe announced earlier this year that it had picked up another $600 million in funding, it said one big reason for the funding was to expand its API-based payments services into more geographies. Today the company is coming good on that plan in the for…*
+      - *Application security platform NeuraLegion announced today it has raised a $4.7 million seed round led by DNX Ventures, an enterprise-focused investment firm. The funding included participation from Fusion Fund, J-Ventures and Incubate Fund. The startup also a…*
       
-  - Uber is hiring hundreds of engineers in India to cut costs
+  - Spain's Savana Medica raises $15 million to bring its AI toolkit turning clinical notes into care insights to the US
       <hr/>
       
-      - *Uber said on Thursday it is working to hire 225 engineers in India, strengthening its tech team in the key overseas market months after it eliminated thousands of jobs globally. The ride-hailing firm, which competes with Ola in India, said today it has hired …*
+      - *Savana, a machine learning-based service that turns clinical notes into structured patient information for physicians and pharmacists, has raised $15 million to take its technology from Spain to the U.S., the company said. The investment was led by Cathay Inn…*
        
-  - Alibaba-affiliated marketplace to leave Taiwan, again
+  - France and the Netherlands signal support for EU body to clip the wings of big tech
       <hr/>
        
-       - *Separated by a strait, the internet in Taiwan and mainland China are two different worlds. Even mainland tech giants Alibaba and Tencent have had little success entering the island, often running into regulatory hurdles. Less than a year after Taobao launched…*
+       - *The French and Dutch governments have signalled support for EU rules that can proactively intervene against so-called gatekeepers, aka “structuring platforms” or “large digital platforms with significant network effects acting as gatekeepers” — or, more collo…*
       
 
 <br />
