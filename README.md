@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Documentation is a love letter that you write to your future self.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Damian Conway
+~ Seymour Cray
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Documentation is a love letter that you write to your future self.
 </pre>
 <strong>Daily News</strong>
   
-  - Rosita Longevity wants to teach seniors how to live long, healthy lives
+  - WizVille Local Monitor helps small shops track Google Maps ratings of competitors
      <hr/>
      
-      - *Longevity, as far as startups are concerned, tends to be a moonshot-y space where technologies like biotech and AI are experimentally applied in a sort of modern day alchemical quest — and the great hope is to (somehow) ‘hack’ biology and substantially extend…*
+      - *French startup WizVille is launching a new product called Local Monitor to help restaurant owners, haircut places, bakeries and all kinds of small shops track their Google Maps ratings and the ratings of their competitors. While there are plenty of ratings se…*
      
+  - Rosita Longevity wants to teach seniors how to live long, healthy lives
+      <hr/>
+      
+      - *Longevity, as far as startups are concerned, tends to be a moonshot-y space where technologies like biotech and AI are experimentally applied in a sort of modern day alchemical quest — and the great hope is to (somehow) ‘hack’ biology and substantially extend…*
+      
   - Gogoro's Eeyo 1s e-bike goes on sale in France, its first European market
       <hr/>
       
@@ -73,16 +78,11 @@ Documentation is a love letter that you write to your future self.
       <hr/>
       
       - *A pitch to offer artists a way to give geo-fenced, live events to fans around the world has brought the new Los Angeles startup Moment House $1.5 million in seed funding. The money came from heavy hitters in the Los Angeles entertainment and investment scene …*
-      
+       
   - Khosla Ventures seeks $1.1 billion for its latest fund
       <hr/>
-      
-      - *Khosla Ventures, the eponymous venture firm helmed by longtime Silicon Valley rainmaker, Vinod Khosla, is raising  $1.1 billion for its latest venture fund, according to documents from the Securities and Exchange Commission. The filing was first spotted by Ar…*
        
-  - Brighteye Ventures sees $54M first close of its second fund to back edtech startups in Europe
-      <hr/>
-       
-       - *Brighteye Ventures, the European edtech VC firm, is announcing the $54 million first close of its second fund, bringing total assets under management to over $112 million. Backing comes from a mixture of existing and new investors, made up primarily of unname…*
+       - *Khosla Ventures, the eponymous venture firm helmed by longtime Silicon Valley rainmaker, Vinod Khosla, is raising  $1.1 billion for its latest venture fund, according to documents from the Securities and Exchange Commission. The filing was first spotted by Ar…*
       
 
 <br />
