@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-~ Fred Brooks
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
 </pre>
 <strong>Daily News</strong>
   
-  - Startup founders set up hacker homes to recreate Silicon Valley synergy
+  - Twitter is investigating widespread outage reports
      <hr/>
      
-      - *“We joke that we’ve got so many people in the house that have different pieces of expertise that you just yell down the hallway if you have a problem."*
+      - *If you’re reading this, you probably didn’t get here from Twitter . The service has been experiencing widespread reports of outages for at least an hour. The issue has impact a range of different activities on the site, ranging from newsfeeds to the ability t…*
      
+  - B&O’s BeoPlay H4 headphones offer great looks and comfort, but no noise canceling
+      <hr/>
+      
+      - *It’s easy to be smitten with the H4 at first sight. They’re a great-looking pair of headphones — one of the best I’ve seen. They sport a simple, streamlined design that feels both like an homage to older models, but modern enough to avoid the nostalgia trap. …*
+      
+  - Daily Crunch: Stripe acquires Nigeria's Paystack
+      <hr/>
+      
+      - *Stripe makes a big acquisition, Google rolls out search improvements and Snapchat adds a TikTok-y feature. This is your Daily Crunch for October 15, 2020. The big story: Stripe acquires Nigeria’s Paystack Stripe has made its biggest acquisition to date. It an…*
+      
+  - Startup founders set up hacker homes to recreate Silicon Valley synergy
+      <hr/>
+      
+      - *“We joke that we’ve got so many people in the house that have different pieces of expertise that you just yell down the hallway if you have a problem."*
+       
   - Duplex, Google's conversational A.I, has updated 3M+ business listings since pandemic
       <hr/>
-      
-      - *Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing, for example. When the pandemic b…*
-      
-  - With 'absurd' timing, FCC announces intention to revisit Section 230
-      <hr/>
-      
-      - *FCC Chairman Ajit Pai has announced his intention to pursue a reform of Section 230 of the Communications Act, which among other things limits the liability of internet platforms for content they host. Commissioner Rosenworcel described the timing — immediate…*
-      
-  - Google introduces song matching via humming, whistling or singing
-      <hr/>
-      
-      - *Google has added a new feature that lets you figure out what song is stuck in your head by humming, whistling or singing – a much more useful version of the kind of song-matching audio feature that it and competitors like Apple’s Shazam have offered previousl…*
        
-  - Audio learning startup Knowable switches to a $9.99-per-month subscription model
-      <hr/>
-       
-       - *Knowable, the Andreessen Horowitz-backed startup focused on audio learning, is switching business models. When the company launched last year, it charged users on a per-class basis. Starting today, it’s shifting entirely to a subscription model, where listene…*
+       - *Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing, for example. When the pandemic b…*
       
 
 <br />
