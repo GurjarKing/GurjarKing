@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Even in the games of children there are things to interest the greatest mathematician.
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 
-~ Gottfried Wilhelm Leibniz
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Even in the games of children there are things to interest the greatest mathemat
 </pre>
 <strong>Daily News</strong>
   
-  - Alpaca raises $10M Series A for its API-powered equities trading service
+  - Whisper announces $35M Series B to change hearing aids with AI and subscription model
      <hr/>
      
-      - *This morning Alpaca, a startup that helps other companies add commission-free equities trading to their own products, announced a $10 million Series A. The new capital event was led by Portag3, and included prior investors Social Leverage, Spark Capital, Fath…*
+      - *A few years ago, Whisper president and co-founder Andrew Song was talking to his grandfather about his hearing aids. Even though he spent thousands of dollars on a medical device designed to improve his hearing, and in the process his quality of life, he wasn…*
      
-  - AirBuddy’s AirPod integration for the Mac gets updated with more iOS-style features
+  - Stellar blockchain will soon support USDC stablecoin
       <hr/>
       
-      - *The AirBuddy app is celebrating another successful Apple week by opening up preorders on v2.0. The original, which arrived in early 2019, brought a pop-up to the Mac when a pair of AirPods were brought near — bringing simple ecosystem integration to the deskt…*
+      - *USDC, the stablecoin co-founded by Circle and Coinbase, first started as an Ethereum-based token. After adding support for the Algorand blockchain, Centre, the consortium that manages USDC, is announcing that Stellar will be the third blockchain that supports…*
       
-  - News that Calm seeks more funding at a higher valuation is not transcendental thinking
+  - Nvidia will power world's fastest AI supercomputer, to be located in Europe
       <hr/>
       
-      - *Earlier this week, Bloomberg reported that meditation app Calm is looking into raising $150 million more at a valuation of around $2.2 billion, more than double its last private price. This should not surprise. Calm has raised capital at high prices before, i…*
+      - *Nvidia is is going to be powering the world’s fastest AI supercomputer, a new system dubbed ‘Leonardo’ that’s being built by the Italian multi-university consortium CINECA, a global supercomutin leader. The Leonardo system will offer as much as 10 exaflops of…*
       
-  - Koyeb raises $1.6 million for its serverless data-processing engine
+  - YouTube bans videos promoting conspiracy theories like QAnon that target individuals
       <hr/>
       
-      - *French startup Koyeb has raised a $1.6 million (€1.4 million) pre-seed round. The company focuses on data-processing workflows across multiple cloud providers. It hides many complexities using a serverless model. Jean-David Chamboredon and Juliette Mopin from…*
+      - *YouTube today joined social media platforms like Facebook and Twitter in taking more direct action to prohibit the distribution of conspiracy theories like QAnon. The company announced that it is expanding its hate and harassment policies to ban videos “that …*
        
-  - Extend banks $40M to bring a new approach to the old game of extended warranties
+  - Bipedal robot developer Agility announces $20M raise
       <hr/>
        
-       - *Extended warranties — those offers to add an extra year or two to an existing product warranty to give you a little more peace of mind in case something goes wrong with something you’ve purchased — have long been a part of the sales process when you’re buying…*
+       - *Agility, the Oregon State University spinoff behind Digit and Cassie, announced this morning that it has raised $20 million in funding. The latest round, led by DCVC and Playground Global, brings the startup’s total funding up to $29 million. Other recent inv…*
       
 
 <br />
