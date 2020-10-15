@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Really care about the tools you use because they are what make you your best.
+Never trust a computer you can’t throw out a window.
 
-~ Addy Osmani
+~ Steve Wozniak
 <pre>
 
 </pre>
