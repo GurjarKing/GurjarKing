@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Compatibility means deliberately repeating other people’s mistakes.
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 
-~ David Wheeler (computer scientist)
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Compatibility means deliberately repeating other people’s mistakes.
 </pre>
 <strong>Daily News</strong>
   
-  - Tesla's decision to scrap its PR department could create a PR nightmare
+  - When was the last time you worked out your soul?
      <hr/>
      
-      - *This decision will affect the engineers and developers, marketing teams and all employees who put their all into the technology and company image, only to have it eventually misrepresented in the media.*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back today, with Natasha and Danny and I gathered to parse over what was really a blast of n…*
      
+  - Brighteye Ventures' Alex Latsis talks European edtech funding in 2020
+      <hr/>
+      
+      - *Brighteye Ventures, the European edtech venture capital firm, recently announced the $54 million first close of its second fund, bringing total assets under management above $112 million. Out of the new fund, the 2017-founded VC will invest in 15-20 companies…*
+      
+  - Proterra, which makes big honkin battery systems and electric buses, raises $200 million
+      <hr/>
+      
+      - *Proterra, the battery system technology developer for heavy-duty electric vehicles, said it has raised $200 million in a new round of funding. The new cash comes from Cowen Sustainable Investment Advisors, which led the round, along with money from Soros Fund…*
+      
+  - Tesla's decision to scrap its PR department could create a PR nightmare
+      <hr/>
+      
+      - *This decision will affect the engineers and developers, marketing teams and all employees who put their all into the technology and company image, only to have it eventually misrepresented in the media.*
+       
   - Cruise can now test driverless vehicles on the streets of San Francisco
       <hr/>
-      
-      - *Cruise, the self-driving car subsidiary of GM that also has backing from SoftBank Vision Fund, Honda and T. Rowe Price & Associates, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads in San Fran…*
-      
-  - Nanoleaf adds large and small triangles to its revamped Shape product line
-      <hr/>
-      
-      - *Nanoleaf launched the next generation of its light panels in July. Called Shape, this new product looks like the company’s original offering, but sports better connectors, a simpler mounting solution, and most importantly, these panels can work with different…*
-      
-  - Google will let everyone migrate from Hangouts to Chat for free in 2021
-      <hr/>
-      
-      - *Google’s strategy around its messaging apps is nothing if not messy right now (hello Hangouts, Meet, Chat, Duo and Co.), but it looks like things will get a bit easier come next year. We already knew that Hangouts’ time was coming to an end and as Google anno…*
        
-  - New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes
-      <hr/>
-       
-       - *Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients, using a machine learning-based approach that cou…*
+       - *Cruise, the self-driving car subsidiary of GM that also has backing from SoftBank Vision Fund, Honda and T. Rowe Price & Associates, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads in San Fran…*
       
 
 <br />
