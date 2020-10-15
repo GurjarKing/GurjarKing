@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+Even in the games of children there are things to interest the greatest mathematician.
 
-~ David Gelernter
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Beauty is more important in computing than anywhere else in technology because s
 </pre>
 <strong>Daily News</strong>
   
-  - Snapchat launches its TikTok rival, Sounds on Snapchat
+  - Alpaca raises $10M Series A for its API-powered equities trading service
      <hr/>
      
-      - *Snapchat this summer announced it would soon release a new music-powered feature that would allow users to set their Snaps to music. Today, the company made good on that promise with the launch of “Sounds on Snapchat” on iOS, a feature that lets users enhance…*
+      - *This morning Alpaca, a startup that helps other companies add commission-free equities trading to their own products, announced a $10 million Series A. The new capital event was led by Portag3, and included prior investors Social Leverage, Spark Capital, Fath…*
      
-  - River, the latest venture from Wander founder Jeremy Fisher, launches with $10.4 million in funding
+  - AirBuddy’s AirPod integration for the Mac gets updated with more iOS-style features
       <hr/>
       
-      - *River, the latest venture from Wander founder Jeremy Fisher, has today announced the close of a $10.4 million funding round from Founders Fund, .406, BoxGroup, Josh Kushner and Scooter Braun. River is meant to rethink the way we consume content across the int…*
+      - *The AirBuddy app is celebrating another successful Apple week by opening up preorders on v2.0. The original, which arrived in early 2019, brought a pop-up to the Mac when a pair of AirPods were brought near — bringing simple ecosystem integration to the deskt…*
       
-  - Application security platform NeuraLegion raises $4.7 million seed led by DNX Ventures
+  - News that Calm seeks more funding at a higher valuation is not transcendental thinking
       <hr/>
       
-      - *Application security platform NeuraLegion announced today it has raised a $4.7 million seed round led by DNX Ventures, an enterprise-focused investment firm. The funding included participation from Fusion Fund, J-Ventures and Incubate Fund. The startup also a…*
+      - *Earlier this week, Bloomberg reported that meditation app Calm is looking into raising $150 million more at a valuation of around $2.2 billion, more than double its last private price. This should not surprise. Calm has raised capital at high prices before, i…*
       
-  - Spain's Savana Medica raises $15 million to bring its AI toolkit turning clinical notes into care insights to the US
+  - Koyeb raises $1.6 million for its serverless data-processing engine
       <hr/>
       
-      - *Savana, a machine learning-based service that turns clinical notes into structured patient information for physicians and pharmacists, has raised $15 million to take its technology from Spain to the U.S., the company said. The investment was led by Cathay Inn…*
+      - *French startup Koyeb has raised a $1.6 million (€1.4 million) pre-seed round. The company focuses on data-processing workflows across multiple cloud providers. It hides many complexities using a serverless model. Jean-David Chamboredon and Juliette Mopin from…*
        
-  - France and the Netherlands signal support for EU body to clip the wings of big tech
+  - Extend banks $40M to bring a new approach to the old game of extended warranties
       <hr/>
        
-       - *The French and Dutch governments have signalled support for EU rules that can proactively intervene against so-called gatekeepers, aka “structuring platforms” or “large digital platforms with significant network effects acting as gatekeepers” — or, more collo…*
+       - *Extended warranties — those offers to add an extra year or two to an existing product warranty to give you a little more peace of mind in case something goes wrong with something you’ve purchased — have long been a part of the sales process when you’re buying…*
       
 
 <br />
