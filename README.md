@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you think it's simple, then you have misunderstood the problem.
+I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
 
-~ Bjarne Stroustrup
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If you think it's simple, then you have misunderstood the problem.
 </pre>
 <strong>Daily News</strong>
   
-  - Google introduces song matching via humming, whistling or singing
+  - Duplex, Google's conversational A.I, has updated 3M+ business listings since pandemic
      <hr/>
      
-      - *Google has added a new feature that lets you figure out what song is stuck in your head by humming, whistling or singing – a much more useful version of the kind of song-matching audio feature that it and competitors like Apple’s Shazam have offered previousl…*
+      - *Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing, for example. When the pandemic b…*
      
+  - With 'absurd' timing, FCC announces intention to revisit Section 230
+      <hr/>
+      
+      - *FCC Chairman Ajit Pai has announced his intention to pursue a reform of Section 230 of the Communications Act, which among other things limits the liability of internet platforms for content they host. Commissioner Rosenworcel described the timing — immediate…*
+      
+  - Google introduces song matching via humming, whistling or singing
+      <hr/>
+      
+      - *Google has added a new feature that lets you figure out what song is stuck in your head by humming, whistling or singing – a much more useful version of the kind of song-matching audio feature that it and competitors like Apple’s Shazam have offered previousl…*
+      
   - Audio learning startup Knowable switches to a $9.99-per-month subscription model
       <hr/>
       
       - *Knowable, the Andreessen Horowitz-backed startup focused on audio learning, is switching business models. When the company launched last year, it charged users on a per-class basis. Starting today, it’s shifting entirely to a subscription model, where listene…*
-      
+       
   - Google launches a slew of Search updates
       <hr/>
-      
-      - *Google today announced a number of improvements to its core search engine, with a strong focus on how the company is using AI to help its users. These include the ability to better answer questions with very specific answers, very broad questions and a new al…*
-      
-  - Small business payments and marketing startup Fivestars raises $52.5M
-      <hr/>
-      
-      - *It’s a difficult time for small businesses — to put it mildly. And Fivestars CEO Victor Ho said that many of the big digital platforms aren’t really helping. Ho argued that those platforms — whether they offer delivery services, user reviews or marketing tool…*
        
-  - When was the last time you worked out your soul?
-      <hr/>
-       
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back today, with Natasha and Danny and I gathered to parse over what was really a blast of n…*
+       - *Google today announced a number of improvements to its core search engine, with a strong focus on how the company is using AI to help its users. These include the ability to better answer questions with very specific answers, very broad questions and a new al…*
       
 
 <br />
