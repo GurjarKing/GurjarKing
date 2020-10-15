@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+Really care about the tools you use because they are what make you your best.
 
-~ Carl Friedrich Gauss
+~ Addy Osmani
 <pre>
 
 </pre>
