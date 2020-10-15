@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What I cannot build, I do not understand.
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 
-~ Richard Feynman
+~ Anonymous
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ What I cannot build, I do not understand.
 </pre>
 <strong>Daily News</strong>
   
-  - Uber is hiring hundreds of engineers in India to cut costs
+  - Popmenu earns raves from investors for its marketing and delivery software for restaurants
      <hr/>
      
-      - *Uber said on Thursday it is working to hire 225 engineers in India, strengthening its tech team in the key overseas market months after it eliminated thousands of jobs globally. The ride-hailing firm, which competes with Ola in India, said today it has hired …*
+      - *Brendan Sweeney didn’t know anything about the restaurant business before he and his co-founders launched the Atlanta-based startup Popmenu. What Sweeney did know was that it was nuts that while every other business was using incredible graphics, curated text…*
      
+  - Mario Kart Live: Home Circuit Review
+      <hr/>
+      
+      - *Nintendo’s new RC Mario Kart looks terrific*
+      
+  - Stripe acquires Nigeria's Paystack for $200M+ to expand into the African continent
+      <hr/>
+      
+      - *When Stripe announced earlier this year that it had picked up another $600 million in funding, it said one big reason for the funding was to expand its API-based payments services into more geographies. Today the company is coming good on that plan in the for…*
+      
+  - Uber is hiring hundreds of engineers in India to cut costs
+      <hr/>
+      
+      - *Uber said on Thursday it is working to hire 225 engineers in India, strengthening its tech team in the key overseas market months after it eliminated thousands of jobs globally. The ride-hailing firm, which competes with Ola in India, said today it has hired …*
+       
   - Alibaba-affiliated marketplace to leave Taiwan, again
       <hr/>
-      
-      - *Separated by a strait, the internet in Taiwan and mainland China are two different worlds. Even mainland tech giants Alibaba and Tencent have had little success entering the island, often running into regulatory hurdles. Less than a year after Taobao launched…*
-      
-  - Menlo Ventures just closed its fifteenth early-stage fund with $500 million
-      <hr/>
-      
-      - *Menlo Ventures, the 44-year-old venture firm with offices in Menlo Park and San Francisco, is taking the wraps of its fifteenth early-stage fund today, a vehicle it closed with $500 million in capital commitments. It’s the same amount that Menlo announced las…*
-      
-  - Luxury watch maker Breitling issues digital certificates on the Ethereum blockchain
-      <hr/>
-      
-      - *Breitling is partnering with Arianee to issue a new kind of certificates of authenticity for its luxury watches. Instead of relying on physical certificates, the watchmaker gives you a unique digital passport that certifies the origin of the watch. Behind the…*
        
-  - South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition
-      <hr/>
-       
-       - *Sit quietly for a moment and pay attention to the different sounds around you. You might hear appliances beeping, cars honking, a dog barking, someone sneezing. These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS pl…*
+       - *Separated by a strait, the internet in Taiwan and mainland China are two different worlds. Even mainland tech giants Alibaba and Tencent have had little success entering the island, often running into regulatory hurdles. Less than a year after Taobao launched…*
       
 
 <br />
