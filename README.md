@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-No matter how slow you are writing clean code, you will always be slower if you make a mess.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Robert C. Martin
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ No matter how slow you are writing clean code, you will always be slower if you 
 </pre>
 <strong>Daily News</strong>
   
-  - Brighteye Ventures sees $54M first close of its second fund to back edtech startups in Europe
+  - Khosla Ventures seeks $1.1 billion for its latest fund
      <hr/>
      
-      - *Brighteye Ventures, the European edtech VC firm, is announcing the $54 million first close of its second fund, bringing total assets under management to over $112 million. Backing comes from a mixture of existing and new investors, made up primarily of unname…*
+      - *Khosla Ventures, the eponymous venture firm helmed by longtime Silicon Valley rainmaker, Vinod Khosla, is raising  $1.1 billion for its latest venture fund, according to documents from the Securities and Exchange Commission. The filing was first spotted by Ar…*
      
+  - Brighteye Ventures sees $54M first close of its second fund to back edtech startups in Europe
+      <hr/>
+      
+      - *Brighteye Ventures, the European edtech VC firm, is announcing the $54 million first close of its second fund, bringing total assets under management to over $112 million. Backing comes from a mixture of existing and new investors, made up primarily of unname…*
+      
   - Daily Crunch: Zoom launches its events marketplace
       <hr/>
       
@@ -73,16 +78,11 @@ No matter how slow you are writing clean code, you will always be slower if you 
       <hr/>
       
       - *Audrey Gelman, the former CEO of The Wing who resigned in June, today posted a letter she sent to former employees of The Wing last week. In it, Gelman apologized for not taking action to combat mistreatment of women of color at The Wing. She also acknowledge…*
-      
+       
   - Google keeps it simple with the Pixel 5
       <hr/>
-      
-      - *I’m going to be totally honest with you. I don’t really understand Google’s phone strategy right now. And for what it’s worth, I’m not really sure Google does either. I wrote about it here, but I’ll save you from having to read an additional 800 words on top …*
        
-  - Suspect provenance of Hunter Biden data cache prompts skepticism and social media bans
-      <hr/>
-       
-       - *A cache of emails and other selected data purportedly from a laptop owned by Hunter Biden were published today by the New York Post. Ordinarily a major leak related to a figure involved in a controversy of Presidential importance would be on every front page …*
+       - *I’m going to be totally honest with you. I don’t really understand Google’s phone strategy right now. And for what it’s worth, I’m not really sure Google does either. I wrote about it here, but I’ll save you from having to read an additional 800 words on top …*
       
 
 <br />
