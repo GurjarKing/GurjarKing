@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
-~ Donald Knuth
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The problem is that coding isn’t fun if all you can do is call things out of a
 </pre>
 <strong>Daily News</strong>
   
-  - Whisper announces $35M Series B to change hearing aids with AI and subscription model
+  - Emerging companies thrive on data. Shouldn’t they use it to improve hiring decisions?
      <hr/>
      
-      - *A few years ago, Whisper president and co-founder Andrew Song was talking to his grandfather about his hearing aids. Even though he spent thousands of dollars on a medical device designed to improve his hearing, and in the process his quality of life, he wasn…*
+      - *Instinctive feelings and ‘going with your gut’ in hiring should be treated with caution and decisions should always be based on role-relevant evidence you pinpoint.*
      
-  - Stellar blockchain will soon support USDC stablecoin
+  - Nabis raises $5m Series A to grow its cannabis distribution platform
       <hr/>
       
-      - *USDC, the stablecoin co-founded by Circle and Coinbase, first started as an Ethereum-based token. After adding support for the Algorand blockchain, Centre, the consortium that manages USDC, is announcing that Stellar will be the third blockchain that supports…*
+      - *The cannabis industry is quickly growing up, and companies like Nabis play a critical role. Today, the company is announcing it raised $5 million in Series A funding, which will help it grow and expand its offering. Nabis is a business to business distributor…*
       
-  - Nvidia will power world's fastest AI supercomputer, to be located in Europe
+  - Brazil's Black Silicon Valley could be an epicenter of innovation in Latin America
       <hr/>
       
-      - *Nvidia is is going to be powering the world’s fastest AI supercomputer, a new system dubbed ‘Leonardo’ that’s being built by the Italian multi-university consortium CINECA, a global supercomutin leader. The Leonardo system will offer as much as 10 exaflops of…*
+      - *There is no doubt that the new wave of innovation will come from the emerging markets, and the African Diaspora can play an important role.*
       
-  - YouTube bans videos promoting conspiracy theories like QAnon that target individuals
+  - Temporal raises $18.75M for its microservices orchestration platform
       <hr/>
       
-      - *YouTube today joined social media platforms like Facebook and Twitter in taking more direct action to prohibit the distribution of conspiracy theories like QAnon. The company announced that it is expanding its hate and harassment policies to ban videos “that …*
+      - *Temporal, a Seattle-based startup that is building an open-source, stateful microservices orchestration platform, today announced that it has raised an $18.75 million Series A round led by Sequoia Ventures. Existing investors Addition Ventures and Amplify Par…*
        
-  - Bipedal robot developer Agility announces $20M raise
+  - Whisper announces $35M Series B to change hearing aids with AI and subscription model
       <hr/>
        
-       - *Agility, the Oregon State University spinoff behind Digit and Cassie, announced this morning that it has raised $20 million in funding. The latest round, led by DCVC and Playground Global, brings the startup’s total funding up to $29 million. Other recent inv…*
+       - *A few years ago, Whisper president and co-founder Andrew Song was talking to his grandfather about his hearing aids. Even though he spent thousands of dollars on a medical device designed to improve his hearing, and in the process his quality of life, he wasn…*
       
 
 <br />
