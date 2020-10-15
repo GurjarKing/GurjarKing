@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Much of the essence of building a program is in fact the debugging of the specification.
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 
-~ Fred Brooks
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Much of the essence of building a program is in fact the debugging of the specif
 </pre>
 <strong>Daily News</strong>
   
-  - Jared Leto, Scooter Braun and Troy Carter are backing Moment House, a startup recreating live events... digitally
+  - Gogoro's Eeyo 1s e-bike goes on sale in France, its first European market
      <hr/>
      
-      - *A pitch to offer artists a way to give geo-fenced, live events to fans around the world has brought the new Los Angeles startup Moment House $1.5 million in seed funding. The money came from heavy hitters in the Los Angeles entertainment and investment scene …*
+      - *Gogoro announced today that its Eeyo 1s is now available for sale in France, the smart electric bike’s first European market. Another model, the Eeyo 1, will launch over the next few months in France, Belgium, Monaco, Germany, Switzerland, Austria and the Cze…*
      
+  - Jared Leto, Scooter Braun and Troy Carter are backing Moment House, a startup recreating live events... digitally
+      <hr/>
+      
+      - *A pitch to offer artists a way to give geo-fenced, live events to fans around the world has brought the new Los Angeles startup Moment House $1.5 million in seed funding. The money came from heavy hitters in the Los Angeles entertainment and investment scene …*
+      
   - Khosla Ventures seeks $1.1 billion for its latest fund
       <hr/>
       
@@ -73,16 +78,11 @@ Much of the essence of building a program is in fact the debugging of the specif
       <hr/>
       
       - *Brighteye Ventures, the European edtech VC firm, is announcing the $54 million first close of its second fund, bringing total assets under management to over $112 million. Backing comes from a mixture of existing and new investors, made up primarily of unname…*
-      
+       
   - Daily Crunch: Zoom launches its events marketplace
       <hr/>
-      
-      - *Zoom has a new marketplace and new integrations, Spotify gets a new format and we review Microsoft’s Surface Laptop Go. This is your Daily Crunch for October 14, 2020. The big story: Zoom launches its events marketplace Zoom’s new OnZoom marketplace allows an…*
        
-  - The Wing co-founder admits the coworking space upheld 'the kind of social inequality we set out to upend'
-      <hr/>
-       
-       - *Audrey Gelman, the former CEO of The Wing who resigned in June, today posted a letter she sent to former employees of The Wing last week. In it, Gelman apologized for not taking action to combat mistreatment of women of color at The Wing. She also acknowledge…*
+       - *Zoom has a new marketplace and new integrations, Spotify gets a new format and we review Microsoft’s Surface Laptop Go. This is your Daily Crunch for October 14, 2020. The big story: Zoom launches its events marketplace Zoom’s new OnZoom marketplace allows an…*
       
 
 <br />
