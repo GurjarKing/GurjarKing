@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+Compatibility means deliberately repeating other people’s mistakes.
 
-~ Alan Perlis
+~ David Wheeler (computer scientist)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Every program has (at least) two purposes: the one for which it was written and 
 </pre>
 <strong>Daily News</strong>
   
-  - Emerging companies thrive on data. Shouldn’t they use it to improve hiring decisions?
+  - Tesla's decision to scrap its PR department could create a PR nightmare
      <hr/>
      
-      - *Instinctive feelings and ‘going with your gut’ in hiring should be treated with caution and decisions should always be based on role-relevant evidence you pinpoint.*
+      - *This decision will affect the engineers and developers, marketing teams and all employees who put their all into the technology and company image, only to have it eventually misrepresented in the media.*
      
-  - Nabis raises $5m Series A to grow its cannabis distribution platform
+  - Cruise can now test driverless vehicles on the streets of San Francisco
       <hr/>
       
-      - *The cannabis industry is quickly growing up, and companies like Nabis play a critical role. Today, the company is announcing it raised $5 million in Series A funding, which will help it grow and expand its offering. Nabis is a business to business distributor…*
+      - *Cruise, the self-driving car subsidiary of GM that also has backing from SoftBank Vision Fund, Honda and T. Rowe Price & Associates, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads in San Fran…*
       
-  - Brazil's Black Silicon Valley could be an epicenter of innovation in Latin America
+  - Nanoleaf adds large and small triangles to its revamped Shape product line
       <hr/>
       
-      - *There is no doubt that the new wave of innovation will come from the emerging markets, and the African Diaspora can play an important role.*
+      - *Nanoleaf launched the next generation of its light panels in July. Called Shape, this new product looks like the company’s original offering, but sports better connectors, a simpler mounting solution, and most importantly, these panels can work with different…*
       
-  - Temporal raises $18.75M for its microservices orchestration platform
+  - Google will let everyone migrate from Hangouts to Chat for free in 2021
       <hr/>
       
-      - *Temporal, a Seattle-based startup that is building an open-source, stateful microservices orchestration platform, today announced that it has raised an $18.75 million Series A round led by Sequoia Ventures. Existing investors Addition Ventures and Amplify Par…*
+      - *Google’s strategy around its messaging apps is nothing if not messy right now (hello Hangouts, Meet, Chat, Duo and Co.), but it looks like things will get a bit easier come next year. We already knew that Hangouts’ time was coming to an end and as Google anno…*
        
-  - Whisper announces $35M Series B to change hearing aids with AI and subscription model
+  - New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes
       <hr/>
        
-       - *A few years ago, Whisper president and co-founder Andrew Song was talking to his grandfather about his hearing aids. Even though he spent thousands of dollars on a medical device designed to improve his hearing, and in the process his quality of life, he wasn…*
+       - *Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients, using a machine learning-based approach that cou…*
       
 
 <br />
