@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programs must be written for people to read, and only incidentally for machines to execute.
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 
-~ Hal Abelson
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
