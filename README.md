@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Much of the essence of building a program is in fact the debugging of the specification.
+If you think it's simple, then you have misunderstood the problem.
 
-~ Fred Brooks
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
