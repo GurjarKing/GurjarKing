@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 
-~ Gottfried Wilhelm Leibniz
+~ Linus Torvalds
 <pre>
 
 </pre>
