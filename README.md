@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We who cut mere stones must always be envisioning cathedrals.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ Quarry worker's creed
+~ Marvin Minsky
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ We who cut mere stones must always be envisioning cathedrals.
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: Prop 22 puts the 'future of labor' at stake
+  - Lawmatics raises $2.5M to help lawyers market themselves
      <hr/>
      
-      - *Welcome back to Human Capital, where we look at the latest in tech labor and diversity and inclusion. Because election day is quickly approaching and given that California’s Prop 22 puts the “future of labor” at stake, as Instacart worker and co-organizer at …*
+      - *Lawmatics, a San Diego startup that’s building marketing and CRM software for lawyers, is announcing that it has raised $2.5 million in seed funding. CEO Matt Siegel used to practice law himself, and he told me that even though tech companies have a wide rang…*
      
+  - Human Capital: Prop 22 puts the 'future of labor' at stake
+      <hr/>
+      
+      - *Welcome back to Human Capital, where we look at the latest in tech labor and diversity and inclusion. Because election day is quickly approaching and given that California’s Prop 22 puts the “future of labor” at stake, as Instacart worker and co-organizer at …*
+      
   - PearPop lets TikTok celebrities monetize by sharing shoutouts and screentime with fans
       <hr/>
       
@@ -73,16 +78,11 @@ We who cut mere stones must always be envisioning cathedrals.
       <hr/>
       
       - *Four years ago, Ping Identity was at a crossroads. A venerable player in the single sign-on market, its product was not a market leader, and after 14 years and $128 million in venture capital, it needed to find a new path. While the company had once discussed…*
-      
+       
   - Analogue takes on the TurboGrafx-16 with its Duo retro console
       <hr/>
-      
-      - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
        
-  - We need universal digital ad transparency now
-      <hr/>
-       
-       - *We propose a new standard for universal ad disclosure that should be met by every platform that publishes digital ads.*
+       - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
       
 
 <br />
