@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 
-~ John von Neumann
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If people do not believe that mathematics is simple, it is only because they do 
 </pre>
 <strong>Daily News</strong>
   
-  - Analogue takes on the TurboGrafx-16 with its Duo retro console
+  - PearPop lets TikTok celebrities monetize by sharing shoutouts and screentime with fans
      <hr/>
      
-      - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
+      - *PearPop a new Los Angeles-based company, is on its way to racking up nearly 25,000 users in less than a month, and has already landed seed funding from the firm Rocket One Capital. The company’s premise is simple. Allow fans to bid for shared screen time with…*
      
+  - Private equity firms can offer enterprise startups a viable exit option
+      <hr/>
+      
+      - *Four years ago, Ping Identity was at a crossroads. A venerable player in the single sign-on market, its product was not a market leader, and after 14 years and $128 million in venture capital, it needed to find a new path. While the company had once discussed…*
+      
+  - Analogue takes on the TurboGrafx-16 with its Duo retro console
+      <hr/>
+      
+      - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
+      
   - We need universal digital ad transparency now
       <hr/>
       
       - *We propose a new standard for universal ad disclosure that should be met by every platform that publishes digital ads.*
-      
+       
   - Elon Musk's Las Vegas Loop might only carry a fraction of the passengers it promised
       <hr/>
-      
-      - *If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.*
-      
-  - EU's Google-Fitbit antitrust decision deadline pushed into 2021
-      <hr/>
-      
-      - *The deadline for Europe to make a call on the Google -Fitbit merger has been pushed out again — with EU regulators now having until January 8, 2021, to take a decision. The latest change to the provisional deadline, spotted earlier by Reuters, could be the re…*
        
-  - Datto sets initial IPO price range, indicating a valuation of around $4B
-      <hr/>
-       
-       - *It was just a few weeks ago that Datto, what TechCrunch called a “backup and disaster recovery firm,” filed to go public. This week the firm set an initial range for its debut. The Vista Equity Partners -backed company was picked up by the private equity firm…*
+       - *If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.*
       
 
 <br />
