@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+With artificial intelligence we are summoning the demon.
 
-~ Danny Hillis
+~ Elon Musk
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The magic of a computer lies in its ability to become almost anything you can im
 </pre>
 <strong>Daily News</strong>
   
-  - The need for true equity in equity compensation
+  - Elon Musk's Las Vegas Loop might only carry a fraction of the passengers it promised
      <hr/>
      
-      - *I believe creating a broader picture of compensation is essential for startups, global conglomerates and every company in between.*
+      - *If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.*
      
-  - FloorFound is bringing online return and resale to direct to consumer furniture businesses
+  - EU's Google-Fitbit antitrust decision deadline pushed into 2021
       <hr/>
       
-      - *Over the next five years consumers will return an estimated 40 million to 50 million pieces of furniture that more than likely will end up in landfills, creating tons of unnecessary waste, according to Chris Richter, the founder of a new Austin-based furnitur…*
+      - *The deadline for Europe to make a call on the Google -Fitbit merger has been pushed out again — with EU regulators now having until January 8, 2021, to take a decision. The latest change to the provisional deadline, spotted earlier by Reuters, could be the re…*
       
-  - OnePlus co-founder Carl Pei confirms he has left the company
+  - Datto sets initial IPO price range, indicating a valuation of around $4B
       <hr/>
       
-      - *OnePlus co-founder Carl Pei has left the company, he confirmed on Friday. Pei, 31, said he plans to take some time off before pursuing his next step. “After nearly 7 years at OnePlus, I’ve made the difficult decision to say goodbye,” wrote Pei in a post on On…*
+      - *It was just a few weeks ago that Datto, what TechCrunch called a “backup and disaster recovery firm,” filed to go public. This week the firm set an initial range for its debut. The Vista Equity Partners -backed company was picked up by the private equity firm…*
       
-  - How COVID-19 and the resulting recession are impacting female founders
+  - Crypto-driven marketplace Zora raises $2M to build a sustainable creator economy
       <hr/>
       
-      - *Last week The Exchange dug into recent data concerning the amount of venture capital raised by female founders. As a refresher, the numbers were not good. In Q3 2020, PitchBook data reported that US-based female founders raised $434 million across 136 rounds.…*
+      - *Dee Goens and Jacob Horne have both the exact and precisely opposite background that you’d expect to see from two people building a way for creators to build a sustainable economy for their followers to participate in. Coinbase, crypto hack projects at univer…*
        
-  - Marshall Major IV wireless headphones offer great sound, plus 80+ hours of battery life and wireless charging
+  - The need for true equity in equity compensation
       <hr/>
        
-       - *Marshall’s new Major IV headphones ($149.99) combine lightweight comfort with wireless charging, and up to 80 hours of playback for an iconic headset that’s affordable and flexible. At home or on the go, these are a great option with unique features that you …*
+       - *I believe creating a broader picture of compensation is essential for startups, global conglomerates and every company in between.*
       
 
 <br />
