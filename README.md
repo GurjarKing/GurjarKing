@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 
-~ Joseph Yoder (computer scientist)
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When you build a prototype, there is always the risk that someone will say "that
 </pre>
 <strong>Daily News</strong>
   
-  - UK's ICO downgrades British Airways data breach fine to £20M, after originally setting it at £184M
+  - Future raises $24M Series B for its $150/mo workout coaching app amid at-home fitness boom
      <hr/>
      
-      - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
+      - *With thousands of gyms across the country forced to close down during the pandemic, there’s been an unprecedented opportunity for fitness companies pitching an at-home solution. This moment has propelled public companies like Peloton to stratospheric highs — …*
      
+  - Shure's Aonic 50 wireless noise cancelling headphones offer best-in-class audio quality
+      <hr/>
+      
+      - *The noise-cancelling over-ear headphone category is an increasingly competitive one, and consumers have never been more spoiled for choice. Shure entered the market this year with the Aonic 50, a premium-priced headset ($399) that offers active noise cancelli…*
+      
+  - Atlanta'-based Speedscale now has $2.2 million more to grow its API test automation business
+      <hr/>
+      
+      - *It only took a few weeks after its Y Combinator demo day debut for the Atlanta-based API test automation company Speedscale to raise its first $2.2 million. Founded by longtime developers and Georgia Institute of Technology alumni, Ken Ahrens, Matthew LeRay a…*
+      
+  - UK's ICO downgrades British Airways data breach fine to £20M, after originally setting it at £184M
+      <hr/>
+      
+      - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
+       
   - Twitter changes its hacked materials policy in wake of New York Post controversy
       <hr/>
-      
-      - *Twitter has announced an update to its hacked materials policy — saying it will no longer remove hacked content unless it’s directly shared by hackers or those “acting in concert with them”. Instead of blocking such content/links from being shared on its serv…*
-      
-  - Miniso, the Japanese-looking variety store from China, sees shares jump in US IPO
-      <hr/>
-      
-      - *Investors are jumping aboard a value store chain that is bringing Japanese-inspired lifestyle goods to consumers around the world. The company, Miniso, raised $608 million from an initial public offering in New York on Thursday. It debuted at $24.40, above it…*
-      
-  - Sony’s $5,000 3D display (probably) isn’t for you
-      <hr/>
-      
-      - *Sony just announced a $5,000 3D display, but odds are it’s probably not for you. Primarily known for its consumer goods, the company is targeting creative professionals with the Spatial Reality Display — more specifically, those working in fields like compute…*
        
-  - FAA streamlines commercial launch rules to keep the rockets flying
-      <hr/>
-       
-       - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
+       - *Twitter has announced an update to its hacked materials policy — saying it will no longer remove hacked content unless it’s directly shared by hackers or those “acting in concert with them”. Instead of blocking such content/links from being shared on its serv…*
       
 
 <br />
