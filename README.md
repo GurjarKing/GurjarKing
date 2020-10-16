@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-With artificial intelligence we are summoning the demon.
+A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 
-~ Elon Musk
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ With artificial intelligence we are summoning the demon.
 </pre>
 <strong>Daily News</strong>
   
-  - Elon Musk's Las Vegas Loop might only carry a fraction of the passengers it promised
+  - Analogue takes on the TurboGrafx-16 with its Duo retro console
      <hr/>
      
-      - *If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.*
+      - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
      
+  - We need universal digital ad transparency now
+      <hr/>
+      
+      - *We propose a new standard for universal ad disclosure that should be met by every platform that publishes digital ads.*
+      
+  - Elon Musk's Las Vegas Loop might only carry a fraction of the passengers it promised
+      <hr/>
+      
+      - *If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.*
+      
   - EU's Google-Fitbit antitrust decision deadline pushed into 2021
       <hr/>
       
       - *The deadline for Europe to make a call on the Google -Fitbit merger has been pushed out again — with EU regulators now having until January 8, 2021, to take a decision. The latest change to the provisional deadline, spotted earlier by Reuters, could be the re…*
-      
+       
   - Datto sets initial IPO price range, indicating a valuation of around $4B
       <hr/>
-      
-      - *It was just a few weeks ago that Datto, what TechCrunch called a “backup and disaster recovery firm,” filed to go public. This week the firm set an initial range for its debut. The Vista Equity Partners -backed company was picked up by the private equity firm…*
-      
-  - Crypto-driven marketplace Zora raises $2M to build a sustainable creator economy
-      <hr/>
-      
-      - *Dee Goens and Jacob Horne have both the exact and precisely opposite background that you’d expect to see from two people building a way for creators to build a sustainable economy for their followers to participate in. Coinbase, crypto hack projects at univer…*
        
-  - The need for true equity in equity compensation
-      <hr/>
-       
-       - *I believe creating a broader picture of compensation is essential for startups, global conglomerates and every company in between.*
+       - *It was just a few weeks ago that Datto, what TechCrunch called a “backup and disaster recovery firm,” filed to go public. This week the firm set an initial range for its debut. The Vista Equity Partners -backed company was picked up by the private equity firm…*
       
 
 <br />
