@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 
-~ Marijn Haverbeke
+~ John von Neumann
 <pre>
 
 </pre>
