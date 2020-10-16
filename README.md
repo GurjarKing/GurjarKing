@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 
-~ Steve Jobs
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I'm convinced that about half of what separates the successful entrepreneurs fro
 </pre>
 <strong>Daily News</strong>
   
-  - Future raises $24M Series B for its $150/mo workout coaching app amid at-home fitness boom
+  - IAB Europe's ad tracking consent framework found to fail GDPR standard
      <hr/>
      
-      - *With thousands of gyms across the country forced to close down during the pandemic, there’s been an unprecedented opportunity for fitness companies pitching an at-home solution. This moment has propelled public companies like Peloton to stratospheric highs — …*
+      - *A flagship framework for gathering Internet users’ consent for targeting with behavioral ads — which is designed by ad industry body, the IAB Europe — fails to meet the required legal standards of data protection, according to findings by its EU data supervis…*
      
+  - Future raises $24M Series B for its $150/mo workout coaching app amid at-home fitness boom
+      <hr/>
+      
+      - *With thousands of gyms across the country forced to close down during the pandemic, there’s been an unprecedented opportunity for fitness companies pitching an at-home solution. This moment has propelled public companies like Peloton to stratospheric highs — …*
+      
   - Shure's Aonic 50 wireless noise cancelling headphones offer best-in-class audio quality
       <hr/>
       
@@ -73,16 +78,11 @@ I'm convinced that about half of what separates the successful entrepreneurs fro
       <hr/>
       
       - *It only took a few weeks after its Y Combinator demo day debut for the Atlanta-based API test automation company Speedscale to raise its first $2.2 million. Founded by longtime developers and Georgia Institute of Technology alumni, Ken Ahrens, Matthew LeRay a…*
-      
+       
   - UK's ICO downgrades British Airways data breach fine to £20M, after originally setting it at £184M
       <hr/>
-      
-      - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
        
-  - Twitter changes its hacked materials policy in wake of New York Post controversy
-      <hr/>
-       
-       - *Twitter has announced an update to its hacked materials policy — saying it will no longer remove hacked content unless it’s directly shared by hackers or those “acting in concert with them”. Instead of blocking such content/links from being shared on its serv…*
+       - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
       
 
 <br />
