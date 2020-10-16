@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 
-~ Linus Torvalds
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
