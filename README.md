@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+What one programmer can do in one month, two programmers can do in two months.
 
-~ John McCarthy (computer scientist)
+~ Fred Brooks
 <pre>
 
 </pre>
