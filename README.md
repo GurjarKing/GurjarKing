@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 
-~ Daniel T. Barry
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Ed Adams of IBM found that 80% of the reliability problems are caused by only 2%
 </pre>
 <strong>Daily News</strong>
   
-  - IAB Europe's ad tracking consent framework found to fail GDPR standard
+  - The need for true equity in equity compensation
      <hr/>
      
-      - *A flagship framework for gathering Internet users’ consent for targeting with behavioral ads — which is designed by ad industry body, the IAB Europe — fails to meet the required legal standards of data protection, according to findings by its EU data supervis…*
+      - *I believe creating a broader picture of compensation is essential for startups, global conglomerates and every company in between.*
      
-  - Future raises $24M Series B for its $150/mo workout coaching app amid at-home fitness boom
+  - FloorFound is bringing online return and resale to direct to consumer furniture businesses
       <hr/>
       
-      - *With thousands of gyms across the country forced to close down during the pandemic, there’s been an unprecedented opportunity for fitness companies pitching an at-home solution. This moment has propelled public companies like Peloton to stratospheric highs — …*
+      - *Over the next five years consumers will return an estimated 40 million to 50 million pieces of furniture that more than likely will end up in landfills, creating tons of unnecessary waste, according to Chris Richter, the founder of a new Austin-based furnitur…*
       
-  - Shure's Aonic 50 wireless noise cancelling headphones offer best-in-class audio quality
+  - OnePlus co-founder Carl Pei confirms he has left the company
       <hr/>
       
-      - *The noise-cancelling over-ear headphone category is an increasingly competitive one, and consumers have never been more spoiled for choice. Shure entered the market this year with the Aonic 50, a premium-priced headset ($399) that offers active noise cancelli…*
+      - *OnePlus co-founder Carl Pei has left the company, he confirmed on Friday. Pei, 31, said he plans to take some time off before pursuing his next step. “After nearly 7 years at OnePlus, I’ve made the difficult decision to say goodbye,” wrote Pei in a post on On…*
       
-  - Atlanta'-based Speedscale now has $2.2 million more to grow its API test automation business
+  - How COVID-19 and the resulting recession are impacting female founders
       <hr/>
       
-      - *It only took a few weeks after its Y Combinator demo day debut for the Atlanta-based API test automation company Speedscale to raise its first $2.2 million. Founded by longtime developers and Georgia Institute of Technology alumni, Ken Ahrens, Matthew LeRay a…*
+      - *Last week The Exchange dug into recent data concerning the amount of venture capital raised by female founders. As a refresher, the numbers were not good. In Q3 2020, PitchBook data reported that US-based female founders raised $434 million across 136 rounds.…*
        
-  - UK's ICO downgrades British Airways data breach fine to £20M, after originally setting it at £184M
+  - Marshall Major IV wireless headphones offer great sound, plus 80+ hours of battery life and wireless charging
       <hr/>
        
-       - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
+       - *Marshall’s new Major IV headphones ($149.99) combine lightweight comfort with wireless charging, and up to 80 hours of playback for an iconic headset that’s affordable and flexible. At home or on the go, these are a great option with unique features that you …*
       
 
 <br />
