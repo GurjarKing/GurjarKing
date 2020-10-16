@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 
-~ Marvin Minsky
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Artificial intelligence is the science of making machines do things that would r
 </pre>
 <strong>Daily News</strong>
   
-  - Lawmatics raises $2.5M to help lawyers market themselves
+  - Twitter is now allowing users to share that controversial New York Post story
      <hr/>
      
-      - *Lawmatics, a San Diego startup that’s building marketing and CRM software for lawyers, is announcing that it has raised $2.5 million in seed funding. CEO Matt Siegel used to practice law himself, and he told me that even though tech companies have a wide rang…*
+      - *Twitter has taken another step back from its initial decision to block users from sharing links to or images of a New York Post story reporting on emails and other data supposedly originating on a laptop belonging to Democratic presidential nominee Joe Biden’…*
      
+  - Lawmatics raises $2.5M to help lawyers market themselves
+      <hr/>
+      
+      - *Lawmatics, a San Diego startup that’s building marketing and CRM software for lawyers, is announcing that it has raised $2.5 million in seed funding. CEO Matt Siegel used to practice law himself, and he told me that even though tech companies have a wide rang…*
+      
   - Human Capital: Prop 22 puts the 'future of labor' at stake
       <hr/>
       
@@ -73,16 +78,11 @@ Artificial intelligence is the science of making machines do things that would r
       <hr/>
       
       - *PearPop a new Los Angeles-based company, is on its way to racking up nearly 25,000 users in less than a month, and has already landed seed funding from the firm Rocket One Capital. The company’s premise is simple. Allow fans to bid for shared screen time with…*
-      
+       
   - Private equity firms can offer enterprise startups a viable exit option
       <hr/>
-      
-      - *Four years ago, Ping Identity was at a crossroads. A venerable player in the single sign-on market, its product was not a market leader, and after 14 years and $128 million in venture capital, it needed to find a new path. While the company had once discussed…*
        
-  - Analogue takes on the TurboGrafx-16 with its Duo retro console
-      <hr/>
-       
-       - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
+       - *Four years ago, Ping Identity was at a crossroads. A venerable player in the single sign-on market, its product was not a market leader, and after 14 years and $128 million in venture capital, it needed to find a new path. While the company had once discussed…*
       
 
 <br />
