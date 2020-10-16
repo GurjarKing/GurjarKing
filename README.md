@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Ted Nelson
+~ Quarry worker's creed
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ They were saying computers deal with numbers. This was absolutely nonsense. Comp
 </pre>
 <strong>Daily News</strong>
   
-  - PearPop lets TikTok celebrities monetize by sharing shoutouts and screentime with fans
+  - Human Capital: Prop 22 puts the 'future of labor' at stake
      <hr/>
      
-      - *PearPop a new Los Angeles-based company, is on its way to racking up nearly 25,000 users in less than a month, and has already landed seed funding from the firm Rocket One Capital. The company’s premise is simple. Allow fans to bid for shared screen time with…*
+      - *Welcome back to Human Capital, where we look at the latest in tech labor and diversity and inclusion. Because election day is quickly approaching and given that California’s Prop 22 puts the “future of labor” at stake, as Instacart worker and co-organizer at …*
      
+  - PearPop lets TikTok celebrities monetize by sharing shoutouts and screentime with fans
+      <hr/>
+      
+      - *PearPop a new Los Angeles-based company, is on its way to racking up nearly 25,000 users in less than a month, and has already landed seed funding from the firm Rocket One Capital. The company’s premise is simple. Allow fans to bid for shared screen time with…*
+      
   - Private equity firms can offer enterprise startups a viable exit option
       <hr/>
       
@@ -73,16 +78,11 @@ They were saying computers deal with numbers. This was absolutely nonsense. Comp
       <hr/>
       
       - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
-      
+       
   - We need universal digital ad transparency now
       <hr/>
-      
-      - *We propose a new standard for universal ad disclosure that should be met by every platform that publishes digital ads.*
        
-  - Elon Musk's Las Vegas Loop might only carry a fraction of the passengers it promised
-      <hr/>
-       
-       - *If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.*
+       - *We propose a new standard for universal ad disclosure that should be met by every platform that publishes digital ads.*
       
 
 <br />
