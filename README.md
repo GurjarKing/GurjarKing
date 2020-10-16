@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+Much of the essence of building a program is in fact the debugging of the specification.
 
-~ Ken Thompson
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ C++ certainly has its good points. But by and large I think it's a bad language.
 </pre>
 <strong>Daily News</strong>
   
-  - FAA streamlines commercial launch rules to keep the rockets flying
+  - Sony’s $5,000 3D display (probably) isn’t for you
      <hr/>
      
-      - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
+      - *Sony just announced a $5,000 3D display, but odds are it’s probably not for you. Primarily known for its consumer goods, the company is targeting creative professionals with the Spatial Reality Display — more specifically, those working in fields like compute…*
      
+  - FAA streamlines commercial launch rules to keep the rockets flying
+      <hr/>
+      
+      - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
+      
   - Twitter is investigating widespread outage reports
       <hr/>
       
@@ -73,16 +78,11 @@ C++ certainly has its good points. But by and large I think it's a bad language.
       <hr/>
       
       - *It’s easy to be smitten with the H4 at first sight. They’re a great-looking pair of headphones — one of the best I’ve seen. They sport a simple, streamlined design that feels both like an homage to older models, but modern enough to avoid the nostalgia trap. …*
-      
+       
   - Daily Crunch: Stripe acquires Nigeria's Paystack
       <hr/>
-      
-      - *Stripe makes a big acquisition, Google rolls out search improvements and Snapchat adds a TikTok-y feature. This is your Daily Crunch for October 15, 2020. The big story: Stripe acquires Nigeria’s Paystack Stripe has made its biggest acquisition to date. It an…*
        
-  - Startup founders set up hacker homes to recreate Silicon Valley synergy
-      <hr/>
-       
-       - *“We joke that we’ve got so many people in the house that have different pieces of expertise that you just yell down the hallway if you have a problem."*
+       - *Stripe makes a big acquisition, Google rolls out search improvements and Snapchat adds a TikTok-y feature. This is your Daily Crunch for October 15, 2020. The big story: Stripe acquires Nigeria’s Paystack Stripe has made its biggest acquisition to date. It an…*
       
 
 <br />
