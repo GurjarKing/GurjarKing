@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
 
-~ Marijn Haverbeke
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Computers themselves can do only stupidly straightforward things. The reason the
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter changes its hacked materials policy in wake of New York Post controversy
+  - UK's ICO downgrades British Airways data breach fine to £20M, after originally setting it at £184M
      <hr/>
      
-      - *Twitter has announced an update to its hacked materials policy — saying it will no longer remove hacked content unless it’s directly shared by hackers or those “acting in concert with them”. Instead of blocking such content/links from being shared on its serv…*
+      - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
      
+  - Twitter changes its hacked materials policy in wake of New York Post controversy
+      <hr/>
+      
+      - *Twitter has announced an update to its hacked materials policy — saying it will no longer remove hacked content unless it’s directly shared by hackers or those “acting in concert with them”. Instead of blocking such content/links from being shared on its serv…*
+      
   - Miniso, the Japanese-looking variety store from China, sees shares jump in US IPO
       <hr/>
       
@@ -73,16 +78,11 @@ Computers themselves can do only stupidly straightforward things. The reason the
       <hr/>
       
       - *Sony just announced a $5,000 3D display, but odds are it’s probably not for you. Primarily known for its consumer goods, the company is targeting creative professionals with the Spatial Reality Display — more specifically, those working in fields like compute…*
-      
+       
   - FAA streamlines commercial launch rules to keep the rockets flying
       <hr/>
-      
-      - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
        
-  - Twitter is investigating widespread outage reports
-      <hr/>
-       
-       - *If you’re reading this, you probably didn’t get here from Twitter . The service has been experiencing widespread reports of outages for at least an hour. The issue has impact a range of different activities on the site, ranging from newsfeeds to the ability t…*
+       - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
       
 
 <br />
