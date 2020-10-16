@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Beware of bugs in the above code; I have only proved it correct, not tried it.
+C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
 
-~ Donald Knuth
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Beware of bugs in the above code; I have only proved it correct, not tried it.
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter is investigating widespread outage reports
+  - FAA streamlines commercial launch rules to keep the rockets flying
      <hr/>
      
-      - *If you’re reading this, you probably didn’t get here from Twitter . The service has been experiencing widespread reports of outages for at least an hour. The issue has impact a range of different activities on the site, ranging from newsfeeds to the ability t…*
+      - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
      
+  - Twitter is investigating widespread outage reports
+      <hr/>
+      
+      - *If you’re reading this, you probably didn’t get here from Twitter . The service has been experiencing widespread reports of outages for at least an hour. The issue has impact a range of different activities on the site, ranging from newsfeeds to the ability t…*
+      
   - B&O’s BeoPlay H4 headphones offer great looks and comfort, but no noise canceling
       <hr/>
       
@@ -73,16 +78,11 @@ Beware of bugs in the above code; I have only proved it correct, not tried it.
       <hr/>
       
       - *Stripe makes a big acquisition, Google rolls out search improvements and Snapchat adds a TikTok-y feature. This is your Daily Crunch for October 15, 2020. The big story: Stripe acquires Nigeria’s Paystack Stripe has made its biggest acquisition to date. It an…*
-      
+       
   - Startup founders set up hacker homes to recreate Silicon Valley synergy
       <hr/>
-      
-      - *“We joke that we’ve got so many people in the house that have different pieces of expertise that you just yell down the hallway if you have a problem."*
        
-  - Duplex, Google's conversational A.I, has updated 3M+ business listings since pandemic
-      <hr/>
-       
-       - *Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing, for example. When the pandemic b…*
+       - *“We joke that we’ve got so many people in the house that have different pieces of expertise that you just yell down the hallway if you have a problem."*
       
 
 <br />
