@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 
-~ Terry Winograd
+~ Marijn Haverbeke
 <pre>
 
 </pre>
