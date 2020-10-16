@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 
 ~ Fred Brooks
 <pre>
