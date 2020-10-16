@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you think it's simple, then you have misunderstood the problem.
+Programs must be written for people to read, and only incidentally for machines to execute.
 
-~ Bjarne Stroustrup
+~ Hal Abelson
 <pre>
 
 </pre>
