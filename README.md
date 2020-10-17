@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When we don’t understand a process, we fall into magical thinking about results.
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 
-~ Jef Raskin
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ When we don’t understand a process, we fall into magical thinking about result
 </pre>
 <strong>Daily News</strong>
   
-  - Pear hosted its invite-only demo day online year; here's what you might have missed
+  - Three views on the future of media startups
      <hr/>
      
-      - *Pear, the eight-year-old, Palo Alto, Calif.-based seed-stage venture firm that has, from its outset, attracted the attention of VCs who think the firm has an eye for nascent talent, staged its seventh annual demo day earlier this week, and while it was virtua…*
+      - *The Equity crew this week chewed through a trio of media stories, each dealing with private companies and their successes. The Wall Street Journal recently reported that Axios was growing rapidly and near profitability. The paper also broke news that Morning …*
      
+  - Pear hosted its invite-only demo day online year; here's what you might have missed
+      <hr/>
+      
+      - *Pear, the eight-year-old, Palo Alto, Calif.-based seed-stage venture firm that has, from its outset, attracted the attention of VCs who think the firm has an eye for nascent talent, staged its seventh annual demo day earlier this week, and while it was virtua…*
+      
   - Google Assistant, Maps, and Search can now help you figure out where to vote
       <hr/>
       
@@ -73,16 +78,11 @@ When we don’t understand a process, we fall into magical thinking about result
       <hr/>
       
       - *A New York Post story forces social platforms to make (and in Twitter’s case, reverse) some difficult choices, Sony announces a new 3D display and fitness startup Future raises $24 million. This is your Daily Crunch for October 16, 2020. The big story: Twitte…*
-      
+       
   - Twitter is now allowing users to share that controversial New York Post story
       <hr/>
-      
-      - *Twitter has taken another step back from its initial decision to block users from sharing links to or images of a New York Post story reporting on emails and other data supposedly originating on a laptop belonging to Democratic presidential nominee Joe Biden’…*
        
-  - Lawmatics raises $2.5M to help lawyers market themselves
-      <hr/>
-       
-       - *Lawmatics, a San Diego startup that’s building marketing and CRM software for lawyers, is announcing that it has raised $2.5 million in seed funding. CEO Matt Siegel used to practice law himself, and he told me that even though tech companies have a wide rang…*
+       - *Twitter has taken another step back from its initial decision to block users from sharing links to or images of a New York Post story reporting on emails and other data supposedly originating on a laptop belonging to Democratic presidential nominee Joe Biden’…*
       
 
 <br />
