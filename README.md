@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Debugging time increases as a square of the program’s size.
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 
-~ Chris Wenham
+~ Douglas Crockford
 <pre>
 
 </pre>
