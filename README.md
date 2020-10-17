@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+When we don’t understand a process, we fall into magical thinking about results.
 
-~ Dennis Ritchie
+~ Jef Raskin
 <pre>
 
 </pre>
