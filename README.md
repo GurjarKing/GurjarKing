@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Documentation is a love letter that you write to your future self.
+Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 
-~ Damian Conway
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
