@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you learn how to solve problems, you can go through life and do pretty well.
+Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 
-~ Gary Kildall
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If you learn how to solve problems, you can go through life and do pretty well.
 </pre>
 <strong>Daily News</strong>
   
-  - Solve the 'dead equity' problem with a longer founder vesting schedule
+  - VCs reload ahead of the election as unicorns power ahead
      <hr/>
      
-      - *The four-year vesting schedule that the typical startup uses today is a problem waiting to happen. Here's how you can fix it forever.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. There was a steady drumbeat of bullish news for unicorns this week.*
      
+  - Solve the 'dead equity' problem with a longer founder vesting schedule
+      <hr/>
+      
+      - *The four-year vesting schedule that the typical startup uses today is a problem waiting to happen. Here's how you can fix it forever.*
+      
   - This Week in Apps: Apple's big event, lidar comes to iPhone, Android gets a new IDE
       <hr/>
       
@@ -73,16 +78,11 @@ If you learn how to solve problems, you can go through life and do pretty well.
       <hr/>
       
       - *“Emily in Paris,” a new series on Netflix, has provoked skeptical responses from actual Parisians who are happy to point out the abundant clichés in its story of a young American (played by Lily Collins) who takes a last-minute transfer to a marketing agency …*
-      
+       
   - Three views on the future of media startups
       <hr/>
-      
-      - *The Equity crew this week chewed through a trio of media stories, each dealing with private companies and their successes. The Wall Street Journal recently reported that Axios was growing rapidly and near profitability. The paper also broke news that Morning …*
        
-  - Pear hosted its invite-only demo day online year; here's what you might have missed
-      <hr/>
-       
-       - *Pear, the eight-year-old, Palo Alto, Calif.-based seed-stage venture firm that has, from its outset, attracted the attention of VCs who think the firm has an eye for nascent talent, staged its seventh annual demo day earlier this week, and while it was virtua…*
+       - *The Equity crew this week chewed through a trio of media stories, each dealing with private companies and their successes. The Wall Street Journal recently reported that Axios was growing rapidly and near profitability. The paper also broke news that Morning …*
       
 
 <br />
