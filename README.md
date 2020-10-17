@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+If you learn how to solve problems, you can go through life and do pretty well.
 
-~ Michael Stal
+~ Gary Kildall
 <pre>
 
 </pre>
