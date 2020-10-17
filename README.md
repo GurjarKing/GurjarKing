@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 
-~ Gottfried Wilhelm Leibniz
+~ Andy Hunt (author)
 <pre>
 
 </pre>
