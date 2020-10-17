@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 
-~ David Parnas
+~ Gerald Weinberg
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I can build a reliable system with thousands of bugs, if you let me choose my bu
 </pre>
 <strong>Daily News</strong>
   
-  - Three views on the future of media startups
+  - Original Content podcast: It's hard to resist the silliness of 'Emily in Paris'
      <hr/>
      
-      - *The Equity crew this week chewed through a trio of media stories, each dealing with private companies and their successes. The Wall Street Journal recently reported that Axios was growing rapidly and near profitability. The paper also broke news that Morning …*
+      - *“Emily in Paris,” a new series on Netflix, has provoked skeptical responses from actual Parisians who are happy to point out the abundant clichés in its story of a young American (played by Lily Collins) who takes a last-minute transfer to a marketing agency …*
      
+  - Three views on the future of media startups
+      <hr/>
+      
+      - *The Equity crew this week chewed through a trio of media stories, each dealing with private companies and their successes. The Wall Street Journal recently reported that Axios was growing rapidly and near profitability. The paper also broke news that Morning …*
+      
   - Pear hosted its invite-only demo day online year; here's what you might have missed
       <hr/>
       
@@ -73,16 +78,11 @@ I can build a reliable system with thousands of bugs, if you let me choose my bu
       <hr/>
       
       - *Election Day approaches! Still not sure where the nearest polling place or ballot drop box is? Google wants to help. This morning the company rolled out a handful of features across Google Assistant, Google Maps, and Google Search, all meant to kick in when a…*
-      
+       
   - Daily Crunch: Twitter walks back New York Post decision
       <hr/>
-      
-      - *A New York Post story forces social platforms to make (and in Twitter’s case, reverse) some difficult choices, Sony announces a new 3D display and fitness startup Future raises $24 million. This is your Daily Crunch for October 16, 2020. The big story: Twitte…*
        
-  - Twitter is now allowing users to share that controversial New York Post story
-      <hr/>
-       
-       - *Twitter has taken another step back from its initial decision to block users from sharing links to or images of a New York Post story reporting on emails and other data supposedly originating on a laptop belonging to Democratic presidential nominee Joe Biden’…*
+       - *A New York Post story forces social platforms to make (and in Twitter’s case, reverse) some difficult choices, Sony announces a new 3D display and fitness startup Future raises $24 million. This is your Daily Crunch for October 16, 2020. The big story: Twitte…*
       
 
 <br />
