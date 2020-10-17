@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
 
-~ James Gleick
+~ Fred Brooks
 <pre>
 
 </pre>
