@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Before software can be reusable it first has to be usable.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Ralph Johnson (computer scientist)
+~ Butler Lampson
 <pre>
 
 </pre>
