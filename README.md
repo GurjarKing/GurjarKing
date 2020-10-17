@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+Debugging time increases as a square of the program’s size.
 
-~ Edsger W. Dijkstra
+~ Chris Wenham
 <pre>
 
 </pre>
