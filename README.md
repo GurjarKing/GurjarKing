@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Joseph Yoder (computer scientist)
+~ James Gleick
 <pre>
 
 </pre>
