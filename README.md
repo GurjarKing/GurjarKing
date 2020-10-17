@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 
-~ John Carmack
+~ Poul Anderson
 <pre>
 
 </pre>
