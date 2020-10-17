@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
+Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
 
-~ Fred Brooks
+~ Dennis Ritchie
 <pre>
 
 </pre>
