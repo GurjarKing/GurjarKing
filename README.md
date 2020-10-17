@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
 
-~ Bjarne Stroustrup
+~ David Parnas
 <pre>
 
 </pre>
