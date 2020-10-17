@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That hardly ever happens is another way of saying 'it happens'.
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 
-~ Douglas Crockford
+~ Ellen Ullman
 <pre>
 
 </pre>
