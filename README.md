@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 
-~ George Boole
+~ Michael Stal
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ That language is an instrument of human reason, and not merely a medium for the 
 </pre>
 <strong>Daily News</strong>
   
-  - This Week in Apps: Apple's big event, lidar comes to iPhone, Android gets a new IDE
+  - Solve the 'dead equity' problem with a longer founder vesting schedule
      <hr/>
      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      - *The four-year vesting schedule that the typical startup uses today is a problem waiting to happen. Here's how you can fix it forever.*
      
+  - This Week in Apps: Apple's big event, lidar comes to iPhone, Android gets a new IDE
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
   - Original Content podcast: It's hard to resist the silliness of 'Emily in Paris'
       <hr/>
       
@@ -73,16 +78,11 @@ That language is an instrument of human reason, and not merely a medium for the 
       <hr/>
       
       - *The Equity crew this week chewed through a trio of media stories, each dealing with private companies and their successes. The Wall Street Journal recently reported that Axios was growing rapidly and near profitability. The paper also broke news that Morning …*
-      
+       
   - Pear hosted its invite-only demo day online year; here's what you might have missed
       <hr/>
-      
-      - *Pear, the eight-year-old, Palo Alto, Calif.-based seed-stage venture firm that has, from its outset, attracted the attention of VCs who think the firm has an eye for nascent talent, staged its seventh annual demo day earlier this week, and while it was virtua…*
        
-  - Google Assistant, Maps, and Search can now help you figure out where to vote
-      <hr/>
-       
-       - *Election Day approaches! Still not sure where the nearest polling place or ballot drop box is? Google wants to help. This morning the company rolled out a handful of features across Google Assistant, Google Maps, and Google Search, all meant to kick in when a…*
+       - *Pear, the eight-year-old, Palo Alto, Calif.-based seed-stage venture firm that has, from its outset, attracted the attention of VCs who think the firm has an eye for nascent talent, staged its seventh annual demo day earlier this week, and while it was virtua…*
       
 
 <br />
