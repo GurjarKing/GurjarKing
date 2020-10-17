@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 
-~ Andy Hunt (author)
+~ John Carmack
 <pre>
 
 </pre>
