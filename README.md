@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ David Parnas
+~ George Boole
 <pre>
 
 </pre>
