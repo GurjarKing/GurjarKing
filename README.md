@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 
-~ Ellen Ullman
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
