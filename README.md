@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 
-~ Albert Einstein
+~ Richard Hamming
 <pre>
 
 </pre>
