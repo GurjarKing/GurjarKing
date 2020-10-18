@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
