@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+Unix is simple. It just takes a genius to understand its simplicity.
 
-~ Donald Knuth
+~ Dennis Ritchie
 <pre>
 
 </pre>
