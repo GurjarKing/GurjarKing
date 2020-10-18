@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-AI is a fundamental risk to the existence of human civilization.
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 
-~ Elon Musk
+~ Donald Knuth
 <pre>
 
 </pre>
