@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-For most software, efficiency just does not matter.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Daniel T. Barry
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
