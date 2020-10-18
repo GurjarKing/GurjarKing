@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Unix is simple. It just takes a genius to understand its simplicity.
+Simplicity does not precede complexity, but follows it.
 
-~ Dennis Ritchie
+~ Alan Perlis
 <pre>
 
 </pre>
