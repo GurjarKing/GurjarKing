@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
 
-~ Douglas Crockford
+~ L. Peter Deutsch
 <pre>
 
 </pre>
