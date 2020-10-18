@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Life is too short to run proprietary software.
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 
-~ Bdale Garbee
+~ Albert Einstein
 <pre>
 
 </pre>
