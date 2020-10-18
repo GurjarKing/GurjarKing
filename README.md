@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+One accurate measurement is worth more than a thousand expert opinions.
 
-~ Dennis Ritchie
+~ Grace Hopper
 <pre>
 
 </pre>
