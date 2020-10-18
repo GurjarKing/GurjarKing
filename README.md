@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
 
-~ Alan Perlis
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
