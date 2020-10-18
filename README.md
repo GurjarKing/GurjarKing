@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 
-~ Edsger W. Dijkstra
+~ Vint Cerf
 <pre>
 
 </pre>
