@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Simplicity does not precede complexity, but follows it.
+Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 
-~ Alan Perlis
+~ Martin Fowler
 <pre>
 
 </pre>
