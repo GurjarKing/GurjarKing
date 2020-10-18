@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+Life is too short to run proprietary software.
 
-~ David Parnas
+~ Bdale Garbee
 <pre>
 
 </pre>
