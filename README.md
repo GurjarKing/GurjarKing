@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
 
-~ Martin Fowler
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
