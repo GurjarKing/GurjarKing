@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+For most software, efficiency just does not matter.
 
-~ Ward Cunningham
+~ Daniel T. Barry
 <pre>
 
 </pre>
