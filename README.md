@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 
-~ L. Peter Deutsch
+~ Nathaniel Borenstein
 <pre>
 
 </pre>
