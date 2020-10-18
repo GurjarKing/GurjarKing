@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 
-~ Edsger W. Dijkstra
+~ Richard Feynman
 <pre>
 
 </pre>
