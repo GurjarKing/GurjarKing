@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+Making things easy is hard.
 
-~ Albert Einstein
+~ Ted Nelson
 <pre>
 
 </pre>
