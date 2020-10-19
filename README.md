@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A number of studies have shown testing not very effective at finding bugs.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Daniel T. Barry
+~ Ted Nelson
 <pre>
 
 </pre>
