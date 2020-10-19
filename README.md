@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Walking on water and developing software from a specification are easy if both are frozen.
+A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 
-~ Edward V. Berard
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Walking on water and developing software from a specification are easy if both a
 </pre>
 <strong>Daily News</strong>
   
-  - Instagram's handling of kids' data is now being probed in the EU
+  - Pakistan lifts ban on TikTok
      <hr/>
      
-      - *Facebook’s lead data regulator in Europe has opened another two probes into its business empire — both focused on how the Instagram platform processes children’s information. The action by Ireland’s Data Protection Commission (DPC), reported earlier by the Te…*
+      - *Pakistan Telecommunication Authority said on Monday it has lifted the ban on TikTok, 11 days after the South Asian nation’s telecom authority blocked the popular short video app in the country over problematic videos on the platform. The authority, however, w…*
      
+  - SpaceX successfully launches 60 more Starlink satellites, bringing total delivered to orbit to more than 800
+      <hr/>
+      
+      - *SpaceX on Sunday launched another batch of 60 of its internet-beaming Starlink satellites, growing its constellation even further. That makes 835 Starlink satellites launched thus far, though not all of those are operational (some were test satellites that we…*
+      
+  - Instagram's handling of kids' data is now being probed in the EU
+      <hr/>
+      
+      - *Facebook’s lead data regulator in Europe has opened another two probes into its business empire — both focused on how the Instagram platform processes children’s information. The action by Ireland’s Data Protection Commission (DPC), reported earlier by the Te…*
+      
   - Alibaba Group will spend $3.6 billion to take control of Chinese supermarket giant Sun Art
       <hr/>
       
       - *Alibaba Group said today it will spend about $3.6 billion to take a controlling stake in Sun Art, one of China’s largest big-box and supermarket chains. After the transaction is complete, Alibaba Group will own 72% of Sun Art. As in other countries, COVID-19 …*
-      
+       
   - VCs reload ahead of the election as unicorns power ahead
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. There was a steady drumbeat of bullish news for unicorns this week.*
-      
-  - Solve the 'dead equity' problem with a longer founder vesting schedule
-      <hr/>
-      
-      - *The four-year vesting schedule that the typical startup uses today is a problem waiting to happen. Here's how you can fix it forever.*
        
-  - This Week in Apps: Apple's big event, lidar comes to iPhone, Android gets a new IDE
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. There was a steady drumbeat of bullish news for unicorns this week.*
       
 
 <br />
