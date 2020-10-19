@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
 
-~ Richard Hamming
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
