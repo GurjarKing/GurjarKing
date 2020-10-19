@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Don't worry about anything. Just do what you can and be the best you can be.
+The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
 
-~ Douglas Crockford
+~ Manuel Blum
 <pre>
 
 </pre>
