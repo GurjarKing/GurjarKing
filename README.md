@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+The proper use of comments is to compensate for our failure to express ourself in code.
 
-~ Henry Ford
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If we’d asked the customers what they wanted, they would have said “faster h
 </pre>
 <strong>Daily News</strong>
   
-  - Lockheed picks Relativity's 3D-printed rocket for experimental NASA mission
+  - Juniper Networks acquires Boston-area AI SD-WAN startup 128 Technology for $450M
      <hr/>
      
-      - *Relativity Space has bagged its first public government contract, and with a major defense contractor at that. The launch startup’s 3D-printed rockets are a great match for a particularly complex mission Lockheed is undertaking for NASA’s Tipping Point progra…*
+      - *Today Juniper Networks announced it was acquiring smart wide area networking startup 128 Technology for $450 million. This marks the second AI-fueled networking company Juniper has acquired in the last year and a half after purchasing Mist Systems in March 20…*
      
+  - Lockheed picks Relativity's 3D-printed rocket for experimental NASA mission
+      <hr/>
+      
+      - *Relativity Space has bagged its first public government contract, and with a major defense contractor at that. The launch startup’s 3D-printed rockets are a great match for a particularly complex mission Lockheed is undertaking for NASA’s Tipping Point progra…*
+      
   - Disney+ UX teardown: Wins, fails and fixes
       <hr/>
       
@@ -73,16 +78,11 @@ If we’d asked the customers what they wanted, they would have said “faster h
       <hr/>
       
       - *Prosecutors accused the hackers of launching the "most disruptive and destructive series of computer attacks ever attributed to a single group."*
-      
+       
   - Late-stage deals made Q3 2020 a standout VC quarter for US-based startups
       <hr/>
-      
-      - *Remember back in March when the VC game was done for the year, checkbooks were snapping shut and startup layoffs led the headlines? So much for all that. Q3’s venture capital numbers are in and they are anything but weak. In retrospect, the Q2 VC slowdown loo…*
        
-  - Raspberry Pi Foundation launches Compute Module 4 for industrial users
-      <hr/>
-       
-       - *The Raspberry Pi Foundation is launching a new product today — the Compute Module 4. If you’ve been keeping an eye on the Raspberry Pi releases, you know that the flagship Raspberry Pi 4 was released in June 2019. The Compute Module 4 features the same proces…*
+       - *Remember back in March when the VC game was done for the year, checkbooks were snapping shut and startup layoffs led the headlines? So much for all that. Q3’s venture capital numbers are in and they are anything but weak. In retrospect, the Q2 VC slowdown loo…*
       
 
 <br />
