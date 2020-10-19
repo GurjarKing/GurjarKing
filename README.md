@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A few months writing code can save you a few hours in design.
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 
-~ Anonymous
+~ Richard Hamming
 <pre>
 
 </pre>
