@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
+Don't worry about anything. Just do what you can and be the best you can be.
 
-~ Paul Graham (programmer)
+~ Douglas Crockford
 <pre>
 
 </pre>
