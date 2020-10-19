@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Making things easy is hard.
+I think you should always bear in mind that entropy is not on your side.
 
-~ Ted Nelson
+~ Elon Musk
 <pre>
 
 </pre>
