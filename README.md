@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
 
-~ Manuel Blum
+~ Albert Einstein
 <pre>
 
 </pre>
