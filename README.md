@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Alan Perlis
+~ Daniel T. Barry
 <pre>
 
 </pre>
