@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think you should always bear in mind that entropy is not on your side.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
-~ Elon Musk
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I think you should always bear in mind that entropy is not on your side.
 </pre>
 <strong>Daily News</strong>
   
-  - VCs reload ahead of the election as unicorns power ahead
+  - Alibaba Group will spend $3.6 billion to take control of Chinese supermarket giant Sun Art
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. There was a steady drumbeat of bullish news for unicorns this week.*
+      - *Alibaba Group said today it will spend about $3.6 billion to take a controlling stake in Sun Art, one of China’s largest big-box and supermarket chains. After the transaction is complete, Alibaba Group will own 72% of Sun Art. As in other countries, COVID-19 …*
      
+  - VCs reload ahead of the election as unicorns power ahead
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. There was a steady drumbeat of bullish news for unicorns this week.*
+      
   - Solve the 'dead equity' problem with a longer founder vesting schedule
       <hr/>
       
@@ -73,16 +78,11 @@ I think you should always bear in mind that entropy is not on your side.
       <hr/>
       
       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
+       
   - Original Content podcast: It's hard to resist the silliness of 'Emily in Paris'
       <hr/>
-      
-      - *“Emily in Paris,” a new series on Netflix, has provoked skeptical responses from actual Parisians who are happy to point out the abundant clichés in its story of a young American (played by Lily Collins) who takes a last-minute transfer to a marketing agency …*
        
-  - Three views on the future of media startups
-      <hr/>
-       
-       - *The Equity crew this week chewed through a trio of media stories, each dealing with private companies and their successes. The Wall Street Journal recently reported that Axios was growing rapidly and near profitability. The paper also broke news that Morning …*
+       - *“Emily in Paris,” a new series on Netflix, has provoked skeptical responses from actual Parisians who are happy to point out the abundant clichés in its story of a young American (played by Lily Collins) who takes a last-minute transfer to a marketing agency …*
       
 
 <br />
