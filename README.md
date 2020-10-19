@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+Walking on water and developing software from a specification are easy if both are frozen.
 
-~ Richard Hamming
+~ Edward V. Berard
 <pre>
 
 </pre>
