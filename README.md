@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 
-~ Albert Einstein
+~ Gerald Weinberg
 <pre>
 
 </pre>
