@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
 
-~ Poul Anderson
+~ John Romero
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I have yet to see any problem, however complicated, which when looked at in the 
 </pre>
 <strong>Daily News</strong>
   
-  - Index nabs $2.6M seed to create BI dashboards without coding
+  - As Blizzard sunsets StarCraft II, some of its key creators raise cash for a new gaming studio
      <hr/>
      
-      - *Index founders, Xavier Pladevall and Eduardo Portet, have been friends since they were small children in the Dominican Republic. Both came to college in the U.S., and last year the two decided to launch a startup to help non-technical users build business int…*
+      - *Even as Blizzard pulls the plug on new updates for its StarCraft II game, nearly a decade after its launch, gaming investors are financing the next new thing coming from key members of the game’s early development team. Blizzard vets Tim Morten, the former pr…*
      
-  - Stampli, an invoice management software startup, launches a payments product
+  - As startups accelerate in record Q3, Europe and Asia rack up huge VC results
       <hr/>
       
-      - *Stampli, a collaborative invoice management software company, introduced a payments product today called Stampli Direct Pay. The startup launched back in 2015 with a mission to simplify invoice management through collaboration (and a dash of AI). Interestingl…*
+      - *Venture capital activity in Europe and Asia saw a strong return to form in Q3, data indicates. The two continents enjoyed more venture capital investment into their local startups than in some time, underscoring that strong VC results the United States saw in…*
       
-  - Gowalla is being resurrected as an augmented reality social app
+  - Leading a $15 million round, Prosus Ventures makes the challenger bank Klar its first bet in Mexico
       <hr/>
       
-      - *Gowalla is coming back. The startup, which longtime TechCrunch readers will likely recall, was an ambitious consumer social app that excited Silicon Valley investors but ultimately floundered in its quest to take on Foursquare before an eventual $3 million ac…*
+      - *Klar, a new online bank based in Mexico City, has become the first big bet that Prosus Ventures (the firm formerly known as Naspers Ventures) is taking in Latin America outside of Brazil. Founded by Stefan Moller, a former consultant at Bain & Co. who advised…*
       
-  - Robin.io launches a free version of its cloud-native Kubernetes storage solution
+  - Sym raises $9M Series A for its security workflow platform
       <hr/>
       
-      - *Robin.io, a cloud-native application and data management solution with enterprise customers like USAA, Sabre, SAP, Palo Alto Networks and Rakuten Mobile, today announced the launch of its new free(-mium) version of its service, in addition to a major update t…*
+      - *Sym, a new platform that makes it easier for developers to integrate security and privacy workflows into their process, today announced that it has raised a $9 million Series A round led by Amplify Partners. Earlier this year, the company announced its $3 mil…*
        
-  - Genies updates its software development kit and partners with Gucci, Giphy
+  - Unusual Ventures' Sarah Leary and John Vrionis join Extra Crunch Live today at 2 p.m. ET/11 a.m. PT
       <hr/>
        
-       - *Genies, has updated its software development kit and added Giphy and Gucci as new partners to enable their users to create personalized Genie avatars. The company released the first version of its sdk in 2018 when it raised a $10 million to directly challenge…*
+       - *Today at 2 p.m. ET/11 a.m. PT, Unusual Ventures’ Sarah Leary and John Vrionis are joining us over at the Extra Crunch Live stage! The Unusual Ventures team has investments spanning the consumer and enterprise space, including Robinhood, AppDynamics, Mulesoft,…*
       
 
 <br />
