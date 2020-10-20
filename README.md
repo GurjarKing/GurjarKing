@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The entire history of software engineering is that of the rise in levels of abstraction.
+The best way to know that you have found the last bug is never to find the first bug.
 
-~ Grady Booch
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The entire history of software engineering is that of the rise in levels of abst
 </pre>
 <strong>Daily News</strong>
   
-  - Google Photos revives its prints subscription service, expands same-day print options
+  - Amazon launches a program to pay consumers for their data on non-Amazon purchases
      <hr/>
      
-      - *Google Photos is reviving its photo printing subscription service and introducing same-day prints. The company earlier this year had briefly tested a new program that used A.I. to suggest the month’s 10 best photos, which were then shipped to your home automa…*
+      - *Amazon has launched a new program that directly pays consumers for information about what they’re purchasing outside of Amazon.com and for responding to short surveys. The program, Amazon Shopper Panel, asks users to send in 10 receipts per month for any purc…*
      
-  - Beam is building a web browser that gathers knowledge from your web activity
+  - French TV networks team up to launch streaming service Salto
       <hr/>
       
-      - *Remember Netscape Navigator and Internet Explorer? Those applications from the 1990s used emphatic metaphors in their names to talk about a simple task — browsing the web. Today, nobody would say that Google Chrome is a web explorer. Browsing the web has beco…*
+      - *There’s a new streaming service in France called Salto. The companies behind the new service have been around for a while though. Salto is a joint initiative between TF1, France Télévisions and M6 — three major TV networks. Those companies already had their o…*
       
-  - Robotic kitchen startup YPC raises a $1.8M seed round
+  - Investors appear to shrug at antitrust lawsuit aimed at Google
       <hr/>
       
-      - *Montreal-based YPC Technologies today announced that it has raised a $1.8 million seed round. Led by Hike Ventures and Real Ventures, the funding includes participation from Toyota AI Ventures and Uphill Capital, among others, designed to help the company pil…*
+      - *Investors do not seem concerned that the Department of Justice filed an antitrust suit against Google earlier today. The suit, seen by some as a stunt near the election, is one of a multi-part push to change the face of the technology industry, which has seen…*
       
-  - As Blizzard sunsets StarCraft II, some of its key creators raise cash for a new gaming studio
+  - Meadow launches a powerful mobile marketing tool for cannabis dispensaries
       <hr/>
       
-      - *Even as Blizzard pulls the plug on new updates for its StarCraft II game, nearly a decade after its launch, gaming investors are financing the next new thing coming from key members of the game’s early development team. Blizzard vets Tim Morten, the former pr…*
+      - *Meadow was once called the Amazon of weed. Now it’s trying to be the Salesforce of weed, too. Meadow, the maker of a popular point of sale system for cannabis dispensaries, is today launching new tools for its clients. Called the Meadow Platform, it includes …*
        
-  - As startups accelerate in record Q3, Europe and Asia rack up huge VC results
+  - Google announces slew of Chrome OS features to help extend enterprise usage
       <hr/>
        
-       - *Venture capital activity in Europe and Asia saw a strong return to form in Q3, data indicates. The two continents enjoyed more venture capital investment into their local startups than in some time, underscoring that strong VC results the United States saw in…*
+       - *As companies have moved to work from home this year, working on the internet has become the norm, and it turns out that Chrome OS was an operating system built for cloud-based applications. But most enterprise use cases are a bit more complex, and Google intr…*
       
 
 <br />
