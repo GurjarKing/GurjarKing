@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any sufficiently advanced technology is indistinguishable from magic.
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 
-~ Arthur C. Clarke
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Any sufficiently advanced technology is indistinguishable from magic.
 </pre>
 <strong>Daily News</strong>
   
-  - Trilo lets merchants offer rewards to customers choosing bank-to-bank payments
+  - Dublin's LearnUpon raises $56M for its online learning management system for enterprises
      <hr/>
      
-      - *Open banking enables bank-to-bank payments, meaning that (in theory) merchants should be able to accept payments without having to hand over fees to Visa or Mastercard or other payment providers, such as Stripe. The challenge, however, isn’t just implementing…*
+      - *One big technology by-product of the Covid-19 pandemic has been a much stronger focus on online education solutions — providing the tools for students to continue learning when the public health situation is preventing them from going into physical classrooms…*
      
+  - Trilo lets merchants offer rewards to customers choosing bank-to-bank payments
+      <hr/>
+      
+      - *Open banking enables bank-to-bank payments, meaning that (in theory) merchants should be able to accept payments without having to hand over fees to Visa or Mastercard or other payment providers, such as Stripe. The challenge, however, isn’t just implementing…*
+      
   - Eat Just partners with Proterra to launch a new subsidiary in Asia
       <hr/>
       
@@ -73,16 +78,11 @@ Any sufficiently advanced technology is indistinguishable from magic.
       <hr/>
       
       - *SK Hynix, one of the world’s largest chip makers, announced today it will pay $9 billion for Intel’s flash memory business. Intel said it will use proceeds from the deal to focus on artificial intelligence, 5G and edge computing. “For Intel, this transaction …*
-      
+       
   - Trump says 'nobody gets hacked' but forgot his hotel chain was hacked -- twice
       <hr/>
-      
-      - *Hackers don't need an IQ score of 197 to break into your accounts. All they need is for you to lower your guard.*
        
-  - ShopUp raises $22.5 million to digitize millions of mom-and-pop shops in Bangladesh
-      <hr/>
-       
-       - *A startup that is aiming to digitize millions of neighborhood stores in Bangladesh just raised the country’s largest Series A financing round. Dhaka-headquartered ShopUp said on Tuesday it has raised $22.5 million in a round co-led by Sequoia Capital India an…*
+       - *Hackers don't need an IQ score of 197 to break into your accounts. All they need is for you to lower your guard.*
       
 
 <br />
