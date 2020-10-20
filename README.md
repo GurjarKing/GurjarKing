@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+A language that doesn’t have everything is actually easier to program in than some that do.
 
-~ Linus Torvalds
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ See, you not only have to be a good coder to create a system like Linux, you hav
 </pre>
 <strong>Daily News</strong>
   
-  - Adobe brings its misinformation-fighting content attribution tool to the Photoshop beta
+  - Cloud Foundry coalesces around Kubernetes
      <hr/>
      
-      - *Adobe’s work on a chain of custody that could link online images back to their origins is inching closer to becoming a reality. The prototype, part of the Content Authenticity Initiative (CAI), will soon appear in the beta of Photoshop, Adobe’s ubiquitous ima…*
+      - *In a normal year, the Cloud Foundry project would be hosting its annual European Summit in Dublin this week. But this is 2020, so it’s a virtual event. This year, however, has been a bit of a transformative year for the open-source Platform-as-a-Service proje…*
      
-  - How to 'watch' NASA's OSIRIS-REx snatch a sample from near-Earth asteroid Bennu
+  - Synthetaic raises $3.5M to train AI with synthetic data
       <hr/>
       
-      - *NASA’s OSIRIS-REx probe is about to touch down on an asteroid for a smash-and-grab mission, and you can follow its progress live — kind of. The craft is scheduled to perform its collection operation this afternoon, and we’ll know within minutes if all went ac…*
+      - *Synthetaic is a startup workign to create data — specifically images — that can be used to train artificial intelligence. Founder and CEO Corey Jaskolski’s past experience includes work with both National Geographic (where he was recently named Explorer of th…*
       
-  - Equity Shot: The DoJ, Google, and the suit could mean for startups
+  - Snap shares explode after blowing past earnings expectations
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. It’s a big day in tech because the US Federal Government is going after Google on anti-competitive grounds. Sure, the timing appea…*
+      - *Snap shares were up nearly 20% in after-hours trading after the company showcased a massive earnings beat, besting analyst expectations on both revenue and earnings per share for Q3. The company was already hovering above an all-time-high, with Tuesday’s beat…*
       
-  - 7 investors discuss augmented reality and VR startup opportunities in 2020
+  - Here's why Netflix shares are off after reporting earnings
       <hr/>
       
-      - *For all of the investors preaching that augmented reality technology will likely be the successor to the modern smartphone, today, most venture capitalists are still quite wary to back AR plays. The reasons are plentiful, but all tend to circle around the ide…*
+      - *Shares of consumer video service Netflix are down sharply after the bell today, following the company’s Q3 earnings report. Why is Netflix suddenly worth about 5% less than before? A mixed earnings report, a disappointing new paying customer number, and sligh…*
        
-  - Root targets $6B+ valuation in pending IPO, a boon for insurtech startups
+  - Netflix user growth slows as production ramps up again
       <hr/>
        
-       - *This morning Root Insurance, a neo-insurance provider that has attracted ample private capital for its auto-insurance business, is targeting a valuation of as much as $6.34 billion in its pending IPO. The former startup follows insurtech leader Lemonade to th…*
+       - *After the COVID-19 pandemic drove impressive subscriber growth earlier this year, Netflix’s numbers have come back down to Earth. The streaming service added 15.77 million net new subscribers in the first quarter of the year, followed by 10.09 million in Q2. …*
       
 
 <br />
