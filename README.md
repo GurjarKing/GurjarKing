@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+Any sufficiently advanced technology is indistinguishable from magic.
 
-~ Anonymous
+~ Arthur C. Clarke
 <pre>
 
 </pre>
