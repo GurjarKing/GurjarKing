@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 
-~ Richard Moore (engineer)
+~ Anonymous
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The difference between theory and practice is that in theory, there is no differ
 </pre>
 <strong>Daily News</strong>
   
-  - Intel agrees to sell its NAND business to SK Hynix for $9 billion
+  - Trilo lets merchants offer rewards to customers choosing bank-to-bank payments
      <hr/>
      
-      - *SK Hynix, one of the world’s largest chip makers, announced today it will pay $9 billion for Intel’s flash memory business. Intel said it will use proceeds from the deal to focus on artificial intelligence, 5G and edge computing. “For Intel, this transaction …*
+      - *Open banking enables bank-to-bank payments, meaning that (in theory) merchants should be able to accept payments without having to hand over fees to Visa or Mastercard or other payment providers, such as Stripe. The challenge, however, isn’t just implementing…*
      
+  - Eat Just partners with Proterra to launch a new subsidiary in Asia
+      <hr/>
+      
+      - *Eat Just, the plant-based food startup, is launching a new Asian subsidiary through a partnership with Proterra Investment Partners Asia. The agreement includes building Eat Just’s first factory in Asia, which will be based in Singapore. As part of the deal, …*
+      
+  - Intel agrees to sell its NAND business to SK Hynix for $9 billion
+      <hr/>
+      
+      - *SK Hynix, one of the world’s largest chip makers, announced today it will pay $9 billion for Intel’s flash memory business. Intel said it will use proceeds from the deal to focus on artificial intelligence, 5G and edge computing. “For Intel, this transaction …*
+      
   - Trump says 'nobody gets hacked' but forgot his hotel chain was hacked -- twice
       <hr/>
       
       - *Hackers don't need an IQ score of 197 to break into your accounts. All they need is for you to lower your guard.*
-      
+       
   - ShopUp raises $22.5 million to digitize millions of mom-and-pop shops in Bangladesh
       <hr/>
-      
-      - *A startup that is aiming to digitize millions of neighborhood stores in Bangladesh just raised the country’s largest Series A financing round. Dhaka-headquartered ShopUp said on Tuesday it has raised $22.5 million in a round co-led by Sequoia Capital India an…*
-      
-  - SAIF Partners rebrands as Elevation Capital, secures $400 million for its new India fund
-      <hr/>
-      
-      - *SAIF Partners has raised $400 million for a new fund and rebranded the 18-year-old influential venture capital firm as it looks to back more early-stage startups in the world’s second largest internet market. The new fund is SAIF Partners’ seventh for early-s…*
        
-  - Lee Fixel burnishes his reputation, raising his second massive fund in 2020
-      <hr/>
-       
-       - *On Friday, former Tiger Global Management investor Lee Fixel registered plans for the second fund of his new investment firm, Addition, just four months after closing the first. But investors who were shut out of that $1.3 billion debut fund and who might hav…*
+       - *A startup that is aiming to digitize millions of neighborhood stores in Bangladesh just raised the country’s largest Series A financing round. Dhaka-headquartered ShopUp said on Tuesday it has raised $22.5 million in a round co-led by Sequoia Capital India an…*
       
 
 <br />
