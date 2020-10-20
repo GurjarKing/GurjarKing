@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A language that doesn’t have everything is actually easier to program in than some that do.
+I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 
-~ Dennis Ritchie
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A language that doesn’t have everything is actually easier to program in than 
 </pre>
 <strong>Daily News</strong>
   
-  - Cloud Foundry coalesces around Kubernetes
+  - Apple HomePod update brings Intercom and other new features
      <hr/>
      
-      - *In a normal year, the Cloud Foundry project would be hosting its annual European Summit in Dublin this week. But this is 2020, so it’s a virtual event. This year, however, has been a bit of a transformative year for the open-source Platform-as-a-Service proje…*
+      - *Apple HomePod owners, starting today, will be able to use the newly announced “Intercom” feature to send messages between their HomePod smart speakers. The feature, which arrives via a software update, brings this and several other new features to Apple’s sma…*
      
+  - Now may be the best time to become a full-stack developer
+      <hr/>
+      
+      - *You may not have full knowledge, skills and understanding of everything immediately but you'll position yourself at the forefront of the world’s software development needs right off the bat.*
+      
+  - Cloud Foundry coalesces around Kubernetes
+      <hr/>
+      
+      - *In a normal year, the Cloud Foundry project would be hosting its annual European Summit in Dublin this week. But this is 2020, so it’s a virtual event. This year, however, has been a bit of a transformative year for the open-source Platform-as-a-Service proje…*
+      
   - Synthetaic raises $3.5M to train AI with synthetic data
       <hr/>
       
       - *Synthetaic is a startup workign to create data — specifically images — that can be used to train artificial intelligence. Founder and CEO Corey Jaskolski’s past experience includes work with both National Geographic (where he was recently named Explorer of th…*
-      
+       
   - Snap shares explode after blowing past earnings expectations
       <hr/>
-      
-      - *Snap shares were up nearly 20% in after-hours trading after the company showcased a massive earnings beat, besting analyst expectations on both revenue and earnings per share for Q3. The company was already hovering above an all-time-high, with Tuesday’s beat…*
-      
-  - Here's why Netflix shares are off after reporting earnings
-      <hr/>
-      
-      - *Shares of consumer video service Netflix are down sharply after the bell today, following the company’s Q3 earnings report. Why is Netflix suddenly worth about 5% less than before? A mixed earnings report, a disappointing new paying customer number, and sligh…*
        
-  - Netflix user growth slows as production ramps up again
-      <hr/>
-       
-       - *After the COVID-19 pandemic drove impressive subscriber growth earlier this year, Netflix’s numbers have come back down to Earth. The streaming service added 15.77 million net new subscribers in the first quarter of the year, followed by 10.09 million in Q2. …*
+       - *Snap shares were up nearly 20% in after-hours trading after the company showcased a massive earnings beat, besting analyst expectations on both revenue and earnings per share for Q3. The company was already hovering above an all-time-high, with Tuesday’s beat…*
       
 
 <br />
