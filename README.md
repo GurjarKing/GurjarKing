@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.
 
-~ Fred Brooks
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ First, my wife, my colleagues, and my editors find me to err far more often in o
 </pre>
 <strong>Daily News</strong>
   
-  - SAIF Partners rebrands as Elevation Capital, secures $400 million for its new India fund
+  - ShopUp raises $22.5 million to digitize millions of mom-and-pop shops in Bangladesh
      <hr/>
      
-      - *SAIF Partners has raised $400 million for a new fund and rebranded the 18-year-old influential venture capital firm as it looks to back more early-stage startups in the world’s second largest internet market. The new fund is SAIF Partners’ seventh for early-s…*
+      - *A startup that is aiming to digitize millions of neighborhood stores in Bangladesh just raised the country’s largest Series A financing round. Dhaka-headquartered ShopUp said on Tuesday it has raised $22.5 million in a round co-led by Sequoia Capital India an…*
      
+  - SAIF Partners rebrands as Elevation Capital, secures $400 million for its new India fund
+      <hr/>
+      
+      - *SAIF Partners has raised $400 million for a new fund and rebranded the 18-year-old influential venture capital firm as it looks to back more early-stage startups in the world’s second largest internet market. The new fund is SAIF Partners’ seventh for early-s…*
+      
   - Lee Fixel burnishes his reputation, raising his second massive fund in 2020
       <hr/>
       
@@ -73,16 +78,11 @@ First, my wife, my colleagues, and my editors find me to err far more often in o
       <hr/>
       
       - *TikTok has been cracking down on QAnon-related content, in line with similar moves by other major social media companies, including Facebook and YouTube, which focus on reducing the spread the baseless conspiracy theory across their respective platforms. Acco…*
-      
+       
   - Daily Crunch: Pakistan un-bans TikTok
       <hr/>
-      
-      - *TikTok returns to Pakistan, Apple launches a music-focused streaming station and SpaceX launches more Starlink satellites. This is your Daily Crunch for October 19, 2020. The big story: Pakistan un-bans TikTok The Pakistan Telecommunication Authority blocked …*
        
-  - Amazon Echo Dot with Clock review: A mostly aesthetic update
-      <hr/>
-       
-       - *It’s been a busy few weeks for smart speakers. Amazon kicked things off in late September with newer, rounder versions of both the Echo and Echo Dot. Less than a week later, Google updated the Home, after four years, with the rebranded Nest Audio. And then, l…*
+       - *TikTok returns to Pakistan, Apple launches a music-focused streaming station and SpaceX launches more Starlink satellites. This is your Daily Crunch for October 19, 2020. The big story: Pakistan un-bans TikTok The Pakistan Telecommunication Authority blocked …*
       
 
 <br />
