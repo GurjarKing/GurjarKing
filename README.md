@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The proper use of comments is to compensate for our failure to express ourself in code.
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 
-~ Robert C. Martin
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The proper use of comments is to compensate for our failure to express ourself i
 </pre>
 <strong>Daily News</strong>
   
-  - Splunk acquires Plumbr and Rigor to build out its observability platform
+  - Venn, a network hoping to be gaming's answer to MTV, raises $26 million
      <hr/>
      
-      - *Data platform Splunk today announced that it has acquired two startups, Plumbr and Rigor, to build out its new Observability Suite, which is also launching today. Plumbr is an application performance monitoring service, while Rigor focuses on digital experien…*
+      - *VENN , the streaming network hoping to be gaming culture’s answer to MTV, has raised $26 million to bring its mix of video game-themed entertainment and streaming celebrity features to the masses. The financing came from previous investor Bitkraft, one of the…*
      
-  - Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge
+  - Justice Department will reportedly file its antitrust lawsuit against Google today
       <hr/>
       
-      - *In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT, and more), different price points, and varying capabilitie…*
+      - *The Justice Department is expected to file its long-awaited antitrust lawsuit against Google later today, according to a report from The Wall Street Journal. In the suit, the Justice Department is expected to argue that Google used anticompetitive practices t…*
       
-  - Vectary, a design platform for 3D and AR, raises $7.3M from EQT and Blueyard
+  - DJI's Pocket 2 gimbal is an extremely fun way to grab impressive smartphone shots
       <hr/>
       
-      - *Vectary, a design platform for 3D and Augmented Reality (AR), has raised a $7.3 million round led by European fund EQT Ventures. Existing investor BlueYard (Berlin) also participated. Vectary makes high-quality 3D design more accessible for consumers, garneri…*
+      - *The Pocket 2 is the kind of device that makes me wish I got out a bit more. I’ve been testing it out for a few days, and, while it’s done a reasonably good job making my life look a bit more interesting, there’s only so much such a little device can do during…*
       
-  - Perch raises $123.5M to grow its stable of D2C brands that sell on Amazon
+  - Review: iPhone 12 and iPhone 12 Pro, two gems, one jewel
       <hr/>
       
-      - *While Amazon gradually builds out its own-branded line of products, third-party sellers continue to account for a significant part of the transaction volume and growth on its marketplace — by one estimate, accounting for $200 billion of the $335 billion in gr…*
+      - *There’s an odd tension in only being able to review half of the new iPhone lineup. Though this review is focused on breaking down the iPhone 12 and iPhone 12 Pro, we all know that the iPhone mini and the iPhone 12 Pro Max are sitting out there in the wings.  …*
        
-  - Tiliter bags $7.5M for its 'plug and play' cashierless checkout tech
+  - Apple, Opera, and Yandex fix browser address bar spoofing bugs, but millions more still left vulnerable
       <hr/>
        
-       - *Tiliter, an Australian startup that’s using computer vision to power cashierless checkout tech that replaces the need for barcodes on products, has closed a $7.5 million Series A round of funding led by Investec Emerging Companies. The 2017-founded company is…*
+       - *The bugs made it easy for a phishing page to impersonate almost any legitimate website.*
       
 
 <br />
