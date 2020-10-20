@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 
-~ Eric S. Raymond
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Computer science education cannot make anybody an expert programmer any more tha
 </pre>
 <strong>Daily News</strong>
   
-  - Root targets $6B+ valuation in pending IPO, a boon for insurtech startups
+  - Equity Shot: The DoJ, Google, and the suit could mean for startups
      <hr/>
      
-      - *This morning Root Insurance, a neo-insurance provider that has attracted ample private capital for its auto-insurance business, is targeting a valuation of as much as $6.34 billion in its pending IPO. The former startup follows insurtech leader Lemonade to th…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. It’s a big day in tech because the US Federal Government is going after Google on anti-competitive grounds. Sure, the timing appea…*
      
+  - 7 investors discuss augmented reality and VR startup opportunities in 2020
+      <hr/>
+      
+      - *For all of the investors preaching that augmented reality technology will likely be the successor to the modern smartphone, today, most venture capitalists are still quite wary to back AR plays. The reasons are plentiful, but all tend to circle around the ide…*
+      
+  - Root targets $6B+ valuation in pending IPO, a boon for insurtech startups
+      <hr/>
+      
+      - *This morning Root Insurance, a neo-insurance provider that has attracted ample private capital for its auto-insurance business, is targeting a valuation of as much as $6.34 billion in its pending IPO. The former startup follows insurtech leader Lemonade to th…*
+      
   - Egnyte introduces new features to help deal with security/governance during pandemic
       <hr/>
       
       - *The pandemic has put stress on companies dealing with a workforce that is mostly — and sometimes suddenly — working from home. That has led to rising needs for security and governance tooling, something that Egnyte is looking to meet with new features aimed a…*
-      
+       
   - Amazon launches a program to pay consumers for their data on non-Amazon purchases
       <hr/>
-      
-      - *Amazon has launched a new program that directly pays consumers for information about what they’re purchasing outside of Amazon.com and for responding to short surveys. The program, Amazon Shopper Panel, asks users to send in 10 receipts per month for any purc…*
-      
-  - French TV networks team up to launch streaming service Salto
-      <hr/>
-      
-      - *There’s a new streaming service in France called Salto. The companies behind the new service have been around for a while though. Salto is a joint initiative between TF1, France Télévisions and M6 — three major TV networks. Those companies already had their o…*
        
-  - Investors appear to shrug at antitrust lawsuit aimed at Google
-      <hr/>
-       
-       - *Investors do not seem concerned that the Department of Justice filed an antitrust suit against Google earlier today. The suit, seen by some as a stunt near the election, is one of a multi-part push to change the face of the technology industry, which has seen…*
+       - *Amazon has launched a new program that directly pays consumers for information about what they’re purchasing outside of Amazon.com and for responding to short surveys. The program, Amazon Shopper Panel, asks users to send in 10 receipts per month for any purc…*
       
 
 <br />
