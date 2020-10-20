@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 
-~ Harlan Mills
+~ Poul Anderson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Programming is similar to a game of golf. The point is not getting the ball in t
 </pre>
 <strong>Daily News</strong>
   
-  - Venn, a network hoping to be gaming's answer to MTV, raises $26 million
+  - Index nabs $2.6M seed to create BI dashboards without coding
      <hr/>
      
-      - *VENN , the streaming network hoping to be gaming culture’s answer to MTV, has raised $26 million to bring its mix of video game-themed entertainment and streaming celebrity features to the masses. The financing came from previous investor Bitkraft, one of the…*
+      - *Index founders, Xavier Pladevall and Eduardo Portet, have been friends since they were small children in the Dominican Republic. Both came to college in the U.S., and last year the two decided to launch a startup to help non-technical users build business int…*
      
-  - Justice Department will reportedly file its antitrust lawsuit against Google today
+  - Stampli, an invoice management software startup, launches a payments product
       <hr/>
       
-      - *The Justice Department is expected to file its long-awaited antitrust lawsuit against Google later today, according to a report from The Wall Street Journal. In the suit, the Justice Department is expected to argue that Google used anticompetitive practices t…*
+      - *Stampli, a collaborative invoice management software company, introduced a payments product today called Stampli Direct Pay. The startup launched back in 2015 with a mission to simplify invoice management through collaboration (and a dash of AI). Interestingl…*
       
-  - DJI's Pocket 2 gimbal is an extremely fun way to grab impressive smartphone shots
+  - Gowalla is being resurrected as an augmented reality social app
       <hr/>
       
-      - *The Pocket 2 is the kind of device that makes me wish I got out a bit more. I’ve been testing it out for a few days, and, while it’s done a reasonably good job making my life look a bit more interesting, there’s only so much such a little device can do during…*
+      - *Gowalla is coming back. The startup, which longtime TechCrunch readers will likely recall, was an ambitious consumer social app that excited Silicon Valley investors but ultimately floundered in its quest to take on Foursquare before an eventual $3 million ac…*
       
-  - Review: iPhone 12 and iPhone 12 Pro, two gems, one jewel
+  - Robin.io launches a free version of its cloud-native Kubernetes storage solution
       <hr/>
       
-      - *There’s an odd tension in only being able to review half of the new iPhone lineup. Though this review is focused on breaking down the iPhone 12 and iPhone 12 Pro, we all know that the iPhone mini and the iPhone 12 Pro Max are sitting out there in the wings.  …*
+      - *Robin.io, a cloud-native application and data management solution with enterprise customers like USAA, Sabre, SAP, Palo Alto Networks and Rakuten Mobile, today announced the launch of its new free(-mium) version of its service, in addition to a major update t…*
        
-  - Apple, Opera, and Yandex fix browser address bar spoofing bugs, but millions more still left vulnerable
+  - Genies updates its software development kit and partners with Gucci, Giphy
       <hr/>
        
-       - *The bugs made it easy for a phishing page to impersonate almost any legitimate website.*
+       - *Genies, has updated its software development kit and added Giphy and Gucci as new partners to enable their users to create personalized Genie avatars. The company released the first version of its sdk in 2018 when it raised a $10 million to directly challenge…*
       
 
 <br />
