@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best way to know that you have found the last bug is never to find the first bug.
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 
-~ Harlan Mills
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The best way to know that you have found the last bug is never to find the first
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon launches a program to pay consumers for their data on non-Amazon purchases
+  - Root targets $6B+ valuation in pending IPO, a boon for insurtech startups
      <hr/>
      
-      - *Amazon has launched a new program that directly pays consumers for information about what they’re purchasing outside of Amazon.com and for responding to short surveys. The program, Amazon Shopper Panel, asks users to send in 10 receipts per month for any purc…*
+      - *This morning Root Insurance, a neo-insurance provider that has attracted ample private capital for its auto-insurance business, is targeting a valuation of as much as $6.34 billion in its pending IPO. The former startup follows insurtech leader Lemonade to th…*
      
+  - Egnyte introduces new features to help deal with security/governance during pandemic
+      <hr/>
+      
+      - *The pandemic has put stress on companies dealing with a workforce that is mostly — and sometimes suddenly — working from home. That has led to rising needs for security and governance tooling, something that Egnyte is looking to meet with new features aimed a…*
+      
+  - Amazon launches a program to pay consumers for their data on non-Amazon purchases
+      <hr/>
+      
+      - *Amazon has launched a new program that directly pays consumers for information about what they’re purchasing outside of Amazon.com and for responding to short surveys. The program, Amazon Shopper Panel, asks users to send in 10 receipts per month for any purc…*
+      
   - French TV networks team up to launch streaming service Salto
       <hr/>
       
       - *There’s a new streaming service in France called Salto. The companies behind the new service have been around for a while though. Salto is a joint initiative between TF1, France Télévisions and M6 — three major TV networks. Those companies already had their o…*
-      
+       
   - Investors appear to shrug at antitrust lawsuit aimed at Google
       <hr/>
-      
-      - *Investors do not seem concerned that the Department of Justice filed an antitrust suit against Google earlier today. The suit, seen by some as a stunt near the election, is one of a multi-part push to change the face of the technology industry, which has seen…*
-      
-  - Meadow launches a powerful mobile marketing tool for cannabis dispensaries
-      <hr/>
-      
-      - *Meadow was once called the Amazon of weed. Now it’s trying to be the Salesforce of weed, too. Meadow, the maker of a popular point of sale system for cannabis dispensaries, is today launching new tools for its clients. Called the Meadow Platform, it includes …*
        
-  - Google announces slew of Chrome OS features to help extend enterprise usage
-      <hr/>
-       
-       - *As companies have moved to work from home this year, working on the internet has become the norm, and it turns out that Chrome OS was an operating system built for cloud-based applications. But most enterprise use cases are a bit more complex, and Google intr…*
+       - *Investors do not seem concerned that the Department of Justice filed an antitrust suit against Google earlier today. The suit, seen by some as a stunt near the election, is one of a multi-part push to change the face of the technology industry, which has seen…*
       
 
 <br />
