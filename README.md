@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 
-~ Richard Stallman
+~ Maurice Wilkes
 <pre>
 
 </pre>
