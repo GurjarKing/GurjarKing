@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+The entire history of software engineering is that of the rise in levels of abstraction.
 
-~ John Romero
+~ Grady Booch
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ You might not think that programmers are artists, but programming is an extremel
 </pre>
 <strong>Daily News</strong>
   
-  - As Blizzard sunsets StarCraft II, some of its key creators raise cash for a new gaming studio
+  - Google Photos revives its prints subscription service, expands same-day print options
      <hr/>
      
-      - *Even as Blizzard pulls the plug on new updates for its StarCraft II game, nearly a decade after its launch, gaming investors are financing the next new thing coming from key members of the game’s early development team. Blizzard vets Tim Morten, the former pr…*
+      - *Google Photos is reviving its photo printing subscription service and introducing same-day prints. The company earlier this year had briefly tested a new program that used A.I. to suggest the month’s 10 best photos, which were then shipped to your home automa…*
      
+  - Beam is building a web browser that gathers knowledge from your web activity
+      <hr/>
+      
+      - *Remember Netscape Navigator and Internet Explorer? Those applications from the 1990s used emphatic metaphors in their names to talk about a simple task — browsing the web. Today, nobody would say that Google Chrome is a web explorer. Browsing the web has beco…*
+      
+  - Robotic kitchen startup YPC raises a $1.8M seed round
+      <hr/>
+      
+      - *Montreal-based YPC Technologies today announced that it has raised a $1.8 million seed round. Led by Hike Ventures and Real Ventures, the funding includes participation from Toyota AI Ventures and Uphill Capital, among others, designed to help the company pil…*
+      
+  - As Blizzard sunsets StarCraft II, some of its key creators raise cash for a new gaming studio
+      <hr/>
+      
+      - *Even as Blizzard pulls the plug on new updates for its StarCraft II game, nearly a decade after its launch, gaming investors are financing the next new thing coming from key members of the game’s early development team. Blizzard vets Tim Morten, the former pr…*
+       
   - As startups accelerate in record Q3, Europe and Asia rack up huge VC results
       <hr/>
-      
-      - *Venture capital activity in Europe and Asia saw a strong return to form in Q3, data indicates. The two continents enjoyed more venture capital investment into their local startups than in some time, underscoring that strong VC results the United States saw in…*
-      
-  - Leading a $15 million round, Prosus Ventures makes the challenger bank Klar its first bet in Mexico
-      <hr/>
-      
-      - *Klar, a new online bank based in Mexico City, has become the first big bet that Prosus Ventures (the firm formerly known as Naspers Ventures) is taking in Latin America outside of Brazil. Founded by Stefan Moller, a former consultant at Bain & Co. who advised…*
-      
-  - Sym raises $9M Series A for its security workflow platform
-      <hr/>
-      
-      - *Sym, a new platform that makes it easier for developers to integrate security and privacy workflows into their process, today announced that it has raised a $9 million Series A round led by Amplify Partners. Earlier this year, the company announced its $3 mil…*
        
-  - Unusual Ventures' Sarah Leary and John Vrionis join Extra Crunch Live today at 2 p.m. ET/11 a.m. PT
-      <hr/>
-       
-       - *Today at 2 p.m. ET/11 a.m. PT, Unusual Ventures’ Sarah Leary and John Vrionis are joining us over at the Extra Crunch Live stage! The Unusual Ventures team has investments spanning the consumer and enterprise space, including Robinhood, AppDynamics, Mulesoft,…*
+       - *Venture capital activity in Europe and Asia saw a strong return to form in Q3, data indicates. The two continents enjoyed more venture capital investment into their local startups than in some time, underscoring that strong VC results the United States saw in…*
       
 
 <br />
