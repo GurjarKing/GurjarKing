@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 
-~ Harlan Mills
+~ Tony Hoare
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The only way for errors to occur in a program is by being put there by the autho
 </pre>
 <strong>Daily News</strong>
   
-  - Dublin's LearnUpon raises $56M for its online learning management system for enterprises
+  - Math learning platform Knowledgehook raises £13.5M Series A to expand globally
      <hr/>
      
-      - *One big technology by-product of the Covid-19 pandemic has been a much stronger focus on online education solutions — providing the tools for students to continue learning when the public health situation is preventing them from going into physical classrooms…*
+      - *Given the nature of the COVID-19 pandemic, millions of students have switched to online learning. So whereas EdTech used to be somewhat of an also-ran in the venture stakes, it has now become one fo the hottest spaces on the planet. It’s therefore of title su…*
      
+  - Dublin's LearnUpon raises $56M for its online learning management system for enterprises
+      <hr/>
+      
+      - *One big technology by-product of the Covid-19 pandemic has been a much stronger focus on online education solutions — providing the tools for students to continue learning when the public health situation is preventing them from going into physical classrooms…*
+      
   - Trilo lets merchants offer rewards to customers choosing bank-to-bank payments
       <hr/>
       
@@ -73,16 +78,11 @@ The only way for errors to occur in a program is by being put there by the autho
       <hr/>
       
       - *Eat Just, the plant-based food startup, is launching a new Asian subsidiary through a partnership with Proterra Investment Partners Asia. The agreement includes building Eat Just’s first factory in Asia, which will be based in Singapore. As part of the deal, …*
-      
+       
   - Intel agrees to sell its NAND business to SK Hynix for $9 billion
       <hr/>
-      
-      - *SK Hynix, one of the world’s largest chip makers, announced today it will pay $9 billion for Intel’s flash memory business. Intel said it will use proceeds from the deal to focus on artificial intelligence, 5G and edge computing. “For Intel, this transaction …*
        
-  - Trump says 'nobody gets hacked' but forgot his hotel chain was hacked -- twice
-      <hr/>
-       
-       - *Hackers don't need an IQ score of 197 to break into your accounts. All they need is for you to lower your guard.*
+       - *SK Hynix, one of the world’s largest chip makers, announced today it will pay $9 billion for Intel’s flash memory business. Intel said it will use proceeds from the deal to focus on artificial intelligence, 5G and edge computing. “For Intel, this transaction …*
       
 
 <br />
