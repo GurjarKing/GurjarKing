@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+The proper use of comments is to compensate for our failure to express ourself in code.
 
-~ Tony Hoare
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ There are two ways of constructing a software design: One way is to make it so s
 </pre>
 <strong>Daily News</strong>
   
-  - Math learning platform Knowledgehook raises £13.5M Series A to expand globally
+  - Splunk acquires Plumbr and Rigor to build out its observability platform
      <hr/>
      
-      - *Given the nature of the COVID-19 pandemic, millions of students have switched to online learning. So whereas EdTech used to be somewhat of an also-ran in the venture stakes, it has now become one fo the hottest spaces on the planet. It’s therefore of title su…*
+      - *Data platform Splunk today announced that it has acquired two startups, Plumbr and Rigor, to build out its new Observability Suite, which is also launching today. Plumbr is an application performance monitoring service, while Rigor focuses on digital experien…*
      
-  - Dublin's LearnUpon raises $56M for its online learning management system for enterprises
+  - Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge
       <hr/>
       
-      - *One big technology by-product of the Covid-19 pandemic has been a much stronger focus on online education solutions — providing the tools for students to continue learning when the public health situation is preventing them from going into physical classrooms…*
+      - *In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT, and more), different price points, and varying capabilitie…*
       
-  - Trilo lets merchants offer rewards to customers choosing bank-to-bank payments
+  - Vectary, a design platform for 3D and AR, raises $7.3M from EQT and Blueyard
       <hr/>
       
-      - *Open banking enables bank-to-bank payments, meaning that (in theory) merchants should be able to accept payments without having to hand over fees to Visa or Mastercard or other payment providers, such as Stripe. The challenge, however, isn’t just implementing…*
+      - *Vectary, a design platform for 3D and Augmented Reality (AR), has raised a $7.3 million round led by European fund EQT Ventures. Existing investor BlueYard (Berlin) also participated. Vectary makes high-quality 3D design more accessible for consumers, garneri…*
       
-  - Eat Just partners with Proterra to launch a new subsidiary in Asia
+  - Perch raises $123.5M to grow its stable of D2C brands that sell on Amazon
       <hr/>
       
-      - *Eat Just, the plant-based food startup, is launching a new Asian subsidiary through a partnership with Proterra Investment Partners Asia. The agreement includes building Eat Just’s first factory in Asia, which will be based in Singapore. As part of the deal, …*
+      - *While Amazon gradually builds out its own-branded line of products, third-party sellers continue to account for a significant part of the transaction volume and growth on its marketplace — by one estimate, accounting for $200 billion of the $335 billion in gr…*
        
-  - Intel agrees to sell its NAND business to SK Hynix for $9 billion
+  - Tiliter bags $7.5M for its 'plug and play' cashierless checkout tech
       <hr/>
        
-       - *SK Hynix, one of the world’s largest chip makers, announced today it will pay $9 billion for Intel’s flash memory business. Intel said it will use proceeds from the deal to focus on artificial intelligence, 5G and edge computing. “For Intel, this transaction …*
+       - *Tiliter, an Australian startup that’s using computer vision to power cashierless checkout tech that replaces the need for barcodes on products, has closed a $7.5 million Series A round of funding led by Investec Emerging Companies. The 2017-founded company is…*
       
 
 <br />
