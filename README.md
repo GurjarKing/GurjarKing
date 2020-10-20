@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The more code you have, the more places there are for bugs to hide.
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 
-~ Rich Skrenta
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The more code you have, the more places there are for bugs to hide.
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok's QAnon ban has been 'buggy'
+  - SAIF Partners rebrands as Elevation Capital, secures $400 million for its new India fund
      <hr/>
      
-      - *TikTok has been cracking down on QAnon-related content, in line with similar moves by other major social media companies, including Facebook and YouTube, which focus on reducing the spread the baseless conspiracy theory across their respective platforms. Acco…*
+      - *SAIF Partners has raised $400 million for a new fund and rebranded the 18-year-old influential venture capital firm as it looks to back more early-stage startups in the world’s second largest internet market. The new fund is SAIF Partners’ seventh for early-s…*
      
+  - Lee Fixel burnishes his reputation, raising his second massive fund in 2020
+      <hr/>
+      
+      - *On Friday, former Tiger Global Management investor Lee Fixel registered plans for the second fund of his new investment firm, Addition, just four months after closing the first. But investors who were shut out of that $1.3 billion debut fund and who might hav…*
+      
+  - TikTok's QAnon ban has been 'buggy'
+      <hr/>
+      
+      - *TikTok has been cracking down on QAnon-related content, in line with similar moves by other major social media companies, including Facebook and YouTube, which focus on reducing the spread the baseless conspiracy theory across their respective platforms. Acco…*
+      
   - Daily Crunch: Pakistan un-bans TikTok
       <hr/>
       
       - *TikTok returns to Pakistan, Apple launches a music-focused streaming station and SpaceX launches more Starlink satellites. This is your Daily Crunch for October 19, 2020. The big story: Pakistan un-bans TikTok The Pakistan Telecommunication Authority blocked …*
-      
+       
   - Amazon Echo Dot with Clock review: A mostly aesthetic update
       <hr/>
-      
-      - *It’s been a busy few weeks for smart speakers. Amazon kicked things off in late September with newer, rounder versions of both the Echo and Echo Dot. Less than a week later, Google updated the Home, after four years, with the rebranded Nest Audio. And then, l…*
-      
-  - Who regulates social media?
-      <hr/>
-      
-      - *Social media platforms have repeatedly found themselves in the United States government’s crosshairs over the last few years, as it has been progressively revealed just how much power they really wield, and to what purposes they’ve chosen to wield it. But unl…*
        
-  - Juniper Networks acquires Boston-area AI SD-WAN startup 128 Technology for $450M
-      <hr/>
-       
-       - *Today Juniper Networks announced it was acquiring smart wide area networking startup 128 Technology for $450 million. This marks the second AI-fueled networking company Juniper has acquired in the last year and a half after purchasing Mist Systems in March 20…*
+       - *It’s been a busy few weeks for smart speakers. Amazon kicked things off in late September with newer, rounder versions of both the Echo and Echo Dot. Less than a week later, Google updated the Home, after four years, with the rebranded Nest Audio. And then, l…*
       
 
 <br />
