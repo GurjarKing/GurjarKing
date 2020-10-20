@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+The difference between theory and practice is that in theory, there is no difference between theory and practice.
 
-~ James Gleick
+~ Richard Moore (engineer)
 <pre>
 
 </pre>
