@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Codes are a puzzle. A game, just like any other game.
+We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
 
-~ Alan Turing
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Codes are a puzzle. A game, just like any other game.
 </pre>
 <strong>Daily News</strong>
   
-  - Road trippers can rejoice as RVShare raises over $100 million to grow its RV rental business
+  - Review: iPad Air, smooth criminal
      <hr/>
      
-      - *As continentally confined Americans look for domestic vacation options that won’t expose them to too much risk of infection from the pandemic that’s still raging across the country, the RV rental company RVshare has raised over $100 million to capitalize on i…*
+      - *The 2020 iPad Air comes at an interesting time in Apple’s release cycle. The iPad Pro is still strong from a specs perspective but is now technically a half generation or so behind in CPU. The new pro models won’t arrive for (theoretical) months.  So what you…*
      
-  - MindLabs raises £1.4 million for its new platform, a "Peloton for mental health"
+  - Adobe's Project Sharp Shots uses AI to deblur your videos with one click
       <hr/>
       
-      - *Ideally, mental wellness should be considered part of a healthy daily routine, like exercise. But even exercise is difficult to turn into a regular habit. Peloton addressed physical fitness by combining smart stationary bikes with live classes and community f…*
+      - *Every year at its MAX user conference, Adobe shows off a number of research projects that may or may not end up in its Creative Cloud apps over time. One new project that I hope we’ll soon see in its video apps is Project Sharp Shots, which will make its debu…*
       
-  - EU parliament backs tighter rules on behavioural ads
+  - Syte, an e-commerce visual search platform, gets $30 million Series C to expand in the U.S. and Asia
       <hr/>
       
-      - *The EU parliament has backed a call for tighter regulations on behavioral ads (aka microtargeting) in favor of less intrusive, contextual forms of advertising — urging Commission lawmakers to also assess further regulatory options, including looking at a phas…*
+      - *Tel Aviv-based visual search and product discovery platform Syte, already used by brands like Farfetch and Fashion Nova, plans to expand in the United States and Asia-Pacific region after its latest funding. The startup announced today it has raised a $30 mil…*
       
-  - Facebook is working on Neighborhoods, a Nextdoor clone based on local groups
+  - June’s third-gen smart oven goes up for pre-order, starting at $599
       <hr/>
       
-      - *Using social networks to connect with neighbors and local services has surged during the Covid-19 pandemic, and Facebook — with 2.7 billion users globally — is now looking at how it can tap into that in a more direct way. In the same week that it was reported…*
+      - *2020 is June’s time to shine. With an increasing number of people stuck and home, trying (and often failing) to fend for themselves in their kitchen, the smart oven startup has a solid opportunity to considerably expand its users base. “The rise in at-home co…*
        
-  - Study finds most big open-source startups outside Bay Area, many European, and avoiding VC
+  - Road trippers can rejoice as RVShare raises over $100 million to grow its RV rental business
       <hr/>
        
-       - *Over 90% of the fastest-growing open-source companies in 2020 were founded outside the San Francisco Bay Area, and 12 out of the top 20 originate in Europe, according to a new study. The “ROSS Index”, created by Runa Capital lists the fastest-growing open-sou…*
+       - *As continentally confined Americans look for domestic vacation options that won’t expose them to too much risk of infection from the pandemic that’s still raging across the country, the RV rental company RVshare has raised over $100 million to capitalize on i…*
       
 
 <br />
