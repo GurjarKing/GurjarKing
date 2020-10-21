@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+The key to keeping software costs down is to write code that is easily modified.
 
-~ Fred Brooks
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Chemical engineers learned long ago that a process that works in the laboratory 
 </pre>
 <strong>Daily News</strong>
   
-  - Anyscale adds $40M to bring its Ray-based distributed computing tech to the enterprise masses
+  - Landing AI launches new visual inspection platform for manufacturers
      <hr/>
      
-      - *The world of distributed computing took on a new profile this year when Folding@home, a 20-year-old distributed computing project, found itself picking up thousands of new volunteers to help Covid-19 researchers generate more computing power to fold proteins …*
+      - *As companies manufacturer goods, human inspectors review them for defects. Think of a scratch on smartphone glass or a weakness in raw steel that could have an impact downstream when it gets turned into something else. Landing AI, the company started by forme…*
      
-  - PayPal to let you buy and sell cryptocurrencies in the US
+  - How Yext reinvented itself on its way to going public
       <hr/>
       
-      - *PayPal has partnered with cryptocurrency company Paxos to launch a new service. PayPal users in the U.S. will soon be able to buy, hold and sell cryptocurrencies. More countries are coming soon. PayPal plans to support Bitcoin, Ethereum, Bitcoin Cash and Lite…*
+      - *Last week, Yext CEO Howard Lerman dropped by Extra Crunch Live for a chat about his former startup, pivoting and becoming the CEO of a public company. Yext, which focuses on business information and enterprise search products, went public in 2017, making it o…*
       
-  - Ford outs 4th-gen self-driving platform with better sensors, cleaning tech, and improved batteries
+  - TikTok details how it's taking further action against hateful ideologies
       <hr/>
       
-      - *Ford and Argo AI today released details about its fourth-generation self-driving test vehicle. Built on the 2020 Ford Escape Hybrid, the vehicle has everything needed to standup a self-driving service, the Detroit automaker said. It’s equipped with an improve…*
+      - *TikTok said on Wednesday it’s strengthening its enforcement actions against hate speech and hateful ideologies to include “neighboring ideologies,” like white nationalism and others, as well as statements that emerge from those ideologies. In a blog post, Tik…*
       
-  - Review: iPad Air, smooth criminal
+  - SoftBank's $100 million diversity and inclusion fund makes its first bet ... in health Vitable Health
       <hr/>
       
-      - *The 2020 iPad Air comes at an interesting time in Apple’s release cycle. The iPad Pro is still strong from a specs perspective but is now technically a half generation or so behind in CPU. The new pro models won’t arrive for (theoretical) months.  So what you…*
+      - *SoftBank’s Opportunity Growth Fund has made the health insurance startup Vitable Health the first commitment from its $100 million fund dedicated to investing in startups founded by entrepreneurs of color. The Philadelphia-based company, which recently launch…*
        
-  - Adobe's Project Sharp Shots uses AI to deblur your videos with one click
+  - AOC's Among Us stream topped 435,000 concurrent viewers
       <hr/>
        
-       - *Every year at its MAX user conference, Adobe shows off a number of research projects that may or may not end up in its Creative Cloud apps over time. One new project that I hope we’ll soon see in its video apps is Project Sharp Shots, which will make its debu…*
+       - *Last night, Rep. Alexandria Ocasio-Cortez went live on Twitch to stream Among Us with a handful of superstar streamers. The purpose of the stream, which drew a massive crowd, was to get out the vote as we head into the general election. At its peak, the strea…*
       
 
 <br />
