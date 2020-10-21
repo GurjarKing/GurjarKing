@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Don't worry about anything. Just do what you can and be the best you can be.
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 
-~ Douglas Crockford
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Don't worry about anything. Just do what you can and be the best you can be.
 </pre>
 <strong>Daily News</strong>
   
-  - This serial founder is taking on Carta with cap table management software she says is better for founders
+  - Quibi is dead
      <hr/>
      
-      - *Yin Wu has cofounded several companies since graduating from Stanford in 2011, including a computer vision company called Double Labs that sold to Microsoft, where she stayed on for a couple of years as a software engineer. In fact, it was only after that sal…*
+      - *Plagued with growth issues, Quibi, a short-form mobile-native video platform, is shutting down, according to multiple reports. The startup, co-founded by Jeffrey Katzenberg and Meg Whitman, had raised nearly $2 billion in its lifetime as a private company. Qu…*
      
-  - Founders don't need to be full-time to start raising venture capital
+  - Coalition for App Fairness, a group fighting for app store reforms, adds 20 new partners
       <hr/>
       
-      - *“More than 50% of our founders still are in their current jobs,” said John Vrionis, co-founder of seed-stage fund Unusual Ventures. The fund, which closed a $400 million investment vehicle in November 2019, has noticed that more and more startup employees are…*
+      - *The Coalition for App Fairness (CAF), a newly-formed advocacy group pushing for increased regulation over app stores, has more than doubled in size with today’s announcement of 20 new partners — just one month after its launch. The organization, led by top ap…*
       
-  - Boston Dynamics’ Spot is getting an arm and self-charging dock next year
+  - Datto trades modestly higher after pricing IPO at top of range
       <hr/>
       
-      - *Boston Dynamics’ new CEO Rob Playter told TechCrunch that the company has now sold around 260 of its sophisticated Spot robot as of his appearance at Disrupt last month. While the company faced some questions about the commercial appeal of the $75,000 robot, …*
+      - *After pricing at $27 per share, Datto’s stock rose during regular trading. By mid-afternoon the data and security software company was worth $28.10, up a hair over 4%. The company’s IPO comes on the back of a rapid-fire Q3 in which a host of technology compan…*
       
-  - Rocket Lab's Peter Beck is coming to TC Sessions: Space 2020
+  - Dear Sophie: What visa options exist for a grad co-founding a startup?
       <hr/>
       
-      - *Over the last few years Rocket Lab has gone from its very first orbital launch to regular commercial missions, with the goal of being the most responsive launch provider on the planet. Founder and CEO Peter Beck will join us at our all virtual TC Sessions: Sp…*
+      - *What are the visa prospects for a graduate completing an advanced degree at a university in the United States who wants to co-found a startup after graduation? Can the new startup or my co-founders sponsor me for a visa?*
        
-  - Prop 22 opponents say Yes on 22 should not be able to mail flyers as nonprofit
+  - This serial founder is taking on Carta with cap table management software she says is better for founders
       <hr/>
        
-       - *Opponents of California’s Proposition 22, the measure that seeks to continue classifying rideshare drivers and delivery workers as independent contractors, filed a complaint this morning with the United States Postal Service. The No on 22 campaign alleges the…*
+       - *Yin Wu has cofounded several companies since graduating from Stanford in 2011, including a computer vision company called Double Labs that sold to Microsoft, where she stayed on for a couple of years as a software engineer. In fact, it was only after that sal…*
       
 
 <br />
