@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+When I invented the web, I didn't have to ask anyone's permission.
 
-~ L. Peter Deutsch
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Software is a discipline of detail, and that is a deep, horrendous fundamental p
 </pre>
 <strong>Daily News</strong>
   
-  - Gen Z spends 10% more time in non-game apps than older users
+  - This serial founder is taking on Carta with cap table management software she says is better for founders
      <hr/>
      
-      - *A new report released today by App Annie digs into how Gen Z consumers engage with their smartphones and mobile apps. According to data collected in Q3 2020, Gen Z users spend an average of 4.1+ hours per month in non-gaming apps, or 10% longer than older dem…*
+      - *Yin Wu has cofounded several companies since graduating from Stanford in 2011, including a computer vision company called Double Labs that sold to Microsoft, where she stayed on for a couple of years as a software engineer. In fact, it was only after that sal…*
      
-  - Secureframe raises $4.5M to help businesses speed up their compliance audits
+  - Founders don't need to be full-time to start raising venture capital
       <hr/>
       
-      - *While certifications for security management practices like SOC 2 and ISO 27001 have been around for a while, the number of companies that now request that their software vendors go through (and pass) the audits to be in compliance with these continues to inc…*
+      - *“More than 50% of our founders still are in their current jobs,” said John Vrionis, co-founder of seed-stage fund Unusual Ventures. The fund, which closed a $400 million investment vehicle in November 2019, has noticed that more and more startup employees are…*
       
-  - Contrast launches its security observability platform
+  - Boston Dynamics’ Spot is getting an arm and self-charging dock next year
       <hr/>
       
-      - *Contrast, a developer-centric application security company with customers that include Liberty Mutual Insurance, NTT Data, AXA and Bandwidth, today announced the launch of its security observability platform. The idea here is to offer developers a single pane…*
+      - *Boston Dynamics’ new CEO Rob Playter told TechCrunch that the company has now sold around 260 of its sophisticated Spot robot as of his appearance at Disrupt last month. While the company faced some questions about the commercial appeal of the $75,000 robot, …*
       
-  - Bob Iger goes from managing Mickey to directing a milk replacement startup as new Perfect Day boardmember
+  - Rocket Lab's Peter Beck is coming to TC Sessions: Space 2020
       <hr/>
       
-      - *Bob Iger, the chairman and former chief executive at Walt Disney is trading his mouse ears for milk substitutes as the new director of massively funded dairy replacement startup Perfect Day. Milk substitutes are a $1 trillion category and Perfect Day is angli…*
+      - *Over the last few years Rocket Lab has gone from its very first orbital launch to regular commercial missions, with the goal of being the most responsive launch provider on the planet. Founder and CEO Peter Beck will join us at our all virtual TC Sessions: Sp…*
        
-  - Wrike launches new AI tools to keep your projects on track
+  - Prop 22 opponents say Yes on 22 should not be able to mail flyers as nonprofit
       <hr/>
        
-       - *Project management service Wrike today announced a major update to its platform at its user conference that includes a lot of new AI smarts for keeping individual projects on track and on time, as well as new solutions for marketers and project management off…*
+       - *Opponents of California’s Proposition 22, the measure that seeks to continue classifying rideshare drivers and delivery workers as independent contractors, filed a complaint this morning with the United States Postal Service. The No on 22 campaign alleges the…*
       
 
 <br />
