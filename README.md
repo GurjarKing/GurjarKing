@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The key to keeping software costs down is to write code that is easily modified.
+When in doubt, use brute force.
 
-~ Daniel T. Barry
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The key to keeping software costs down is to write code that is easily modified.
 </pre>
 <strong>Daily News</strong>
   
-  - Landing AI launches new visual inspection platform for manufacturers
+  - Bob Iger goes from managing Mickey to directing a milk replacement startup as new Perfect Day boardmember
      <hr/>
      
-      - *As companies manufacturer goods, human inspectors review them for defects. Think of a scratch on smartphone glass or a weakness in raw steel that could have an impact downstream when it gets turned into something else. Landing AI, the company started by forme…*
+      - *Bob Iger, the chairman and former chief executive at Walt Disney is trading his mouse ears for milk substitutes as the new director of massively funded dairy replacement startup Perfect Day. Milk substitutes are a $1 trillion category and Perfect Day is angli…*
      
-  - How Yext reinvented itself on its way to going public
+  - Wrike launches new AI tools to keep your projects on track
       <hr/>
       
-      - *Last week, Yext CEO Howard Lerman dropped by Extra Crunch Live for a chat about his former startup, pivoting and becoming the CEO of a public company. Yext, which focuses on business information and enterprise search products, went public in 2017, making it o…*
+      - *Project management service Wrike today announced a major update to its platform at its user conference that includes a lot of new AI smarts for keeping individual projects on track and on time, as well as new solutions for marketers and project management off…*
       
-  - TikTok details how it's taking further action against hateful ideologies
+  - Lessons from Datto’s IPO pricing and revenue multiple
       <hr/>
       
-      - *TikTok said on Wednesday it’s strengthening its enforcement actions against hate speech and hateful ideologies to include “neighboring ideologies,” like white nationalism and others, as well as statements that emerge from those ideologies. In a blog post, Tik…*
+      - *Last night Datto priced its IPO at $27 per share, the top end of its range that TechCrunch covered last week. The data and security-focused software company had targeted a $24 to $27 per-share IPO price range, meaning that its final per-share value was at the…*
       
-  - SoftBank's $100 million diversity and inclusion fund makes its first bet ... in health Vitable Health
+  - Mine raises $9.5M to help people take control of their personal data
       <hr/>
       
-      - *SoftBank’s Opportunity Growth Fund has made the health insurance startup Vitable Health the first commitment from its $100 million fund dedicated to investing in startups founded by entrepreneurs of color. The Philadelphia-based company, which recently launch…*
+      - *TechCrunch readers probably know that privacy regulations like Europe’s GDPR and California’s CCPA give them additional rights around their personal data — like the ability to request that companies delete your data. But how many of you have actually exercise…*
        
-  - AOC's Among Us stream topped 435,000 concurrent viewers
+  - Join Extra Crunch Live on October 27 for a conversation on early stage and storytelling success with GV's M.G. Siegler
       <hr/>
        
-       - *Last night, Rep. Alexandria Ocasio-Cortez went live on Twitch to stream Among Us with a handful of superstar streamers. The purpose of the stream, which drew a massive crowd, was to get out the vote as we head into the general election. At its peak, the strea…*
+       - *If anyone knows early stage investing and startups, it’s M.G. Siegler. As a General Partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He’s also a TechCr…*
       
 
 <br />
