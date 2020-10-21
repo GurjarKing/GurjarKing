@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In handling resources, strive to avoid disaster rather than to attain an optimum.
+Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 
-~ Butler Lampson
+~ L. Peter Deutsch
 <pre>
 
 </pre>
