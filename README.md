@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-You should name a variable using the same care with which you name a first-born child.
+Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 
-~ Jim Coplien
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ You should name a variable using the same care with which you name a first-born 
 </pre>
 <strong>Daily News</strong>
   
-  - Political strategist turned tech investor Bradley Tusk on SPACs as a tool for VCs
+  - Watch the trailer for 'First Person,' a climate-focused series shot on Snapchat Spectacles
      <hr/>
      
-      - *Bradley Tusk has become known in recent years for being involved in what’s about to get hot, from his early days advising Uber, to writing one of the first checks to the insurance startup Lemonade, to pushing forward the idea that we should be using the smart…*
+      - *Snapchat is about to launch “First Person,” the first of its original series to be shot on Snapchat Spectacles. The idea of filming a documentary using AR-centric eyewear might sound gimmicky, but “First Person” is tackling a weighty topic: climate change. Th…*
      
+  - Political strategist turned tech investor Bradley Tusk on SPACs as a tool for VCs
+      <hr/>
+      
+      - *Bradley Tusk has become known in recent years for being involved in what’s about to get hot, from his early days advising Uber, to writing one of the first checks to the insurance startup Lemonade, to pushing forward the idea that we should be using the smart…*
+      
   - Watch GM unveil the $80,000 GMC Hummer EV right here
       <hr/>
       
@@ -73,16 +78,11 @@ You should name a variable using the same care with which you name a first-born 
       <hr/>
       
       - *We are about seven months into a pandemic and just two weeks from a presidential election. At this point, surprises are a dime a dozen. So it should feel very 2020 that Rep. Alexandria Ocasio-Cortez is about to stream Among Us, the hit game of 2020, on Twitch…*
-      
+       
   - Feast your eyes on the all-new, all-electric GMC Hummer EV
       <hr/>
-      
-      - *GMC has a new all-electric version of its classic Hummer oversized SUV. This thing is a beast, as you might expect, with an advertised 350-mile range and a 3-second zero to 60 mph time. It’s a bit ridiculous to be honest, which is kind of what the Hummer has …*
        
-  - GMC reveals the Hummer EV: 1,000 HP, 350 mile range, and 0-60 in "around 3 seconds"
-      <hr/>
-       
-       - *General Motors today revealed the GMC Hummer EV, its first electric pickup. The vehicle has a 350 range, 1,000 HP, and up to 11,500 pound feet of torque (through fuzzy math). Yes, it sort of looks like the Tesla Cybertruck. Several key stats stick above the r…*
+       - *GMC has a new all-electric version of its classic Hummer oversized SUV. This thing is a beast, as you might expect, with an advertised 350-mile range and a 3-second zero to 60 mph time. It’s a bit ridiculous to be honest, which is kind of what the Hummer has …*
       
 
 <br />
