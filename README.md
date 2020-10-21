@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 
-~ Ada Lovelace
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ We may say most aptly that the Analytical Engine weaves algebraical patterns jus
 </pre>
 <strong>Daily News</strong>
   
-  - Review: iPad Air, smooth criminal
+  - Anyscale adds $40M to bring its Ray-based distributed computing tech to the enterprise masses
      <hr/>
      
-      - *The 2020 iPad Air comes at an interesting time in Apple’s release cycle. The iPad Pro is still strong from a specs perspective but is now technically a half generation or so behind in CPU. The new pro models won’t arrive for (theoretical) months.  So what you…*
+      - *The world of distributed computing took on a new profile this year when Folding@home, a 20-year-old distributed computing project, found itself picking up thousands of new volunteers to help Covid-19 researchers generate more computing power to fold proteins …*
      
+  - PayPal to let you buy and sell cryptocurrencies in the US
+      <hr/>
+      
+      - *PayPal has partnered with cryptocurrency company Paxos to launch a new service. PayPal users in the U.S. will soon be able to buy, hold and sell cryptocurrencies. More countries are coming soon. PayPal plans to support Bitcoin, Ethereum, Bitcoin Cash and Lite…*
+      
+  - Ford outs 4th-gen self-driving platform with better sensors, cleaning tech, and improved batteries
+      <hr/>
+      
+      - *Ford and Argo AI today released details about its fourth-generation self-driving test vehicle. Built on the 2020 Ford Escape Hybrid, the vehicle has everything needed to standup a self-driving service, the Detroit automaker said. It’s equipped with an improve…*
+      
+  - Review: iPad Air, smooth criminal
+      <hr/>
+      
+      - *The 2020 iPad Air comes at an interesting time in Apple’s release cycle. The iPad Pro is still strong from a specs perspective but is now technically a half generation or so behind in CPU. The new pro models won’t arrive for (theoretical) months.  So what you…*
+       
   - Adobe's Project Sharp Shots uses AI to deblur your videos with one click
       <hr/>
-      
-      - *Every year at its MAX user conference, Adobe shows off a number of research projects that may or may not end up in its Creative Cloud apps over time. One new project that I hope we’ll soon see in its video apps is Project Sharp Shots, which will make its debu…*
-      
-  - Syte, an e-commerce visual search platform, gets $30 million Series C to expand in the U.S. and Asia
-      <hr/>
-      
-      - *Tel Aviv-based visual search and product discovery platform Syte, already used by brands like Farfetch and Fashion Nova, plans to expand in the United States and Asia-Pacific region after its latest funding. The startup announced today it has raised a $30 mil…*
-      
-  - June’s third-gen smart oven goes up for pre-order, starting at $599
-      <hr/>
-      
-      - *2020 is June’s time to shine. With an increasing number of people stuck and home, trying (and often failing) to fend for themselves in their kitchen, the smart oven startup has a solid opportunity to considerably expand its users base. “The rise in at-home co…*
        
-  - Road trippers can rejoice as RVShare raises over $100 million to grow its RV rental business
-      <hr/>
-       
-       - *As continentally confined Americans look for domestic vacation options that won’t expose them to too much risk of infection from the pandemic that’s still raging across the country, the RV rental company RVshare has raised over $100 million to capitalize on i…*
+       - *Every year at its MAX user conference, Adobe shows off a number of research projects that may or may not end up in its Creative Cloud apps over time. One new project that I hope we’ll soon see in its video apps is Project Sharp Shots, which will make its debu…*
       
 
 <br />
