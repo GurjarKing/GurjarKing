@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
 
-~ Fred Brooks
+~ Kevlin Henney
 <pre>
 
 </pre>
