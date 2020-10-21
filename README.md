@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+Codes are a puzzle. A game, just like any other game.
 
-~ Fred Brooks
+~ Alan Turing
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ First, we must observe that the anomaly is not that software progress is so slow
 </pre>
 <strong>Daily News</strong>
   
-  - Watch the trailer for 'First Person,' a climate-focused series shot on Snapchat Spectacles
+  - Road trippers can rejoice as RVShare raises over $100 million to grow its RV rental business
      <hr/>
      
-      - *Snapchat is about to launch “First Person,” the first of its original series to be shot on Snapchat Spectacles. The idea of filming a documentary using AR-centric eyewear might sound gimmicky, but “First Person” is tackling a weighty topic: climate change. Th…*
+      - *As continentally confined Americans look for domestic vacation options that won’t expose them to too much risk of infection from the pandemic that’s still raging across the country, the RV rental company RVshare has raised over $100 million to capitalize on i…*
      
-  - Political strategist turned tech investor Bradley Tusk on SPACs as a tool for VCs
+  - MindLabs raises £1.4 million for its new platform, a "Peloton for mental health"
       <hr/>
       
-      - *Bradley Tusk has become known in recent years for being involved in what’s about to get hot, from his early days advising Uber, to writing one of the first checks to the insurance startup Lemonade, to pushing forward the idea that we should be using the smart…*
+      - *Ideally, mental wellness should be considered part of a healthy daily routine, like exercise. But even exercise is difficult to turn into a regular habit. Peloton addressed physical fitness by combining smart stationary bikes with live classes and community f…*
       
-  - Watch GM unveil the $80,000 GMC Hummer EV right here
+  - EU parliament backs tighter rules on behavioural ads
       <hr/>
       
-      - *GM just took the wraps off the Hummer EV and it looks great. The vehicle is coming to dealers in 2022, with pre-orders starting in 2021. You can watch the unveiling here. The vehicle is detailed here. With 1,000 HP, 350 mile range, and autonomous drive modes,…*
+      - *The EU parliament has backed a call for tighter regulations on behavioral ads (aka microtargeting) in favor of less intrusive, contextual forms of advertising — urging Commission lawmakers to also assess further regulatory options, including looking at a phas…*
       
-  - AOC aims to get out the vote by streaming Among Us with pokimane and HasanAbi
+  - Facebook is working on Neighborhoods, a Nextdoor clone based on local groups
       <hr/>
       
-      - *We are about seven months into a pandemic and just two weeks from a presidential election. At this point, surprises are a dime a dozen. So it should feel very 2020 that Rep. Alexandria Ocasio-Cortez is about to stream Among Us, the hit game of 2020, on Twitch…*
+      - *Using social networks to connect with neighbors and local services has surged during the Covid-19 pandemic, and Facebook — with 2.7 billion users globally — is now looking at how it can tap into that in a more direct way. In the same week that it was reported…*
        
-  - Feast your eyes on the all-new, all-electric GMC Hummer EV
+  - Study finds most big open-source startups outside Bay Area, many European, and avoiding VC
       <hr/>
        
-       - *GMC has a new all-electric version of its classic Hummer oversized SUV. This thing is a beast, as you might expect, with an advertised 350-mile range and a 3-second zero to 60 mph time. It’s a bit ridiculous to be honest, which is kind of what the Hummer has …*
+       - *Over 90% of the fastest-growing open-source companies in 2020 were founded outside the San Francisco Bay Area, and 12 out of the top 20 originate in Europe, according to a new study. The “ROSS Index”, created by Runa Capital lists the fastest-growing open-sou…*
       
 
 <br />
