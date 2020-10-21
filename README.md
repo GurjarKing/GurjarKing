@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When I invented the web, I didn't have to ask anyone's permission.
+Don't worry about anything. Just do what you can and be the best you can be.
 
-~ Tim Berners-Lee
+~ Douglas Crockford
 <pre>
 
 </pre>
