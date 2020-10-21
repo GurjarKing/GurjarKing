@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 
-~ Michael Stal
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Sometimes there is a silver bullet for boosting software engineering productivit
 </pre>
 <strong>Daily News</strong>
   
-  - Tesla wows on latest numbers
+  - 4 quick bites and obituaries on Quibi (RIP 2020-2020)
      <hr/>
      
-      - *Tesla’s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street’s expectations for deliveries earlier thi…*
+      - *In memory of the death of Quibi, here’s a quick sendoff from four of our writers who came together to discuss what we can learn from Quibi’s amazing, instantaneous, billions-of-dollars failure. Lucas Matney looks at what the potential was for Quibi and how it…*
      
+  - Gillmor Gang: Something Goes Right
+      <hr/>
+      
+      - *Here we sit in the valley of predespair, 2 weeks ahead of the election and God knows where we are in the pandemic. As my partner Tina says to me on this once glorious sunny day (the view formerly known as the Pacific Ocean has been replaced by the fog like a …*
+      
+  - Tesla wows on latest numbers
+      <hr/>
+      
+      - *Tesla’s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street’s expectations for deliveries earlier thi…*
+      
   - Quibi is dead
       <hr/>
       
       - *Plagued with growth issues, Quibi, a short-form mobile-native video platform, is shutting down, according to multiple reports. The startup, co-founded by Jeffrey Katzenberg and Meg Whitman, had raised nearly $2 billion in its lifetime as a private company. Qu…*
-      
+       
   - Coalition for App Fairness, a group fighting for app store reforms, adds 20 new partners
       <hr/>
-      
-      - *The Coalition for App Fairness (CAF), a newly-formed advocacy group pushing for increased regulation over app stores, has more than doubled in size with today’s announcement of 20 new partners — just one month after its launch. The organization, led by top ap…*
-      
-  - Datto trades modestly higher after pricing IPO at top of range
-      <hr/>
-      
-      - *After pricing at $27 per share, Datto’s stock rose during regular trading. By mid-afternoon the data and security software company was worth $28.10, up a hair over 4%. The company’s IPO comes on the back of a rapid-fire Q3 in which a host of technology compan…*
        
-  - Dear Sophie: What visa options exist for a grad co-founding a startup?
-      <hr/>
-       
-       - *What are the visa prospects for a graduate completing an advanced degree at a university in the United States who wants to co-found a startup after graduation? Can the new startup or my co-founders sponsor me for a visa?*
+       - *The Coalition for App Fairness (CAF), a newly-formed advocacy group pushing for increased regulation over app stores, has more than doubled in size with today’s announcement of 20 new partners — just one month after its launch. The organization, led by top ap…*
       
 
 <br />
