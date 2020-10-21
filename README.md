@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 
-~ Harlan Mills
+~ Michael Stal
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ An interactive debugger is an outstanding example of what is not needed - it enc
 </pre>
 <strong>Daily News</strong>
   
-  - Quibi is dead
+  - Tesla wows on latest numbers
      <hr/>
      
-      - *Plagued with growth issues, Quibi, a short-form mobile-native video platform, is shutting down, according to multiple reports. The startup, co-founded by Jeffrey Katzenberg and Meg Whitman, had raised nearly $2 billion in its lifetime as a private company. Qu…*
+      - *Tesla’s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street’s expectations for deliveries earlier thi…*
      
+  - Quibi is dead
+      <hr/>
+      
+      - *Plagued with growth issues, Quibi, a short-form mobile-native video platform, is shutting down, according to multiple reports. The startup, co-founded by Jeffrey Katzenberg and Meg Whitman, had raised nearly $2 billion in its lifetime as a private company. Qu…*
+      
   - Coalition for App Fairness, a group fighting for app store reforms, adds 20 new partners
       <hr/>
       
@@ -73,16 +78,11 @@ An interactive debugger is an outstanding example of what is not needed - it enc
       <hr/>
       
       - *After pricing at $27 per share, Datto’s stock rose during regular trading. By mid-afternoon the data and security software company was worth $28.10, up a hair over 4%. The company’s IPO comes on the back of a rapid-fire Q3 in which a host of technology compan…*
-      
+       
   - Dear Sophie: What visa options exist for a grad co-founding a startup?
       <hr/>
-      
-      - *What are the visa prospects for a graduate completing an advanced degree at a university in the United States who wants to co-found a startup after graduation? Can the new startup or my co-founders sponsor me for a visa?*
        
-  - This serial founder is taking on Carta with cap table management software she says is better for founders
-      <hr/>
-       
-       - *Yin Wu has cofounded several companies since graduating from Stanford in 2011, including a computer vision company called Double Labs that sold to Microsoft, where she stayed on for a couple of years as a software engineer. In fact, it was only after that sal…*
+       - *What are the visa prospects for a graduate completing an advanced degree at a university in the United States who wants to co-found a startup after graduation? Can the new startup or my co-founders sponsor me for a visa?*
       
 
 <br />
