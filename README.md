@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+Adding manpower to a late software project makes it later.
 
-~ L. Peter Deutsch
+~ Fred Brooks
 <pre>
 
 </pre>
