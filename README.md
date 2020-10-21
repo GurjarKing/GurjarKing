@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When in doubt, use brute force.
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 
-~ Ken Thompson
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When in doubt, use brute force.
 </pre>
 <strong>Daily News</strong>
   
-  - Bob Iger goes from managing Mickey to directing a milk replacement startup as new Perfect Day boardmember
+  - Gen Z spends 10% more time in non-game apps than older users
      <hr/>
      
-      - *Bob Iger, the chairman and former chief executive at Walt Disney is trading his mouse ears for milk substitutes as the new director of massively funded dairy replacement startup Perfect Day. Milk substitutes are a $1 trillion category and Perfect Day is angli…*
+      - *A new report released today by App Annie digs into how Gen Z consumers engage with their smartphones and mobile apps. According to data collected in Q3 2020, Gen Z users spend an average of 4.1+ hours per month in non-gaming apps, or 10% longer than older dem…*
      
+  - Secureframe raises $4.5M to help businesses speed up their compliance audits
+      <hr/>
+      
+      - *While certifications for security management practices like SOC 2 and ISO 27001 have been around for a while, the number of companies that now request that their software vendors go through (and pass) the audits to be in compliance with these continues to inc…*
+      
+  - Contrast launches its security observability platform
+      <hr/>
+      
+      - *Contrast, a developer-centric application security company with customers that include Liberty Mutual Insurance, NTT Data, AXA and Bandwidth, today announced the launch of its security observability platform. The idea here is to offer developers a single pane…*
+      
+  - Bob Iger goes from managing Mickey to directing a milk replacement startup as new Perfect Day boardmember
+      <hr/>
+      
+      - *Bob Iger, the chairman and former chief executive at Walt Disney is trading his mouse ears for milk substitutes as the new director of massively funded dairy replacement startup Perfect Day. Milk substitutes are a $1 trillion category and Perfect Day is angli…*
+       
   - Wrike launches new AI tools to keep your projects on track
       <hr/>
-      
-      - *Project management service Wrike today announced a major update to its platform at its user conference that includes a lot of new AI smarts for keeping individual projects on track and on time, as well as new solutions for marketers and project management off…*
-      
-  - Lessons from Datto’s IPO pricing and revenue multiple
-      <hr/>
-      
-      - *Last night Datto priced its IPO at $27 per share, the top end of its range that TechCrunch covered last week. The data and security-focused software company had targeted a $24 to $27 per-share IPO price range, meaning that its final per-share value was at the…*
-      
-  - Mine raises $9.5M to help people take control of their personal data
-      <hr/>
-      
-      - *TechCrunch readers probably know that privacy regulations like Europe’s GDPR and California’s CCPA give them additional rights around their personal data — like the ability to request that companies delete your data. But how many of you have actually exercise…*
        
-  - Join Extra Crunch Live on October 27 for a conversation on early stage and storytelling success with GV's M.G. Siegler
-      <hr/>
-       
-       - *If anyone knows early stage investing and startups, it’s M.G. Siegler. As a General Partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He’s also a TechCr…*
+       - *Project management service Wrike today announced a major update to its platform at its user conference that includes a lot of new AI smarts for keeping individual projects on track and on time, as well as new solutions for marketers and project management off…*
       
 
 <br />
