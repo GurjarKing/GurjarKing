@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 
-~ Donald Knuth
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The problem is that coding isn’t fun if all you can do is call things out of a
 </pre>
 <strong>Daily News</strong>
   
-  - 4 quick bites and obituaries on Quibi (RIP 2020-2020)
+  - Tesla is a chain of startups, Elon Musk explains
      <hr/>
      
-      - *In memory of the death of Quibi, here’s a quick sendoff from four of our writers who came together to discuss what we can learn from Quibi’s amazing, instantaneous, billions-of-dollars failure. Lucas Matney looks at what the potential was for Quibi and how it…*
+      - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
      
+  - Daily Crunch: Quibi is shutting down
+      <hr/>
+      
+      - *The end is in sight for Quibi, PayPal adds cryptocurrency support and Netflix tests a new promotional strategy. This is your Daily Crunch for October 21, 2020. The big story: Quibi is shutting down The much-hyped streaming video app led by Jeffrey Katzenberg …*
+      
+  - 4 quick bites and obituaries on Quibi (RIP 2020-2020)
+      <hr/>
+      
+      - *In memory of the death of Quibi, here’s a quick sendoff from four of our writers who came together to discuss what we can learn from Quibi’s amazing, instantaneous, billions-of-dollars failure. Lucas Matney looks at what the potential was for Quibi and how it…*
+      
   - Gillmor Gang: Something Goes Right
       <hr/>
       
       - *Here we sit in the valley of predespair, 2 weeks ahead of the election and God knows where we are in the pandemic. As my partner Tina says to me on this once glorious sunny day (the view formerly known as the Pacific Ocean has been replaced by the fog like a …*
-      
+       
   - Tesla wows on latest numbers
       <hr/>
-      
-      - *Tesla’s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street’s expectations for deliveries earlier thi…*
-      
-  - Quibi is dead
-      <hr/>
-      
-      - *Plagued with growth issues, Quibi, a short-form mobile-native video platform, is shutting down, according to multiple reports. The startup, co-founded by Jeffrey Katzenberg and Meg Whitman, had raised nearly $2 billion in its lifetime as a private company. Qu…*
        
-  - Coalition for App Fairness, a group fighting for app store reforms, adds 20 new partners
-      <hr/>
-       
-       - *The Coalition for App Fairness (CAF), a newly-formed advocacy group pushing for increased regulation over app stores, has more than doubled in size with today’s announcement of 20 new partners — just one month after its launch. The organization, led by top ap…*
+       - *Tesla’s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street’s expectations for deliveries earlier thi…*
       
 
 <br />
