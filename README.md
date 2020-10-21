@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-Adding manpower to a late software project makes it later.
+First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
 
 ~ Fred Brooks
 <pre>
