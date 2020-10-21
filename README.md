@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
+You should name a variable using the same care with which you name a first-born child.
 
-~ Kevlin Henney
+~ Jim Coplien
 <pre>
 
 </pre>
