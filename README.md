@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Bill Gates
+~ Butler Lampson
 <pre>
 
 </pre>
