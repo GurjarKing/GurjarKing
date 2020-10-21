@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
 
-~ Donald Knuth
+~ David Parnas
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Email is a wonderful thing for people whose role in life is to be on top of thin
 </pre>
 <strong>Daily News</strong>
   
-  - Netflix to test free weekend-long access in India
+  - Feast your eyes on the all-new, all-electric GMC Hummer EV
      <hr/>
      
-      - *Netflix plans to give users in India access to its service at no charge for a weekend as part of a test to expand its reach in the country, a company executive said Tuesday. The American streaming giant, which reported slow users growth for the quarter that e…*
+      - *GMC has a new all-electric version of its classic Hummer oversized SUV. This thing is a beast, as you might expect, with an advertised 350-mile range and a 3-second zero to 60 mph time. It’s a bit ridiculous to be honest, which is kind of what the Hummer has …*
      
+  - GMC reveals the Hummer EV: 1,000 HP, 350 mile range, and 0-60 in "around 3 seconds"
+      <hr/>
+      
+      - *General Motors today revealed the GMC Hummer EV, its first electric pickup. The vehicle has a 350 range, 1,000 HP, and up to 11,500 pound feet of torque (through fuzzy math). Yes, it sort of looks like the Tesla Cybertruck. Several key stats stick above the r…*
+      
+  - After historic OSIRIS-REx asteroid sample collection, Lockheed Martin VP Lisa Callahan will join us at TC Sessions: Space
+      <hr/>
+      
+      - *This December 16 and 17, we’re hosting our very first TC Sessions: Space event. It’ll be a virtual, live-streamed two-day show, including conversations with some of the best and brightest in the space industry. We’re thrilled to be hosting Lisa Callahan, Vice…*
+      
+  - Netflix to test free weekend-long access in India
+      <hr/>
+      
+      - *Netflix plans to give users in India access to its service at no charge for a weekend as part of a test to expand its reach in the country, a company executive said Tuesday. The American streaming giant, which reported slow users growth for the quarter that e…*
+       
   - Daily Crunch: DOJ files antitrust suit against Google
       <hr/>
-      
-      - *Google faces a big antitrust suit, Amazon offers to pay customers for shopping data and we review the iPhone 12. This is your Daily Crunch for October 20, 2020. The big story: DOJ files antitrust suit against Google The suit accuses Google of “unlawfully main…*
-      
-  - Apple HomePod update brings Intercom and other new features
-      <hr/>
-      
-      - *Apple HomePod owners, starting today, will be able to use the newly announced “Intercom” feature to send messages between their HomePod smart speakers. The feature, which arrives via a software update, brings this and several other new features to Apple’s sma…*
-      
-  - Now may be the best time to become a full-stack developer
-      <hr/>
-      
-      - *You may not have full knowledge, skills and understanding of everything immediately but you'll position yourself at the forefront of the world’s software development needs right off the bat.*
        
-  - Cloud Foundry coalesces around Kubernetes
-      <hr/>
-       
-       - *In a normal year, the Cloud Foundry project would be hosting its annual European Summit in Dublin this week. But this is 2020, so it’s a virtual event. This year, however, has been a bit of a transformative year for the open-source Platform-as-a-Service proje…*
+       - *Google faces a big antitrust suit, Amazon offers to pay customers for shopping data and we review the iPhone 12. This is your Daily Crunch for October 20, 2020. The big story: DOJ files antitrust suit against Google The suit accuses Google of “unlawfully main…*
       
 
 <br />
