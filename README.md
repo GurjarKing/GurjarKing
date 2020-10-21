@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A clever person solves a problem. A wise person avoids it.
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 
-~ Albert Einstein
+~ Bill Gates
 <pre>
 
 </pre>
