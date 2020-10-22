@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Premature abstraction is as bad as premature optimization.
+Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 
-~ Luciano Ramalho
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Premature abstraction is as bad as premature optimization.
 </pre>
 <strong>Daily News</strong>
   
-  - Quibi’s shortform life
+  - Here's why Intel's stock just dropped 10% after reporting earnings
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Myself, along with Danny and Natasha had a lot to get through, and more to say than expected. A big thanks to C…*
+      - *The third-quarter earnings cycle is just getting underway, but we’ve already seen a few companies post numbers that investors did not like. Netflix missed on several metrics yesterday and was punished, and today Intel is joining the video streaming giant in s…*
      
+  - Quibi’s shortform life
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Myself, along with Danny and Natasha had a lot to get through, and more to say than expected. A big thanks to C…*
+      
   - HBO Max hits 28.7M subscribers in Q3, but few are over-the-top
       <hr/>
       
@@ -73,16 +78,11 @@ Premature abstraction is as bad as premature optimization.
       <hr/>
       
       - *Uber is facing a class-action lawsuit over Proposition 22 that alleges the company is illegally coercing its drivers to support the ballot measure that seeks to keep workers classified as independent contractors. The suit was brought forth by two Uber drivers…*
-      
+       
   - 3 reforms social media platforms should make in light of 'The Social Dilemma'
       <hr/>
-      
-      - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
        
-  - Netflix launches a virtual HBCU boot camp with Norfolk State to increase exposure to tech industry
-      <hr/>
-       
-       - *Netflix is going back to school. Working with Norfolk State University, the alma mater of one of the company’s senior software engineers, and the online education platform, 2U, Netflix is developing a virtual boot camp for students to gain exposure to the tec…*
+       - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
       
 
 <br />
