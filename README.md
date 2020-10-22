@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Fancy algorithms are slow when n is small, and n is usually small.
+Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
 
-~ Rob Pike
+~ Douglas Crockford
 <pre>
 
 </pre>
