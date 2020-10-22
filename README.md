@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+The most important part of writing a program is designing the data structures.
 
-~ Daniel T. Barry
+~ Dan Bricklin
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Thoroughly testing a program is impossible (requires unbounded number of test ca
 </pre>
 <strong>Daily News</strong>
   
-  - Freelancer banking startup Lili raises $15M
+  - Instacart, in partnership with ALDI, will support SNAP EBT for online groceries
      <hr/>
      
-      - *It’s only been a few months since Lili announced its $10 million seed round, and it’s already raised more funding — namely, a $15 million Series A. The startup, founded by CEO Lilac Bar David and CTO Liran Zelkha, is creating a bank account and associated pro…*
+      - *Instacart is making its grocery delivery and pickup services more accessible to lower-income customers by offering customers the ability to pay for groceries using their SNAP (Supplemental Nutrition Assistance Program) benefits. This is the first time Instaca…*
      
-  - Amazon Echo review: Well-rounded sound
+  - The smart speaker market is expected grow 21% next year
       <hr/>
       
-      - *Six years ago, Amazon essentially created a new consumer electronics category. Expectations weren’t particularly high when the first Echo device debuted in November of 2014. Amazon, after all, has never shied away from throwing a new device against the wall t…*
+      - *New numbers from Canalys point to a strong growth in smart speaker shipments in Mainland China this year. The market is on track to grow 2020, having gotten the COVID-19 pandemic mostly under control in recent months. The rest of the world — much of which con…*
       
-  - Facebook adds hosting, shopping features, and pricing tiers to WhatsApp Business
+  - Woven adds to its calendar app's $20/mo premium plan
       <hr/>
       
-      - *Facebook has been making a big play to be a go-to partner for small and medium businesses that use the internet to interface with the wider world, and its messaging platform WhatsApp, with some 50 million businesses and 175 million people messaging them (and …*
+      - *Productivity software has had a huge couple of years, yet for all of the great note-taking apps that have launched, consumers haven’t gotten a lot of quality options for Google Calendar replacements. This week, Woven, a calendar startup founded by former Face…*
       
-  - WoHo wants to make constructing buildings fast, flexible and green with reusable “components”
+  - Here.fm raises $2.9 million to reimagine video chat
       <hr/>
       
-      - *Buildings are the bedrocks of civilization — places to live, places to work (well, normally, in a non-COVID-19 world) and places to play. Yet how we conceive buildings, architect them for their uses, and ultimately construct them on a site has changed remarka…*
+      - *Here.fm, a new web-based communication platform founded by Jesse Boyes and Seth Harris, has today announced the close of a $2.9 million seed round from FirstMark with participation by Y Combinator and a group of angel investors. Here is all about giving peopl…*
        
-  - E-bike subscription service Dance closes $17.7M Series A, led by HV Holtzbrinck Ventures
+  - Chinese live tutoring app Yuanfudao is now worth $15.5 billion
       <hr/>
        
-       - *Three months on since the former founders of SoundCloud launched their e-bike subscription service, Dance they are today announcing the close of a $17.7 million (€15 million) Series A funding round led by one of the larger European VCs, HV Holtzbrinck Venture…*
+       - *Yuanfudao, a homework tutoring-app founded in 2012, has raised $2.2 billion from investors, surpassing Byju’s as the most valuable edtech company in the world. The Beijing-based company is now worth $15.5 billion dollars, almost double its valuation set in Ma…*
       
 
 <br />
