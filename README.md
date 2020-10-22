@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 
-~ Alan Turing
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The idea behind digital computers may be explained by saying that these machines
 </pre>
 <strong>Daily News</strong>
   
-  - Mixtape Podcast: Proposition 22 and the labor divide
+  - Announcing the Agenda for TC Sessions: Space 2020
      <hr/>
      
-      - *California’s Proposition 22 is the most funded and perhaps one of the most contentious ballot measures in the state’s history. To date, the Yes on 22 side has put north of $185 million into the initiative. The proposition, funded by Uber, Lyft, DoorDash, Inst…*
+      - *TC Sessions: Space is happening this December 16 and 17 – our first ever dedicated space event. This is a live, virtual two-day conference featuring the most important people in the space industry, across public, private and defense. We’re thrilled to be host…*
      
+  - Leverage public data to improve content marketing outcomes
+      <hr/>
+      
+      - *Those who see the opportunity in data-focused content will reap disproportionate benefits.*
+      
+  - After release of Tesla's 'Full Self-Driving' beta, Elon Musk promises roughly $2,000 price hike
+      <hr/>
+      
+      - *In a tweet posted early Thursday morning, Tesla chief executive Elon Musk said that prices for the Full Self-Driving (“FSD”) upgrade to Tesla vehicles would increase by roughly $2,000. It’s potentially an indication that the company is realizing that it needs…*
+      
+  - Mixtape Podcast: Proposition 22 and the labor divide
+      <hr/>
+      
+      - *California’s Proposition 22 is the most funded and perhaps one of the most contentious ballot measures in the state’s history. To date, the Yes on 22 side has put north of $185 million into the initiative. The proposition, funded by Uber, Lyft, DoorDash, Inst…*
+       
   - Respect the hustle, not the stupidity
       <hr/>
-      
-      - *Yes, the media f’ing gorged on the Quibi story yesterday. We did, they did, everyone did. And really, truly, how could anyone not? Nearly $2 billion came in (with $350 million heading back), a star-studded lineup of executives and production teams, an absolut…*
-      
-  - Spotify takes on radio with its own daily morning show
-      <hr/>
-      
-      - *Spotify’s streaming music service is starting to resemble terrestrial radio with today’s launch of the company’s first daily morning show, “The Get Up.” Like other morning shows designed for commuters, the new program will be led by hosts and will combine new…*
-      
-  - Facebook's controversial Oversight Board starts reviewing content moderation cases
-      <hr/>
-      
-      - *Facebook’s external body of decision makers will start reviewing cases about what stays on the platform and what goes beginning today. The new system will elevate some of the platform’s content moderation decisions to a new group called the Facebook Oversight…*
        
-  - Customer experience and digital transformation concepts are merging during the pandemic
-      <hr/>
-       
-       - *Customer experience and digital transformation are two terms we’ve been hearing about for years, but have often remained nebulous in many organizations — something to aspire to perhaps, but not take completely seriously. Yet the pandemic has been a forcing ev…*
+       - *Yes, the media f’ing gorged on the Quibi story yesterday. We did, they did, everyone did. And really, truly, how could anyone not? Nearly $2 billion came in (with $350 million heading back), a star-studded lineup of executives and production teams, an absolut…*
       
 
 <br />
