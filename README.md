@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
 
-~ Ada Lovelace
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The Analytical Engine does not occupy common ground with mere 'calculating machi
 </pre>
 <strong>Daily News</strong>
   
-  - WoHo wants to make constructing buildings fast, flexible and green with reusable “components”
+  - Freelancer banking startup Lili raises $15M
      <hr/>
      
-      - *Buildings are the bedrocks of civilization — places to live, places to work (well, normally, in a non-COVID-19 world) and places to play. Yet how we conceive buildings, architect them for their uses, and ultimately construct them on a site has changed remarka…*
+      - *It’s only been a few months since Lili announced its $10 million seed round, and it’s already raised more funding — namely, a $15 million Series A. The startup, founded by CEO Lilac Bar David and CTO Liran Zelkha, is creating a bank account and associated pro…*
      
+  - Amazon Echo review: Well-rounded sound
+      <hr/>
+      
+      - *Six years ago, Amazon essentially created a new consumer electronics category. Expectations weren’t particularly high when the first Echo device debuted in November of 2014. Amazon, after all, has never shied away from throwing a new device against the wall t…*
+      
+  - Facebook adds hosting, shopping features, and pricing tiers to WhatsApp Business
+      <hr/>
+      
+      - *Facebook has been making a big play to be a go-to partner for small and medium businesses that use the internet to interface with the wider world, and its messaging platform WhatsApp, with some 50 million businesses and 175 million people messaging them (and …*
+      
+  - WoHo wants to make constructing buildings fast, flexible and green with reusable “components”
+      <hr/>
+      
+      - *Buildings are the bedrocks of civilization — places to live, places to work (well, normally, in a non-COVID-19 world) and places to play. Yet how we conceive buildings, architect them for their uses, and ultimately construct them on a site has changed remarka…*
+       
   - E-bike subscription service Dance closes $17.7M Series A, led by HV Holtzbrinck Ventures
       <hr/>
-      
-      - *Three months on since the former founders of SoundCloud launched their e-bike subscription service, Dance they are today announcing the close of a $17.7 million (€15 million) Series A funding round led by one of the larger European VCs, HV Holtzbrinck Venture…*
-      
-  - Smartphone shipments rebound to an all-time high in India
-      <hr/>
-      
-      - *Smartphone shipments reached an all-time high in India in the quarter that ended in September this year as the world’s second largest handset market remained fully open during the period after initial lockdowns due to the coronavirus, according to a new repor…*
-      
-  - Here integrates what3words' super simple address system into its in-car API
-      <hr/>
-      
-      - *Geocoding startup what3words — which chunks the world into 3mx3m squares, giving each a unique three-word label to simplify location sharing — has nabbed another in-vehicle integration, via a partnership with Here Technologies. The pair said today that OEMs u…*
        
-  - Hearings begin in Samsung vice chairman Jay Y. Lee's accounting fraud trial
-      <hr/>
-       
-       - *The trial of Samsung leader Jay Y. Lee, who is accused of accounting fraud and stock price manipulating, held its first hearing today at the Seoul Central District Court. The Seoul Central District Court denied prosecutors’ arrest warrant request for Lee in J…*
+       - *Three months on since the former founders of SoundCloud launched their e-bike subscription service, Dance they are today announcing the close of a $17.7 million (€15 million) Series A funding round led by one of the larger European VCs, HV Holtzbrinck Venture…*
       
 
 <br />
