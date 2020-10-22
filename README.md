@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most important part of writing a program is designing the data structures.
+The most important thing is to be able to think what you want, not to say what you want.
 
-~ Dan Bricklin
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The most important part of writing a program is designing the data structures.
 </pre>
 <strong>Daily News</strong>
   
-  - Instacart, in partnership with ALDI, will support SNAP EBT for online groceries
+  - Google Maps launches a new developer solution for on-demand ride and delivery companies
      <hr/>
      
-      - *Instacart is making its grocery delivery and pickup services more accessible to lower-income customers by offering customers the ability to pay for groceries using their SNAP (Supplemental Nutrition Assistance Program) benefits. This is the first time Instaca…*
+      - *The Google Maps Platform, the developer side of Google Maps, is launching a new service for on-demand rides and delivery companies today that ties together some of the platform’s existing capabilities with new features for finding nearby drivers and sharing t…*
      
+  - TikTok rolls out a new notification system for content removals
+      <hr/>
+      
+      - *TikTok says it has rolled out a new notification system to users worldwide that will offer more clarity around content removals. The system, which had been in testing for a few months ahead of its global release, informs a TikTok user when their video had bee…*
+      
+  - Flair's Smart Vent system is a big improvement for anyone looking to improve their home HVAC
+      <hr/>
+      
+      - *Smart thermostats are fairly ubiquitous these days, but depending on which one you’re using, you could be getting a lot more from your home heating and cooling – with relatively simple DIY upgrades. The Flair Smart Vent system is one such upgrade, and though …*
+      
+  - Instacart, in partnership with ALDI, will support SNAP EBT for online groceries
+      <hr/>
+      
+      - *Instacart is making its grocery delivery and pickup services more accessible to lower-income customers by offering customers the ability to pay for groceries using their SNAP (Supplemental Nutrition Assistance Program) benefits. This is the first time Instaca…*
+       
   - The smart speaker market is expected grow 21% next year
       <hr/>
-      
-      - *New numbers from Canalys point to a strong growth in smart speaker shipments in Mainland China this year. The market is on track to grow 2020, having gotten the COVID-19 pandemic mostly under control in recent months. The rest of the world — much of which con…*
-      
-  - Woven adds to its calendar app's $20/mo premium plan
-      <hr/>
-      
-      - *Productivity software has had a huge couple of years, yet for all of the great note-taking apps that have launched, consumers haven’t gotten a lot of quality options for Google Calendar replacements. This week, Woven, a calendar startup founded by former Face…*
-      
-  - Here.fm raises $2.9 million to reimagine video chat
-      <hr/>
-      
-      - *Here.fm, a new web-based communication platform founded by Jesse Boyes and Seth Harris, has today announced the close of a $2.9 million seed round from FirstMark with participation by Y Combinator and a group of angel investors. Here is all about giving peopl…*
        
-  - Chinese live tutoring app Yuanfudao is now worth $15.5 billion
-      <hr/>
-       
-       - *Yuanfudao, a homework tutoring-app founded in 2012, has raised $2.2 billion from investors, surpassing Byju’s as the most valuable edtech company in the world. The Beijing-based company is now worth $15.5 billion dollars, almost double its valuation set in Ma…*
+       - *New numbers from Canalys point to a strong growth in smart speaker shipments in Mainland China this year. The market is on track to grow 2020, having gotten the COVID-19 pandemic mostly under control in recent months. The rest of the world — much of which con…*
       
 
 <br />
