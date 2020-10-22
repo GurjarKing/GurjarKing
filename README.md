@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+Nine women can't make a baby in one month.
 
-~ Douglas Crockford
+~ Fred Brooks
 <pre>
 
 </pre>
