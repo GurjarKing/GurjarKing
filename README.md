@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+Every good work of software starts by scratching a developer’s personal itch.
 
-~ Ada Lovelace
+~ Eric S. Raymond
 <pre>
 
 </pre>
