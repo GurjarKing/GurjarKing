@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most important thing is to be able to think what you want, not to say what you want.
+On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 
-~ Paul Graham (programmer)
+~ Charles Babbage
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The most important thing is to be able to think what you want, not to say what y
 </pre>
 <strong>Daily News</strong>
   
-  - Google Maps launches a new developer solution for on-demand ride and delivery companies
+  - How unicorns helped venture capital get later, and bigger
      <hr/>
      
-      - *The Google Maps Platform, the developer side of Google Maps, is launching a new service for on-demand rides and delivery companies today that ties together some of the platform’s existing capabilities with new features for finding nearby drivers and sharing t…*
+      - *The venture capital industry’s comeback from fear in Q1 and parts of Q2 to Q3 greed is worth understanding. To get our hands around what happened to private capital in 2020, we’ve taken looks into both the United States’ VC scene and the global picture this w…*
      
-  - TikTok rolls out a new notification system for content removals
+  - For the Theremin's 100th anniversary, Moog unveils the gorgeous Claravox Centennial
       <hr/>
       
-      - *TikTok says it has rolled out a new notification system to users worldwide that will offer more clarity around content removals. The system, which had been in testing for a few months ahead of its global release, informs a TikTok user when their video had bee…*
+      - *It’s been a full century since Leon Theremin created the electronic instrument bearing his name, and to celebrate Moog is releasing what must surely be the best-looking (and may be the best-sounding) Theremin of all time: the Claravox Centennial. With a walnu…*
       
-  - Flair's Smart Vent system is a big improvement for anyone looking to improve their home HVAC
+  - Harness delivers enterprise continuous integration on heels of Drone.io acquisition
       <hr/>
       
-      - *Smart thermostats are fairly ubiquitous these days, but depending on which one you’re using, you could be getting a lot more from your home heating and cooling – with relatively simple DIY upgrades. The Flair Smart Vent system is one such upgrade, and though …*
+      - *In August, Harness made its first acquisition when it bought open source continuous integration startup Drone.io. The company didn’t waste any time building on that purchase, announcing a new enterprise continuous integration tool today to go alongside the op…*
       
-  - Instacart, in partnership with ALDI, will support SNAP EBT for online groceries
+  - ‘A Charlie Brown Christmas’ is now an Apple TV+ exclusive
       <hr/>
       
-      - *Instacart is making its grocery delivery and pickup services more accessible to lower-income customers by offering customers the ability to pay for groceries using their SNAP (Supplemental Nutrition Assistance Program) benefits. This is the first time Instaca…*
+      - *On first screening, the network assumed it had a disaster on its hands. It was a quiet cartoon — more of a meditation on seasonal depression than a proper holiday film. The pacing was slow, it was voiced by a cast of amateur children and the soundtrack amount…*
        
-  - The smart speaker market is expected grow 21% next year
+  - President Trump's Twitter accessed by security expert who guessed password “maga2020!”
       <hr/>
        
-       - *New numbers from Canalys point to a strong growth in smart speaker shipments in Mainland China this year. The market is on track to grow 2020, having gotten the COVID-19 pandemic mostly under control in recent months. The rest of the world — much of which con…*
+       - *A Dutch security researcher says he accessed President Trump’s @realDonaldTrump Twitter account last week by guessing his password: “maga2020!”. Victor Gevers, a security researcher at the GDI Foundation and chair of the Dutch Institute for Vulnerability Disc…*
       
 
 <br />
