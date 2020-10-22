@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 
-~ Bill Gates
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A great programmer thinks about the program on a constant basis, whether driving
 </pre>
 <strong>Daily News</strong>
   
-  - Tesla is a chain of startups, Elon Musk explains
+  - This former Tesla CIO just raised $150 million more to pull car dealers into the 21st century
      <hr/>
      
-      - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
+      - *“I have to choose my words carefully,” says Joe Castelino of Stevens Creek Volkswagen in San Jose, Ca., when asked about the software on which most car dealerships rely for inventory information, to manage marketing, to handle customer relationships and to ot…*
      
+  - Tesla is a chain of startups, Elon Musk explains
+      <hr/>
+      
+      - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
+      
   - Daily Crunch: Quibi is shutting down
       <hr/>
       
@@ -73,16 +78,11 @@ A great programmer thinks about the program on a constant basis, whether driving
       <hr/>
       
       - *In memory of the death of Quibi, here’s a quick sendoff from four of our writers who came together to discuss what we can learn from Quibi’s amazing, instantaneous, billions-of-dollars failure. Lucas Matney looks at what the potential was for Quibi and how it…*
-      
+       
   - Gillmor Gang: Something Goes Right
       <hr/>
-      
-      - *Here we sit in the valley of predespair, 2 weeks ahead of the election and God knows where we are in the pandemic. As my partner Tina says to me on this once glorious sunny day (the view formerly known as the Pacific Ocean has been replaced by the fog like a …*
        
-  - Tesla wows on latest numbers
-      <hr/>
-       
-       - *Tesla’s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street’s expectations for deliveries earlier thi…*
+       - *Here we sit in the valley of predespair, 2 weeks ahead of the election and God knows where we are in the pandemic. As my partner Tina says to me on this once glorious sunny day (the view formerly known as the Pacific Ocean has been replaced by the fog like a …*
       
 
 <br />
