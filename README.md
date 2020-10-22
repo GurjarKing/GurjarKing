@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 
-~ Paul Graham (programmer)
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The best thing software can be is easy, but the way to do this is to get the def
 </pre>
 <strong>Daily News</strong>
   
-  - Announcing the Agenda for TC Sessions: Space 2020
+  - 3 reforms social media platforms should make in light of 'The Social Dilemma'
      <hr/>
      
-      - *TC Sessions: Space is happening this December 16 and 17 – our first ever dedicated space event. This is a live, virtual two-day conference featuring the most important people in the space industry, across public, private and defense. We’re thrilled to be host…*
+      - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
      
+  - Netflix launches a virtual HBCU boot camp with Norfolk State to increase exposure to tech industry
+      <hr/>
+      
+      - *Netflix is going back to school. Working with Norfolk State University, the alma mater of one of the company’s senior software engineers, and the online education platform, 2U, Netflix is developing a virtual boot camp for students to gain exposure to the tec…*
+      
+  - Announcing the Agenda for TC Sessions: Space 2020
+      <hr/>
+      
+      - *TC Sessions: Space is happening this December 16 and 17 – our first ever dedicated space event. This is a live, virtual two-day conference featuring the most important people in the space industry, across public, private and defense. We’re thrilled to be host…*
+      
   - Leverage public data to improve content marketing outcomes
       <hr/>
       
       - *Those who see the opportunity in data-focused content will reap disproportionate benefits.*
-      
+       
   - After release of Tesla's 'Full Self-Driving' beta, Elon Musk promises roughly $2,000 price hike
       <hr/>
-      
-      - *In a tweet posted early Thursday morning, Tesla chief executive Elon Musk said that prices for the Full Self-Driving (“FSD”) upgrade to Tesla vehicles would increase by roughly $2,000. It’s potentially an indication that the company is realizing that it needs…*
-      
-  - Mixtape Podcast: Proposition 22 and the labor divide
-      <hr/>
-      
-      - *California’s Proposition 22 is the most funded and perhaps one of the most contentious ballot measures in the state’s history. To date, the Yes on 22 side has put north of $185 million into the initiative. The proposition, funded by Uber, Lyft, DoorDash, Inst…*
        
-  - Respect the hustle, not the stupidity
-      <hr/>
-       
-       - *Yes, the media f’ing gorged on the Quibi story yesterday. We did, they did, everyone did. And really, truly, how could anyone not? Nearly $2 billion came in (with $350 million heading back), a star-studded lineup of executives and production teams, an absolut…*
+       - *In a tweet posted early Thursday morning, Tesla chief executive Elon Musk said that prices for the Full Self-Driving (“FSD”) upgrade to Tesla vehicles would increase by roughly $2,000. It’s potentially an indication that the company is realizing that it needs…*
       
 
 <br />
