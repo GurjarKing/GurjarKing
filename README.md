@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ John McCarthy (computer scientist)
+~ Mario Fusco
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Program designers have a tendency to think of the users as idiots who need to be
 </pre>
 <strong>Daily News</strong>
   
-  - Here's why Intel's stock just dropped 10% after reporting earnings
+  - Quibi says it will shut down in early December
      <hr/>
      
-      - *The third-quarter earnings cycle is just getting underway, but we’ve already seen a few companies post numbers that investors did not like. Netflix missed on several metrics yesterday and was punished, and today Intel is joining the video streaming giant in s…*
+      - *Quibi is shutting down — we know that much for sure. But when? If you’re looking to blast through all 25 episodes of the Reno 911 revival series before Quibi calls its quits, how long do you actually have? While it seems even Quibi isn’t 100% certain yet, the…*
      
+  - Extra Crunch Partner Perk: Get 6 months free of Zendesk Support and Sales CRM
+      <hr/>
+      
+      - *Annual Extra Crunch members can get six months of free access to Zendesk Support Suite and Sales CRM, Zendesk Explore and Zendesk Sunshine.*
+      
+  - Daily Crunch: Facebook Dating comes to Europe
+      <hr/>
+      
+      - *Facebook’s dating feature expands after a regulatory delay, we review the new Amazon Echo and President Donald Trump has an on-the-nose Twitter password. This is your Daily Crunch for October 22, 2020. The big story: Facebook Dating comes to Europe Back in Fe…*
+      
+  - Here's why Intel's stock just dropped 10% after reporting earnings
+      <hr/>
+      
+      - *The third-quarter earnings cycle is just getting underway, but we’ve already seen a few companies post numbers that investors did not like. Netflix missed on several metrics yesterday and was punished, and today Intel is joining the video streaming giant in s…*
+       
   - Quibi’s shortform life
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Myself, along with Danny and Natasha had a lot to get through, and more to say than expected. A big thanks to C…*
-      
-  - HBO Max hits 28.7M subscribers in Q3, but few are over-the-top
-      <hr/>
-      
-      - *AT&T painted a rosy picture of HBO Max adoption during the company’s earnings report on Thursday. Despite not being available on Roku, one of the top streaming platforms in the U.S., AT&T said new HBO Max activations more than doubled from second-quarter leve…*
-      
-  - Uber drivers sue company alleging coercive Prop 22 advertising
-      <hr/>
-      
-      - *Uber is facing a class-action lawsuit over Proposition 22 that alleges the company is illegally coercing its drivers to support the ballot measure that seeks to keep workers classified as independent contractors. The suit was brought forth by two Uber drivers…*
        
-  - 3 reforms social media platforms should make in light of 'The Social Dilemma'
-      <hr/>
-       
-       - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Myself, along with Danny and Natasha had a lot to get through, and more to say than expected. A big thanks to C…*
       
 
 <br />
