@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 
-~ Seymour Cray
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
