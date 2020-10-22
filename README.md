@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Charles Babbage
+~ Alan Turing
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbag
 </pre>
 <strong>Daily News</strong>
   
-  - How unicorns helped venture capital get later, and bigger
+  - Mixtape Podcast: Proposition 22 and the labor divide
      <hr/>
      
-      - *The venture capital industry’s comeback from fear in Q1 and parts of Q2 to Q3 greed is worth understanding. To get our hands around what happened to private capital in 2020, we’ve taken looks into both the United States’ VC scene and the global picture this w…*
+      - *California’s Proposition 22 is the most funded and perhaps one of the most contentious ballot measures in the state’s history. To date, the Yes on 22 side has put north of $185 million into the initiative. The proposition, funded by Uber, Lyft, DoorDash, Inst…*
      
-  - For the Theremin's 100th anniversary, Moog unveils the gorgeous Claravox Centennial
+  - Respect the hustle, not the stupidity
       <hr/>
       
-      - *It’s been a full century since Leon Theremin created the electronic instrument bearing his name, and to celebrate Moog is releasing what must surely be the best-looking (and may be the best-sounding) Theremin of all time: the Claravox Centennial. With a walnu…*
+      - *Yes, the media f’ing gorged on the Quibi story yesterday. We did, they did, everyone did. And really, truly, how could anyone not? Nearly $2 billion came in (with $350 million heading back), a star-studded lineup of executives and production teams, an absolut…*
       
-  - Harness delivers enterprise continuous integration on heels of Drone.io acquisition
+  - Spotify takes on radio with its own daily morning show
       <hr/>
       
-      - *In August, Harness made its first acquisition when it bought open source continuous integration startup Drone.io. The company didn’t waste any time building on that purchase, announcing a new enterprise continuous integration tool today to go alongside the op…*
+      - *Spotify’s streaming music service is starting to resemble terrestrial radio with today’s launch of the company’s first daily morning show, “The Get Up.” Like other morning shows designed for commuters, the new program will be led by hosts and will combine new…*
       
-  - ‘A Charlie Brown Christmas’ is now an Apple TV+ exclusive
+  - Facebook's controversial Oversight Board starts reviewing content moderation cases
       <hr/>
       
-      - *On first screening, the network assumed it had a disaster on its hands. It was a quiet cartoon — more of a meditation on seasonal depression than a proper holiday film. The pacing was slow, it was voiced by a cast of amateur children and the soundtrack amount…*
+      - *Facebook’s external body of decision makers will start reviewing cases about what stays on the platform and what goes beginning today. The new system will elevate some of the platform’s content moderation decisions to a new group called the Facebook Oversight…*
        
-  - President Trump's Twitter accessed by security expert who guessed password “maga2020!”
+  - Customer experience and digital transformation concepts are merging during the pandemic
       <hr/>
        
-       - *A Dutch security researcher says he accessed President Trump’s @realDonaldTrump Twitter account last week by guessing his password: “maga2020!”. Victor Gevers, a security researcher at the GDI Foundation and chair of the Dutch Institute for Vulnerability Disc…*
+       - *Customer experience and digital transformation are two terms we’ve been hearing about for years, but have often remained nebulous in many organizations — something to aspire to perhaps, but not take completely seriously. Yet the pandemic has been a forcing ev…*
       
 
 <br />
