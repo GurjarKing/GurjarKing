@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think programming is very much a religious experience for a lot of people.
+The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 
-~ Gary Kildall
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I think programming is very much a religious experience for a lot of people.
 </pre>
 <strong>Daily News</strong>
   
-  - Health insurance startup Alan lets you chat with a doctor
+  - Hearings begin in Samsung vice chairman Jay Y. Lee's accounting fraud trial
      <hr/>
      
-      - *French startup Alan is building health insurance products. And 100,000 people are now covered through Alan . I caught up with the company’s co-founder and CEO Jean-Charles Samuelian-Werve so that he could give us an update on the product. Alan has obtained it…*
+      - *The trial of Samsung leader Jay Y. Lee, who is accused of accounting fraud and stock price manipulating, held its first hearing today at the Seoul Central District Court. The Seoul Central District Court denied prosecutors’ arrest warrant request for Lee in J…*
      
+  - Adyen alumni raise €2.6M seed to launch Silverflow, a 'cloud-native' card payments processor
+      <hr/>
+      
+      - *Silverflow, a Dutch startup founded by Adyen alumni, is breaking cover and announcing seed funding. The pre-launch company has spent the last two years building what it describes as a “cloud-native” online card processor that directly connects to card network…*
+      
+  - Facebook Dating launches in Europe after 9-month+ delay over privacy concerns
+      <hr/>
+      
+      - *Facebook’s dating bolt-on to its eponymous social networking service has finally launched in Europe, more than nine months after an earlier launch plan was derailed at the last minute over privacy concerns. From today, European Facebook users in Austria, Belg…*
+      
+  - Health insurance startup Alan lets you chat with a doctor
+      <hr/>
+      
+      - *French startup Alan is building health insurance products. And 100,000 people are now covered through Alan . I caught up with the company’s co-founder and CEO Jean-Charles Samuelian-Werve so that he could give us an update on the product. Alan has obtained it…*
+       
   - Acapela, from the founder of Dubsmash, hopes ‘asynchronous meetings' can end Zoom fatigue
       <hr/>
-      
-      - *Acapela, a new startup co-founded by Dubsmash founder Roland Grenke, is breaking cover today in a bid to re-imagine online meetings for remote teams. Hoping to put an end to video meeting fatigue, the product is described as an “asynchronous meeting platform,…*
-      
-  - 9 Zurich-area investors on Switzerland's 2020 startup outlook
-      <hr/>
-      
-      - *European entrepreneurs who want to launch startups could do worse than Switzerland. In a report analyzing Europe’s general economic health, cost of doing business, business environment and labor force quality, analysts looked for highly educated populations, …*
-      
-  - This former Tesla CIO just raised $150 million more to pull car dealers into the 21st century
-      <hr/>
-      
-      - *“I have to choose my words carefully,” says Joe Castelino of Stevens Creek Volkswagen in San Jose, Ca., when asked about the software on which most car dealerships rely for inventory information, to manage marketing, to handle customer relationships and to ot…*
        
-  - Tesla is a chain of startups, Elon Musk explains
-      <hr/>
-       
-       - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
+       - *Acapela, a new startup co-founded by Dubsmash founder Roland Grenke, is breaking cover today in a bid to re-imagine online meetings for remote teams. Hoping to put an end to video meeting fatigue, the product is described as an “asynchronous meeting platform,…*
       
 
 <br />
