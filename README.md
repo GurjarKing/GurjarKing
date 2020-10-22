@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
 
-~ Douglas Crockford
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ In JavaScript, there is a beautiful, elegant, highly expressive language that is
 </pre>
 <strong>Daily News</strong>
   
-  - 3 reforms social media platforms should make in light of 'The Social Dilemma'
+  - Uber drivers sue company alleging coercive Prop 22 advertising
      <hr/>
      
-      - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
+      - *Uber is facing a class-action lawsuit over Proposition 22 that alleges the company is illegally coercing its drivers to support the ballot measure that seeks to keep workers classified as independent contractors. The suit was brought forth by two Uber drivers…*
      
+  - 3 reforms social media platforms should make in light of 'The Social Dilemma'
+      <hr/>
+      
+      - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
+      
   - Netflix launches a virtual HBCU boot camp with Norfolk State to increase exposure to tech industry
       <hr/>
       
@@ -73,16 +78,11 @@ In JavaScript, there is a beautiful, elegant, highly expressive language that is
       <hr/>
       
       - *TC Sessions: Space is happening this December 16 and 17 – our first ever dedicated space event. This is a live, virtual two-day conference featuring the most important people in the space industry, across public, private and defense. We’re thrilled to be host…*
-      
+       
   - Leverage public data to improve content marketing outcomes
       <hr/>
-      
-      - *Those who see the opportunity in data-focused content will reap disproportionate benefits.*
        
-  - After release of Tesla's 'Full Self-Driving' beta, Elon Musk promises roughly $2,000 price hike
-      <hr/>
-       
-       - *In a tweet posted early Thursday morning, Tesla chief executive Elon Musk said that prices for the Full Self-Driving (“FSD”) upgrade to Tesla vehicles would increase by roughly $2,000. It’s potentially an indication that the company is realizing that it needs…*
+       - *Those who see the opportunity in data-focused content will reap disproportionate benefits.*
       
 
 <br />
