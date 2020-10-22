@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In theory, there is no difference between theory and practice. But, in practice, there is.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Jan L. A. van de Snepscheut
+~ Seymour Cray
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ In theory, there is no difference between theory and practice. But, in practice,
 </pre>
 <strong>Daily News</strong>
   
-  - This former Tesla CIO just raised $150 million more to pull car dealers into the 21st century
+  - Acapela, from the founder of Dubsmash, hopes ‘asynchronous meetings' can end Zoom fatigue
      <hr/>
      
-      - *“I have to choose my words carefully,” says Joe Castelino of Stevens Creek Volkswagen in San Jose, Ca., when asked about the software on which most car dealerships rely for inventory information, to manage marketing, to handle customer relationships and to ot…*
+      - *Acapela, a new startup co-founded by Dubsmash founder Roland Grenke, is breaking cover today in a bid to re-imagine online meetings for remote teams. Hoping to put an end to video meeting fatigue, the product is described as an “asynchronous meeting platform,…*
      
+  - 9 Zurich-area investors on Switzerland's 2020 startup outlook
+      <hr/>
+      
+      - *European entrepreneurs who want to launch startups could do worse than Switzerland. In a report analyzing Europe’s general economic health, cost of doing business, business environment and labor force quality, analysts looked for highly educated populations, …*
+      
+  - This former Tesla CIO just raised $150 million more to pull car dealers into the 21st century
+      <hr/>
+      
+      - *“I have to choose my words carefully,” says Joe Castelino of Stevens Creek Volkswagen in San Jose, Ca., when asked about the software on which most car dealerships rely for inventory information, to manage marketing, to handle customer relationships and to ot…*
+      
   - Tesla is a chain of startups, Elon Musk explains
       <hr/>
       
       - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
-      
+       
   - Daily Crunch: Quibi is shutting down
       <hr/>
-      
-      - *The end is in sight for Quibi, PayPal adds cryptocurrency support and Netflix tests a new promotional strategy. This is your Daily Crunch for October 21, 2020. The big story: Quibi is shutting down The much-hyped streaming video app led by Jeffrey Katzenberg …*
-      
-  - 4 quick bites and obituaries on Quibi (RIP 2020-2020)
-      <hr/>
-      
-      - *In memory of the death of Quibi, here’s a quick sendoff from four of our writers who came together to discuss what we can learn from Quibi’s amazing, instantaneous, billions-of-dollars failure. Lucas Matney looks at what the potential was for Quibi and how it…*
        
-  - Gillmor Gang: Something Goes Right
-      <hr/>
-       
-       - *Here we sit in the valley of predespair, 2 weeks ahead of the election and God knows where we are in the pandemic. As my partner Tina says to me on this once glorious sunny day (the view formerly known as the Pacific Ocean has been replaced by the fog like a …*
+       - *The end is in sight for Quibi, PayPal adds cryptocurrency support and Netflix tests a new promotional strategy. This is your Daily Crunch for October 21, 2020. The big story: Quibi is shutting down The much-hyped streaming video app led by Jeffrey Katzenberg …*
       
 
 <br />
