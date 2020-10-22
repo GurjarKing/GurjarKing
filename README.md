@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+Fancy algorithms are slow when n is small, and n is usually small.
 
-~ L. Peter Deutsch
+~ Rob Pike
 <pre>
 
 </pre>
