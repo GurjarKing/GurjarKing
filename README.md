@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+Debugging is like being the detective in a crime movie where you are also the murderer.
 
-~ Linus Torvalds
+~ Filipe Fortes
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If you need more than 3 levels of indentation, you're screwed anyway, and should
 </pre>
 <strong>Daily News</strong>
   
-  - Google removes 3 Android apps for children, with 20M+ downloads between them, over data collection violations
+  - Here's how fast a few dozen startups grew in Q3 2020
      <hr/>
      
-      - *When it comes to apps, Android leads the pack with nearly 3 million apps in its official Google Play store. The sheer volume also means that sometimes iffy apps slip through the cracks. Researchers at the International Digital Accountability Council (IDAC), a…*
+      - *Earlier this week I asked startups to share their Q3 growth metrics and whether they were performing ahead of behind of their yearly goals. Lots of companies responded. More than I could have anticipated, frankly. Instead of merely giving me a few data points…*
      
+  - Google removes 3 Android apps for children, with 20M+ downloads between them, over data collection violations
+      <hr/>
+      
+      - *When it comes to apps, Android leads the pack with nearly 3 million apps in its official Google Play store. The sheer volume also means that sometimes iffy apps slip through the cracks. Researchers at the International Digital Accountability Council (IDAC), a…*
+      
   - Huawei reports slowing growth as its operations "face significant challenges"
       <hr/>
       
@@ -73,16 +78,11 @@ If you need more than 3 levels of indentation, you're screwed anyway, and should
       <hr/>
       
       - *Lunar, the Nordic challenger bank that started out life as a personal finance manager app (PFM) but acquired a full banking license in 2019, has raised €40 million in Series C funding from existing investors. The injection of capital follows a €20 million Ser…*
-      
+       
   - France rebrands contact-tracing app in an effort to boost downloads
       <hr/>
-      
-      - *Don’t call it StopCovid anymore. France’s contact-tracing app has been updated and is now called TousAntiCovid, which means ‘everyone against Covid’. The French government is trying to pivot so that it’s no longer a contact-tracing app — or at least not just …*
        
-  - India's Flipkart buys over $200 million stake in Aditya Birla Fashion and Retail
-      <hr/>
-       
-       - *Flipkart is acquiring a 7.8% stake in Aditya Birla Fashion as the Walmart-owned Indian e-commerce firm makes further push into the fashion category in one of the world’s largest retail markets. The e-commerce group will pay $203.8 million for its stake in Adi…*
+       - *Don’t call it StopCovid anymore. France’s contact-tracing app has been updated and is now called TousAntiCovid, which means ‘everyone against Covid’. The French government is trying to pivot so that it’s no longer a contact-tracing app — or at least not just …*
       
 
 <br />
