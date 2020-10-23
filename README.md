@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 
-~ Daniel T. Barry
+~ Donald Knuth
 <pre>
 
 </pre>
