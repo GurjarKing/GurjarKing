@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+Machines as simple as thermostats can be said to have beliefs.
 
-~ Arthur C. Clarke
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ When a distinguished but elderly scientist states that something is possible, th
 </pre>
 <strong>Daily News</strong>
   
-  - Boston startups expand region's venture capital footprint
+  - Deep Science: Alzheimer's screening, forest-mapping drones, machine learning in space, more
      <hr/>
      
-      - *This year has shaken up venture capital, turning a hot early start to 2020 into a glacial period permeated with fear during the early days of COVID-19. That ice quickly melted as venture capitalists discovered that demand for software and other services that …*
+      - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
      
+  - Boston startups expand region's venture capital footprint
+      <hr/>
+      
+      - *This year has shaken up venture capital, turning a hot early start to 2020 into a glacial period permeated with fear during the early days of COVID-19. That ice quickly melted as venture capitalists discovered that demand for software and other services that …*
+      
   - The short, strange life of Quibi
       <hr/>
       
@@ -73,16 +78,11 @@ When a distinguished but elderly scientist states that something is possible, th
       <hr/>
       
       - *OnePlus continues its twice-yearly smartphone cycle with today’s arrival of the 8T. The latest device isn’t a huge upgrade over April’s OnePlus 8, but continues the company’s longstanding tradition of offering some of the most solid Android handsets at a reas…*
-      
+       
   - CA appeals court upholds ruling that Uber and Lyft must classify drivers as employees
       <hr/>
-      
-      - *Uber and Lyft must classify their drivers as employees, an appellate court ruled yesterday evening. However, the decision will be stayed for 30 days after the court issues the remittitur, which has not happened yet. That means depending on how ballot measure …*
        
-  - Financial institutions can support COVID-19 crowdfunding campaigns
-      <hr/>
-       
-       - *Financial institutions must lend their vast expertise, knowledge, and resources to these worthy causes; after all, we are all in this together.*
+       - *Uber and Lyft must classify their drivers as employees, an appellate court ruled yesterday evening. However, the decision will be stayed for 30 days after the court issues the remittitur, which has not happened yet. That means depending on how ballot measure …*
       
 
 <br />
