@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Machines as simple as thermostats can be said to have beliefs.
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 
-~ John McCarthy (computer scientist)
+~ Vint Cerf
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Machines as simple as thermostats can be said to have beliefs.
 </pre>
 <strong>Daily News</strong>
   
-  - Deep Science: Alzheimer's screening, forest-mapping drones, machine learning in space, more
+  - The RIAA is coming for the YouTube downloaders
      <hr/>
      
-      - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
+      - *In ye olden days of piracy, RIAA takedown notices were a common thing — I received a few myself. But that’s mostly fallen off as tracking pirates has gotten more difficult. But the RIAA can still issue nastygrams — to the creators of software that could poten…*
      
+  - Daily Crunch: Uber and Lyft defeated again in court
+      <hr/>
+      
+      - *A California court weighs in as Prop. 22 looms, Google removes popular apps over data collection practices and the Senate subpoenas Jack Dorsey and Mark Zuckerberg. This is your Daily Crunch for October 23, 2020. The big story: Uber and Lyft defeated again in…*
+      
+  - Deep Science: Alzheimer's screening, forest-mapping drones, machine learning in space, more
+      <hr/>
+      
+      - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
+      
   - Boston startups expand region's venture capital footprint
       <hr/>
       
       - *This year has shaken up venture capital, turning a hot early start to 2020 into a glacial period permeated with fear during the early days of COVID-19. That ice quickly melted as venture capitalists discovered that demand for software and other services that …*
-      
+       
   - The short, strange life of Quibi
       <hr/>
-      
-      - *“All that is left now is to offer a profound apology for disappointing you and, ultimately, for letting you down,” Jeffrey Katzenberg and Meg Whitman wrote, closing out an open letter posted to Medium. “We cannot thank you enough for being there with us, and …*
-      
-  - OnePlus’s 8T handset brings faster charging and a 120Hz display for $749
-      <hr/>
-      
-      - *OnePlus continues its twice-yearly smartphone cycle with today’s arrival of the 8T. The latest device isn’t a huge upgrade over April’s OnePlus 8, but continues the company’s longstanding tradition of offering some of the most solid Android handsets at a reas…*
        
-  - CA appeals court upholds ruling that Uber and Lyft must classify drivers as employees
-      <hr/>
-       
-       - *Uber and Lyft must classify their drivers as employees, an appellate court ruled yesterday evening. However, the decision will be stayed for 30 days after the court issues the remittitur, which has not happened yet. That means depending on how ballot measure …*
+       - *“All that is left now is to offer a profound apology for disappointing you and, ultimately, for letting you down,” Jeffrey Katzenberg and Meg Whitman wrote, closing out an open letter posted to Medium. “We cannot thank you enough for being there with us, and …*
       
 
 <br />
