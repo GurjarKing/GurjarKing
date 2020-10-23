@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 
-~ Donald Knuth
+~ Alan Perlis
 <pre>
 
 </pre>
