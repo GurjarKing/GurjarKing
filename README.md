@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Debugging is like being the detective in a crime movie where you are also the murderer.
+A programming language is low level when its programs require attention to the irrelevant.
 
-~ Filipe Fortes
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Debugging is like being the detective in a crime movie where you are also the mu
 </pre>
 <strong>Daily News</strong>
   
-  - Here's how fast a few dozen startups grew in Q3 2020
+  - Calling Brussels VCs: Be featured in The Great TechCrunch Survey of European VC
      <hr/>
      
-      - *Earlier this week I asked startups to share their Q3 growth metrics and whether they were performing ahead of behind of their yearly goals. Lots of companies responded. More than I could have anticipated, frankly. Instead of merely giving me a few data points…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Brussels will capture how the city is faring, and what changes are being wro…*
      
+  - Here's how fast a few dozen startups grew in Q3 2020
+      <hr/>
+      
+      - *Earlier this week I asked startups to share their Q3 growth metrics and whether they were performing ahead of behind of their yearly goals. Lots of companies responded. More than I could have anticipated, frankly. Instead of merely giving me a few data points…*
+      
   - Google removes 3 Android apps for children, with 20M+ downloads between them, over data collection violations
       <hr/>
       
@@ -73,16 +78,11 @@ Debugging is like being the detective in a crime movie where you are also the mu
       <hr/>
       
       - *Huawei announced earnings results today showing that its growth has slowed significantly this year as the Chinese telecom equipment and smartphone giant said its “production and operations face significant challenges.” While Huawei did not specify trade restr…*
-      
+       
   - Nordic challenger bank Lunar raises €40M Series C, plans to enter the 'buy now, pay later' space
       <hr/>
-      
-      - *Lunar, the Nordic challenger bank that started out life as a personal finance manager app (PFM) but acquired a full banking license in 2019, has raised €40 million in Series C funding from existing investors. The injection of capital follows a €20 million Ser…*
        
-  - France rebrands contact-tracing app in an effort to boost downloads
-      <hr/>
-       
-       - *Don’t call it StopCovid anymore. France’s contact-tracing app has been updated and is now called TousAntiCovid, which means ‘everyone against Covid’. The French government is trying to pivot so that it’s no longer a contact-tracing app — or at least not just …*
+       - *Lunar, the Nordic challenger bank that started out life as a personal finance manager app (PFM) but acquired a full banking license in 2019, has raised €40 million in Series C funding from existing investors. The injection of capital follows a €20 million Ser…*
       
 
 <br />
