@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
-~ Mario Fusco
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The code you write makes you a programmer. The code you delete makes you a good 
 </pre>
 <strong>Daily News</strong>
   
-  - Quibi says it will shut down in early December
+  - Senate subpoenas could force Zuckerberg and Dorsey to testify on New York Post controversy
      <hr/>
      
-      - *Quibi is shutting down — we know that much for sure. But when? If you’re looking to blast through all 25 episodes of the Reno 911 revival series before Quibi calls its quits, how long do you actually have? While it seems even Quibi isn’t 100% certain yet, the…*
+      - *The Senate Judiciary Committee voted in favor of issuing subpoenas for Facebook’s Mark Zuckerberg and Twitter’s Jack Dorsey Thursday, meaning that there might be two big tech CEO hearings on the horizon. Republicans in the committee declared their interest in…*
      
+  - Representatives propose bill limiting Presidential internet 'kill switch'
+      <hr/>
+      
+      - *A pair of U.S. Representatives — one from each party — are proposing a law that would limit the President’s ability to shut down the internet at will. That may not strike you as an imminent threat, but federal police disappearing protestors into unmarked vans…*
+      
+  - Quibi says it will shut down in early December
+      <hr/>
+      
+      - *Quibi is shutting down — we know that much for sure. But when? If you’re looking to blast through all 25 episodes of the Reno 911 revival series before Quibi calls its quits, how long do you actually have? While it seems even Quibi isn’t 100% certain yet, the…*
+      
   - Extra Crunch Partner Perk: Get 6 months free of Zendesk Support and Sales CRM
       <hr/>
       
       - *Annual Extra Crunch members can get six months of free access to Zendesk Support Suite and Sales CRM, Zendesk Explore and Zendesk Sunshine.*
-      
+       
   - Daily Crunch: Facebook Dating comes to Europe
       <hr/>
-      
-      - *Facebook’s dating feature expands after a regulatory delay, we review the new Amazon Echo and President Donald Trump has an on-the-nose Twitter password. This is your Daily Crunch for October 22, 2020. The big story: Facebook Dating comes to Europe Back in Fe…*
-      
-  - Here's why Intel's stock just dropped 10% after reporting earnings
-      <hr/>
-      
-      - *The third-quarter earnings cycle is just getting underway, but we’ve already seen a few companies post numbers that investors did not like. Netflix missed on several metrics yesterday and was punished, and today Intel is joining the video streaming giant in s…*
        
-  - Quibi’s shortform life
-      <hr/>
-       
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Myself, along with Danny and Natasha had a lot to get through, and more to say than expected. A big thanks to C…*
+       - *Facebook’s dating feature expands after a regulatory delay, we review the new Amazon Echo and President Donald Trump has an on-the-nose Twitter password. This is your Daily Crunch for October 22, 2020. The big story: Facebook Dating comes to Europe Back in Fe…*
       
 
 <br />
