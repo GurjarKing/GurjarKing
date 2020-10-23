@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A programming language is low level when its programs require attention to the irrelevant.
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 
-~ Alan Perlis
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A programming language is low level when its programs require attention to the i
 </pre>
 <strong>Daily News</strong>
   
-  - Calling Brussels VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Financial institutions can support COVID-19 crowdfunding campaigns
      <hr/>
      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Brussels will capture how the city is faring, and what changes are being wro…*
+      - *Financial institutions must lend their vast expertise, knowledge, and resources to these worthy causes; after all, we are all in this together.*
      
+  - mmhmm, Phil Libin's new startup, acquires Memix to add enhanced filters to its video presentation toolkit
+      <hr/>
+      
+      - *Virtual meetings are a fundamental part of how we interact with each other these days, but even when (if!?) we find better ways to mitigate the effects of Covid-19, many think that they will be here to stay. That means there is an opportunity out there to imp…*
+      
+  - Calling Brussels VCs: Be featured in The Great TechCrunch Survey of European VC
+      <hr/>
+      
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Brussels will capture how the city is faring, and what changes are being wro…*
+      
   - Here's how fast a few dozen startups grew in Q3 2020
       <hr/>
       
       - *Earlier this week I asked startups to share their Q3 growth metrics and whether they were performing ahead of behind of their yearly goals. Lots of companies responded. More than I could have anticipated, frankly. Instead of merely giving me a few data points…*
-      
+       
   - Google removes 3 Android apps for children, with 20M+ downloads between them, over data collection violations
       <hr/>
-      
-      - *When it comes to apps, Android leads the pack with nearly 3 million apps in its official Google Play store. The sheer volume also means that sometimes iffy apps slip through the cracks. Researchers at the International Digital Accountability Council (IDAC), a…*
-      
-  - Huawei reports slowing growth as its operations "face significant challenges"
-      <hr/>
-      
-      - *Huawei announced earnings results today showing that its growth has slowed significantly this year as the Chinese telecom equipment and smartphone giant said its “production and operations face significant challenges.” While Huawei did not specify trade restr…*
        
-  - Nordic challenger bank Lunar raises €40M Series C, plans to enter the 'buy now, pay later' space
-      <hr/>
-       
-       - *Lunar, the Nordic challenger bank that started out life as a personal finance manager app (PFM) but acquired a full banking license in 2019, has raised €40 million in Series C funding from existing investors. The injection of capital follows a €20 million Ser…*
+       - *When it comes to apps, Android leads the pack with nearly 3 million apps in its official Google Play store. The sheer volume also means that sometimes iffy apps slip through the cracks. Researchers at the International Digital Accountability Council (IDAC), a…*
       
 
 <br />
