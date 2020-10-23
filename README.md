@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Simplicity is prerequisite for reliability.
+Life is too short to run proprietary software.
 
-~ Edsger W. Dijkstra
+~ Bdale Garbee
 <pre>
 
 </pre>
