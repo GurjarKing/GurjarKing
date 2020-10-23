@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
 
-~ Fred Brooks
+~ Arthur C. Clarke
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Program building is an entropy-decreasing process, hence inherently metastable. 
 </pre>
 <strong>Daily News</strong>
   
-  - The short, strange life of Quibi
+  - Boston startups expand region's venture capital footprint
      <hr/>
      
-      - *“All that is left now is to offer a profound apology for disappointing you and, ultimately, for letting you down,” Jeffrey Katzenberg and Meg Whitman wrote, closing out an open letter posted to Medium. “We cannot thank you enough for being there with us, and …*
+      - *This year has shaken up venture capital, turning a hot early start to 2020 into a glacial period permeated with fear during the early days of COVID-19. That ice quickly melted as venture capitalists discovered that demand for software and other services that …*
      
+  - The short, strange life of Quibi
+      <hr/>
+      
+      - *“All that is left now is to offer a profound apology for disappointing you and, ultimately, for letting you down,” Jeffrey Katzenberg and Meg Whitman wrote, closing out an open letter posted to Medium. “We cannot thank you enough for being there with us, and …*
+      
   - OnePlus’s 8T handset brings faster charging and a 120Hz display for $749
       <hr/>
       
@@ -73,16 +78,11 @@ Program building is an entropy-decreasing process, hence inherently metastable. 
       <hr/>
       
       - *Uber and Lyft must classify their drivers as employees, an appellate court ruled yesterday evening. However, the decision will be stayed for 30 days after the court issues the remittitur, which has not happened yet. That means depending on how ballot measure …*
-      
+       
   - Financial institutions can support COVID-19 crowdfunding campaigns
       <hr/>
-      
-      - *Financial institutions must lend their vast expertise, knowledge, and resources to these worthy causes; after all, we are all in this together.*
        
-  - mmhmm, Phil Libin's new startup, acquires Memix to add enhanced filters to its video presentation toolkit
-      <hr/>
-       
-       - *Virtual meetings are a fundamental part of how we interact with each other these days, but even when (if!?) we find better ways to mitigate the effects of Covid-19, many think that they will be here to stay. That means there is an opportunity out there to imp…*
+       - *Financial institutions must lend their vast expertise, knowledge, and resources to these worthy causes; after all, we are all in this together.*
       
 
 <br />
