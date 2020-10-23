@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 
-~ Alan Perlis
+~ Marijn Haverbeke
 <pre>
 
 </pre>
