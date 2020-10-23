@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 
-~ Ted Nelson
+~ Steve Jobs
 <pre>
 
 </pre>
