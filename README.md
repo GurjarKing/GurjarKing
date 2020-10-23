@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Life is too short to run proprietary software.
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 
-~ Bdale Garbee
+~ Ted Nelson
 <pre>
 
 </pre>
