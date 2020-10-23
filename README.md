@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 
-~ Fred Brooks
+~ John von Neumann
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The complexity of software is an essential property, not an accidental one. Henc
 </pre>
 <strong>Daily News</strong>
   
-  - Senate subpoenas could force Zuckerberg and Dorsey to testify on New York Post controversy
+  - India's Flipkart buys over $200 million stake in Aditya Birla Fashion and Retail
      <hr/>
      
-      - *The Senate Judiciary Committee voted in favor of issuing subpoenas for Facebook’s Mark Zuckerberg and Twitter’s Jack Dorsey Thursday, meaning that there might be two big tech CEO hearings on the horizon. Republicans in the committee declared their interest in…*
+      - *Flipkart is acquiring a 7.8% stake in Aditya Birla Fashion as the Walmart-owned Indian e-commerce firm makes further push into the fashion category in one of the world’s largest retail markets. The e-commerce group will pay $203.8 million for its stake in Adi…*
      
+  - Senate subpoenas could force Zuckerberg and Dorsey to testify on New York Post controversy
+      <hr/>
+      
+      - *The Senate Judiciary Committee voted in favor of issuing subpoenas for Facebook’s Mark Zuckerberg and Twitter’s Jack Dorsey Thursday, meaning that there might be two big tech CEO hearings on the horizon. Republicans in the committee declared their interest in…*
+      
   - Representatives propose bill limiting Presidential internet 'kill switch'
       <hr/>
       
@@ -73,16 +78,11 @@ The complexity of software is an essential property, not an accidental one. Henc
       <hr/>
       
       - *Quibi is shutting down — we know that much for sure. But when? If you’re looking to blast through all 25 episodes of the Reno 911 revival series before Quibi calls its quits, how long do you actually have? While it seems even Quibi isn’t 100% certain yet, the…*
-      
+       
   - Extra Crunch Partner Perk: Get 6 months free of Zendesk Support and Sales CRM
       <hr/>
-      
-      - *Annual Extra Crunch members can get six months of free access to Zendesk Support Suite and Sales CRM, Zendesk Explore and Zendesk Sunshine.*
        
-  - Daily Crunch: Facebook Dating comes to Europe
-      <hr/>
-       
-       - *Facebook’s dating feature expands after a regulatory delay, we review the new Amazon Echo and President Donald Trump has an on-the-nose Twitter password. This is your Daily Crunch for October 22, 2020. The big story: Facebook Dating comes to Europe Back in Fe…*
+       - *Annual Extra Crunch members can get six months of free access to Zendesk Support Suite and Sales CRM, Zendesk Explore and Zendesk Sunshine.*
       
 
 <br />
