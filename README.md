@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 
-~ Alan Perlis
+~ Daniel T. Barry
 <pre>
 
 </pre>
