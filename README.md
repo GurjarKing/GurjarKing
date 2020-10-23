@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+Humanity is acquiring all the right technology for all the wrong reasons.
 
-~ Steve Jobs
+~ Buckminster Fuller
 <pre>
 
 </pre>
