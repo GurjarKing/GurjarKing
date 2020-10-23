@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+Dealing with failure is easy: Work hard to improve.
 
-~ Gottfried Wilhelm Leibniz
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ As numbers are reduced to the simplest principles, like 0 and 1, a wonderful ord
 </pre>
 <strong>Daily News</strong>
   
-  - Financial institutions can support COVID-19 crowdfunding campaigns
+  - CA appeals court upholds ruling that Uber and Lyft must classify drivers as employees
      <hr/>
      
-      - *Financial institutions must lend their vast expertise, knowledge, and resources to these worthy causes; after all, we are all in this together.*
+      - *Uber and Lyft must classify their drivers as employees, an appellate court ruled yesterday evening. However, the decision will be stayed for 30 days after the court issues the remittitur, which has not happened yet. That means depending on how ballot measure …*
      
+  - Financial institutions can support COVID-19 crowdfunding campaigns
+      <hr/>
+      
+      - *Financial institutions must lend their vast expertise, knowledge, and resources to these worthy causes; after all, we are all in this together.*
+      
   - mmhmm, Phil Libin's new startup, acquires Memix to add enhanced filters to its video presentation toolkit
       <hr/>
       
@@ -73,16 +78,11 @@ As numbers are reduced to the simplest principles, like 0 and 1, a wonderful ord
       <hr/>
       
       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Brussels will capture how the city is faring, and what changes are being wro…*
-      
+       
   - Here's how fast a few dozen startups grew in Q3 2020
       <hr/>
-      
-      - *Earlier this week I asked startups to share their Q3 growth metrics and whether they were performing ahead of behind of their yearly goals. Lots of companies responded. More than I could have anticipated, frankly. Instead of merely giving me a few data points…*
        
-  - Google removes 3 Android apps for children, with 20M+ downloads between them, over data collection violations
-      <hr/>
-       
-       - *When it comes to apps, Android leads the pack with nearly 3 million apps in its official Google Play store. The sheer volume also means that sometimes iffy apps slip through the cracks. Researchers at the International Digital Accountability Council (IDAC), a…*
+       - *Earlier this week I asked startups to share their Q3 growth metrics and whether they were performing ahead of behind of their yearly goals. Lots of companies responded. More than I could have anticipated, frankly. Instead of merely giving me a few data points…*
       
 
 <br />
