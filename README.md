@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 
-~ Gerald Weinberg
+~ Fred Brooks
 <pre>
 
 </pre>
