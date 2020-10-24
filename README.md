@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 
-~ Tim Berners-Lee
+~ Daniel T. Barry
 <pre>
 
 </pre>
