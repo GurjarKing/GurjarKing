@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Within C++, there is a much smaller and cleaner language struggling to get out.
+When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
 
-~ Bjarne Stroustrup
+~ Arthur C. Clarke
 <pre>
 
 </pre>
