@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 
-~ Joseph Yoder (computer scientist)
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
