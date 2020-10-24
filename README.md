@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In handling resources, strive to avoid disaster rather than to attain an optimum.
+A computer shall not waste your time or require you to do more work than is strictly necessary.
 
-~ Butler Lampson
+~ Jef Raskin
 <pre>
 
 </pre>
