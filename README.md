@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
 
-~ Richard Hamming
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Any unwillingness to learn mathematics today can greatly restrict your possibili
 </pre>
 <strong>Daily News</strong>
   
-  - SpaceX launches 60 more satellites during 15th Starlink mission
+  - Was Quibi the good kind of startup failure?
      <hr/>
      
-      - *SpaceX has launched another batch of 60 Starlink satellites, the primary ingredient for its forthcoming global broadband internet service. The launch took place at 11:31 AM EDT, with a liftoff from Cape Canaveral Air Force Station in Florida. This is the fift…*
+      - *Startup failure is easy to hold up as a type of martyrdom for progress, especially if the founders are starting out scrappy in the first place and trying to save the world. What about Quibi?*
      
+  - SpaceX launches 60 more satellites during 15th Starlink mission
+      <hr/>
+      
+      - *SpaceX has launched another batch of 60 Starlink satellites, the primary ingredient for its forthcoming global broadband internet service. The launch took place at 11:31 AM EDT, with a liftoff from Cape Canaveral Air Force Station in Florida. This is the fift…*
+      
   - This Week in Apps: Quibi dies, Snapchat soars, Halide upgrades for iPhone 12
       <hr/>
       
@@ -73,16 +78,11 @@ Any unwillingness to learn mathematics today can greatly restrict your possibili
       <hr/>
       
       - *It could be the long-awaited turning point in the world of venture capital and beyond. Yale, whose $32 billion endowment has long been led since 1985 by the legendary investor David Swensen, just let its 70 money managers across a variety of asset classes kno…*
-      
+       
   - Facebook and Twitter CEOs to testify before Congress in November on how they handled the election
       <hr/>
-      
-      - *Shortly after voting to move forward with a pair of subpoenas, the Senate Judiciary Committee has reached an agreement that will see the CEOs of two major social platforms testify voluntarily in November. The hearing will be the second major congressional app…*
        
-  - The RIAA is coming for the YouTube downloaders
-      <hr/>
-       
-       - *In ye olden days of piracy, RIAA takedown notices were a common thing — I received a few myself. But that’s mostly fallen off as tracking pirates has gotten more difficult. But the RIAA can still issue nastygrams — to the creators of software that could poten…*
+       - *Shortly after voting to move forward with a pair of subpoenas, the Senate Judiciary Committee has reached an agreement that will see the CEOs of two major social platforms testify voluntarily in November. The hearing will be the second major congressional app…*
       
 
 <br />
