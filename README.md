@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most important part of writing a program is designing the data structures.
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 
-~ Dan Bricklin
+~ Harlan Mills
 <pre>
 
 </pre>
