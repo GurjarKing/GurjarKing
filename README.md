@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 
-~ Charles Babbage
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
