@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+Within C++, there is a much smaller and cleaner language struggling to get out.
 
-~ Harlan Mills
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ An interactive debugger is an outstanding example of what is not needed - it enc
 </pre>
 <strong>Daily News</strong>
   
-  - Why you have to pay attention to the Indian startup scene
+  - Human Capital: Court ruling could mean trouble for Uber and Lyft as gig workers may finally become employees
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange. Data shows that India’s venture capital scene has grown sharply in recent years. Let's dig in.*
+      - *Welcome back to Human Capital! As many of you know, Human Capital is a weekly newsletter where I break down the latest in labor, as well as diversity and inclusion in tech. It’s officially available as a newsletter, so if you want this content when it comes i…*
      
+  - Why you have to pay attention to the Indian startup scene
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange. Data shows that India’s venture capital scene has grown sharply in recent years. Let's dig in.*
+      
   - Was Quibi the good kind of startup failure?
       <hr/>
       
@@ -73,16 +78,11 @@ An interactive debugger is an outstanding example of what is not needed - it enc
       <hr/>
       
       - *SpaceX has launched another batch of 60 Starlink satellites, the primary ingredient for its forthcoming global broadband internet service. The launch took place at 11:31 AM EDT, with a liftoff from Cape Canaveral Air Force Station in Florida. This is the fift…*
-      
+       
   - This Week in Apps: Quibi dies, Snapchat soars, Halide upgrades for iPhone 12
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
        
-  - Yale may have just turned institutional investing on its head with a new diversity edict
-      <hr/>
-       
-       - *It could be the long-awaited turning point in the world of venture capital and beyond. Yale, whose $32 billion endowment has long been led since 1985 by the legendary investor David Swensen, just let its 70 money managers across a variety of asset classes kno…*
+       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
       
 
 <br />
