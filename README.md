@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
+The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
 
-~ Kevlin Henney
+~ Fred Brooks
 <pre>
 
 </pre>
