@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 
-~ Wayne Ratliff
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
