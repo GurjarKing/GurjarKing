@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+The most important part of writing a program is designing the data structures.
 
-~ Fred Brooks
+~ Dan Bricklin
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The fundamental problem with program maintenance is that fixing a defect has a s
 </pre>
 <strong>Daily News</strong>
   
-  - Was Quibi the good kind of startup failure?
+  - Why you have to pay attention to the Indian startup scene
      <hr/>
      
-      - *Startup failure is easy to hold up as a type of martyrdom for progress, especially if the founders are starting out scrappy in the first place and trying to save the world. What about Quibi?*
+      - *Welcome back to The TechCrunch Exchange. Data shows that India’s venture capital scene has grown sharply in recent years. Let's dig in.*
      
+  - Was Quibi the good kind of startup failure?
+      <hr/>
+      
+      - *Startup failure is easy to hold up as a type of martyrdom for progress, especially if the founders are starting out scrappy in the first place and trying to save the world. What about Quibi?*
+      
   - SpaceX launches 60 more satellites during 15th Starlink mission
       <hr/>
       
@@ -73,16 +78,11 @@ The fundamental problem with program maintenance is that fixing a defect has a s
       <hr/>
       
       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
+       
   - Yale may have just turned institutional investing on its head with a new diversity edict
       <hr/>
-      
-      - *It could be the long-awaited turning point in the world of venture capital and beyond. Yale, whose $32 billion endowment has long been led since 1985 by the legendary investor David Swensen, just let its 70 money managers across a variety of asset classes kno…*
        
-  - Facebook and Twitter CEOs to testify before Congress in November on how they handled the election
-      <hr/>
-       
-       - *Shortly after voting to move forward with a pair of subpoenas, the Senate Judiciary Committee has reached an agreement that will see the CEOs of two major social platforms testify voluntarily in November. The hearing will be the second major congressional app…*
+       - *It could be the long-awaited turning point in the world of venture capital and beyond. Yale, whose $32 billion endowment has long been led since 1985 by the legendary investor David Swensen, just let its 70 money managers across a variety of asset classes kno…*
       
 
 <br />
