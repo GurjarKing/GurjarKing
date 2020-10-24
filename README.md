@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 
-~ Joshua Bloch
+~ Alan Kay
 <pre>
 
 </pre>
