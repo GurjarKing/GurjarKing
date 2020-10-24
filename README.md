@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 
-~ Daniel T. Barry
+~ Addy Osmani
 <pre>
 
 </pre>
