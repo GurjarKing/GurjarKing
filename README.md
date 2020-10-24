@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
 
-~ L. Peter Deutsch
+~ Gary Kildall
 <pre>
 
 </pre>
