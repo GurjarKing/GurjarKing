@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Alan Kay
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
