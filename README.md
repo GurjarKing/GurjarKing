@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Edsger W. Dijkstra
+~ Butler Lampson
 <pre>
 
 </pre>
