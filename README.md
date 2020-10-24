@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 
-~ Martin Fowler
+~ Charles Babbage
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ There are few things more frustrating or time wasting than debugging. Wouldn't i
 </pre>
 <strong>Daily News</strong>
   
-  - Yale may have just turned institutional investing on its head with a new diversity edict
+  - This Week in Apps: Quibi dies, Snapchat soars, Halide upgrades for iPhone 12
      <hr/>
      
-      - *It could be the long-awaited turning point in the world of venture capital and beyond. Yale, whose $32 billion endowment has long been led since 1985 by the legendary investor David Swensen, just let its 70 money managers across a variety of asset classes kno…*
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
      
+  - Yale may have just turned institutional investing on its head with a new diversity edict
+      <hr/>
+      
+      - *It could be the long-awaited turning point in the world of venture capital and beyond. Yale, whose $32 billion endowment has long been led since 1985 by the legendary investor David Swensen, just let its 70 money managers across a variety of asset classes kno…*
+      
   - Facebook and Twitter CEOs to testify before Congress in November on how they handled the election
       <hr/>
       
@@ -73,16 +78,11 @@ There are few things more frustrating or time wasting than debugging. Wouldn't i
       <hr/>
       
       - *In ye olden days of piracy, RIAA takedown notices were a common thing — I received a few myself. But that’s mostly fallen off as tracking pirates has gotten more difficult. But the RIAA can still issue nastygrams — to the creators of software that could poten…*
-      
+       
   - Daily Crunch: Uber and Lyft defeated again in court
       <hr/>
-      
-      - *A California court weighs in as Prop. 22 looms, Google removes popular apps over data collection practices and the Senate subpoenas Jack Dorsey and Mark Zuckerberg. This is your Daily Crunch for October 23, 2020. The big story: Uber and Lyft defeated again in…*
        
-  - Deep Science: Alzheimer's screening, forest-mapping drones, machine learning in space, more
-      <hr/>
-       
-       - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
+       - *A California court weighs in as Prop. 22 looms, Google removes popular apps over data collection practices and the Senate subpoenas Jack Dorsey and Mark Zuckerberg. This is your Daily Crunch for October 23, 2020. The big story: Uber and Lyft defeated again in…*
       
 
 <br />
