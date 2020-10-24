@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 
-~ Addy Osmani
+~ L. Peter Deutsch
 <pre>
 
 </pre>
