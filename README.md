@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 
-~ John McCarthy (computer scientist)
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Mental qualities peculiar to human-like motivational structures, such as love an
 </pre>
 <strong>Daily News</strong>
   
-  - This Week in Apps: Quibi dies, Snapchat soars, Halide upgrades for iPhone 12
+  - SpaceX launches 60 more satellites during 15th Starlink mission
      <hr/>
      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      - *SpaceX has launched another batch of 60 Starlink satellites, the primary ingredient for its forthcoming global broadband internet service. The launch took place at 11:31 AM EDT, with a liftoff from Cape Canaveral Air Force Station in Florida. This is the fift…*
      
+  - This Week in Apps: Quibi dies, Snapchat soars, Halide upgrades for iPhone 12
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
   - Yale may have just turned institutional investing on its head with a new diversity edict
       <hr/>
       
@@ -73,16 +78,11 @@ Mental qualities peculiar to human-like motivational structures, such as love an
       <hr/>
       
       - *Shortly after voting to move forward with a pair of subpoenas, the Senate Judiciary Committee has reached an agreement that will see the CEOs of two major social platforms testify voluntarily in November. The hearing will be the second major congressional app…*
-      
+       
   - The RIAA is coming for the YouTube downloaders
       <hr/>
-      
-      - *In ye olden days of piracy, RIAA takedown notices were a common thing — I received a few myself. But that’s mostly fallen off as tracking pirates has gotten more difficult. But the RIAA can still issue nastygrams — to the creators of software that could poten…*
        
-  - Daily Crunch: Uber and Lyft defeated again in court
-      <hr/>
-       
-       - *A California court weighs in as Prop. 22 looms, Google removes popular apps over data collection practices and the Senate subpoenas Jack Dorsey and Mark Zuckerberg. This is your Daily Crunch for October 23, 2020. The big story: Uber and Lyft defeated again in…*
+       - *In ye olden days of piracy, RIAA takedown notices were a common thing — I received a few myself. But that’s mostly fallen off as tracking pirates has gotten more difficult. But the RIAA can still issue nastygrams — to the creators of software that could poten…*
       
 
 <br />
