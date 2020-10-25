@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 
-~ Charles Babbage
+~ Leslie Lamport
 <pre>
 
 </pre>
