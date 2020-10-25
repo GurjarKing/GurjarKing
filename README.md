@@ -46,9 +46,10 @@
 
 **Quote of the hour:**
 
-Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 
-~ Anders Hejlsberg
+~ Bob Frankston
 <pre>
 
 </pre>
