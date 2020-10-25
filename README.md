@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 
-~ Harlan Mills
+~ Terry Winograd
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Programming is similar to a game of golf. The point is not getting the ball in t
 </pre>
 <strong>Daily News</strong>
   
-  - The US now seems to be pinning all of its hopes on COVID-19 therapies and vaccines
+  - Cloud9 adds the MAJKL Valorant roster to create Cloud9 White as its first women's esports team
      <hr/>
      
-      - *Almost eight months after the White House first announced it would move from containment to mitigation efforts to stop the spread of the COVID-19 epidemic, the Administration is now pinning its hopes on vaccines to inoculate the population and therapies to tr…*
+      - *Cloud9 has brought on the all-women MAJKL Valorant squad to become its first women’s esports team. Moving forward the team of Alexis “alexis” Guarrasi, Annie “Annie” Roberts, Jasmine “Jazzyk1ns” Manankil, Katsumi, and Melanie “meL”Capone will co…*
      
+  - The US now seems to be pinning all of its hopes on COVID-19 therapies and vaccines
+      <hr/>
+      
+      - *Almost eight months after the White House first announced it would move from containment to mitigation efforts to stop the spread of the COVID-19 epidemic, the Administration is now pinning its hopes on vaccines to inoculate the population and therapies to tr…*
+      
   - Reliance says its $3.4 billion deal with Future Group 'fully enforceable under Indian law' despite Amazon winning an arbitration order
       <hr/>
       
@@ -73,16 +78,11 @@ Programming is similar to a game of golf. The point is not getting the ball in t
       <hr/>
       
       - *As we tried to recap the first season of HBO’s “Lovecraft Country,” one thing became clear: The show is pretty nuts. The story begins by sending Atticus “Tic” Freeman (Jonathan Majors), his friend Leti Lewis (Jurnee Smolett) and his uncle George (Courtney B. …*
-      
+       
   - Week in Review: Snapchat strikes back
       <hr/>
-      
-      - *Hello hello, and welcome back to Week in Review. Last week, I wrote about the possibility of a pending social media detente, this week I’m talking about a rising threat to Facebook’s biz. If you’re reading this on the TechCrunch site, you can get this in your…*
        
-  - Samsung chairman dies at age 78
-      <hr/>
-       
-       - *Lee Kun-hee, the long-time chairman of Samsung Group who transformed the conglomerate into one of the world’s largest business empires, died today at the age of 78, according to reports from South Korean leading news agency Yonhap. The story of Samsung is dee…*
+       - *Hello hello, and welcome back to Week in Review. Last week, I wrote about the possibility of a pending social media detente, this week I’m talking about a rising threat to Facebook’s biz. If you’re reading this on the TechCrunch site, you can get this in your…*
       
 
 <br />
