@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 
-~ Leslie Lamport
+~ L. Peter Deutsch
 <pre>
 
 </pre>
