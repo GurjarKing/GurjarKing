@@ -46,10 +46,9 @@
 
 **Quote of the hour:**
 
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+Never memorize something that you can look up.
 
-~ Bob Frankston
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -60,11 +59,16 @@ computer getting it right is pretty small.
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: Court ruling could mean trouble for Uber and Lyft as gig workers may finally become employees
+  - Samsung chairman dies at age 78
      <hr/>
      
-      - *Welcome back to Human Capital! As many of you know, Human Capital is a weekly newsletter where I break down the latest in labor, as well as diversity and inclusion in tech. It’s officially available as a newsletter, so if you want this content when it comes i…*
+      - *Lee Kun-hee, the long-time chairman of Samsung Group who transformed the conglomerate into one of the world’s largest business empires, died today at the age of 78, according to reports from South Korean leading news agency Yonhap. The story of Samsung is dee…*
      
+  - Human Capital: Court ruling could mean trouble for Uber and Lyft as gig workers may finally become employees
+      <hr/>
+      
+      - *Welcome back to Human Capital! As many of you know, Human Capital is a weekly newsletter where I break down the latest in labor, as well as diversity and inclusion in tech. It’s officially available as a newsletter, so if you want this content when it comes i…*
+      
   - Why you have to pay attention to the Indian startup scene
       <hr/>
       
@@ -74,16 +78,11 @@ computer getting it right is pretty small.
       <hr/>
       
       - *Startup failure is easy to hold up as a type of martyrdom for progress, especially if the founders are starting out scrappy in the first place and trying to save the world. What about Quibi?*
-      
+       
   - SpaceX launches 60 more satellites during 15th Starlink mission
       <hr/>
-      
-      - *SpaceX has launched another batch of 60 Starlink satellites, the primary ingredient for its forthcoming global broadband internet service. The launch took place at 11:31 AM EDT, with a liftoff from Cape Canaveral Air Force Station in Florida. This is the fift…*
        
-  - This Week in Apps: Quibi dies, Snapchat soars, Halide upgrades for iPhone 12
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *SpaceX has launched another batch of 60 Starlink satellites, the primary ingredient for its forthcoming global broadband internet service. The launch took place at 11:31 AM EDT, with a liftoff from Cape Canaveral Air Force Station in Florida. This is the fift…*
       
 
 <br />
