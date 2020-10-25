@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In man-machine symbiosis, it is man who must adjust: The machines can't.
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 
-~ Alan Perlis
+~ Jeremy S. Anderson
 <pre>
 
 </pre>
