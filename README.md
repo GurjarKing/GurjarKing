@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
-~ Arthur C. Clarke
+~ Martin Fowler
 <pre>
 
 </pre>
