@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 
-~ Fred Brooks
+~ Harlan Mills
 <pre>
 
 </pre>
