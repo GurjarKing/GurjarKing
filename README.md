@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer programs are the most complex things that humans make.
+Once you stop learning you start dying.
 
-~ Douglas Crockford
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Computer programs are the most complex things that humans make.
 </pre>
 <strong>Daily News</strong>
   
-  - Original Content podcast: 'Lovecraft Country' is gloriously bonkers
+  - Reliance says its $3.4 billion deal with Future Group 'fully enforceable under Indian law' despite Amazon winning an arbitration order
      <hr/>
      
-      - *As we tried to recap the first season of HBO’s “Lovecraft Country,” one thing became clear: The show is pretty nuts. The story begins by sending Atticus “Tic” Freeman (Jonathan Majors), his friend Leti Lewis (Jurnee Smolett) and his uncle George (Courtney B. …*
+      - *Reliance Retail, India’s largest retail chain, said on Sunday evening that its proposed deal to acquire Future Group’s assets for $3.4 billion — against which Amazon has filed a legal proceeding — is fully enforceable under the Indian law and it intends to co…*
      
+  - Original Content podcast: 'Lovecraft Country' is gloriously bonkers
+      <hr/>
+      
+      - *As we tried to recap the first season of HBO’s “Lovecraft Country,” one thing became clear: The show is pretty nuts. The story begins by sending Atticus “Tic” Freeman (Jonathan Majors), his friend Leti Lewis (Jurnee Smolett) and his uncle George (Courtney B. …*
+      
   - Week in Review: Snapchat strikes back
       <hr/>
       
@@ -73,16 +78,11 @@ Computer programs are the most complex things that humans make.
       <hr/>
       
       - *Lee Kun-hee, the long-time chairman of Samsung Group who transformed the conglomerate into one of the world’s largest business empires, died today at the age of 78, according to reports from South Korean leading news agency Yonhap. The story of Samsung is dee…*
-      
+       
   - Human Capital: Court ruling could mean trouble for Uber and Lyft as gig workers may finally become employees
       <hr/>
-      
-      - *Welcome back to Human Capital! As many of you know, Human Capital is a weekly newsletter where I break down the latest in labor, as well as diversity and inclusion in tech. It’s officially available as a newsletter, so if you want this content when it comes i…*
        
-  - Why you have to pay attention to the Indian startup scene
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange. Data shows that India’s venture capital scene has grown sharply in recent years. Let's dig in.*
+       - *Welcome back to Human Capital! As many of you know, Human Capital is a weekly newsletter where I break down the latest in labor, as well as diversity and inclusion in tech. It’s officially available as a newsletter, so if you want this content when it comes i…*
       
 
 <br />
