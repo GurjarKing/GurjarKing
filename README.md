@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 
-~ Martin Fowler
+~ Anders Hejlsberg
 <pre>
 
 </pre>
