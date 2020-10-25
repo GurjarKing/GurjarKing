@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
 ~ Fred Brooks
 <pre>
