@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Machines take me by surprise with great frequency.
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 
-~ Alan Turing
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Machines take me by surprise with great frequency.
 </pre>
 <strong>Daily News</strong>
   
-  - Samsung chairman dies at age 78
+  - Week in Review: Snapchat strikes back
      <hr/>
      
-      - *Lee Kun-hee, the long-time chairman of Samsung Group who transformed the conglomerate into one of the world’s largest business empires, died today at the age of 78, according to reports from South Korean leading news agency Yonhap. The story of Samsung is dee…*
+      - *Hello hello, and welcome back to Week in Review. Last week, I wrote about the possibility of a pending social media detente, this week I’m talking about a rising threat to Facebook’s biz. If you’re reading this on the TechCrunch site, you can get this in your…*
      
+  - Samsung chairman dies at age 78
+      <hr/>
+      
+      - *Lee Kun-hee, the long-time chairman of Samsung Group who transformed the conglomerate into one of the world’s largest business empires, died today at the age of 78, according to reports from South Korean leading news agency Yonhap. The story of Samsung is dee…*
+      
   - Human Capital: Court ruling could mean trouble for Uber and Lyft as gig workers may finally become employees
       <hr/>
       
@@ -73,16 +78,11 @@ Machines take me by surprise with great frequency.
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange. Data shows that India’s venture capital scene has grown sharply in recent years. Let's dig in.*
-      
+       
   - Was Quibi the good kind of startup failure?
       <hr/>
-      
-      - *Startup failure is easy to hold up as a type of martyrdom for progress, especially if the founders are starting out scrappy in the first place and trying to save the world. What about Quibi?*
        
-  - SpaceX launches 60 more satellites during 15th Starlink mission
-      <hr/>
-       
-       - *SpaceX has launched another batch of 60 Starlink satellites, the primary ingredient for its forthcoming global broadband internet service. The launch took place at 11:31 AM EDT, with a liftoff from Cape Canaveral Air Force Station in Florida. This is the fift…*
+       - *Startup failure is easy to hold up as a type of martyrdom for progress, especially if the founders are starting out scrappy in the first place and trying to save the world. What about Quibi?*
       
 
 <br />
