@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Once you stop learning you start dying.
+Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
 
-~ Albert Einstein
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Once you stop learning you start dying.
 </pre>
 <strong>Daily News</strong>
   
-  - Reliance says its $3.4 billion deal with Future Group 'fully enforceable under Indian law' despite Amazon winning an arbitration order
+  - The US now seems to be pinning all of its hopes on COVID-19 therapies and vaccines
      <hr/>
      
-      - *Reliance Retail, India’s largest retail chain, said on Sunday evening that its proposed deal to acquire Future Group’s assets for $3.4 billion — against which Amazon has filed a legal proceeding — is fully enforceable under the Indian law and it intends to co…*
+      - *Almost eight months after the White House first announced it would move from containment to mitigation efforts to stop the spread of the COVID-19 epidemic, the Administration is now pinning its hopes on vaccines to inoculate the population and therapies to tr…*
      
+  - Reliance says its $3.4 billion deal with Future Group 'fully enforceable under Indian law' despite Amazon winning an arbitration order
+      <hr/>
+      
+      - *Reliance Retail, India’s largest retail chain, said on Sunday evening that its proposed deal to acquire Future Group’s assets for $3.4 billion — against which Amazon has filed a legal proceeding — is fully enforceable under the Indian law and it intends to co…*
+      
   - Original Content podcast: 'Lovecraft Country' is gloriously bonkers
       <hr/>
       
@@ -73,16 +78,11 @@ Once you stop learning you start dying.
       <hr/>
       
       - *Hello hello, and welcome back to Week in Review. Last week, I wrote about the possibility of a pending social media detente, this week I’m talking about a rising threat to Facebook’s biz. If you’re reading this on the TechCrunch site, you can get this in your…*
-      
+       
   - Samsung chairman dies at age 78
       <hr/>
-      
-      - *Lee Kun-hee, the long-time chairman of Samsung Group who transformed the conglomerate into one of the world’s largest business empires, died today at the age of 78, according to reports from South Korean leading news agency Yonhap. The story of Samsung is dee…*
        
-  - Human Capital: Court ruling could mean trouble for Uber and Lyft as gig workers may finally become employees
-      <hr/>
-       
-       - *Welcome back to Human Capital! As many of you know, Human Capital is a weekly newsletter where I break down the latest in labor, as well as diversity and inclusion in tech. It’s officially available as a newsletter, so if you want this content when it comes i…*
+       - *Lee Kun-hee, the long-time chairman of Samsung Group who transformed the conglomerate into one of the world’s largest business empires, died today at the age of 78, according to reports from South Korean leading news agency Yonhap. The story of Samsung is dee…*
       
 
 <br />
