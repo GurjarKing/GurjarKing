@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+I have no special talent. I am only passionately curious.
 
-~ Gerald Weinberg
+~ Albert Einstein
 <pre>
 
 </pre>
