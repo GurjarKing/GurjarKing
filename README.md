@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
 
-~ Donald Knuth
+~ Charles Babbage
 <pre>
 
 </pre>
