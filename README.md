@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 
-~ Edsger W. Dijkstra
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A program is like a poem: you cannot write a poem without writing it. Yet people
 </pre>
 <strong>Daily News</strong>
   
-  - Epic's latest argument in its fight against Apple keeps antitrust issues front and center
+  - TravelPerk launches an API for COVID-19 restrictions
      <hr/>
      
-      - *Epic Games, the game engine developer and creator of the wildly popular Fortnite game, is keeping the focus squarely on antitrust issues in its lawsuit against Apple as pressures mount to rein in anti-competitive practices of the world’s largest tech companie…*
+      - *About a month after outting an open API platform for its customers to augment their apps, business trip SaaS startup TravelPerk has launched a standalone API product aimed at helping the wider travel industry provide up-to-date information on travel restricti…*
      
+  - Epic's latest argument in its fight against Apple keeps antitrust issues front and center
+      <hr/>
+      
+      - *Epic Games, the game engine developer and creator of the wildly popular Fortnite game, is keeping the focus squarely on antitrust issues in its lawsuit against Apple as pressures mount to rein in anti-competitive practices of the world’s largest tech companie…*
+      
   - Esports pioneer Dino Ying talks to TechCrunch about the next phase of VSPN
       <hr/>
       
@@ -73,16 +78,11 @@ A program is like a poem: you cannot write a poem without writing it. Yet people
       <hr/>
       
       - *Further confirmation that the esports market is booming amid the pandemic comes today with the news that esports ‘total solutions provider’ VSPN (Versus Programming Network) has raised what it describes as ‘close to’ $100 million in a Series B funding round, …*
-      
+       
   - Cloud9 adds the MAJKL Valorant roster to create Cloud9 White as its first women's esports team
       <hr/>
-      
-      - *Cloud9 has brought on the all-women MAJKL Valorant squad to become its first women’s esports team. Moving forward the team of Alexis “alexis” Guarrasi, Annie “Annie” Roberts, Jasmine “Jazzyk1ns” Manankil, Katsumi, and Melanie “meL”Capone will co…*
        
-  - The US now seems to be pinning all of its hopes on COVID-19 therapies and vaccines
-      <hr/>
-       
-       - *Almost eight months after the White House first announced it would move from containment to mitigation efforts to stop the spread of the COVID-19 epidemic, the Administration is now pinning its hopes on vaccines to inoculate the population and therapies to tr…*
+       - *Cloud9 has brought on the all-women MAJKL Valorant squad to become its first women’s esports team. Moving forward the team of Alexis “alexis” Guarrasi, Annie “Annie” Roberts, Jasmine “Jazzyk1ns” Manankil, Katsumi, and Melanie “meL”Capone will co…*
       
 
 <br />
