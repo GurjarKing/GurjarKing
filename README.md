@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 
-~ Daniel T. Barry
+~ Grady Booch
 <pre>
 
 </pre>
