@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 
-~ Ted Nelson
+~ Martin Fowler
 <pre>
 
 </pre>
