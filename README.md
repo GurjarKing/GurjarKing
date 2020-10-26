@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The entire history of software engineering is that of the rise in levels of abstraction.
+Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 
-~ Grady Booch
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The entire history of software engineering is that of the rise in levels of abst
 </pre>
 <strong>Daily News</strong>
   
-  - What would Databricks be worth in a 2021 IPO?
+  - Mailman's new Gmail assistant aims to tame your inbox
      <hr/>
      
-      - *TechCrunch recently covered Databricks’ financial performance in 2020, contrasting its recent performance to some historical 2019 data that the company shared. The data-and-analysis focused unicorn grew its annual run rate 75% to $350 million, compared to its…*
+      - *A new startup, Mailman, recently launched an email assistant that helps Gmail users to get better control over their inbox. Unlike many email startups, which require users to switch to a new platform or even adopt a new email address, Mailman works along with…*
      
-  - YouTube revamps its mobile app with new gestures, video chapter lists, and more
+  - Hubilo raises $4.5 million, led by Lightspeed, to focus on virtual events
       <hr/>
       
-      - *YouTube today is rolling out a series of updates to its player page on mobile devices. The changes relocate some elements, add new features — like an expanded set of gesture-based navigation options — and update existing ones, like video chapters, among other…*
+      - *Earlier this year, the founders of event analytics platform Hubilo pivoted to become a virtual events platform to survive the impact of COVID-19. Today, the startup announced it has raised a $4.5 million seed round, led by Lightspeed, and says it expects to e…*
       
-  - Mario Kart Live: Home Circuit gets unofficial remote play on Surrogate.tv
+  - NASA discovers water on the surface of the sunlit portion of the Moon
       <hr/>
       
-      - *Readers of a certain age will no doubt remember some region variation of TV Powww. The syndicated program, which found viewers at home giving directions over the phone to an in-studio operating playing an Intellivision game. Mario Kart Live: Home Circuit revi…*
+      - *NASA has made a groundbreaking discovery – confirming the presence of water on the surface of Moon, in the area that is exposed to sunlight. Previously, we knew that water was present as water ice on the dark part of the Moon, and that’s part of the reason th…*
       
-  - Pinterest's new widget brings photos from favorite boards to your iOS 14 homescreen
+  - The No-Code Generation is arriving
       <hr/>
       
-      - *As iPhone owners began customizing their iOS 14 homescreens with new widgets and custom icons, Pinterest iOS downloads and searches surged as the app became a top source for design ideas and inspiration. Today, Pinterest is more directly joining the homescree…*
+      - *In the distant past, there was a proverbial “digital divide” that bifurcated workers into those who knew how to use computers and those who didn’t.[1] Young Gen Xers and their later millennial companions grew up with Power Macs and Wintel boxes, and that expe…*
        
-  - SAP shares fall sharply after COVID-19 cuts revenue, profit forecast at software giant
+  - This startup wants to fix the broken structure of internships
       <hr/>
        
-       - *SAP announced its Q3 earnings yesterday, with its aggregate results down across the board. And after missing earnings expectations, the company also revised its 2021 outlook down. The combined bad news spooked investors, crashing its shares by over 20% in pre…*
+       - *Internships are an opportunity for students to experiment with new career paths and land a full-time offer ahead of graduation. For companies, the weeks-long programs help recruit and train job-ready hires. While the stakes are high, the coronavirus-spurred o…*
       
 
 <br />
