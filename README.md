@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
 
-~ Maurice Wilkes
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
 </pre>
 <strong>Daily News</strong>
   
-  - Freshworks (re-)launches its CRM service
+  - Twitter starts showing all U.S. users election misinformation warnings
      <hr/>
      
-      - *Freshworks, the customer and employee engagement company that offers a range of products, from call center and customer support software to HR tools and marketing automation services, today announced the launch of its newest product: Freshworks CRM. The new s…*
+      - *Starting today, Twitter users in the U.S. will see two large notices at the top of their feeds that aim to “preemptively debunk” misinformation related to voting. The striking messages are designed to push back against the deluge of false claims about the 202…*
      
+  - Max Q: NASA makes key discovery for future of deep space exploration
+      <hr/>
+      
+      - *Max Q is a weekly newsletter from TechCrunch all about space. Sign up here to receive it weekly on Sundays in your inbox. This past week, we unveiled the agenda for TC Sessions: Space for the first time. It’s our inaugural event focused on space startups and …*
+      
+  - Good and bad board members (and what to do about them)
+      <hr/>
+      
+      - *Ryan Caldbeck, co-founder and former CEO of consumer-brands-focused crowdfunding site CircleUp, recently published an email he’d written to a former director on the board of the company. According to Caldbeck, he wrote the letter after CircleUp had bought out…*
+      
+  - Freshworks (re-)launches its CRM service
+      <hr/>
+      
+      - *Freshworks, the customer and employee engagement company that offers a range of products, from call center and customer support software to HR tools and marketing automation services, today announced the launch of its newest product: Freshworks CRM. The new s…*
+       
   - DataFleets keeps private data useful, and useful data private, with federated learning and $4.5M seed
       <hr/>
-      
-      - *As you may already know, there’s a lot of data out there, and some of it could actually be pretty useful. But privacy and security considerations often put strict limitations on how it can be used or analyzed. DataFleets promises a new approach by which datab…*
-      
-  - Decrypted: How Twitter was hacked, GitHub DMCA backfires
-      <hr/>
-      
-      - *This week's Decrypted looks at how Iran tried to undermine the election, and what happens when censorship backfires.*
-      
-  - Mailman's new Gmail assistant aims to tame your inbox
-      <hr/>
-      
-      - *A new startup, Mailman, recently launched an email assistant that helps Gmail users to get better control over their inbox. Unlike many email startups, which require users to switch to a new platform or even adopt a new email address, Mailman works along with…*
        
-  - Hubilo raises $4.5 million, led by Lightspeed, to focus on virtual events
-      <hr/>
-       
-       - *Earlier this year, the founders of event analytics platform Hubilo pivoted to become a virtual events platform to survive the impact of COVID-19. Today, the startup announced it has raised a $4.5 million seed round, led by Lightspeed, and says it expects to e…*
+       - *As you may already know, there’s a lot of data out there, and some of it could actually be pretty useful. But privacy and security considerations often put strict limitations on how it can be used or analyzed. DataFleets promises a new approach by which datab…*
       
 
 <br />
