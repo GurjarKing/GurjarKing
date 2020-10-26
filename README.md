@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 
-~ Bjarne Stroustrup
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you
 </pre>
 <strong>Daily News</strong>
   
-  - Esports pioneer Dino Ying talks to TechCrunch about the next phase of VSPN
+  - Epic's latest argument in its fight against Apple keeps antitrust issues front and center
      <hr/>
      
-      - *Founded in 2016 and headquartered in Shanghai, VSPN was one of the early pioneer in esports tournament organization and content creation out of Asia. It has since expanded into other businesses including offline venue operation. VSPN began hosting the first l…*
+      - *Epic Games, the game engine developer and creator of the wildly popular Fortnite game, is keeping the focus squarely on antitrust issues in its lawsuit against Apple as pressures mount to rein in anti-competitive practices of the world’s largest tech companie…*
      
+  - Esports pioneer Dino Ying talks to TechCrunch about the next phase of VSPN
+      <hr/>
+      
+      - *Founded in 2016 and headquartered in Shanghai, VSPN was one of the early pioneer in esports tournament organization and content creation out of Asia. It has since expanded into other businesses including offline venue operation. VSPN began hosting the first l…*
+      
   - Tencent leads $100M Series B funding round into China-based esport provider VSPN
       <hr/>
       
@@ -73,16 +78,11 @@ C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you
       <hr/>
       
       - *Cloud9 has brought on the all-women MAJKL Valorant squad to become its first women’s esports team. Moving forward the team of Alexis “alexis” Guarrasi, Annie “Annie” Roberts, Jasmine “Jazzyk1ns” Manankil, Katsumi, and Melanie “meL”Capone will co…*
-      
+       
   - The US now seems to be pinning all of its hopes on COVID-19 therapies and vaccines
       <hr/>
-      
-      - *Almost eight months after the White House first announced it would move from containment to mitigation efforts to stop the spread of the COVID-19 epidemic, the Administration is now pinning its hopes on vaccines to inoculate the population and therapies to tr…*
        
-  - Reliance says its $3.4 billion deal with Future Group 'fully enforceable under Indian law' despite Amazon winning an arbitration order
-      <hr/>
-       
-       - *Reliance Retail, India’s largest retail chain, said on Sunday evening that its proposed deal to acquire Future Group’s assets for $3.4 billion — against which Amazon has filed a legal proceeding — is fully enforceable under the Indian law and it intends to co…*
+       - *Almost eight months after the White House first announced it would move from containment to mitigation efforts to stop the spread of the COVID-19 epidemic, the Administration is now pinning its hopes on vaccines to inoculate the population and therapies to tr…*
       
 
 <br />
