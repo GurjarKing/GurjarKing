@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 
-~ Donald Knuth
+~ Joshua Bloch
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I’ll use dirty tricks for two reasons. One is, if it’s really going to give 
 </pre>
 <strong>Daily News</strong>
   
-  - Teaching robots through positive reinforcement
+  - Fragomen, a law firm used by Google, confirms data breach
      <hr/>
      
-      - *There likely isn’t a robotics teacher institute in the world actively pursuing robotic learning. The field, after all, holds the key to unlocking a lot of potential for the industry. One of the things that makes it so remarkable is the myriad different approa…*
+      - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
      
+  - Teaching robots through positive reinforcement
+      <hr/>
+      
+      - *There likely isn’t a robotics teacher institute in the world actively pursuing robotic learning. The field, after all, holds the key to unlocking a lot of potential for the industry. One of the things that makes it so remarkable is the myriad different approa…*
+      
   - Dallas' ShearShare has a marketplace connecting stylists with available seats at salons and $2.3 million in funding
       <hr/>
       
@@ -73,16 +78,11 @@ I’ll use dirty tricks for two reasons. One is, if it’s really going to give 
       <hr/>
       
       - *Starting today, Twitter users in the U.S. will see two large notices at the top of their feeds that aim to “preemptively debunk” misinformation related to voting. The striking messages are designed to push back against the deluge of false claims about the 202…*
-      
+       
   - Max Q: NASA makes key discovery for future of deep space exploration
       <hr/>
-      
-      - *Max Q is a weekly newsletter from TechCrunch all about space. Sign up here to receive it weekly on Sundays in your inbox. This past week, we unveiled the agenda for TC Sessions: Space for the first time. It’s our inaugural event focused on space startups and …*
        
-  - Good and bad board members (and what to do about them)
-      <hr/>
-       
-       - *Ryan Caldbeck, co-founder and former CEO of consumer-brands-focused crowdfunding site CircleUp, recently published an email he’d written to a former director on the board of the company. According to Caldbeck, he wrote the letter after CircleUp had bought out…*
+       - *Max Q is a weekly newsletter from TechCrunch all about space. Sign up here to receive it weekly on Sundays in your inbox. This past week, we unveiled the agenda for TC Sessions: Space for the first time. It’s our inaugural event focused on space startups and …*
       
 
 <br />
