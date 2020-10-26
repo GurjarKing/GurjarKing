@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 
-~ Terry Winograd
+~ Tom Cargill
 <pre>
 
 </pre>
