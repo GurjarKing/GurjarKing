@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+Less code equals less bugs.
 
-~ Martin Fowler
+~ Kevlin Henney
 <pre>
 
 </pre>
