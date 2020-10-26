@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
 
-~ Grady Booch
+~ Vannevar Bush
 <pre>
 
 </pre>
