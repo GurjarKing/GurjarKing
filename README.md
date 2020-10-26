@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
-~ Ken Thompson
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Modern programming scares me in many respects. It confuses me to read a program 
 </pre>
 <strong>Daily News</strong>
   
-  - Water quality and distribution monitoring software Ketos raises $18 million
+  - Linktree raises $10.7M for its lightweight, link-centric user profiles
      <hr/>
      
-      - *Water quality and logistics monitoring software Ketos has raised $15 million from a group of investors to take advantage of the growing demand for better water management tools and technologies. The potential for more stringent regulatory oversight of industr…*
+      - *Simple, link-centric user profiles might seem might not seem like a particularly ambitious idea, but it’s been big enough for Linktree. The Melbourne startup says that 8 million users — whether they’re celebrities like Selena Gomez and Dua Lipa or brands like…*
      
+  - Water quality and distribution monitoring software Ketos raises $18 million
+      <hr/>
+      
+      - *Water quality and logistics monitoring software Ketos has raised $15 million from a group of investors to take advantage of the growing demand for better water management tools and technologies. The potential for more stringent regulatory oversight of industr…*
+      
   - Facebook steps into cloud gaming -- and another feud with Apple
       <hr/>
       
@@ -73,16 +78,11 @@ Modern programming scares me in many respects. It confuses me to read a program 
       <hr/>
       
       - *One of the biggest trends in the world of fintech in the last several years has been the emergence (and surging popularity) of startups building platforms that help more people take a more proactive role in the world of financial services. Today, one of the m…*
-      
+       
   - TravelPerk launches an API for COVID-19 restrictions
       <hr/>
-      
-      - *About a month after outting an open API platform for its customers to augment their apps, business trip SaaS startup TravelPerk has launched a standalone API product aimed at helping the wider travel industry provide up-to-date information on travel restricti…*
        
-  - Epic's latest argument in its fight against Apple keeps antitrust issues front and center
-      <hr/>
-       
-       - *Epic Games, the game engine developer and creator of the wildly popular Fortnite game, is keeping the focus squarely on antitrust issues in its lawsuit against Apple as pressures mount to rein in anti-competitive practices of the world’s largest tech companie…*
+       - *About a month after outting an open API platform for its customers to augment their apps, business trip SaaS startup TravelPerk has launched a standalone API product aimed at helping the wider travel industry provide up-to-date information on travel restricti…*
       
 
 <br />
