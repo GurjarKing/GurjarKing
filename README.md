@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When debugging, novices insert corrective code; experts remove defective code.
+The entire history of software engineering is that of the rise in levels of abstraction.
 
-~ Richard E. Pattis
+~ Grady Booch
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When debugging, novices insert corrective code; experts remove defective code.
 </pre>
 <strong>Daily News</strong>
   
-  - Pinterest's new widget brings photos from favorite boards to your iOS 14 homescreen
+  - What would Databricks be worth in a 2021 IPO?
      <hr/>
      
-      - *As iPhone owners began customizing their iOS 14 homescreens with new widgets and custom icons, Pinterest iOS downloads and searches surged as the app became a top source for design ideas and inspiration. Today, Pinterest is more directly joining the homescree…*
+      - *TechCrunch recently covered Databricks’ financial performance in 2020, contrasting its recent performance to some historical 2019 data that the company shared. The data-and-analysis focused unicorn grew its annual run rate 75% to $350 million, compared to its…*
      
+  - YouTube revamps its mobile app with new gestures, video chapter lists, and more
+      <hr/>
+      
+      - *YouTube today is rolling out a series of updates to its player page on mobile devices. The changes relocate some elements, add new features — like an expanded set of gesture-based navigation options — and update existing ones, like video chapters, among other…*
+      
+  - Mario Kart Live: Home Circuit gets unofficial remote play on Surrogate.tv
+      <hr/>
+      
+      - *Readers of a certain age will no doubt remember some region variation of TV Powww. The syndicated program, which found viewers at home giving directions over the phone to an in-studio operating playing an Intellivision game. Mario Kart Live: Home Circuit revi…*
+      
+  - Pinterest's new widget brings photos from favorite boards to your iOS 14 homescreen
+      <hr/>
+      
+      - *As iPhone owners began customizing their iOS 14 homescreens with new widgets and custom icons, Pinterest iOS downloads and searches surged as the app became a top source for design ideas and inspiration. Today, Pinterest is more directly joining the homescree…*
+       
   - SAP shares fall sharply after COVID-19 cuts revenue, profit forecast at software giant
       <hr/>
-      
-      - *SAP announced its Q3 earnings yesterday, with its aggregate results down across the board. And after missing earnings expectations, the company also revised its 2021 outlook down. The combined bad news spooked investors, crashing its shares by over 20% in pre…*
-      
-  - U.S. Space Force Lt. General John F. Thompson will join us at TC Sessions: Space in December
-      <hr/>
-      
-      - *Our first-ever dedicated space event is coming up on December 16 and 17, and we’re thrilled to announce that Lieutenant General John F. Thompson of the U.S. Air Force will join us on our virtual stage at TC Sessions: Space. Thompson is the Commander, Space an…*
-      
-  - LA Rams, Fanatics and Postmates coordinate on an on-demand pop-up
-      <hr/>
-      
-      - *Postmates, now a division of Uber, is diving deeper into the world of on-demand retail and its partnership with the National Football League. The company, working alongside Fanatics and the Los Angeles Rams is launching a pop-up shop Monday for fans to buy ge…*
        
-  - Ant Group could raise as much as $34.5B in IPO in what would be world's largest IPO
-      <hr/>
-       
-       - *The long-anticipated IPO of Alibaba-affiliated Chinese fintech giant Ant Group could raise tens of billions of dollars in a dual-listing on both the Shanghai and Hong Kong exchanges. Shares for the company formerly known as Ant Financial are expected to price…*
+       - *SAP announced its Q3 earnings yesterday, with its aggregate results down across the board. And after missing earnings expectations, the company also revised its 2021 outlook down. The combined bad news spooked investors, crashing its shares by over 20% in pre…*
       
 
 <br />
