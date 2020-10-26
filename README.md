@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+One man's constant is another man's variable.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ All repairs tend to destroy structure, to increase the entropy and disorder of a
 </pre>
 <strong>Daily News</strong>
   
-  - Linktree raises $10.7M for its lightweight, link-centric user profiles
+  - Now a co-managing partner, Upfront's Kara Nortman is one of the first women promoted to a leadership role in VC
      <hr/>
      
-      - *Simple, link-centric user profiles might seem might not seem like a particularly ambitious idea, but it’s been big enough for Linktree. The Melbourne startup says that 8 million users — whether they’re celebrities like Selena Gomez and Dua Lipa or brands like…*
+      - *Kara Nortman has always been dedicated to supporting women in technology and in startups. As one of the founders of the All Raise, the organization dedicated to supporting gender equity in venture capital and technology, a director for Times Up and as the co-…*
      
+  - Equity Monday: SAP's warning, and IPO updates for both Airbnb and Databricks
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      
+  - Dropbox begins shift to high efficiency Western Digital Shingled Magnetic Recording disks
+      <hr/>
+      
+      - *Last year, Dropbox talked about making a shift to Shingled Magnetic Recording or SMR disks for short because of the efficiency they can give a high volume storage platform like theirs. Today, Western Digital announced that Dropbox was one of the first compani…*
+      
+  - Linktree raises $10.7M for its lightweight, link-centric user profiles
+      <hr/>
+      
+      - *Simple, link-centric user profiles might seem might not seem like a particularly ambitious idea, but it’s been big enough for Linktree. The Melbourne startup says that 8 million users — whether they’re celebrities like Selena Gomez and Dua Lipa or brands like…*
+       
   - Water quality and distribution monitoring software Ketos raises $18 million
       <hr/>
-      
-      - *Water quality and logistics monitoring software Ketos has raised $15 million from a group of investors to take advantage of the growing demand for better water management tools and technologies. The potential for more stringent regulatory oversight of industr…*
-      
-  - Facebook steps into cloud gaming -- and another feud with Apple
-      <hr/>
-      
-      - *Facebook will soon be the latest tech giant to enter the world of cloud gaming. Their approach is different than what Microsoft or Google has built but Facebook highlights a shared central challenge: dealing with Apple. Facebook is not building a console gami…*
-      
-  - UK's PrimaryBid raises $50M as its retail investing platform sees a Covid-19 surge of activity
-      <hr/>
-      
-      - *One of the biggest trends in the world of fintech in the last several years has been the emergence (and surging popularity) of startups building platforms that help more people take a more proactive role in the world of financial services. Today, one of the m…*
        
-  - TravelPerk launches an API for COVID-19 restrictions
-      <hr/>
-       
-       - *About a month after outting an open API platform for its customers to augment their apps, business trip SaaS startup TravelPerk has launched a standalone API product aimed at helping the wider travel industry provide up-to-date information on travel restricti…*
+       - *Water quality and logistics monitoring software Ketos has raised $15 million from a group of investors to take advantage of the growing demand for better water management tools and technologies. The potential for more stringent regulatory oversight of industr…*
       
 
 <br />
