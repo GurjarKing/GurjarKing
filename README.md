@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The purpose of software engineering is to control complexity, not to create it.
+Most errors are introduced during requirements specification!
 
-~ Pamela Zave
+~ Daniel T. Barry
 <pre>
 
 </pre>
