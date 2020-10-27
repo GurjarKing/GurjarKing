@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The button is working, only, it cannot be seen.
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 
-~ Anonymous
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The button is working, only, it cannot be seen.
 </pre>
 <strong>Daily News</strong>
   
-  - SimilarWeb raises $120M for its AI-based market intelligence platform for sites and apps
+  - Zoom launches end-to-end encryption for free meetings — with a catch
      <hr/>
      
-      - *Israeli startup SimilarWeb has made a name for itself with an AI-based platform that lets sites and apps track and understand traffic not just on their own sites, but those of its competitors. Now, it’s taking the next step in its growth. The startup has rais…*
+      - *Some features won't work with end-to-end encryption switched on.*
      
-  - Impact America Fund closes $55M to invest in startups targeting the world’s overlooked
+  - Postmates is launching a new retail delivery feature as brick and mortar stores face 14% drop in sales
       <hr/>
       
-      - *The entire asset class of venture capital is built atop systemic racism. The numbers don’t lie: only 2% of partner-level VCs are Black, and 81% of venture capital firms don’t have a Black partner on board. The lack of diversity in check-writers doesn’t stay i…*
+      - *Postmates is now rolling out what could be the biggest update to the company’s service in a long time — adding a retail option for users to shop local stores and for local merchants to set up a virtual on-demand storefront in the app. Starting in Los Angeles …*
       
-  - Lightspeed Venture Partners backs Theta Lake's video conferencing security tech with $12.7 million
+  - Salto raises $27M to let you configure your SaaS platforms with code
       <hr/>
       
-      - *Theta Lake, a provider of compliance and security tools for conferencing software like Cisco Webex, Microsoft Teams, RingCentral, Zoom and others, said it has raised $12.7 million in a new round of funding. Lightspeed Venture Partners led the round with commi…*
+      - *Salto, a Tel Aviv-based open-source startup that allows you to configure SaaS platforms like Salesforce, NetSuite and HubSpot with code, is coming out of stealth today and announced that it has raised a $27 million Series A round. This round was led by Bessem…*
       
-  - AMD grabs Xilinx for $35 billion as chip industry consolidation continues
+  - The Freewrite Traveler is an outstanding, but expensive, dedicated portable writing laptop
       <hr/>
       
-      - *The chip industry consolidation dance continued this morning as AMD has entered into an agreement to buy Xilinx for $35 billion, giving the company access to customers requiring chips with high performance workloads like artificial intelligence. AMD sees this…*
+      - *As a hardware startup, Astrohaus stands apart because of its unique offerings focused specifically on writers and writing. Its debut product, the Freewrite, looked like an old-school travel typewriter with an e-ink screen. Now, it’s back with a new device it’…*
        
-  - Uber's 'robo-firing' of drivers targeted in latest European lawsuit
+  - Top Facebook India executive Ankhi Das leaves the company
       <hr/>
        
-       - *Uber is facing another legal challenge in Europe related to algorithmic decision making. The App Drivers & Couriers Union (ADCU) filed a case, yesterday, with a court in the Netherlands seeking to challenge the ride hailing company’s practice of ‘robo-firing’…*
+       - *Ankhi Das, a top Facebook executive in India, is leaving the company on Tuesday months after she was alleged to interfere in the company’s content moderation policy in the country to show favoritism to the ruling Bharatiya Janata Party. Facebook has denied th…*
       
 
 <br />
