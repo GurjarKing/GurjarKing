@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Everybody should learn to program a computer, because it teaches you how to think.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Steve Jobs
+~ Brian Kernighan
 <pre>
 
 </pre>
