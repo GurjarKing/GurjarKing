@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 
-~ Linus Torvalds
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I'm doing a free operating system (just a hobby, won't be big and professional l
 </pre>
 <strong>Daily News</strong>
   
-  - Zoom launches end-to-end encryption for free meetings — with a catch
+  - Lightyear scores $3.7M seed to digitize networking infrastructure procurement
      <hr/>
      
-      - *Some features won't work with end-to-end encryption switched on.*
+      - *Lightyear, a New York City startup that wants to make it easier for large companies to procure networking infrastructure like internet and SD-WAN, announced a $3.7 million seed round today. While it was at it, the company announced that it was emerging from s…*
      
-  - Postmates is launching a new retail delivery feature as brick and mortar stores face 14% drop in sales
+  - Vimeo introduces free video messaging with Vimeo Record
       <hr/>
       
-      - *Postmates is now rolling out what could be the biggest update to the company’s service in a long time — adding a retail option for users to shop local stores and for local merchants to set up a virtual on-demand storefront in the app. Starting in Los Angeles …*
+      - *Vimeo Record is a new product that allows teams to communicate through video messages. Vimeo CEO Anjali Sud said that while the pandemic has prompted many offices to embrace digital communication tools like Zoom, “There’s a whole host of work communication th…*
       
-  - Salto raises $27M to let you configure your SaaS platforms with code
+  - Deep tech VC fund The Engine raises $230M for its second fund from MIT and new backer Harvard
       <hr/>
       
-      - *Salto, a Tel Aviv-based open-source startup that allows you to configure SaaS platforms like Salesforce, NetSuite and HubSpot with code, is coming out of stealth today and announced that it has raised a $27 million Series A round. This round was led by Bessem…*
+      - *Deep tech. Hard tech. Or, as The Engine dubs it, Tough Tech. Venture investing today is essentially identical to what happens on Wall Street, focused on data rooms, spreadsheets, SaaS churn models and cohort analysis. Yet, the history of venture capital firms…*
       
-  - The Freewrite Traveler is an outstanding, but expensive, dedicated portable writing laptop
+  - Boom raises $7M Series A in bid to become the 'Amazon for commercial photography'
       <hr/>
       
-      - *As a hardware startup, Astrohaus stands apart because of its unique offerings focused specifically on writers and writing. Its debut product, the Freewrite, looked like an old-school travel typewriter with an e-ink screen. Now, it’s back with a new device it’…*
+      - *Milan-headquartered scale-up Boom, which offers a two-sided tech platform to let companies book and manage commercial photo shoots, has raised $7 million in Series A funding. The round is led by Italy’s United Ventures, with the participation from Wellness Ho…*
        
-  - Top Facebook India executive Ankhi Das leaves the company
+  - Daimler Trucks partners with Waymo to build self-driving semi trucks
       <hr/>
        
-       - *Ankhi Das, a top Facebook executive in India, is leaving the company on Tuesday months after she was alleged to interfere in the company’s content moderation policy in the country to show favoritism to the ruling Bharatiya Janata Party. Facebook has denied th…*
+       - *Two automotive giants are teaming up to bring self-driving semi-trucks to market. Under this deal, Waymo and Daimler Trucks are partnering to build an autonomous version of the Freightliner Cascadia truck. This is Waymo’s first deal in the freight business. T…*
       
 
 <br />
