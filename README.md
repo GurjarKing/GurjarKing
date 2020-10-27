@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+The best way to know that you have found the last bug is never to find the first bug.
 
-~ Albert Einstein
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Any intelligent fool can make things bigger, more complex, and more violent. It 
 </pre>
 <strong>Daily News</strong>
   
-  - Reddit will allow employees to work from anywhere, going forward
+  - Google's EU Android choice screen isn't working say search rivals, calling for a joint process to devise a fair remedy
      <hr/>
      
-      - *Spurred on by the seemingly endless COVID-19 pandemic — and no doubt inspired by similar moves from companies like Twitter — Reddit today announced plans to offer its staff the opportunity to work remotely, going forward. The company announced the move in a b…*
+      - *Google search engine rivals have dialled up pressure on the European Commission over the tech giant’s ‘pay-to-play’ choice screen for Android users in Europe — arguing the Google-devised auction has failed to remedy antitrust issues identified by the European…*
      
-  - How Jack Dorsey will defend Twitter in tomorrow's Senate hearing on Section 230
+  - Armenian email campaign asks SpaceX not to aid Turkish regime with satellite launch
       <hr/>
       
-      - *Three of tech’s most prominent CEOs tomorrow will face the Senate Commerce Committee during a virtual hearing tomorrow and their opening statements are beginning to trickle out. The hearing, scheduled for 10 AM ET Wednesday, will see Twitter’s Jack Dorsey, Fa…*
+      - *SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkish government. The concerns are valid — and the mass-email me…*
       
-  - Instagram extends time limits on live streams to 4 hours, will soon support archiving
+  - Launch next-level networking with CrunchMatch at our TC Sessions: Space event
       <hr/>
       
-      - *Instagram is adapting to the way creators have been using its service during the coronavirus pandemic. With individuals and businesses now limited from hosting in-person events — like concerts, classes, meetups, and more — users have turned to Instagram to li…*
+      - *TC Sessions: Space 2020, our first space technology event, launches December 16-17 and you won’t want to miss our virtual conference focused on this fast-emerging startup category. You’ll hear from the space industry’s top movers, shakers and decision makers …*
       
-  - Let’s move beyond 2020 and start thinking about the 2020s
+  - T-Mobile launches new TVision streaming bundles, pricing starts at $10 per month
       <hr/>
       
-      - *Seasonality is critical for the media. End-of-year wrap-ups, best books for the summer, things to do this weekend — they’re all methods to note not only the passage of time, but also to begin to set the tone for what is about to come. Everyone covered the end…*
+      - *T-Mobile is launching new skinny bundles of live TV and streaming services to compete with expensive cable subscriptions. The carrier has already been moving into the TV market with the acquisition of Layer3 and the subsequent launch of TVision Home last year…*
        
-  - 5 startup theses that will transform the 2020s
+  - Microsoft stock flat despite better-than-expected earnings, strong Azure growth
       <hr/>
        
-       - *I wrote a call to action for the tech community to dive deeper into the future of innovation this coming decade. Where are some of the hot spots going to come from though? Below, I have assembled a very loose set of five clusters broadly categorized into “wel…*
+       - *Today after the bell, Microsoft reported its calendar Q3 2020 earnings, the period of that time corresponds to its Q1 fiscal 2021 period. In the three months ending September 30, Microsoft had revenues of $37.2 billion and per-share profit of $1.82. Analysts …*
       
 
 <br />
