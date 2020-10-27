@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+The purpose of software engineering is to control complexity, not to create it.
 
-~ Fred Brooks
+~ Pamela Zave
 <pre>
 
 </pre>
