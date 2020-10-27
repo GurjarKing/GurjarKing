@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 
-~ Brian Kernighan
+~ Daniel T. Barry
 <pre>
 
 </pre>
