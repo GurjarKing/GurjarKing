@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A programming language is low level when its programs require attention to the irrelevant.
+Everybody should learn to program a computer, because it teaches you how to think.
 
-~ Alan Perlis
+~ Steve Jobs
 <pre>
 
 </pre>
