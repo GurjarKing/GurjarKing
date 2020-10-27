@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+A beautiful program is like a beautiful theorem: It does the job elegantly.
 
-~ David Parnas
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I can build a reliable system with thousands of bugs, if you let me choose my bu
 </pre>
 <strong>Daily News</strong>
   
-  - Mophie introduces a modular wireless charging module
+  - Daily Crunch: Zoom adds end-to-end encryption to free calls
      <hr/>
      
-      - *Here’s a clever addition for Mophie, one of the longstanding battery case makers, which is now a part of the same smartphone accessory conglomerate as Zagg, Braven, iFrogz and InvisibleShield. The Juice Pack Connect is a modular take on the category, with a b…*
+      - *Zoom adds a much-requested feature (but with a catch), TikTok partners with Shopify and Jack Dorsey lays out his argument for tomorrow’s Senate hearing. This is your Daily Crunch for October 27, 2020. The big story: Zoom adds end-to-end encryption to free cal…*
      
+  - Mophie introduces a modular wireless charging module
+      <hr/>
+      
+      - *Here’s a clever addition for Mophie, one of the longstanding battery case makers, which is now a part of the same smartphone accessory conglomerate as Zagg, Braven, iFrogz and InvisibleShield. The Juice Pack Connect is a modular take on the category, with a b…*
+      
   - How to address inequality exposed by the COVID-19 pandemic
       <hr/>
       
@@ -73,16 +78,11 @@ I can build a reliable system with thousands of bugs, if you let me choose my bu
       <hr/>
       
       - *Google search engine rivals have dialled up pressure on the European Commission over the tech giant’s ‘pay-to-play’ choice screen for Android users in Europe — arguing the Google-devised auction has failed to remedy antitrust issues identified by the European…*
-      
+       
   - Armenian email campaign asks SpaceX not to aid Turkish regime with satellite launch
       <hr/>
-      
-      - *SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkish government. The concerns are valid — and the mass-email me…*
        
-  - Launch next-level networking with CrunchMatch at our TC Sessions: Space event
-      <hr/>
-       
-       - *TC Sessions: Space 2020, our first space technology event, launches December 16-17 and you won’t want to miss our virtual conference focused on this fast-emerging startup category. You’ll hear from the space industry’s top movers, shakers and decision makers …*
+       - *SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkish government. The concerns are valid — and the mass-email me…*
       
 
 <br />
