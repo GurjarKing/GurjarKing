@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+A programming language is low level when its programs require attention to the irrelevant.
 
-~ John Warnock
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Don’t go into a two-year development with nothing coming out in the middle. Ha
 </pre>
 <strong>Daily News</strong>
   
-  - Microsoft Office gets mouse and trackpad support for the iPad
+  - Gillmor Gang: Unsuppressed
      <hr/>
      
-      - *As promised, Microsoft announced that it has added full trackpad and mouse support for the iPadOS version of Microsoft 360. That includes Word, Excel and PowerPoint, marking another important step in Apple’s longstanding push to blur the line between tablet a…*
+      - *Not just the future of civilization is up for grabs this November. In this age of mobile social computing, we’re figuring out how to vote, entertain, teach, learn, and commit to meaningful change. Thanks to the pandemic emergency, our plans for transforming o…*
      
+  - Microsoft Office gets mouse and trackpad support for the iPad
+      <hr/>
+      
+      - *As promised, Microsoft announced that it has added full trackpad and mouse support for the iPadOS version of Microsoft 360. That includes Word, Excel and PowerPoint, marking another important step in Apple’s longstanding push to blur the line between tablet a…*
+      
   - Daily Crunch: Facebook launches cloud gaming service
       <hr/>
       
@@ -73,16 +78,11 @@ Don’t go into a two-year development with nothing coming out in the middle. Ha
       <hr/>
       
       - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
-      
+       
   - Teaching robots through positive reinforcement
       <hr/>
-      
-      - *There likely isn’t a robotics teacher institute in the world actively pursuing robotic learning. The field, after all, holds the key to unlocking a lot of potential for the industry. One of the things that makes it so remarkable is the myriad different approa…*
        
-  - Dallas' ShearShare has a marketplace connecting stylists with available seats at salons and $2.3 million in funding
-      <hr/>
-       
-       - *Courtney Caldwell and her husband Tye have been building the Dallas-based startup ShearShare, which provides a marketplace service connecting stylists with open seats at hair salons since 2017. Since their launch the two co-founders have been committed to the…*
+       - *There likely isn’t a robotics teacher institute in the world actively pursuing robotic learning. The field, after all, holds the key to unlocking a lot of potential for the industry. One of the things that makes it so remarkable is the myriad different approa…*
       
 
 <br />
