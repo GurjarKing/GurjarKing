@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Most errors are introduced during requirements specification!
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
-~ Daniel T. Barry
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Most errors are introduced during requirements specification!
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
+  - Apeel gets more cash to fight food insecurity in emerging markets with its food-preserving tech
      <hr/>
      
-      - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
+      - *In the first real test of the potentially transformative power of its food-preserving technology, the Santa Barbara, Calif.-based Apeel Sciences is bringing its innovative food treatment and supply chain management services to distribution centers in select m…*
      
+  - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
+      <hr/>
+      
+      - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
+      
   - Gillmor Gang: Unsuppressed
       <hr/>
       
@@ -73,16 +78,11 @@ Most errors are introduced during requirements specification!
       <hr/>
       
       - *As promised, Microsoft announced that it has added full trackpad and mouse support for the iPadOS version of Microsoft 360. That includes Word, Excel and PowerPoint, marking another important step in Apple’s longstanding push to blur the line between tablet a…*
-      
+       
   - Daily Crunch: Facebook launches cloud gaming service
       <hr/>
-      
-      - *Facebook gets into cloud gaming while continuing its public dispute with Apple, Ant Group prepares for a massive IPO and Pinterest embraces iOS widgets. This is your Daily Crunch for October 26, 2020. The big story: Facebook launches cloud gaming service Face…*
        
-  - Fragomen, a law firm used by Google, confirms data breach
-      <hr/>
-       
-       - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
+       - *Facebook gets into cloud gaming while continuing its public dispute with Apple, Ant Group prepares for a massive IPO and Pinterest embraces iOS widgets. This is your Daily Crunch for October 26, 2020. The big story: Facebook launches cloud gaming service Face…*
       
 
 <br />
