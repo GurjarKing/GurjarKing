@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+That hardly ever happens is another way of saying 'it happens'.
 
-~ Steve Jobs
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I'm convinced that about half of what separates the successful entrepreneurs fro
 </pre>
 <strong>Daily News</strong>
   
-  - Panoply raises $10M for its cloud data platform
+  - Netflix is developing a live action 'Assassin's Creed' show
      <hr/>
      
-      - *Panoply, a platform that makes it easier for businesses to set up a data warehouse and analyze that data with standard SQL queries, today announced that it has raised an additional $10 million in funding from Ibex Investors and C5 Capital. This brings the tot…*
+      - *Netflix announced this morning that it’s partnering with Ubisoft to adapt the game publisher’s “Assassin’s Creed” franchise into a live action series. The franchise jumps around in history, telling the story of a secret society of assassins with “genetic memo…*
      
-  - Anima's latest update draws on the popularity of design and no-code tools
+  - Facetune maker's new app Filtertune let anyone create and share personalized photo filters
       <hr/>
       
-      - *Anima, the company that turns design prototypes into code, has today announced the launch of Anima 4.0, which will allow designers to create prototypes in Figma that are translated into components in React with the click of a button. The company was founded b…*
+      - *Facetune maker Lightricks is out today with a new app, Filtertune, designed to create a community around custom photo filters. With the app, creators can make their own personalized preset photos filters, then share them across social media as photos that hav…*
       
-  - Thanks to COVID-19 emissions and coal use may have peaked in 2019
+  - Backed by Mr. Beast and Nadeshot, Backbone One could finally crack mobile gaming
       <hr/>
       
-      - *If analysts from BloombergNEF are right, then all of the world’s most greenhouse gas polluting days are behind it, thanks to the COVID-19 pandemic. A sharp drop in energy demand caused by the global response to the coronavirus pandemic will remove 2.5 years o…*
+      - *I get to play with a lot of new hardware from startups and it runs the gamut from super polished to barely working, neither of which is a value judgement! But every once in a while I get to mess with a new piece of kit that is just so fully realized that I am…*
       
-  - SpaceX and LeoLabs partner up for tracking of Starlink satellite deployments
+  - LA's Replicated looks to increase R&D and hiring for its operations management software after raising $25 million
       <hr/>
       
-      - *SpaceX and orbital object tracking startup LeoLabs have announced a new commercial partnership that will see LeoLab track SpaceX’s Starlink satellites during their initial deployment and orbital travel. The arrangement means that LeoLabs will immediately star…*
+      - *The Los Angeles-based operations and security management software service, Replicated has raised $25 million to ramp up its staffing and scale its sales and marketing efforts. The funding, which was led by Two Sigma Ventures and included existing investors li…*
        
-  - Join Extra Crunch Live today to talk about managing portfolios during a pandemic and good storytelling with GV's M.G. Siegler
+  - Rockset announces $40M Series B as data analytics solution gains momentum
       <hr/>
        
-       - *If anyone knows early-stage investing and startups, it’s M.G. Siegler. As a general partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He’s also a TechCr…*
+       - *Rockset, a cloud-native analytics company, announced a $40 million Series B investment today led by Sequoia with help from Greylock, the same two firms that financed its Series A. The startup has now raised a total of $61.5 million, according to the company. …*
       
 
 <br />
