@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That hardly ever happens is another way of saying 'it happens'.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Douglas Crockford
+~ Ivan Sutherland
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ That hardly ever happens is another way of saying 'it happens'.
 </pre>
 <strong>Daily News</strong>
   
-  - Netflix is developing a live action 'Assassin's Creed' show
+  - Wyze launches version 3 of its $20 security camera
      <hr/>
      
-      - *Netflix announced this morning that it’s partnering with Ubisoft to adapt the game publisher’s “Assassin’s Creed” franchise into a live action series. The franchise jumps around in history, telling the story of a secret society of assassins with “genetic memo…*
+      - *Wyze first made a name for itself when it launched its $20 indoor security camera a few years ago. Since then, the company branched out into other smart home products, ranging from doorbells to scales. Today, it’s going back to its origins with the launch of …*
      
-  - Facetune maker's new app Filtertune let anyone create and share personalized photo filters
+  - Next-gen skincare, silk without spiders and pollution for lunch: Meet the biotech startups pitching at IndieBio’s Demo Day
       <hr/>
       
-      - *Facetune maker Lightricks is out today with a new app, Filtertune, designed to create a community around custom photo filters. With the app, creators can make their own personalized preset photos filters, then share them across social media as photos that hav…*
+      - *Biotech can often, and sometimes literally, fly over our heads. However, the pandemic has shown an increased need for investment and focus on solutions that work on human and planetary health. For IndieBio, a science and biotech accelerator run by VC firm SOS…*
       
-  - Backed by Mr. Beast and Nadeshot, Backbone One could finally crack mobile gaming
+  - Ubisoft’s subscription service comes to Stadia and Luna
       <hr/>
       
-      - *I get to play with a lot of new hardware from startups and it runs the gamut from super polished to barely working, neither of which is a value judgement! But every once in a while I get to mess with a new piece of kit that is just so fully realized that I am…*
+      - *Ubisoft originally announced its subscription service back in June. Today, the company is rebranding the service from UPlay+ to Ubisoft+. The service is also on its way to Amazon’s Luna and Google’s Stadia. Ubisoft is betting on a multi-platform subscription,…*
       
-  - LA's Replicated looks to increase R&D and hiring for its operations management software after raising $25 million
+  - Hands-on: Sony's DualSense PS5 controller could be a game changer
       <hr/>
       
-      - *The Los Angeles-based operations and security management software service, Replicated has raised $25 million to ramp up its staffing and scale its sales and marketing efforts. The funding, which was led by Two Sigma Ventures and included existing investors li…*
+      - *After spending a few hours with the PlayStation 5 and its completely redesigned DualSense controller, I can say with confidence that the new haptics and audio features certainly work — and could become integral to the gaming experience. But only if — and it’s…*
        
-  - Rockset announces $40M Series B as data analytics solution gains momentum
+  - SpaceX launches Starlink app and provides pricing and service info to early beta testers
       <hr/>
        
-       - *Rockset, a cloud-native analytics company, announced a $40 million Series B investment today led by Sequoia with help from Greylock, the same two firms that financed its Series A. The startup has now raised a total of $61.5 million, according to the company. …*
+       - *SpaceX has debuted an official app for its Starlink satellite broadband internet service, for both iOS and Android devices. The Starlink app allows users to manage their connection – but to take part you’ll have to be part of the official beta program, and th…*
       
 
 <br />
