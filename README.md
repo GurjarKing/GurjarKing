@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 
-~ Robert L. Glass
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The best programmers are up to 28 times better than the worst programmers, accor
 </pre>
 <strong>Daily News</strong>
   
-  - White Castle rolls out more robots from Miso Robotics to cook in its kitchens
+  - Face to Face, Tinder's opt-in video chat feature, is now rolling out globally
      <hr/>
      
-      - *More robots are coming to White Castle. Expanding a partnership with Miso Robotics, around 10 new White Castle locations will be rolling out the Pasadena, Calif.-based company’s robotic fry cook. The move accelerates the adoption of Miso Robotics’ newly desig…*
+      - *Tinder, currently the world’s biggest biggest dating app for people to find matches and connect with them, is expanding another feature today to extend the time people spend in the app, and the communications they can have within it. Face to Face, an opt-in-o…*
      
+  - White Castle rolls out more robots from Miso Robotics to cook in its kitchens
+      <hr/>
+      
+      - *More robots are coming to White Castle. Expanding a partnership with Miso Robotics, around 10 new White Castle locations will be rolling out the Pasadena, Calif.-based company’s robotic fry cook. The move accelerates the adoption of Miso Robotics’ newly desig…*
+      
   - Video creation and editing platform InVideo raises $15 million
       <hr/>
       
@@ -73,16 +78,11 @@ The best programmers are up to 28 times better than the worst programmers, accor
       <hr/>
       
       - *In the first real test of the potentially transformative power of its food-preserving technology, the Santa Barbara, Calif.-based Apeel Sciences is bringing its innovative food treatment and supply chain management services to distribution centers in select m…*
-      
+       
   - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
       <hr/>
-      
-      - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
        
-  - Gillmor Gang: Unsuppressed
-      <hr/>
-       
-       - *Not just the future of civilization is up for grabs this November. In this age of mobile social computing, we’re figuring out how to vote, entertain, teach, learn, and commit to meaningful change. Thanks to the pandemic emergency, our plans for transforming o…*
+       - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
       
 
 <br />
