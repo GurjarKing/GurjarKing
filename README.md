@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The cost to repair an error goes up dramatically as project moves towards comple
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Unsuppressed
+  - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
      <hr/>
      
-      - *Not just the future of civilization is up for grabs this November. In this age of mobile social computing, we’re figuring out how to vote, entertain, teach, learn, and commit to meaningful change. Thanks to the pandemic emergency, our plans for transforming o…*
+      - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
      
+  - Gillmor Gang: Unsuppressed
+      <hr/>
+      
+      - *Not just the future of civilization is up for grabs this November. In this age of mobile social computing, we’re figuring out how to vote, entertain, teach, learn, and commit to meaningful change. Thanks to the pandemic emergency, our plans for transforming o…*
+      
   - Microsoft Office gets mouse and trackpad support for the iPad
       <hr/>
       
@@ -73,16 +78,11 @@ The cost to repair an error goes up dramatically as project moves towards comple
       <hr/>
       
       - *Facebook gets into cloud gaming while continuing its public dispute with Apple, Ant Group prepares for a massive IPO and Pinterest embraces iOS widgets. This is your Daily Crunch for October 26, 2020. The big story: Facebook launches cloud gaming service Face…*
-      
+       
   - Fragomen, a law firm used by Google, confirms data breach
       <hr/>
-      
-      - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
        
-  - Teaching robots through positive reinforcement
-      <hr/>
-       
-       - *There likely isn’t a robotics teacher institute in the world actively pursuing robotic learning. The field, after all, holds the key to unlocking a lot of potential for the industry. One of the things that makes it so remarkable is the myriad different approa…*
+       - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
       
 
 <br />
