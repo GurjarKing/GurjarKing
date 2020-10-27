@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 
-~ Daniel T. Barry
+~ Richard P. Gabriel
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Ed Adams of IBM found that 80% of the reliability problems are caused by only 2%
 </pre>
 <strong>Daily News</strong>
   
-  - Face to Face, Tinder's opt-in video chat feature, is now rolling out globally
+  - Deci raises $9.1M to optimize AI models with AI
      <hr/>
      
-      - *Tinder, currently the world’s biggest biggest dating app for people to find matches and connect with them, is expanding another feature today to extend the time people spend in the app, and the communications they can have within it. Face to Face, an opt-in-o…*
+      - *Deci, a Tel Aviv-based startup that is building a new platform that uses AI to optimized AI models and get them ready for production, today announced that it has raised a $9.1 million seed round led by Emerge and Square Peg. The general idea here is to make i…*
      
-  - White Castle rolls out more robots from Miso Robotics to cook in its kitchens
+  - Leading Edge Equipment has a technology to improve solar manufacturing and $7.6 million to go to market
       <hr/>
       
-      - *More robots are coming to White Castle. Expanding a partnership with Miso Robotics, around 10 new White Castle locations will be rolling out the Pasadena, Calif.-based company’s robotic fry cook. The move accelerates the adoption of Miso Robotics’ newly desig…*
+      - *Only a few weeks after the successful public offering of Array Technologies proved that there’s a market for technologies aimed at improving efficiencies across the solar manufacturing and installation chain, Leading Edge Equipment has raised capital for its …*
       
-  - Video creation and editing platform InVideo raises $15 million
+  - Bogota's Tül raises $4 million to improve the supply chain for construction in Latin America
       <hr/>
       
-      - *InVideo, a Mumbai-based startup that has built a video creation and editing platform, has raised $15 million as it looks to court more users and customers worldwide. The startup offers a freemium web-based editing tool that allows users to create videos for a…*
+      - *With a new $4 million round, the Bogota-based supply chain logistics technology developer Tül is prepping to expand across the Latin American region. Founded by Enrique Villamarin Lafaurie and Juan Carlos Narváez, Tül’s technology connects construction manufa…*
       
-  - Apeel gets more cash to fight food insecurity in emerging markets with its food-preserving tech
+  - NeoLight's jaundice treatment catches another $7 million to bring neonatal light therapy to the home
       <hr/>
       
-      - *In the first real test of the potentially transformative power of its food-preserving technology, the Santa Barbara, Calif.-based Apeel Sciences is bringing its innovative food treatment and supply chain management services to distribution centers in select m…*
+      - *NeoLight, a startup company that’s working to bring hospital-grade neonatal care technologies to the home, has raised $7 million more in financing. Dignity Health and Honor Health Systems came in to support the company along with previous investors like the P…*
        
-  - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
+  - India's FreshToHome raises $121 million to grow its meat and vegetable e-commerce platform
       <hr/>
        
-       - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
+       - *FreshToHome, an Indian e-commerce startup that sells fresh vegetables, fish, chicken and other kinds of meat, has raised $121 million in a new financing round as the Bangalore-headquartered firm reports accelerated growth spurred by the coronavirus pandemic. …*
       
 
 <br />
