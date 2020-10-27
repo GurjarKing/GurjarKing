@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 
-~ Ken Thompson
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I’ve never been a lover of existing code. Code by itself almost rots and it’
 </pre>
 <strong>Daily News</strong>
   
-  - Lightyear scores $3.7M seed to digitize networking infrastructure procurement
+  - Panoply raises $10M for its cloud data platform
      <hr/>
      
-      - *Lightyear, a New York City startup that wants to make it easier for large companies to procure networking infrastructure like internet and SD-WAN, announced a $3.7 million seed round today. While it was at it, the company announced that it was emerging from s…*
+      - *Panoply, a platform that makes it easier for businesses to set up a data warehouse and analyze that data with standard SQL queries, today announced that it has raised an additional $10 million in funding from Ibex Investors and C5 Capital. This brings the tot…*
      
-  - Vimeo introduces free video messaging with Vimeo Record
+  - Anima's latest update draws on the popularity of design and no-code tools
       <hr/>
       
-      - *Vimeo Record is a new product that allows teams to communicate through video messages. Vimeo CEO Anjali Sud said that while the pandemic has prompted many offices to embrace digital communication tools like Zoom, “There’s a whole host of work communication th…*
+      - *Anima, the company that turns design prototypes into code, has today announced the launch of Anima 4.0, which will allow designers to create prototypes in Figma that are translated into components in React with the click of a button. The company was founded b…*
       
-  - Deep tech VC fund The Engine raises $230M for its second fund from MIT and new backer Harvard
+  - Thanks to COVID-19 emissions and coal use may have peaked in 2019
       <hr/>
       
-      - *Deep tech. Hard tech. Or, as The Engine dubs it, Tough Tech. Venture investing today is essentially identical to what happens on Wall Street, focused on data rooms, spreadsheets, SaaS churn models and cohort analysis. Yet, the history of venture capital firms…*
+      - *If analysts from BloombergNEF are right, then all of the world’s most greenhouse gas polluting days are behind it, thanks to the COVID-19 pandemic. A sharp drop in energy demand caused by the global response to the coronavirus pandemic will remove 2.5 years o…*
       
-  - Boom raises $7M Series A in bid to become the 'Amazon for commercial photography'
+  - SpaceX and LeoLabs partner up for tracking of Starlink satellite deployments
       <hr/>
       
-      - *Milan-headquartered scale-up Boom, which offers a two-sided tech platform to let companies book and manage commercial photo shoots, has raised $7 million in Series A funding. The round is led by Italy’s United Ventures, with the participation from Wellness Ho…*
+      - *SpaceX and orbital object tracking startup LeoLabs have announced a new commercial partnership that will see LeoLab track SpaceX’s Starlink satellites during their initial deployment and orbital travel. The arrangement means that LeoLabs will immediately star…*
        
-  - Daimler Trucks partners with Waymo to build self-driving semi trucks
+  - Join Extra Crunch Live today to talk about managing portfolios during a pandemic and good storytelling with GV's M.G. Siegler
       <hr/>
        
-       - *Two automotive giants are teaming up to bring self-driving semi-trucks to market. Under this deal, Waymo and Daimler Trucks are partnering to build an autonomous version of the Freightliner Cascadia truck. This is Waymo’s first deal in the freight business. T…*
+       - *If anyone knows early-stage investing and startups, it’s M.G. Siegler. As a general partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He’s also a TechCr…*
       
 
 <br />
