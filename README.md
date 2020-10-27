@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 
-~ Douglas Crockford
+~ Robert L. Glass
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ One of the things I’ve been pushing is code reading. I think that is the most 
 </pre>
 <strong>Daily News</strong>
   
-  - Apeel gets more cash to fight food insecurity in emerging markets with its food-preserving tech
+  - White Castle rolls out more robots from Miso Robotics to cook in its kitchens
      <hr/>
      
-      - *In the first real test of the potentially transformative power of its food-preserving technology, the Santa Barbara, Calif.-based Apeel Sciences is bringing its innovative food treatment and supply chain management services to distribution centers in select m…*
+      - *More robots are coming to White Castle. Expanding a partnership with Miso Robotics, around 10 new White Castle locations will be rolling out the Pasadena, Calif.-based company’s robotic fry cook. The move accelerates the adoption of Miso Robotics’ newly desig…*
      
+  - Video creation and editing platform InVideo raises $15 million
+      <hr/>
+      
+      - *InVideo, a Mumbai-based startup that has built a video creation and editing platform, has raised $15 million as it looks to court more users and customers worldwide. The startup offers a freemium web-based editing tool that allows users to create videos for a…*
+      
+  - Apeel gets more cash to fight food insecurity in emerging markets with its food-preserving tech
+      <hr/>
+      
+      - *In the first real test of the potentially transformative power of its food-preserving technology, the Santa Barbara, Calif.-based Apeel Sciences is bringing its innovative food treatment and supply chain management services to distribution centers in select m…*
+      
   - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
       <hr/>
       
       - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
-      
+       
   - Gillmor Gang: Unsuppressed
       <hr/>
-      
-      - *Not just the future of civilization is up for grabs this November. In this age of mobile social computing, we’re figuring out how to vote, entertain, teach, learn, and commit to meaningful change. Thanks to the pandemic emergency, our plans for transforming o…*
-      
-  - Microsoft Office gets mouse and trackpad support for the iPad
-      <hr/>
-      
-      - *As promised, Microsoft announced that it has added full trackpad and mouse support for the iPadOS version of Microsoft 360. That includes Word, Excel and PowerPoint, marking another important step in Apple’s longstanding push to blur the line between tablet a…*
        
-  - Daily Crunch: Facebook launches cloud gaming service
-      <hr/>
-       
-       - *Facebook gets into cloud gaming while continuing its public dispute with Apple, Ant Group prepares for a massive IPO and Pinterest embraces iOS widgets. This is your Daily Crunch for October 26, 2020. The big story: Facebook launches cloud gaming service Face…*
+       - *Not just the future of civilization is up for grabs this November. In this age of mobile social computing, we’re figuring out how to vote, entertain, teach, learn, and commit to meaningful change. Thanks to the pandemic emergency, our plans for transforming o…*
       
 
 <br />
