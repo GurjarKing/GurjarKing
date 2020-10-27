@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+I'm not a great programmer; I'm just a good programmer with great habits.
 
-~ Ivan Sutherland
+~ Kent Beck
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A display connected to a digital computer gives us a chance to gain familiarity 
 </pre>
 <strong>Daily News</strong>
   
-  - Wyze launches version 3 of its $20 security camera
+  - Stark raises $1.5M for a toolkit that helps developers and others create more inclusive design
      <hr/>
      
-      - *Wyze first made a name for itself when it launched its $20 indoor security camera a few years ago. Since then, the company branched out into other smart home products, ranging from doorbells to scales. Today, it’s going back to its origins with the launch of …*
+      - *Diversity and inclusion are slowly, slowly moving away from being an afterthought (or worse, a no-thought) in the tech world. And to underscore the new attention the area is getting — in every aspect of the concept — today a startup that’s building tools to h…*
      
+  - Wyze launches version 3 of its $20 security camera
+      <hr/>
+      
+      - *Wyze first made a name for itself when it launched its $20 indoor security camera a few years ago. Since then, the company branched out into other smart home products, ranging from doorbells to scales. Today, it’s going back to its origins with the launch of …*
+      
   - Next-gen skincare, silk without spiders and pollution for lunch: Meet the biotech startups pitching at IndieBio’s Demo Day
       <hr/>
       
@@ -73,16 +78,11 @@ A display connected to a digital computer gives us a chance to gain familiarity 
       <hr/>
       
       - *Ubisoft originally announced its subscription service back in June. Today, the company is rebranding the service from UPlay+ to Ubisoft+. The service is also on its way to Amazon’s Luna and Google’s Stadia. Ubisoft is betting on a multi-platform subscription,…*
-      
+       
   - Hands-on: Sony's DualSense PS5 controller could be a game changer
       <hr/>
-      
-      - *After spending a few hours with the PlayStation 5 and its completely redesigned DualSense controller, I can say with confidence that the new haptics and audio features certainly work — and could become integral to the gaming experience. But only if — and it’s…*
        
-  - SpaceX launches Starlink app and provides pricing and service info to early beta testers
-      <hr/>
-       
-       - *SpaceX has debuted an official app for its Starlink satellite broadband internet service, for both iOS and Android devices. The Starlink app allows users to manage their connection – but to take part you’ll have to be part of the official beta program, and th…*
+       - *After spending a few hours with the PlayStation 5 and its completely redesigned DualSense controller, I can say with confidence that the new haptics and audio features certainly work — and could become integral to the gaming experience. But only if — and it’s…*
       
 
 <br />
