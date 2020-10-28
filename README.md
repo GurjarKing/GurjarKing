@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Walking on water and developing software from a specification are easy if both are frozen.
+When debugging, novices insert corrective code; experts remove defective code.
 
-~ Edward V. Berard
+~ Richard E. Pattis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Walking on water and developing software from a specification are easy if both a
 </pre>
 <strong>Daily News</strong>
   
-  - Trump's campaign website hacked by cryptocurrency scammers
+  - Fab founder Jason Goldberg is back with Moxie, a new live-streaming fitness marketplace
      <hr/>
      
-      - *President Trump’s campaign website was briefly and partially hacked Tuesday afternoon as unknown adversaries took over the “About” page and replaced it with what appeared to be a scam to collect cryptocurrency. There is no indication, despite the hackers’ cla…*
+      - *Amid a pandemic that has closed down fitness centers worldwide, a spate of companies has muscled their way into the booming at-home fitness market. In just the last two weeks, three-year Future, which promises at-home customers access to elite training, close…*
      
+  - Trump's campaign website hacked by cryptocurrency scammers
+      <hr/>
+      
+      - *President Trump’s campaign website was briefly and partially hacked Tuesday afternoon as unknown adversaries took over the “About” page and replaced it with what appeared to be a scam to collect cryptocurrency. There is no indication, despite the hackers’ cla…*
+      
   - Via and Hyundai-Aptiv joint venture to offer shared robotaxi rides next year
       <hr/>
       
@@ -73,16 +78,11 @@ Walking on water and developing software from a specification are easy if both a
       <hr/>
       
       - *Zoom adds a much-requested feature (but with a catch), TikTok partners with Shopify and Jack Dorsey lays out his argument for tomorrow’s Senate hearing. This is your Daily Crunch for October 27, 2020. The big story: Zoom adds end-to-end encryption to free cal…*
-      
+       
   - Mophie introduces a modular wireless charging module
       <hr/>
-      
-      - *Here’s a clever addition for Mophie, one of the longstanding battery case makers, which is now a part of the same smartphone accessory conglomerate as Zagg, Braven, iFrogz and InvisibleShield. The Juice Pack Connect is a modular take on the category, with a b…*
        
-  - How to address inequality exposed by the COVID-19 pandemic
-      <hr/>
-       
-       - *Having a substantial part of our fellow citizens outside the digital environment is a recipe for continued racial injustice, social conflict, economic deprivation and political division.*
+       - *Here’s a clever addition for Mophie, one of the longstanding battery case makers, which is now a part of the same smartphone accessory conglomerate as Zagg, Braven, iFrogz and InvisibleShield. The Juice Pack Connect is a modular take on the category, with a b…*
       
 
 <br />
