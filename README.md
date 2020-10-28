@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
 
-~ Bill Gates
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A great programmer thinks about the program on a constant basis, whether driving
 </pre>
 <strong>Daily News</strong>
   
-  - True, the social networking app that promises to 'protect your privacy,' exposed private messages and user locations
+  - US online holiday sales to reach $189B this year, up 33% from 2019
      <hr/>
      
-      - *Exclusive: The privacy-focused social app exposed private messages, posts, and users' location data.*
+      - *The accelerated shift to e-commerce due to the pandemic will have a significant impact on U.S. online holiday sales, according to a new forecast from Adobe Analytics. Adobe Analytics predicts that U.S. online sales for the months of November and December 2020…*
      
+  - True, the social networking app that promises to 'protect your privacy,' exposed private messages and user locations
+      <hr/>
+      
+      - *Exclusive: The privacy-focused social app exposed private messages, posts, and users' location data.*
+      
   - Dear Sophie: Any upgrade options for E-2 visa holders interested in changing jobs?
       <hr/>
       
@@ -73,16 +78,11 @@ A great programmer thinks about the program on a constant basis, whether driving
       <hr/>
       
       - *Encouraged by the spate of antitrust activity brewing in both the Justice Department and on Capitol Hill, Apple may be developing a search competitor to Google, according to a report in the Financial Times. That would be a move ripe with irony as the push for…*
-      
+       
   - Joe Rogan, Alex Jones and Spotify's illusion of neutrality
       <hr/>
-      
-      - *Social media platforms like Facebook and Twitter have taken a messy beating from critics unhappy with how they handle questionable content on their platform, with some complaining they don’t do enough to rein in misinformation, and others decrying censorship.…*
        
-  - App management startup AppFollow raises $5M Series A round led by Nauta Capital
-      <hr/>
-       
-       - *AppFollow, an app management startup, has raised a $5 million Series A round led by Barcelona’s Nauta Capital, alongside existing investors Vendep Capital and RTP Global participating. The Helsinki-headquartered company says benefitted during the pandemic and…*
+       - *Social media platforms like Facebook and Twitter have taken a messy beating from critics unhappy with how they handle questionable content on their platform, with some complaining they don’t do enough to rein in misinformation, and others decrying censorship.…*
       
 
 <br />
