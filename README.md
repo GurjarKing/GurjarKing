@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 
-~ Richard Stallman
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I figure that since proprietary software developers use copyright to stop us fro
 </pre>
 <strong>Daily News</strong>
   
-  - Apple search crawler activity could signal a Google competitor, or a bid to make Siri a one-stop-shop
+  - True, the social networking app that promises to 'protect your privacy,' exposed private messages and user locations
      <hr/>
      
-      - *Encouraged by the spate of antitrust activity brewing in both the Justice Department and on Capitol Hill, Apple may be developing a search competitor to Google, according to a report in the Financial Times. That would be a move ripe with irony as the push for…*
+      - *Exclusive: The privacy-focused social app exposed private messages, posts, and users' location data.*
      
+  - Dear Sophie: Any upgrade options for E-2 visa holders interested in changing jobs?
+      <hr/>
+      
+      - *My employer, a company based in Slovakia, moved me to the U.S. to help establish our U.S. operations. What are my options if I want to look for other job opportunities here in the U.S. with a different company?*
+      
+  - Apple search crawler activity could signal a Google competitor, or a bid to make Siri a one-stop-shop
+      <hr/>
+      
+      - *Encouraged by the spate of antitrust activity brewing in both the Justice Department and on Capitol Hill, Apple may be developing a search competitor to Google, according to a report in the Financial Times. That would be a move ripe with irony as the push for…*
+      
   - Joe Rogan, Alex Jones and Spotify's illusion of neutrality
       <hr/>
       
       - *Social media platforms like Facebook and Twitter have taken a messy beating from critics unhappy with how they handle questionable content on their platform, with some complaining they don’t do enough to rein in misinformation, and others decrying censorship.…*
-      
+       
   - App management startup AppFollow raises $5M Series A round led by Nauta Capital
       <hr/>
-      
-      - *AppFollow, an app management startup, has raised a $5 million Series A round led by Barcelona’s Nauta Capital, alongside existing investors Vendep Capital and RTP Global participating. The Helsinki-headquartered company says benefitted during the pandemic and…*
-      
-  - Outrider raises $65 million to bring its autonomous tech to distribution yards
-      <hr/>
-      
-      - *Outrider, a startup aiming to bring its autonomous technology to the nerve center of the supply chain, has raised $65 million in funding just eight months after coming out of stealth. The Series B round was led by Koch Disruptive Technologies and brings its t…*
        
-  - Qualtrics CEO  Ryan Smith is buying majority stake in the Utah Jazz for $1.6B
-      <hr/>
-       
-       - *The Utah Jazz, an NBA basketball team based in Salt Lake City, announced today that Qualitrics CEO and co-founder Ryan Smith was buying a majority stake in the team along other properties. ESPN is reporting the deal is worth $1.6 billion. Smith can afford it.…*
+       - *AppFollow, an app management startup, has raised a $5 million Series A round led by Barcelona’s Nauta Capital, alongside existing investors Vendep Capital and RTP Global participating. The Helsinki-headquartered company says benefitted during the pandemic and…*
       
 
 <br />
