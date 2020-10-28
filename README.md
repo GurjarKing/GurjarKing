@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 
-~ Douglas Crockford
+~ Kent Beck
 <pre>
 
 </pre>
