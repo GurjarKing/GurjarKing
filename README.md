@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+A language that doesn’t have everything is actually easier to program in than some that do.
 
-~ Elon Musk
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ People are mistaken when they think that technology just automatically improves.
 </pre>
 <strong>Daily News</strong>
   
-  - Investors back Pacific Consolidated Holdings to merge leading LA-based liquor and weed delivery companies
+  - Shotcall picks up $2.2 million to let fans game with their favorite streamers
      <hr/>
      
-      - *There’s a new company that’s sitting on top of some of the fastest growing consumer-facing businesses in the world — liquor and marijuana delivery — and its name is Pacific Consolidated Holdings Group. The investment firms and executive teams behind the Los A…*
+      - *The pandemic has resulted in a growth spurt for gaming, an industry that was already growing on the backs of esports and Twitch streaming. So it makes sense that startups big and small are flocking to the industry to find their own place in the ecosystem. One…*
      
-  - Kandji hauls in $21M Series A as Apple device management flourishes during pandemic
+  - LA-based MarketerHire upgrades its service matching remote marketers with companies
       <hr/>
       
-      - *Kandji, a mobile device management (MDM) startup, launched last October. That means it was trying to build the early stage company just as the pandemic hit earlier this year. But a company that helps manage devices remotely has been in demand in this environm…*
+      - *MarketerHire, a Los Angeles-based startup backed by a slew of executives from some of the city’s hottest startups, launched its new service matching freelance marketing experts with open jobs listed on its platform.  “Today’s startup economy depends on the ex…*
       
-  - Enso Security raises $6M for its application security management platform
+  - That dreadful VPN might finally be dead thanks to Twingate, a new startup built by Dropbox alums
       <hr/>
       
-      - *Enso Security, a Tel Aviv-based startup that is building a new application security platform, today announced that it has raised a $6 million seed funding round led by YL Ventures, with participation from Jump Capital. Angel investors in this round include Ha…*
+      - *VPNs, or virtual private networks, are a mainstay of corporate network security (and also consumers trying to stream Netflix while pretending to be from other countries). VPNs create an encrypted channel between your device (a laptop or a smartphone) and a co…*
       
-  - Loon sets stratospheric sustained flight record with 312 day balloon trip
+  - The Flume 2 Smart Home Water Monitor is a smart, easy-to-use, and essential smart home device
       <hr/>
       
-      - *Alphabet’s Loon, the company focused on creating new networking capabilities using stratosphere-based infrastructure, has set a new world record for a continuous stratospheric flight. One of Loon’s ultra high-altitude balloons flew for 312 days straight, beat…*
+      - *Many smart home gadgets focus on convenience or automation of typically manual tasks, but Flume’s smart water sensor provides a potentially much more vital service: The ability to track how much water you’re consuming, and alert you to potential leaks in you …*
        
-  - Former Uber CTO Thuan Pham joins South Korean e-commerce leader Coupang
+  - DoubleVerify, a specialist in brand safety, ad fraud and ad quality, raises $350M
       <hr/>
        
-       - *Thuan Pham, who stepped down as Uber’s chief technology officer and longest-serving top executive in May, has a new job in South Korea. Coupang, the country’s largest e-commerce company by market share, announced today it has hired Pham as its new CTO. For Ph…*
+       - *Ad-based platforms can face a lot of heat from advertisers when they can’t control how and where their ads run: just look back to the ad boycott against Facebook earlier this year (or earlier boycotts against YouTube and others) as examples of when it all goe…*
       
 
 <br />
