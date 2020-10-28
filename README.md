@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think the best way to supervise is by personal example and by frequent code reviews.
+The only sin is to make a choice without knowing you are making one.
 
-~ Charles Simonyi
+~ Jonathan Shewchuk
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I think the best way to supervise is by personal example and by frequent code re
 </pre>
 <strong>Daily News</strong>
   
-  - Microsoft announces its first Azure data center region in Taiwan
+  - Qualtrics CEO  Ryan Smith is buying majority stake in the Utah Jazz for $1.6B
      <hr/>
      
-      - *After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia, where…*
+      - *The Utah Jazz, an NBA basketball team based in Salt Lake City, announced today that Qualitrics CEO and co-founder Ryan Smith was buying a majority stake in the team along other properties. ESPN is reporting the deal is worth $1.6 billion. Smith can afford it.…*
      
+  - Apple eyes the TikTok generation with an updated version of Clips
+      <hr/>
+      
+      - *Apple is today rolling out an update to its video creation app, Clips, which brings much-needed support for vertical videos, allowing for sharing to TikTok and the “Stories” feature in other social apps. The addition is one of several arriving with the releas…*
+      
+  - Robust.AI raises a $15M Series A to improve problem solving for collaborative robots
+      <hr/>
+      
+      - *Robust.AI today announced that it has raised a $15 million Series A, led by Jazz Venture Partners. Existing partners Playground Global, Liquid2, Fontinalis, Jaan Tallinn and Mark Leslie also participated in the round, which brings the Bay Area-based robotics …*
+      
+  - Microsoft announces its first Azure data center region in Taiwan
+      <hr/>
+      
+      - *After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia, where…*
+       
   - Hebbia wants to make Ctrl-F (or Command-F) actually useful through better AI
       <hr/>
-      
-      - *Deep learning has made tremendous strides in recent years, with new systems and models like GPT-3 offering higher quality interpretations of human language, empowering developers to use these concepts in more diverse applications. We can see these development…*
-      
-  - Jackery's solar generator system helps you collect and store more than enough juice for off-grid essentials
-      <hr/>
-      
-      - *Portable power is a very convenient thing to have on hand, as proven by the popularity of pocket power banks for providing backup energy for smartphones and tablets. Jackery’s lineup of battery backups offer an entirely different, much greater level of portab…*
-      
-  - How is the Air Force looking to spend its $60 billion R&D budget?
-      <hr/>
-      
-      - *Dr. Will Roper, the man in charge of the purse strings for the Air Force’s $60 billion research and development and acquisition budget, oversees some 550 programs for the Air Force. It’s a huge responsibility that has massive implications for the future of th…*
        
-  - As venture capital rebounds, what's going on with venture debt?
-      <hr/>
-       
-       - *The American venture capital world has staged an impressive comeback from the early months of the COVID-19 pandemic. For a moment, there was worry that startups would struggle to raise for quarters, leading to layoffs, slowed hiring and budget cuts. But as th…*
+       - *Deep learning has made tremendous strides in recent years, with new systems and models like GPT-3 offering higher quality interpretations of human language, empowering developers to use these concepts in more diverse applications. We can see these development…*
       
 
 <br />
