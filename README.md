@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Joseph Yoder (computer scientist)
+~ James Gleick
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Reviews and pair programming provide programmers with something their work would
 </pre>
 <strong>Daily News</strong>
   
-  - US online holiday sales to reach $189B this year, up 33% from 2019
+  - Daily Crunch: Apple seems pretty interested in search
      <hr/>
      
-      - *The accelerated shift to e-commerce due to the pandemic will have a significant impact on U.S. online holiday sales, according to a new forecast from Adobe Analytics. Adobe Analytics predicts that U.S. online sales for the months of November and December 2020…*
+      - *Apple might be building a Google competitor, Audible adds more podcasts and an ad measurement company raises $350 million. This is your Daily Crunch for October 28, 2020. The big story: Apple seems pretty interested in search Apple has a growing interest in s…*
      
+  - We need new business models to burst old media filter bubbles
+      <hr/>
+      
+      - *It’s time for us to think critically about how we can build business models that reunite information bubbles, so that people consistently get access to all sides of the story.*
+      
+  - Fiat Chrysler plans to bring an Ram electric pickup truck to market
+      <hr/>
+      
+      - *Fiat Chrysler Automobiles CEO Mike Manley confirmed Wednesday the automaker’s Ram brand will bring an electric pickup truck to market. The remarks, made in response to an analyst question during the company third-quarter earnings call, puts to rest rampant sp…*
+      
+  - US online holiday sales to reach $189B this year, up 33% from 2019
+      <hr/>
+      
+      - *The accelerated shift to e-commerce due to the pandemic will have a significant impact on U.S. online holiday sales, according to a new forecast from Adobe Analytics. Adobe Analytics predicts that U.S. online sales for the months of November and December 2020…*
+       
   - True, the social networking app that promises to 'protect your privacy,' exposed private messages and user locations
       <hr/>
-      
-      - *Exclusive: The privacy-focused social app exposed private messages, posts, and users' location data.*
-      
-  - Dear Sophie: Any upgrade options for E-2 visa holders interested in changing jobs?
-      <hr/>
-      
-      - *My employer, a company based in Slovakia, moved me to the U.S. to help establish our U.S. operations. What are my options if I want to look for other job opportunities here in the U.S. with a different company?*
-      
-  - Apple search crawler activity could signal a Google competitor, or a bid to make Siri a one-stop-shop
-      <hr/>
-      
-      - *Encouraged by the spate of antitrust activity brewing in both the Justice Department and on Capitol Hill, Apple may be developing a search competitor to Google, according to a report in the Financial Times. That would be a move ripe with irony as the push for…*
        
-  - Joe Rogan, Alex Jones and Spotify's illusion of neutrality
-      <hr/>
-       
-       - *Social media platforms like Facebook and Twitter have taken a messy beating from critics unhappy with how they handle questionable content on their platform, with some complaining they don’t do enough to rein in misinformation, and others decrying censorship.…*
+       - *Exclusive: The privacy-focused social app exposed private messages, posts, and users' location data.*
       
 
 <br />
