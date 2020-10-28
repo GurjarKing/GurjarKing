@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
 
-~ Kent Beck
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ When you feel the need to write a comment, first try to refactor the code so tha
 </pre>
 <strong>Daily News</strong>
   
-  - Sidekick Health scores $20M for its gamified digital care platform
+  - Streetbees raises $39M in a Series B round as brands race to interrogate Pandemic-hit consumers
      <hr/>
      
-      - *Nordic digital therapeutics company, Sidekick Health, has closed a $20 million Series A led by pan-European VC Wellington Partners and healthcare focused VC Asabys Partners. Existing investors, Novator and Frumtak Ventures, also participated in the oversubscr…*
+      - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
      
+  - Sidekick Health scores $20M for its gamified digital care platform
+      <hr/>
+      
+      - *Nordic digital therapeutics company, Sidekick Health, has closed a $20 million Series A led by pan-European VC Wellington Partners and healthcare focused VC Asabys Partners. Existing investors, Novator and Frumtak Ventures, also participated in the oversubscr…*
+      
   - Harley-Davidson is getting into the electric bicycle business
       <hr/>
       
@@ -73,16 +78,11 @@ When you feel the need to write a comment, first try to refactor the code so tha
       <hr/>
       
       - *Facebook, Google, and Twitter's CEOs will appear before the Senate Commerce Committee Wednesday in a hearing on social media's key legal shield*
-      
+       
   - Fab founder Jason Goldberg is back with Moxie, a new live-streaming fitness marketplace
       <hr/>
-      
-      - *Amid a pandemic that has closed down fitness centers worldwide, a spate of companies has muscled their way into the booming at-home fitness market. In just the last two weeks, three-year Future, which promises at-home customers access to elite training, close…*
        
-  - Trump's campaign website hacked by cryptocurrency scammers
-      <hr/>
-       
-       - *President Trump’s campaign website was briefly and partially hacked Tuesday afternoon as unknown adversaries took over the “About” page and replaced it with what appeared to be a scam to collect cryptocurrency. There is no indication, despite the hackers’ cla…*
+       - *Amid a pandemic that has closed down fitness centers worldwide, a spate of companies has muscled their way into the booming at-home fitness market. In just the last two weeks, three-year Future, which promises at-home customers access to elite training, close…*
       
 
 <br />
