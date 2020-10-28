@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 
-~ Richard Stallman
+~ Douglas Crockford
 <pre>
 
 </pre>
