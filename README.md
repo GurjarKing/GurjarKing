@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A language that doesn’t have everything is actually easier to program in than some that do.
+If Microsoft ever does applications for Linux it means I've won.
 
-~ Dennis Ritchie
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A language that doesn’t have everything is actually easier to program in than 
 </pre>
 <strong>Daily News</strong>
   
-  - Shotcall picks up $2.2 million to let fans game with their favorite streamers
+  - Lotame unveils its new cookie-less tech for ad targeting
      <hr/>
      
-      - *The pandemic has resulted in a growth spurt for gaming, an industry that was already growing on the backs of esports and Twitch streaming. So it makes sense that startups big and small are flocking to the industry to find their own place in the ecosystem. One…*
+      - *Data management company Lotame is announcing a new way for publishers and marketers to track identity that it calls Panorama ID . For years, online advertisers have relied on cookies to track and target audiences, but they need new approaches as the major bro…*
      
-  - LA-based MarketerHire upgrades its service matching remote marketers with companies
+  - Pulumi raises $37.5M Series B for its cloud engineering platform
       <hr/>
       
-      - *MarketerHire, a Los Angeles-based startup backed by a slew of executives from some of the city’s hottest startups, launched its new service matching freelance marketing experts with open jobs listed on its platform.  “Today’s startup economy depends on the ex…*
+      - *Seattle-based Pulumi, one of the newer startups in the ”infrastructure-as-code” space, today announced that it has raised a $37.5 million Series B funding round led by NEA. Previous investors Madrona Venture Group and Tola Capital also participated in this ro…*
       
-  - That dreadful VPN might finally be dead thanks to Twingate, a new startup built by Dropbox alums
+  - Samsung beats Xiaomi to reclaim No. 1 spot in Indian smartphone market
       <hr/>
       
-      - *VPNs, or virtual private networks, are a mainstay of corporate network security (and also consumers trying to stream Netflix while pretending to be from other countries). VPNs create an encrypted channel between your device (a laptop or a smartphone) and a co…*
+      - *Xiaomi, which has led the Indian smartphone market for three consecutive years, has ceded ground to its long-rival Samsung in the world’s second largest market, according to a new report. According to estimates from marketing research firm Counterpoint, Samsu…*
       
-  - The Flume 2 Smart Home Water Monitor is a smart, easy-to-use, and essential smart home device
+  - Tech stocks sell off sharply as market looks at COVID-19 numbers, whispers 'oh f***'
       <hr/>
       
-      - *Many smart home gadgets focus on convenience or automation of typically manual tasks, but Flume’s smart water sensor provides a potentially much more vital service: The ability to track how much water you’re consuming, and alert you to potential leaks in you …*
+      - *The American stock market is struggling today, with tech stocks in particular taking extra stick. After European stocks tanked on the back of COVID-19 concerns, American stocks are following suit. Tech stocks in particular. As of the time of writing, the Dow …*
        
-  - DoubleVerify, a specialist in brand safety, ad fraud and ad quality, raises $350M
+  - The DOJ investigating Visa's $5.3 billion bid for Plaid on antitrust grounds
       <hr/>
        
-       - *Ad-based platforms can face a lot of heat from advertisers when they can’t control how and where their ads run: just look back to the ad boycott against Facebook earlier this year (or earlier boycotts against YouTube and others) as examples of when it all goe…*
+       - *It’s not just big tech that’s getting the antitrust treatment from the Department of Justice. Late Monday afternoon, the Department of Justice tipped its hand that it was investigating Visa’s proposed $5.3 billion acquisition of the venture-backed Plaid, whic…*
       
 
 <br />
