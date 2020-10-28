@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 
-~ Douglas Crockford
+~ Jonathan Sachs
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Good architecture is necessary to give programs enough structure to be able to g
 </pre>
 <strong>Daily News</strong>
   
-  - Hej! Amazon opens Amazon.se in Sweden to expand in Europe
+  - MachEye raises $4.6M for its business intelligence platform
      <hr/>
      
-      - *Amazon is the biggest online retailer in Europe, and today it took the next step in making that effort more localized. The company has launched a dedicated portal for Sweden at Amazon.se — giving Swedish shoppers, third-party merchants, and itself, a local UR…*
+      - *We’ve seen our fair share of business intelligence (BI) platforms that aim to make data analysis accessible to everybody in a company. Most of them are still fairly complicated, no matter what their marketing copy says. MachEye, which is launching its AI-powe…*
      
+  - Microsoft says Iranian hackers targeted 'high profile' conference attendees
+      <hr/>
+      
+      - *The group, known as APT 35, sent malicious emails to "high profile" targets.*
+      
+  - Hej! Amazon opens Amazon.se in Sweden to expand in Europe
+      <hr/>
+      
+      - *Amazon is the biggest online retailer in Europe, and today it took the next step in making that effort more localized. The company has launched a dedicated portal for Sweden at Amazon.se — giving Swedish shoppers, third-party merchants, and itself, a local UR…*
+      
   - Streetbees raises $39M in a Series B round as brands race to interrogate Pandemic-hit consumers
       <hr/>
       
       - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
-      
+       
   - Sidekick Health scores $20M for its gamified digital care platform
       <hr/>
-      
-      - *Nordic digital therapeutics company, Sidekick Health, has closed a $20 million Series A led by pan-European VC Wellington Partners and healthcare focused VC Asabys Partners. Existing investors, Novator and Frumtak Ventures, also participated in the oversubscr…*
-      
-  - Harley-Davidson is getting into the electric bicycle business
-      <hr/>
-      
-      - *Harley-Davidson has spun out a new business dedicated to electric bicycles and plans to bring its first line of products to market in spring 2021. The new business called Serial 1 Cycle Company started as a project within the motorcycle manufacturer’s product…*
        
-  - Watch Facebook, Google, and Twitter's CEOs defend the law that made social media possible to Congress
-      <hr/>
-       
-       - *Facebook, Google, and Twitter's CEOs will appear before the Senate Commerce Committee Wednesday in a hearing on social media's key legal shield*
+       - *Nordic digital therapeutics company, Sidekick Health, has closed a $20 million Series A led by pan-European VC Wellington Partners and healthcare focused VC Asabys Partners. Existing investors, Novator and Frumtak Ventures, also participated in the oversubscr…*
       
 
 <br />
