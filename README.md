@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
 
-~ Jonathan Sachs
+~ Elon Musk
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I don't like using any tools or programs I didn't write myself or that I don't h
 </pre>
 <strong>Daily News</strong>
   
-  - MachEye raises $4.6M for its business intelligence platform
+  - Investors back Pacific Consolidated Holdings to merge leading LA-based liquor and weed delivery companies
      <hr/>
      
-      - *We’ve seen our fair share of business intelligence (BI) platforms that aim to make data analysis accessible to everybody in a company. Most of them are still fairly complicated, no matter what their marketing copy says. MachEye, which is launching its AI-powe…*
+      - *There’s a new company that’s sitting on top of some of the fastest growing consumer-facing businesses in the world — liquor and marijuana delivery — and its name is Pacific Consolidated Holdings Group. The investment firms and executive teams behind the Los A…*
      
-  - Microsoft says Iranian hackers targeted 'high profile' conference attendees
+  - Kandji hauls in $21M Series A as Apple device management flourishes during pandemic
       <hr/>
       
-      - *The group, known as APT 35, sent malicious emails to "high profile" targets.*
+      - *Kandji, a mobile device management (MDM) startup, launched last October. That means it was trying to build the early stage company just as the pandemic hit earlier this year. But a company that helps manage devices remotely has been in demand in this environm…*
       
-  - Hej! Amazon opens Amazon.se in Sweden to expand in Europe
+  - Enso Security raises $6M for its application security management platform
       <hr/>
       
-      - *Amazon is the biggest online retailer in Europe, and today it took the next step in making that effort more localized. The company has launched a dedicated portal for Sweden at Amazon.se — giving Swedish shoppers, third-party merchants, and itself, a local UR…*
+      - *Enso Security, a Tel Aviv-based startup that is building a new application security platform, today announced that it has raised a $6 million seed funding round led by YL Ventures, with participation from Jump Capital. Angel investors in this round include Ha…*
       
-  - Streetbees raises $39M in a Series B round as brands race to interrogate Pandemic-hit consumers
+  - Loon sets stratospheric sustained flight record with 312 day balloon trip
       <hr/>
       
-      - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
+      - *Alphabet’s Loon, the company focused on creating new networking capabilities using stratosphere-based infrastructure, has set a new world record for a continuous stratospheric flight. One of Loon’s ultra high-altitude balloons flew for 312 days straight, beat…*
        
-  - Sidekick Health scores $20M for its gamified digital care platform
+  - Former Uber CTO Thuan Pham joins South Korean e-commerce leader Coupang
       <hr/>
        
-       - *Nordic digital therapeutics company, Sidekick Health, has closed a $20 million Series A led by pan-European VC Wellington Partners and healthcare focused VC Asabys Partners. Existing investors, Novator and Frumtak Ventures, also participated in the oversubscr…*
+       - *Thuan Pham, who stepped down as Uber’s chief technology officer and longest-serving top executive in May, has a new job in South Korea. Coupang, the country’s largest e-commerce company by market share, announced today it has hired Pham as its new CTO. For Ph…*
       
 
 <br />
