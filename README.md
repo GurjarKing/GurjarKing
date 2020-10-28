@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When debugging, novices insert corrective code; experts remove defective code.
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 
-~ Richard E. Pattis
+~ Donald Knuth
 <pre>
 
 </pre>
