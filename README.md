@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If Microsoft ever does applications for Linux it means I've won.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Linus Torvalds
+~ George Boole
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If Microsoft ever does applications for Linux it means I've won.
 </pre>
 <strong>Daily News</strong>
   
-  - Lotame unveils its new cookie-less tech for ad targeting
+  - Coinbase to launch debit card in the US with rewards program
      <hr/>
      
-      - *Data management company Lotame is announcing a new way for publishers and marketers to track identity that it calls Panorama ID . For years, online advertisers have relied on cookies to track and target audiences, but they need new approaches as the major bro…*
+      - *Cryptocurrency exchange Coinbase is launching a debit card in the U.S. this winter. Customers can join the waitlist and get the Coinbase Card whenever it is available. Coinbase already launched the Coinbase Card in the U.K. and Europe. The Coinbase Card is a …*
      
-  - Pulumi raises $37.5M Series B for its cloud engineering platform
+  - Justice at Spotify demands better compensation and increased transparency for musicians
       <hr/>
       
-      - *Seattle-based Pulumi, one of the newer startups in the ”infrastructure-as-code” space, today announced that it has raised a $37.5 million Series B funding round led by NEA. Previous investors Madrona Venture Group and Tola Capital also participated in this ro…*
+      - *Musicians have taken issue with Spotify’s artist compensation for about as long as there’s been a Spotify. Making a living as a musician is difficult enough for the vast majority of those who are brave — or perhaps foolish — enough to attempt such things, but…*
       
-  - Samsung beats Xiaomi to reclaim No. 1 spot in Indian smartphone market
+  - Apple's Jeff Bigham, disability rights lawyer Haben Girma, author Sara Hendren and more to join Sight Tech Global
       <hr/>
       
-      - *Xiaomi, which has led the Indian smartphone market for three consecutive years, has ceded ground to its long-rival Samsung in the world’s second largest market, according to a new report. According to estimates from marketing research firm Counterpoint, Samsu…*
+      - *The other day we announced the first ten sessions for Sight Tech Global, a virtual event Dec. 2-3 that is convening the world’s top technologists to discuss how AI-based technologies are revolutionizing the future of accessibility. Today, we’re pleased to ann…*
       
-  - Tech stocks sell off sharply as market looks at COVID-19 numbers, whispers 'oh f***'
+  - Audible further expands into podcasts
       <hr/>
       
-      - *The American stock market is struggling today, with tech stocks in particular taking extra stick. After European stocks tanked on the back of COVID-19 concerns, American stocks are following suit. Tech stocks in particular. As of the time of writing, the Dow …*
+      - *Audible, the Amazon-owned audiobook company, is further expanding into podcasts with the addition of approximately 100,000 of podcasts, totaling 5 million episodes to its service. The shows will be offered for free streaming to Audible members and non-subscri…*
        
-  - The DOJ investigating Visa's $5.3 billion bid for Plaid on antitrust grounds
+  - Lotame unveils its new cookie-less tech for ad targeting
       <hr/>
        
-       - *It’s not just big tech that’s getting the antitrust treatment from the Department of Justice. Late Monday afternoon, the Department of Justice tipped its hand that it was investigating Visa’s proposed $5.3 billion acquisition of the venture-backed Plaid, whic…*
+       - *Data management company Lotame is announcing a new way for publishers and marketers to track identity that it calls Panorama ID . For years, online advertisers have relied on cookies to track and target audiences, but they need new approaches as the major bro…*
       
 
 <br />
