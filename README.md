@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+Young man, in mathematics you don't understand things. You just get used to them.
 
-~ Donald Knuth
+~ John von Neumann
 <pre>
 
 </pre>
