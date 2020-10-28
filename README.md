@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
-~ Steve McConnell
+~ Richard Stallman
 <pre>
 
 </pre>
