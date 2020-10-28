@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 
-~ Fred Brooks
+~ Addy Osmani
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The management question, therefore, is not whether to build a pilot system and t
 </pre>
 <strong>Daily News</strong>
   
-  - Streetbees raises $39M in a Series B round as brands race to interrogate Pandemic-hit consumers
+  - Hej! Amazon opens Amazon.se in Sweden to expand in Europe
      <hr/>
      
-      - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
+      - *Amazon is the biggest online retailer in Europe, and today it took the next step in making that effort more localized. The company has launched a dedicated portal for Sweden at Amazon.se — giving Swedish shoppers, third-party merchants, and itself, a local UR…*
      
+  - Streetbees raises $39M in a Series B round as brands race to interrogate Pandemic-hit consumers
+      <hr/>
+      
+      - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
+      
   - Sidekick Health scores $20M for its gamified digital care platform
       <hr/>
       
@@ -73,16 +78,11 @@ The management question, therefore, is not whether to build a pilot system and t
       <hr/>
       
       - *Harley-Davidson has spun out a new business dedicated to electric bicycles and plans to bring its first line of products to market in spring 2021. The new business called Serial 1 Cycle Company started as a project within the motorcycle manufacturer’s product…*
-      
+       
   - Watch Facebook, Google, and Twitter's CEOs defend the law that made social media possible to Congress
       <hr/>
-      
-      - *Facebook, Google, and Twitter's CEOs will appear before the Senate Commerce Committee Wednesday in a hearing on social media's key legal shield*
        
-  - Fab founder Jason Goldberg is back with Moxie, a new live-streaming fitness marketplace
-      <hr/>
-       
-       - *Amid a pandemic that has closed down fitness centers worldwide, a spate of companies has muscled their way into the booming at-home fitness market. In just the last two weeks, three-year Future, which promises at-home customers access to elite training, close…*
+       - *Facebook, Google, and Twitter's CEOs will appear before the Senate Commerce Committee Wednesday in a hearing on social media's key legal shield*
       
 
 <br />
