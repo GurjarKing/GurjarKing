@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 
-~ Ken Thompson
+~ Randall E. Stross
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ One of my most productive days was throwing away 1,000 lines of code.
 </pre>
 <strong>Daily News</strong>
   
-  - Section 230 barely rates a mention in Senate's hasty pre-election flogging of tech CEOs
+  - Ford will reveal its all-electric Transit van in November
      <hr/>
      
-      - *Today’s Senate hearing on immensely important legal protections for online platforms quickly proved to be little more than an excuse for Senators to accuse the CEOs of Twitter, Facebook and Google of partisan interference with next week’s election. The actual…*
+      - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
      
+  - Section 230 barely rates a mention in Senate's hasty pre-election flogging of tech CEOs
+      <hr/>
+      
+      - *Today’s Senate hearing on immensely important legal protections for online platforms quickly proved to be little more than an excuse for Senators to accuse the CEOs of Twitter, Facebook and Google of partisan interference with next week’s election. The actual…*
+      
   - Rocket Lab successfully launches 10 Earth observation satellites in 15th commercial mission
       <hr/>
       
@@ -73,16 +78,11 @@ One of my most productive days was throwing away 1,000 lines of code.
       <hr/>
       
       - *Apple might be building a Google competitor, Audible adds more podcasts and an ad measurement company raises $350 million. This is your Daily Crunch for October 28, 2020. The big story: Apple seems pretty interested in search Apple has a growing interest in s…*
-      
+       
   - We need new business models to burst old media filter bubbles
       <hr/>
-      
-      - *It’s time for us to think critically about how we can build business models that reunite information bubbles, so that people consistently get access to all sides of the story.*
        
-  - Fiat Chrysler plans to bring an Ram electric pickup truck to market
-      <hr/>
-       
-       - *Fiat Chrysler Automobiles CEO Mike Manley confirmed Wednesday the automaker’s Ram brand will bring an electric pickup truck to market. The remarks, made in response to an analyst question during the company third-quarter earnings call, puts to rest rampant sp…*
+       - *It’s time for us to think critically about how we can build business models that reunite information bubbles, so that people consistently get access to all sides of the story.*
       
 
 <br />
