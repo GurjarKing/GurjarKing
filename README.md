@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+Young man, in mathematics you don't understand things. You just get used to them.
 
-~ George Boole
+~ John von Neumann
 <pre>
 
 </pre>
