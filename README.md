@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In my second year in graduate school, I took a computer course and that was like lightening striking.
+Before software can be reusable it first has to be usable.
 
-~ Ted Nelson
+~ Ralph Johnson (computer scientist)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ In my second year in graduate school, I took a computer course and that was like
 </pre>
 <strong>Daily News</strong>
   
-  - Marriott International announces partnership with Grab in six Southeast Asian countries
+  - LinkedIn's Career Explorer helps you identify new kinds of jobs based on the skills you have
      <hr/>
      
-      - *The COVID-19 pandemic has hit the hospitality industry especially hard, and hotels around the world are looking for ways to regain revenue. Today, Marriott International and Grab announced a partnership that will cover the hospitality giant’s dining businesse…*
+      - *One of the key side-effects of the Covid-19 pandemic has been how it has played out in the economy. There are currently 12.6 million people out of work in the U.S. alone, with estimates from the International Labour Organization noting that globally number so…*
      
+  - Marriott International announces partnership with Grab in six Southeast Asian countries
+      <hr/>
+      
+      - *The COVID-19 pandemic has hit the hospitality industry especially hard, and hotels around the world are looking for ways to regain revenue. Today, Marriott International and Grab announced a partnership that will cover the hospitality giant’s dining businesse…*
+      
   - Ford will reveal its all-electric Transit van in November
       <hr/>
       
@@ -73,16 +78,11 @@ In my second year in graduate school, I took a computer course and that was like
       <hr/>
       
       - *Today’s Senate hearing on immensely important legal protections for online platforms quickly proved to be little more than an excuse for Senators to accuse the CEOs of Twitter, Facebook and Google of partisan interference with next week’s election. The actual…*
-      
+       
   - Rocket Lab successfully launches 10 Earth observation satellites in 15th commercial mission
       <hr/>
-      
-      - *New Zealand launch provider Rocket Lab has put its 15th commercial payload into space, delivering ten Earth observation satellites each to their own orbit. The company is getting back into its stride after an upset in July dampened plans to set a record for l…*
        
-  - Daily Crunch: Apple seems pretty interested in search
-      <hr/>
-       
-       - *Apple might be building a Google competitor, Audible adds more podcasts and an ad measurement company raises $350 million. This is your Daily Crunch for October 28, 2020. The big story: Apple seems pretty interested in search Apple has a growing interest in s…*
+       - *New Zealand launch provider Rocket Lab has put its 15th commercial payload into space, delivering ten Earth observation satellites each to their own orbit. The company is getting back into its stride after an upset in July dampened plans to set a record for l…*
       
 
 <br />
