@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+If you have a procedure with 10 parameters, you probably missed some.
 
-~ Richard Hamming
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Mathematicians stand on each others' shoulders and computer scientists stand on 
 </pre>
 <strong>Daily News</strong>
   
-  - Intel acquires SigOpt, a specialist in modeling optimization, to boost its AI business
+  - The Wanderlust Group raises $14.2M to double-down on getting folks outdoors
      <hr/>
      
-      - *Intel has been doubling down on building chips and related architecture for the next generation of computing, and today it announced an acquisition that will bolster its expertise and work specifically in one area of future technology: artificial intelligence…*
+      - *The Wanderlust Group, a Rhode Island-based startup focused on building software for the boating world, announced that it has closed a $14.2 million Series B round of capital this week. The new funds were provided by Allen & Company, Drubner Equities and Aveni…*
      
-  - Nutrium app, which links dietitians and patients, raises $4.9M led by Indico Capital
+  - Goodcover, the YC-backed insurance startup, raises $7.5 million in Series A
       <hr/>
       
-      - *Nutrium, a digital health startup which links dietitians and their patients via an app, has raised a €4.25 million Seed round led by Indico Capital Partners, alongside the the Social Innovation Fund in Portugal (SIF) and previous investors. It now offers prof…*
+      - *YC-backed Goodcover, the insurtech startup that looks to pass unused premiums back to the policyholder, is today announcing the close of a $7.5 million Series A funding round. The funding was led by Goodwater Capital, with participation from Fuel Capital, Bro…*
       
-  - VCs poured capital into European startups in Q3, but early-stage dealmaking appeared to suffer
+  - Meet the 11 startups graduating from the Entrepreneurs Roundtable Accelerator
       <hr/>
       
-      - *The global recovery in venture capital activity did not miss Europe, new data indicates. According to a PitchBook report, European venture capital activity rose in Q3 2020, putting the continent on pace to set a new yearly record for aggregate VC activity (as…*
+      - *Disruption favors the small startup, and the pandemic has most certainly been disruptive. So it’s no surprise that accelerators and incubators are pumping out new startups who are ready to tackle the problems of 2020. One such accelerator is the Entrepreneurs…*
       
-  - Supersonic aircraft startup Hermeus raises $16 million Series A
+  - SiFive’s new PC is bringing open-source computing closer to reality
       <hr/>
       
-      - *Hermeus, a company seeking to build a Mach 5 aircraft that would be capable of making the trip from New York to London in just 90 minutes has raised a $16 million Series A round, led by Canaan Partners and including contributions from existing investors Khosl…*
+      - *One of the most interesting projects to watch these days in tech is RISC-V. The non-profit organization and wider community is building an open-source and standardized instruction set architecture (ISA) that allows chip creators to design their own chips unen…*
        
-  - More chip industry action as Marvell is acquiring Inphi for $10B
+  - Spotify CEO says company will 'further expand price increases'
       <hr/>
        
-       - *It’s been quite a time for chip industry consolidation, and today Marvell joined the acquisition parade when it announced it is acquiring Inphi in a combination of stock and cash valued at approximately $10 billion, according to the company. Marvell CEO Matt …*
+       - *Spotify is planning further price increases, according to comments made by co-founder and CEO Daniel Ek during the company’s third quarter earnings on Thursday. The streaming service had added 6 million subscribers in Q3 to achieve a total 144 million paying …*
       
 
 <br />
