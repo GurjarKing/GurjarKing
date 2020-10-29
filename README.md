@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
-~ Fred Brooks
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
 </pre>
 <strong>Daily News</strong>
   
-  - Ford will reveal its all-electric Transit van in November
+  - Marriott International announces partnership with Grab in six Southeast Asian countries
      <hr/>
      
-      - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
+      - *The COVID-19 pandemic has hit the hospitality industry especially hard, and hotels around the world are looking for ways to regain revenue. Today, Marriott International and Grab announced a partnership that will cover the hospitality giant’s dining businesse…*
      
+  - Ford will reveal its all-electric Transit van in November
+      <hr/>
+      
+      - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
+      
   - Section 230 barely rates a mention in Senate's hasty pre-election flogging of tech CEOs
       <hr/>
       
@@ -73,16 +78,11 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
       <hr/>
       
       - *New Zealand launch provider Rocket Lab has put its 15th commercial payload into space, delivering ten Earth observation satellites each to their own orbit. The company is getting back into its stride after an upset in July dampened plans to set a record for l…*
-      
+       
   - Daily Crunch: Apple seems pretty interested in search
       <hr/>
-      
-      - *Apple might be building a Google competitor, Audible adds more podcasts and an ad measurement company raises $350 million. This is your Daily Crunch for October 28, 2020. The big story: Apple seems pretty interested in search Apple has a growing interest in s…*
        
-  - We need new business models to burst old media filter bubbles
-      <hr/>
-       
-       - *It’s time for us to think critically about how we can build business models that reunite information bubbles, so that people consistently get access to all sides of the story.*
+       - *Apple might be building a Google competitor, Audible adds more podcasts and an ad measurement company raises $350 million. This is your Daily Crunch for October 28, 2020. The big story: Apple seems pretty interested in search Apple has a growing interest in s…*
       
 
 <br />
