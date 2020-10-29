@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 
-~ Randall E. Stross
+~ Linus Torvalds
 <pre>
 
 </pre>
