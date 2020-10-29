@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 
-~ Tim Berners-Lee
+~ Roy Fielding
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ What's very important from my point of view is that there is one web. Anyone tha
 </pre>
 <strong>Daily News</strong>
   
-  - Trump hints at stopping "powerful" big tech in latest 'get out the vote' tweet
+  - GetYourGuide closes $133M convertible note as travel startups continue to weather the Covid-19 storm
      <hr/>
      
-      - *If there was any doubt that yesterday’s flogging of big tech CEOs by Senate republicans was anything other than an electioneering stunt, president Trump has thumped the point home by tweeting a video message to voters in which he bashes “big tech” as (maybe) …*
+      - *On the heels of Germany announcing another lockdown to try to contain the rapid rise in Covid-19 cases in the country, one of the hottest startups in its capital city is announcing the closing of a large convertible note to help it keep moving forward. GetYou…*
      
+  - ByteDance launches its first gadget in a big education push
+      <hr/>
+      
+      - *ByteDance on Thursday unveiled its first consumer hardware product, a smart light lamp with a display, that it says is part of its education technology portfolio as the Chinese internet giant continues to expand to categories beyond social video. The Dali sma…*
+      
+  - Slingshot Aerospace raises $8 million to help it expand to new verticals beyond aerospace and defense
+      <hr/>
+      
+      - *Austin and El Segundo-based Slingshot Aerospace was born out of a realization that while there is a massive amount of information collected by observation technology aboard satellites, airplanes, drones and beyond, the analytics and turnaround of said info in…*
+      
+  - Trump hints at stopping "powerful" big tech in latest 'get out the vote' tweet
+      <hr/>
+      
+      - *If there was any doubt that yesterday’s flogging of big tech CEOs by Senate republicans was anything other than an electioneering stunt, president Trump has thumped the point home by tweeting a video message to voters in which he bashes “big tech” as (maybe) …*
+       
   - Upgrade adds rewards program to its credit card
       <hr/>
-      
-      - *Fintech startup Upgrade has been quite successful with its two flagship products — a low-cost credit card and personal loans. The company is making its credit card more attractive by adding rewards. Upgrade Card consumers will earn 1.5% cash back on all purch…*
-      
-  - LinkedIn's Career Explorer helps you identify new kinds of jobs based on the skills you have
-      <hr/>
-      
-      - *One of the key side-effects of the Covid-19 pandemic has been how it has played out in the economy. There are currently 12.6 million people out of work in the U.S. alone, with estimates from the International Labour Organization noting that globally number so…*
-      
-  - Marriott International announces partnership with Grab in six Southeast Asian countries
-      <hr/>
-      
-      - *The COVID-19 pandemic has hit the hospitality industry especially hard, and hotels around the world are looking for ways to regain revenue. Today, Marriott International and Grab announced a partnership that will cover the hospitality giant’s dining businesse…*
        
-  - Ford will reveal its all-electric Transit van in November
-      <hr/>
-       
-       - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
+       - *Fintech startup Upgrade has been quite successful with its two flagship products — a low-cost credit card and personal loans. The company is making its credit card more attractive by adding rewards. Upgrade Card consumers will earn 1.5% cash back on all purch…*
       
 
 <br />
