@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 
-~ Richard Stallman
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The free software community rejects the “priesthood of technology”, which ke
 </pre>
 <strong>Daily News</strong>
   
-  - Commissary Club wants to help formerly incarcerated people find community
+  - Tech optimism...in this economy?
      <hr/>
      
-      - *Y Combinator-backed employment platform 70 Million Jobs is launching a new social network geared toward helping formerly incarcerated individuals connect with each other. While 70 Million Jobs focuses on helping people with criminal records find jobs, Commiss…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. A few notes before we get into this. One, we have a bonus episode coming this Saturday focused on this week’s e…*
      
+  - Commissary Club wants to help formerly incarcerated people find community
+      <hr/>
+      
+      - *Y Combinator-backed employment platform 70 Million Jobs is launching a new social network geared toward helping formerly incarcerated individuals connect with each other. While 70 Million Jobs focuses on helping people with criminal records find jobs, Commiss…*
+      
   - Two weeks left to score early bird savings at TC Sessions: Space 2020
       <hr/>
       
@@ -73,16 +78,11 @@ The free software community rejects the “priesthood of technology”, which ke
       <hr/>
       
       - *Workplace SaaS tools for teams have seen rocket ship growth in the past several years, and that adoption has given rise to a host of software tools geared towards improving individual productivity. Many of the startups behind these tools see building a cult f…*
-      
+       
   - India's WareIQ raises $1.65M for its Amazon-like delivery platform for sellers
       <hr/>
-      
-      - *Despite e-commerce firms Amazon and Walmart and others pouring billions of dollars in India, offline retail still commands more than 95% of all sales in the world’s second largest internet market. The giants have acknowledged the strong hold neighborhood stor…*
        
-  - Donut launches Watercooler, an easy way to socialize online with coworkers
-      <hr/>
-       
-       - *If you miss hanging out with your coworkers but don’t want to spend a single second more on Zoom, the latest product from Donut might be the answer. The startup is launching its new Watercooler product today while also announcing that it has raised $12 millio…*
+       - *Despite e-commerce firms Amazon and Walmart and others pouring billions of dollars in India, offline retail still commands more than 95% of all sales in the world’s second largest internet market. The giants have acknowledged the strong hold neighborhood stor…*
       
 
 <br />
