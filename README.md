@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 
-~ Tom DeMarco
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The very best technology never has as much impact as girlfriend or boyfriend tro
 </pre>
 <strong>Daily News</strong>
   
-  - Sinch announces Conversation API to bring together multiple messaging tools
+  - Europe to limit how big tech can push its own services and use third party data
      <hr/>
      
-      - *As communicating with customers across the world grows ever more challenging due to multiple channels, tools and networking providers, companies are looking for a way to simplify it all. Sinch, a company that makes communications APIs, announced a new tool th…*
+      - *European lawmakers are taking aim at big tech’s ability to push its own services in search results at the expense of rivals, with Commission EVP Margrethe Vestager confirming today that a legislative proposal due in a few weeks will aim to ban what she called…*
      
-  - LightDeck Diagnostics has $11 million for its new, high-speed, way to test for COVID-19, sepsis, and heart attack
+  - Honeywell announces its H1 quantum computer with 10 qubits
       <hr/>
       
-      - *LightDeck Diagnostics, a company formed earlier this year from the merger of startups mBio and Brava Diagnostics, has raised $11 million in funding for a new high-speed COVID-19 test, according to a statement. The company’s novel test uses planar wave guide t…*
+      - *Honeywell, which was a bit of a surprise entrant into the quantum computing space when it announced its efforts to build the world’s most powerful quantum computer earlier this year, today announced its newest system: the Model H1. The H1 uses trapped-ion tec…*
       
-  - Gwyneth Paltrow, Rebel Wilson, Darren Criss, and Baron Davis are backing an LA-based weed soda company
+  - Redpoint and Sequoia are backing a startup to copy edit your shit code
       <hr/>
       
-      - *Celebrity investors including Gwyneth Paltrow, Rebel Wilson, Ruby Rose, Darren Criss, Baron Davis, Tove Lo, and Casey Neistat have come together to back the Los Angeles-based thc-infused drink company, Cann, the company said. It’s the latest in a string of de…*
+      - *Code is the lifeblood of the modern world, yet the tooling for some programming environments can be remarkably spartan. While developers have long had access to graphical programming environments (IDEs) and performance profilers and debuggers, advanced produc…*
       
-  - Microsoft now lets you bring your own data types to Excel
+  - The Level Bolt and Level Touch smart locks are a cut above the competition in design and usability
       <hr/>
       
-      - *Over the course of the last few years, Microsoft started adding the concept of ‘data types’ to Excel, that is, the ability to pull in geography and real-time stock data from the cloud, for example. Thanks to its partnership with Wolfram, Excel now features ov…*
+      - *Level is one of the newer players in the smart lock space, but with a design pedigree that includes a lot of former Apple employees, the company’s already attracting a lot of praise for its industrial design. I tested out both of its current offerings, the Le…*
        
-  - GetYourGuide closes $133M convertible note as travel startups continue to weather the Covid-19 storm
+  - Juganu begins selling its tunable lighting system for pathogen disinfection and deactivation in the US
       <hr/>
        
-       - *On the heels of Germany announcing another lockdown to try to contain the rapid rise in Covid-19 cases in the country, one of the hottest startups in its capital city is announcing the closing of a large convertible note to help it keep moving forward. GetYou…*
+       - *Juganu, the venture-backed Israeli company that makes lighting systems capable of emitting light at specified wavelengths, is now selling a product that it claims can disinfect surfaces and deactivate pathogens in an attempt to provide buildings with new safe…*
       
 
 <br />
