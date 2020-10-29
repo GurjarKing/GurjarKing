@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ Linus Torvalds
+~ Fred Brooks
 <pre>
 
 </pre>
