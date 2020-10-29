@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-People under pressure don’t work better; they just work faster.
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 
-~ Tom DeMarco
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ People under pressure don’t work better; they just work faster.
 </pre>
 <strong>Daily News</strong>
   
-  - Precursor Ventures promotes Sydney Thomas, its first hire, to principal
+  - Twitter revenue rises 14%, but user growth fails to impress
      <hr/>
      
-      - *In 2019, only one Black woman was named partner in venture capital, according to All Raise, a nonprofit focused on accelerating female founders and investors. The data has shown, shows, and will continue to show how the tech industry fails to invest in underr…*
+      - *Twitter continued to see its traffic rise in the third quarter, thanks to that trifecta of returning sports, the presidential campaign and the COVID-19 pandemic. But there wasn’t quite enough growth to appease Wall Street.  Twitter beat out analyst expectatio…*
      
-  - Google brings Halloween to life using augmented reality
+  - Strong ad revenues boost Facebook past expectations as company cites ecommerce boom as tailwind
       <hr/>
       
-      - *There’s an AR ghost on Google Search. There’s a dancing skeleton, set of creepy jack-o’-lanterns, and costumed cats and dogs, too. Ahead of Halloween weekend in the U.S., Google has launched a set of fun, augmented reality-powered features on Google Search wh…*
+      - *Facebook reported its Q3 earnings today, including revenues of $21.5 billion, net income of $7.8 billion. The company earned $2.71 in per-share profit during the three month period. Analysts had expected Facebook, the social giant, to earn a much-smaller $1.9…*
       
-  - In the 'buy now, pay later' wars, PayPal is primed for dominance
+  - Why Apple's Q4 earnings look different this year
       <hr/>
       
-      - *Stephen Milbank Contributor Share on Twitter Stephen Milbank is the co-founder and Head of Global Strategic Partnerships at Button, a mobile commerce technology company that is powering a commerce-driven internet. The COVID-19 pandemic has already dramaticall…*
+      - *On Thursday, Apple delivered a Q4 earnings beat but the stock slid anyway as wary investors saw worse than expected iPhone revenues. At the time of writing, stock was down around 5% in after-hours trading. It was a mild beat, with Apple posting $64.7 billion …*
       
-  - Tech optimism...in this economy?
+  - Amazon crushes Q3 expectations, but AWS growth slowed to 29%
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. A few notes before we get into this. One, we have a bonus episode coming this Saturday focused on this week’s e…*
+      - *Amazon has continued to reap the rewards of a society increasingly dependent on ecommerce — a trend further fueled by the COVID-19 pandemic. The company crushed analyst expectations Thursday, reporting net income of $6.3 billion in the third quarter, or $12.3…*
        
-  - Commissary Club wants to help formerly incarcerated people find community
+  - Comcast says Peacock has nearly 22M sign-ups
       <hr/>
        
-       - *Y Combinator-backed employment platform 70 Million Jobs is launching a new social network geared toward helping formerly incarcerated individuals connect with each other. While 70 Million Jobs focuses on helping people with criminal records find jobs, Commiss…*
+       - *Comcast’s latest earnings report includes some official user numbers for Peacock, the new streaming service from Comcast-owned NBCUniversal. Specifically, Comcast says that Peacock has received nearly 22 million sign-ups since it launched in July, and that it…*
       
 
 <br />
