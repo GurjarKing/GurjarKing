@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
 
-~ Richard Stallman
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I figure that since proprietary software developers use copyright to stop us fro
 </pre>
 <strong>Daily News</strong>
   
-  - LinkedIn's Career Explorer helps you identify new kinds of jobs based on the skills you have
+  - Upgrade adds rewards program to its credit card
      <hr/>
      
-      - *One of the key side-effects of the Covid-19 pandemic has been how it has played out in the economy. There are currently 12.6 million people out of work in the U.S. alone, with estimates from the International Labour Organization noting that globally number so…*
+      - *Fintech startup Upgrade has been quite successful with its two flagship products — a low-cost credit card and personal loans. The company is making its credit card more attractive by adding rewards. Upgrade Card consumers will earn 1.5% cash back on all purch…*
      
+  - LinkedIn's Career Explorer helps you identify new kinds of jobs based on the skills you have
+      <hr/>
+      
+      - *One of the key side-effects of the Covid-19 pandemic has been how it has played out in the economy. There are currently 12.6 million people out of work in the U.S. alone, with estimates from the International Labour Organization noting that globally number so…*
+      
   - Marriott International announces partnership with Grab in six Southeast Asian countries
       <hr/>
       
@@ -73,16 +78,11 @@ I figure that since proprietary software developers use copyright to stop us fro
       <hr/>
       
       - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
-      
+       
   - Section 230 barely rates a mention in Senate's hasty pre-election flogging of tech CEOs
       <hr/>
-      
-      - *Today’s Senate hearing on immensely important legal protections for online platforms quickly proved to be little more than an excuse for Senators to accuse the CEOs of Twitter, Facebook and Google of partisan interference with next week’s election. The actual…*
        
-  - Rocket Lab successfully launches 10 Earth observation satellites in 15th commercial mission
-      <hr/>
-       
-       - *New Zealand launch provider Rocket Lab has put its 15th commercial payload into space, delivering ten Earth observation satellites each to their own orbit. The company is getting back into its stride after an upset in July dampened plans to set a record for l…*
+       - *Today’s Senate hearing on immensely important legal protections for online platforms quickly proved to be little more than an excuse for Senators to accuse the CEOs of Twitter, Facebook and Google of partisan interference with next week’s election. The actual…*
       
 
 <br />
