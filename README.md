@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+People under pressure don’t work better; they just work faster.
 
-~ Danny Hillis
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ With the right programming, a computer can become a theater, a musical instrumen
 </pre>
 <strong>Daily News</strong>
   
-  - Tech optimism...in this economy?
+  - Precursor Ventures promotes Sydney Thomas, its first hire, to principal
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. A few notes before we get into this. One, we have a bonus episode coming this Saturday focused on this week’s e…*
+      - *In 2019, only one Black woman was named partner in venture capital, according to All Raise, a nonprofit focused on accelerating female founders and investors. The data has shown, shows, and will continue to show how the tech industry fails to invest in underr…*
      
+  - Google brings Halloween to life using augmented reality
+      <hr/>
+      
+      - *There’s an AR ghost on Google Search. There’s a dancing skeleton, set of creepy jack-o’-lanterns, and costumed cats and dogs, too. Ahead of Halloween weekend in the U.S., Google has launched a set of fun, augmented reality-powered features on Google Search wh…*
+      
+  - In the 'buy now, pay later' wars, PayPal is primed for dominance
+      <hr/>
+      
+      - *Stephen Milbank Contributor Share on Twitter Stephen Milbank is the co-founder and Head of Global Strategic Partnerships at Button, a mobile commerce technology company that is powering a commerce-driven internet. The COVID-19 pandemic has already dramaticall…*
+      
+  - Tech optimism...in this economy?
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. A few notes before we get into this. One, we have a bonus episode coming this Saturday focused on this week’s e…*
+       
   - Commissary Club wants to help formerly incarcerated people find community
       <hr/>
-      
-      - *Y Combinator-backed employment platform 70 Million Jobs is launching a new social network geared toward helping formerly incarcerated individuals connect with each other. While 70 Million Jobs focuses on helping people with criminal records find jobs, Commiss…*
-      
-  - Two weeks left to score early bird savings at TC Sessions: Space 2020
-      <hr/>
-      
-      - *NASA just made history by landing a spacecraft on an asteroid. If that kind of technical achievement carbonates your glass of Tang, join us on December 16-17 for TC Sessions: Space 2020, an event dedicated to early-stage space startups. We’ve launched early-b…*
-      
-  - Developer productivity tools startup Raycast raises $2.7M from Accel
-      <hr/>
-      
-      - *Workplace SaaS tools for teams have seen rocket ship growth in the past several years, and that adoption has given rise to a host of software tools geared towards improving individual productivity. Many of the startups behind these tools see building a cult f…*
        
-  - India's WareIQ raises $1.65M for its Amazon-like delivery platform for sellers
-      <hr/>
-       
-       - *Despite e-commerce firms Amazon and Walmart and others pouring billions of dollars in India, offline retail still commands more than 95% of all sales in the world’s second largest internet market. The giants have acknowledged the strong hold neighborhood stor…*
+       - *Y Combinator-backed employment platform 70 Million Jobs is launching a new social network geared toward helping formerly incarcerated individuals connect with each other. While 70 Million Jobs focuses on helping people with criminal records find jobs, Commiss…*
       
 
 <br />
