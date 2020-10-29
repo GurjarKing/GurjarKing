@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
 
-~ Fred Brooks
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Study after study shows that the very best designers produce structures that are
 </pre>
 <strong>Daily News</strong>
   
-  - Donut launches Watercooler, an easy way to socialize online with coworkers
+  - Commissary Club wants to help formerly incarcerated people find community
      <hr/>
      
-      - *If you miss hanging out with your coworkers but don’t want to spend a single second more on Zoom, the latest product from Donut might be the answer. The startup is launching its new Watercooler product today while also announcing that it has raised $12 millio…*
+      - *Y Combinator-backed employment platform 70 Million Jobs is launching a new social network geared toward helping formerly incarcerated individuals connect with each other. While 70 Million Jobs focuses on helping people with criminal records find jobs, Commiss…*
      
-  - One-click housing startup Atmos raises another $4M from Khosla, real estate strategics, and TikTok star Josh Richards
+  - Two weeks left to score early bird savings at TC Sessions: Space 2020
       <hr/>
       
-      - *Atmos wants to make designing a house as simple as a single click. Well, that vision is now getting a double click from VCs. The company, which we profiled back in July, announced today that it raised another $4 million, this time from Evan Moore at Khosla Ve…*
+      - *NASA just made history by landing a spacecraft on an asteroid. If that kind of technical achievement carbonates your glass of Tang, join us on December 16-17 for TC Sessions: Space 2020, an event dedicated to early-stage space startups. We’ve launched early-b…*
       
-  - The Wanderlust Group raises $14.2M to double-down on getting folks outdoors
+  - Developer productivity tools startup Raycast raises $2.7M from Accel
       <hr/>
       
-      - *The Wanderlust Group, a Rhode Island-based startup focused on building software for the boating world, announced that it has closed a $14.2 million Series B round of capital this week. The new funds were provided by Allen & Company, Drubner Equities and Aveni…*
+      - *Workplace SaaS tools for teams have seen rocket ship growth in the past several years, and that adoption has given rise to a host of software tools geared towards improving individual productivity. Many of the startups behind these tools see building a cult f…*
       
-  - Goodcover, the YC-backed insurance startup, raises $7.5 million in Series A
+  - India's WareIQ raises $1.65M for its Amazon-like delivery platform for sellers
       <hr/>
       
-      - *YC-backed Goodcover, the insurtech startup that looks to pass unused premiums back to the policyholder, is today announcing the close of a $7.5 million Series A funding round. The funding was led by Goodwater Capital, with participation from Fuel Capital, Bro…*
+      - *Despite e-commerce firms Amazon and Walmart and others pouring billions of dollars in India, offline retail still commands more than 95% of all sales in the world’s second largest internet market. The giants have acknowledged the strong hold neighborhood stor…*
        
-  - Meet the 11 startups graduating from the Entrepreneurs Roundtable Accelerator
+  - Donut launches Watercooler, an easy way to socialize online with coworkers
       <hr/>
        
-       - *Disruption favors the small startup, and the pandemic has most certainly been disruptive. So it’s no surprise that accelerators and incubators are pumping out new startups who are ready to tackle the problems of 2020. One such accelerator is the Entrepreneurs…*
+       - *If you miss hanging out with your coworkers but don’t want to spend a single second more on Zoom, the latest product from Donut might be the answer. The startup is launching its new Watercooler product today while also announcing that it has raised $12 millio…*
       
 
 <br />
