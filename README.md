@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 
-~ Daniel T. Barry
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Thoroughly testing a program is impossible (requires unbounded number of test ca
 </pre>
 <strong>Daily News</strong>
   
-  - Upgrade adds rewards program to its credit card
+  - Trump hints at stopping "powerful" big tech in latest 'get out the vote' tweet
      <hr/>
      
-      - *Fintech startup Upgrade has been quite successful with its two flagship products — a low-cost credit card and personal loans. The company is making its credit card more attractive by adding rewards. Upgrade Card consumers will earn 1.5% cash back on all purch…*
+      - *If there was any doubt that yesterday’s flogging of big tech CEOs by Senate republicans was anything other than an electioneering stunt, president Trump has thumped the point home by tweeting a video message to voters in which he bashes “big tech” as (maybe) …*
      
+  - Upgrade adds rewards program to its credit card
+      <hr/>
+      
+      - *Fintech startup Upgrade has been quite successful with its two flagship products — a low-cost credit card and personal loans. The company is making its credit card more attractive by adding rewards. Upgrade Card consumers will earn 1.5% cash back on all purch…*
+      
   - LinkedIn's Career Explorer helps you identify new kinds of jobs based on the skills you have
       <hr/>
       
@@ -73,16 +78,11 @@ Thoroughly testing a program is impossible (requires unbounded number of test ca
       <hr/>
       
       - *The COVID-19 pandemic has hit the hospitality industry especially hard, and hotels around the world are looking for ways to regain revenue. Today, Marriott International and Grab announced a partnership that will cover the hospitality giant’s dining businesse…*
-      
+       
   - Ford will reveal its all-electric Transit van in November
       <hr/>
-      
-      - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
        
-  - Section 230 barely rates a mention in Senate's hasty pre-election flogging of tech CEOs
-      <hr/>
-       
-       - *Today’s Senate hearing on immensely important legal protections for online platforms quickly proved to be little more than an excuse for Senators to accuse the CEOs of Twitter, Facebook and Google of partisan interference with next week’s election. The actual…*
+       - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
       
 
 <br />
