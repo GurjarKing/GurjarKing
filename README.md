@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Before software can be reusable it first has to be usable.
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 
-~ Ralph Johnson (computer scientist)
+~ Jim Horning
 <pre>
 
 </pre>
