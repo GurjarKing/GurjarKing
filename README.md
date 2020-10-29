@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
-~ George Boole
+~ Richard Stallman
 <pre>
 
 </pre>
