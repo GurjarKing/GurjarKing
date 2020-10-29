@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
 
-~ Roy Fielding
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Communication must be stateless in nature, such that each request from client to
 </pre>
 <strong>Daily News</strong>
   
-  - GetYourGuide closes $133M convertible note as travel startups continue to weather the Covid-19 storm
+  - Sinch announces Conversation API to bring together multiple messaging tools
      <hr/>
      
-      - *On the heels of Germany announcing another lockdown to try to contain the rapid rise in Covid-19 cases in the country, one of the hottest startups in its capital city is announcing the closing of a large convertible note to help it keep moving forward. GetYou…*
+      - *As communicating with customers across the world grows ever more challenging due to multiple channels, tools and networking providers, companies are looking for a way to simplify it all. Sinch, a company that makes communications APIs, announced a new tool th…*
      
-  - ByteDance launches its first gadget in a big education push
+  - LightDeck Diagnostics has $11 million for its new, high-speed, way to test for COVID-19, sepsis, and heart attack
       <hr/>
       
-      - *ByteDance on Thursday unveiled its first consumer hardware product, a smart light lamp with a display, that it says is part of its education technology portfolio as the Chinese internet giant continues to expand to categories beyond social video. The Dali sma…*
+      - *LightDeck Diagnostics, a company formed earlier this year from the merger of startups mBio and Brava Diagnostics, has raised $11 million in funding for a new high-speed COVID-19 test, according to a statement. The company’s novel test uses planar wave guide t…*
       
-  - Slingshot Aerospace raises $8 million to help it expand to new verticals beyond aerospace and defense
+  - Gwyneth Paltrow, Rebel Wilson, Darren Criss, and Baron Davis are backing an LA-based weed soda company
       <hr/>
       
-      - *Austin and El Segundo-based Slingshot Aerospace was born out of a realization that while there is a massive amount of information collected by observation technology aboard satellites, airplanes, drones and beyond, the analytics and turnaround of said info in…*
+      - *Celebrity investors including Gwyneth Paltrow, Rebel Wilson, Ruby Rose, Darren Criss, Baron Davis, Tove Lo, and Casey Neistat have come together to back the Los Angeles-based thc-infused drink company, Cann, the company said. It’s the latest in a string of de…*
       
-  - Trump hints at stopping "powerful" big tech in latest 'get out the vote' tweet
+  - Microsoft now lets you bring your own data types to Excel
       <hr/>
       
-      - *If there was any doubt that yesterday’s flogging of big tech CEOs by Senate republicans was anything other than an electioneering stunt, president Trump has thumped the point home by tweeting a video message to voters in which he bashes “big tech” as (maybe) …*
+      - *Over the course of the last few years, Microsoft started adding the concept of ‘data types’ to Excel, that is, the ability to pull in geography and real-time stock data from the cloud, for example. Thanks to its partnership with Wolfram, Excel now features ov…*
        
-  - Upgrade adds rewards program to its credit card
+  - GetYourGuide closes $133M convertible note as travel startups continue to weather the Covid-19 storm
       <hr/>
        
-       - *Fintech startup Upgrade has been quite successful with its two flagship products — a low-cost credit card and personal loans. The company is making its credit card more attractive by adding rewards. Upgrade Card consumers will earn 1.5% cash back on all purch…*
+       - *On the heels of Germany announcing another lockdown to try to contain the rapid rise in Covid-19 cases in the country, one of the hottest startups in its capital city is announcing the closing of a large convertible note to help it keep moving forward. GetYou…*
       
 
 <br />
