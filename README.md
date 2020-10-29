@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 
-~ Donald Knuth
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
 </pre>
 <strong>Daily News</strong>
   
-  - Europe to limit how big tech can push its own services and use third party data
+  - Intel acquires SigOpt, a specialist in modeling optimization, to boost its AI business
      <hr/>
      
-      - *European lawmakers are taking aim at big tech’s ability to push its own services in search results at the expense of rivals, with Commission EVP Margrethe Vestager confirming today that a legislative proposal due in a few weeks will aim to ban what she called…*
+      - *Intel has been doubling down on building chips and related architecture for the next generation of computing, and today it announced an acquisition that will bolster its expertise and work specifically in one area of future technology: artificial intelligence…*
      
-  - Honeywell announces its H1 quantum computer with 10 qubits
+  - Nutrium app, which links dietitians and patients, raises $4.9M led by Indico Capital
       <hr/>
       
-      - *Honeywell, which was a bit of a surprise entrant into the quantum computing space when it announced its efforts to build the world’s most powerful quantum computer earlier this year, today announced its newest system: the Model H1. The H1 uses trapped-ion tec…*
+      - *Nutrium, a digital health startup which links dietitians and their patients via an app, has raised a €4.25 million Seed round led by Indico Capital Partners, alongside the the Social Innovation Fund in Portugal (SIF) and previous investors. It now offers prof…*
       
-  - Redpoint and Sequoia are backing a startup to copy edit your shit code
+  - VCs poured capital into European startups in Q3, but early-stage dealmaking appeared to suffer
       <hr/>
       
-      - *Code is the lifeblood of the modern world, yet the tooling for some programming environments can be remarkably spartan. While developers have long had access to graphical programming environments (IDEs) and performance profilers and debuggers, advanced produc…*
+      - *The global recovery in venture capital activity did not miss Europe, new data indicates. According to a PitchBook report, European venture capital activity rose in Q3 2020, putting the continent on pace to set a new yearly record for aggregate VC activity (as…*
       
-  - The Level Bolt and Level Touch smart locks are a cut above the competition in design and usability
+  - Supersonic aircraft startup Hermeus raises $16 million Series A
       <hr/>
       
-      - *Level is one of the newer players in the smart lock space, but with a design pedigree that includes a lot of former Apple employees, the company’s already attracting a lot of praise for its industrial design. I tested out both of its current offerings, the Le…*
+      - *Hermeus, a company seeking to build a Mach 5 aircraft that would be capable of making the trip from New York to London in just 90 minutes has raised a $16 million Series A round, led by Canaan Partners and including contributions from existing investors Khosl…*
        
-  - Juganu begins selling its tunable lighting system for pathogen disinfection and deactivation in the US
+  - More chip industry action as Marvell is acquiring Inphi for $10B
       <hr/>
        
-       - *Juganu, the venture-backed Israeli company that makes lighting systems capable of emitting light at specified wavelengths, is now selling a product that it claims can disinfect surfaces and deactivate pathogens in an attempt to provide buildings with new safe…*
+       - *It’s been quite a time for chip industry consolidation, and today Marvell joined the acquisition parade when it announced it is acquiring Inphi in a combination of stock and cash valued at approximately $10 billion, according to the company. Marvell CEO Matt …*
       
 
 <br />
