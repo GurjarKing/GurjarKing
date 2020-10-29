@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 
-~ Alan Perlis
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If you have a procedure with 10 parameters, you probably missed some.
 </pre>
 <strong>Daily News</strong>
   
-  - The Wanderlust Group raises $14.2M to double-down on getting folks outdoors
+  - Donut launches Watercooler, an easy way to socialize online with coworkers
      <hr/>
      
-      - *The Wanderlust Group, a Rhode Island-based startup focused on building software for the boating world, announced that it has closed a $14.2 million Series B round of capital this week. The new funds were provided by Allen & Company, Drubner Equities and Aveni…*
+      - *If you miss hanging out with your coworkers but don’t want to spend a single second more on Zoom, the latest product from Donut might be the answer. The startup is launching its new Watercooler product today while also announcing that it has raised $12 millio…*
      
+  - One-click housing startup Atmos raises another $4M from Khosla, real estate strategics, and TikTok star Josh Richards
+      <hr/>
+      
+      - *Atmos wants to make designing a house as simple as a single click. Well, that vision is now getting a double click from VCs. The company, which we profiled back in July, announced today that it raised another $4 million, this time from Evan Moore at Khosla Ve…*
+      
+  - The Wanderlust Group raises $14.2M to double-down on getting folks outdoors
+      <hr/>
+      
+      - *The Wanderlust Group, a Rhode Island-based startup focused on building software for the boating world, announced that it has closed a $14.2 million Series B round of capital this week. The new funds were provided by Allen & Company, Drubner Equities and Aveni…*
+      
   - Goodcover, the YC-backed insurance startup, raises $7.5 million in Series A
       <hr/>
       
       - *YC-backed Goodcover, the insurtech startup that looks to pass unused premiums back to the policyholder, is today announcing the close of a $7.5 million Series A funding round. The funding was led by Goodwater Capital, with participation from Fuel Capital, Bro…*
-      
+       
   - Meet the 11 startups graduating from the Entrepreneurs Roundtable Accelerator
       <hr/>
-      
-      - *Disruption favors the small startup, and the pandemic has most certainly been disruptive. So it’s no surprise that accelerators and incubators are pumping out new startups who are ready to tackle the problems of 2020. One such accelerator is the Entrepreneurs…*
-      
-  - SiFive’s new PC is bringing open-source computing closer to reality
-      <hr/>
-      
-      - *One of the most interesting projects to watch these days in tech is RISC-V. The non-profit organization and wider community is building an open-source and standardized instruction set architecture (ISA) that allows chip creators to design their own chips unen…*
        
-  - Spotify CEO says company will 'further expand price increases'
-      <hr/>
-       
-       - *Spotify is planning further price increases, according to comments made by co-founder and CEO Daniel Ek during the company’s third quarter earnings on Thursday. The streaming service had added 6 million subscribers in Q3 to achieve a total 144 million paying …*
+       - *Disruption favors the small startup, and the pandemic has most certainly been disruptive. So it’s no surprise that accelerators and incubators are pumping out new startups who are ready to tackle the problems of 2020. One such accelerator is the Entrepreneurs…*
       
 
 <br />
