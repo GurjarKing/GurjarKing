@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-AI is a fundamental risk to the existence of human civilization.
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 
-~ Elon Musk
+~ William Wulf
 <pre>
 
 </pre>
