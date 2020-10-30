@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ William Wulf
+~ Alan Turing
 <pre>
 
 </pre>
