@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
+In man-machine symbiosis, it is man who must adjust: The machines can't.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The first false assumption that underlies the scheduling of systems programming 
 </pre>
 <strong>Daily News</strong>
   
-  - iPhones can now tell blind users where and how far away people are
+  - Daily Crunch: Under Armour is selling MyFitnessPal
      <hr/>
      
-      - *Apple has packed an interesting new accessibility feature into the latest beta of iOS: a system that detects the presence of and distance to people in the view of the iPhone’s camera, so blind users can social distance effectively, among many other things. Th…*
+      - *Under Armour gives up on one of its big acquisitions, Uber Eats faces complaints over its free delivery policy for Black restaurants and Facebook takes another step to limit QAnon-related content. This is your Daily Crunch for October 30, 2020. The big story:…*
      
+  - iPhones can now tell blind users where and how far away people are
+      <hr/>
+      
+      - *Apple has packed an interesting new accessibility feature into the latest beta of iOS: a system that detects the presence of and distance to people in the view of the iPhone’s camera, so blind users can social distance effectively, among many other things. Th…*
+      
   - Q3 earnings find Apple and Google looking to the future for hardware rebounds
       <hr/>
       
@@ -73,16 +78,11 @@ The first false assumption that underlies the scheduling of systems programming 
       <hr/>
       
       - *The bug affects at least Windows 7 and Windows 10.*
-      
+       
   - Facebook hits pause on algorithmic recommendations for political and social issue groups
       <hr/>
-      
-      - *With just days to go before the U.S. election, Facebook quietly suspended one of its most worrisome features. During Wednesday’s Senate hearing Senator Ed Markey asked Facebook CEO Mark Zuckerberg about reports that his company has long known its group recomm…*
        
-  - Dear Sophie: Would a Trump win abolish the H-1B visa lottery?
-      <hr/>
-       
-       - *Proposed changes to the H-1B lottery are expected to be published in the Federal Register next week and DHS will accept comments from the public on this proposal for 30 days after that.*
+       - *With just days to go before the U.S. election, Facebook quietly suspended one of its most worrisome features. During Wednesday’s Senate hearing Senator Ed Markey asked Facebook CEO Mark Zuckerberg about reports that his company has long known its group recomm…*
       
 
 <br />
