@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
 
-~ Bill Gates
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ There is an amazing commonality in the types of difficulties you run into. In de
 </pre>
 <strong>Daily News</strong>
   
-  - Q3 earnings find Apple and Google looking to the future for hardware rebounds
+  - iPhones can now tell blind users where and how far away people are
      <hr/>
      
-      - *“5G is a once-in-a-decade kind of opportunity,” Tim Cook told the media during the Q&A portion of Apple’s Q3 earnings call. “And we could not be more excited to hit the market exactly when we did.” The truth of the matter is its timing was a mixed bag. Apple …*
+      - *Apple has packed an interesting new accessibility feature into the latest beta of iOS: a system that detects the presence of and distance to people in the view of the iPhone’s camera, so blind users can social distance effectively, among many other things. Th…*
      
+  - Q3 earnings find Apple and Google looking to the future for hardware rebounds
+      <hr/>
+      
+      - *“5G is a once-in-a-decade kind of opportunity,” Tim Cook told the media during the Q&A portion of Apple’s Q3 earnings call. “And we could not be more excited to hit the market exactly when we did.” The truth of the matter is its timing was a mixed bag. Apple …*
+      
   - Google reveals a new Windows zero-day bug it says is under active attack
       <hr/>
       
@@ -73,16 +78,11 @@ There is an amazing commonality in the types of difficulties you run into. In de
       <hr/>
       
       - *With just days to go before the U.S. election, Facebook quietly suspended one of its most worrisome features. During Wednesday’s Senate hearing Senator Ed Markey asked Facebook CEO Mark Zuckerberg about reports that his company has long known its group recomm…*
-      
+       
   - Dear Sophie: Would a Trump win abolish the H-1B visa lottery?
       <hr/>
-      
-      - *Proposed changes to the H-1B lottery are expected to be published in the Federal Register next week and DHS will accept comments from the public on this proposal for 30 days after that.*
        
-  - Join Greylock’s Asheem Chandna on November 5 at noon PST/3 pm EST/8 pm GMT to discuss the future of enterprise and cybersecurity investing
-      <hr/>
-       
-       - *The world of enterprise software and cybersecurity has taken multiple body blows since COVID-19 demolished the in-person office, flinging employees across the world and forcing companies to adapt to an all-remote productivity model. The shift has required com…*
+       - *Proposed changes to the H-1B lottery are expected to be published in the Federal Register next week and DHS will accept comments from the public on this proposal for 30 days after that.*
       
 
 <br />
