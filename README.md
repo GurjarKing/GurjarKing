@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-A beautiful program is like a beautiful theorem: It does the job elegantly.
+Everything should be made as simple as possible. But to do that you have to master complexity.
 
 ~ Butler Lampson
 <pre>
