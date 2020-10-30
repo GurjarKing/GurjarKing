@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Cleaning code does NOT take time. NOT cleaning code does take time.
+I'm not a great programmer; I'm just a good programmer with great habits.
 
-~ Robert C. Martin
+~ Kent Beck
 <pre>
 
 </pre>
