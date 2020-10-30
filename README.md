@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A stupid error is an algorithmically avoidable error. Mainly, you are stupid if 
 </pre>
 <strong>Daily News</strong>
   
-  - B8ta remains bullish on IRL shopping with new acquisition
+  - Teampay adds $5M to its Series A at higher valuation after growing ARR 320% growth since the round
      <hr/>
      
-      - *Coronavirus cases in the United States are reaching new peaks. E-commerce is continuing to boom. And B8ta, a San Francisco startup which is betting on the future of physical retailers, is doubling down on its in-person footprint. B8ta offers shelf space to un…*
+      - *What do you call the grey area between a Series A and a Series B? In 2020, when the money is taken on opportunistically, you call it a Series A-1 extension, according to Teampay. Even if the new capital was raised at a new, higher valuation. At least that’s w…*
      
-  - Is the Great 2020 Tech Rally slowing?
+  - Passion Capital backs UK fertility workplace benefits provider, Fertifa
       <hr/>
       
-      - *Yesterday’s earnings deluge made plain that tech shares are not rocketing higher as 2020 comes to a close. Indeed, in pre-market trading this morning, Microsoft, Apple, Facebook and Amazon are all down. Alphabet is the only member of the Big Five that is wort…*
+      - *UK-based Fertifa has bagged a £1 million (~$1.3M) seed to plug into a fertility-focused workplace benefits platform. Passion Capital is investing in the round, along with some unnamed strategic angel investors. The August 2019-founded startup sells bespoke re…*
       
-  - NowThis partners with Calm to offer a soothing Election Day livestream
+  - Reliance Jio Platforms tops 400M subscribers, explores expanding services outside of India
       <hr/>
       
-      - *Mobile news organization NowThis is announcing a bit of counter-programming for next week’s presidential election — it’s partnering with meditation app Calm to create a livestream for anyone who needs relief from stress of Election Day news. Not that NowThis …*
+      - *Reliance Jio Platforms, the telecom venture run by India’s richest man (Mukesh Ambani), had 405.6 million subscribers in the quarter that ended in September, becoming the first operator outside of China to cross 400 million subscribers in a single country mar…*
       
-  - Smartphone shipments dip in China for Q3, led by Huawei decline
+  - Space investors will see into the future at TechCrunch Sessions: Space
       <hr/>
       
-      - *China was the first major global smartphone markets to rebound from the early days of the COVID-19 pandemic. Stringent lockdown measures were able to help the country recover from the virus relatively quickly during the first wave, as sales started to return …*
+      - *If the projections are to be believed, the amount of money swirling around the space industry is poised to grow considerably over the next decade. Consider that the aviation giant Boeing estimates that the aerospace market will reach $3 trillion in market siz…*
        
-  - Illinois is taking a data-driven approach to its mask-wearing ad campaign
+  - Cloud infrastructure revenue grows 33% this quarter to almost $33B
       <hr/>
        
-       - *Here’s an example of ad targeting that’s actually good for public health: In a campaign encouraging people to wear masks, the Illinois state government has been focusing its digital ad dollars on the counties with highest COVID risk. To achieve this, the gove…*
+       - *The cloud infrastructure market kept growing at a brisk pace last quarter, as the pandemic continued to push more companies to the cloud with offices shut down in much of the world. This week the big three — Amazon, Microsoft and Google — all reported their n…*
       
 
 <br />
