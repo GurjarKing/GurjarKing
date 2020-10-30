@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Everything should be made as simple as possible. But to do that you have to master complexity.
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
-~ Butler Lampson
+~ Brian Kernighan
 <pre>
 
 </pre>
