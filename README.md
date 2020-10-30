@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
 
-~ Alan Turing
+~ Kevlin Henney
 <pre>
 
 </pre>
