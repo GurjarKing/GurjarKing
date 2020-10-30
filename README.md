@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you think it's simple, then you have misunderstood the problem.
+We need to be super careful with AI. Potentially more dangerous than nukes.
 
-~ Bjarne Stroustrup
+~ Elon Musk
 <pre>
 
 </pre>
