@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+Less code equals less bugs.
 
-~ Gerald Weinberg
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When program developers are not territorial about their code and encourage other
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook is limiting distribution of ‘save our children’ hashtag over QAnon ties
+  - The scooter battle for New York City is on
      <hr/>
      
-      - *Facebook today confirmed that it will be limiting the distribution of the hashtag “save our children.” Over the past several months, the phrase — and ones like it — have become associated with QAnon. These terms have served to provide a kind of innocuous cove…*
+      - *New York City, one of the most coveted shared micromobility markets in the industry, has released its request for interest in its electric scooter pilot, officially kicking off what promises to be a competitive battle among companies vying for a chance to ope…*
      
-  - New GV partner Terri Burns has a simple investment thesis: Gen Z
+  - Logistics and truck rental giant Ryder joins the businesses making the jump into venture capital in 2020
       <hr/>
       
-      - *In 2015, then-Twitter product manager Terri Burns penned a piece about staying optimistic despite the sexism and racism that exists expansively within tech. “America has broke my heart countless times, but I believe that technology can be a tool to mend some …*
+      - *While the launch of a $50 million venture capital fund by the shipping, logistics, and truck rental company Ryder System may have seemed like an odd strategic move, it’s actually the culmination of roughly three years of investment activity from the Florida-b…*
       
-  - Teachers are leaving schools. Will they come to startups next?
+  - Nestlé acquires healthy meal startup Freshly for up to $1.5B
       <hr/>
       
-      - *It wasn’t the lingering exhaustion that made Christine Huang, a New York public school teacher, leave the profession. Or the low pay. Or the fact that she rarely had time to spend with her kids after the school day due to workload demands. Instead, Huang left…*
+      - *Nestlé USA just announced that it has acquired Freshly for $1.5 billion — $950 million plus potential earnouts of up to $550 million based on future growth. Founded in 2015, Freshly is a New York City-based startup that offers healthy meals delivered to your …*
       
-  - E.ventures opens up new office in Paris
+  - Big tech's 'blackbox' algorithms face regulatory oversight under EU plan
       <hr/>
       
-      - *VC firm e.ventures is expanding its footprint in Europe with a new office in Paris as well as a new Paris-based partner. Jonathan Userovici, who previously worked for Idinvest Partners, is joining e.ventures as partner and head of Paris office. Originally fou…*
+      - *Major Internet platforms will be required to open up their algorithms to regulatory oversight under proposals European lawmakers are set to introduce next month. In a speech today Commission EVP Margrethe Vestager suggested algorithmic accountability will be …*
        
-  - Daimler invests in lidar company Luminar in push to bring autonomous trucks to highways
+  - Facebook is limiting distribution of ‘save our children’ hashtag over QAnon ties
       <hr/>
        
-       - *Daimler’s trucks division has invested in lidar developer Luminar as part of a broader partnership to produce autonomous trucks capable of navigating highways without a human driver behind the wheel. The deal, which comes just days after Daimler and Waymo ann…*
+       - *Facebook today confirmed that it will be limiting the distribution of the hashtag “save our children.” Over the past several months, the phrase — and ones like it — have become associated with QAnon. These terms have served to provide a kind of innocuous cove…*
       
 
 <br />
