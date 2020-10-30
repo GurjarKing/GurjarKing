@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The more code you have, the more places there are for bugs to hide.
+A beautiful program is like a beautiful theorem: It does the job elegantly.
 
-~ Rich Skrenta
+~ Butler Lampson
 <pre>
 
 </pre>
