@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We need to be super careful with AI. Potentially more dangerous than nukes.
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 
-~ Elon Musk
+~ Bill Gates
 <pre>
 
 </pre>
