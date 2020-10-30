@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Less code equals less bugs.
+There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
 
-~ Kevlin Henney
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Less code equals less bugs.
 </pre>
 <strong>Daily News</strong>
   
-  - The scooter battle for New York City is on
+  - Q3 earnings find Apple and Google looking to the future for hardware rebounds
      <hr/>
      
-      - *New York City, one of the most coveted shared micromobility markets in the industry, has released its request for interest in its electric scooter pilot, officially kicking off what promises to be a competitive battle among companies vying for a chance to ope…*
+      - *“5G is a once-in-a-decade kind of opportunity,” Tim Cook told the media during the Q&A portion of Apple’s Q3 earnings call. “And we could not be more excited to hit the market exactly when we did.” The truth of the matter is its timing was a mixed bag. Apple …*
      
-  - Logistics and truck rental giant Ryder joins the businesses making the jump into venture capital in 2020
+  - Google reveals a new Windows zero-day bug it says is under active attack
       <hr/>
       
-      - *While the launch of a $50 million venture capital fund by the shipping, logistics, and truck rental company Ryder System may have seemed like an odd strategic move, it’s actually the culmination of roughly three years of investment activity from the Florida-b…*
+      - *The bug affects at least Windows 7 and Windows 10.*
       
-  - Nestlé acquires healthy meal startup Freshly for up to $1.5B
+  - Facebook hits pause on algorithmic recommendations for political and social issue groups
       <hr/>
       
-      - *Nestlé USA just announced that it has acquired Freshly for $1.5 billion — $950 million plus potential earnouts of up to $550 million based on future growth. Founded in 2015, Freshly is a New York City-based startup that offers healthy meals delivered to your …*
+      - *With just days to go before the U.S. election, Facebook quietly suspended one of its most worrisome features. During Wednesday’s Senate hearing Senator Ed Markey asked Facebook CEO Mark Zuckerberg about reports that his company has long known its group recomm…*
       
-  - Big tech's 'blackbox' algorithms face regulatory oversight under EU plan
+  - Dear Sophie: Would a Trump win abolish the H-1B visa lottery?
       <hr/>
       
-      - *Major Internet platforms will be required to open up their algorithms to regulatory oversight under proposals European lawmakers are set to introduce next month. In a speech today Commission EVP Margrethe Vestager suggested algorithmic accountability will be …*
+      - *Proposed changes to the H-1B lottery are expected to be published in the Federal Register next week and DHS will accept comments from the public on this proposal for 30 days after that.*
        
-  - Facebook is limiting distribution of ‘save our children’ hashtag over QAnon ties
+  - Join Greylock’s Asheem Chandna on November 5 at noon PST/3 pm EST/8 pm GMT to discuss the future of enterprise and cybersecurity investing
       <hr/>
        
-       - *Facebook today confirmed that it will be limiting the distribution of the hashtag “save our children.” Over the past several months, the phrase — and ones like it — have become associated with QAnon. These terms have served to provide a kind of innocuous cove…*
+       - *The world of enterprise software and cybersecurity has taken multiple body blows since COVID-19 demolished the in-person office, flinging employees across the world and forcing companies to adapt to an all-remote productivity model. The shift has required com…*
       
 
 <br />
