@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 
-~ Edsger W. Dijkstra
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The tools we use have a profound and devious influence on our thinking habits, a
 </pre>
 <strong>Daily News</strong>
   
-  - Illinois is taking a data-driven approach to its mask-wearing ad campaign
+  - B8ta remains bullish on IRL shopping with new acquisition
      <hr/>
      
-      - *Here’s an example of ad targeting that’s actually good for public health: In a campaign encouraging people to wear masks, the Illinois state government has been focusing its digital ad dollars on the counties with highest COVID risk. To achieve this, the gove…*
+      - *Coronavirus cases in the United States are reaching new peaks. E-commerce is continuing to boom. And B8ta, a San Francisco startup which is betting on the future of physical retailers, is doubling down on its in-person footprint. B8ta offers shelf space to un…*
      
-  - UK watchdog reduces Marriott data breach fine to $23.8M, down from $123M
+  - Is the Great 2020 Tech Rally slowing?
       <hr/>
       
-      - *The UK’s ICO has reduced the size of a data breach penalty for hotel business Marriott — dropping it to £14.4 million (~$23.8M) in a final penalty notice down from the £99M ($123M) figure that the watchdog initially said it would levy in July 2019. The fine r…*
+      - *Yesterday’s earnings deluge made plain that tech shares are not rocketing higher as 2020 comes to a close. Indeed, in pre-market trading this morning, Microsoft, Apple, Facebook and Amazon are all down. Alphabet is the only member of the Big Five that is wort…*
       
-  - Under Armour to sell MyFitnessPal for $345 million, after acquiring it in 2015 for $475 million
+  - NowThis partners with Calm to offer a soothing Election Day livestream
       <hr/>
       
-      - *Global fitness giant Under Armour announced this morning that it will be selling MyFitnessPal to investment firm Francisco Partners for $345 million, five and a half years after acquiring it for $475 million. The company also announced that it will be winding…*
+      - *Mobile news organization NowThis is announcing a bit of counter-programming for next week’s presidential election — it’s partnering with meditation app Calm to create a livestream for anyone who needs relief from stress of Election Day news. Not that NowThis …*
       
-  - AOL founder Steve Case, involved early in Section 230, says it's time to change it
+  - Smartphone shipments dip in China for Q3, led by Huawei decline
       <hr/>
       
-      - *AOL founder Steve Case was there in Dulles, Virginia, just outside of Washington, D.C., when in 1996 the Communications Decency Act was passed as part of a major overhaul of U.S. telecommunications laws that President Bill Clinton signed into law. Soon after,…*
+      - *China was the first major global smartphone markets to rebound from the early days of the COVID-19 pandemic. Stringent lockdown measures were able to help the country recover from the virus relatively quickly during the first wave, as sales started to return …*
        
-  - Amazon pegs COVID-19 costs at an estimated $4 billion next quarter
+  - Illinois is taking a data-driven approach to its mask-wearing ad campaign
       <hr/>
        
-       - *Amazon expects to incur $4 billion in COVID-related costs next quarter, an estimate that provides a bellwether for other businesses, large and small, trying to stay operational and control expenses amid the pandemic. The upshot: Amazon is planning for COVID t…*
+       - *Here’s an example of ad targeting that’s actually good for public health: In a campaign encouraging people to wear masks, the Illinois state government has been focusing its digital ad dollars on the counties with highest COVID risk. To achieve this, the gove…*
       
 
 <br />
