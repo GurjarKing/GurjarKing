@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+Cleaning code does NOT take time. NOT cleaning code does take time.
 
-~ Brian Kernighan
+~ Robert C. Martin
 <pre>
 
 </pre>
