@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 
-~ Bill Gates
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If you ever talk to a great programmer, you'll find he knows his tools like an a
 </pre>
 <strong>Daily News</strong>
   
-  - Daimler invests in lidar company Luminar in push to bring autonomous trucks to highways
+  - New GV partner Terri Burns has a simple investment thesis: Gen Z
      <hr/>
      
-      - *Daimler’s trucks division has invested in lidar developer Luminar as part of a broader partnership to produce autonomous trucks capable of navigating highways without a human driver behind the wheel. The deal, which comes just days after Daimler and Waymo ann…*
+      - *In 2015, then-Twitter product manager Terri Burns penned a piece about staying optimistic despite the sexism and racism that exists expansively within tech. “America has broke my heart countless times, but I believe that technology can be a tool to mend some …*
      
+  - Teachers are leaving schools. Will they come to startups next?
+      <hr/>
+      
+      - *It wasn’t the lingering exhaustion that made Christine Huang, a New York public school teacher, leave the profession. Or the low pay. Or the fact that she rarely had time to spend with her kids after the school day due to workload demands. Instead, Huang left…*
+      
+  - E.ventures opens up new office in Paris
+      <hr/>
+      
+      - *VC firm e.ventures is expanding its footprint in Europe with a new office in Paris as well as a new Paris-based partner. Jonathan Userovici, who previously worked for Idinvest Partners, is joining e.ventures as partner and head of Paris office. Originally fou…*
+      
+  - Daimler invests in lidar company Luminar in push to bring autonomous trucks to highways
+      <hr/>
+      
+      - *Daimler’s trucks division has invested in lidar developer Luminar as part of a broader partnership to produce autonomous trucks capable of navigating highways without a human driver behind the wheel. The deal, which comes just days after Daimler and Waymo ann…*
+       
   - Uber Eats faces discrimination allegations over free delivery from Black-owned restaurants
       <hr/>
-      
-      - *Uber says it has received more than 8,500 demands for arbitration as a result of it ditching delivery fees for some Black-owned restaurants via Uber Eats. Uber Eats made this change in June, following racial justice protests around the police killing of Georg…*
-      
-  - Teampay adds $5M to its Series A at higher valuation after growing ARR 320% growth since the round
-      <hr/>
-      
-      - *What do you call the grey area between a Series A and a Series B? In 2020, when the money is taken on opportunistically, you call it a Series A-1 extension, according to Teampay. Even if the new capital was raised at a new, higher valuation. At least that’s w…*
-      
-  - Passion Capital backs UK fertility workplace benefits provider, Fertifa
-      <hr/>
-      
-      - *UK-based Fertifa has bagged a £1 million (~$1.3M) seed to plug into a fertility-focused workplace benefits platform. Passion Capital is investing in the round, along with some unnamed strategic angel investors. The August 2019-founded startup sells bespoke re…*
        
-  - Reliance Jio Platforms tops 400M subscribers, explores expanding services outside of India
-      <hr/>
-       
-       - *Reliance Jio Platforms, the telecom venture run by India’s richest man (Mukesh Ambani), had 405.6 million subscribers in the quarter that ended in September, becoming the first operator outside of China to cross 400 million subscribers in a single country mar…*
+       - *Uber says it has received more than 8,500 demands for arbitration as a result of it ditching delivery fees for some Black-owned restaurants via Uber Eats. Uber Eats made this change in June, following racial justice protests around the police killing of Georg…*
       
 
 <br />
