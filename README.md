@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 
-~ Terry Winograd
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The main activity of programming is not the origination of new independent progr
 </pre>
 <strong>Daily News</strong>
   
-  - UK watchdog reduces Marriott data breach fine to $23.8M, down from $123M
+  - Illinois is taking a data-driven approach to its mask-wearing ad campaign
      <hr/>
      
-      - *The UK’s ICO has reduced the size of a data breach penalty for hotel business Marriott — dropping it to £14.4 million (~$23.8M) in a final penalty notice down from the £99M ($123M) figure that the watchdog initially said it would levy in July 2019. The fine r…*
+      - *Here’s an example of ad targeting that’s actually good for public health: In a campaign encouraging people to wear masks, the Illinois state government has been focusing its digital ad dollars on the counties with highest COVID risk. To achieve this, the gove…*
      
+  - UK watchdog reduces Marriott data breach fine to $23.8M, down from $123M
+      <hr/>
+      
+      - *The UK’s ICO has reduced the size of a data breach penalty for hotel business Marriott — dropping it to £14.4 million (~$23.8M) in a final penalty notice down from the £99M ($123M) figure that the watchdog initially said it would levy in July 2019. The fine r…*
+      
   - Under Armour to sell MyFitnessPal for $345 million, after acquiring it in 2015 for $475 million
       <hr/>
       
@@ -73,16 +78,11 @@ The main activity of programming is not the origination of new independent progr
       <hr/>
       
       - *AOL founder Steve Case was there in Dulles, Virginia, just outside of Washington, D.C., when in 1996 the Communications Decency Act was passed as part of a major overhaul of U.S. telecommunications laws that President Bill Clinton signed into law. Soon after,…*
-      
+       
   - Amazon pegs COVID-19 costs at an estimated $4 billion next quarter
       <hr/>
-      
-      - *Amazon expects to incur $4 billion in COVID-related costs next quarter, an estimate that provides a bellwether for other businesses, large and small, trying to stay operational and control expenses amid the pandemic. The upshot: Amazon is planning for COVID t…*
        
-  - WhatsApp is now delivering roughly 100 billion messages a day
-      <hr/>
-       
-       - *WhatsApp, the popular instant messaging app owned by Facebook, is now delivering roughly 100 billion messages a day, company’s chief executive Mark Zuckerberg said at the company’s quarterly earnings call Thursday. For some perspective, users exchanged 100 bi…*
+       - *Amazon expects to incur $4 billion in COVID-related costs next quarter, an estimate that provides a bellwether for other businesses, large and small, trying to stay operational and control expenses amid the pandemic. The upshot: Amazon is planning for COVID t…*
       
 
 <br />
