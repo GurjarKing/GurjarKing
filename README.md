@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
+Machines take me by surprise with great frequency.
 
-~ Richard Moore (engineer)
+~ Alan Turing
 <pre>
 
 </pre>
