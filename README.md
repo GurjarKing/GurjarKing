@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-People should be able to speak and breathe programs just like they talk now.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Jaron Lanier
+~ Ted Nelson
 <pre>
 
 </pre>
