@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Ted Nelson
+~ Alan Turing
 <pre>
 
 </pre>
