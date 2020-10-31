@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+The difference between theory and practice is that in theory, there is no difference between theory and practice.
 
-~ Tim Berners-Lee
+~ Richard Moore (engineer)
 <pre>
 
 </pre>
