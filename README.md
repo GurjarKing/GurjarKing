@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+People should be able to speak and breathe programs just like they talk now.
 
-~ Donald Knuth
+~ Jaron Lanier
 <pre>
 
 </pre>
