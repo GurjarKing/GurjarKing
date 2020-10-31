@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
-~ Poul Anderson
+~ Fred Brooks
 <pre>
 
 </pre>
