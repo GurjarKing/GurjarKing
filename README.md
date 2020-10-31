@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 
-~ Fred Brooks
+~ Danny Hillis
 <pre>
 
 </pre>
