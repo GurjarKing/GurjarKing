@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 
-~ Richard Stallman
+~ Poul Anderson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I consider that the golden rule requires that if I like a program I must share i
 </pre>
 <strong>Daily News</strong>
   
-  - MG Siegler talks portfolio management and fundraising 6 months into the COVID-19 pandemic
+  - Human Capital: Uber Eats hit with claims of 'reverse racism'
      <hr/>
      
-      - *This week, GV General Partner (and TechCrunch alum) MG Siegler joined us on Extra Crunch Live for a far-ranging chat about what it takes to foster a good relationship between investor and startup, how portfolio management and investing has changed as the COVI…*
+      - *With less than one week left until the election, DoorDash made a late contribution of $3.75 million to try to ensure California’s gig worker ballot measure Prop 22 passes. Meanwhile, Coinbase is looking for a head of diversity and inclusion and Uber was hit w…*
      
+  - Is Wall Street losing its tech enthusiasm?
+      <hr/>
+      
+      - *One way to consider how far public valuations rose for tech startups, especially those with a software core in 2020, is to ask yourself how often you heard about a down IPO this year.*
+      
+  - MG Siegler talks portfolio management and fundraising 6 months into the COVID-19 pandemic
+      <hr/>
+      
+      - *This week, GV General Partner (and TechCrunch alum) MG Siegler joined us on Extra Crunch Live for a far-ranging chat about what it takes to foster a good relationship between investor and startup, how portfolio management and investing has changed as the COVI…*
+      
   - The 2020s promise better tech solutions to humanity's biggest problems
       <hr/>
       
       - *Let's think beyond Monday, for a minute, to the trends playing out in technology this coming decade. While humanity's problems have never been greater, our tools have never been better.*
-      
+       
   - This Week in Apps: Facebook Gaming skips iOS, TikTok goes shopping, Apple One bundles arrive
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
-  - Equity shot: Boo! It's the Halloween earnings special!
-      <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. As promised, the whole gang is back, this time to chew on the biggest, baddest, worstest, and most troubling ea…*
        
-  - You can start a venture fund if you're not rich; here's how
-      <hr/>
-       
-       - *For years — decades, even — there was little question about whether you could become a venture capitalist if you weren’t comfortable financially. You couldn’t. The people and institutions that invest in venture funds want to know that fund managers have their…*
+       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
       
 
 <br />
