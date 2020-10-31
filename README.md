@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sometimes it’s just easier to throw a system away, and start over.
+I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 
-~ Joseph Yoder (computer scientist)
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Sometimes it’s just easier to throw a system away, and start over.
 </pre>
 <strong>Daily News</strong>
   
-  - The 2020s promise better tech solutions to humanity's biggest problems
+  - MG Siegler talks portfolio management and fundraising 6 months into the COVID-19 pandemic
      <hr/>
      
-      - *Let's think beyond Monday, for a minute, to the trends playing out in technology this coming decade. While humanity's problems have never been greater, our tools have never been better.*
+      - *This week, GV General Partner (and TechCrunch alum) MG Siegler joined us on Extra Crunch Live for a far-ranging chat about what it takes to foster a good relationship between investor and startup, how portfolio management and investing has changed as the COVI…*
      
+  - The 2020s promise better tech solutions to humanity's biggest problems
+      <hr/>
+      
+      - *Let's think beyond Monday, for a minute, to the trends playing out in technology this coming decade. While humanity's problems have never been greater, our tools have never been better.*
+      
   - This Week in Apps: Facebook Gaming skips iOS, TikTok goes shopping, Apple One bundles arrive
       <hr/>
       
@@ -73,16 +78,11 @@ Sometimes it’s just easier to throw a system away, and start over.
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. As promised, the whole gang is back, this time to chew on the biggest, baddest, worstest, and most troubling ea…*
-      
+       
   - You can start a venture fund if you're not rich; here's how
       <hr/>
-      
-      - *For years — decades, even — there was little question about whether you could become a venture capitalist if you weren’t comfortable financially. You couldn’t. The people and institutions that invest in venture funds want to know that fund managers have their…*
        
-  - TikTok stars got a judge to block Trump's TikTok ban
-      <hr/>
-       
-       - *TikTok has won another battle in its fight against the Trump administration’s ban of its video-sharing app in the U.S. — or, more accurately in this case, the TikTok community won a battle. On Friday, a federal judge in Pennsylvania has issued an injunction t…*
+       - *For years — decades, even — there was little question about whether you could become a venture capitalist if you weren’t comfortable financially. You couldn’t. The people and institutions that invest in venture funds want to know that fund managers have their…*
       
 
 <br />
