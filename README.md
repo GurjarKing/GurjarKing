@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 
-~ Dennis Ritchie
+~ Jim Horning
 <pre>
 
 </pre>
