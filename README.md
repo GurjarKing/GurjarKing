@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In man-machine symbiosis, it is man who must adjust: The machines can't.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ Alan Perlis
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ In man-machine symbiosis, it is man who must adjust: The machines can't.
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Under Armour is selling MyFitnessPal
+  - TikTok stars got a judge to block Trump's TikTok ban
      <hr/>
      
-      - *Under Armour gives up on one of its big acquisitions, Uber Eats faces complaints over its free delivery policy for Black restaurants and Facebook takes another step to limit QAnon-related content. This is your Daily Crunch for October 30, 2020. The big story:…*
+      - *TikTok has won another battle in its fight against the Trump administration’s ban of its video-sharing app in the U.S. — or, more accurately in this case, the TikTok community won a battle. On Friday, a federal judge in Pennsylvania has issued an injunction t…*
      
+  - Cough-scrutinizing AI shows major promise as an early warning system for COVID-19
+      <hr/>
+      
+      - *Asymptomatic spread of COVID-19 is a huge contributor to the pandemic, but of course if there are no symptoms, how can anyone tell they should isolate or get a test? MIT research has found that hidden in the sound of coughs is a pattern that subtly, but relia…*
+      
+  - Apple acknowledges AirPods Pro issues, will replace those that crackle and rattle
+      <hr/>
+      
+      - *Are your AirPods Pro earbuds making weird noises? You’re not imagining it — and you’re not the only one. Just a few months after Apple started shipping AirPods Pro, some users started noticing that one or both of their earbuds were rattling or crackling. The …*
+      
+  - Daily Crunch: Under Armour is selling MyFitnessPal
+      <hr/>
+      
+      - *Under Armour gives up on one of its big acquisitions, Uber Eats faces complaints over its free delivery policy for Black restaurants and Facebook takes another step to limit QAnon-related content. This is your Daily Crunch for October 30, 2020. The big story:…*
+       
   - iPhones can now tell blind users where and how far away people are
       <hr/>
-      
-      - *Apple has packed an interesting new accessibility feature into the latest beta of iOS: a system that detects the presence of and distance to people in the view of the iPhone’s camera, so blind users can social distance effectively, among many other things. Th…*
-      
-  - Q3 earnings find Apple and Google looking to the future for hardware rebounds
-      <hr/>
-      
-      - *“5G is a once-in-a-decade kind of opportunity,” Tim Cook told the media during the Q&A portion of Apple’s Q3 earnings call. “And we could not be more excited to hit the market exactly when we did.” The truth of the matter is its timing was a mixed bag. Apple …*
-      
-  - Google reveals a new Windows zero-day bug it says is under active attack
-      <hr/>
-      
-      - *The bug affects at least Windows 7 and Windows 10.*
        
-  - Facebook hits pause on algorithmic recommendations for political and social issue groups
-      <hr/>
-       
-       - *With just days to go before the U.S. election, Facebook quietly suspended one of its most worrisome features. During Wednesday’s Senate hearing Senator Ed Markey asked Facebook CEO Mark Zuckerberg about reports that his company has long known its group recomm…*
+       - *Apple has packed an interesting new accessibility feature into the latest beta of iOS: a system that detects the presence of and distance to people in the view of the iPhone’s camera, so blind users can social distance effectively, among many other things. Th…*
       
 
 <br />
