@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 
-~ Alan Turing
+~ Bill Gates
 <pre>
 
 </pre>
