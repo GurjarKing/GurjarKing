@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The purpose of software engineering is to control complexity, not to create it.
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 
-~ Pamela Zave
+~ Albert Einstein
 <pre>
 
 </pre>
