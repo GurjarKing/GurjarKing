@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 
-~ Gerald Weinberg
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
