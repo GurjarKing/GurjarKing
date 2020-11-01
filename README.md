@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+Every good work of software starts by scratching a developer’s personal itch.
 
-~ Alan Kay
+~ Eric S. Raymond
 <pre>
 
 </pre>
