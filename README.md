@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
-~ Edsger W. Dijkstra
+~ Douglas Crockford
 <pre>
 
 </pre>
