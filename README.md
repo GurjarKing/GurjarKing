@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 
-~ Donald Knuth
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Science is what we understand well enough to explain to a computer. Art is every
 </pre>
 <strong>Daily News</strong>
   
-  - Original Content podcast: Bill Murray's charm can't hide the sadness of 'On the Rocks'
+  - Is fintech's Series A market hot, or just overhyped?
      <hr/>
      
-      - *“On the Rocks,” a new film on Apple TV+, focuses on a troubled marriage between Laura (a writer played by Rashida Jones) and Dean (a startup executive played by Marlon Wayans). When Laura begins to suspect Dean of cheating on her, she turns to her father Feli…*
+      - *While we are encouraged by the progress the industry has made to return to “normal,” the market for Series A fintech remains challenging for the vast majority of startup founders.*
      
+  - Original Content podcast: Bill Murray's charm can't hide the sadness of 'On the Rocks'
+      <hr/>
+      
+      - *“On the Rocks,” a new film on Apple TV+, focuses on a troubled marriage between Laura (a writer played by Rashida Jones) and Dean (a startup executive played by Marlon Wayans). When Laura begins to suspect Dean of cheating on her, she turns to her father Feli…*
+      
   - Human Capital: Uber Eats hit with claims of 'reverse racism'
       <hr/>
       
@@ -73,16 +78,11 @@ Science is what we understand well enough to explain to a computer. Art is every
       <hr/>
       
       - *One way to consider how far public valuations rose for tech startups, especially those with a software core in 2020, is to ask yourself how often you heard about a down IPO this year.*
-      
+       
   - MG Siegler talks portfolio management and fundraising 6 months into the COVID-19 pandemic
       <hr/>
-      
-      - *This week, GV General Partner (and TechCrunch alum) MG Siegler joined us on Extra Crunch Live for a far-ranging chat about what it takes to foster a good relationship between investor and startup, how portfolio management and investing has changed as the COVI…*
        
-  - The 2020s promise better tech solutions to humanity's biggest problems
-      <hr/>
-       
-       - *Let's think beyond Monday, for a minute, to the trends playing out in technology this coming decade. While humanity's problems have never been greater, our tools have never been better.*
+       - *This week, GV General Partner (and TechCrunch alum) MG Siegler joined us on Extra Crunch Live for a far-ranging chat about what it takes to foster a good relationship between investor and startup, how portfolio management and investing has changed as the COVI…*
       
 
 <br />
