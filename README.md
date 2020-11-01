@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When we don’t understand a process, we fall into magical thinking about results.
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 
-~ Jef Raskin
+~ Steve Jobs
 <pre>
 
 </pre>
