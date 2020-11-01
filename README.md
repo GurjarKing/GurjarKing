@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+If you have a procedure with 10 parameters, you probably missed some.
 
-~ Stewart Brand
+~ Alan Perlis
 <pre>
 
 </pre>
