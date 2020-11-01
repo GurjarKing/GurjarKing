@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 
-~ George Boole
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
