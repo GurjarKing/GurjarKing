@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
 
-~ Alan Perlis
+~ Steve McConnell
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ If you have a procedure with 10 parameters, you probably missed some.
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: Uber Eats hit with claims of 'reverse racism'
+  - Original Content podcast: Bill Murray's charm can't hide the sadness of 'On the Rocks'
      <hr/>
      
-      - *With less than one week left until the election, DoorDash made a late contribution of $3.75 million to try to ensure California’s gig worker ballot measure Prop 22 passes. Meanwhile, Coinbase is looking for a head of diversity and inclusion and Uber was hit w…*
+      - *“On the Rocks,” a new film on Apple TV+, focuses on a troubled marriage between Laura (a writer played by Rashida Jones) and Dean (a startup executive played by Marlon Wayans). When Laura begins to suspect Dean of cheating on her, she turns to her father Feli…*
      
+  - Human Capital: Uber Eats hit with claims of 'reverse racism'
+      <hr/>
+      
+      - *With less than one week left until the election, DoorDash made a late contribution of $3.75 million to try to ensure California’s gig worker ballot measure Prop 22 passes. Meanwhile, Coinbase is looking for a head of diversity and inclusion and Uber was hit w…*
+      
   - Is Wall Street losing its tech enthusiasm?
       <hr/>
       
@@ -73,16 +78,11 @@ If you have a procedure with 10 parameters, you probably missed some.
       <hr/>
       
       - *This week, GV General Partner (and TechCrunch alum) MG Siegler joined us on Extra Crunch Live for a far-ranging chat about what it takes to foster a good relationship between investor and startup, how portfolio management and investing has changed as the COVI…*
-      
+       
   - The 2020s promise better tech solutions to humanity's biggest problems
       <hr/>
-      
-      - *Let's think beyond Monday, for a minute, to the trends playing out in technology this coming decade. While humanity's problems have never been greater, our tools have never been better.*
        
-  - This Week in Apps: Facebook Gaming skips iOS, TikTok goes shopping, Apple One bundles arrive
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *Let's think beyond Monday, for a minute, to the trends playing out in technology this coming decade. While humanity's problems have never been greater, our tools have never been better.*
       
 
 <br />
