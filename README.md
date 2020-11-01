@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A good programmer is someone who looks both ways before crossing a one-way street.
+The purpose of software engineering is to control complexity, not to create it.
 
-~ Doug Linder
+~ Pamela Zave
 <pre>
 
 </pre>
