@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 
-~ Edsger W. Dijkstra
+~ Stewart Brand
 <pre>
 
 </pre>
