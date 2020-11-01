@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every good work of software starts by scratching a developer’s personal itch.
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 
-~ Eric S. Raymond
+~ Gerald Weinberg
 <pre>
 
 </pre>
