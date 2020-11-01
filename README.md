@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+A few months writing code can save you a few hours in design.
 
-~ Marvin Minsky
+~ Anonymous
 <pre>
 
 </pre>
