@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+When we don’t understand a process, we fall into magical thinking about results.
 
-~ Edsger W. Dijkstra
+~ Jef Raskin
 <pre>
 
 </pre>
