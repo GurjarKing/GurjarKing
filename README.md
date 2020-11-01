@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
 
-~ Donald Knuth
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
