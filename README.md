@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 
-~ Albert Einstein
+~ Donald Knuth
 <pre>
 
 </pre>
