@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What one programmer can do in one month, two programmers can do in two months.
+A good programmer is someone who looks both ways before crossing a one-way street.
 
-~ Fred Brooks
+~ Doug Linder
 <pre>
 
 </pre>
