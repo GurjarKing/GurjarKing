@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 
-~ Richard Hamming
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I always spend a day a week learning new stuff. That means I spend 20% more of m
 </pre>
 <strong>Daily News</strong>
   
-  - Scaleway launches cloud instances that cost $2.10 per month
+  - Rocket Lab's next launch will deliver 30 satellites to orbit - and a 3D-printed gnome from Gabe Newell
      <hr/>
      
-      - *French cloud hosting company Scaleway originally started with very cheap cloud instances. Over the years, the company has expanded its offering and added more premium services, such as managed Kubernetes, object storage, block storage, managed databases, load…*
+      - *Rocket Lab’s next mission will put dozens of satellites into orbit using the launch company’s Kick Stage “space tug,” as well as a 3D-printed garden gnome from Valve Software’s Gabe Newell. The latter is a test of a new manufacturing technique, but also a phi…*
      
+  - Scaleway launches cloud instances that cost $2.10 per month
+      <hr/>
+      
+      - *French cloud hosting company Scaleway originally started with very cheap cloud instances. Over the years, the company has expanded its offering and added more premium services, such as managed Kubernetes, object storage, block storage, managed databases, load…*
+      
   - YC-backed nonprofit VotingWorks wants to rebuild trust in election systems through open source
       <hr/>
       
@@ -73,16 +78,11 @@ I always spend a day a week learning new stuff. That means I spend 20% more of m
       <hr/>
       
       - *But security researchers aren't celebrating just yet.*
-      
+       
   - Booming edtech M&A activity brings consolidation to a fragmented sector
       <hr/>
-      
-      - *As the COVID-19 pandemic continues to force teachers, students and parents to adopt new technologies, edtech’s total addressable market has massively grown in the last several months. The shift has urged venture capitalists to pour money into the sector accor…*
        
-  - Spotify will now allow artists and labels promote tracks in your recommendations
-      <hr/>
-       
-       - *Spotify announced today it will begin to test a new service that gives artists more of a say in how their music is discovered on the Spotify platform. At launch, the service will allow artists and labels to identify music that’s a priority to them and Spotify…*
+       - *As the COVID-19 pandemic continues to force teachers, students and parents to adopt new technologies, edtech’s total addressable market has massively grown in the last several months. The shift has urged venture capitalists to pour money into the sector accor…*
       
 
 <br />
