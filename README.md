@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 
-~ Eric S. Raymond
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Computer science education cannot make anybody an expert programmer any more tha
 </pre>
 <strong>Daily News</strong>
   
-  - Spotify will now allow artists and labels promote tracks in your recommendations
+  - Scaleway launches cloud instances that cost $2.10 per month
      <hr/>
      
-      - *Spotify announced today it will begin to test a new service that gives artists more of a say in how their music is discovered on the Spotify platform. At launch, the service will allow artists and labels to identify music that’s a priority to them and Spotify…*
+      - *French cloud hosting company Scaleway originally started with very cheap cloud instances. Over the years, the company has expanded its offering and added more premium services, such as managed Kubernetes, object storage, block storage, managed databases, load…*
      
-  - Coupa Software snags Llamasoft for $1.5B to bring together spending and supply chain data
+  - YC-backed nonprofit VotingWorks wants to rebuild trust in election systems through open source
       <hr/>
       
-      - *Coupa Software, a publicly traded company that helps large corporations manage spending, announced that it was buying Llamasoft, an 18 year old Michigan company that helps large companies manage their supply chain. The deal was pegged at $1.5 billion. This ye…*
+      - *I know it will come as a shock to you as a reader of the news, but there is an election this week. Well, tomorrow actually. It’s the rare election where the logistics of the election itself seem to be increasingly dominating the discussion. Not since the Flor…*
       
-  - Apple's next big event is November 10
+  - Maze, a notorious ransomware group, says it's shutting down
       <hr/>
       
-      - *Apple just sent out invites for its latest — and last — big event of 2020. Set for 10AM PT on November 10, the “One More Thing” event will almost certainly focus on the long-awaited arrival of Apple silicon Macs. The big event will, naturally, be online-only …*
+      - *But security researchers aren't celebrating just yet.*
       
-  - Lidar startup Aeva to go public via $2.1 billion SPAC merger
+  - Booming edtech M&A activity brings consolidation to a fragmented sector
       <hr/>
       
-      - *Aeva, a Mountain View, Calif.-based lidar company started by two former Apple engineers and backed by Porsche SE, is merging with special purpose acquisition company InterPrivate Acquisition Corp., with a post-deal market valuation of $2.1 billion. The deal w…*
+      - *As the COVID-19 pandemic continues to force teachers, students and parents to adopt new technologies, edtech’s total addressable market has massively grown in the last several months. The shift has urged venture capitalists to pour money into the sector accor…*
        
-  - Bridgefy launches end-to-end encrypted messaging for the app used during protests and disasters
+  - Spotify will now allow artists and labels promote tracks in your recommendations
       <hr/>
        
-       - *Offline-messaging app Bridgefy — which innovatively uses Bluetooth and Wi-fi — became known as the go-to app by thousands of protesters around the world to keep communications going even when oppressive regimes blocked or shut down the Internet. Recently, act…*
+       - *Spotify announced today it will begin to test a new service that gives artists more of a say in how their music is discovered on the Spotify platform. At launch, the service will allow artists and labels to identify music that’s a priority to them and Spotify…*
       
 
 <br />
