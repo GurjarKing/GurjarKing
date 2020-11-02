@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Fred Brooks
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The general tendency is to over-design the second system, using all the ideas an
 </pre>
 <strong>Daily News</strong>
   
-  - Startup brands like the shoe company Thousand Fell are bringing circular economics to the fashion industry
+  - Tencent claims record 100M daily users on mobile game Honor of Kings
      <hr/>
      
-      - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
+      - *At its five-year anniversary gala graced by celebrities, esports stars and orchestras, Tencent’s mobile game Honor of Kings said it has crossed 100 million daily active users. The title has not only broken user records but generated other unprecedented accomp…*
      
+  - Startup brands like the shoe company Thousand Fell are bringing circular economics to the fashion industry
+      <hr/>
+      
+      - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
+      
   - GAIA Design has raised more capital to become the West Elm of Mexico
       <hr/>
       
@@ -73,16 +78,11 @@ The general tendency is to over-design the second system, using all the ideas an
       <hr/>
       
       - *The password was so simple that a customer guessed it.*
-      
+       
   - Is fintech's Series A market hot, or just overhyped?
       <hr/>
-      
-      - *While we are encouraged by the progress the industry has made to return to “normal,” the market for Series A fintech remains challenging for the vast majority of startup founders.*
        
-  - Original Content podcast: Bill Murray's charm can't hide the sadness of 'On the Rocks'
-      <hr/>
-       
-       - *“On the Rocks,” a new film on Apple TV+, focuses on a troubled marriage between Laura (a writer played by Rashida Jones) and Dean (a startup executive played by Marlon Wayans). When Laura begins to suspect Dean of cheating on her, she turns to her father Feli…*
+       - *While we are encouraged by the progress the industry has made to return to “normal,” the market for Series A fintech remains challenging for the vast majority of startup founders.*
       
 
 <br />
