@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 
-~ Ted Nelson
+~ William Wulf
 <pre>
 
 </pre>
