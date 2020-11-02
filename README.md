@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+Deleted code is debugged code.
 
-~ Linus Torvalds
+~ Jeff Sickel
 <pre>
 
 </pre>
