@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
