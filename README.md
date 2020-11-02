@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 
 ~ Fred Brooks
 <pre>
@@ -59,11 +59,16 @@ Maintenance cost is strongly affected by the number of users. More users find mo
 </pre>
 <strong>Daily News</strong>
   
-  - GAIA Design has raised more capital to become the West Elm of Mexico
+  - Startup brands like the shoe company Thousand Fell are bringing circular economics to the fashion industry
      <hr/>
      
-      - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
+      - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
      
+  - GAIA Design has raised more capital to become the West Elm of Mexico
+      <hr/>
+      
+      - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
+      
   - WeWork employees used an alarmingly insecure printer password
       <hr/>
       
@@ -73,16 +78,11 @@ Maintenance cost is strongly affected by the number of users. More users find mo
       <hr/>
       
       - *While we are encouraged by the progress the industry has made to return to “normal,” the market for Series A fintech remains challenging for the vast majority of startup founders.*
-      
+       
   - Original Content podcast: Bill Murray's charm can't hide the sadness of 'On the Rocks'
       <hr/>
-      
-      - *“On the Rocks,” a new film on Apple TV+, focuses on a troubled marriage between Laura (a writer played by Rashida Jones) and Dean (a startup executive played by Marlon Wayans). When Laura begins to suspect Dean of cheating on her, she turns to her father Feli…*
        
-  - Human Capital: Uber Eats hit with claims of 'reverse racism'
-      <hr/>
-       
-       - *With less than one week left until the election, DoorDash made a late contribution of $3.75 million to try to ensure California’s gig worker ballot measure Prop 22 passes. Meanwhile, Coinbase is looking for a head of diversity and inclusion and Uber was hit w…*
+       - *“On the Rocks,” a new film on Apple TV+, focuses on a troubled marriage between Laura (a writer played by Rashida Jones) and Dean (a startup executive played by Marlon Wayans). When Laura begins to suspect Dean of cheating on her, she turns to her father Feli…*
       
 
 <br />
