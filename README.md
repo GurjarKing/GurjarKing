@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 
-~ Richard Stallman
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The most powerful programming language is Lisp. If you don't know Lisp (or its v
 </pre>
 <strong>Daily News</strong>
   
-  - Walmart's PhonePe zips past Google Pay in India as UPI tops 2B monthly transactions
+  - UK's Marshmallow raises $30M on a $310M valuation for more 'inclusive' car insurance
      <hr/>
      
-      - *UPI, a payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most popular digital…*
+      - *When it comes to using algorithms and other formulae to determine what kinds of services you might offer to specific customers and at what price, the insurance industry is one of the oldest in the book. But that legacy position masks the fact that some of its…*
      
+  - Starling Bank founder Anne Boden says new book 'isn't a memoir'
+      <hr/>
+      
+      - *Penguin Business describes Starling Bank founder Anne Boden’s “Banking On It” as the “first-hand account of one woman’s quest to rebuild Britain’s broken banking system.” Written with the help of a ghost writer, Boden relates how she came up with the idea to …*
+      
+  - Walmart's PhonePe zips past Google Pay in India as UPI tops 2B monthly transactions
+      <hr/>
+      
+      - *UPI, a payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most popular digital…*
+      
   - Raspberry Pi Foundation announces the cute little Raspberry Pi 400
       <hr/>
       
       - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
-      
+       
   - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
       <hr/>
-      
-      - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
-      
-  - Tencent claims record 100M daily users on mobile game Honor of Kings
-      <hr/>
-      
-      - *At its five-year anniversary gala graced by celebrities, esports stars and orchestras, Tencent’s mobile game Honor of Kings said it has crossed 100 million daily active users. The title has not only broken user records but generated other unprecedented accomp…*
        
-  - Startup brands like the shoe company Thousand Fell are bringing circular economics to the fashion industry
-      <hr/>
-       
-       - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
+       - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
       
 
 <br />
