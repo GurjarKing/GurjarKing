@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
-~ George Carrette
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ First learn computer science and all the theory. Next develop a programming styl
 </pre>
 <strong>Daily News</strong>
   
-  - Raspberry Pi Foundation announces the cute little Raspberry Pi 400
+  - Walmart's PhonePe zips past Google Pay in India as UPI tops 2B monthly transactions
      <hr/>
      
-      - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
+      - *UPI, a payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most popular digital…*
      
+  - Raspberry Pi Foundation announces the cute little Raspberry Pi 400
+      <hr/>
+      
+      - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
+      
   - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
       <hr/>
       
@@ -73,16 +78,11 @@ First learn computer science and all the theory. Next develop a programming styl
       <hr/>
       
       - *At its five-year anniversary gala graced by celebrities, esports stars and orchestras, Tencent’s mobile game Honor of Kings said it has crossed 100 million daily active users. The title has not only broken user records but generated other unprecedented accomp…*
-      
+       
   - Startup brands like the shoe company Thousand Fell are bringing circular economics to the fashion industry
       <hr/>
-      
-      - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
        
-  - GAIA Design has raised more capital to become the West Elm of Mexico
-      <hr/>
-       
-       - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
+       - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
       
 
 <br />
