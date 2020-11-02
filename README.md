@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+There's nothing more permanent than a temporary hack.
 
-~ Fred Brooks
+~ Kyle Simpson
 <pre>
 
 </pre>
