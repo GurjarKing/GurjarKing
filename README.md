@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 
-~ William Wulf
+~ George Carrette
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ More computing sins are committed in the name of efficiency (without necessarily
 </pre>
 <strong>Daily News</strong>
   
-  - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
+  - Raspberry Pi Foundation announces the cute little Raspberry Pi 400
      <hr/>
      
-      - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
+      - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
      
+  - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
+      <hr/>
+      
+      - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
+      
   - Tencent claims record 100M daily users on mobile game Honor of Kings
       <hr/>
       
@@ -73,16 +78,11 @@ More computing sins are committed in the name of efficiency (without necessarily
       <hr/>
       
       - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
-      
+       
   - GAIA Design has raised more capital to become the West Elm of Mexico
       <hr/>
-      
-      - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
        
-  - WeWork employees used an alarmingly insecure printer password
-      <hr/>
-       
-       - *The password was so simple that a customer guessed it.*
+       - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
       
 
 <br />
