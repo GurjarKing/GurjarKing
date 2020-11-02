@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Ward Cunningham
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Shipping first time code is like going into debt. A little debt speeds developme
 </pre>
 <strong>Daily News</strong>
   
-  - Rocket Lab's next launch will deliver 30 satellites to orbit - and a 3D-printed gnome from Gabe Newell
+  - TikTok strikes new licensing agreement with Sony Music
      <hr/>
      
-      - *Rocket Lab’s next mission will put dozens of satellites into orbit using the launch company’s Kick Stage “space tug,” as well as a 3D-printed garden gnome from Valve Software’s Gabe Newell. The latter is a test of a new manufacturing technique, but also a phi…*
+      - *TikTok announced this morning it has signed new licensing agreement with Sony Music Entertainment (SME) that will allow the short-form video app to continue to offer songs from Sony Music artists for use by creators on its platform. The agreement will also se…*
      
-  - Scaleway launches cloud instances that cost $2.10 per month
+  - What social networks have learned since the 2016 election
       <hr/>
       
-      - *French cloud hosting company Scaleway originally started with very cheap cloud instances. Over the years, the company has expanded its offering and added more premium services, such as managed Kubernetes, object storage, block storage, managed databases, load…*
+      - *On the eve on the 2020 U.S. election, tensions are running high. The good news? 2020 isn’t 2016. Social networks are way better prepared to handle a wide array of complex, dangerous or otherwise ambiguous Election Day scenarios. The bad news: 2020 is its own …*
       
-  - YC-backed nonprofit VotingWorks wants to rebuild trust in election systems through open source
+  - Alphabet's X details Project Amber, a quest for a single biomarker for depression that fell short of its goal
       <hr/>
       
-      - *I know it will come as a shock to you as a reader of the news, but there is an election this week. Well, tomorrow actually. It’s the rare election where the logistics of the election itself seem to be increasingly dominating the discussion. Not since the Flor…*
+      - *Alphabet’s X (the Google-owner’s so-called ‘Moonshot Factory’) published a new blog post today about Project Amber, a project it’s been working on over the past three years – the results of which it’s now making available open source for the rest of the menta…*
       
-  - Maze, a notorious ransomware group, says it's shutting down
+  - NerdWallet acquires small business loan marketplace Fundera
       <hr/>
       
-      - *But security researchers aren't celebrating just yet.*
+      - *Financial guidance company NerdWallet announced at the end of last week that it has acquired Fundera. New York City-based Fundera was co-founded in 2013 by Jared Hecht, who previously co-founded GroupMe. It created a marketplace where small businesses could f…*
        
-  - Booming edtech M&A activity brings consolidation to a fragmented sector
+  - Rocket Lab's next launch will deliver 30 satellites to orbit - and a 3D-printed gnome from Gabe Newell
       <hr/>
        
-       - *As the COVID-19 pandemic continues to force teachers, students and parents to adopt new technologies, edtech’s total addressable market has massively grown in the last several months. The shift has urged venture capitalists to pour money into the sector accor…*
+       - *Rocket Lab’s next mission will put dozens of satellites into orbit using the launch company’s Kick Stage “space tug,” as well as a 3D-printed garden gnome from Valve Software’s Gabe Newell. The latter is a test of a new manufacturing technique, but also a phi…*
       
 
 <br />
