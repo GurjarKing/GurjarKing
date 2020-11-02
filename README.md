@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There's nothing more permanent than a temporary hack.
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
 
-~ Kyle Simpson
+~ Fred Brooks
 <pre>
 
 </pre>
