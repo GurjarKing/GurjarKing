@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Most errors are introduced during requirements specification!
+A few months writing code can save you a few hours in design.
 
-~ Daniel T. Barry
+~ Anonymous
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Most errors are introduced during requirements specification!
 </pre>
 <strong>Daily News</strong>
   
-  - Leena AI nabs $8M Series as it expands from chatbots to HR service platform
+  - Pandemic's impact disproportionately reduced VC funding for female founders
      <hr/>
      
-      - *When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform. Today, the company announced an…*
+      - *The last few quarters did not play out as as expected for venture capitalists or entrepreneurs; instead of a pandemic-fueled recession that cauterized the flow of private investment into startups, the economic shifts brought on by COVID-19 have given many com…*
      
-  - Twitter explains how it will handle misleading tweets about the US election results
+  - Twilio wraps $3.2B purchase of Segment after warp speed courtship
       <hr/>
       
-      - *Twitter recently updated its policies in advance of the U.S. elections to include specific rules that detailed how it would handle tweets making claims about election results before they were official. Today, the company offered more information about how it …*
+      - *It was barely a month ago we began hearing rumors that Twilio was interested in acquiring Segment. The $3.2 billion deal was officially announced three weeks ago, and this morning the communications API company announced that the deal had closed, astonishingl…*
       
-  - Equity Monday: Edtech and insurtech stay red-hot
+  - Haystack News adds 16 live news channels ahead of Election Day
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Ad-supported streaming news platform Haystack News is announcing a significant expansion ahead of U.S. Election Day. The company this morning introduced sixteen 24/7 live streaming news channels, including ABC News Live, CBSN, Al Jazeera, Euronews, Newsmax, Y…*
       
-  - UK report spotlights the huge investment gap facing diverse founders
+  - Fortnite will be available for PlayStation 5 and Xbox Series X/S at launch
       <hr/>
       
-      - *New research looking into how UK VC has been invested over the past decade according to race, gender and educational background makes for grim reading — with all-ethnic teams and female entrepreneurs receiving just a fraction of available funding vs all-white…*
+      - *As ever, launch title choices are likely to be a concern for gamers plunking down cash on a next-gen console. They can, however, take solace in the fact that the immensely popular battle royale title Fortnite will be available for both the PlayStation 5 and X…*
        
-  - UK's Marshmallow raises $30M on a $310M valuation for more 'inclusive' car insurance
+  - MIT develops a battery-free method for navigating underwater that could transform ocean exploration
       <hr/>
        
-       - *When it comes to using algorithms and other formulae to determine what kinds of services you might offer to specific customers and at what price, the insurance industry is one of the oldest in the book. But that legacy position masks the fact that some of its…*
+       - *MIT has developed a new navigation system designed for use underwater that could do for underwater wayfinding what GPS has done for travel on and above the surface. GPS doesn’t really penetrate underwater, because radio waves aren’t really water-friendly. It’…*
       
 
 <br />
