@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+Most errors are introduced during requirements specification!
 
-~ Donald Knuth
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ I’ll use dirty tricks for two reasons. One is, if it’s really going to give 
 </pre>
 <strong>Daily News</strong>
   
-  - UK report spotlights the huge investment gap facing diverse founders
+  - Leena AI nabs $8M Series as it expands from chatbots to HR service platform
      <hr/>
      
-      - *New research looking into how UK VC has been invested over the past decade according to race, gender and educational background makes for grim reading — with all-ethnic teams and female entrepreneurs receiving just a fraction of available funding vs all-white…*
+      - *When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform. Today, the company announced an…*
      
+  - Twitter explains how it will handle misleading tweets about the US election results
+      <hr/>
+      
+      - *Twitter recently updated its policies in advance of the U.S. elections to include specific rules that detailed how it would handle tweets making claims about election results before they were official. Today, the company offered more information about how it …*
+      
+  - Equity Monday: Edtech and insurtech stay red-hot
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      
+  - UK report spotlights the huge investment gap facing diverse founders
+      <hr/>
+      
+      - *New research looking into how UK VC has been invested over the past decade according to race, gender and educational background makes for grim reading — with all-ethnic teams and female entrepreneurs receiving just a fraction of available funding vs all-white…*
+       
   - UK's Marshmallow raises $30M on a $310M valuation for more 'inclusive' car insurance
       <hr/>
-      
-      - *When it comes to using algorithms and other formulae to determine what kinds of services you might offer to specific customers and at what price, the insurance industry is one of the oldest in the book. But that legacy position masks the fact that some of its…*
-      
-  - Starling Bank founder Anne Boden says new book 'isn't a memoir'
-      <hr/>
-      
-      - *Penguin Business describes Starling Bank founder Anne Boden’s “Banking On It” as the “first-hand account of one woman’s quest to rebuild Britain’s broken banking system.” Written with the help of a ghost writer, Boden relates how she came up with the idea to …*
-      
-  - Walmart's PhonePe zips past Google Pay in India as UPI tops 2B monthly transactions
-      <hr/>
-      
-      - *UPI, a payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most popular digital…*
        
-  - Raspberry Pi Foundation announces the cute little Raspberry Pi 400
-      <hr/>
-       
-       - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
+       - *When it comes to using algorithms and other formulae to determine what kinds of services you might offer to specific customers and at what price, the insurance industry is one of the oldest in the book. But that legacy position masks the fact that some of its…*
       
 
 <br />
