@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The more code you have, the more places there are for bugs to hide.
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 
-~ Rich Skrenta
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The more code you have, the more places there are for bugs to hide.
 </pre>
 <strong>Daily News</strong>
   
-  - Lidar startup Aeva to go public via $2.1 billion SPAC merger
+  - Spotify will now allow artists and labels promote tracks in your recommendations
      <hr/>
      
-      - *Aeva, a Mountain View, Calif.-based lidar company started by two former Apple engineers and backed by Porsche SE, is merging with special purpose acquisition company InterPrivate Acquisition Corp., with a post-deal market valuation of $2.1 billion. The deal w…*
+      - *Spotify announced today it will begin to test a new service that gives artists more of a say in how their music is discovered on the Spotify platform. At launch, the service will allow artists and labels to identify music that’s a priority to them and Spotify…*
      
+  - Coupa Software snags Llamasoft for $1.5B to bring together spending and supply chain data
+      <hr/>
+      
+      - *Coupa Software, a publicly traded company that helps large corporations manage spending, announced that it was buying Llamasoft, an 18 year old Michigan company that helps large companies manage their supply chain. The deal was pegged at $1.5 billion. This ye…*
+      
+  - Apple's next big event is November 10
+      <hr/>
+      
+      - *Apple just sent out invites for its latest — and last — big event of 2020. Set for 10AM PT on November 10, the “One More Thing” event will almost certainly focus on the long-awaited arrival of Apple silicon Macs. The big event will, naturally, be online-only …*
+      
+  - Lidar startup Aeva to go public via $2.1 billion SPAC merger
+      <hr/>
+      
+      - *Aeva, a Mountain View, Calif.-based lidar company started by two former Apple engineers and backed by Porsche SE, is merging with special purpose acquisition company InterPrivate Acquisition Corp., with a post-deal market valuation of $2.1 billion. The deal w…*
+       
   - Bridgefy launches end-to-end encrypted messaging for the app used during protests and disasters
       <hr/>
-      
-      - *Offline-messaging app Bridgefy — which innovatively uses Bluetooth and Wi-fi — became known as the go-to app by thousands of protesters around the world to keep communications going even when oppressive regimes blocked or shut down the Internet. Recently, act…*
-      
-  - Relativity Space's Tim Ellis is coming to TC Sessions: Space 2020
-      <hr/>
-      
-      - *Getting to space isn’t as difficult as it used to be, but that doesn’t mean it’s easy. Relativity Space aims to vastly simplify the incredibly complex machine that is a launch vehicle by 3D-printing it from tip to tail fins. Co-founder and CEO Tim Ellis will …*
-      
-  - TVision raises $16M to measure viewer attention on connected TVs
-      <hr/>
-      
-      - *TVision is building what its team hopes will become the standard for measuring streaming viewership — and to accelerate those efforts, it’s raised $16 million in new funding. The New York City startup started out by measuring traditional TV viewing, using web…*
        
-  - The Station: Waymo makes it safety case, AV partnerships abound and the rising cost of FSD
-      <hr/>
-       
-       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Welcome back to The Station, a newsletter dedicated to all the present and future ways people and pa…*
+       - *Offline-messaging app Bridgefy — which innovatively uses Bluetooth and Wi-fi — became known as the go-to app by thousands of protesters around the world to keep communications going even when oppressive regimes blocked or shut down the Internet. Recently, act…*
       
 
 <br />
