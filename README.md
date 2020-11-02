@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A few months writing code can save you a few hours in design.
+The more code you have, the more places there are for bugs to hide.
 
-~ Anonymous
+~ Rich Skrenta
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A few months writing code can save you a few hours in design.
 </pre>
 <strong>Daily News</strong>
   
-  - Pandemic's impact disproportionately reduced VC funding for female founders
+  - Lidar startup Aeva to go public via $2.1 billion SPAC merger
      <hr/>
      
-      - *The last few quarters did not play out as as expected for venture capitalists or entrepreneurs; instead of a pandemic-fueled recession that cauterized the flow of private investment into startups, the economic shifts brought on by COVID-19 have given many com…*
+      - *Aeva, a Mountain View, Calif.-based lidar company started by two former Apple engineers and backed by Porsche SE, is merging with special purpose acquisition company InterPrivate Acquisition Corp., with a post-deal market valuation of $2.1 billion. The deal w…*
      
-  - Twilio wraps $3.2B purchase of Segment after warp speed courtship
+  - Bridgefy launches end-to-end encrypted messaging for the app used during protests and disasters
       <hr/>
       
-      - *It was barely a month ago we began hearing rumors that Twilio was interested in acquiring Segment. The $3.2 billion deal was officially announced three weeks ago, and this morning the communications API company announced that the deal had closed, astonishingl…*
+      - *Offline-messaging app Bridgefy — which innovatively uses Bluetooth and Wi-fi — became known as the go-to app by thousands of protesters around the world to keep communications going even when oppressive regimes blocked or shut down the Internet. Recently, act…*
       
-  - Haystack News adds 16 live news channels ahead of Election Day
+  - Relativity Space's Tim Ellis is coming to TC Sessions: Space 2020
       <hr/>
       
-      - *Ad-supported streaming news platform Haystack News is announcing a significant expansion ahead of U.S. Election Day. The company this morning introduced sixteen 24/7 live streaming news channels, including ABC News Live, CBSN, Al Jazeera, Euronews, Newsmax, Y…*
+      - *Getting to space isn’t as difficult as it used to be, but that doesn’t mean it’s easy. Relativity Space aims to vastly simplify the incredibly complex machine that is a launch vehicle by 3D-printing it from tip to tail fins. Co-founder and CEO Tim Ellis will …*
       
-  - Fortnite will be available for PlayStation 5 and Xbox Series X/S at launch
+  - TVision raises $16M to measure viewer attention on connected TVs
       <hr/>
       
-      - *As ever, launch title choices are likely to be a concern for gamers plunking down cash on a next-gen console. They can, however, take solace in the fact that the immensely popular battle royale title Fortnite will be available for both the PlayStation 5 and X…*
+      - *TVision is building what its team hopes will become the standard for measuring streaming viewership — and to accelerate those efforts, it’s raised $16 million in new funding. The New York City startup started out by measuring traditional TV viewing, using web…*
        
-  - MIT develops a battery-free method for navigating underwater that could transform ocean exploration
+  - The Station: Waymo makes it safety case, AV partnerships abound and the rising cost of FSD
       <hr/>
        
-       - *MIT has developed a new navigation system designed for use underwater that could do for underwater wayfinding what GPS has done for travel on and above the surface. GPS doesn’t really penetrate underwater, because radio waves aren’t really water-friendly. It’…*
+       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Welcome back to The Station, a newsletter dedicated to all the present and future ways people and pa…*
       
 
 <br />
