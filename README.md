@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+Good people with a good process will outperform good people with no process every time.
 
-~ Richard Stallman
+~ Grady Booch
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The free software community rejects the “priesthood of technology”, which ke
 </pre>
 <strong>Daily News</strong>
   
-  - UK's Marshmallow raises $30M on a $310M valuation for more 'inclusive' car insurance
+  - UK report spotlights the huge investment gap facing diverse founders
      <hr/>
      
-      - *When it comes to using algorithms and other formulae to determine what kinds of services you might offer to specific customers and at what price, the insurance industry is one of the oldest in the book. But that legacy position masks the fact that some of its…*
+      - *New research looking into how UK VC has been invested over the past decade according to race, gender and educational background makes for grim reading — with all-ethnic teams and female entrepreneurs receiving just a fraction of available funding vs all-white…*
      
+  - UK's Marshmallow raises $30M on a $310M valuation for more 'inclusive' car insurance
+      <hr/>
+      
+      - *When it comes to using algorithms and other formulae to determine what kinds of services you might offer to specific customers and at what price, the insurance industry is one of the oldest in the book. But that legacy position masks the fact that some of its…*
+      
   - Starling Bank founder Anne Boden says new book 'isn't a memoir'
       <hr/>
       
@@ -73,16 +78,11 @@ The free software community rejects the “priesthood of technology”, which ke
       <hr/>
       
       - *UPI, a payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most popular digital…*
-      
+       
   - Raspberry Pi Foundation announces the cute little Raspberry Pi 400
       <hr/>
-      
-      - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
        
-  - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
-      <hr/>
-       
-       - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
+       - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
       
 
 <br />
