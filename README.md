@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Deleted code is debugged code.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Jeff Sickel
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Deleted code is debugged code.
 </pre>
 <strong>Daily News</strong>
   
-  - Tencent claims record 100M daily users on mobile game Honor of Kings
+  - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
      <hr/>
      
-      - *At its five-year anniversary gala graced by celebrities, esports stars and orchestras, Tencent’s mobile game Honor of Kings said it has crossed 100 million daily active users. The title has not only broken user records but generated other unprecedented accomp…*
+      - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
      
+  - Tencent claims record 100M daily users on mobile game Honor of Kings
+      <hr/>
+      
+      - *At its five-year anniversary gala graced by celebrities, esports stars and orchestras, Tencent’s mobile game Honor of Kings said it has crossed 100 million daily active users. The title has not only broken user records but generated other unprecedented accomp…*
+      
   - Startup brands like the shoe company Thousand Fell are bringing circular economics to the fashion industry
       <hr/>
       
@@ -73,16 +78,11 @@ Deleted code is debugged code.
       <hr/>
       
       - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
-      
+       
   - WeWork employees used an alarmingly insecure printer password
       <hr/>
-      
-      - *The password was so simple that a customer guessed it.*
        
-  - Is fintech's Series A market hot, or just overhyped?
-      <hr/>
-       
-       - *While we are encouraged by the progress the industry has made to return to “normal,” the market for Series A fintech remains challenging for the vast majority of startup founders.*
+       - *The password was so simple that a customer guessed it.*
       
 
 <br />
