@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Everything should be made as simple as possible. But to do that you have to master complexity.
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 
-~ Butler Lampson
+~ Lawrence Flon
 <pre>
 
 </pre>
