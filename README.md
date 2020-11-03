@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming increases goes as a power of program size.
+The best way to predict the future is to invent it.
 
-~ Fred Brooks
+~ Alan Kay
 <pre>
 
 </pre>
