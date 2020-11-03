@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every good work of software starts by scratching a developer’s personal itch.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Eric S. Raymond
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Every good work of software starts by scratching a developer’s personal itch.
 </pre>
 <strong>Daily News</strong>
   
-  - Walmart reportedly ends contract with inventory robotics startup Bossa Nova
+  - Indonesian logistics platform Logisly raises $6 million Series A to digitize truck shipments
      <hr/>
      
-      - *Robotics and automation startups have seen a strong uptick in interest over the course of the pandemic. And it’s easy to see which companies have a newfound interest in automating their workforce amid a seemingly endless virus-driven shutdown. But Walmart, wh…*
+      - *Indonesia’s logistics industry is very fragmented, with several large providers operating alongside thousands of smaller companies. This means shippers often have to work with a variety of carriers, driving up costs and making supply chains harder to manage. …*
      
+  - Walmart reportedly ends contract with inventory robotics startup Bossa Nova
+      <hr/>
+      
+      - *Robotics and automation startups have seen a strong uptick in interest over the course of the pandemic. And it’s easy to see which companies have a newfound interest in automating their workforce amid a seemingly endless virus-driven shutdown. But Walmart, wh…*
+      
   - Daily Crunch: Apple announces its next big event
       <hr/>
       
@@ -73,16 +78,11 @@ Every good work of software starts by scratching a developer’s personal itch.
       <hr/>
       
       - *AWS today announced the launch of its newest GPU-equipped instances. Dubbed P4, these new instances are launching a decade after AWS launched its first set of Cluster GPU instances. This new generation is powered by Intel Cascade Lake processors and eight of …*
-      
+       
   - PayPal's earnings don't excite Wall Street, but bring good news for consumer fintech
       <hr/>
-      
-      - *PayPal’s stock is down in after-hours trading after reporting third-quarter earnings that beat expectations. It’s not immediately clear why PayPal is losing ground, although it could stem from retail investor having higher expectations than what analysts esti…*
        
-  - TikTok strikes new licensing agreement with Sony Music
-      <hr/>
-       
-       - *TikTok announced this morning it has signed new licensing agreement with Sony Music Entertainment (SME) that will allow the short-form video app to continue to offer songs from Sony Music artists for use by creators on its platform. The agreement will also se…*
+       - *PayPal’s stock is down in after-hours trading after reporting third-quarter earnings that beat expectations. It’s not immediately clear why PayPal is losing ground, although it could stem from retail investor having higher expectations than what analysts esti…*
       
 
 <br />
