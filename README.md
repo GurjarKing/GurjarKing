@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+The most important part of writing a program is designing the data structures.
 
-~ John Warnock
+~ Dan Bricklin
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ To be successful, you want to surround yourself with very talented folks whose s
 </pre>
 <strong>Daily News</strong>
   
-  - Spotify adds standalone streaming support to its Apple Watch app
+  - Waymo pauses operations in San Francisco, stays the course in Phoenix on Election Day
      <hr/>
      
-      - *Spotify confirmed today it has begun to roll out support for standalone streaming on its Apple Watch app. The feature had been spotted in testing back in September, and arrives roughly two years after Spotify first debuted its dedicated Apple Watch app. With …*
+      - *Waymo has taken a dual approach to operations on Election Day. In San Francisco, where Waymo has been testing its autonomous vehicles, driving operations have been temporarily suspended Tuesday and Wednesday “out of an abundance of caution.” Its fleet of auto…*
      
+  - Hustle Fund, a pre-seed firm, closes $30M for a new fund
+      <hr/>
+      
+      - *Hustle Fund, a pre-seed fund built by former operators and founders, has raised $30 million for a new fund, per SEC filings. Hustle Fund first filed paperwork for this fund, its second to date, in May 2019 with intention to raise $50 million. Its inaugural in…*
+      
+  - After getting the date wrong earlier, Siri now knows today is election day
+      <hr/>
+      
+      - *Listen chief, it’s election day in the United States. You know that, I know that. Everyone knows that — and in the off-chance anyone wasn’t clued into the fact, the last few weeks have offered a non-stop barrage of reminders to vote. Today. Tuesday. November …*
+      
+  - Spotify adds standalone streaming support to its Apple Watch app
+      <hr/>
+      
+      - *Spotify confirmed today it has begun to roll out support for standalone streaming on its Apple Watch app. The feature had been spotted in testing back in September, and arrives roughly two years after Spotify first debuted its dedicated Apple Watch app. With …*
+       
   - Gaming rules the entertainment industry, so why aren't investors showing up?
       <hr/>
-      
-      - *As gaming’s popularity reaches epic heights, venture investors’ activity in the industry doesn’t seem to equate with the overall size of the games market. Spurred by an unreal year where traditional entertainment has been upended by the COVID-19 pandemic and …*
-      
-  - iRobot issues warning for select Roomba i7+ docking stations over potential short circuiting
-      <hr/>
-      
-      - *Robotic vacuum giant iRobot this week sent warnings to select owners of the Roomba i7+, noting that the Clean Base docking station has the potential to malfunction and short circuit. According to iRobot, concern stems from “very rare cases,” wherein liquids a…*
-      
-  - Pulled Ant Group IPO costs Alibaba nearly $60B in market cap
-      <hr/>
-      
-      - *News today that Ant Group’s IPO is suddenly on hold in both Shanghai and Hong Kong caused a selloff of Alibaba shares. This afternoon, equity in sister-company Alibaba is off around 8% in the wake of the delayed offering, and news that Ant had run into regula…*
        
-  - Hulu tests its social viewing feature, Watch Party, with election news live streams
-      <hr/>
-       
-       - *Hulu is bringing its Watch Party social viewing feature to its live-streamed election news coverage, provided via its existing partnership with ABC News Live. The company announced today it will allow its on-demand customers to test Watch Party while watching…*
+       - *As gaming’s popularity reaches epic heights, venture investors’ activity in the industry doesn’t seem to equate with the overall size of the games market. Spurred by an unreal year where traditional entertainment has been upended by the COVID-19 pandemic and …*
       
 
 <br />
