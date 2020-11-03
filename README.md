@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 
-~ Richard P. Gabriel
+~ David Leinweber
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Over half of the time you spend working on a project is spent thinking, and no t
 </pre>
 <strong>Daily News</strong>
   
-  - Crypto wallet app ZenGo to launch debit card
+  - Udacity raises $75M in debt, says its tech education business is profitable after enterprise pivot
      <hr/>
      
-      - *ZenGo, a mobile app to manage your cryptocurrencies, is about to launch a Visa debit card in the U.S. This isn’t the first crypto-powered debit card — Coinbase announced a U.S. expansion for its debit card just last week. But ZenGo is a non-custodial wallet, …*
+      - *Online education tools continue to see a surge of interest boosted by major changes in work and learning practices in the midst of a global health pandemic. And today, one of the early pioneers of the medium is announcing some funding as it tips into profitab…*
      
+  - 4 takeaways from fintech VC in Q3 2020
+      <hr/>
+      
+      - *Fintech has been a key startup story in recent quarters, with leading players in the genre raising titanic rounds at eye-popping valuations. Consider companies like Robinhood, and its epic capital run this year on the back of huge revenue growth, or Chime, wh…*
+      
+  - China postpones Ant's colossal IPO after closed-door talk with Jack Ma
+      <hr/>
+      
+      - *The Shanghai and Hong Kong stock exchanges announced postponing Ant Group’s colossal initial public offering, a day after Chinese regulators weighed a slew of new fintech rules and summoned Jack Ma and other top executives to a closed-door meeting. The rare t…*
+      
+  - Crypto wallet app ZenGo to launch debit card
+      <hr/>
+      
+      - *ZenGo, a mobile app to manage your cryptocurrencies, is about to launch a Visa debit card in the U.S. This isn’t the first crypto-powered debit card — Coinbase announced a U.S. expansion for its debit card just last week. But ZenGo is a non-custodial wallet, …*
+       
   - VC Seth Bannon on how a Biden administration might best support climate startups
       <hr/>
-      
-      - *It’s too soon to know who will win the U.S. election tomorrow. Tomorrow may even be too soon to know who wins the election. But it’s always a good time to talk with investors about how they’re thinking about the future, and some can’t help but ponder the poss…*
-      
-  - Twitter hides Trump tweet attacking Supreme Court's decision on Pennsylvania ballots
-      <hr/>
-      
-      - *In an election eve preview of what to expect in the coming days, President Trump pushed the limits on Twitter’s election-specific policies Monday night. In a tweet, Trump railed against the Supreme Court’s decision to allow Pennsylvania officials to count bal…*
-      
-  - REEF Technology raises $700M from SoftBank and others to remake parking lots
-      <hr/>
-      
-      - *It seems like SoftBank and the Mubadala Corp. aren’t finished taking big swings at the commercial real estate business in the U.S. Even after the collapse of WeWork, the investors are doubling down on a similar business model as part of a syndicate investing …*
        
-  - Gillmor Gang: Shaken Not Stirred
-      <hr/>
-       
-       - *With one day to go to the election, our thoughts are with those who look forward to talking about something else. Difficult as it might be to imagine, there must be other things to work on. One thing that comes to mind is the impact of the virus on how we man…*
+       - *It’s too soon to know who will win the U.S. election tomorrow. Tomorrow may even be too soon to know who wins the election. But it’s always a good time to talk with investors about how they’re thinking about the future, and some can’t help but ponder the poss…*
       
 
 <br />
