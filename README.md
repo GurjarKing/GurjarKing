@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+Everything should be made as simple as possible. But to do that you have to master complexity.
 
-~ Joseph Yoder (computer scientist)
+~ Butler Lampson
 <pre>
 
 </pre>
