@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+If you learn how to solve problems, you can go through life and do pretty well.
 
-~ Tim Berners-Lee
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I invented the Web just because I needed it, really, because it was so frustrati
 </pre>
 <strong>Daily News</strong>
   
-  - How startups can shake up their first idea and still crush the market
+  - Hulu tests its social viewing feature, Watch Party, with election news live streams
      <hr/>
      
-      - *When Quibi announced it was shutting its doors recently after raising $1.75 billion, it begged an obvious question: If the original idea didn’t work, why not adjust its model or do something completely different while it still had capital? It wouldn’t have be…*
+      - *Hulu is bringing its Watch Party social viewing feature to its live-streamed election news coverage, provided via its existing partnership with ABC News Live. The company announced today it will allow its on-demand customers to test Watch Party while watching…*
      
+  - How startups can shake up their first idea and still crush the market
+      <hr/>
+      
+      - *When Quibi announced it was shutting its doors recently after raising $1.75 billion, it begged an obvious question: If the original idea didn’t work, why not adjust its model or do something completely different while it still had capital? It wouldn’t have be…*
+      
   - NBC News launches an iOS 14 widget that puts election results on your home screen
       <hr/>
       
@@ -73,16 +78,11 @@ I invented the Web just because I needed it, really, because it was so frustrati
       <hr/>
       
       - *Tech stocks shot higher as American voters went to the polls, the gains coming far ahead of results that could indicate who will win the presidency. American stocks broadly rose, with the S&P 500 index rising just over 2% while the tech-heavy Nasdaq Composite…*
-      
+       
   - Mov gives you a chance to win your favorite athlete's game day attire -- sweat, tears and all
       <hr/>
-      
-      - *“If it smells, that’s how they’re going to receive it.” While that claim would likely make most D2C founders cringe, for founder Chris Alston, it’s part of the magic of his company, Mov. The upstart, based in Los Angeles, connects fans to the game-worn appare…*
        
-  - PayPal details its digital wallet plans for 2021, including crypto, Honey integration and more
-      <hr/>
-       
-       - *PayPal this week laid out its vision for the future of its digital wallet platform and its PayPal and Venmo apps. During its third-quarter earnings on Monday, the company said it plans to roll out substantial changes to its mobile apps over the next year to i…*
+       - *“If it smells, that’s how they’re going to receive it.” While that claim would likely make most D2C founders cringe, for founder Chris Alston, it’s part of the magic of his company, Mov. The upstart, based in Los Angeles, connects fans to the game-worn appare…*
       
 
 <br />
