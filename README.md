@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Any product that needs a manual to work is broken.
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 
-~ Elon Musk
+~ John Warnock
 <pre>
 
 </pre>
