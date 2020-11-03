@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 
-~ Donald Knuth
+~ Richard P. Gabriel
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
 </pre>
 <strong>Daily News</strong>
   
-  - VC Seth Bannon on how a Biden administration might best support climate startups
+  - Crypto wallet app ZenGo to launch debit card
      <hr/>
      
-      - *It’s too soon to know who will win the U.S. election tomorrow. Tomorrow may even be too soon to know who wins the election. But it’s always a good time to talk with investors about how they’re thinking about the future, and some can’t help but ponder the poss…*
+      - *ZenGo, a mobile app to manage your cryptocurrencies, is about to launch a Visa debit card in the U.S. This isn’t the first crypto-powered debit card — Coinbase announced a U.S. expansion for its debit card just last week. But ZenGo is a non-custodial wallet, …*
      
+  - VC Seth Bannon on how a Biden administration might best support climate startups
+      <hr/>
+      
+      - *It’s too soon to know who will win the U.S. election tomorrow. Tomorrow may even be too soon to know who wins the election. But it’s always a good time to talk with investors about how they’re thinking about the future, and some can’t help but ponder the poss…*
+      
   - Twitter hides Trump tweet attacking Supreme Court's decision on Pennsylvania ballots
       <hr/>
       
@@ -73,16 +78,11 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
       <hr/>
       
       - *It seems like SoftBank and the Mubadala Corp. aren’t finished taking big swings at the commercial real estate business in the U.S. Even after the collapse of WeWork, the investors are doubling down on a similar business model as part of a syndicate investing …*
-      
+       
   - Gillmor Gang: Shaken Not Stirred
       <hr/>
-      
-      - *With one day to go to the election, our thoughts are with those who look forward to talking about something else. Difficult as it might be to imagine, there must be other things to work on. One thing that comes to mind is the impact of the virus on how we man…*
        
-  - Indonesian logistics platform Logisly raises $6 million Series A to digitize truck shipments
-      <hr/>
-       
-       - *Indonesia’s logistics industry is very fragmented, with several large providers operating alongside thousands of smaller companies. This means shippers often have to work with a variety of carriers, driving up costs and making supply chains harder to manage. …*
+       - *With one day to go to the election, our thoughts are with those who look forward to talking about something else. Difficult as it might be to imagine, there must be other things to work on. One thing that comes to mind is the impact of the virus on how we man…*
       
 
 <br />
