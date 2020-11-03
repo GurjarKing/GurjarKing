@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
+Any product that needs a manual to work is broken.
 
-~ Daniel T. Barry
+~ Elon Musk
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The notions of correctness in mathematics and programs are different. A mathemat
 </pre>
 <strong>Daily News</strong>
   
-  - Pulled Ant Group IPO costs Alibaba nearly $60B in market cap
+  - Spotify adds standalone streaming support to its Apple Watch app
      <hr/>
      
-      - *News today that Ant Group’s IPO is suddenly on hold in both Shanghai and Hong Kong caused a selloff of Alibaba shares. This afternoon, equity in sister-company Alibaba is off around 8% in the wake of the delayed offering, and news that Ant had run into regula…*
+      - *Spotify confirmed today it has begun to roll out support for standalone streaming on its Apple Watch app. The feature had been spotted in testing back in September, and arrives roughly two years after Spotify first debuted its dedicated Apple Watch app. With …*
      
+  - Gaming rules the entertainment industry, so why aren't investors showing up?
+      <hr/>
+      
+      - *As gaming’s popularity reaches epic heights, venture investors’ activity in the industry doesn’t seem to equate with the overall size of the games market. Spurred by an unreal year where traditional entertainment has been upended by the COVID-19 pandemic and …*
+      
+  - iRobot issues warning for select Roomba i7+ docking stations over potential short circuiting
+      <hr/>
+      
+      - *Robotic vacuum giant iRobot this week sent warnings to select owners of the Roomba i7+, noting that the Clean Base docking station has the potential to malfunction and short circuit. According to iRobot, concern stems from “very rare cases,” wherein liquids a…*
+      
+  - Pulled Ant Group IPO costs Alibaba nearly $60B in market cap
+      <hr/>
+      
+      - *News today that Ant Group’s IPO is suddenly on hold in both Shanghai and Hong Kong caused a selloff of Alibaba shares. This afternoon, equity in sister-company Alibaba is off around 8% in the wake of the delayed offering, and news that Ant had run into regula…*
+       
   - Hulu tests its social viewing feature, Watch Party, with election news live streams
       <hr/>
-      
-      - *Hulu is bringing its Watch Party social viewing feature to its live-streamed election news coverage, provided via its existing partnership with ABC News Live. The company announced today it will allow its on-demand customers to test Watch Party while watching…*
-      
-  - How startups can shake up their first idea and still crush the market
-      <hr/>
-      
-      - *When Quibi announced it was shutting its doors recently after raising $1.75 billion, it begged an obvious question: If the original idea didn’t work, why not adjust its model or do something completely different while it still had capital? It wouldn’t have be…*
-      
-  - NBC News launches an iOS 14 widget that puts election results on your home screen
-      <hr/>
-      
-      - *NBC News has updated its iOS app with a new feature that brings election news, data and results directly to your iPhone or iPad home screen. With the app’s new “Decision 2020” iOS 14 widget, you can customize a series of widgets with information related to ea…*
        
-  - Tech stocks rip higher on Election Day
-      <hr/>
-       
-       - *Tech stocks shot higher as American voters went to the polls, the gains coming far ahead of results that could indicate who will win the presidency. American stocks broadly rose, with the S&P 500 index rising just over 2% while the tech-heavy Nasdaq Composite…*
+       - *Hulu is bringing its Watch Party social viewing feature to its live-streamed election news coverage, provided via its existing partnership with ABC News Live. The company announced today it will allow its on-demand customers to test Watch Party while watching…*
       
 
 <br />
