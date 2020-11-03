@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ Edsger W. Dijkstra
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The use of COBOL cripples the mind; its teaching should, therefore, be regarded 
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter hides Trump tweet attacking Supreme Court's decision on Pennsylvania ballots
+  - VC Seth Bannon on how a Biden administration might best support climate startups
      <hr/>
      
-      - *In an election eve preview of what to expect in the coming days, President Trump pushed the limits on Twitter’s election-specific policies Monday night. In a tweet, Trump railed against the Supreme Court’s decision to allow Pennsylvania officials to count bal…*
+      - *It’s too soon to know who will win the U.S. election tomorrow. Tomorrow may even be too soon to know who wins the election. But it’s always a good time to talk with investors about how they’re thinking about the future, and some can’t help but ponder the poss…*
      
+  - Twitter hides Trump tweet attacking Supreme Court's decision on Pennsylvania ballots
+      <hr/>
+      
+      - *In an election eve preview of what to expect in the coming days, President Trump pushed the limits on Twitter’s election-specific policies Monday night. In a tweet, Trump railed against the Supreme Court’s decision to allow Pennsylvania officials to count bal…*
+      
   - REEF Technology raises $700M from SoftBank and others to remake parking lots
       <hr/>
       
@@ -73,16 +78,11 @@ The use of COBOL cripples the mind; its teaching should, therefore, be regarded 
       <hr/>
       
       - *With one day to go to the election, our thoughts are with those who look forward to talking about something else. Difficult as it might be to imagine, there must be other things to work on. One thing that comes to mind is the impact of the virus on how we man…*
-      
+       
   - Indonesian logistics platform Logisly raises $6 million Series A to digitize truck shipments
       <hr/>
-      
-      - *Indonesia’s logistics industry is very fragmented, with several large providers operating alongside thousands of smaller companies. This means shippers often have to work with a variety of carriers, driving up costs and making supply chains harder to manage. …*
        
-  - Walmart reportedly ends contract with inventory robotics startup Bossa Nova
-      <hr/>
-       
-       - *Robotics and automation startups have seen a strong uptick in interest over the course of the pandemic. And it’s easy to see which companies have a newfound interest in automating their workforce amid a seemingly endless virus-driven shutdown. But Walmart, wh…*
+       - *Indonesia’s logistics industry is very fragmented, with several large providers operating alongside thousands of smaller companies. This means shippers often have to work with a variety of carriers, driving up costs and making supply chains harder to manage. …*
       
 
 <br />
