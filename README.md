@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Butler Lampson
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Nobody knows how to build really complicated hardware systems, so designing hard
 </pre>
 <strong>Daily News</strong>
   
-  - Mov gives you a chance to win your favorite athlete's game day attire -- sweat, tears and all
+  - How startups can shake up their first idea and still crush the market
      <hr/>
      
-      - *“If it smells, that’s how they’re going to receive it.” While that claim would likely make most D2C founders cringe, for founder Chris Alston, it’s part of the magic of his company, Mov. The upstart, based in Los Angeles, connects fans to the game-worn appare…*
+      - *When Quibi announced it was shutting its doors recently after raising $1.75 billion, it begged an obvious question: If the original idea didn’t work, why not adjust its model or do something completely different while it still had capital? It wouldn’t have be…*
      
+  - NBC News launches an iOS 14 widget that puts election results on your home screen
+      <hr/>
+      
+      - *NBC News has updated its iOS app with a new feature that brings election news, data and results directly to your iPhone or iPad home screen. With the app’s new “Decision 2020” iOS 14 widget, you can customize a series of widgets with information related to ea…*
+      
+  - Tech stocks rip higher on Election Day
+      <hr/>
+      
+      - *Tech stocks shot higher as American voters went to the polls, the gains coming far ahead of results that could indicate who will win the presidency. American stocks broadly rose, with the S&P 500 index rising just over 2% while the tech-heavy Nasdaq Composite…*
+      
+  - Mov gives you a chance to win your favorite athlete's game day attire -- sweat, tears and all
+      <hr/>
+      
+      - *“If it smells, that’s how they’re going to receive it.” While that claim would likely make most D2C founders cringe, for founder Chris Alston, it’s part of the magic of his company, Mov. The upstart, based in Los Angeles, connects fans to the game-worn appare…*
+       
   - PayPal details its digital wallet plans for 2021, including crypto, Honey integration and more
       <hr/>
-      
-      - *PayPal this week laid out its vision for the future of its digital wallet platform and its PayPal and Venmo apps. During its third-quarter earnings on Monday, the company said it plans to roll out substantial changes to its mobile apps over the next year to i…*
-      
-  - Got the right stuff? Exhibit and pitch at TC Sessions: Space 2020
-      <hr/>
-      
-      - *Do you find expression “the sky’s the limit” well, limiting? Join a global community of brilliant visionaries, makers and investors on December 16-17 for TC Sessions: Space 2020, an online conference dedicated to moving beyond the confines of this world throu…*
-      
-  - Udacity raises $75M in debt, says its tech education business is profitable after enterprise pivot
-      <hr/>
-      
-      - *Online education tools continue to see a surge of interest boosted by major changes in work and learning practices in the midst of a global health pandemic. And today, one of the early pioneers of the medium is announcing some funding as it tips into profitab…*
        
-  - 4 takeaways from fintech VC in Q3 2020
-      <hr/>
-       
-       - *Fintech has been a key startup story in recent quarters, with leading players in the genre raising titanic rounds at eye-popping valuations. Consider companies like Robinhood, and its epic capital run this year on the back of huge revenue growth, or Chime, wh…*
+       - *PayPal this week laid out its vision for the future of its digital wallet platform and its PayPal and Venmo apps. During its third-quarter earnings on Monday, the company said it plans to roll out substantial changes to its mobile apps over the next year to i…*
       
 
 <br />
