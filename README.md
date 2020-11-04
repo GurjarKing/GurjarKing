@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
 
-~ Ada Lovelace
+~ George Boole
 <pre>
 
 </pre>
