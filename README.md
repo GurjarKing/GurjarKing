@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 
-~ Martin Fowler
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ W​henever I have to think to understand what the code is doing, I ask myself i
 </pre>
 <strong>Daily News</strong>
   
-  - Will new SEC equity crowdfunding rules encourage more founders to pass the hat?
+  - Close US election results plunge social media into nightmare misinformation scenario
      <hr/>
      
-      - *The flow of venture capital in 2020 has been surprisingly strong given the year’s general uncertainty, but while investors have showered plenty of dough on growth-stage companies, seed-stage startups are down 32% last quarter compared to the year before. Ther…*
+      - *When Trump spoke early Tuesday morning, it became clear which long-dreaded election scenario an anxious nation was on the cusp of. “This is a fraud on the American public,” Trump said in remarks delivered from the White House, mixing his campaign with the pre…*
      
+  - Election Day was largely free from disruptive cyberattacks, as efforts shift to combating misinformation
+      <hr/>
+      
+      - *But Homeland Security's cybersecurity unit said "we're not out of the woods yet."*
+      
+  - Will new SEC equity crowdfunding rules encourage more founders to pass the hat?
+      <hr/>
+      
+      - *The flow of venture capital in 2020 has been surprisingly strong given the year’s general uncertainty, but while investors have showered plenty of dough on growth-stage companies, seed-stage startups are down 32% last quarter compared to the year before. Ther…*
+      
   - Portland, Maine passes referendum banning facial surveillance
       <hr/>
       
       - *As we’re currently shifting through all of the national and local votes from last night’s elections, here’s a small but important victory for privacy advocates out of Portland, Maine . Per the Bangor Daily News, the city passed “Referendum Question B,” design…*
-      
+       
   - Cannabis legalization measures set to pass in 5 states
       <hr/>
-      
-      - *Cannabis legalization was on five state ballots yesterday and ran the table. All the measures passed, making cannabis legal, in some form, in five new states. Voters in Oregon, where cannabis is already legal, also approved a measure addressing street drugs a…*
-      
-  - Student discount passes available for TC Sessions: Space 2020
-      <hr/>
-      
-      - *Whether space is the final frontier remains to be seen, but it’s certainly the next one as far as we’re concerned. On December 16-17, we’re hosting TC Sessions: Space 2020, a two-day online conference and our first event focused squarely on space technology a…*
        
-  - As tech stocks rally, bring on the IPOs
-      <hr/>
-       
-       - *During yesterday’s tense voting and this morning, shares of American-listed technology companies are shooting higher. The tech-heavy Nasdaq Composite is up around 3.35% this morning, more than double what the broad S&P 500 index is currently managing. SaaS an…*
+       - *Cannabis legalization was on five state ballots yesterday and ran the table. All the measures passed, making cannabis legal, in some form, in five new states. Voters in Oregon, where cannabis is already legal, also approved a measure addressing street drugs a…*
       
 
 <br />
