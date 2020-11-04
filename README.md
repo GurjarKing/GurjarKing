@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
 
-~ George Boole
+~ Andy Hertzfeld
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ No matter how correct a mathematical theorem may appear to be, one ought never t
 </pre>
 <strong>Daily News</strong>
   
-  - CA ballot measure that keeps gig workers as independent contractors is projected to pass
+  - Shares of Uber, Lyft soar on expected passage of California gig-labor ballot measure
      <hr/>
      
-      - *Uber, Lyft, Instacart, DoorDash — the major backers of California’s Proposition 22 — are getting their way. The proposition, which will keep gig workers classified as independent contractors, is projected to pass. The Associated Press called the race with 67%…*
+      - *Shares of American ride-hailing giants Uber and Lyft are sharply higher in pre-market trading this morning on the expected passage of Proposition 22, a California ballot measure that allow tech-enabled, on-demand companies to continue classifying gig-workers …*
      
+  - CA ballot measure that keeps gig workers as independent contractors is projected to pass
+      <hr/>
+      
+      - *Uber, Lyft, Instacart, DoorDash — the major backers of California’s Proposition 22 — are getting their way. The proposition, which will keep gig workers classified as independent contractors, is projected to pass. The Associated Press called the race with 67%…*
+      
   - Twitter restricts Trump's tweet raising fears that foes would 'steal' the election
       <hr/>
       
@@ -73,16 +78,11 @@ No matter how correct a mathematical theorem may appear to be, one ought never t
       <hr/>
       
       - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
-      
+       
   - Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning
       <hr/>
-      
-      - *Intel continues to snap up startups to build out its machine learning and AI operations. In the latest move, TechCrunch has learned that the chip giant has acquired Cnvrg.io, an Israeli company that has built and operates a platform for data scientists to bui…*
        
-  - Report: U.S. visas granted to students from mainland China have plummeted 99% since April
-      <hr/>
-       
-       - *It’s no secret that the Trump administration has pursued a variety of avenues to keep foreigners out of the U.S., including through a recent overhaul of the H-1B visa program for high-skilled foreign workers that will require employers to pay H-1B workers hig…*
+       - *Intel continues to snap up startups to build out its machine learning and AI operations. In the latest move, TechCrunch has learned that the chip giant has acquired Cnvrg.io, an Israeli company that has built and operates a platform for data scientists to bui…*
       
 
 <br />
