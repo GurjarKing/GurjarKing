@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
-~ Edsger W. Dijkstra
+~ Douglas Crockford
 <pre>
 
 </pre>
