@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
 
-~ David Parnas
+~ Donald Knuth
 <pre>
 
 </pre>
