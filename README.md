@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Poul-Henning Kamp
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Make a guess, double the number, and then move to the next larger unit of time. 
 </pre>
 <strong>Daily News</strong>
   
-  - Zynga reports record revenue and strong user growth while still losing $122M
+  - Hands-on with Mophie’s new modular smartphone battery case
      <hr/>
      
-      - *Zynga’s revenue grew to a record $503 million (up 46% year-over-year) in the third quarter, with bookings of $628 million (up 59%), according to its latest earnings report. It also had its best mobile daily active user (31 million) and monthly active user (83…*
+      - *There was some confusion when the Juice Pack Connect was announced last week. I admit I was a bit confused, too. It was, no doubt, the proximity to Apple’s iPhone 12 launch that lead many to (understandably) assume that the new take on Mophie’s case is based …*
      
+  - B2B marketplaces will be the next billion-dollar e-commerce startups
+      <hr/>
+      
+      - *Merritt Hummer Contributor Share on Twitter Merritt Hummer is a partner at Bain Capital Ventures, where she invests in the fintech, e-commerce and proptech sectors. Startups involved in B2B e-commerce such as Faire and Mirakl have burst out of the gates in 20…*
+      
+  - Zynga reports record revenue and strong user growth while still losing $122M
+      <hr/>
+      
+      - *Zynga’s revenue grew to a record $503 million (up 46% year-over-year) in the third quarter, with bookings of $628 million (up 59%), according to its latest earnings report. It also had its best mobile daily active user (31 million) and monthly active user (83…*
+      
   - Learn how to score your first check with TMV’s Soraya Darabi on November 10
       <hr/>
       
       - *When it comes to financing a startup, the most important — and hardest — check to land is the very first one. The growth of accelerators, rolling funds, community funds, hungry angels and institutional investors has given founders more options than ever befor…*
-      
+       
   - TikTok takes down election misinformation aimed at younger users
       <hr/>
-      
-      - *TikTok confirmed today it has taken down videos spreading election misinformation that had been posted to two high-profile Republican-supporting accounts, The Republican Hype House and The Republican Boys. The accounts, popular with young, conservative voters…*
-      
-  - Massachusetts voters pass a right-to-repair measure, giving them unprecedented access to their car data
-      <hr/>
-      
-      - *A ballot measure passed by 75% of voters in Massachusetts has resolved a thorny question that could have widespread implications for the automotive industry: once a person buys a vehicle, they own all of its data. The measure, listed on the ballot as Question…*
        
-  - Close US election results plunge social media into nightmare misinformation scenario
-      <hr/>
-       
-       - *When Trump spoke early Tuesday morning, it became clear which long-dreaded election scenario an anxious nation was on the cusp of. “This is a fraud on the American public,” Trump said in remarks delivered from the White House, mixing his campaign with the pre…*
+       - *TikTok confirmed today it has taken down videos spreading election misinformation that had been posted to two high-profile Republican-supporting accounts, The Republican Hype House and The Republican Boys. The accounts, popular with young, conservative voters…*
       
 
 <br />
