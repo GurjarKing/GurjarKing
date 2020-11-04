@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ L. Peter Deutsch
+~ Alan Turing
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Every now and then I feel a temptation to design a programming language but then
 </pre>
 <strong>Daily News</strong>
   
-  - Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning
+  - A QAnon supporter is headed to Congress
      <hr/>
      
-      - *Intel continues to snap up startups to build out its machine learning and AI operations. In the latest move, TechCrunch has learned that the chip giant has acquired Cnvrg.io, an Israeli company that has built and operates a platform for data scientists to bui…*
+      - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
      
+  - Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning
+      <hr/>
+      
+      - *Intel continues to snap up startups to build out its machine learning and AI operations. In the latest move, TechCrunch has learned that the chip giant has acquired Cnvrg.io, an Israeli company that has built and operates a platform for data scientists to bui…*
+      
   - Report: U.S. visas granted to students from mainland China have plummeted 99% since April
       <hr/>
       
@@ -73,16 +78,11 @@ Every now and then I feel a temptation to design a programming language but then
       <hr/>
       
       - *Even as the country is in the final days of a polarizing election, the cogs of VC never stop turning. On this ever-so-quiet, non-election-news Tuesday, venture firms still managed to file paperwork with the SEC indicating newly raised funds. Precursor Venture…*
-      
+       
   - 'Stay home' robocalls on Election Day prompt warnings, investigation
       <hr/>
-      
-      - *A scourge of robocalls that urges Americans to “stay safe and stay home” has gotten the attention of the FBI and the New York Attorney General over concerns of voter suppression. The brief message, which doesn’t specifically mention Election Day, has prompted…*
        
-  - Daily Crunch: China postpones Ant Group IPO
-      <hr/>
-       
-       - *Yes, there’s a high-stakes presidential election underway, but tech news doesn’t stop completely: Chinese regulators pull the brakes on Ant Group’s IPO, Spotify adds standalone streaming support on Apple Watch and PayPal outlines its plans for 2021. This is y…*
+       - *A scourge of robocalls that urges Americans to “stay safe and stay home” has gotten the attention of the FBI and the New York Attorney General over concerns of voter suppression. The brief message, which doesn’t specifically mention Election Day, has prompted…*
       
 
 <br />
