@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.
 
-~ Douglas Crockford
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ One of the things I’ve been pushing is code reading. I think that is the most 
 </pre>
 <strong>Daily News</strong>
   
-  - Close US election results plunge social media into nightmare misinformation scenario
+  - TikTok takes down election misinformation aimed at younger users
      <hr/>
      
-      - *When Trump spoke early Tuesday morning, it became clear which long-dreaded election scenario an anxious nation was on the cusp of. “This is a fraud on the American public,” Trump said in remarks delivered from the White House, mixing his campaign with the pre…*
+      - *TikTok confirmed today it has taken down videos spreading election misinformation that had been posted to two high-profile Republican-supporting accounts, The Republican Hype House and The Republican Boys. The accounts, popular with young, conservative voters…*
      
+  - Massachusetts voters pass a right-to-repair measure, giving them unprecedented access to their car data
+      <hr/>
+      
+      - *A ballot measure passed by 75% of voters in Massachusetts has resolved a thorny question that could have widespread implications for the automotive industry: once a person buys a vehicle, they own all of its data. The measure, listed on the ballot as Question…*
+      
+  - Close US election results plunge social media into nightmare misinformation scenario
+      <hr/>
+      
+      - *When Trump spoke early Tuesday morning, it became clear which long-dreaded election scenario an anxious nation was on the cusp of. “This is a fraud on the American public,” Trump said in remarks delivered from the White House, mixing his campaign with the pre…*
+      
   - Election Day was largely free from disruptive cyberattacks, as efforts shift to combating misinformation
       <hr/>
       
       - *But Homeland Security's cybersecurity unit said "we're not out of the woods yet."*
-      
+       
   - Will new SEC equity crowdfunding rules encourage more founders to pass the hat?
       <hr/>
-      
-      - *The flow of venture capital in 2020 has been surprisingly strong given the year’s general uncertainty, but while investors have showered plenty of dough on growth-stage companies, seed-stage startups are down 32% last quarter compared to the year before. Ther…*
-      
-  - Portland, Maine passes referendum banning facial surveillance
-      <hr/>
-      
-      - *As we’re currently shifting through all of the national and local votes from last night’s elections, here’s a small but important victory for privacy advocates out of Portland, Maine . Per the Bangor Daily News, the city passed “Referendum Question B,” design…*
        
-  - Cannabis legalization measures set to pass in 5 states
-      <hr/>
-       
-       - *Cannabis legalization was on five state ballots yesterday and ran the table. All the measures passed, making cannabis legal, in some form, in five new states. Voters in Oregon, where cannabis is already legal, also approved a measure addressing street drugs a…*
+       - *The flow of venture capital in 2020 has been surprisingly strong given the year’s general uncertainty, but while investors have showered plenty of dough on growth-stage companies, seed-stage startups are down 32% last quarter compared to the year before. Ther…*
       
 
 <br />
