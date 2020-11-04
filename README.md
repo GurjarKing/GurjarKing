@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
 ~ Edsger W. Dijkstra
 <pre>
@@ -59,11 +59,16 @@ If you want more effective programmers, you will discover that they should not w
 </pre>
 <strong>Daily News</strong>
   
-  - A QAnon supporter is headed to Congress
+  - Twitter restricts Trump's tweet raising fears that foes would 'steal' the election
      <hr/>
      
-      - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
+      - *With key wins notched in a few states, Trump didn’t declare victory prematurely on election night as social media companies feared — but he did baselessly raise the specter of voter fraud. “We are up BIG, but they are trying to STEAL the Election,” Trump twee…*
      
+  - A QAnon supporter is headed to Congress
+      <hr/>
+      
+      - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
+      
   - Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning
       <hr/>
       
@@ -73,16 +78,11 @@ If you want more effective programmers, you will discover that they should not w
       <hr/>
       
       - *It’s no secret that the Trump administration has pursued a variety of avenues to keep foreigners out of the U.S., including through a recent overhaul of the H-1B visa program for high-skilled foreign workers that will require employers to pay H-1B workers hig…*
-      
+       
   - Insight Partners, Precursor Ventures join Hustle Fund in raising new fund money
       <hr/>
-      
-      - *Even as the country is in the final days of a polarizing election, the cogs of VC never stop turning. On this ever-so-quiet, non-election-news Tuesday, venture firms still managed to file paperwork with the SEC indicating newly raised funds. Precursor Venture…*
        
-  - 'Stay home' robocalls on Election Day prompt warnings, investigation
-      <hr/>
-       
-       - *A scourge of robocalls that urges Americans to “stay safe and stay home” has gotten the attention of the FBI and the New York Attorney General over concerns of voter suppression. The brief message, which doesn’t specifically mention Election Day, has prompted…*
+       - *Even as the country is in the final days of a polarizing election, the cogs of VC never stop turning. On this ever-so-quiet, non-election-news Tuesday, venture firms still managed to file paperwork with the SEC indicating newly raised funds. Precursor Venture…*
       
 
 <br />
