@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The most important part of writing a program is designing the data structures.
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 
-~ Dan Bricklin
+~ Philip Greenspun
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The most important part of writing a program is designing the data structures.
 </pre>
 <strong>Daily News</strong>
   
-  - Waymo pauses operations in San Francisco, stays the course in Phoenix on Election Day
+  - Report: U.S. visas granted to students from mainland China have plummeted 99% since April
      <hr/>
      
-      - *Waymo has taken a dual approach to operations on Election Day. In San Francisco, where Waymo has been testing its autonomous vehicles, driving operations have been temporarily suspended Tuesday and Wednesday “out of an abundance of caution.” Its fleet of auto…*
+      - *It’s no secret that the Trump administration has pursued a variety of avenues to keep foreigners out of the U.S., including through a recent overhaul of the H-1B visa program for high-skilled foreign workers that will require employers to pay H-1B workers hig…*
      
-  - Hustle Fund, a pre-seed firm, closes $30M for a new fund
+  - Insight Partners, Precursor Ventures join Hustle Fund in raising new fund money
       <hr/>
       
-      - *Hustle Fund, a pre-seed fund built by former operators and founders, has raised $30 million for a new fund, per SEC filings. Hustle Fund first filed paperwork for this fund, its second to date, in May 2019 with intention to raise $50 million. Its inaugural in…*
+      - *Even as the country is in the final days of a polarizing election, the cogs of VC never stop turning. On this ever-so-quiet, non-election-news Tuesday, venture firms still managed to file paperwork with the SEC indicating newly raised funds. Precursor Venture…*
       
-  - After getting the date wrong earlier, Siri now knows today is election day
+  - 'Stay home' robocalls on Election Day prompt warnings, investigation
       <hr/>
       
-      - *Listen chief, it’s election day in the United States. You know that, I know that. Everyone knows that — and in the off-chance anyone wasn’t clued into the fact, the last few weeks have offered a non-stop barrage of reminders to vote. Today. Tuesday. November …*
+      - *A scourge of robocalls that urges Americans to “stay safe and stay home” has gotten the attention of the FBI and the New York Attorney General over concerns of voter suppression. The brief message, which doesn’t specifically mention Election Day, has prompted…*
       
-  - Spotify adds standalone streaming support to its Apple Watch app
+  - Daily Crunch: China postpones Ant Group IPO
       <hr/>
       
-      - *Spotify confirmed today it has begun to roll out support for standalone streaming on its Apple Watch app. The feature had been spotted in testing back in September, and arrives roughly two years after Spotify first debuted its dedicated Apple Watch app. With …*
+      - *Yes, there’s a high-stakes presidential election underway, but tech news doesn’t stop completely: Chinese regulators pull the brakes on Ant Group’s IPO, Spotify adds standalone streaming support on Apple Watch and PayPal outlines its plans for 2021. This is y…*
        
-  - Gaming rules the entertainment industry, so why aren't investors showing up?
+  - Waymo pauses operations in San Francisco, stays the course in Phoenix on Election Day
       <hr/>
        
-       - *As gaming’s popularity reaches epic heights, venture investors’ activity in the industry doesn’t seem to equate with the overall size of the games market. Spurred by an unreal year where traditional entertainment has been upended by the COVID-19 pandemic and …*
+       - *Waymo has taken a dual approach to operations on Election Day. In San Francisco, where Waymo has been testing its autonomous vehicles, driving operations have been temporarily suspended Tuesday and Wednesday “out of an abundance of caution.” Its fleet of auto…*
       
 
 <br />
