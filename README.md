@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 
-~ Edsger W. Dijkstra
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The competent programmer is fully aware of the strictly limited size of his own 
 </pre>
 <strong>Daily News</strong>
   
-  - Portland, Maine passes referendum banning facial surveillance
+  - Will new SEC equity crowdfunding rules encourage more founders to pass the hat?
      <hr/>
      
-      - *As we’re currently shifting through all of the national and local votes from last night’s elections, here’s a small but important victory for privacy advocates out of Portland, Maine . Per the Bangor Daily News, the city passed “Referendum Question B,” design…*
+      - *The flow of venture capital in 2020 has been surprisingly strong given the year’s general uncertainty, but while investors have showered plenty of dough on growth-stage companies, seed-stage startups are down 32% last quarter compared to the year before. Ther…*
      
+  - Portland, Maine passes referendum banning facial surveillance
+      <hr/>
+      
+      - *As we’re currently shifting through all of the national and local votes from last night’s elections, here’s a small but important victory for privacy advocates out of Portland, Maine . Per the Bangor Daily News, the city passed “Referendum Question B,” design…*
+      
   - Cannabis legalization measures set to pass in 5 states
       <hr/>
       
@@ -73,16 +78,11 @@ The competent programmer is fully aware of the strictly limited size of his own 
       <hr/>
       
       - *Whether space is the final frontier remains to be seen, but it’s certainly the next one as far as we’re concerned. On December 16-17, we’re hosting TC Sessions: Space 2020, a two-day online conference and our first event focused squarely on space technology a…*
-      
+       
   - As tech stocks rally, bring on the IPOs
       <hr/>
-      
-      - *During yesterday’s tense voting and this morning, shares of American-listed technology companies are shooting higher. The tech-heavy Nasdaq Composite is up around 3.35% this morning, more than double what the broad S&P 500 index is currently managing. SaaS an…*
        
-  - Nervous? Here, watch Philadelphia count votes on a live stream, that should help
-      <hr/>
-       
-       - *No matter whom you support for President, it’s a nerve-wracking morning as many states come down to mere tens of thousands of votes. And perhaps no state looms larger than Pennsylvania, where a larger number of votes are yet to be counted. But if you are curr…*
+       - *During yesterday’s tense voting and this morning, shares of American-listed technology companies are shooting higher. The tech-heavy Nasdaq Composite is up around 3.35% this morning, more than double what the broad S&P 500 index is currently managing. SaaS an…*
       
 
 <br />
