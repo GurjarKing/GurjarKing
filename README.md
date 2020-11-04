@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I have no special talent. I am only passionately curious.
+One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
 
-~ Albert Einstein
+~ Steve McConnell
 <pre>
 
 </pre>
