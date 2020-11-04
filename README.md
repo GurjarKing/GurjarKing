@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 
-~ Alan Turing
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
