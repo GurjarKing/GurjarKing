@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+Programs must be written for people to read, and only incidentally for machines to execute.
 
-~ Andy Hertzfeld
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Then Apple went public toward the end of 1980. All of a sudden, all these people
 </pre>
 <strong>Daily News</strong>
   
-  - Shares of Uber, Lyft soar on expected passage of California gig-labor ballot measure
+  - Apple, Microsoft and other tech stocks roar as the Presidential election narrows to several states
      <hr/>
      
-      - *Shares of American ride-hailing giants Uber and Lyft are sharply higher in pre-market trading this morning on the expected passage of Proposition 22, a California ballot measure that allow tech-enabled, on-demand companies to continue classifying gig-workers …*
+      - *On the back of sizable gains posted yesterday, tech stocks are once again rising sharply in pre-market trading today. Futures concerning the tech-heavy Nasdaq Composite index are indicating a 3.4% gain this morning, far above a 1.7% gain that the broader S&P …*
      
+  - Shares of Uber, Lyft soar on expected passage of California gig-labor ballot measure
+      <hr/>
+      
+      - *Shares of American ride-hailing giants Uber and Lyft are sharply higher in pre-market trading this morning on the expected passage of Proposition 22, a California ballot measure that allow tech-enabled, on-demand companies to continue classifying gig-workers …*
+      
   - CA ballot measure that keeps gig workers as independent contractors is projected to pass
       <hr/>
       
@@ -73,16 +78,11 @@ Then Apple went public toward the end of 1980. All of a sudden, all these people
       <hr/>
       
       - *With key wins notched in a few states, Trump didn’t declare victory prematurely on election night as social media companies feared — but he did baselessly raise the specter of voter fraud. “We are up BIG, but they are trying to STEAL the Election,” Trump twee…*
-      
+       
   - A QAnon supporter is headed to Congress
       <hr/>
-      
-      - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
        
-  - Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning
-      <hr/>
-       
-       - *Intel continues to snap up startups to build out its machine learning and AI operations. In the latest move, TechCrunch has learned that the chip giant has acquired Cnvrg.io, an Israeli company that has built and operates a platform for data scientists to bui…*
+       - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
       
 
 <br />
