@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Every good work of software starts by scratching a developer’s personal itch.
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 
-~ Eric S. Raymond
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
