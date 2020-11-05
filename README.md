@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I have no special talent. I am only passionately curious.
+When in doubt, leave it out.
 
-~ Albert Einstein
+~ Joshua Bloch
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I have no special talent. I am only passionately curious.
 </pre>
 <strong>Daily News</strong>
   
-  - WhatsApp now lets you post ephemeral messages, which disappear after 7 days
+  - Reliance Retail raises $1.3 billion from PIF
      <hr/>
      
-      - *Facebook recently announced that WhatsApp passed the whopping milestone of 100 billion messages sent per day, but not everyone wants those chats to stick around forever. Now, Facebook’s wildly popular messaging app with 2 billion users is adding a feature to …*
+      - *The Public Investment Fund, which has this year invested $1.5 billion in Mukesh Ambani’s telecom venture Jio Platforms and more than half a billion dollars in his fiber-optic business, has returned to back yet another empire built by India’s richest man. The …*
      
+  - WhatsApp now lets you post ephemeral messages, which disappear after 7 days
+      <hr/>
+      
+      - *Facebook recently announced that WhatsApp passed the whopping milestone of 100 billion messages sent per day, but not everyone wants those chats to stick around forever. Now, Facebook’s wildly popular messaging app with 2 billion users is adding a feature to …*
+      
   - Vivid Money raises $17.6 million for its European challenger bank
       <hr/>
       
@@ -73,16 +78,11 @@ I have no special talent. I am only passionately curious.
       <hr/>
       
       - *While short videos are what drive ByteDance’s revenues and give the Chinese startup international recognition, the firm is expanding into numerous new areas like other tech giants to fuel growth. It’s dabbled in enterprise software and online learning, and th…*
-      
+       
   - If elected, Biden commits to rejoin climate accord U.S. just abandoned
       <hr/>
-      
-      - *On the same day that the U.S. officially withdrew from the global pact to reduce emissions that cause climate change, presidential contender Joe Biden committed that he would rejoin the Paris Agreement if elected. In a tweet late Wednesday, Biden wrote, “Toda…*
        
-  - DJI’s pint-sized Mavic Mini gets camera and connection upgrades
-      <hr/>
-       
-       - *We dug DJI’s Mavic Mini when the drone arrived last year. As Matt noted in his review, “It packs everything critical to be a quality drone. It has a good camera, good range and a good controller. It holds up well in the wind and is quick enough to be fun.” To…*
+       - *On the same day that the U.S. officially withdrew from the global pact to reduce emissions that cause climate change, presidential contender Joe Biden committed that he would rejoin the Paris Agreement if elected. In a tweet late Wednesday, Biden wrote, “Toda…*
       
 
 <br />
