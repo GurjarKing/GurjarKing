@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+Every good work of software starts by scratching a developer’s personal itch.
 
-~ Ivan Sutherland
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A display connected to a digital computer gives us a chance to gain familiarity 
 </pre>
 <strong>Daily News</strong>
   
-  - DJI’s pint-sized Mavic Mini gets camera and connection upgrades
+  - If elected, Biden commits to rejoin climate accord U.S. just abandoned
      <hr/>
      
-      - *We dug DJI’s Mavic Mini when the drone arrived last year. As Matt noted in his review, “It packs everything critical to be a quality drone. It has a good camera, good range and a good controller. It holds up well in the wind and is quick enough to be fun.” To…*
+      - *On the same day that the U.S. officially withdrew from the global pact to reduce emissions that cause climate change, presidential contender Joe Biden committed that he would rejoin the Paris Agreement if elected. In a tweet late Wednesday, Biden wrote, “Toda…*
      
+  - DJI’s pint-sized Mavic Mini gets camera and connection upgrades
+      <hr/>
+      
+      - *We dug DJI’s Mavic Mini when the drone arrived last year. As Matt noted in his review, “It packs everything critical to be a quality drone. It has a good camera, good range and a good controller. It holds up well in the wind and is quick enough to be fun.” To…*
+      
   - Dear Sophie: How will this election nail-biter affect immigration?
       <hr/>
       
@@ -73,16 +78,11 @@ A display connected to a digital computer gives us a chance to gain familiarity 
       <hr/>
       
       - *This year’s presidential election has already proven to be a considerable test of the U.S. democratic system. It’s also been doing a fine job testing the systems behind leading social networks four years after a rather disinformation-ridden election. Twitter …*
-      
+       
   - Daily Crunch: Social media confronts election misinformation
       <hr/>
-      
-      - *You may have heard that the United States had a presidential election yesterday, with plenty of implications for the tech world, particularly with social media as one of the battlegrounds in the fight over the results. Meanwhile, major tech-relevant ballot me…*
        
-  - Hands-on with Mophie’s new modular smartphone battery case
-      <hr/>
-       
-       - *There was some confusion when the Juice Pack Connect was announced last week. I admit I was a bit confused, too. It was, no doubt, the proximity to Apple’s iPhone 12 launch that lead many to (understandably) assume that the new take on Mophie’s case is based …*
+       - *You may have heard that the United States had a presidential election yesterday, with plenty of implications for the tech world, particularly with social media as one of the battlegrounds in the fight over the results. Meanwhile, major tech-relevant ballot me…*
       
 
 <br />
