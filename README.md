@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-That hardly ever happens is another way of saying 'it happens'.
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 
-~ Douglas Crockford
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ That hardly ever happens is another way of saying 'it happens'.
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch Live: Join Greylock’s Asheem Chandna today at 3pm EDT / 12pm PDT on the future of enterprise and cybersecurity investing
+  - Delivery startup goPuff acquires BevMo for $350M
      <hr/>
      
-      - *Yes, there is an election, but that’s getting pretty boring at this point. What’s far more interesting is the future of enterprise and cybersecurity startups, markets where companies are dumping billions of dollars in the wake of the largest change in office …*
+      - *GoPuff is making a big acquisition less than a month after it announced a $380 million round that valued the Philadelphia-headquartered delivery startup at $3.9 billion. Bloomberg’s Katie Roof reported today that goPuff was in talks to buy alcoholic beverage …*
      
-  - Study shows cities with ride-hailing services report lower rates of sexual assault
+  - The $900 tCentric Hybrid chair is a solid Aeron alternative
       <hr/>
       
-      - *Our research on ride-hailing and sexual assault provides a surprising finding: ride-hailing, reduces the number of sexual assaults reported.*
+      - *Let’s get this out of the way: The Aeron is better. But not much, and that’s the story here. The tCentric Hybrid starts at $900 and offers serious comfort and support for the tireless worker. There are endless adjustment levers, knobs, and options. The chair …*
       
-  - DOJ says it seized over $1 billion in bitcoin from the Silk Road drugs marketplace
+  - The volcano method for understanding the fintech revolution
       <hr/>
       
-      - *More than 70,000 bitcoin generated from the Silk Road marketplace had sat dormant for seven years.*
+      - *The Department of Justice moved to block the long-impending Visa-Plaid deal today. The transaction was announced in early 2020, making the decision by the government to try and scuttle its consummation in November a large irritation to both parties. The pair …*
       
-  - 3 tips for SaaS founders hoping to join the $1 million ARR club
+  - Autonomous drone startup Skydio taps Tesla, Samsara veterans in enterprise push
       <hr/>
       
-      - *Building a SaaS company from the ground up is never easy. In fact, it's generally a grueling, all-consuming process that strains every fiber in your being.*
+      - *Autonomous drone company Skydio has hired three executives in product and engineering following its recent $100 million Series C funding round as part of the company’s strategy to expand beyond consumer applications and into the enterprise and public sector m…*
        
-  - Sony’s PlayStation 5 won’t be available in-store at launch
+  - Apple releases iOS 14.2 with new emojis and accessibility feature that locates people with LiDAR
       <hr/>
        
-       - *A small wrinkle in the console wars. Sony took to Twitter today to note that the PlayStation 5 won’t be available for in-store purchases on launch day (November 12 or 19, depending on what part of the world you live in). Instead, users will only be able to bu…*
+       - *Apple has released iOS 14.2 today. It includes multiple new features as well as some important bug fixes and security updates. Among other things, this release introduces over 100 new emojis. You’ll find a transgender flag, a smiling face with tear, pinched f…*
       
 
 <br />
