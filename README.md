@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Edsger W. Dijkstra
+~ Ivan Sutherland
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ As long as there were no machines, programming was no problem at all; when we ha
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook takes down "Stop the Steal 2020" group organizing around false claims of election chicanery
+  - Bentley is making the shift to an all-electric lineup
      <hr/>
      
-      - *Facebook has taken down a group that had amassed over 300,000 members and was sharing misinformation and organizing around false allegations of impropriety during the 2020 elections. The group, called “Stop the Steal 2020” was organizing protests targeting th…*
+      - *Bentley Motors, the ultra luxury automaker under VW Group, will only produce plug-in hybrid and all-electric cars starting in 2026 with an aim to drop all combustion engines in the next decade. The company said Thursday its entire lineup will be all-electric …*
      
+  - Vimeo raises $150M, while IAC is 'contemplating' a spin-off
+      <hr/>
+      
+      - *Vimeo has raised $150 million in new equity funding, announced in conjunction with the third quarter earnings of its parent company IAC. In a letter to shareholders, IAC CEO Joey Levin said the company has “begun contemplating spinning Vimeo off to our shareh…*
+      
+  - Facebook takes down "Stop the Steal 2020" group organizing around false claims of election chicanery
+      <hr/>
+      
+      - *Facebook has taken down a group that had amassed over 300,000 members and was sharing misinformation and organizing around false allegations of impropriety during the 2020 elections. The group, called “Stop the Steal 2020” was organizing protests targeting th…*
+      
   - Fortnite is actually a SaaS company
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. What a week from us here in the United States, where the election is still being tabulated and precisely zero p…*
-      
+       
   - Proctorio used DMCA to take down a student's critical tweets
       <hr/>
-      
-      - *"This is really a textbook example of fair use," said the EFF.*
-      
-  - TikTok takes down some hashtags related to election misinformation, leaves others
-      <hr/>
-      
-      - *As social media platforms struggle to get U.S. election misinformation under control with varying degrees of success, TikTok has taken new actions to stop people from searching and browsing select hashtags associated with misinformation and conspiracies relat…*
        
-  - TikTok's parent company, ByteDance, is reportedly looking for $2B before its Hong Kong public offering
-      <hr/>
-       
-       - *ByteDance, the company behind the social media sensation TikTok, is in talks to raise another $2 billion before the initial public offering of a large chunk of its international businesses on the Hong Kong StockExchange, according to a Bloomberg report. The n…*
+       - *"This is really a textbook example of fair use," said the EFF.*
       
 
 <br />
