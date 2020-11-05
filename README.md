@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
 
-~ Edsger W. Dijkstra
+~ Eric S. Raymond
 <pre>
 
 </pre>
