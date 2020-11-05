@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+It is easier to change the specification to fit the program than vice versa.
 
-~ Eric S. Raymond
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Lisp is worth learning for the profound enlightenment experience you will have w
 </pre>
 <strong>Daily News</strong>
   
-  - Singapore-based digital business assistant Osome raises $3 million
+  - Mobile testing platform Kobiton raises $14M, acquires competitor Mobile Labs
      <hr/>
      
-      - *Osome, a Singapore-headquartered business assistant app that digitizes accounting and compliance tasks, has raised $3 million. An extension of Osome’s seed round, the new funding was led by XA Network and AltaIR Capital. The startup currently has about 4,500 …*
+      - *Atlanta-based Kobiton, a mobile testing platform that allows developers and QA teams to test their apps on real devices, both on their own desks and through the company’s cloud-based service, today announced that it has acquired Mobile Labs, another Atlanta-b…*
      
-  - Pivoting in the pandemic, Citysocializer relaunches as a ‘Get Your Guide for virtual events’
+  - Review: Microsoft's Xbox Series X is ahead of its time
       <hr/>
       
-      - *Citysocializer, previously a platform for promoting real-world socializing in cities, has relaunched, becoming something akin to a ‘Get Your Guide for virtual events’. Just as other startups have pivoted to ‘lean in’ to current circumstances, this startup has…*
+      - *Arriving seven years after the Xbox One first launched, the new Microsoft Xbox Series X console lands in a different world and a very different Xbox ecosystem. Microsoft is embracing subscription bundling with its Game Pass service and cloud-streaming with xC…*
       
-  - Reliance Retail raises $1.3 billion from PIF
+  - UK's ICO faces legal action after closing adtech complaint with nothing to show for it
       <hr/>
       
-      - *The Public Investment Fund, which has this year invested $1.5 billion in Mukesh Ambani’s telecom venture Jio Platforms and more than half a billion dollars in his fiber-optic business, has returned to back yet another empire built by India’s richest man. The …*
+      - *The UK’s data watchdog is facing a legal challenge after it took the decision to quietly close a complaint against the adtech industry’s high velocity background trading of personal data. The legal challenge was reported earlier by Politico. The original comp…*
       
-  - WhatsApp now lets you post ephemeral messages, which disappear after 7 days
+  - Juggle secures $2.1M to expand its 'flexible work' SaaS marketplace for senior execs
       <hr/>
       
-      - *Facebook recently announced that WhatsApp passed the whopping milestone of 100 billion messages sent per day, but not everyone wants those chats to stick around forever. Now, Facebook’s wildly popular messaging app with 2 billion users is adding a feature to …*
+      - *As we’ve seen, some startups are pivoting to re-model themselves for the radically different world of the COVID-19 pandemic. But others literally turned out to have a business model which, although they could never have realized it at the time, might have bee…*
        
-  - Vivid Money raises $17.6 million for its European challenger bank
+  - Watch SpaceX launch a GPS satellite for the U.S. Space Force live
       <hr/>
        
-       - *German fintech startup Vivid Money has raised a $17.6 million Series A funding round (€15 million). Ribbit Capital is leading the investment. Today’s funding round gives Vivid Money a valuation of $117 million (€100 million). Vivid Money is quite a young star…*
+       - *SpaceX is set to launch the U.S. Space Force’s GPS III Space Vehicle 04 today from Cape Canaveral Air Force Station in Florida. This launch was all set to take off back at the beginning of October, but was scrubbed in the final seconds. Today’s launch window …*
       
 
 <br />
