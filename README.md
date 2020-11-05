@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It is easier to change the specification to fit the program than vice versa.
+We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
 
-~ Alan Perlis
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ It is easier to change the specification to fit the program than vice versa.
 </pre>
 <strong>Daily News</strong>
   
-  - Mobile testing platform Kobiton raises $14M, acquires competitor Mobile Labs
+  - 4 questions as Airbnb's IPO looms
      <hr/>
      
-      - *Atlanta-based Kobiton, a mobile testing platform that allows developers and QA teams to test their apps on real devices, both on their own desks and through the company’s cloud-based service, today announced that it has acquired Mobile Labs, another Atlanta-b…*
+      - *Almost on command after we asked yesterday if a rash of technology IPOs were about to land, news broke that Airbnb plans to drop its S-1 filing early next week with a December roadshow. The document will be of intense interest for shareholders — as well as pu…*
      
+  - TikTok tests a Learn tab to showcase education and how-to videos
+      <hr/>
+      
+      - *How-to videos have been some of the most popular content on YouTube over the years, and now, to grow engagement and the pool of users that it appeals to, the upstart video app TikTok is getting in on the action, too. After launching a dedicated “Learn On TikT…*
+      
+  - Nvidia reportedly bringing Fortnite back to iOS through its cloud gaming service
+      <hr/>
+      
+      - *Nvidia is bringing Fortnite back to iPhones and iPads, according to a report from the BBC. The British news service is reporting that Nvidia has developed a version of its GeForce cloud gaming service that runs on Safari. The development means that Fortnite g…*
+      
+  - Mobile testing platform Kobiton raises $14M, acquires competitor Mobile Labs
+      <hr/>
+      
+      - *Atlanta-based Kobiton, a mobile testing platform that allows developers and QA teams to test their apps on real devices, both on their own desks and through the company’s cloud-based service, today announced that it has acquired Mobile Labs, another Atlanta-b…*
+       
   - Review: Microsoft's Xbox Series X is ahead of its time
       <hr/>
-      
-      - *Arriving seven years after the Xbox One first launched, the new Microsoft Xbox Series X console lands in a different world and a very different Xbox ecosystem. Microsoft is embracing subscription bundling with its Game Pass service and cloud-streaming with xC…*
-      
-  - UK's ICO faces legal action after closing adtech complaint with nothing to show for it
-      <hr/>
-      
-      - *The UK’s data watchdog is facing a legal challenge after it took the decision to quietly close a complaint against the adtech industry’s high velocity background trading of personal data. The legal challenge was reported earlier by Politico. The original comp…*
-      
-  - Juggle secures $2.1M to expand its 'flexible work' SaaS marketplace for senior execs
-      <hr/>
-      
-      - *As we’ve seen, some startups are pivoting to re-model themselves for the radically different world of the COVID-19 pandemic. But others literally turned out to have a business model which, although they could never have realized it at the time, might have bee…*
        
-  - Watch SpaceX launch a GPS satellite for the U.S. Space Force live
-      <hr/>
-       
-       - *SpaceX is set to launch the U.S. Space Force’s GPS III Space Vehicle 04 today from Cape Canaveral Air Force Station in Florida. This launch was all set to take off back at the beginning of October, but was scrubbed in the final seconds. Today’s launch window …*
+       - *Arriving seven years after the Xbox One first launched, the new Microsoft Xbox Series X console lands in a different world and a very different Xbox ecosystem. Microsoft is embracing subscription bundling with its Game Pass service and cloud-streaming with xC…*
       
 
 <br />
