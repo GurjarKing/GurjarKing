@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Donald Knuth
+~ Jim Horning
 <pre>
 
 </pre>
