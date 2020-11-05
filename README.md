@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ David Leinweber
+~ Ivan Sutherland
 <pre>
 
 </pre>
