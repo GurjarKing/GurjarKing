@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
 
-~ Bill Gates
+~ Henry Petroski
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ We're no longer in the days where everything is super well crafted. But at the h
 </pre>
 <strong>Daily News</strong>
   
-  - 4 questions as Airbnb's IPO looms
+  - DOJ files antitrust lawsuit challenging Visa's $5.3 billion acquisition of Plaid
      <hr/>
      
-      - *Almost on command after we asked yesterday if a rash of technology IPOs were about to land, news broke that Airbnb plans to drop its S-1 filing early next week with a December roadshow. The document will be of intense interest for shareholders — as well as pu…*
+      - *The Department of Justice has filed an antitrust lawsuit challenging Visa’s proposed $5.3 billion acquisition of Plaid . News of the DOJ’s investigation first broke last month. “By acquiring Plaid, Visa would eliminate a nascent competitive threat that would …*
      
-  - TikTok tests a Learn tab to showcase education and how-to videos
+  - Alibaba passes IBM in cloud infrastructure market with over $2B in revenue
       <hr/>
       
-      - *How-to videos have been some of the most popular content on YouTube over the years, and now, to grow engagement and the pool of users that it appeals to, the upstart video app TikTok is getting in on the action, too. After launching a dedicated “Learn On TikT…*
+      - *When Alibaba entered the cloud infrastructure market in earnest in 2015 it had ambitious goals, and it has been growing steadily. Today, the Chinese ecommerce giant announced quarterly cloud revenue of $2.194 billion. With that number, it has passed IBM’s $1.…*
       
-  - Nvidia reportedly bringing Fortnite back to iOS through its cloud gaming service
+  - Calm's hilarious CNN ad campaign sent the meditation app flying up App Store charts
       <hr/>
       
-      - *Nvidia is bringing Fortnite back to iPhones and iPads, according to a report from the BBC. The British news service is reporting that Nvidia has developed a version of its GeForce cloud gaming service that runs on Safari. The development means that Fortnite g…*
+      - *Meditation app Calm’s brilliant and hilarious marketing campaign that saw it sponsoring CNN’s coverage of the 2020 U.S. Presidential Election results this week seems to have paid off for the business. The app, which today offers mindful meditations, peaceful …*
       
-  - Mobile testing platform Kobiton raises $14M, acquires competitor Mobile Labs
+  - WhatsApp receives approval to expand its payments service in India
       <hr/>
       
-      - *Atlanta-based Kobiton, a mobile testing platform that allows developers and QA teams to test their apps on real devices, both on their own desks and through the company’s cloud-based service, today announced that it has acquired Mobile Labs, another Atlanta-b…*
+      - *WhatsApp, which began testing its payments service in India with 1 million users in early 2018, can finally start to expand the feature to more users in the world’s second largest internet market. National Payments Corporation of India (NPCI), the body that o…*
        
-  - Review: Microsoft's Xbox Series X is ahead of its time
+  - Ayar raises $35M for optical interconnect tech to overcome computing bottlenecks in the CPU
       <hr/>
        
-       - *Arriving seven years after the Xbox One first launched, the new Microsoft Xbox Series X console lands in a different world and a very different Xbox ecosystem. Microsoft is embracing subscription bundling with its Game Pass service and cloud-streaming with xC…*
+       - *The race is on to build more efficient chip technology for faster and less power-intensive computing, and today an innovative startup that’s built one solution based on in-package optical interconnect (optical I/O) technology is announcing a round of growth f…*
       
 
 <br />
