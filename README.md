@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Never memorize something that you can look up.
+That hardly ever happens is another way of saying 'it happens'.
 
-~ Albert Einstein
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Never memorize something that you can look up.
 </pre>
 <strong>Daily News</strong>
   
-  - Sony’s PlayStation 5 won’t be available in-store at launch
+  - Extra Crunch Live: Join Greylock’s Asheem Chandna today at 3pm EDT / 12pm PDT on the future of enterprise and cybersecurity investing
      <hr/>
      
-      - *A small wrinkle in the console wars. Sony took to Twitter today to note that the PlayStation 5 won’t be available for in-store purchases on launch day (November 12 or 19, depending on what part of the world you live in). Instead, users will only be able to bu…*
+      - *Yes, there is an election, but that’s getting pretty boring at this point. What’s far more interesting is the future of enterprise and cybersecurity startups, markets where companies are dumping billions of dollars in the wake of the largest change in office …*
      
-  - Just one week left for early bird passes to TC Sessions: Space 2020
+  - Study shows cities with ride-hailing services report lower rates of sexual assault
       <hr/>
       
-      - *It’s hard to imagine anything more thrilling than turning science fiction into science fact. If you’re forging new frontier technology — or ready to tackle the challenge — than join a growing, global community of startup visionaries at TC Sessions: Space 2020…*
+      - *Our research on ride-hailing and sexual assault provides a surprising finding: ride-hailing, reduces the number of sexual assaults reported.*
       
-  - DOJ files antitrust lawsuit challenging Visa's $5.3 billion acquisition of Plaid
+  - DOJ says it seized over $1 billion in bitcoin from the Silk Road drugs marketplace
       <hr/>
       
-      - *The Department of Justice has filed an antitrust lawsuit challenging Visa’s proposed $5.3 billion acquisition of Plaid . News of the DOJ’s investigation first broke last month. “By acquiring Plaid, Visa would eliminate a nascent competitive threat that would …*
+      - *More than 70,000 bitcoin generated from the Silk Road marketplace had sat dormant for seven years.*
       
-  - Alibaba passes IBM in cloud infrastructure market with over $2B in revenue
+  - 3 tips for SaaS founders hoping to join the $1 million ARR club
       <hr/>
       
-      - *When Alibaba entered the cloud infrastructure market in earnest in 2015 it had ambitious goals, and it has been growing steadily. Today, the Chinese ecommerce giant announced quarterly cloud revenue of $2.194 billion. With that number, it has passed IBM’s $1.…*
+      - *Building a SaaS company from the ground up is never easy. In fact, it's generally a grueling, all-consuming process that strains every fiber in your being.*
        
-  - Calm's hilarious CNN ad campaign sent the meditation app flying up App Store charts
+  - Sony’s PlayStation 5 won’t be available in-store at launch
       <hr/>
        
-       - *Meditation app Calm’s brilliant and hilarious marketing campaign that saw it sponsoring CNN’s coverage of the 2020 U.S. Presidential Election results this week seems to have paid off for the business. The app, which today offers mindful meditations, peaceful …*
+       - *A small wrinkle in the console wars. Sony took to Twitter today to note that the PlayStation 5 won’t be available for in-store purchases on launch day (November 12 or 19, depending on what part of the world you live in). Instead, users will only be able to bu…*
       
 
 <br />
