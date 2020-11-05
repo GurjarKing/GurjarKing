@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 
-~ Charles Simonyi
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ What is programming? Some people call it a science, some people call it an art, 
 </pre>
 <strong>Daily News</strong>
   
-  - ByteDance to pump $170 million into e-book reader Zhangyue
+  - Vivid Money raises $17.6 million for its European challenger bank
      <hr/>
      
-      - *While short videos are what drive ByteDance’s revenues and give the Chinese startup international recognition, the firm is expanding into numerous new areas like other tech giants to fuel growth. It’s dabbled in enterprise software and online learning, and th…*
+      - *German fintech startup Vivid Money has raised a $17.6 million Series A funding round (€15 million). Ribbit Capital is leading the investment. Today’s funding round gives Vivid Money a valuation of $117 million (€100 million). Vivid Money is quite a young star…*
      
+  - ByteDance to pump $170 million into e-book reader Zhangyue
+      <hr/>
+      
+      - *While short videos are what drive ByteDance’s revenues and give the Chinese startup international recognition, the firm is expanding into numerous new areas like other tech giants to fuel growth. It’s dabbled in enterprise software and online learning, and th…*
+      
   - If elected, Biden commits to rejoin climate accord U.S. just abandoned
       <hr/>
       
@@ -73,16 +78,11 @@ What is programming? Some people call it a science, some people call it an art, 
       <hr/>
       
       - *We dug DJI’s Mavic Mini when the drone arrived last year. As Matt noted in his review, “It packs everything critical to be a quality drone. It has a good camera, good range and a good controller. It holds up well in the wind and is quick enough to be fun.” To…*
-      
+       
   - Dear Sophie: How will this election nail-biter affect immigration?
       <hr/>
-      
-      - *Whatever the election results, there will still be many ways for people to legally navigate the U.S. immigration process and access the opportunity and security of life here.*
        
-  - YouTube removes ads from, but won’t pull, ‘Trump Won’ video following backlash
-      <hr/>
-       
-       - *This year’s presidential election has already proven to be a considerable test of the U.S. democratic system. It’s also been doing a fine job testing the systems behind leading social networks four years after a rather disinformation-ridden election. Twitter …*
+       - *Whatever the election results, there will still be many ways for people to legally navigate the U.S. immigration process and access the opportunity and security of life here.*
       
 
 <br />
