@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 
-~ Douglas Crockford
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ JavaScript is the only language that I'm aware of that people feel they don't ne
 </pre>
 <strong>Daily News</strong>
   
-  - Revolution Cooking's R180 Smart Toaster delivers smarter, faster toasting – for a price
+  - Facebook takes down "Stop the Steal 2020" group organizing around false claims of election chicanery
      <hr/>
      
-      - *A lot of the past decade in smart home gadgets has been figuring out just how smart we actually want our appliances to be. In a lot of cases when it comes to cooking, the old ways are best, and smart features tend to just complicate things. The new Revolution…*
+      - *Facebook has taken down a group that had amassed over 300,000 members and was sharing misinformation and organizing around false allegations of impropriety during the 2020 elections. The group, called “Stop the Steal 2020” was organizing protests targeting th…*
      
-  - Rocket Lab will try to recover the booster of its Electron rocket for the first time on its next launch
+  - Fortnite is actually a SaaS company
       <hr/>
       
-      - *Rocket Lab is set to complete a crucial test for its rocket reusability program during its next mission, which is currently set to take place sometime in mid-November, with a launch widow that opens on November 16. This is a bit of a surprise, because the lau…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. What a week from us here in the United States, where the election is still being tabulated and precisely zero p…*
       
-  - Inside fintech startup Upstart's IPO filing
+  - Proctorio used DMCA to take down a student's critical tweets
       <hr/>
       
-      - *While the world awaits the Airbnb IPO filing that could come as early as next week, Upstart dropped its own S-1 filing. The fintech startup facilitates loans between consumers and partner banks, an operation that attracted around $144 million in capital prior…*
+      - *"This is really a textbook example of fair use," said the EFF.*
       
-  - Ushur raises $25M for its no-code platform to build customer communication flows
+  - TikTok takes down some hashtags related to election misinformation, leaves others
       <hr/>
       
-      - *No-code is the name of the game in enterprise software, and today a startup called Ushur that has built a platform for any business to create its own AI-based customer communication flows with no coding required is announcing some funding to help fuel its gro…*
+      - *As social media platforms struggle to get U.S. election misinformation under control with varying degrees of success, TikTok has taken new actions to stop people from searching and browsing select hashtags associated with misinformation and conspiracies relat…*
        
-  - Implementing a data-driven approach to guarantee fair, equitable and transparent employee pay
+  - TikTok's parent company, ByteDance, is reportedly looking for $2B before its Hong Kong public offering
       <hr/>
        
-       - *It takes deep analysis and lots of hard work to establish and maintain a fair pay model. Several factors are critical to pull it off successfully.*
+       - *ByteDance, the company behind the social media sensation TikTok, is in talks to raise another $2 billion before the initial public offering of a large chunk of its international businesses on the Hong Kong StockExchange, according to a Bloomberg report. The n…*
       
 
 <br />
