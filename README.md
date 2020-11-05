@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 
-~ Bjarne Stroustrup
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Maybe "just one little global variable" isn't too unmanageable, but that style l
 </pre>
 <strong>Daily News</strong>
   
-  - Delivery startup goPuff acquires BevMo for $350M
+  - Revolution Cooking's R180 Smart Toaster delivers smarter, faster toasting – for a price
      <hr/>
      
-      - *GoPuff is making a big acquisition less than a month after it announced a $380 million round that valued the Philadelphia-headquartered delivery startup at $3.9 billion. Bloomberg’s Katie Roof reported today that goPuff was in talks to buy alcoholic beverage …*
+      - *A lot of the past decade in smart home gadgets has been figuring out just how smart we actually want our appliances to be. In a lot of cases when it comes to cooking, the old ways are best, and smart features tend to just complicate things. The new Revolution…*
      
-  - The $900 tCentric Hybrid chair is a solid Aeron alternative
+  - Rocket Lab will try to recover the booster of its Electron rocket for the first time on its next launch
       <hr/>
       
-      - *Let’s get this out of the way: The Aeron is better. But not much, and that’s the story here. The tCentric Hybrid starts at $900 and offers serious comfort and support for the tireless worker. There are endless adjustment levers, knobs, and options. The chair …*
+      - *Rocket Lab is set to complete a crucial test for its rocket reusability program during its next mission, which is currently set to take place sometime in mid-November, with a launch widow that opens on November 16. This is a bit of a surprise, because the lau…*
       
-  - The volcano method for understanding the fintech revolution
+  - Inside fintech startup Upstart's IPO filing
       <hr/>
       
-      - *The Department of Justice moved to block the long-impending Visa-Plaid deal today. The transaction was announced in early 2020, making the decision by the government to try and scuttle its consummation in November a large irritation to both parties. The pair …*
+      - *While the world awaits the Airbnb IPO filing that could come as early as next week, Upstart dropped its own S-1 filing. The fintech startup facilitates loans between consumers and partner banks, an operation that attracted around $144 million in capital prior…*
       
-  - Autonomous drone startup Skydio taps Tesla, Samsara veterans in enterprise push
+  - Ushur raises $25M for its no-code platform to build customer communication flows
       <hr/>
       
-      - *Autonomous drone company Skydio has hired three executives in product and engineering following its recent $100 million Series C funding round as part of the company’s strategy to expand beyond consumer applications and into the enterprise and public sector m…*
+      - *No-code is the name of the game in enterprise software, and today a startup called Ushur that has built a platform for any business to create its own AI-based customer communication flows with no coding required is announcing some funding to help fuel its gro…*
        
-  - Apple releases iOS 14.2 with new emojis and accessibility feature that locates people with LiDAR
+  - Implementing a data-driven approach to guarantee fair, equitable and transparent employee pay
       <hr/>
        
-       - *Apple has released iOS 14.2 today. It includes multiple new features as well as some important bug fixes and security updates. Among other things, this release introduces over 100 new emojis. You’ll find a transgender flag, a smiling face with tear, pinched f…*
+       - *It takes deep analysis and lots of hard work to establish and maintain a fair pay model. Several factors are critical to pull it off successfully.*
       
 
 <br />
