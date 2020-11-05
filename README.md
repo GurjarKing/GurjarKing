@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+JavaScript is the world's most misunderstood programming language.
 
-~ Edsger W. Dijkstra
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The use of COBOL cripples the mind; its teaching should, therefore, be regarded 
 </pre>
 <strong>Daily News</strong>
   
-  - If elected, Biden commits to rejoin climate accord U.S. just abandoned
+  - ByteDance to pump $170 million into e-book reader Zhangyue
      <hr/>
      
-      - *On the same day that the U.S. officially withdrew from the global pact to reduce emissions that cause climate change, presidential contender Joe Biden committed that he would rejoin the Paris Agreement if elected. In a tweet late Wednesday, Biden wrote, “Toda…*
+      - *While short videos are what drive ByteDance’s revenues and give the Chinese startup international recognition, the firm is expanding into numerous new areas like other tech giants to fuel growth. It’s dabbled in enterprise software and online learning, and th…*
      
+  - If elected, Biden commits to rejoin climate accord U.S. just abandoned
+      <hr/>
+      
+      - *On the same day that the U.S. officially withdrew from the global pact to reduce emissions that cause climate change, presidential contender Joe Biden committed that he would rejoin the Paris Agreement if elected. In a tweet late Wednesday, Biden wrote, “Toda…*
+      
   - DJI’s pint-sized Mavic Mini gets camera and connection upgrades
       <hr/>
       
@@ -73,16 +78,11 @@ The use of COBOL cripples the mind; its teaching should, therefore, be regarded 
       <hr/>
       
       - *Whatever the election results, there will still be many ways for people to legally navigate the U.S. immigration process and access the opportunity and security of life here.*
-      
+       
   - YouTube removes ads from, but won’t pull, ‘Trump Won’ video following backlash
       <hr/>
-      
-      - *This year’s presidential election has already proven to be a considerable test of the U.S. democratic system. It’s also been doing a fine job testing the systems behind leading social networks four years after a rather disinformation-ridden election. Twitter …*
        
-  - Daily Crunch: Social media confronts election misinformation
-      <hr/>
-       
-       - *You may have heard that the United States had a presidential election yesterday, with plenty of implications for the tech world, particularly with social media as one of the battlegrounds in the fight over the results. Meanwhile, major tech-relevant ballot me…*
+       - *This year’s presidential election has already proven to be a considerable test of the U.S. democratic system. It’s also been doing a fine job testing the systems behind leading social networks four years after a rather disinformation-ridden election. Twitter …*
       
 
 <br />
