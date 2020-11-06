@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 
-~ Marijn Haverbeke
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Flaws in computer programs are usually called bugs. It makes programmers feel go
 </pre>
 <strong>Daily News</strong>
   
-  - Elon Musk's Tesla tequila will run you $250 a bottle
+  - Steve Bannon's show pulled off Twitter and YouTube over calls for violence
      <hr/>
      
-      - *Teslaquila, the Tesla -branded liquor, that co-starred in CEO Elon Musk’s controversial April Fool’s Day joke about the automaker filing for bankruptcy, has arrived. The automaker now lists Tesla Tequila (a bit different from the original Teslaquila branding)…*
+      - *Former Presidential advisor and right-wing pundit Steve Bannon had his show suspended from Twitter and an episode removed by YouTube after calling for violence against FBI director Christopher Wray and the government’s leading pandemic expert, Dr. Anthony Fau…*
      
+  - Elon Musk's Tesla tequila will run you $250 a bottle
+      <hr/>
+      
+      - *Teslaquila, the Tesla -branded liquor, that co-starred in CEO Elon Musk’s controversial April Fool’s Day joke about the automaker filing for bankruptcy, has arrived. The automaker now lists Tesla Tequila (a bit different from the original Teslaquila branding)…*
+      
   - SpaceX successfully launches GPS III space vehicle for the U.S. Space Force
       <hr/>
       
@@ -73,16 +78,11 @@ Flaws in computer programs are usually called bugs. It makes programmers feel go
       <hr/>
       
       - *Fresh off of its success on Election Day, Uber is signaling that it will continue to push laws similar to the Proposition 22 measure approved by California voters that will keep gig workers classified as independent contractors. The ride-hailing company’s amb…*
-      
+       
   - Daily Crunch: DOJ files suit to stop Plaid acquisition
       <hr/>
-      
-      - *The DOJ challenges Visa’s acquisition of a fintech startup, Apple releases the latest version of iOS and goPuff acquires an iconic alcohol retailer. This is your Daily Crunch for November 5, 2020. The big story: DOJ files suit to stop Plaid acquisition The De…*
        
-  - A better look at Apple’s iPhone 12 Pro Max and iPhone Mini
-      <hr/>
-       
-       - *The various iterations of the new iPhone were announced 800 million years ago. Actually, wait, I just double checked — it was only about two or so weeks ago, but it turns out that time has no meaning anymore. Another cursory glance at my calendar tells me tha…*
+       - *The DOJ challenges Visa’s acquisition of a fintech startup, Apple releases the latest version of iOS and goPuff acquires an iconic alcohol retailer. This is your Daily Crunch for November 5, 2020. The big story: DOJ files suit to stop Plaid acquisition The De…*
       
 
 <br />
