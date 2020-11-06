@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 
-~ Donald Knuth
+~ Bill Gates
 <pre>
 
 </pre>
