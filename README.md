@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 
-~ Fred Brooks
+~ Alan Turing
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The complexity of software is an essential property, not an accidental one. Henc
 </pre>
 <strong>Daily News</strong>
   
-  - Slintel grabs $4.2M seed to grow sales intelligence platform
+  - Chinese autonomous vehicle startup Pony.ai hits $5.3 billion valuation
      <hr/>
      
-      - *As the pandemic rages on, companies are looking for an edge when it comes to sales. Having the right data about the customers most likely to convert can be a huge boost right now. Slintel, an early stage startup building a sales intelligence tool, announced a…*
+      - *Pony.ai, the Chinese autonomous vehicle startup and relative newcomer to the industry, is now valued at $5.3 billion following a fresh injection of $267 million in funding. The round was led by TIP, an innovation fund within the Ontario Teachers’ Pension Plan…*
      
+  - Software companies are reporting a pretty good third quarter
+      <hr/>
+      
+      - *What a difference a week makes. This time last week, in the wake of earnings from tech’s five largest American companies and early results from other software companies, it appeared that tech shares were in danger of losing their mojo. The Exchange explores s…*
+      
+  - Slintel grabs $4.2M seed to grow sales intelligence platform
+      <hr/>
+      
+      - *As the pandemic rages on, companies are looking for an edge when it comes to sales. Having the right data about the customers most likely to convert can be a huge boost right now. Slintel, an early stage startup building a sales intelligence tool, announced a…*
+      
   - Review: Sony's PlayStation 5 is here, but next-generation gaming is still on its way
       <hr/>
       
       - *The new generation of consoles is both a hard and an easy sell. With a big bump to specs and broad backwards compatibility, both the PlayStation 5 and Xbox Series X are certainly the consoles anyone should buy going forward. But with nearly no launch content …*
-      
+       
   - Spain's All Iron Ventures closes €66.5M first fund
       <hr/>
-      
-      - *Spain’s All Iron Ventures (AIV), an investor in b2c marketplaces and ecommerce plays, has closed its first fund with commitments totalling €66.5 million (~$79M) — which it touts as one of the largest first fund raises in the country.  Capital committed to the…*
-      
-  - Netflix tests a programmed linear TV and movie channel in France
-      <hr/>
-      
-      - *Netflix is testing out a programmed linear content channel, similar to what you get with standard broadcast and cable TV, for the first time (via Variety). The streaming company will still be streaming said channel – it’ll be accessed via Netflix’s browser-ba…*
        
-  - Challenger bank Starling is out raising a new £200M funding round
-      <hr/>
-       
-       - *Starling founder Anne Boden recently told TechCrunch that the U.K. challenger bank is on track to be profitable by Christmas, but this doesn’t mean it isn’t out raising additional capital already. According to well-placed sources, Starling has hired Rothschil…*
+       - *Spain’s All Iron Ventures (AIV), an investor in b2c marketplaces and ecommerce plays, has closed its first fund with commitments totalling €66.5 million (~$79M) — which it touts as one of the largest first fund raises in the country.  Capital committed to the…*
       
 
 <br />
