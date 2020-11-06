@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I care not only what the code says but how it looks.
+Once the computers got control, we might never get it back.
 
-~ Peter Roizen
+~ Marvin Minsky
 <pre>
 
 </pre>
