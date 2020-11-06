@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is no reason anyone would want a computer in their home.
+If Microsoft ever does applications for Linux it means I've won.
 
-~ Ken Olsen
+~ Linus Torvalds
 <pre>
 
 </pre>
