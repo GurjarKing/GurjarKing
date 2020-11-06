@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+There is no reason anyone would want a computer in their home.
 
-~ Fred Brooks
+~ Ken Olsen
 <pre>
 
 </pre>
