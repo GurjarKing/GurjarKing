@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Once the computers got control, we might never get it back.
+Young man, in mathematics you don't understand things. You just get used to them.
 
-~ Marvin Minsky
+~ John von Neumann
 <pre>
 
 </pre>
