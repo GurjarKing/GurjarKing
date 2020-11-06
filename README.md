@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Young man, in mathematics you don't understand things. You just get used to them.
+Documentation is a love letter that you write to your future self.
 
-~ John von Neumann
+~ Damian Conway
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Young man, in mathematics you don't understand things. You just get used to them
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon to invest $2.8 billion to build its second data center region in India
+  - Netflix tests a programmed linear TV and movie channel in France
      <hr/>
      
-      - *Manish Singh Contributor Manish Singh covers India for TechCrunch. Prior to this, he wrote for VentureBeat, CNBC, The Outline, CNET, and Mashable. You can reach out to him at manishsingh at pm dot me More posts by this contributor PUBG Mobile plots return to …*
+      - *Netflix is testing out a programmed linear content channel, similar to what you get with standard broadcast and cable TV, for the first time (via Variety). The streaming company will still be streaming said channel – it’ll be accessed via Netflix’s browser-ba…*
      
+  - Challenger bank Starling is out raising a new £200M funding round
+      <hr/>
+      
+      - *Starling founder Anne Boden recently told TechCrunch that the U.K. challenger bank is on track to be profitable by Christmas, but this doesn’t mean it isn’t out raising additional capital already. According to well-placed sources, Starling has hired Rothschil…*
+      
+  - Amazon to invest $2.8 billion to build its second data center region in India
+      <hr/>
+      
+      - *Manish Singh Contributor Manish Singh covers India for TechCrunch. Prior to this, he wrote for VentureBeat, CNBC, The Outline, CNET, and Mashable. You can reach out to him at manishsingh at pm dot me More posts by this contributor PUBG Mobile plots return to …*
+      
   - PUBG Mobile plots return to India following ban
       <hr/>
       
       - *PUBG Mobile, the sleeper hit title that was banned in India two months ago over cybersecurity concerns, is plotting to make a return in the world’s second largest internet market, two sources familiar with the matter told TechCrunch. The South Korean firm has…*
-      
+       
   - China's cash-burning video sector: how Kuaishou lost $1B in 6 months
       <hr/>
-      
-      - *Rumors have been floating for months that ByteDance is going public with TikTok and Douyin separately. Just last night, Bloomberg reported that ByteDance is seeking a pre-IPO round of $2 billion at a staggering valuation of $180 billion. Before any of that ma…*
-      
-  - Steve Bannon's show pulled off Twitter and YouTube over calls for violence
-      <hr/>
-      
-      - *Former Presidential advisor and right-wing pundit Steve Bannon had his show suspended from Twitter and an episode removed by YouTube after calling for violence against FBI director Christopher Wray and the government’s leading pandemic expert, Dr. Anthony Fau…*
        
-  - Elon Musk's Tesla tequila will run you $250 a bottle
-      <hr/>
-       
-       - *Teslaquila, the Tesla -branded liquor, that co-starred in CEO Elon Musk’s controversial April Fool’s Day joke about the automaker filing for bankruptcy, has arrived. The automaker now lists Tesla Tequila (a bit different from the original Teslaquila branding)…*
+       - *Rumors have been floating for months that ByteDance is going public with TikTok and Douyin separately. Just last night, Bloomberg reported that ByteDance is seeking a pre-IPO round of $2 billion at a staggering valuation of $180 billion. Before any of that ma…*
       
 
 <br />
