@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+Really care about the tools you use because they are what make you your best.
 
-~ Bjarne Stroustrup
+~ Addy Osmani
 <pre>
 
 </pre>
