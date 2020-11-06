@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The purpose of software engineering is to control complexity, not to create it.
+Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
 
-~ Pamela Zave
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The purpose of software engineering is to control complexity, not to create it.
 </pre>
 <strong>Daily News</strong>
   
-  - Review: Sony's PlayStation 5 is here, but next-generation gaming is still on its way
+  - Slintel grabs $4.2M seed to grow sales intelligence platform
      <hr/>
      
-      - *The new generation of consoles is both a hard and an easy sell. With a big bump to specs and broad backwards compatibility, both the PlayStation 5 and Xbox Series X are certainly the consoles anyone should buy going forward. But with nearly no launch content …*
+      - *As the pandemic rages on, companies are looking for an edge when it comes to sales. Having the right data about the customers most likely to convert can be a huge boost right now. Slintel, an early stage startup building a sales intelligence tool, announced a…*
      
+  - Review: Sony's PlayStation 5 is here, but next-generation gaming is still on its way
+      <hr/>
+      
+      - *The new generation of consoles is both a hard and an easy sell. With a big bump to specs and broad backwards compatibility, both the PlayStation 5 and Xbox Series X are certainly the consoles anyone should buy going forward. But with nearly no launch content …*
+      
   - Spain's All Iron Ventures closes €66.5M first fund
       <hr/>
       
@@ -73,16 +78,11 @@ The purpose of software engineering is to control complexity, not to create it.
       <hr/>
       
       - *Netflix is testing out a programmed linear content channel, similar to what you get with standard broadcast and cable TV, for the first time (via Variety). The streaming company will still be streaming said channel – it’ll be accessed via Netflix’s browser-ba…*
-      
+       
   - Challenger bank Starling is out raising a new £200M funding round
       <hr/>
-      
-      - *Starling founder Anne Boden recently told TechCrunch that the U.K. challenger bank is on track to be profitable by Christmas, but this doesn’t mean it isn’t out raising additional capital already. According to well-placed sources, Starling has hired Rothschil…*
        
-  - Amazon to invest $2.8 billion to build its second data center region in India
-      <hr/>
-       
-       - *Manish Singh Contributor Manish Singh covers India for TechCrunch. Prior to this, he wrote for VentureBeat, CNBC, The Outline, CNET, and Mashable. You can reach out to him at manishsingh at pm dot me More posts by this contributor PUBG Mobile plots return to …*
+       - *Starling founder Anne Boden recently told TechCrunch that the U.K. challenger bank is on track to be profitable by Christmas, but this doesn’t mean it isn’t out raising additional capital already. According to well-placed sources, Starling has hired Rothschil…*
       
 
 <br />
