@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 
-~ Bill Gates
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Measuring programming progress by lines of code is like measuring aircraft build
 </pre>
 <strong>Daily News</strong>
   
-  - China's cash-burning video sector: how Kuaishou lost $1B in 6 months
+  - PUBG Mobile plots return to India following ban
      <hr/>
      
-      - *Rumors have been floating for months that ByteDance is going public with TikTok and Douyin separately. Just last night, Bloomberg reported that ByteDance is seeking a pre-IPO round of $2 billion at a staggering valuation of $180 billion. Before any of that ma…*
+      - *PUBG Mobile, the sleeper hit title that was banned in India two months ago over cybersecurity concerns, is plotting to make a return in the world’s second largest internet market, two sources familiar with the matter told TechCrunch. The South Korean firm has…*
      
+  - China's cash-burning video sector: how Kuaishou lost $1B in 6 months
+      <hr/>
+      
+      - *Rumors have been floating for months that ByteDance is going public with TikTok and Douyin separately. Just last night, Bloomberg reported that ByteDance is seeking a pre-IPO round of $2 billion at a staggering valuation of $180 billion. Before any of that ma…*
+      
   - Steve Bannon's show pulled off Twitter and YouTube over calls for violence
       <hr/>
       
@@ -73,16 +78,11 @@ Measuring programming progress by lines of code is like measuring aircraft build
       <hr/>
       
       - *Teslaquila, the Tesla -branded liquor, that co-starred in CEO Elon Musk’s controversial April Fool’s Day joke about the automaker filing for bankruptcy, has arrived. The automaker now lists Tesla Tequila (a bit different from the original Teslaquila branding)…*
-      
+       
   - SpaceX successfully launches GPS III space vehicle for the U.S. Space Force
       <hr/>
-      
-      - *Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June, and was the third overall GPS III put in orbit by SpaceX . …*
        
-  - After Prop 22's passage, Uber is taking its lobbying effort global
-      <hr/>
-       
-       - *Fresh off of its success on Election Day, Uber is signaling that it will continue to push laws similar to the Proposition 22 measure approved by California voters that will keep gig workers classified as independent contractors. The ride-hailing company’s amb…*
+       - *Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June, and was the third overall GPS III put in orbit by SpaceX . …*
       
 
 <br />
