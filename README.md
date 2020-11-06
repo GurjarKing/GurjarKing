@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+I care not only what the code says but how it looks.
 
-~ Bill Gates
+~ Peter Roizen
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A great programmer thinks about the program on a constant basis, whether driving
 </pre>
 <strong>Daily News</strong>
   
-  - PUBG Mobile plots return to India following ban
+  - Amazon to invest $2.8 billion to build its second data center region in India
      <hr/>
      
-      - *PUBG Mobile, the sleeper hit title that was banned in India two months ago over cybersecurity concerns, is plotting to make a return in the world’s second largest internet market, two sources familiar with the matter told TechCrunch. The South Korean firm has…*
+      - *Manish Singh Contributor Manish Singh covers India for TechCrunch. Prior to this, he wrote for VentureBeat, CNBC, The Outline, CNET, and Mashable. You can reach out to him at manishsingh at pm dot me More posts by this contributor PUBG Mobile plots return to …*
      
+  - PUBG Mobile plots return to India following ban
+      <hr/>
+      
+      - *PUBG Mobile, the sleeper hit title that was banned in India two months ago over cybersecurity concerns, is plotting to make a return in the world’s second largest internet market, two sources familiar with the matter told TechCrunch. The South Korean firm has…*
+      
   - China's cash-burning video sector: how Kuaishou lost $1B in 6 months
       <hr/>
       
@@ -73,16 +78,11 @@ A great programmer thinks about the program on a constant basis, whether driving
       <hr/>
       
       - *Former Presidential advisor and right-wing pundit Steve Bannon had his show suspended from Twitter and an episode removed by YouTube after calling for violence against FBI director Christopher Wray and the government’s leading pandemic expert, Dr. Anthony Fau…*
-      
+       
   - Elon Musk's Tesla tequila will run you $250 a bottle
       <hr/>
-      
-      - *Teslaquila, the Tesla -branded liquor, that co-starred in CEO Elon Musk’s controversial April Fool’s Day joke about the automaker filing for bankruptcy, has arrived. The automaker now lists Tesla Tequila (a bit different from the original Teslaquila branding)…*
        
-  - SpaceX successfully launches GPS III space vehicle for the U.S. Space Force
-      <hr/>
-       
-       - *Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June, and was the third overall GPS III put in orbit by SpaceX . …*
+       - *Teslaquila, the Tesla -branded liquor, that co-starred in CEO Elon Musk’s controversial April Fool’s Day joke about the automaker filing for bankruptcy, has arrived. The automaker now lists Tesla Tequila (a bit different from the original Teslaquila branding)…*
       
 
 <br />
