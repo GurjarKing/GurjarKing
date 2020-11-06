@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
 
-~ Ken Thompson
+~ Fred Brooks
 <pre>
 
 </pre>
