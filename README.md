@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
 
-~ Edsger W. Dijkstra
+~ Donald Knuth
 <pre>
 
 </pre>
