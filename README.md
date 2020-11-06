@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Premature abstraction is as bad as premature optimization.
+I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
 
-~ Luciano Ramalho
+~ Tim Berners-Lee
 <pre>
 
 </pre>
