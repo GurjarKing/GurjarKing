@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Really care about the tools you use because they are what make you your best.
+In theory, there is no difference between theory and practice. But, in practice, there is.
 
-~ Addy Osmani
+~ Jan L. A. van de Snepscheut
 <pre>
 
 </pre>
