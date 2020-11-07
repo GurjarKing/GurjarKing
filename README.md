@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In my second year in graduate school, I took a computer course and that was like lightening striking.
+There is no reason anyone would want a computer in their home.
 
-~ Ted Nelson
+~ Ken Olsen
 <pre>
 
 </pre>
