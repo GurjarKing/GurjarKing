@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 
-~ Addy Osmani
+~ Daniel T. Barry
 <pre>
 
 </pre>
