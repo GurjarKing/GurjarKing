@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
+I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 
-~ Ward Cunningham
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Shipping first time code is like going into debt. A little debt speeds developme
 </pre>
 <strong>Daily News</strong>
   
-  - VC and former politician Steve Westly is feeling electrified right now; here's why
+  - This Week in Apps: Elections' impact on the app store, new app privacy requirements, iOS 14.2 arrives
      <hr/>
      
-      - *A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for roughly 30 years, so he’s feeling optimistic right now, with …*
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
      
+  - VC and former politician Steve Westly is feeling electrified right now; here's why
+      <hr/>
+      
+      - *A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for roughly 30 years, so he’s feeling optimistic right now, with …*
+      
   - Extra Crunch roundup: B2B marketplaces, edtech M&A, breaking into the $1M ARR club
       <hr/>
       
@@ -73,16 +78,11 @@ Shipping first time code is like going into debt. A little debt speeds developme
       <hr/>
       
       - *Netflix takes an old-fashioned approach for its latest feature, Amazon plans a new data center in India and we review the PlayStation 5. This is your Daily Crunch for November 6, 2020. The big story: Netflix tests a linear video channel Today in surprising pr…*
-      
+       
   - Startups making meat alternatives are gaining traction worldwide
       <hr/>
-      
-      - *Startups that produce lab-grown meat and meat substitutes are gaining traction and raising cash in global markets, mirroring a surge of support food tech companies are seeing in the United States. New partnerships with global chains like McDonald’s in Hong Ko…*
        
-  - Provizio closes $6.2M seed round for its car safety platform using sensors and AI
-      <hr/>
-       
-       - *Provizio, a combination hardware and software startup with technology to improve car safety, has closed a seed investment round of $6.2million. Investors include Bobby Hambrick (the founder of Autonomous Stuff); the founders of Movidius; the European Innovati…*
+       - *Startups that produce lab-grown meat and meat substitutes are gaining traction and raising cash in global markets, mirroring a surge of support food tech companies are seeing in the United States. New partnerships with global chains like McDonald’s in Hong Ko…*
       
 
 <br />
