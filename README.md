@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+An evolving system increases its complexity unless work is done to reduce it.
 
-~ Roy Fielding
+~ Manny Lehman (computer scientist)
 <pre>
 
 </pre>
