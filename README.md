@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 
-~ Jamie Zawinski
+~ Ward Cunningham
 <pre>
 
 </pre>
