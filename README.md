@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-You should name a variable using the same care with which you name a first-born child.
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 
-~ Jim Coplien
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ You should name a variable using the same care with which you name a first-born 
 </pre>
 <strong>Daily News</strong>
   
-  - The gig economy, cannabis and car data are tech-election winners in 2020
+  - Here comes the next IPO wave
      <hr/>
      
-      - *As the US settles in for some new form of national gridlock, state and local propositions are busy defining how technology businesses will be allowed to work (legally) in the US.*
+      - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. Are you tired? I am. What a week. But, if you kept your eyes off American politics and instead focused on the s…*
      
+  - The gig economy, cannabis and car data are tech-election winners in 2020
+      <hr/>
+      
+      - *As the US settles in for some new form of national gridlock, state and local propositions are busy defining how technology businesses will be allowed to work (legally) in the US.*
+      
   - Joe Biden wins the 2020 US presidential election
       <hr/>
       
@@ -73,16 +78,11 @@ You should name a variable using the same care with which you name a first-born 
       <hr/>
       
       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
+       
   - VC and former politician Steve Westly is feeling electrified right now; here's why
       <hr/>
-      
-      - *A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for roughly 30 years, so he’s feeling optimistic right now, with …*
        
-  - Extra Crunch roundup: B2B marketplaces, edtech M&A, breaking into the $1M ARR club
-      <hr/>
-       
-       - *I’ve worked at TechCrunch for a little over a year, but this was one of the hardest weeks on the job so far. Like many people, I’ve been distracted in recent days. As I write this, I have one eye on my keyboard and another on a TV that sporadically broadcasts…*
+       - *A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for roughly 30 years, so he’s feeling optimistic right now, with …*
       
 
 <br />
