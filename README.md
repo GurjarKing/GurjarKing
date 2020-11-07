@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is no reason anyone would want a computer in their home.
+Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 
-~ Ken Olsen
+~ L. Peter Deutsch
 <pre>
 
 </pre>
