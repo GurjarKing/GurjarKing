@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 
-~ Martin Fowler
+~ John von Neumann
 <pre>
 
 </pre>
