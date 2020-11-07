@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 
-~ L. Peter Deutsch
+~ Addy Osmani
 <pre>
 
 </pre>
