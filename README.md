@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
 
-~ Alan Kay
+~ Fred Brooks
 <pre>
 
 </pre>
