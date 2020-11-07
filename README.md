@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The best minds of my generation are thinking about how to make people click ads.
+You should name a variable using the same care with which you name a first-born child.
 
-~ Jeff Hammerbacher
+~ Jim Coplien
 <pre>
 
 </pre>
