@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If you think it's simple, then you have misunderstood the problem.
+There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 
-~ Bjarne Stroustrup
+~ Martin Fowler
 <pre>
 
 </pre>
