@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 
-~ Donald Knuth
+~ Alan Kay
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ We should forget about small efficiencies, say about 97% of the time: premature 
 </pre>
 <strong>Daily News</strong>
   
-  - Here comes the next IPO wave
+  - Human Capital: The gig economy in a post-Prop 22 world
      <hr/>
      
-      - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. Are you tired? I am. What a week. But, if you kept your eyes off American politics and instead focused on the s…*
+      - *Welcome back to Human Capital and congrats on making it through one of the hardest weeks of the longest year. Now that the Associated Press has called the election in favor of Joe Biden, it should be good news for DEI practitioners, who expressed some worry t…*
      
+  - Here comes the next IPO wave
+      <hr/>
+      
+      - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. Are you tired? I am. What a week. But, if you kept your eyes off American politics and instead focused on the s…*
+      
   - The gig economy, cannabis and car data are tech-election winners in 2020
       <hr/>
       
@@ -73,16 +78,11 @@ We should forget about small efficiencies, say about 97% of the time: premature 
       <hr/>
       
       - *Following a tense week of vote tallying, Joe Biden won the state of Pennsylvania and vaulted ahead in the race to become the next president of the United States. Biden’s win in the critical state put him over the threshold of 270 electoral votes, cutting off …*
-      
+       
   - This Week in Apps: Elections' impact on the app store, new app privacy requirements, iOS 14.2 arrives
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
        
-  - VC and former politician Steve Westly is feeling electrified right now; here's why
-      <hr/>
-       
-       - *A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for roughly 30 years, so he’s feeling optimistic right now, with …*
+       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
       
 
 <br />
