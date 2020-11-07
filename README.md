@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A good programmer is someone who looks both ways before crossing a one-way street.
+If you think it's simple, then you have misunderstood the problem.
 
-~ Doug Linder
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
