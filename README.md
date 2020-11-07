@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Programming is at least as difficult as developing a mathematical theory.
+A good programmer is someone who looks both ways before crossing a one-way street.
 
-~ Daniel T. Barry
+~ Doug Linder
 <pre>
 
 </pre>
