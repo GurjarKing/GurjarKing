@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-An evolving system increases its complexity unless work is done to reduce it.
+Programming is at least as difficult as developing a mathematical theory.
 
-~ Manny Lehman (computer scientist)
+~ Daniel T. Barry
 <pre>
 
 </pre>
