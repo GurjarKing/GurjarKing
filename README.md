@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 
-~ Elon Musk
+~ Charles Simonyi
 <pre>
 
 </pre>
