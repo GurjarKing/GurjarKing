@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+AI is a fundamental risk to the existence of human civilization.
 
-~ Fred Brooks
+~ Elon Musk
 <pre>
 
 </pre>
