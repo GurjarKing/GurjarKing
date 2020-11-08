@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Ideas don't disappear. They change form, they merge with other ideas.
+Fancy algorithms are slow when n is small, and n is usually small.
 
-~ Bob Frankston
+~ Rob Pike
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ Ideas don't disappear. They change form, they merge with other ideas.
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: The gig economy in a post-Prop 22 world
+  - What we've learned about working from home 7 months into the pandemic
      <hr/>
      
-      - *Welcome back to Human Capital and congrats on making it through one of the hardest weeks of the longest year. Now that the Associated Press has called the election in favor of Joe Biden, it should be good news for DEI practitioners, who expressed some worry t…*
+      - *When large parts of the world were shutting down in March, we really didn’t know how we would move massive numbers of employees used to working in the office to work from home. In early March, I wrote a piece on how to prepare for such an eventuality, speakin…*
      
+  - Human Capital: The gig economy in a post-Prop 22 world
+      <hr/>
+      
+      - *Welcome back to Human Capital and congrats on making it through one of the hardest weeks of the longest year. Now that the Associated Press has called the election in favor of Joe Biden, it should be good news for DEI practitioners, who expressed some worry t…*
+      
   - Here comes the next IPO wave
       <hr/>
       
@@ -73,16 +78,11 @@ Ideas don't disappear. They change form, they merge with other ideas.
       <hr/>
       
       - *As the US settles in for some new form of national gridlock, state and local propositions are busy defining how technology businesses will be allowed to work (legally) in the US.*
-      
+       
   - Joe Biden wins the 2020 US presidential election
       <hr/>
-      
-      - *Following a tense week of vote tallying, Joe Biden won the state of Pennsylvania and vaulted ahead in the race to become the next president of the United States. Biden’s win in the critical state put him over the threshold of 270 electoral votes, cutting off …*
        
-  - This Week in Apps: Elections' impact on the app store, new app privacy requirements, iOS 14.2 arrives
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *Following a tense week of vote tallying, Joe Biden won the state of Pennsylvania and vaulted ahead in the race to become the next president of the United States. Biden’s win in the critical state put him over the threshold of 270 electoral votes, cutting off …*
       
 
 <br />
