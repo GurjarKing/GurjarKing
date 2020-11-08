@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-AI is a fundamental risk to the existence of human civilization.
+It was a turning point in my programming career when I realized that I didn't have to win every argument.
 
-~ Elon Musk
+~ Ward Cunningham
 <pre>
 
 </pre>
