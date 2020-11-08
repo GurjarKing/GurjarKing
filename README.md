@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Dealing with failure is easy: Work hard to improve.
+Computer Science is no more about computers than astronomy is about telescopes.
 
-~ Alan Perlis
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
