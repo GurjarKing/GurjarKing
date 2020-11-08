@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+When debugging, novices insert corrective code; experts remove defective code.
 
-~ Alan Turing
+~ Richard E. Pattis
 <pre>
 
 </pre>
