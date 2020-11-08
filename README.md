@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 
-~ James Gleick
+~ Douglas Crockford
 <pre>
 
 </pre>
