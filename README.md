@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 
-~ Fred Brooks
+~ Danny Hillis
 <pre>
 
 </pre>
