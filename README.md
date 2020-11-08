@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+Dealing with failure is easy: Work hard to improve.
 
-~ Alan Kay
+~ Alan Perlis
 <pre>
 
 </pre>
