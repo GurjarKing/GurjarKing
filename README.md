@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 
-~ John McCarthy (computer scientist)
+~ Alan Turing
 <pre>
 
 </pre>
