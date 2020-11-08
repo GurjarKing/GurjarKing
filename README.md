@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer Science is no more about computers than astronomy is about telescopes.
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 
-~ Edsger W. Dijkstra
+~ Fred Brooks
 <pre>
 
 </pre>
