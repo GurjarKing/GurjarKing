@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 
-~ Douglas Crockford
+~ Harlan Mills
 <pre>
 
 </pre>
