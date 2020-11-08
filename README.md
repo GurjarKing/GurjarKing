@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Fancy algorithms are slow when n is small, and n is usually small.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Rob Pike
+~ Fred Brooks
 <pre>
 
 </pre>
