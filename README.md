@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When debugging, novices insert corrective code; experts remove defective code.
+Ideas don't disappear. They change form, they merge with other ideas.
 
-~ Richard E. Pattis
+~ Bob Frankston
 <pre>
 
 </pre>
