@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+Adding manpower to a late software project makes it later.
 
-~ Bjarne Stroustrup
+~ Fred Brooks
 <pre>
 
 </pre>
