@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Lawrence Flon
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ There is no programming language, no matter how structured, that will prevent pr
 </pre>
 <strong>Daily News</strong>
   
-  - NASA partners with SpaceX, Rocket Lab, Blue Origin and others for test flights and research
+  - Twitter may slow down users' ability to 'like' tweets containing misinformation
      <hr/>
      
-      - *NASA has announced 20 new partnerships with commercial space outfits, among them collaborations with SpaceX, Blue Origin, and Rocket Lab. While no money will change hands, NASA will dedicate millions in personnel and other support to these test launches and d…*
+      - *Twitter is working to expand the use of its “misinformation” labels on misleading tweets. The company has developed a new feature, not yet live, that would pop up a “misleading information” label when a user tries to “Like” a tweet that’s been labeled as mi…*
      
+  - Uber has its highest close since IPO
+      <hr/>
+      
+      - *Uber shares surged 7.38% to close at $48.18 following news that a vaccine candidate is 90% effective at preventing COVID-19, and could start coming to market in a matter of months. The announcement by drugmakers Pfizer and BioNTech sparked widespread optimism…*
+      
+  - NASA partners with SpaceX, Rocket Lab, Blue Origin and others for test flights and research
+      <hr/>
+      
+      - *NASA has announced 20 new partnerships with commercial space outfits, among them collaborations with SpaceX, Blue Origin, and Rocket Lab. While no money will change hands, NASA will dedicate millions in personnel and other support to these test launches and d…*
+      
   - Adobe acquires marketing workflow startup Workfront for $1.5B
       <hr/>
       
       - *Adobe just announced that it is acquiring marketing workflow management startup Workfront for $1.5 billion. Bloomberg first reported the sale would be happening earlier today. Workfront was founded back in 2001, making it a bit long in tooth for a private com…*
-      
+       
   - Indian logistics startup Xpressbees raises $110 million
       <hr/>
-      
-      - *Xpressbees, an Indian logistics firm that works with several e-commerce firms in the country, said on Monday it has raised $110 million in a new financing round as online shopping booms in the world’s second largest internet market. The Pune-headquartered sta…*
-      
-  - Bumble's new feature prevents bad actors from using 'unmatch' to hide from their victims
-      <hr/>
-      
-      - *Dating app Bumble announced today it’s changing how its “unmatch” feature works in an effort to better prioritize user safety. The change will make it more difficult for a bad actor or harasser to use the app’s unmatch feature in order to avoid having their c…*
        
-  - Startup fundraising is the most tangible gender gap. How can we overcome it?
-      <hr/>
-       
-       - *Closing the gender gap in VC funding is no simple task, but it’s one that must be undertaken.*
+       - *Xpressbees, an Indian logistics firm that works with several e-commerce firms in the country, said on Monday it has raised $110 million in a new financing round as online shopping booms in the world’s second largest internet market. The Pune-headquartered sta…*
       
 
 <br />
