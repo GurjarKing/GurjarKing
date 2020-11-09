@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Adding manpower to a late software project makes it later.
+Debugging time increases as a square of the program’s size.
 
-~ Fred Brooks
+~ Chris Wenham
 <pre>
 
 </pre>
