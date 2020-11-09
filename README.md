@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 
-~ John Carmack
+~ Joe Armstrong (programmer)
 <pre>
 
 </pre>
