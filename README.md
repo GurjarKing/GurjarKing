@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 
-~ Henry Ford
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
