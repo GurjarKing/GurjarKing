@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
+What one programmer can do in one month, two programmers can do in two months.
 
-~ Kevlin Henney
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The act of describing a program in unambiguous detail and the act of programming
 </pre>
 <strong>Daily News</strong>
   
-  - Qumulo update adds NvME caching for more efficient use of flash storage
+  - Transportation on the ballot, Softbank parks its money in REEF and Tesla Tequila arrives
      <hr/>
      
-      - *Qumulo, the Seattle-based data storage startup, announced a bunch of updates today including support for NvME caching, an approach that should enable customers to access faster flash storage at a lower price point. NvME flash storage development is evolving q…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Welcome back to The Station, a newsletter dedicated to all the present and future ways people and pa…*
      
-  - iPhone 12 mini Review: Tiny package, big bang
+  - Equity Monday: Vaccine news scrambles the stock market, shakes up startups
       <hr/>
       
-      - *Reviewing the iPhone 12 mini and the iPhone 12 Pro Max at the same time has been an exercise in extremes. I noted in my earlier reviews of the iPhone 12 and iPhone 12 Pro that it was difficult to evaluate the middle of the lineup without having the extreme en…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
       
-  - Review: The iPhone 12 Pro Max is worth its handling fee
+  - Apple Magsafe Duo Charger Review: Useful, but expensive and underwhelming
       <hr/>
       
-      - *The iPhone 12 Pro Max is probably the easiest of all of the new iPhone 12 models to review. It’s huge and it has a really, really great camera. Probably one of the best cameras ever in a smartphone if not the best. For those of you coming from an iPhone “Max”…*
+      - *In addition to the new iPhone 12 mini and the iPhone 12 Pro Max, I was able to try out Apple’s new MagSafe Duo Charger. It’s a folding dual travel charger that will hold both an iPhone using MagSafe and an Apple Watch using its more traditional magnetic charg…*
       
-  - Moon exporation startup ispace opens new U.S. office and hires SpaceX to lead development of next lander
+  - India opens antitrust case against Google over its payments app
       <hr/>
       
-      - *Japanese startup ispace, which is developing lander technology to support exploration of the Moon, is opening an office in Denver, the company announced today. The Colorado location was chosen because of its access to local aerospace engineering talent, and t…*
+      - *India’s antitrust watchdog has opened an investigation into Google for allegedly abusing the dominant position of its app store to promote its payments service in the world’s second largest internet market. In its Monday announcement (PDF) about opening an an…*
        
-  - Weed stocks are hitting new highs after Biden win
+  - Qumulo update adds NvME caching for more efficient use of flash storage
       <hr/>
        
-       - *Cannabis was a big winner from the results of the United States’ election, and industry stocks are soaring on both the voting results and recent earnings. Companies such as Canopy Growth Corporation, Tilray, and Aurora Cannabis are seeing their valuations pop…*
+       - *Qumulo, the Seattle-based data storage startup, announced a bunch of updates today including support for NvME caching, an approach that should enable customers to access faster flash storage at a lower price point. NvME flash storage development is evolving q…*
       
 
 <br />
