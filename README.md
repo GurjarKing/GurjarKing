@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 
-~ Douglas Crockford
+~ John Carmack
 <pre>
 
 </pre>
