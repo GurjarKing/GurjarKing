@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-What one programmer can do in one month, two programmers can do in two months.
+A program that produces incorrect results twice as fast is infinitely slower.
 
-~ Fred Brooks
+~ John Ousterhout
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ What one programmer can do in one month, two programmers can do in two months.
 </pre>
 <strong>Daily News</strong>
   
-  - Transportation on the ballot, Softbank parks its money in REEF and Tesla Tequila arrives
+  - What happens to high-flying startups if the pandemic trade flips?
      <hr/>
      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Welcome back to The Station, a newsletter dedicated to all the present and future ways people and pa…*
+      - *So much can change in a day. This morning, news that a trial COVID-19 vaccine candidate had an effective rate of more than 90% shook the financial world. The Pfizer vaccine is reportedl;y so effective, the company “will have manufactured enough doses to immun…*
      
-  - Equity Monday: Vaccine news scrambles the stock market, shakes up startups
+  - Zoom settles with FTC after making 'deceptive' security claims
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *The FTC said Zoom "engaged in a series of deceptive and unfair practices that undermined the security of its users."*
       
-  - Apple Magsafe Duo Charger Review: Useful, but expensive and underwhelming
+  - Uzabase sells Quartz to the site's CEO and staff
       <hr/>
       
-      - *In addition to the new iPhone 12 mini and the iPhone 12 Pro Max, I was able to try out Apple’s new MagSafe Duo Charger. It’s a folding dual travel charger that will hold both an iPhone using MagSafe and an Apple Watch using its more traditional magnetic charg…*
+      - *Quartz is going private, with co-founder and CEO Zach Seward buying the business news site from its current owner Uzabase. In his post announcing the deal, Seward described the move as a management buyout that will also see Editor in Chief Katherine Bell and …*
       
-  - India opens antitrust case against Google over its payments app
+  - McDonald's to launch a McPlant vegetarian option
       <hr/>
       
-      - *India’s antitrust watchdog has opened an investigation into Google for allegedly abusing the dominant position of its app store to promote its payments service in the world’s second largest internet market. In its Monday announcement (PDF) about opening an an…*
+      - *McDonalds is developing what it calls a plant-based platform called the McPlant that will debut in markets around the world early next year, according to a report in USA Today. In an investor meeting McDonald’s announced that it had worked to develop its McPl…*
        
-  - Qumulo update adds NvME caching for more efficient use of flash storage
+  - Apple Music adds 10 new playlists aimed at Gen Z, including one with TikTok hits
       <hr/>
        
-       - *Qumulo, the Seattle-based data storage startup, announced a bunch of updates today including support for NvME caching, an approach that should enable customers to access faster flash storage at a lower price point. NvME flash storage development is evolving q…*
+       - *Apple Music is targeting Gen Z users in its battle with Spotify . On Friday, Apple launched ten new Apple Music playlists focused on the music interests of Gen Z users — including one playlist that features the latest tracks to go viral across social media ap…*
       
 
 <br />
