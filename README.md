@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
 
-~ Marijn Haverbeke
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A program is a building of thought. It is costless to build, it is weightless, a
 </pre>
 <strong>Daily News</strong>
   
-  - What's all this about Europe wanting crypto backdoors?
+  - Qumulo update adds NvME caching for more efficient use of flash storage
      <hr/>
      
-      - *A press report emerged over the weekend claiming European lawmakers who are worried about terrorism are speeding towards a ban on end-to-end encryption. Spoiler: It’s a little more nuanced than that. Read on for our break down of what’s actually going on…  Is…*
+      - *Qumulo, the Seattle-based data storage startup, announced a bunch of updates today including support for NvME caching, an approach that should enable customers to access faster flash storage at a lower price point. NvME flash storage development is evolving q…*
      
-  - Pfizer's COVID-19 vaccine proves 90% effective in first results from Phase 3 clinical trial
+  - iPhone 12 mini Review: Tiny package, big bang
       <hr/>
       
-      - *The COVID-19 vaccine being developed by Pfizer and its partner BioNTech has shown to be effective blocking vaccine in 90 percent of participants in its Phase 3 clinical trial, the companies announced on Monday. That’s based on data analyzed by an external, in…*
+      - *Reviewing the iPhone 12 mini and the iPhone 12 Pro Max at the same time has been an exercise in extremes. I noted in my earlier reviews of the iPhone 12 and iPhone 12 Pro that it was difficult to evaluate the middle of the lineup without having the extreme en…*
       
-  - Apple places supplier Pegatron on probation over labor conditions
+  - Review: The iPhone 12 Pro Max is worth its handling fee
       <hr/>
       
-      - *Apple has suspended new business with supplier Pegatron after the Taiwan-based original equipment manufacturer misclassified student workers. Apple also said Pegatron broke its Code of Conduct for suppliers. In a statement provided to Bloomberg, Apple said, “…*
+      - *The iPhone 12 Pro Max is probably the easiest of all of the new iPhone 12 models to review. It’s huge and it has a really, really great camera. Probably one of the best cameras ever in a smartphone if not the best. For those of you coming from an iPhone “Max”…*
       
-  - Singapore-based sales productivity platform Nektar raises $2.15 million seed round
+  - Moon exporation startup ispace opens new U.S. office and hires SpaceX to lead development of next lander
       <hr/>
       
-      - *Singapore-based Nektar.ai, a productivity platform for sales teams, has raised $2.15 million in seed funding. Founded earlier this year, Nektar has been working in stealth mode with five companies, and has plans for an early adopter release before a public la…*
+      - *Japanese startup ispace, which is developing lander technology to support exploration of the Moon, is opening an office in Denver, the company announced today. The Colorado location was chosen because of its access to local aerospace engineering talent, and t…*
        
-  - Tim Berners Lee's startup Inrupt releases Solid privacy platform for enterprises
+  - Weed stocks are hitting new highs after Biden win
       <hr/>
        
-       - *Inrupt, the startup from World Wide Web founder Tim Berners-Lee, announced an enterprise version of the Solid privacy platform today, which allows large organizations and governments to build applications that put users in control of their data. Berners-Lee h…*
+       - *Cannabis was a big winner from the results of the United States’ election, and industry stocks are soaring on both the voting results and recent earnings. Companies such as Canopy Growth Corporation, Tilray, and Aurora Cannabis are seeing their valuations pop…*
       
 
 <br />
