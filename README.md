@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+Your most unhappy customers are your greatest source of learning.
 
-~ Anders Hejlsberg
+~ Bill Gates
 <pre>
 
 </pre>
