@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 
-~ Tony Hoare
+~ Martin Fowler
 <pre>
 
 </pre>
