@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Debugging time increases as a square of the program’s size.
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 
-~ Chris Wenham
+~ Anders Hejlsberg
 <pre>
 
 </pre>
