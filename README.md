@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+The next best thing to having good ideas is recognizing good ideas from your users.
 
-~ Edsger W. Dijkstra
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ The effective exploitation of his powers of abstraction must be regarded as one 
 </pre>
 <strong>Daily News</strong>
   
-  - Decrypted: Grayshift raises $47M, Apple bugs under attack, video game maker hacked
+  - Bumble's new feature prevents bad actors from using 'unmatch' to hide from their victims
      <hr/>
      
-      - *The election is over, but not without a hitch or two. Some voters in Georgia and Ohio had to use paper ballots after hand sanitizer leaked into voting machines — an unexpected casualty of the pandemic. And a slew of robocalls across a number of swing states u…*
+      - *Dating app Bumble announced today it’s changing how its “unmatch” feature works in an effort to better prioritize user safety. The change will make it more difficult for a bad actor or harasser to use the app’s unmatch feature in order to avoid having their c…*
      
-  - The PlayStation 4 will be able to play PlayStation 5 games remotely
+  - Startup fundraising is the most tangible gender gap. How can we overcome it?
       <hr/>
       
-      - *Well, isn’t this a nice little surprise? This morning some PlayStation 4 owners are reporting the sudden and unexpected arrival of a new “PS5 Remote Play” app. While the app doesn’t do much yet (the PS5 isn’t out yet, after all), it seems meant to let you kee…*
+      - *Closing the gender gap in VC funding is no simple task, but it’s one that must be undertaken.*
       
-  - 5 UX design research mistakes you can stop making today
+  - Hyundai reportedly in talks to buy SoftBank-owned Boston Dynamics
       <hr/>
       
-      - *Prioritizing quality user research will ensure that your products and ideas are given the opportunities they deserve to be properly realized and to succeed.*
+      - *Boston Dynamics could be set to change hands once again, according to a new report from Bloomberg that cited “people familiar with the matter.” The deal would make Korean automaker Hyundai the third company in seven years to own the robotics firm, following s…*
       
-  - 'Free speech' social network Parler tops app store rankings following Biden's election win
+  - Beyond Meat shares rise on news that it collaborated with McDonald's on the McPlant options
       <hr/>
       
-      - *Trump supporters fled Twitter and Facebook for the "free speech" social network*
+      - *After tumbling earlier today, Beyond Meat shares are shooting upward on news that the company did indeed collaborate with McDonald’s on its new McPlant vegetarian menu. McDonald’s made waves this morning when it announced its new McPlant, and the company’s st…*
        
-  - Get fast money for your space startup at TC Sessions Space this December
+  - Decrypted: Grayshift raises $47M, Apple bugs under attack, video game maker hacked
       <hr/>
        
-       - *One of the most challenging aspects of running your space startup is access to capital. At TC Sessions Space (December 16 & 17), we’re bringing together some of the top space funding programs to help founders discover how they can tap into grant money to fuel…*
+       - *The election is over, but not without a hitch or two. Some voters in Georgia and Ohio had to use paper ballots after hand sanitizer leaked into voting machines — an unexpected casualty of the pandemic. And a slew of robocalls across a number of swing states u…*
       
 
 <br />
