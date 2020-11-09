@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A program that produces incorrect results twice as fast is infinitely slower.
+Simplicity is prerequisite for reliability.
 
-~ John Ousterhout
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ A program that produces incorrect results twice as fast is infinitely slower.
 </pre>
 <strong>Daily News</strong>
   
-  - What happens to high-flying startups if the pandemic trade flips?
+  - YouTube copies Spotify's 'Daily Mixes' with its new 'My Mix' feature
      <hr/>
      
-      - *So much can change in a day. This morning, news that a trial COVID-19 vaccine candidate had an effective rate of more than 90% shook the financial world. The Pfizer vaccine is reportedl;y so effective, the company “will have manufactured enough doses to immun…*
+      - *YouTube Music is taking another cue from Spotify with today’s launch of a set of personalized playlists that are essentially YouTube Music’s own take on Spotify’s “Daily Mixes.” Each of these new “My Mix” playlists will feature a different aspect of a user&…*
      
-  - Zoom settles with FTC after making 'deceptive' security claims
+  - Spora Health launches primary care network for Black people and people of color
       <hr/>
       
-      - *The FTC said Zoom "engaged in a series of deceptive and unfair practices that undermined the security of its users."*
+      - *A number of healthcare disparities exist for Black people in America, but they can oftentimes go unaddressed due to the lack of education and understanding among medical professionals. Spora Health, which launches today for patients in Virginia, Tennessee, Pe…*
       
-  - Uzabase sells Quartz to the site's CEO and staff
+  - Autonomous delivery startup Nuro hits $5 billion valuation on fresh funding of $500 million
       <hr/>
       
-      - *Quartz is going private, with co-founder and CEO Zach Seward buying the business news site from its current owner Uzabase. In his post announcing the deal, Seward described the move as a management buyout that will also see Editor in Chief Katherine Bell and …*
+      - *Nuro, the autonomous delivery startup founded by two former Google engineers, has raised $500 million, suggesting that investors still have an appetite for long-term pursuits such as robotics and automated vehicle technology. Nuro now has a post-money valuati…*
       
-  - McDonald's to launch a McPlant vegetarian option
+  - Cookware startup Great Jones raises $1.75M as it expands into bakeware
       <hr/>
       
-      - *McDonalds is developing what it calls a plant-based platform called the McPlant that will debut in markets around the world early next year, according to a report in USA Today. In an investor meeting McDonald’s announced that it had worked to develop its McPl…*
+      - *Great Jones is expanding into a new area of the kitchen tomorrow, with what co-founder and CEO Sierra Tishgart described as the startup’s biggest launch since it released its first products two years ago. Ahead of launching the new bakeware line, Great Jones …*
        
-  - Apple Music adds 10 new playlists aimed at Gen Z, including one with TikTok hits
+  - What we expect from Apple’s ‘One More Thing’ Mac event
       <hr/>
        
-       - *Apple Music is targeting Gen Z users in its battle with Spotify . On Friday, Apple launched ten new Apple Music playlists focused on the music interests of Gen Z users — including one playlist that features the latest tracks to go viral across social media ap…*
+       - *Macs. Okay, great. We’re done here.*
       
 
 <br />
