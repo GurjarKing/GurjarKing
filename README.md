@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 
 ~ Edsger W. Dijkstra
 <pre>
