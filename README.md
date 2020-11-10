@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 
-~ Vannevar Bush
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ If scientific reasoning were limited to the logical processes of arithmetic, we 
 </pre>
 <strong>Daily News</strong>
   
-  - Macs with the M1 chip do not support eGPUs
+  - Lyft sees ride revenues recover by nearly 50% in just three months
      <hr/>
      
-      - *Apple today announced its first self-developed processor for Mac hardware. Called the M1, the system on a chip (SoC) is based on an ARM architecture rather than an Intel-built platform. This is a massive switch, and as the dust settles from the announcement, …*
+      - *Shares of Lyft are riding high, popping more than 7% in after-hours trading today after the American ride-hailing giant reported its Q3 earnings. Lyft, which competes with Uber for rideshare, reported revenues of $499.7 million in third-quarter, a 48% drop fr…*
      
+  - The Boox Poke 3 is my new favorite e-reader
+      <hr/>
+      
+      - *There are plenty of e-readers to choose from out there, but never enough for me. I’m always questing for the one that will make me forget that there are others available, and in the Onyx Boox Poke 3, I think I have found it — at least for now. The Chinese e-p…*
+      
+  - Macs with the M1 chip do not support eGPUs
+      <hr/>
+      
+      - *Apple today announced its first self-developed processor for Mac hardware. Called the M1, the system on a chip (SoC) is based on an ARM architecture rather than an Intel-built platform. This is a massive switch, and as the dust settles from the announcement, …*
+      
   - House Reps ask FCC to 'stop work on all partisan, controversial items' during transition
       <hr/>
       
       - *Two U.S. Representatives who oversee the FCC have asked the agency to respect the results of the election by abandoning any “partisan, controversial items under consideration.” This likely includes the FCC’s effort to reinterpret Section 230, an important pro…*
-      
+       
   - Google adds COVID-related health and safety info to Google Travel
       <hr/>
-      
-      - *Google today announced it’s adding more COVID-related health and safety information to its Google Travel booking service. Starting this week, when users search for hotels and vacation rental properties through Google Travel, they may see new information about…*
-      
-  - IBM CEO Arvind Krishna wants to completely transform his organization
-      <hr/>
-      
-      - *When IBM announced it was spinning out its infrastructure services business last month, it was surely a sign that the company was going all in on hybrid cloud. Today in an interview with Jon Fortt at the CNBC Evolve summit, IBM CEO Arvind Krishna made it clea…*
        
-  - Accelerators embrace change forced by pandemic
-      <hr/>
-       
-       - *Accelerators have become a major force in the startup world, but these teeming masses of potential have been forced, like every other industry, to adopt major changes with the pandemic. Surprisingly, however, they have not just rolled with the punches but see…*
+       - *Google today announced it’s adding more COVID-related health and safety information to its Google Travel booking service. Starting this week, when users search for hotels and vacation rental properties through Google Travel, they may see new information about…*
       
 
 <br />
