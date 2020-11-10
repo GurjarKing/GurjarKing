@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 
-~ Dennis Ritchie
+~ Ellen Ullman
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Computer science research is different from these more traditional disciplines. 
 </pre>
 <strong>Daily News</strong>
   
-  - Walmart and Cruise partner to test autonomous grocery delivery in Arizona
+  - Hear from TMV's Soraya Darabi on how to land your first yes from an investor today at 11 a.m. PT, 2 p.m. ET
      <hr/>
      
-      - *U.S. retailer Walmart and autonomous vehicle company Cruise are pairing up to test grocery delivery in Scottsdale, Arizona. Under the pilot program, customers will be able to place an order from their local Walmart store and have it delivered via one of Cruis…*
+      - *Today at 11:00 a.m. PT/2:00 p.m. ET, we’re bringing venture capitalist Soraya Darabi of TMV to the Extra Crunch Live stage to talk about how to get that first “yes” as an early-stage company and which founder mistakes often lead her to say “no.” You’ll need t…*
      
-  - JumpCloud raises $75M Series E as cloud directory service thrives during pandemic
+  - Spotify buying podcast hosting and ad company Megaphone for $235M
       <hr/>
       
-      - *JumpCloud, the cloud directory service that debuted at TechCrunch Disrupt Battlefield in 2013, announced a $75 million Series E today. The round was led by BlackRock with participation from existing investor General Atlantic. The company wasn’t willing to dis…*
+      - *Spotify has come under fire of late over questions around musician compensation, but when it comes to podcasting, it has money to burn. This morning, the streaming service confirmed its acquisition of Megaphone for a reported $235 million. Launched by The Sla…*
       
-  - Uber will now let users book rides 30 days in advance and pick a favorite driver
+  - Remote raises $35M to help orgs with global workforce payroll, benefits and more
       <hr/>
       
-      - *Uber is rolling out a new feature this week that will let users reserve rides up to 30 days in advance and pick their favorite driver for the trip as the ride-hailing company seeks out new ways to attract customers during the COVID-19 pandemic. The new option…*
+      - *Remote working has become the norm in many offices around the world this year, as organizations do what they can to help contain the rapid transmission of Covid-19 by reducing in-person interactions between workers. That’s also meant a renewed focus on how co…*
       
-  - Tailscale raises $12 million for its WireGuard-based corporate VPN
+  - Why I left edtech and got into gaming
       <hr/>
       
-      - *Tailscale has raised a $12 million funding round. Accel is leading the round with Heavybit and Uncork Capital also participating. The company is building a better corporate VPN by leveraging a modern protocol and focusing on ease of implementation. A VPN, or …*
+      - *While there were risks to gaming, the large and growing market size, resilient economic model and high engagement rates were compelling enough to look past them.*
        
-  - Nigeria's Kuda raises $10M to be the mobile-first challenger bank for Africa
+  - Walmart and Cruise partner to test autonomous grocery delivery in Arizona
       <hr/>
        
-       - *The African continent is currently one of the fastest-growing regions when it comes to mobile growth, and financial technology companies that are building services to meet that rapidly-expanding market are getting a lot of attention. In the latest development…*
+       - *U.S. retailer Walmart and autonomous vehicle company Cruise are pairing up to test grocery delivery in Scottsdale, Arizona. Under the pilot program, customers will be able to place an order from their local Walmart store and have it delivered via one of Cruis…*
       
 
 <br />
