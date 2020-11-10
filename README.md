@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 
-~ Ivan Sutherland
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ A display connected to a digital computer gives us a chance to gain familiarity 
 </pre>
 <strong>Daily News</strong>
   
-  - Hong Kong insurtech startup Coherent gets $14 million Series A led by Cathay Innovation
+  - Mirror founder Brynn Putnam on life with Lululemon -- and whether or not she sold too soon
      <hr/>
      
-      - *Based in Hong Kong, Coherent helps insurance providers go digital. With their services more relevant than ever during the COVID-19 pandemic, the startup announced it has raised $14 million in new funding. The Series A round, led by Cathay Innovation with part…*
+      - *Brynn Putnam has a lot to feel great about. A Harvard grad and former professional ballet dancer who opened the first of what have become three high-intensity fitness studios in New York, she then launched a second business in 2016 when — while pregnant with …*
      
+  - Hong Kong insurtech startup Coherent gets $14 million Series A led by Cathay Innovation
+      <hr/>
+      
+      - *Based in Hong Kong, Coherent helps insurance providers go digital. With their services more relevant than ever during the COVID-19 pandemic, the startup announced it has raised $14 million in new funding. The Series A round, led by Cathay Innovation with part…*
+      
   - Despite global headwinds, Chinese hardware startups remain to take on the world
       <hr/>
       
@@ -73,16 +78,11 @@ A display connected to a digital computer gives us a chance to gain familiarity 
       <hr/>
       
       - *As Ant Group seizes the world’s attention with its record initial public offering, which was abruptly called off by Beijing, investors and analysts are revisiting Tencent’s fintech interests, recognized as Ant’s archrival in China. It’s somewhat complicated t…*
-      
+       
   - Elon Musk's Boring Company is setting up operations in Austin
       <hr/>
-      
-      - *Elon Musk’s tunneling and transportation startup The Boring Company is eyeing Austin for its next project based on several new job postings. The Boring Company, which last year landed a deal to construct and operate a “people mover” for the Las Vegas Conventi…*
        
-  - Sony prepares to enter the drone game with Airpeak
-      <hr/>
-       
-       - *Sony has announced that it is entering the drone market with a new brand called Airpeak, though the specifics of the drone itself are left something of a mystery. It plans to launch the project next spring. The barebones announcement says only that Sony has b…*
+       - *Elon Musk’s tunneling and transportation startup The Boring Company is eyeing Austin for its next project based on several new job postings. The Boring Company, which last year landed a deal to construct and operate a “people mover” for the Las Vegas Conventi…*
       
 
 <br />
