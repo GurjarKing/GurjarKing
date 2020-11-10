@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+When in doubt, leave it out.
 
-~ Ellen Ullman
+~ Joshua Bloch
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ We build our computer systems the way we build our cities: over time, without a 
 </pre>
 <strong>Daily News</strong>
   
-  - Hear from TMV's Soraya Darabi on how to land your first yes from an investor today at 11 a.m. PT, 2 p.m. ET
+  - Carbon Health raises $100 million with plans to expand pop-up clinics ahead of COVID-19 vaccination programs
      <hr/>
      
-      - *Today at 11:00 a.m. PT/2:00 p.m. ET, we’re bringing venture capitalist Soraya Darabi of TMV to the Extra Crunch Live stage to talk about how to get that first “yes” as an early-stage company and which founder mistakes often lead her to say “no.” You’ll need t…*
+      - *Carbon Health has raised a $100 million Series C funding round, led by Dragoneer Investment Group and including participation from prior investors Brookfield Technology Partners, DCVC and Builders VC. This funding will be used to help the SF-based healthcare …*
      
+  - Roblox to host its first virtual concert, featuring Lil Nas X
+      <hr/>
+      
+      - *Roblox this morning announced a partnership with Columbia Records that will allow it to bring a virtual concert experience featuring Lil Nas X to its gaming platform. Notably, this will be Roblox’s first-ever virtual concert, and follows similar events that h…*
+      
+  - Explo snags $2.3M seed to help build customer-facing BI dashboards
+      <hr/>
+      
+      - *Explo, a member of the Y Combinator Winter 2020 class, which is helping customers build customer-facing business intelligence dashboards, announced a $2.3 million seed round today. Investors included Amplo VC, Soma Capital and Y Combinator along with several …*
+      
+  - Hear from TMV's Soraya Darabi on how to land your first yes from an investor today at 11 a.m. PT, 2 p.m. ET
+      <hr/>
+      
+      - *Today at 11:00 a.m. PT/2:00 p.m. ET, we’re bringing venture capitalist Soraya Darabi of TMV to the Extra Crunch Live stage to talk about how to get that first “yes” as an early-stage company and which founder mistakes often lead her to say “no.” You’ll need t…*
+       
   - Spotify buying podcast hosting and ad company Megaphone for $235M
       <hr/>
-      
-      - *Spotify has come under fire of late over questions around musician compensation, but when it comes to podcasting, it has money to burn. This morning, the streaming service confirmed its acquisition of Megaphone for a reported $235 million. Launched by The Sla…*
-      
-  - Remote raises $35M to help orgs with global workforce payroll, benefits and more
-      <hr/>
-      
-      - *Remote working has become the norm in many offices around the world this year, as organizations do what they can to help contain the rapid transmission of Covid-19 by reducing in-person interactions between workers. That’s also meant a renewed focus on how co…*
-      
-  - Why I left edtech and got into gaming
-      <hr/>
-      
-      - *While there were risks to gaming, the large and growing market size, resilient economic model and high engagement rates were compelling enough to look past them.*
        
-  - Walmart and Cruise partner to test autonomous grocery delivery in Arizona
-      <hr/>
-       
-       - *U.S. retailer Walmart and autonomous vehicle company Cruise are pairing up to test grocery delivery in Scottsdale, Arizona. Under the pilot program, customers will be able to place an order from their local Walmart store and have it delivered via one of Cruis…*
+       - *Spotify has come under fire of late over questions around musician compensation, but when it comes to podcasting, it has money to burn. This morning, the streaming service confirmed its acquisition of Megaphone for a reported $235 million. Launched by The Sla…*
       
 
 <br />
