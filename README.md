@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 
-~ Linus Torvalds
+~ Anders Hejlsberg
 <pre>
 
 </pre>
