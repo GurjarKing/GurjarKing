@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-When in doubt, leave it out.
+Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 
-~ Joshua Bloch
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ When in doubt, leave it out.
 </pre>
 <strong>Daily News</strong>
   
-  - Carbon Health raises $100 million with plans to expand pop-up clinics ahead of COVID-19 vaccination programs
+  - Twitter could face its first GDPR penalty within days
      <hr/>
      
-      - *Carbon Health has raised a $100 million Series C funding round, led by Dragoneer Investment Group and including participation from prior investors Brookfield Technology Partners, DCVC and Builders VC. This funding will be used to help the SF-based healthcare …*
+      - *European data protection regulators have inched toward an enforcement decision for a Twitter breach that the company publicly disclosed in 2019, after a majority of EU data supervisors agreed to back a draft settlement submitted earlier by Ireland’s Data Prot…*
      
-  - Roblox to host its first virtual concert, featuring Lil Nas X
+  - Treviranus, Butler and Fruchterman to speak  at Sight Tech Global
       <hr/>
       
-      - *Roblox this morning announced a partnership with Columbia Records that will allow it to bring a virtual concert experience featuring Lil Nas X to its gaming platform. Notably, this will be Roblox’s first-ever virtual concert, and follows similar events that h…*
+      - *Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps g…*
       
-  - Explo snags $2.3M seed to help build customer-facing BI dashboards
+  - New forecast pegs TikTok to top 1.2B monthly active users in 2021
       <hr/>
       
-      - *Explo, a member of the Y Combinator Winter 2020 class, which is helping customers build customer-facing business intelligence dashboards, announced a $2.3 million seed round today. Investors included Amplo VC, Soma Capital and Y Combinator along with several …*
+      - *TikTok’s upward trajectory is expected to continue in 2021, according to a new forecast from mobile data and analytics firm App Annie, which estimates the short-form video app will surpass the 1 billion monthly active user mark next year. The expanded forecas…*
       
-  - Hear from TMV's Soraya Darabi on how to land your first yes from an investor today at 11 a.m. PT, 2 p.m. ET
+  - Huawei reportedly set to sell Honor budget phone division for $15B
       <hr/>
       
-      - *Today at 11:00 a.m. PT/2:00 p.m. ET, we’re bringing venture capitalist Soraya Darabi of TMV to the Extra Crunch Live stage to talk about how to get that first “yes” as an early-stage company and which founder mistakes often lead her to say “no.” You’ll need t…*
+      - *Following weeks of rumors surrounding a potential sale, Huawei has reportedly struck a deal to divest itself of its Honor brand. A new report out today from Reuters notes that the embattled hardware maker will sell the budget unit to a consortium of buyers th…*
        
-  - Spotify buying podcast hosting and ad company Megaphone for $235M
+  - Pioneers of in-space refueling and manufacturing join TC Sessions: Space 2020
       <hr/>
        
-       - *Spotify has come under fire of late over questions around musician compensation, but when it comes to podcasting, it has money to burn. This morning, the streaming service confirmed its acquisition of Megaphone for a reported $235 million. Launched by The Sla…*
+       - *One of the problems with putting a satellite in orbit is that once you do, it’s pretty much out of your hands. If anything goes wrong, or it runs out of fuel, that’s all she wrote. Fortunately there are companies that aim to change this, and three leaders in …*
       
 
 <br />
