@@ -59,30 +59,30 @@ There are some basic techniques to control complexity. Fundamentally, I divide a
 </pre>
 <strong>Daily News</strong>
   
-  - Live from Apple's 2020 Mac event featuring the first ever Apple Silicon Macs
+  - iOS apps can run on Apple's new Apple Silicon Macs
      <hr/>
      
-      - *Apple’s had a packed fall, and today is the day of its third big product reveal event this season. This one is going to be squarely focused on the first Macs with Apple Silicon, the company’s first in-house processors designed for its macOS computers. Apple a…*
+      - *Apple announced today its new Apple Silicon Macs would be capable of running a wider range of apps than before, even in the case where an iOS developer hasn’t released a Mac -compatible version of their mobile experience. The company said macOS Big Sur would …*
      
-  - Watch Apple unveil the first ARM-based Mac live right here
+  - Apple brings back its 'I'm a PC' spokesman for ARM-based Mac launch event
       <hr/>
       
-      - *Apple is organizing its third event in three months. The company today is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Apple ha…*
+      - *Apple brought back actor John Hodgman for a brief cameo in today’s ARM-based Mac launch event, reprising his role as the dorky “I’m a PC” character, now tasked with poking fun at Intel-based PCs in the face of an Apple silicon future for the company. The shor…*
       
-  - Four days left to save big on tickets to TC Sessions: Space 2020
+  - Apple updates Mac Mini with Apple-designed M1 chip
       <hr/>
       
-      - *If you’re a part of the early-stage startup space race, or aspire to such celestial heights, don’t miss out on early-bird savings to TC Sessions: Space 2020 on December 16-17. We’re at T-minus four days and counting — buy your pass before the countdown clock …*
+      - *In addition to the MacBook Air, Apple also introduced a new Mac Mini. It runs Apple’s first custom chipset specifically designed for Mac computers, the M1. It still features the same familiar design, but it now uses an Arm-based chip. “If you compare a Mac mi…*
       
-  - HBO releases a wellness-focused AR app to promote 'His Dark Materials'
+  - Apple will release macOS Big Sur on November 12
       <hr/>
       
-      - *With the second season of “His Dark Materials” premiering on HBO on November 16, the network has partnered with creative studio Framestore to create a new iOS and Apple Watch app called His Dark Materials: My Daemon. The free app gives fans of the show (and t…*
+      - *The new Mac software comes with a new and refreshed user interface, new features, and performance improvements.*
        
-  - Spearhead launches $100M fourth fund to transform founders into top-notch VC investors
+  - The 13-inch MacBook Pro gets Apple's new M1 chip, starting at $1,299
       <hr/>
        
-       - *Venture capital continues to get a founder makeover. Two years ago, I profiled Spearhead, a new program and fund created by Jeff Fagnan at Accomplice and Naval Ravikant, the co-founder of AngelList, to mentor leading founders into becoming the next-generation…*
+       - *And just like that, we’ve got three new devices sporting Apple’s new proprietary chips. Following its announcement of a new MacBook Air and Mac Mini, the company just upgraded another popular model. The 13-inch MacBook Pro will be one of the first three model…*
       
 
 <br />
