@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
 
 ~ Fred Brooks
 <pre>
@@ -59,30 +59,30 @@ To achieve conceptual integrity, a design must proceed from one mind or a small 
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter may slow down users' ability to 'like' tweets containing misinformation
+  - Sony prepares to enter the drone game with Airpeak
      <hr/>
      
-      - *Twitter is working to expand the use of its “misinformation” labels on misleading tweets. The company has developed a new feature, not yet live, that would pop up a “misleading information” label when a user tries to “Like” a tweet that’s been labeled as mi…*
+      - *Sony has announced that it is entering the drone market with a new brand called Airpeak, though the specifics of the drone itself are left something of a mystery. It plans to launch the project next spring. The barebones announcement says only that Sony has b…*
      
-  - Uber has its highest close since IPO
+  - Beyond Meat earnings miss big on declining food service and consumer demand
       <hr/>
       
-      - *Uber shares surged 7.38% to close at $48.18 following news that a vaccine candidate is 90% effective at preventing COVID-19, and could start coming to market in a matter of months. The announcement by drugmakers Pfizer and BioNTech sparked widespread optimism…*
+      - *Beyond Meat’s partnership with McDonald’s to develop the McPlant burger wasn’t enough to keep shares from collapsing after the company posted third-quarter earnings that fell far below analysts’ expectations. The big miss sent shares tumbling nearly 29% in af…*
       
-  - NASA partners with SpaceX, Rocket Lab, Blue Origin and others for test flights and research
+  - Gillmor Gang: Check, Please
       <hr/>
       
-      - *NASA has announced 20 new partnerships with commercial space outfits, among them collaborations with SpaceX, Blue Origin, and Rocket Lab. While no money will change hands, NASA will dedicate millions in personnel and other support to these test launches and d…*
+      - *When we recorded this Gillmor Gang, it was Day Four post election, or midweek in counting the late incoming mail and other provisional ballots. We were largely convinced of the Biden victory, but that nagging doubt instilled in us by 2016 still pervaded the Z…*
       
-  - Adobe acquires marketing workflow startup Workfront for $1.5B
+  - All Slingbox devices will stop working in two years
       <hr/>
       
-      - *Adobe just announced that it is acquiring marketing workflow management startup Workfront for $1.5 billion. Bloomberg first reported the sale would be happening earlier today. Workfront was founded back in 2001, making it a bit long in tooth for a private com…*
+      - *Back before just about every major TV network built a streaming app of their own, watching live TV on your smartphone was… tricky. One of the first relatively simple options was the Slingbox. You’d set it up between your cable box and your TV, plug it into yo…*
        
-  - Indian logistics startup Xpressbees raises $110 million
+  - Daily Crunch: Reviewing the biggest and smallest new iPhones
       <hr/>
        
-       - *Xpressbees, an Indian logistics firm that works with several e-commerce firms in the country, said on Monday it has raised $110 million in a new financing round as online shopping booms in the world’s second largest internet market. The Pune-headquartered sta…*
+       - *We review the iPhone 12 Pro Max and the iPhone 12 mini, Zoom settles with the FTC and Pfizer announces promising results for its COVID-19 vaccine trial. This is your Daily Crunch for November 9, 2020. The big story: Reviewing the biggest and smallest new iPho…*
       
 
 <br />
