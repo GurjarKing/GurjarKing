@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+Even in the games of children there are things to interest the greatest mathematician.
 
-~ Douglas Crockford
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
