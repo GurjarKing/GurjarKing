@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
 
-~ Fred Brooks
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Adding people to a software project increases the total effort necessary in thre
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter could face its first GDPR penalty within days
+  - Live from Apple's 2020 Mac event featuring the first ever Apple Silicon Macs
      <hr/>
      
-      - *European data protection regulators have inched toward an enforcement decision for a Twitter breach that the company publicly disclosed in 2019, after a majority of EU data supervisors agreed to back a draft settlement submitted earlier by Ireland’s Data Prot…*
+      - *Apple’s had a packed fall, and today is the day of its third big product reveal event this season. This one is going to be squarely focused on the first Macs with Apple Silicon, the company’s first in-house processors designed for its macOS computers. Apple a…*
      
-  - Treviranus, Butler and Fruchterman to speak  at Sight Tech Global
+  - Watch Apple unveil the first ARM-based Mac live right here
       <hr/>
       
-      - *Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps g…*
+      - *Apple is organizing its third event in three months. The company today is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Apple ha…*
       
-  - New forecast pegs TikTok to top 1.2B monthly active users in 2021
+  - Four days left to save big on tickets to TC Sessions: Space 2020
       <hr/>
       
-      - *TikTok’s upward trajectory is expected to continue in 2021, according to a new forecast from mobile data and analytics firm App Annie, which estimates the short-form video app will surpass the 1 billion monthly active user mark next year. The expanded forecas…*
+      - *If you’re a part of the early-stage startup space race, or aspire to such celestial heights, don’t miss out on early-bird savings to TC Sessions: Space 2020 on December 16-17. We’re at T-minus four days and counting — buy your pass before the countdown clock …*
       
-  - Huawei reportedly set to sell Honor budget phone division for $15B
+  - HBO releases a wellness-focused AR app to promote 'His Dark Materials'
       <hr/>
       
-      - *Following weeks of rumors surrounding a potential sale, Huawei has reportedly struck a deal to divest itself of its Honor brand. A new report out today from Reuters notes that the embattled hardware maker will sell the budget unit to a consortium of buyers th…*
+      - *With the second season of “His Dark Materials” premiering on HBO on November 16, the network has partnered with creative studio Framestore to create a new iOS and Apple Watch app called His Dark Materials: My Daemon. The free app gives fans of the show (and t…*
        
-  - Pioneers of in-space refueling and manufacturing join TC Sessions: Space 2020
+  - Spearhead launches $100M fourth fund to transform founders into top-notch VC investors
       <hr/>
        
-       - *One of the problems with putting a satellite in orbit is that once you do, it’s pretty much out of your hands. If anything goes wrong, or it runs out of fuel, that’s all she wrote. Fortunately there are companies that aim to change this, and three leaders in …*
+       - *Venture capital continues to get a founder makeover. Two years ago, I profiled Spearhead, a new program and fund created by Jeff Fagnan at Accomplice and Naval Ravikant, the co-founder of AngelList, to mentor leading founders into becoming the next-generation…*
       
 
 <br />
