@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 
-~ Butler Lampson
+~ Jonathan Sachs
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ There are some basic techniques to control complexity. Fundamentally, I divide a
 </pre>
 <strong>Daily News</strong>
   
-  - iOS apps can run on Apple's new Apple Silicon Macs
+  - Accelerators embrace change forced by pandemic
      <hr/>
      
-      - *Apple announced today its new Apple Silicon Macs would be capable of running a wider range of apps than before, even in the case where an iOS developer hasn’t released a Mac -compatible version of their mobile experience. The company said macOS Big Sur would …*
+      - *Accelerators have become a major force in the startup world, but these teeming masses of potential have been forced, like every other industry, to adopt major changes with the pandemic. Surprisingly, however, they have not just rolled with the punches but see…*
      
-  - Apple brings back its 'I'm a PC' spokesman for ARM-based Mac launch event
+  - Apple's new Mac lineup and chip work fail to excite investors
       <hr/>
       
-      - *Apple brought back actor John Hodgman for a brief cameo in today’s ARM-based Mac launch event, reprising his role as the dorky “I’m a PC” character, now tasked with poking fun at Intel-based PCs in the face of an Apple silicon future for the company. The shor…*
+      - *Worth $1,985 billion at the close of the show, Apple’s Mac event could not find that last $15 billion in market cap that it needed to crest the $2,000 billion mark, a market cap value more commonly referred to as $2 trillion. Your watchful friends at TechCrun…*
       
-  - Apple updates Mac Mini with Apple-designed M1 chip
+  - 5 VCs discuss the future of SaaS and software after Pfizer's vaccine breakthrough
       <hr/>
       
-      - *In addition to the MacBook Air, Apple also introduced a new Mac Mini. It runs Apple’s first custom chipset specifically designed for Mac computers, the M1. It still features the same familiar design, but it now uses an Arm-based chip. “If you compare a Mac mi…*
+      - *Monday’s news that a COVID-19 vaccine candidate looks to be incredibly effective gave investors reasons to believe in a better future. Perhaps COVID-19 won’t be with us for years, investors appeared to think, but will instead become something that we can bend…*
       
-  - Apple will release macOS Big Sur on November 12
+  - Here's everything Apple announced at the "One More Thing" event today
       <hr/>
       
-      - *The new Mac software comes with a new and refreshed user interface, new features, and performance improvements.*
+      - *Ready for more Apple news? Because it’s time for more Apple news. This morning the company hosted its third event in as many months, where they finally detailed how and why they’ll be shifting Macs to chips designed and built by Apple and showed off the first…*
        
-  - The 13-inch MacBook Pro gets Apple's new M1 chip, starting at $1,299
+  - iOS apps can run on Apple's new Apple Silicon Macs
       <hr/>
        
-       - *And just like that, we’ve got three new devices sporting Apple’s new proprietary chips. Following its announcement of a new MacBook Air and Mac Mini, the company just upgraded another popular model. The 13-inch MacBook Pro will be one of the first three model…*
+       - *Apple announced today its new Apple Silicon Macs would be capable of running a wider range of apps than before, even in the case where an iOS developer hasn’t released a Mac -compatible version of their mobile experience. The company said macOS Big Sur would …*
       
 
 <br />
