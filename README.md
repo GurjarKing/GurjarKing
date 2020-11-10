@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Edsger W. Dijkstra
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The use of COBOL cripples the mind; its teaching should, therefore, be regarded 
 </pre>
 <strong>Daily News</strong>
   
-  - Patreon and Acast partner for patron-only podcast distribution
+  - Renewable power represents almost 90% of total global power capacity added in 2020
      <hr/>
      
-      - *Patreon and Acast are teaming up to make it easier for podcasters to publish episodes that are only available to the patrons financially supporting them on Patreon. Most paywall solutions for podcasts are pretty clunky or limited. That’s why Acast launched te…*
+      - *Bucking the slowdown in most of the power sector caused by responses to the COVID-19 pandemic, renewable energy actually grew in 2020, and will represent about 90% of the total power capacity added for the year, according to the International Energy Agency. A…*
      
+  - Patreon and Acast partner for patron-only podcast distribution
+      <hr/>
+      
+      - *Patreon and Acast are teaming up to make it easier for podcasters to publish episodes that are only available to the patrons financially supporting them on Patreon. Most paywall solutions for podcasts are pretty clunky or limited. That’s why Acast launched te…*
+      
   - E-scooter startup Tier raises $250 million round led by SoftBank Vision Fund 2
       <hr/>
       
@@ -73,16 +78,11 @@ The use of COBOL cripples the mind; its teaching should, therefore, be regarded 
       <hr/>
       
       - *Debates over anti-competitive practices amongst China’s internet firms resurface every year in the lead up to Singles’ Day, a time when online retailers exhaust their resources and deploy sometimes sneaky tactics to attract vendors and shoppers. This year, ju…*
-      
+       
   - Watch Apple unveil the first ARM-based Mac live right here
       <hr/>
-      
-      - *Apple is organizing its third event in three months today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Apple ha…*
        
-  - Mirror founder Brynn Putnam on life with Lululemon -- and whether or not she sold too soon
-      <hr/>
-       
-       - *Brynn Putnam has a lot to feel great about. A Harvard grad and former professional ballet dancer who opened the first of what have become three high-intensity fitness studios in New York, she then launched a second business in 2016 when — while pregnant with …*
+       - *Apple is organizing its third event in three months today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Apple ha…*
       
 
 <br />
