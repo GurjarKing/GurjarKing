@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 
-~ John McCarthy (computer scientist)
+~ Maurice Wilkes
 <pre>
 
 </pre>
