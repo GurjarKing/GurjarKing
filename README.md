@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 
-~ Richard Stallman
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ I consider that the golden rule requires that if I like a program I must share i
 </pre>
 <strong>Daily News</strong>
   
-  - The race to be China's top fintech platform: Ant vs Tencent
+  - Despite global headwinds, Chinese hardware startups remain to take on the world
      <hr/>
      
-      - *As Ant Group seizes the world’s attention with its record initial public offering, which was abruptly called off by Beijing, investors and analysts are revisiting Tencent’s fintech interests, recognized as Ant’s archrival in China. It’s somewhat complicated t…*
+      - *Bill Zhang lowered himself into lunges on a squishy mat as he explained to me the benefits of the full-body training suit he was wearing. We were in his small, modest office in Xili, a university area in Shenzhen that’s also home to many hardware makers. The …*
      
+  - The race to be China's top fintech platform: Ant vs Tencent
+      <hr/>
+      
+      - *As Ant Group seizes the world’s attention with its record initial public offering, which was abruptly called off by Beijing, investors and analysts are revisiting Tencent’s fintech interests, recognized as Ant’s archrival in China. It’s somewhat complicated t…*
+      
   - Elon Musk's Boring Company is setting up operations in Austin
       <hr/>
       
@@ -73,16 +78,11 @@ I consider that the golden rule requires that if I like a program I must share i
       <hr/>
       
       - *Sony has announced that it is entering the drone market with a new brand called Airpeak, though the specifics of the drone itself are left something of a mystery. It plans to launch the project next spring. The barebones announcement says only that Sony has b…*
-      
+       
   - Beyond Meat earnings miss big on declining food service and consumer demand
       <hr/>
-      
-      - *Beyond Meat’s partnership with McDonald’s to develop the McPlant burger wasn’t enough to keep shares from collapsing after the company posted third-quarter earnings that fell far below analysts’ expectations. The big miss sent shares tumbling nearly 29% in af…*
        
-  - Gillmor Gang: Check, Please
-      <hr/>
-       
-       - *When we recorded this Gillmor Gang, it was Day Four post election, or midweek in counting the late incoming mail and other provisional ballots. We were largely convinced of the Biden victory, but that nagging doubt instilled in us by 2016 still pervaded the Z…*
+       - *Beyond Meat’s partnership with McDonald’s to develop the McPlant burger wasn’t enough to keep shares from collapsing after the company posted third-quarter earnings that fell far below analysts’ expectations. The big miss sent shares tumbling nearly 29% in af…*
       
 
 <br />
