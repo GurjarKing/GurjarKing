@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 
-~ Fred Brooks
+~ L. Peter Deutsch
 <pre>
 
 </pre>
