@@ -46,7 +46,7 @@
 
 **Quote of the hour:**
 
-There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
 
 ~ Bill Gates
 <pre>
@@ -59,30 +59,30 @@ There is an amazing commonality in the types of difficulties you run into. In de
 </pre>
 <strong>Daily News</strong>
   
-  - Honda to mass-produce Level 3 autonomous cars by March
+  - Only 72 hours left until early-bird savings end for TC Sessions: Space 2020
      <hr/>
      
-      - *Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equip…*
+      - *We’re just about a month away from TC Sessions: Space 2020, a two-day conference dedicated to bold visionaries with the passion, audacity and technical skills to chart a new course in space. Fun fact: a bold visionary likes a good deal as much as the next one…*
      
-  - Fishtown Analytics raises $29.5M Series B for its data engineering platform
+  - As edtech crowds up, Campuswire bets big on real-time learning
       <hr/>
       
-      - *Fishtown Analytics, the Philadelphia-based company behind the dbt open-source data engineering tool, today announced that it has raised a $29.5 million Series B round led by Sequoia Captial, with participation from previous investors Andreessen Horowitz and A…*
+      - *Campuswire was in a fortuitous spot when colleges and universities across the world shut down on short notice because of the threat of coronavirus. Founded by Tade Oyerinde in 2018, Campuswire is a virtual solution for any teacher who wants to digitize their …*
       
-  - MTV partners with Unrd to create a mobile version of 'Ghosted: Love Gone Missing'
+  - TikTok test lets users fundraise for charity from their profile
       <hr/>
       
-      - *Mobile storytelling startup Unrd is making its first move into adapting existing intellectual property — specifically “Ghosted: Love Gone Missing,” an MTV reality series about ghosting (the dating practice, not anything supernatural). Until now, Unrd has crea…*
+      - *TikTok is testing a new feature that allows users to raise funds for causes and charities they care about directly from their TikTok profiles. Those who are in the test group will find a new option when they click “Edit Profile” directing them to choose a non…*
       
-  - Roku rolls out AirPlay 2 and HomeKit support to 4K devices
+  - Square and PayPal earnings bring good (and bad) news for fintech startups
       <hr/>
       
-      - *In September, Roku announced the next version of its TV operating system, Roku OS 9.4, would introduce support for Apple’s AirPlay 2 and HomeKit. This morning, the company says these features have now rolled out across a number of its 4K Roku devices, includi…*
+      - *Earnings season is racing past us, with the big ride-hailing companies’ numbers in, all of the Big Five having wrapped their reporting and lots of SaaS numbers in the market. But amidst all the noise, The Exchange has kept an eye on two companies in particula…*
        
-  - Greylock’s Asheem Chandna on 'shifting left' in cybersecurity and the future of enterprise startups
+  - Honda to mass-produce Level 3 autonomous cars by March
       <hr/>
        
-       - *Last week was a busy week, what with an election in Myanmar and all (well, and the United States, I guess). So perhaps you were glued to your TV or smartphone, and missed out on our conversation with Asheem Chandna, a long-time partner at Greylock who has inv…*
+       - *Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equip…*
       
 
 <br />
