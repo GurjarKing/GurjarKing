@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+There's nothing more permanent than a temporary hack.
 
-~ Edsger W. Dijkstra
+~ Kyle Simpson
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Simplicity and elegance are unpopular because they require hard work and discipl
 </pre>
 <strong>Daily News</strong>
   
-  - Molotov launches free ad-supported streaming service Mango
+  - SpaceX's Falcon 9 rocket and Dragon capsule are now officially certified for human spaceflight by NASA
      <hr/>
      
-      - *French startup Molotov provides a TV streaming service in France that replaces the traditional set-top box. You can access live TV, subscribe to premium channels, watch content after they air and record content in the cloud. Today, the company is launching a …*
+      - *SpaceX and NASA have completed the multi-year certification program for the Falcon 9 and Dragon spacecraft launch system, the first ever human-rated commercial space system to be developed. The final stage in the certification process was the Demo-2 mission t…*
      
+  - This startup is betting that you want to binge remote-work content
+      <hr/>
+      
+      - *As the coronavirus pandemic evolved into a genuine threat, offices closed to limit spread and people suddenly had to download Zoom and work from home. In the months since, many offices have remained closed. And with the number of coronavirus cases growing at …*
+      
+  - BMW announces the iX, its next-gen electric flagship
+      <hr/>
+      
+      - *At its (virtual) NextGen 2020 event, BMW today announced that the BMW iX, its new all-electric flagship previously known as the iNext, will launch at the end of 2021. Based on BMW’s fifth-generation eDrive technology, the iX will get a new look — and new kidn…*
+      
+  - Molotov launches free ad-supported streaming service Mango
+      <hr/>
+      
+      - *French startup Molotov provides a TV streaming service in France that replaces the traditional set-top box. You can access live TV, subscribe to premium channels, watch content after they air and record content in the cloud. Today, the company is launching a …*
+       
   - SentinelOne, an AI-based endpoint security firm, confirms $267M raise on a $3.1B valuation
       <hr/>
-      
-      - *This year, more than ever before because of the Covid-19 pandemic, huge droves of workers and consumers have been turning to the internet to communicate, get things done, and entertain themselves. That has created a huge bonanza for cybercriminals, but also c…*
-      
-  - Seedcamp raises £78M for its fifth fund
-      <hr/>
-      
-      - *European pre-seed and seed-stage VC Seedcamp has reached £78M in the first and final close of its fifth fund, ‘Seedcamp V’, its largest to date. The round was backed by investors including British Patient Capital, Legal & General, TIFF, LGT, Vintage IP, Isome…*
-      
-  - Carlos Gonzalez-Cadenas, angel investor and COO of GoCardless, is joining Index as partner
-      <hr/>
-      
-      - *Index Ventures, the London and San Francisco-headquartered venture capital firm that primarily invests in Europe and the U.S., has recruited its latest investment partner. Carlos Gonzalez-Cadenas, who is currently the COO of London-based fintech GoCardless an…*
        
-  - India's broadcasting ministry secures power to regulate streaming services, online content
-      <hr/>
-       
-       - *India’s Ministry of Information and Broadcasting, which oversees programs beamed on television and theatres in the country, will now also regulate policies for streaming platforms and digital news outlets in a move that is widely believed to kickstart an era …*
+       - *This year, more than ever before because of the Covid-19 pandemic, huge droves of workers and consumers have been turning to the internet to communicate, get things done, and entertain themselves. That has created a huge bonanza for cybercriminals, but also c…*
       
 
 <br />
