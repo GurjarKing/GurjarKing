@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 
-~ Bill Gates
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Is studying computer science the best way to prepare to be a programmer? No. the
 </pre>
 <strong>Daily News</strong>
   
-  - Only 72 hours left until early-bird savings end for TC Sessions: Space 2020
+  - Former Dropbox CFO Ajay Vashee is joining the powerhouse venture firm IVP in January
      <hr/>
      
-      - *We’re just about a month away from TC Sessions: Space 2020, a two-day conference dedicated to bold visionaries with the passion, audacity and technical skills to chart a new course in space. Fun fact: a bold visionary likes a good deal as much as the next one…*
+      - *Ajay Vashee — who spent the last eight years at Dropbox, rising from the head of finance to CFO over his tenure and helping to take the company public in 2018 — is joining the powerhouse venture firm IVP in January. it’s the realization of hopes established l…*
      
-  - As edtech crowds up, Campuswire bets big on real-time learning
+  - To own an AR future, Niantic wants to build a smarter map of the world
       <hr/>
       
-      - *Campuswire was in a fortuitous spot when colleges and universities across the world shut down on short notice because of the threat of coronavirus. Founded by Tade Oyerinde in 2018, Campuswire is a virtual solution for any teacher who wants to digitize their …*
+      - *Niantic is continuing to bet heavily on the idea that it knows where consumer computing is headed, namely towards augmented reality. The game development startup behind Pokémon Go has some good company with companies like Apple, Facebook and Snap making simil…*
       
-  - TikTok test lets users fundraise for charity from their profile
+  - Dear Sophie: What does Biden's win mean for tech immigration?
       <hr/>
       
-      - *TikTok is testing a new feature that allows users to raise funds for causes and charities they care about directly from their TikTok profiles. Those who are in the test group will find a new option when they click “Edit Profile” directing them to choose a non…*
+      - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
       
-  - Square and PayPal earnings bring good (and bad) news for fintech startups
+  - Come June 1, 2021, all of your new photos will count against your free Google storage
       <hr/>
       
-      - *Earnings season is racing past us, with the big ride-hailing companies’ numbers in, all of the Big Five having wrapped their reporting and lots of SaaS numbers in the market. But amidst all the noise, The Exchange has kept an eye on two companies in particula…*
+      - *Come June of 2021, any new photo or video uploaded in high quality, which currently wouldn't count against your allocation, will count against those free 15 GB.*
        
-  - Honda to mass-produce Level 3 autonomous cars by March
+  - Facebook extends its temporary ban on political ads for another month
       <hr/>
        
-       - *Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equip…*
+       - *The election is settled, but the nation is far from it. Before Election Day in the U.S., Facebook hit pause on all political and social issue ads. At the time, the company made it clear that the precautionary measure designed to turn off one potential faucet …*
       
 
 <br />
