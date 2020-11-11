@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
 
-~ Bill Gates
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Success is a lousy teacher. It seduces smart people into thinking they can't los
 </pre>
 <strong>Daily News</strong>
   
-  - Mozart Data lands $4M seed to provide out-of-the-box data stack
+  - Greylock’s Asheem Chandna on 'shifting left' in cybersecurity and the future of enterprise startups
      <hr/>
      
-      - *Mozart Data founders Peter Fishman and Dan Silberman have been friends for over 20 years, working at various startups, and even launching a hot sauce company together along the way. As technologists, they saw companies building a data stack over and over. The…*
+      - *Last week was a busy week, what with an election in Myanmar and all (well, and the United States, I guess). So perhaps you were glued to your TV or smartphone, and missed out on our conversation with Asheem Chandna, a long-time partner at Greylock who has inv…*
      
-  - Data audit of UK political parties finds laundry list of failings
+  - Boostrapped Clearfind wants to cut your software spend, for a small fee
       <hr/>
       
-      - *In a finding that should surprise no one, an audit of how UK political parties are handling voter information has surfaced a damning lack of compliance with data protection rules across the political spectrum — with parties failing to come clean with voters a…*
+      - *Software is eating the world, and that grub can be costly. As the market for enterprise tools and software continues to balloon, organizations are spending more and more on that software across an increasingly complicated and rapidly evolving landscape. That’…*
       
-  - India approves Google's $4.5 billion deal with Reliance's Jio Platforms
+  - Palo Alto Networks to acquire Expanse in deal worth $800M
       <hr/>
       
-      - *India’s antitrust watchdog has approved Google’s proposed investment of $4.5 billion in the nation’s largest telecom platform Jio Platforms, it said in a tweet on Wednesday. Google announced in July that it would be investing $4.5 billion for a 7.73% stake in…*
+      - *Palo Alto Networks has been on buying binge for the last couple of years, and today it added to its haul, announcing a deal to acquire Expanse for $800 million in cash and equity awards. The deal breaks down to $670 million in cash and stock and another $130 …*
       
-  - SpaceX's Falcon 9 rocket and Dragon capsule are now officially certified for human spaceflight by NASA
+  - Inside Silicon Valley's SPAC psychology
       <hr/>
       
-      - *SpaceX and NASA have completed the multi-year certification program for the Falcon 9 and Dragon spacecraft launch system, the first ever human-rated commercial space system to be developed. The final stage in the certification process was the Demo-2 mission t…*
+      - *A SPAC discussion is coming to your email inbox, Zoom or board meeting soon; are you prepared to lead this conversation?*
        
-  - This startup is betting that you want to binge remote-work content
+  - Mozart Data lands $4M seed to provide out-of-the-box data stack
       <hr/>
        
-       - *As the coronavirus pandemic evolved into a genuine threat, offices closed to limit spread and people suddenly had to download Zoom and work from home. In the months since, many offices have remained closed. And with the number of coronavirus cases growing at …*
+       - *Mozart Data founders Peter Fishman and Dan Silberman have been friends for over 20 years, working at various startups, and even launching a hot sauce company together along the way. As technologists, they saw companies building a data stack over and over. The…*
       
 
 <br />
