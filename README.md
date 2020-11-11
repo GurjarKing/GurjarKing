@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
 
-~ Fred Brooks
+~ Bill Gates
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ Human beings are not accustomed to being perfect, and few areas of human activit
 </pre>
 <strong>Daily News</strong>
   
-  - Greylock’s Asheem Chandna on 'shifting left' in cybersecurity and the future of enterprise startups
+  - Honda to mass-produce Level 3 autonomous cars by March
      <hr/>
      
-      - *Last week was a busy week, what with an election in Myanmar and all (well, and the United States, I guess). So perhaps you were glued to your TV or smartphone, and missed out on our conversation with Asheem Chandna, a long-time partner at Greylock who has inv…*
+      - *Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equip…*
      
-  - Boostrapped Clearfind wants to cut your software spend, for a small fee
+  - Fishtown Analytics raises $29.5M Series B for its data engineering platform
       <hr/>
       
-      - *Software is eating the world, and that grub can be costly. As the market for enterprise tools and software continues to balloon, organizations are spending more and more on that software across an increasingly complicated and rapidly evolving landscape. That’…*
+      - *Fishtown Analytics, the Philadelphia-based company behind the dbt open-source data engineering tool, today announced that it has raised a $29.5 million Series B round led by Sequoia Captial, with participation from previous investors Andreessen Horowitz and A…*
       
-  - Palo Alto Networks to acquire Expanse in deal worth $800M
+  - MTV partners with Unrd to create a mobile version of 'Ghosted: Love Gone Missing'
       <hr/>
       
-      - *Palo Alto Networks has been on buying binge for the last couple of years, and today it added to its haul, announcing a deal to acquire Expanse for $800 million in cash and equity awards. The deal breaks down to $670 million in cash and stock and another $130 …*
+      - *Mobile storytelling startup Unrd is making its first move into adapting existing intellectual property — specifically “Ghosted: Love Gone Missing,” an MTV reality series about ghosting (the dating practice, not anything supernatural). Until now, Unrd has crea…*
       
-  - Inside Silicon Valley's SPAC psychology
+  - Roku rolls out AirPlay 2 and HomeKit support to 4K devices
       <hr/>
       
-      - *A SPAC discussion is coming to your email inbox, Zoom or board meeting soon; are you prepared to lead this conversation?*
+      - *In September, Roku announced the next version of its TV operating system, Roku OS 9.4, would introduce support for Apple’s AirPlay 2 and HomeKit. This morning, the company says these features have now rolled out across a number of its 4K Roku devices, includi…*
        
-  - Mozart Data lands $4M seed to provide out-of-the-box data stack
+  - Greylock’s Asheem Chandna on 'shifting left' in cybersecurity and the future of enterprise startups
       <hr/>
        
-       - *Mozart Data founders Peter Fishman and Dan Silberman have been friends for over 20 years, working at various startups, and even launching a hot sauce company together along the way. As technologists, they saw companies building a data stack over and over. The…*
+       - *Last week was a busy week, what with an election in Myanmar and all (well, and the United States, I guess). So perhaps you were glued to your TV or smartphone, and missed out on our conversation with Asheem Chandna, a long-time partner at Greylock who has inv…*
       
 
 <br />
