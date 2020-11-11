@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+People should be able to speak and breathe programs just like they talk now.
 
-~ Fred Brooks
+~ Jaron Lanier
 <pre>
 
 </pre>
