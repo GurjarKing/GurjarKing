@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+Compatibility means deliberately repeating other people’s mistakes.
 
-~ John Warnock
+~ David Wheeler (computer scientist)
 <pre>
 
 </pre>
