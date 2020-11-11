@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 
-~ Carl Friedrich Gauss
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
