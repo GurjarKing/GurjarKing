@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+A good programmer is someone who looks both ways before crossing a one-way street.
 
-~ Danny Hillis
+~ Doug Linder
 <pre>
 
 </pre>
@@ -59,30 +59,30 @@ With the right programming, a computer can become a theater, a musical instrumen
 </pre>
 <strong>Daily News</strong>
   
-  - E-commerce startup Heroes raises $65M in equity and debt to become the Thrasio of Europe
+  - Carlos Gonzalez-Cadenas, angel investor and COO of GoCardless, is joining Index as partner
      <hr/>
      
-      - *Heroes, a European e-commerce business operating a similar model to unicorn Thrasio in the U.S. — with a strategy of acquiring and scaling high performing Amazon businesses — has raised $65 million in funding round. The round — a mixture of equity financing a…*
+      - *Index Ventures, the London and San Francisco-headquartered venture capital firm that primarily invests in Europe and the U.S., has recruited its latest investment partner. Carlos Gonzalez-Cadenas, who is currently the COO of London-based fintech GoCardless an…*
      
+  - India's broadcasting ministry secures power to regulate streaming services, online content
+      <hr/>
+      
+      - *India’s Ministry of Information and Broadcasting, which oversees programs beamed on television and theatres in the country, will now also regulate policies for streaming platforms and digital news outlets in a move that is widely believed to kickstart an era …*
+      
+  - E-commerce startup Heroes raises $65M in equity and debt to become the Thrasio of Europe
+      <hr/>
+      
+      - *Heroes, a European e-commerce business operating a similar model to unicorn Thrasio in the U.S. — with a strategy of acquiring and scaling high performing Amazon businesses — has raised $65 million in funding round. The round — a mixture of equity financing a…*
+      
   - ByteDance asks federal appeals court to vacate U.S. order forcing it to sell TikTok
       <hr/>
       
       - *In a new filing, TikTok’s parent company ByteDance asked the federal appeals court to vacate the United States government order forcing it to sell the app’s American operations. President Donald Trump issued an order in August requiring ByteDance to sell TikT…*
-      
+       
   - Chan Zuckerberg Initiative faces racial discrimination allegations from former employee
       <hr/>
-      
-      - *Ray Holgado, a former employee of the Chan Zuckerberg Initiative, recently filed a racial discrimination complaint with the California Department of Fair Employment and Housing. Holgado, who is Black, worked at CZI from September 2018 through August 2020. “De…*
-      
-  - Josh.ai launches a 'nearly invisible' Amazon Echo competitor that's the size of a coin
-      <hr/>
-      
-      - *In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home, and Amazon found even more speak…*
        
-  - Daily Crunch: Apple unveils new Macs
-      <hr/>
-       
-       - *Apple announces “One More Thing” before the holiday season, Uber lets you reserve rides 30 days in advance and Spotify makes another podcast acquisition. This is your Daily Crunch for November 10, 2020. The big story: Apple unveils new Macs During an unusuall…*
+       - *Ray Holgado, a former employee of the Chan Zuckerberg Initiative, recently filed a racial discrimination complaint with the California Department of Fair Employment and Housing. Holgado, who is Black, worked at CZI from September 2018 through August 2020. “De…*
       
 
 <br />
