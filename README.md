@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+The manager's function is not to make people work, but to make it possible for people to work.
 
-~ Manuel Blum
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ The only difference between a FA [finite automata] and a TM [Turing machine] is 
 </pre>
 <strong>Daily News</strong>
   
-  - Chan Zuckerberg Initiative faces racial discrimination allegations from former employee
+  - ByteDance asks federal appeals court to vacate U.S. order forcing it to sell TikTok
      <hr/>
      
-      - *Ray Holgado, a former employee of the Chan Zuckerberg Initiative, recently filed a racial discrimination complaint with the California Department of Fair Employment and Housing. Holgado, who is Black, worked at CZI from September 2018 through August 2020. “De…*
+      - *In a new filing, TikTok’s parent company ByteDance asked the federal appeals court to vacate the United States government order forcing it to sell the app’s American operations. President Donald Trump issued an order in August requiring ByteDance to sell TikT…*
      
+  - Chan Zuckerberg Initiative faces racial discrimination allegations from former employee
+      <hr/>
+      
+      - *Ray Holgado, a former employee of the Chan Zuckerberg Initiative, recently filed a racial discrimination complaint with the California Department of Fair Employment and Housing. Holgado, who is Black, worked at CZI from September 2018 through August 2020. “De…*
+      
   - Josh.ai launches a 'nearly invisible' Amazon Echo competitor that's the size of a coin
       <hr/>
       
@@ -73,16 +78,11 @@ The only difference between a FA [finite automata] and a TM [Turing machine] is 
       <hr/>
       
       - *Apple announces “One More Thing” before the holiday season, Uber lets you reserve rides 30 days in advance and Spotify makes another podcast acquisition. This is your Daily Crunch for November 10, 2020. The big story: Apple unveils new Macs During an unusuall…*
-      
+       
   - Lyft sees ride revenues recover by nearly 50% in just three months
       <hr/>
-      
-      - *Shares of Lyft are riding high, popping more than 7% in after-hours trading today after the American ride-hailing giant reported its Q3 earnings. Lyft, which competes with Uber for rideshare, reported revenues of $499.7 million in third-quarter, a 48% drop fr…*
        
-  - The Boox Poke 3 is my new favorite e-reader
-      <hr/>
-       
-       - *There are plenty of e-readers to choose from out there, but never enough for me. I’m always questing for the one that will make me forget that there are others available, and in the Onyx Boox Poke 3, I think I have found it — at least for now. The Chinese e-p…*
+       - *Shares of Lyft are riding high, popping more than 7% in after-hours trading today after the American ride-hailing giant reported its Q3 earnings. Lyft, which competes with Uber for rideshare, reported revenues of $499.7 million in third-quarter, a 48% drop fr…*
       
 
 <br />
