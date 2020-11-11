@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-People should be able to speak and breathe programs just like they talk now.
+Within a computer, natural language is unnatural.
 
-~ Jaron Lanier
+~ Alan Perlis
 <pre>
 
 </pre>
