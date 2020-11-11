@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+Machines take me by surprise with great frequency.
 
-~ Tom DeMarco
+~ Alan Turing
 <pre>
 
 </pre>
