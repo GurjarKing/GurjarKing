@@ -46,9 +46,9 @@
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 
-~ Addy Osmani
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -59,11 +59,16 @@ First do it, then do it right, then do it better.
 </pre>
 <strong>Daily News</strong>
   
-  - Join us for a live Q&A with Bessemer's Byron Deeter next Tuesday at 3 p.m ET, noon PT
+  - Ring doorbells recalled over fire threat
      <hr/>
      
-      - *The Extra Crunch Live series rolls along with a big new installment next week as Jordan Crook and Alex Wilhelm will welcome Bessemer Venture Partners‘ Byron Deeter to the conversation. Deeter is an obvious addition to the collection of investors, founders and…*
+      - *Amazon-owned Ring devices have long been under scrutiny of privacy advocates. Now the brand is dealing with another issue entirely.*
      
+  - Join us for a live Q&A with Bessemer's Byron Deeter next Tuesday at 3 p.m ET, noon PT
+      <hr/>
+      
+      - *The Extra Crunch Live series rolls along with a big new installment next week as Jordan Crook and Alex Wilhelm will welcome Bessemer Venture Partners‘ Byron Deeter to the conversation. Deeter is an obvious addition to the collection of investors, founders and…*
+      
   - Snap acquired Voca.ai, which makes AI-based voice agents for call centers, for $120M
       <hr/>
       
@@ -73,16 +78,11 @@ First do it, then do it right, then do it better.
       <hr/>
       
       - *Ajay Vashee — who spent the last eight years at Dropbox, rising from the head of finance to CFO over his tenure and helping to take the company public in 2018 — is joining the powerhouse venture firm IVP in January. it’s the realization of hopes established l…*
-      
+       
   - To own an AR future, Niantic wants to build a smarter map of the world
       <hr/>
-      
-      - *Niantic is continuing to bet heavily on the idea that it knows where consumer computing is headed, namely towards augmented reality. The game development startup behind Pokémon Go has some good company with companies like Apple, Facebook and Snap making simil…*
        
-  - Dear Sophie: What does Biden's win mean for tech immigration?
-      <hr/>
-       
-       - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
+       - *Niantic is continuing to bet heavily on the idea that it knows where consumer computing is headed, namely towards augmented reality. The game development startup behind Pokémon Go has some good company with companies like Apple, Facebook and Snap making simil…*
       
 
 <br />
