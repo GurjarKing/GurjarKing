@@ -1,4 +1,4 @@
-name: Generate README every 1 hour
+name: Generate README News every hour
 
 on: 
   schedule:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - name: Let the magic happen
+      - name: Automated News Updation (Hourly)
         uses: actions/setup-node@v1
         with:
           node-version: 12.15.0
@@ -25,8 +25,8 @@ jobs:
         run: |
            git add .
            git config --global user.name "GurjarKing"
-           git config --global user.email "xyz@gmail.com"
-           git commit -m "Automated News Update"
+           git config --global user.email "nitinnagar432@gmail.com"
+           git commit -m "Automated News Update (Hourly)"
         
       - name: Push
         uses: ad-m/github-push-action@master
