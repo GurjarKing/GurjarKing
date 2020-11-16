@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Ride Vision raises $7M for its AI-based motorcycle safety system
+  - The VC and founder winners in Airbnb’s IPO
      <hr/>
      
-      - *Ride Vision, an Israeli startup that is building an AI-driven safety system to prevent motorcycle collisions, today announced that it has raised a $7 million Series A round led by crowdsourcing platform OurCrowd. YL Ventures, which typically specializes in cy…*
+      - *After a tumultuous year for the travel industry, Airbnb’s long-awaited IPO filing just dropped. One thing is clear: there is still plenty of juice left in the home-sharing platform, and a smattering of VCs and the company’s founders are positioned to receive …*
      
+  - Baidu to acquire Joyy's Chinese live streaming service YY for $3.6B
+      <hr/>
+      
+      - *Baidu said on Monday it is acquiring Joyy’s live streaming service YY Live in China for $3.6 billion in an all-cash deal as the Chinese internet giant makes further push to diversify beyond its core search business. The announcement, which Baidu shared on the…*
+      
+  - Airbnb files to go public
+      <hr/>
+      
+      - *Airbnb filed to go public today, bringing the well-known unicorn one step closer to being a public company. The company’s financial results show a company on the rebound, but smaller than it was. Its more granular financial results also make clear how hard th…*
+      
+  - Ride Vision raises $7M for its AI-based motorcycle safety system
+      <hr/>
+      
+      - *Ride Vision, an Israeli startup that is building an AI-driven safety system to prevent motorcycle collisions, today announced that it has raised a $7 million Series A round led by crowdsourcing platform OurCrowd. YL Ventures, which typically specializes in cy…*
+       
   - Beyond Meat unveils two new versions of its Beyond Burgers
       <hr/>
-      
-      - *Beyond Meat has launched two new versions of its Beyond Burgers, the company announced today. The two new options will be available on store shelves in 2021, but will be on offer at a two-day pop up event in Los Angeles for folks to try. The new Beyond Burger…*
-      
-  - How esports can save colleges
-      <hr/>
-      
-      - *Colleges are diving into esports, with 115 different programs offering scholarships for esports and club programs are growing even faster. Certainly, it will help attract students, but monetization is really tricky.*
-      
-  - Deep Vision announces its low-latency AI processor for the edge
-      <hr/>
-      
-      - *Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency, energy efficiency and …*
        
-  - Hulu will increase the price of its live TV service again on December 18th
-      <hr/>
-       
-       - *It’s price hike season! Just a few weeks after Netflix bumped up prices on a bunch of its plans, it looks like Hulu will soon be charging more for its Live TV service. The company has confirmed to us that it will be bumping the monthly cost of Hulu + Live fro…*
+       - *Beyond Meat has launched two new versions of its Beyond Burgers, the company announced today. The two new options will be available on store shelves in 2021, but will be on offer at a two-day pop up event in Los Angeles for folks to try. The new Beyond Burger…*
       
 
 <br />
