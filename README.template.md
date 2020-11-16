@@ -44,14 +44,14 @@
 
 </pre>
 
-**Quote of the hour:**
+<!-- **Quote of the hour:**
 
 {qoth}
 
 ~ {qoth_author}
 <pre>
 
-</pre>
+</pre> -->
 <br>
 <pre>
 
