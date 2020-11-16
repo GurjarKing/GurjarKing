@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Deep Vision announces its low-latency AI processor for the edge
+  - How esports can save colleges
      <hr/>
      
-      - *Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency, energy efficiency and …*
+      - *Colleges are diving into esports, with 115 different programs offering scholarships for esports and club programs are growing even faster. Certainly, it will help attract students, but monetization is really tricky.*
      
+  - Deep Vision announces its low-latency AI processor for the edge
+      <hr/>
+      
+      - *Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency, energy efficiency and …*
+      
   - Hulu will increase the price of its live TV service again on December 18th
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Here’s a closer look at the three growth marketing tactics I credit with helping us scale Lifesum over the last 36 months. It’s a strategy any startup can use, regardless of size or budget.*
-      
+       
   - Arrikto raises $10M for its MLOps platform
       <hr/>
-      
-      - *Arrikto, a startup that wants to speed up the machine learning development lifecycle by allowing engineers and data scientists to treat data like code, is coming out of stealth today and announcing a $10 million Series A round. The round was led by Unusual Ve…*
        
-  - You can now embed Apple Podcasts on the web
-      <hr/>
-       
-       - *Apple is making it easier to discover and listen to podcasts via the web. The company announced today an Apple Podcasts embed web player is now available, allowing anyone — including creators, listeners or marketers — to generate embed codes for the over 1.5 …*
+       - *Arrikto, a startup that wants to speed up the machine learning development lifecycle by allowing engineers and data scientists to treat data like code, is coming out of stealth today and announcing a $10 million Series A round. The round was led by Unusual Ve…*
       
 
 <br />
