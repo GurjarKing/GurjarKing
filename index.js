@@ -19,14 +19,7 @@ const readmeTemplate = (
 
   
   console.log("please wait");
-  <!-- const { en: qoth, author: qoth_author } = await (
-    await fetch("https://programming-quotes-api.herokuapp.com/quotes/random")
-  ).json(); -->
-
-  
-  
- 
-    const { articles } =await fetch("http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=077fe507985744818b3f405349c79601").then((res) => res.json());
+   const { articles } =await fetch("http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=077fe507985744818b3f405349c79601").then((res) => res.json());
   
   
 
@@ -48,8 +41,6 @@ const readmeTemplate = (
 
   
 const readme=readmeTemplate
-    <!-- .replace("{qoth}", qoth)
-    .replace("{qoth_author}", qoth_author) -->
     .replace("{val1}",val[0])
     .replace("{val2}",val[1])
     .replace("{val3}",val[2])
