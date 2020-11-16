@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Arrikto raises $10M for its MLOps platform
+  - Deep Vision announces its low-latency AI processor for the edge
      <hr/>
      
-      - *Arrikto, a startup that wants to speed up the machine learning development lifecycle by allowing engineers and data scientists to treat data like code, is coming out of stealth today and announcing a $10 million Series A round. The round was led by Unusual Ve…*
+      - *Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency, energy efficiency and …*
      
+  - Hulu will increase the price of its live TV service again on December 18th
+      <hr/>
+      
+      - *It’s price hike season! Just a few weeks after Netflix bumped up prices on a bunch of its plans, it looks like Hulu will soon be charging more for its Live TV service. The company has confirmed to us that it will be bumping the monthly cost of Hulu + Live fro…*
+      
+  - 3 growth tactics that helped us surpass Noom and Weight Watchers
+      <hr/>
+      
+      - *Here’s a closer look at the three growth marketing tactics I credit with helping us scale Lifesum over the last 36 months. It’s a strategy any startup can use, regardless of size or budget.*
+      
+  - Arrikto raises $10M for its MLOps platform
+      <hr/>
+      
+      - *Arrikto, a startup that wants to speed up the machine learning development lifecycle by allowing engineers and data scientists to treat data like code, is coming out of stealth today and announcing a $10 million Series A round. The round was led by Unusual Ve…*
+       
   - You can now embed Apple Podcasts on the web
       <hr/>
-      
-      - *Apple is making it easier to discover and listen to podcasts via the web. The company announced today an Apple Podcasts embed web player is now available, allowing anyone — including creators, listeners or marketers — to generate embed codes for the over 1.5 …*
-      
-  - GitHub defies RIAA takedown notice, restoring YouTube-dl and starting $1M defense fund
-      <hr/>
-      
-      - *GitHub has restored the code of a project that the RIAA demanded it take down last month after finding that the group’s DMCA complaint was meritless. YouTube-dl, a tool that lets videos from the streaming site be downloaded for offline viewing, is back in act…*
-      
-  - Strava raises $110 million, touts growth rate of 2 million new users per month in 2020
-      <hr/>
-      
-      - *Activity and fitness tracking platform Strava has raised $110 million in new funding, in a Series F round led by TCV and Sequoia, and including participation by Dragoneer group, Madrone Capital Partners, Jackson Square Ventures and Go4it Capital. The funding …*
        
-  - 5 key innovations taking e-scooters to a half-billion rides in 2021
-      <hr/>
-       
-       - *Shared e-scooters are on track to surpass half a billion rides globally in 2021. These are several of the most important innovations that got us here.*
+       - *Apple is making it easier to discover and listen to podcasts via the web. The company announced today an Apple Podcasts embed web player is now available, allowing anyone — including creators, listeners or marketers — to generate embed codes for the over 1.5 …*
       
 
 <br />
