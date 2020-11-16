@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Animal Jam was hacked, and data stolen. Here's what parents need to know
+  - Squarespace adds support for memberships and paywalled content
      <hr/>
      
-      - *Some 46 million user records were stolen and published online.*
+      - *Squarespace is adding a new monetization option for websites built on the platform: Member Areas, where businesses can charge for access to exclusive content. Chief Product Officer Paul Gubbay said that particularly in the midst of the pandemic, businesses on…*
      
+  - The DOJ has approved Mastercard’s acquisition of Finicity
+      <hr/>
+      
+      - *Federal regulators have approved Mastercard’s acquisition of Salt Lake City-based startup Finicity, which provides open-banking APIs. The deal is expected to go for $825 million. “We were notified that the Department of Justice completed its review of our pla…*
+      
+  - Animal Jam was hacked, and data stolen. Here's what parents need to know
+      <hr/>
+      
+      - *Some 46 million user records were stolen and published online.*
+      
   - Gretel announces $12M Series A to make it easier to anonymize data
       <hr/>
       
       - *As companies work with data, one of the big obstacles they face is making sure they are not exposing personally identifiable information (PII) or other sensitive data. It usually requires a painstaking manual effort to strip out that data. Gretel, an early st…*
-      
+       
   - Amazon's Kuiper Systems chief David Limp is coming to Sessions: Space
       <hr/>
-      
-      - *TechCrunch Sessions: Space (December 16 & 17) is just a few short weeks away and there is perhaps no better time than the end of this horrid year to set our eyes to the horizon and dream of some place far, far away. David Limp, Amazon’s SVP of Amazon Devices …*
-      
-  - CVS becomes first national retailer to offer support for PayPal and Venmo QR codes at checkout
-      <hr/>
-      
-      - *PayPal announced this morning that its customers can now use either PayPal or Venmo QR codes when checking out at over 8,200 CVS retail stores across the U.S. This is the first national retailer to integrate PayPal’s QR code checkout technology at point-of-sa…*
        
-  - Will edtech empower or erase the need for higher education?
-      <hr/>
-       
-       - *The coronavirus has erased a large chunk of college’s value proposition: the on-campus experience. Campuses are closed, sports have been paused and, understandably, students don’t want to pay the same tuition for a fraction of the services. As a result, enrol…*
+       - *TechCrunch Sessions: Space (December 16 & 17) is just a few short weeks away and there is perhaps no better time than the end of this horrid year to set our eyes to the horizon and dream of some place far, far away. David Limp, Amazon’s SVP of Amazon Devices …*
       
 
 <br />
