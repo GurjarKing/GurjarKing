@@ -59,12 +59,12 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Animal Jam was hacked, and data stolen. Here's what parents need to know
+  - Animal Jam a stolen. Here's what parents need to know
      <hr/>
      
-      - *Some 46 million user records were stolen and published online.*
+      - * were stolen and published online.*
      
-  - Gretel announces $12M Series A to make it easier to anonymize data
+  - Gretel announces o make it easier to anonymize data
       <hr/>
       
       - *As companies work with data, one of the big obstacles they face is making sure they are not exposing personally identifiable information (PII) or other sensitive data. It usually requires a painstaking manual effort to strip out that data. Gretel, an early st…*
@@ -74,7 +74,7 @@
       
       - *TechCrunch Sessions: Space (December 16 & 17) is just a few short weeks away and there is perhaps no better time than the end of this horrid year to set our eyes to the horizon and dream of some place far, far away. David Limp, Amazon’s SVP of Amazon Devices …*
       
-  - CVS becomes first national retailer to offer support for PayPal and Venmo QR codes at checkout
+  - CVS o offer support for PayPal and Venmo QR codes at checkout
       <hr/>
       
       - *PayPal announced this morning that its customers can now use either PayPal or Venmo QR codes when checking out at over 8,200 CVS retail stores across the U.S. This is the first national retailer to integrate PayPal’s QR code checkout technology at point-of-sa…*
