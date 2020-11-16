@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Squarespace adds support for memberships and paywalled content
+  - Arrikto raises $10M for its MLOps platform
      <hr/>
      
-      - *Squarespace is adding a new monetization option for websites built on the platform: Member Areas, where businesses can charge for access to exclusive content. Chief Product Officer Paul Gubbay said that particularly in the midst of the pandemic, businesses on…*
+      - *Arrikto, a startup that wants to speed up the machine learning development lifecycle by allowing engineers and data scientists to treat data like code, is coming out of stealth today and announcing a $10 million Series A round. The round was led by Unusual Ve…*
      
-  - The DOJ has approved Mastercard’s acquisition of Finicity
+  - You can now embed Apple Podcasts on the web
       <hr/>
       
-      - *Federal regulators have approved Mastercard’s acquisition of Salt Lake City-based startup Finicity, which provides open-banking APIs. The deal is expected to go for $825 million. “We were notified that the Department of Justice completed its review of our pla…*
+      - *Apple is making it easier to discover and listen to podcasts via the web. The company announced today an Apple Podcasts embed web player is now available, allowing anyone — including creators, listeners or marketers — to generate embed codes for the over 1.5 …*
       
-  - Animal Jam was hacked, and data stolen. Here's what parents need to know
+  - GitHub defies RIAA takedown notice, restoring YouTube-dl and starting $1M defense fund
       <hr/>
       
-      - *Some 46 million user records were stolen and published online.*
+      - *GitHub has restored the code of a project that the RIAA demanded it take down last month after finding that the group’s DMCA complaint was meritless. YouTube-dl, a tool that lets videos from the streaming site be downloaded for offline viewing, is back in act…*
       
-  - Gretel announces $12M Series A to make it easier to anonymize data
+  - Strava raises $110 million, touts growth rate of 2 million new users per month in 2020
       <hr/>
       
-      - *As companies work with data, one of the big obstacles they face is making sure they are not exposing personally identifiable information (PII) or other sensitive data. It usually requires a painstaking manual effort to strip out that data. Gretel, an early st…*
+      - *Activity and fitness tracking platform Strava has raised $110 million in new funding, in a Series F round led by TCV and Sequoia, and including participation by Dragoneer group, Madrone Capital Partners, Jackson Square Ventures and Go4it Capital. The funding …*
        
-  - Amazon's Kuiper Systems chief David Limp is coming to Sessions: Space
+  - 5 key innovations taking e-scooters to a half-billion rides in 2021
       <hr/>
        
-       - *TechCrunch Sessions: Space (December 16 & 17) is just a few short weeks away and there is perhaps no better time than the end of this horrid year to set our eyes to the horizon and dream of some place far, far away. David Limp, Amazon’s SVP of Amazon Devices …*
+       - *Shared e-scooters are on track to surpass half a billion rides globally in 2021. These are several of the most important innovations that got us here.*
       
 
 <br />
