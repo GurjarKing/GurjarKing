@@ -19,9 +19,9 @@ const readmeTemplate = (
 
   
   console.log("please wait");
-  const { en: qoth, author: qoth_author } = await (
+  <!-- const { en: qoth, author: qoth_author } = await (
     await fetch("https://programming-quotes-api.herokuapp.com/quotes/random")
-  ).json();
+  ).json(); -->
 
   
   
@@ -48,8 +48,8 @@ const readmeTemplate = (
 
   
 const readme=readmeTemplate
-    .replace("{qoth}", qoth)
-    .replace("{qoth_author}", qoth_author)
+    <!-- .replace("{qoth}", qoth)
+    .replace("{qoth_author}", qoth_author) -->
     .replace("{val1}",val[0])
     .replace("{val2}",val[1])
     .replace("{val3}",val[2])
