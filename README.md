@@ -44,14 +44,14 @@
 
 </pre>
 
-**Quote of the hour:**
+<!-- **Quote of the hour:**
 
-Within a computer, natural language is unnatural.
+{qoth}
 
-~ Alan Perlis
+~ {qoth_author}
 <pre>
 
-</pre>
+</pre> -->
 <br>
 <pre>
 
@@ -59,30 +59,30 @@ Within a computer, natural language is unnatural.
 </pre>
 <strong>Daily News</strong>
   
-  - Ring doorbells recalled over fire threat
+  - Animal Jam was hacked, and data stolen. Here's what parents need to know
      <hr/>
      
-      - *Amazon-owned Ring devices have long been under scrutiny of privacy advocates. Now the brand is dealing with another issue entirely.*
+      - *Some 46 million user records were stolen and published online.*
      
-  - Join us for a live Q&A with Bessemer's Byron Deeter next Tuesday at 3 p.m ET, noon PT
+  - Gretel announces $12M Series A to make it easier to anonymize data
       <hr/>
       
-      - *The Extra Crunch Live series rolls along with a big new installment next week as Jordan Crook and Alex Wilhelm will welcome Bessemer Venture Partners‘ Byron Deeter to the conversation. Deeter is an obvious addition to the collection of investors, founders and…*
+      - *As companies work with data, one of the big obstacles they face is making sure they are not exposing personally identifiable information (PII) or other sensitive data. It usually requires a painstaking manual effort to strip out that data. Gretel, an early st…*
       
-  - Snap acquired Voca.ai, which makes AI-based voice agents for call centers, for $120M
+  - Amazon's Kuiper Systems chief David Limp is coming to Sessions: Space
       <hr/>
       
-      - *Snapchat is the quintessential consumer app: with an array of fun filters, it encourages people to send fun, disappearing messages to friends and has a large base of younger users. But could parent company Snap be eyeing up ways of leveraging its traction in …*
+      - *TechCrunch Sessions: Space (December 16 & 17) is just a few short weeks away and there is perhaps no better time than the end of this horrid year to set our eyes to the horizon and dream of some place far, far away. David Limp, Amazon’s SVP of Amazon Devices …*
       
-  - Former Dropbox CFO Ajay Vashee is joining the powerhouse venture firm IVP in January
+  - CVS becomes first national retailer to offer support for PayPal and Venmo QR codes at checkout
       <hr/>
       
-      - *Ajay Vashee — who spent the last eight years at Dropbox, rising from the head of finance to CFO over his tenure and helping to take the company public in 2018 — is joining the powerhouse venture firm IVP in January. it’s the realization of hopes established l…*
+      - *PayPal announced this morning that its customers can now use either PayPal or Venmo QR codes when checking out at over 8,200 CVS retail stores across the U.S. This is the first national retailer to integrate PayPal’s QR code checkout technology at point-of-sa…*
        
-  - To own an AR future, Niantic wants to build a smarter map of the world
+  - Will edtech empower or erase the need for higher education?
       <hr/>
        
-       - *Niantic is continuing to bet heavily on the idea that it knows where consumer computing is headed, namely towards augmented reality. The game development startup behind Pokémon Go has some good company with companies like Apple, Facebook and Snap making simil…*
+       - *The coronavirus has erased a large chunk of college’s value proposition: the on-campus experience. Campuses are closed, sports have been paused and, understandably, students don’t want to pay the same tuition for a fraction of the services. As a result, enrol…*
       
 
 <br />
