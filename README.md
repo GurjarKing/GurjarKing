@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - OpenPhone rings up $14 million to put your work phone in an app
+  - Construction rental startup YardLink raises funding from Speedinvest Networks
      <hr/>
      
-      - *Communication tools are evolving quickly. We have all kinds of social media for our personal lives, Slack for chatting with our coworkers, Discord for gaming and other communities, and Zoom and FaceTime for when we want to look someone (almost) in the eyes. B…*
+      - *YardLink allows construction companies to obtain critical equipment faster than traditional equipment rental companies. It’s now raised a £1.7m seed round, bringing the total it’s raised to date to £2.4m. The round was led by Speedinvest Network Effects, with…*
      
-  - Giraffe360, a robotic camera for real estate, raises $4.5M from LAUNCHub and Hoxton Ventures
+  - EdgeQ raises $51 million to fuse AI compute and 5G within a single chip
       <hr/>
       
-      - *Giraffe360 has a robotic camera, combined with a subscription service, which enables real estate agents and brokers to generate high-resolution photos of properties, floor plans and virtual tours easily. It’s now raised $4.5M in a funding round led by LAUNCHu…*
+      - *5G. Edge. Open. Programmable. AI. No, it’s not bingo at your local silicon chip enthusiast meetup, and no, I am not trying to game Google’s search algorithms (well, maybe just a bit). Rather, it’s a combination of technologies that are predicted to become cri…*
       
-  - Amazon launches Amazon Pharmacy, a delivery service for prescription medications
+  - Twitter rolls out Stories, aka 'Fleets,' to all users; will also test a Clubhouse rival
       <hr/>
       
-      - *A little over two years after its $753 million acquisition of the prescription medicine delivery service Pillpack, Amazon has finally launched Amazon Pharmacy, its online and mobile prescription medication ordering and fulfillment service. Using a secure phar…*
+      - *Twitter this morning is launching its own version of Stories — aka “Fleets” — to its global user base. The product, which allows users to post ephemeral content that disappears in 24 hours, had already rolled out to select markets including Brazil, India, Ita…*
       
-  - India's insurance platform Turtlemint raises $30 million
+  - TikTok expands parental controls to include search, commenting, and account privacy
       <hr/>
       
-      - *Turtlemint, an Indian startup that is helping consumers identify and purchase the most appropriate insurance policies for them, has raised $30 million in a new financing round as it looks to reach more users in small cities and towns in the world’s second lar…*
+      - *TikTok today announced it’s expanding its parental control feature set known as Family Pairing to give parents additional tools to manage various aspects of their teen’s account as well as their privacy on the social video platform. The new tools will allow p…*
        
-  - Spacemaker, AI software for urban development, is acquired by Autodesk for $240M
+  - Surging homegrown talent and VC spark Italy's tech renaissance
       <hr/>
        
-       - *Autodesk, the U.S. publicly listed software and services company that targets engineering and design industries, has acquired Norway’s Spacemaker, a startup that has developed AI-supported software for urban development. The price of the acquisition is $240 m…*
+       - *As Italy reinstates many COVID-19 restrictions, the country’s tech ecosystem is watching and waiting to see what the wider effects of the emergency will be. Italy’s ecosystem for tech venture capital and startups has been in development for years and has made…*
       
 
 <br />
