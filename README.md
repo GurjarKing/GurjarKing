@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter's new Stories feature 'Fleets' is already struggling
+  - A Biden presidency doesn't need a Green New Deal to make progress on climate change
      <hr/>
      
-      - *Twitter’s new Stories feature, “Fleets,” appears to be struggling under the load. Launched this morning to Twitter’s global user base, Fleets appear at the top of the Twitter app, allowing users to post ephemeral content that disappears in 24 hours as well as…*
+      - *Even without a Green New Deal, the sweeping set of climate-related initiatives many Democrats are pushing for, President-elect Joe Biden will have plenty of opportunities to move ahead with much of the ambitious energy transformation plan as part of any infra…*
      
+  - Biden's plans for energy storage, housing, transportation and agriculture could boost startups
+      <hr/>
+      
+      - *As President-elect Joe Biden readies his transition team and sets the agenda for his first 100 days in office, startups can expect to see some movement on long-stalled infrastructure initiatives that could mean big boosts to their business. Infrastructure is …*
+      
+  - Twitter's new Stories feature 'Fleets' is already struggling
+      <hr/>
+      
+      - *Twitter’s new Stories feature, “Fleets,” appears to be struggling under the load. Launched this morning to Twitter’s global user base, Fleets appear at the top of the Twitter app, allowing users to post ephemeral content that disappears in 24 hours as well as…*
+      
   - Conan O'Brien will launch a weekly variety show on HBO Max
       <hr/>
       
       - *Conan O’Brien is making the move to streaming. In June of next year, his nightly talk show “Conan” will be ending its 10-year run on TBS, while he launches a new, weekly variety series on streaming service HBO Max. “In 1993 Johnny Carson gave me the best advi…*
-      
+       
   - Get a free Extra Crunch membership when you buy TC Sessions: Space 2020 tickets
       <hr/>
-      
-      - *TC Sessions: Space is coming up soon, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free annual membership to Extra Crunch, our membership program focused on startups, founders and investo…*
-      
-  - Masayoshi Son says SoftBank now has "$80 billion in cash on hand" just in case
-      <hr/>
-      
-      - *Masayoshi Son, the founder and CEO of the Japanese conglomerate SoftBank, has had a topsy turvy year or two, but the story he is eager to tell is that he is back and in the black. Such was the overarching message delivered at a virtual Dealbook conference ear…*
        
-  - Why some VCs prefer to work with first-time founders
-      <hr/>
-       
-       - *Repeat founders who have a proven track record, good references, and in the best cases, an exit to point to will have an easy time making inroads with venture capitalists. Earlier this week, for example, the former founders of Udemy and altMBA raised more tha…*
+       - *TC Sessions: Space is coming up soon, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free annual membership to Extra Crunch, our membership program focused on startups, founders and investo…*
       
 
 <br />
