@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The VC and founder winners in Airbnb’s IPO
+  - Daily Crunch: GitHub reinstates YouTube downloading project
      <hr/>
      
-      - *After a tumultuous year for the travel industry, Airbnb’s long-awaited IPO filing just dropped. One thing is clear: there is still plenty of juice left in the home-sharing platform, and a smattering of VCs and the company’s founders are positioned to receive …*
+      - *GitHub defies a takedown order, Strava raises a big round and Moderna reports promising COVID-19 vaccine results. This is your Daily Crunch for November 16, 2020. The big story: GitHub reinstates YouTube downloading project Back in October, the Recording Indu…*
      
-  - Baidu to acquire Joyy's Chinese live streaming service YY for $3.6B
+  - Equity shot: Airbnb's IPO is finally here
       <hr/>
       
-      - *Baidu said on Monday it is acquiring Joyy’s live streaming service YY Live in China for $3.6 billion in an all-cash deal as the Chinese internet giant makes further push to diversify beyond its core search business. The announcement, which Baidu shared on the…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. Today we have an Equity Shot for you about Airbnb’s S-1 filing, as it looks to go public before the year is out. First we get into…*
       
-  - Airbnb files to go public
+  - Tesla gets a spot on the S&P 500
       <hr/>
       
-      - *Airbnb filed to go public today, bringing the well-known unicorn one step closer to being a public company. The company’s financial results show a company on the rebound, but smaller than it was. Its more granular financial results also make clear how hard th…*
+      - *Tesla will be added to the S&P 500, a milestone that will expand its investor base and put the electric automaker in the same company as heavyweights like Apple, Berkshire Hathaway and Microsoft. The announcement, made Monday afternoon by the S&P Dow Jones In…*
       
-  - Ride Vision raises $7M for its AI-based motorcycle safety system
+  - Jack Dorsey and Mark Zuckerberg will face Congress again, this time about the election
       <hr/>
       
-      - *Ride Vision, an Israeli startup that is building an AI-driven safety system to prevent motorcycle collisions, today announced that it has raised a $7 million Series A round led by crowdsourcing platform OurCrowd. YL Ventures, which typically specializes in cy…*
+      - *After giving in to the looming threat of subpoenas, two of tech’s most high profile CEOs will again be grilled by Congress. On Tuesday, the Senate Judiciary Committee will host Twitter’s Jack Dorsey and Facebook’s Mark Zuckerberg for what’s likely to be anoth…*
        
-  - Beyond Meat unveils two new versions of its Beyond Burgers
+  - The VC and founder winners in Airbnb’s IPO
       <hr/>
        
-       - *Beyond Meat has launched two new versions of its Beyond Burgers, the company announced today. The two new options will be available on store shelves in 2021, but will be on offer at a two-day pop up event in Los Angeles for folks to try. The new Beyond Burger…*
+       - *After a tumultuous year for the travel industry, Airbnb’s long-awaited IPO filing just dropped. One thing is clear: there is still plenty of juice left in the home-sharing platform, and a smattering of VCs and the company’s founders are positioned to receive …*
       
 
 <br />
