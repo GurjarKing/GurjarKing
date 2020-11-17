@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon launches Amazon Pharmacy, a delivery service for prescription medications
+  - OpenPhone rings up $14 million to put your work phone in an app
      <hr/>
      
-      - *A little over two years after its $753 million acquisition of the prescription medicine delivery service Pillpack, Amazon has finally launched Amazon Pharmacy, its online and mobile prescription medication ordering and fulfillment service. Using a secure phar…*
+      - *Communication tools are evolving quickly. We have all kinds of social media for our personal lives, Slack for chatting with our coworkers, Discord for gaming and other communities, and Zoom and FaceTime for when we want to look someone (almost) in the eyes. B…*
      
+  - Giraffe360, a robotic camera for real estate, raises $4.5M from LAUNCHub and Hoxton Ventures
+      <hr/>
+      
+      - *Giraffe360 has a robotic camera, combined with a subscription service, which enables real estate agents and brokers to generate high-resolution photos of properties, floor plans and virtual tours easily. It’s now raised $4.5M in a funding round led by LAUNCHu…*
+      
+  - Amazon launches Amazon Pharmacy, a delivery service for prescription medications
+      <hr/>
+      
+      - *A little over two years after its $753 million acquisition of the prescription medicine delivery service Pillpack, Amazon has finally launched Amazon Pharmacy, its online and mobile prescription medication ordering and fulfillment service. Using a secure phar…*
+      
   - India's insurance platform Turtlemint raises $30 million
       <hr/>
       
       - *Turtlemint, an Indian startup that is helping consumers identify and purchase the most appropriate insurance policies for them, has raised $30 million in a new financing round as it looks to reach more users in small cities and towns in the world’s second lar…*
-      
+       
   - Spacemaker, AI software for urban development, is acquired by Autodesk for $240M
       <hr/>
-      
-      - *Autodesk, the U.S. publicly listed software and services company that targets engineering and design industries, has acquired Norway’s Spacemaker, a startup that has developed AI-supported software for urban development. The price of the acquisition is $240 m…*
-      
-  - Lego expands its Super Mario world with customization tools, new Mario power-ups, and more characters
-      <hr/>
-      
-      - *Lego’s partnership with Nintendo delivered a pretty awesome debut earlier this year with the interactive Lego Super Mario Starter Course, and now it’s following that up with additional sets designed to complement the first. These include a new ‘Master Your Ad…*
        
-  - Digital freight forwarder Forto raises another $50M, in round led by Inven Capital
-      <hr/>
-       
-       - *Forto, a digital freight forwarder which has experienced a boom during the pandemic, has raised another $50 million in funding. This takes its total investment to $73 million after it raised $23m in debt financing from the European Investment Bank this year. …*
+       - *Autodesk, the U.S. publicly listed software and services company that targets engineering and design industries, has acquired Norway’s Spacemaker, a startup that has developed AI-supported software for urban development. The price of the acquisition is $240 m…*
       
 
 <br />
