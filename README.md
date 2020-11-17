@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: GitHub reinstates YouTube downloading project
+  - Huawei sells budget phone unit Honor to government, distribution partners
      <hr/>
      
-      - *GitHub defies a takedown order, Strava raises a big round and Moderna reports promising COVID-19 vaccine results. This is your Daily Crunch for November 16, 2020. The big story: GitHub reinstates YouTube downloading project Back in October, the Recording Indu…*
+      - *After weeks of rumors, Huawei confirmed it is selling its budget phone unit Honor to a consortium of companies, including government-backed firms and Honor’s distribution partners, according to a joint statement released Tuesday morning in a local Shenzhen pa…*
      
+  - Daily Crunch: GitHub reinstates YouTube downloading project
+      <hr/>
+      
+      - *GitHub defies a takedown order, Strava raises a big round and Moderna reports promising COVID-19 vaccine results. This is your Daily Crunch for November 16, 2020. The big story: GitHub reinstates YouTube downloading project Back in October, the Recording Indu…*
+      
   - Equity shot: Airbnb's IPO is finally here
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Tesla will be added to the S&P 500, a milestone that will expand its investor base and put the electric automaker in the same company as heavyweights like Apple, Berkshire Hathaway and Microsoft. The announcement, made Monday afternoon by the S&P Dow Jones In…*
-      
+       
   - Jack Dorsey and Mark Zuckerberg will face Congress again, this time about the election
       <hr/>
-      
-      - *After giving in to the looming threat of subpoenas, two of tech’s most high profile CEOs will again be grilled by Congress. On Tuesday, the Senate Judiciary Committee will host Twitter’s Jack Dorsey and Facebook’s Mark Zuckerberg for what’s likely to be anoth…*
        
-  - The VC and founder winners in Airbnb’s IPO
-      <hr/>
-       
-       - *After a tumultuous year for the travel industry, Airbnb’s long-awaited IPO filing just dropped. One thing is clear: there is still plenty of juice left in the home-sharing platform, and a smattering of VCs and the company’s founders are positioned to receive …*
+       - *After giving in to the looming threat of subpoenas, two of tech’s most high profile CEOs will again be grilled by Congress. On Tuesday, the Senate Judiciary Committee will host Twitter’s Jack Dorsey and Facebook’s Mark Zuckerberg for what’s likely to be anoth…*
       
 
 <br />
