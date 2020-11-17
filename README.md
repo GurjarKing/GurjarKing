@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Construction rental startup YardLink raises funding from Speedinvest Networks
+  - Astrobotic teams with Bosch and WiBotic to give its Moon rovers wireless charging and smarts to find power stations
      <hr/>
      
-      - *YardLink allows construction companies to obtain critical equipment faster than traditional equipment rental companies. It’s now raised a £1.7m seed round, bringing the total it’s raised to date to £2.4m. The round was led by Speedinvest Network Effects, with…*
+      - *Lunar exploration startup Astrobotic is working on developing ultra-fast wireless charging technology for its CubeRover shoebox-sized lunar robotic explorers. The project, which is funded by NASA’s Tipping Point program with a $5.8 million award, will tap Sea…*
      
-  - EdgeQ raises $51 million to fuse AI compute and 5G within a single chip
+  - Yeah, Apple’s M1 MacBook Pro is powerful, but it’s the battery life that will blow you away
       <hr/>
       
-      - *5G. Edge. Open. Programmable. AI. No, it’s not bingo at your local silicon chip enthusiast meetup, and no, I am not trying to game Google’s search algorithms (well, maybe just a bit). Rather, it’s a combination of technologies that are predicted to become cri…*
+      - *Survival and strategy games are often played in stages. You have the early game where you’re learning the ropes, understanding systems. Then you have mid-game where you’re executing and gathering resources. The most fun part, for me, has always been the late …*
       
-  - Twitter rolls out Stories, aka 'Fleets,' to all users; will also test a Clubhouse rival
+  - Trust & Will raises $15M as digital estate planning hits mainstream
       <hr/>
       
-      - *Twitter this morning is launching its own version of Stories — aka “Fleets” — to its global user base. The product, which allows users to post ephemeral content that disappears in 24 hours, had already rolled out to select markets including Brazil, India, Ita…*
+      - *Let’s get something morbid out of the way right up front: estate planning is a growth business in 2020. Whether you need to create or update a will, build a family trust, or sign over power of attorney for end-of-life decision-making, it’s been a heck of a ye…*
       
-  - TikTok expands parental controls to include search, commenting, and account privacy
+  - The new Mac mini: The revival of the no-compromise low-cost Mac
       <hr/>
       
-      - *TikTok today announced it’s expanding its parental control feature set known as Family Pairing to give parents additional tools to manage various aspects of their teen’s account as well as their privacy on the social video platform. The new tools will allow p…*
+      - *There’s nothing small about the latest Mac mini. Never mind the Mac mini’s tiny size or low price. This diminutive desktop is a revolution for most users, thanks to Apple’s new chipset. Called the M1, this chip platform replaces the Intel CPU long found at th…*
        
-  - Surging homegrown talent and VC spark Italy's tech renaissance
+  - MacBook Air M1 review: The right Apple Silicon Mac for most
       <hr/>
        
-       - *As Italy reinstates many COVID-19 restrictions, the country’s tech ecosystem is watching and waiting to see what the wider effects of the emergency will be. Italy’s ecosystem for tech venture capital and startups has been in development for years and has made…*
+       - *Reviewing hardware is an act of minutia. Occasionally something new or potentially earth-shattering comes along, but on the whole, it’s about chipping away. Documenting small, gradual changes designed to keep product lines fresh and — if you play your cards r…*
       
 
 <br />
