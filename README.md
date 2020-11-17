@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - YouTube targets music fans with new audio ad format
+  - Marketing automation platform Klaviyo scores $200M Series C on $4.15B valuation
      <hr/>
      
-      - *YouTube is announcing new ad products today, designed to help marketers reach YouTube visitors who are doing more listening than watching. The big addition is audio advertising. As the Google -owned video site puts it in a blog post, these are ads designed fo…*
+      - *Boston-based marketing automation firm Klaviyo wants to change the way marketers interact with data, giving them direct access to their data and their customers. It believes that makes it easier to customize the messages and produce better results. Investors …*
      
+  - YouTube targets music fans with new audio ad format
+      <hr/>
+      
+      - *YouTube is announcing new ad products today, designed to help marketers reach YouTube visitors who are doing more listening than watching. The big addition is audio advertising. As the Google -owned video site puts it in a blog post, these are ads designed fo…*
+      
   - John Legend and Natalie Portman want you to try wearing fungus instead of leather
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Airbnb filed to go public yesterday, offering the world a look into its financial performance over the past several years. The company’s S-1 detailed an expanding travel giant with billions in annual revenue that was severely disrupted by the COVID-19 pandemi…*
-      
+       
   - Hey look, glow-in-the-dark PowerBeats
       <hr/>
-      
-      - *Now that Apple’s getting more serious about its own branded headphones, Beats have, perhaps, lost a little bit of luster within the company. The products are still wildly popular, of course, and the brand offers a lot more options than its parent. Powerbeats …*
        
-  - Turo puts $1 million toward helping Black people make money sharing cars
-      <hr/>
-       
-       - *Car sharing marketplace Turo has teamed up with Kiva to offer interest-free loans to Black people and folks from traditionally underserved communities to buy cars and then share them on Turo. The $1 million commitment aims to address the issue of wealth inequ…*
+       - *Now that Apple’s getting more serious about its own branded headphones, Beats have, perhaps, lost a little bit of luster within the company. The products are still wildly popular, of course, and the brand offers a lot more options than its parent. Powerbeats …*
       
 
 <br />
