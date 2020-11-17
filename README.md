@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Lego expands its Super Mario world with customization tools, new Mario power-ups, and more characters
+  - Amazon launches Amazon Pharmacy, a delivery service for prescription medications
      <hr/>
      
-      - *Lego’s partnership with Nintendo delivered a pretty awesome debut earlier this year with the interactive Lego Super Mario Starter Course, and now it’s following that up with additional sets designed to complement the first. These include a new ‘Master Your Ad…*
+      - *A little over two years after its $753 million acquisition of the prescription medicine delivery service Pillpack, Amazon has finally launched Amazon Pharmacy, its online and mobile prescription medication ordering and fulfillment service. Using a secure phar…*
      
+  - India's insurance platform Turtlemint raises $30 million
+      <hr/>
+      
+      - *Turtlemint, an Indian startup that is helping consumers identify and purchase the most appropriate insurance policies for them, has raised $30 million in a new financing round as it looks to reach more users in small cities and towns in the world’s second lar…*
+      
+  - Spacemaker, AI software for urban development, is acquired by Autodesk for $240M
+      <hr/>
+      
+      - *Autodesk, the U.S. publicly listed software and services company that targets engineering and design industries, has acquired Norway’s Spacemaker, a startup that has developed AI-supported software for urban development. The price of the acquisition is $240 m…*
+      
+  - Lego expands its Super Mario world with customization tools, new Mario power-ups, and more characters
+      <hr/>
+      
+      - *Lego’s partnership with Nintendo delivered a pretty awesome debut earlier this year with the interactive Lego Super Mario Starter Course, and now it’s following that up with additional sets designed to complement the first. These include a new ‘Master Your Ad…*
+       
   - Digital freight forwarder Forto raises another $50M, in round led by Inven Capital
       <hr/>
-      
-      - *Forto, a digital freight forwarder which has experienced a boom during the pandemic, has raised another $50 million in funding. This takes its total investment to $73 million after it raised $23m in debt financing from the European Investment Bank this year. …*
-      
-  - Cooper raises $2M to build a professional network centered on introductions
-      <hr/>
-      
-      - *In a period of social distancing, making new professional connections feels harder than ever. So Amsterdam-based Cooper is building a network that’s all about making and receiving introductions. “Everything that happens in the network is based on on the found…*
-      
-  - Indonesian telecom network Telkomsel invests $150 million in GoJek
-      <hr/>
-      
-      - *Telkomsel, Indonesia’s biggest telecom network, has invested $150 million in ride-hailing firm GoJek, the two companies said on Tuesday. As part of the “strategic partnership,” the two firms said they will explore a “broad range of collaboration opportunities…*
        
-  - PingCAP, the open-source developer behind TiDB, closes $270 million Series D
-      <hr/>
-       
-       - *PingCAP, the open-source software developer best known for NewSQL database TiDB, has raised a $270 million Series D. TiDB handles hybrid transactional and analytical processing (HTAP), and is aimed at high-growth companies, including payment and e-commerce se…*
+       - *Forto, a digital freight forwarder which has experienced a boom during the pandemic, has raised another $50 million in funding. This takes its total investment to $73 million after it raised $23m in debt financing from the European Investment Bank this year. …*
       
 
 <br />
