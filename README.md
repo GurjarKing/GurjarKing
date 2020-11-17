@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Cooper raises $2M to build a professional network centered on introductions
+  - Digital freight forwarder Forto raises another $50M, in round led by Inven Capital
      <hr/>
      
-      - *In a period of social distancing, making new professional connections feels harder than ever. So Amsterdam-based Cooper is building a network that’s all about making and receiving introductions. “Everything that happens in the network is based on on the found…*
+      - *Forto, a digital freight forwarder which has experienced a boom during the pandemic, has raised another $50 million in funding. This takes its total investment to $73 million after it raised $23m in debt financing from the European Investment Bank this year. …*
      
+  - Cooper raises $2M to build a professional network centered on introductions
+      <hr/>
+      
+      - *In a period of social distancing, making new professional connections feels harder than ever. So Amsterdam-based Cooper is building a network that’s all about making and receiving introductions. “Everything that happens in the network is based on on the found…*
+      
   - Indonesian telecom network Telkomsel invests $150 million in GoJek
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *PingCAP, the open-source software developer best known for NewSQL database TiDB, has raised a $270 million Series D. TiDB handles hybrid transactional and analytical processing (HTAP), and is aimed at high-growth companies, including payment and e-commerce se…*
-      
+       
   - Digital electricity supplier Tibber closes $65M Series B led by Eight Roads, Balderton
       <hr/>
-      
-      - *Tibber, a ‘digital electricity’ supplier which uses AI to switch around power for houses based on their predicted levels of consumption – has closed a $65 million Series B round led by Eight Roads Ventures and Balderton Capital, with participation from existi…*
        
-  - Sequoia-backed recycling robot maker AMP Robotics gets its largest purchase order
-      <hr/>
-       
-       - *AMP Robotics, the manufacturer of robotic recycling systems, has received its largest purchase order from the publicly traded North American waste handling company, Waste Connections. The order, for 24 machine learning enabled robotic recycling systems, will …*
+       - *Tibber, a ‘digital electricity’ supplier which uses AI to switch around power for houses based on their predicted levels of consumption – has closed a $65 million Series B round led by Eight Roads Ventures and Balderton Capital, with participation from existi…*
       
 
 <br />
