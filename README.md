@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Sequoia-backed recycling robot maker AMP Robotics gets its largest purchase order
+  - Digital electricity supplier Tibber closes $65M Series B led by Eight Roads, Balderton
      <hr/>
      
-      - *AMP Robotics, the manufacturer of robotic recycling systems, has received its largest purchase order from the publicly traded North American waste handling company, Waste Connections. The order, for 24 machine learning enabled robotic recycling systems, will …*
+      - *Tibber, a ‘digital electricity’ supplier which uses AI to switch around power for houses based on their predicted levels of consumption – has closed a $65 million Series B round led by Eight Roads Ventures and Balderton Capital, with participation from existi…*
      
+  - Sequoia-backed recycling robot maker AMP Robotics gets its largest purchase order
+      <hr/>
+      
+      - *AMP Robotics, the manufacturer of robotic recycling systems, has received its largest purchase order from the publicly traded North American waste handling company, Waste Connections. The order, for 24 machine learning enabled robotic recycling systems, will …*
+      
   - Huawei sells budget phone unit Honor to government, distribution partners
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *GitHub defies a takedown order, Strava raises a big round and Moderna reports promising COVID-19 vaccine results. This is your Daily Crunch for November 16, 2020. The big story: GitHub reinstates YouTube downloading project Back in October, the Recording Indu…*
-      
+       
   - Equity shot: Airbnb's IPO is finally here
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. Today we have an Equity Shot for you about Airbnb’s S-1 filing, as it looks to go public before the year is out. First we get into…*
        
-  - Tesla gets a spot on the S&P 500
-      <hr/>
-       
-       - *Tesla will be added to the S&P 500, a milestone that will expand its investor base and put the electric automaker in the same company as heavyweights like Apple, Berkshire Hathaway and Microsoft. The announcement, made Monday afternoon by the S&P Dow Jones In…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. Today we have an Equity Shot for you about Airbnb’s S-1 filing, as it looks to go public before the year is out. First we get into…*
       
 
 <br />
