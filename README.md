@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Hey look, glow-in-the-dark PowerBeats
+  - YouTube targets music fans with new audio ad format
      <hr/>
      
-      - *Now that Apple’s getting more serious about its own branded headphones, Beats have, perhaps, lost a little bit of luster within the company. The products are still wildly popular, of course, and the brand offers a lot more options than its parent. Powerbeats …*
+      - *YouTube is announcing new ad products today, designed to help marketers reach YouTube visitors who are doing more listening than watching. The big addition is audio advertising. As the Google -owned video site puts it in a blog post, these are ads designed fo…*
      
+  - John Legend and Natalie Portman want you to try wearing fungus instead of leather
+      <hr/>
+      
+      - *Natalie Portman and John Legend are joining a group of venture capitalists and unnamed fashion brands backing MycoWorks, a company that just raised $45 million to commercialize its technology that makes a fungal-based biomaterial that can replace leather. The…*
+      
+  - 5 questions from Airbnb's IPO filing
+      <hr/>
+      
+      - *Airbnb filed to go public yesterday, offering the world a look into its financial performance over the past several years. The company’s S-1 detailed an expanding travel giant with billions in annual revenue that was severely disrupted by the COVID-19 pandemi…*
+      
+  - Hey look, glow-in-the-dark PowerBeats
+      <hr/>
+      
+      - *Now that Apple’s getting more serious about its own branded headphones, Beats have, perhaps, lost a little bit of luster within the company. The products are still wildly popular, of course, and the brand offers a lot more options than its parent. Powerbeats …*
+       
   - Turo puts $1 million toward helping Black people make money sharing cars
       <hr/>
-      
-      - *Car sharing marketplace Turo has teamed up with Kiva to offer interest-free loans to Black people and folks from traditionally underserved communities to buy cars and then share them on Turo. The $1 million commitment aims to address the issue of wealth inequ…*
-      
-  - Facebook's Messenger Kids app redesigned to look more like Messenger
-      <hr/>
-      
-      - *Facebook today is rolling out an updated version of its Messenger Kids app with the goal of making it easier for kids to interact with their friends and family, navigate the app, and personalize their experience with features like custom chat bubble colors. T…*
-      
-  - Mati reshapes online trust and reputation with a Plaid-like API
-      <hr/>
-      
-      - *Meet Mati, a startup that recently raised a $13.5 million Series A round to build a digital reputation API that could change the way you interact with online services. Mati uses an API-first approach and lets users seamlessly share pieces of their legal ident…*
        
-  - Dropbox shifts business product focus to remote work with Spaces update
-      <hr/>
-       
-       - *In a September interview at TechCrunch Disrupt, Dropbox co-founder and CEO Drew Houston talked about how the pandemic had forced the company to rethink what work means, and how his company is shifting with the new requirements of a work-from-home world. Today…*
+       - *Car sharing marketplace Turo has teamed up with Kiva to offer interest-free loans to Black people and folks from traditionally underserved communities to buy cars and then share them on Turo. The $1 million commitment aims to address the issue of wealth inequ…*
       
 
 <br />
