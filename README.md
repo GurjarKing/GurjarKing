@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - PingCAP, the open-source developer behind TiDB, closes $270 million Series D
+  - Cooper raises $2M to build a professional network centered on introductions
      <hr/>
      
-      - *PingCAP, the open-source software developer best known for NewSQL database TiDB, has raised a $270 million Series D. TiDB handles hybrid transactional and analytical processing (HTAP), and is aimed at high-growth companies, including payment and e-commerce se…*
+      - *In a period of social distancing, making new professional connections feels harder than ever. So Amsterdam-based Cooper is building a network that’s all about making and receiving introductions. “Everything that happens in the network is based on on the found…*
      
+  - Indonesian telecom network Telkomsel invests $150 million in GoJek
+      <hr/>
+      
+      - *Telkomsel, Indonesia’s biggest telecom network, has invested $150 million in ride-hailing firm GoJek, the two companies said on Tuesday. As part of the “strategic partnership,” the two firms said they will explore a “broad range of collaboration opportunities…*
+      
+  - PingCAP, the open-source developer behind TiDB, closes $270 million Series D
+      <hr/>
+      
+      - *PingCAP, the open-source software developer best known for NewSQL database TiDB, has raised a $270 million Series D. TiDB handles hybrid transactional and analytical processing (HTAP), and is aimed at high-growth companies, including payment and e-commerce se…*
+      
   - Digital electricity supplier Tibber closes $65M Series B led by Eight Roads, Balderton
       <hr/>
       
       - *Tibber, a ‘digital electricity’ supplier which uses AI to switch around power for houses based on their predicted levels of consumption – has closed a $65 million Series B round led by Eight Roads Ventures and Balderton Capital, with participation from existi…*
-      
+       
   - Sequoia-backed recycling robot maker AMP Robotics gets its largest purchase order
       <hr/>
-      
-      - *AMP Robotics, the manufacturer of robotic recycling systems, has received its largest purchase order from the publicly traded North American waste handling company, Waste Connections. The order, for 24 machine learning enabled robotic recycling systems, will …*
-      
-  - Huawei sells budget phone unit Honor to government, distribution partners
-      <hr/>
-      
-      - *After weeks of rumors, Huawei confirmed it is selling its budget phone unit Honor to a consortium of companies, including government-backed firms and Honor’s distribution partners, according to a joint statement released Tuesday morning in a local Shenzhen pa…*
        
-  - Daily Crunch: GitHub reinstates YouTube downloading project
-      <hr/>
-       
-       - *GitHub defies a takedown order, Strava raises a big round and Moderna reports promising COVID-19 vaccine results. This is your Daily Crunch for November 16, 2020. The big story: GitHub reinstates YouTube downloading project Back in October, the Recording Indu…*
+       - *AMP Robotics, the manufacturer of robotic recycling systems, has received its largest purchase order from the publicly traded North American waste handling company, Waste Connections. The order, for 24 machine learning enabled robotic recycling systems, will …*
       
 
 <br />
