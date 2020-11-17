@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Astrobotic teams with Bosch and WiBotic to give its Moon rovers wireless charging and smarts to find power stations
+  - Hey look, glow-in-the-dark PowerBeats
      <hr/>
      
-      - *Lunar exploration startup Astrobotic is working on developing ultra-fast wireless charging technology for its CubeRover shoebox-sized lunar robotic explorers. The project, which is funded by NASA’s Tipping Point program with a $5.8 million award, will tap Sea…*
+      - *Now that Apple’s getting more serious about its own branded headphones, Beats have, perhaps, lost a little bit of luster within the company. The products are still wildly popular, of course, and the brand offers a lot more options than its parent. Powerbeats …*
      
-  - Yeah, Apple’s M1 MacBook Pro is powerful, but it’s the battery life that will blow you away
+  - Turo puts $1 million toward helping Black people make money sharing cars
       <hr/>
       
-      - *Survival and strategy games are often played in stages. You have the early game where you’re learning the ropes, understanding systems. Then you have mid-game where you’re executing and gathering resources. The most fun part, for me, has always been the late …*
+      - *Car sharing marketplace Turo has teamed up with Kiva to offer interest-free loans to Black people and folks from traditionally underserved communities to buy cars and then share them on Turo. The $1 million commitment aims to address the issue of wealth inequ…*
       
-  - Trust & Will raises $15M as digital estate planning hits mainstream
+  - Facebook's Messenger Kids app redesigned to look more like Messenger
       <hr/>
       
-      - *Let’s get something morbid out of the way right up front: estate planning is a growth business in 2020. Whether you need to create or update a will, build a family trust, or sign over power of attorney for end-of-life decision-making, it’s been a heck of a ye…*
+      - *Facebook today is rolling out an updated version of its Messenger Kids app with the goal of making it easier for kids to interact with their friends and family, navigate the app, and personalize their experience with features like custom chat bubble colors. T…*
       
-  - The new Mac mini: The revival of the no-compromise low-cost Mac
+  - Mati reshapes online trust and reputation with a Plaid-like API
       <hr/>
       
-      - *There’s nothing small about the latest Mac mini. Never mind the Mac mini’s tiny size or low price. This diminutive desktop is a revolution for most users, thanks to Apple’s new chipset. Called the M1, this chip platform replaces the Intel CPU long found at th…*
+      - *Meet Mati, a startup that recently raised a $13.5 million Series A round to build a digital reputation API that could change the way you interact with online services. Mati uses an API-first approach and lets users seamlessly share pieces of their legal ident…*
        
-  - MacBook Air M1 review: The right Apple Silicon Mac for most
+  - Dropbox shifts business product focus to remote work with Spaces update
       <hr/>
        
-       - *Reviewing hardware is an act of minutia. Occasionally something new or potentially earth-shattering comes along, but on the whole, it’s about chipping away. Documenting small, gradual changes designed to keep product lines fresh and — if you play your cards r…*
+       - *In a September interview at TechCrunch Disrupt, Dropbox co-founder and CEO Drew Houston talked about how the pandemic had forced the company to rethink what work means, and how his company is shifting with the new requirements of a work-from-home world. Today…*
       
 
 <br />
