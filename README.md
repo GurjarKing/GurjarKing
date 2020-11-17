@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Relativity Space is raising a massive $500M round at $2.3B valuation
+  - Twitter's new Stories feature 'Fleets' is already struggling
      <hr/>
      
-      - *Rocket printer Relativity Space is raising a $500 million D round, valuing the launch provider at $2.3 billion, as reported by CNBC and confirmed to TechCrunch by sources familiar with the matter. That’s not bad for company that has yet to take its first payl…*
+      - *Twitter’s new Stories feature, “Fleets,” appears to be struggling under the load. Launched this morning to Twitter’s global user base, Fleets appear at the top of the Twitter app, allowing users to post ephemeral content that disappears in 24 hours as well as…*
      
-  - Construction tech startups are poised to shake up a $1.3-trillion-dollar industry
+  - Conan O'Brien will launch a weekly variety show on HBO Max
       <hr/>
       
-      - *As one of the least digitized sectors of our economy, construction is ripe for technology disruption.*
+      - *Conan O’Brien is making the move to streaming. In June of next year, his nightly talk show “Conan” will be ending its 10-year run on TBS, while he launches a new, weekly variety series on streaming service HBO Max. “In 1993 Johnny Carson gave me the best advi…*
       
-  - Why are telehealth companies treating healthcare like the gig economy?
+  - Get a free Extra Crunch membership when you buy TC Sessions: Space 2020 tickets
       <hr/>
       
-      - *If we are to realize telehealth’s full potential, we must first reckon with the fact that there are serious flaws in the predominant way it is delivered today — flaws that endanger patients themselves.*
+      - *TC Sessions: Space is coming up soon, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free annual membership to Extra Crunch, our membership program focused on startups, founders and investo…*
       
-  - LA-based A-Frame, a developer of celebrity-led personal care brands, raises cash for its brand incubator
+  - Masayoshi Son says SoftBank now has "$80 billion in cash on hand" just in case
       <hr/>
       
-      - *A-Frame, a Los Angeles-based developer of personal care brands supported by celebrities, has raised $2 million in a new round of funding led by Initialized Capital. Joining Initialized in the round is the serial entrepreneur Moise Emquies, whose previous clot…*
+      - *Masayoshi Son, the founder and CEO of the Japanese conglomerate SoftBank, has had a topsy turvy year or two, but the story he is eager to tell is that he is back and in the black. Such was the overarching message delivered at a virtual Dealbook conference ear…*
        
-  - Motional gets approval to test fully driverless vehicles in Las Vegas
+  - Why some VCs prefer to work with first-time founders
       <hr/>
        
-       - *Motional, the Aptiv-Hyundai $4 billion joint venture aimed at commercializing autonomous vehicles, is preparing to roll out fully driverless vehicles on public roads in Las Vegas after receiving approval from the state of Nevada. The company’s president and C…*
+       - *Repeat founders who have a proven track record, good references, and in the best cases, an exit to point to will have an easy time making inroads with venture capitalists. Earlier this week, for example, the former founders of Udemy and altMBA raised more tha…*
       
 
 <br />
