@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Digital electricity supplier Tibber closes $65M Series B led by Eight Roads, Balderton
+  - PingCAP, the open-source developer behind TiDB, closes $270 million Series D
      <hr/>
      
-      - *Tibber, a ‘digital electricity’ supplier which uses AI to switch around power for houses based on their predicted levels of consumption – has closed a $65 million Series B round led by Eight Roads Ventures and Balderton Capital, with participation from existi…*
+      - *PingCAP, the open-source software developer best known for NewSQL database TiDB, has raised a $270 million Series D. TiDB handles hybrid transactional and analytical processing (HTAP), and is aimed at high-growth companies, including payment and e-commerce se…*
      
+  - Digital electricity supplier Tibber closes $65M Series B led by Eight Roads, Balderton
+      <hr/>
+      
+      - *Tibber, a ‘digital electricity’ supplier which uses AI to switch around power for houses based on their predicted levels of consumption – has closed a $65 million Series B round led by Eight Roads Ventures and Balderton Capital, with participation from existi…*
+      
   - Sequoia-backed recycling robot maker AMP Robotics gets its largest purchase order
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *After weeks of rumors, Huawei confirmed it is selling its budget phone unit Honor to a consortium of companies, including government-backed firms and Honor’s distribution partners, according to a joint statement released Tuesday morning in a local Shenzhen pa…*
-      
+       
   - Daily Crunch: GitHub reinstates YouTube downloading project
       <hr/>
-      
-      - *GitHub defies a takedown order, Strava raises a big round and Moderna reports promising COVID-19 vaccine results. This is your Daily Crunch for November 16, 2020. The big story: GitHub reinstates YouTube downloading project Back in October, the Recording Indu…*
        
-  - Equity shot: Airbnb's IPO is finally here
-      <hr/>
-       
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. Today we have an Equity Shot for you about Airbnb’s S-1 filing, as it looks to go public before the year is out. First we get into…*
+       - *GitHub defies a takedown order, Strava raises a big round and Moderna reports promising COVID-19 vaccine results. This is your Daily Crunch for November 16, 2020. The big story: GitHub reinstates YouTube downloading project Back in October, the Recording Indu…*
       
 
 <br />
