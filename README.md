@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - A Biden presidency doesn't need a Green New Deal to make progress on climate change
+  - Twitter and Facebook's diverging philosophies were on display in the latest tech hearing
      <hr/>
      
-      - *Even without a Green New Deal, the sweeping set of climate-related initiatives many Democrats are pushing for, President-elect Joe Biden will have plenty of opportunities to move ahead with much of the ambitious energy transformation plan as part of any infra…*
+      - *The latest tech hearing was a study in contrasts. Contrasts between lawmakers who made an effort to stay on topic in a hearing ostensibly about social media and the 2020 election and those who… just talked about whatever was on their minds. Also contrasts bet…*
      
+  - A Biden presidency doesn't need a Green New Deal to make progress on climate change
+      <hr/>
+      
+      - *Even without a Green New Deal, the sweeping set of climate-related initiatives many Democrats are pushing for, President-elect Joe Biden will have plenty of opportunities to move ahead with much of the ambitious energy transformation plan as part of any infra…*
+      
   - Biden's plans for energy storage, housing, transportation and agriculture could boost startups
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Twitter’s new Stories feature, “Fleets,” appears to be struggling under the load. Launched this morning to Twitter’s global user base, Fleets appear at the top of the Twitter app, allowing users to post ephemeral content that disappears in 24 hours as well as…*
-      
+       
   - Conan O'Brien will launch a weekly variety show on HBO Max
       <hr/>
-      
-      - *Conan O’Brien is making the move to streaming. In June of next year, his nightly talk show “Conan” will be ending its 10-year run on TBS, while he launches a new, weekly variety series on streaming service HBO Max. “In 1993 Johnny Carson gave me the best advi…*
        
-  - Get a free Extra Crunch membership when you buy TC Sessions: Space 2020 tickets
-      <hr/>
-       
-       - *TC Sessions: Space is coming up soon, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free annual membership to Extra Crunch, our membership program focused on startups, founders and investo…*
+       - *Conan O’Brien is making the move to streaming. In June of next year, his nightly talk show “Conan” will be ending its 10-year run on TBS, while he launches a new, weekly variety series on streaming service HBO Max. “In 1993 Johnny Carson gave me the best advi…*
       
 
 <br />
