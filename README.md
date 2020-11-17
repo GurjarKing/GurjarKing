@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Marketing automation platform Klaviyo scores $200M Series C on $4.15B valuation
+  - Relativity Space is raising a massive $500M round at $2.3B valuation
      <hr/>
      
-      - *Boston-based marketing automation firm Klaviyo wants to change the way marketers interact with data, giving them direct access to their data and their customers. It believes that makes it easier to customize the messages and produce better results. Investors …*
+      - *Rocket printer Relativity Space is raising a $500 million D round, valuing the launch provider at $2.3 billion, as reported by CNBC and confirmed to TechCrunch by sources familiar with the matter. That’s not bad for company that has yet to take its first payl…*
      
-  - YouTube targets music fans with new audio ad format
+  - Construction tech startups are poised to shake up a $1.3-trillion-dollar industry
       <hr/>
       
-      - *YouTube is announcing new ad products today, designed to help marketers reach YouTube visitors who are doing more listening than watching. The big addition is audio advertising. As the Google -owned video site puts it in a blog post, these are ads designed fo…*
+      - *As one of the least digitized sectors of our economy, construction is ripe for technology disruption.*
       
-  - John Legend and Natalie Portman want you to try wearing fungus instead of leather
+  - Why are telehealth companies treating healthcare like the gig economy?
       <hr/>
       
-      - *Natalie Portman and John Legend are joining a group of venture capitalists and unnamed fashion brands backing MycoWorks, a company that just raised $45 million to commercialize its technology that makes a fungal-based biomaterial that can replace leather. The…*
+      - *If we are to realize telehealth’s full potential, we must first reckon with the fact that there are serious flaws in the predominant way it is delivered today — flaws that endanger patients themselves.*
       
-  - 5 questions from Airbnb's IPO filing
+  - LA-based A-Frame, a developer of celebrity-led personal care brands, raises cash for its brand incubator
       <hr/>
       
-      - *Airbnb filed to go public yesterday, offering the world a look into its financial performance over the past several years. The company’s S-1 detailed an expanding travel giant with billions in annual revenue that was severely disrupted by the COVID-19 pandemi…*
+      - *A-Frame, a Los Angeles-based developer of personal care brands supported by celebrities, has raised $2 million in a new round of funding led by Initialized Capital. Joining Initialized in the round is the serial entrepreneur Moise Emquies, whose previous clot…*
        
-  - Hey look, glow-in-the-dark PowerBeats
+  - Motional gets approval to test fully driverless vehicles in Las Vegas
       <hr/>
        
-       - *Now that Apple’s getting more serious about its own branded headphones, Beats have, perhaps, lost a little bit of luster within the company. The products are still wildly popular, of course, and the brand offers a lot more options than its parent. Powerbeats …*
+       - *Motional, the Aptiv-Hyundai $4 billion joint venture aimed at commercializing autonomous vehicles, is preparing to roll out fully driverless vehicles on public roads in Las Vegas after receiving approval from the state of Nevada. The company’s president and C…*
       
 
 <br />
