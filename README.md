@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 'A Charlie Brown Christmas' will air on PBS, in spite of Apple TV+ rights exclusive
+  - GM to leverage driver data as it jumps back into the insurance business
      <hr/>
      
-      - *Call it a holiday miracle. Apple today announced that animated holiday classics “A Charlie Brown Thanksgiving” and “A Charlie Brown Christmas” will, indeed, be appearing on television this year. The news comes after some pushback against an Apple TV+ exclusiv…*
+      - *General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the connected-car era. The service, called OnStar Insurance, will offer bundled auto, home and renters’ insuran…*
      
+  - Mac-optimized TensorFlow flexes new M1 and GPU muscles
+      <hr/>
+      
+      - *A new Mac-optimized fork of machine learning environment TensorFlow posts some major performance increases. Although a big part of that is that until now the GPU wasn’t used for training tasks (!), M1-based devices see even further gains, suggesting a spate o…*
+      
+  - 'A Charlie Brown Christmas' will air on PBS, in spite of Apple TV+ rights exclusive
+      <hr/>
+      
+      - *Call it a holiday miracle. Apple today announced that animated holiday classics “A Charlie Brown Thanksgiving” and “A Charlie Brown Christmas” will, indeed, be appearing on television this year. The news comes after some pushback against an Apple TV+ exclusiv…*
+      
   - This $99 gadget helps you make music, no skill required
       <hr/>
       
       - *At CES back in January, I met with a handful of founders who were/are crowdfunding musical instruments. It’s a fascinating category and one to watch if you have a passing interest in either music or technology. Like a vast majority of hardware startups, most …*
-      
+       
   - Virtual HQs race to win over a remote-work-fatigued market
       <hr/>
-      
-      - *In retrospect, 2019 feels like the working world’s last dance with spontaneity. The pre-pandemic past is rife with conferences, running into co-workers and post-work happy hours. Now, as companies such as Microsoft and Twitter declare remote work as the futur…*
-      
-  - Apple embraces iOS 14 home screen customization by fixing how app shortcuts work
-      <hr/>
-      
-      - *Apple is making a change to how app shortcuts work in the next release of the iOS 14 operating system. In iOS 14.3, beta 2, the Shortcuts app will now no longer open when you tap on an app shortcut on your iPhone’s home screen. That means users who have creat…*
        
-  - Charge, please: Apple will pay $113M to settle 34-state 'batterygate' lawsuit
-      <hr/>
-       
-       - *Apple has agreed to pay $113 million to 34 states and the District of Columbia to settle allegations that it broke consumer protection laws when it systematically downplayed widespread iPhone battery problems in 2016. This is in addition to the half billion t…*
+       - *In retrospect, 2019 feels like the working world’s last dance with spontaneity. The pre-pandemic past is rife with conferences, running into co-workers and post-work happy hours. Now, as companies such as Microsoft and Twitter declare remote work as the futur…*
       
 
 <br />
