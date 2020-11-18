@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - AI-tool maker Seldon raises £7.1M Series A from AlbionVC and Cambridge Innovation Capital
+  - Trump fires top US cybersecurity official Chris Krebs for debunking false election claims
      <hr/>
      
-      - *Seldon is a UK startup that specializes in the rarified world of development tools to optimize Machine Learning. What does this mean? Well, dear reader, it means that the “AI” that companies are so fond of trumpeting, does actually end up working. It’s now ra…*
+      - *Chris Krebs was appointed by President Trump to head the newly created CISA cybersecurity agency in 2018.*
      
+  - AI-tool maker Seldon raises £7.1M Series A from AlbionVC and Cambridge Innovation Capital
+      <hr/>
+      
+      - *Seldon is a UK startup that specializes in the rarified world of development tools to optimize Machine Learning. What does this mean? Well, dear reader, it means that the “AI” that companies are so fond of trumpeting, does actually end up working. It’s now ra…*
+      
   - Musicians get the bulk of ticket sales with Bandcamp’s new live-streaming concert feature
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Sight Tech Global is little more than two weeks out, and today we published the detailed agenda for Dec. 2 & 3. The show runs from 8 a.m. to noonish Pacific standard time. If you have not already grabbed a free pass to the 100% virtual event, now is the time!…*
-      
+       
   - Google has created an AI-powered nightmare creature generator
       <hr/>
-      
-      - *Google has taken the wraps off Chimera Painter, a web-based tool that lets anyone generate terrifying cryptozoological entities in an interface that looks like MS Paint by way of Diablo. Why, you ask? Well, isn’t it obvious? No… no, I suppose it isn’t. Surely…*
        
-  - Daily Crunch: Reviewing Apple's new Macs
-      <hr/>
-       
-       - *We review each of Apple’s new M1-powered Macs, Twitter launches its new Stories-like format and Amazon launches a pharmacy service. This is your Daily Crunch for November 17, 2020. The big story: Reviewing Apple’s new Macs We’ve got three big hardware reviews…*
+       - *Google has taken the wraps off Chimera Painter, a web-based tool that lets anyone generate terrifying cryptozoological entities in an interface that looks like MS Paint by way of Diablo. Why, you ask? Well, isn’t it obvious? No… no, I suppose it isn’t. Surely…*
       
 
 <br />
