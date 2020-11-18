@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Payments app True Balance raises $28 million to reach more underbanked users in India
+  - Malaysia-based inventory management platform Food Market Hub raises $4 million from Go-Ventures, SIG
      <hr/>
      
-      - *True Balance, a South Korean startup which runs an eponymous financial services app aimed at tens of millions of users in small cities and towns in India, said on Wednesday it has raised $28 million in a new financing round and expects to turn a profit next y…*
+      - *Food Market Hub co-founders Anthony See and Shayna Teh Many restaurants still rely on spreadsheets to track their inventory of produce, meat and other ingredients. But using manual methods often results in food wastage and higher costs. Malaysia-based Food Ma…*
      
+  - Payments app True Balance raises $28 million to reach more underbanked users in India
+      <hr/>
+      
+      - *True Balance, a South Korean startup which runs an eponymous financial services app aimed at tens of millions of users in small cities and towns in India, said on Wednesday it has raised $28 million in a new financing round and expects to turn a profit next y…*
+      
   - Nigeria’s Autochek raises $3.4M for car sales and service platform
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Vienna-based e-learning start-up GoStudent has increased the Series A round it raised earlier this year to €13.3 million, adding €5m this week, in a round led by Left Lane Capital and DN Capital. To date it has raised a total of €16m. GoStudent operates a pla…*
-      
+       
   - Panasonic explores a European battery deal with Norway's largest energy and industrial companies
       <hr/>
-      
-      - *Panasonic, one of the world’s largest manufacturers of lithium ion batteries, has signed a preliminary agreement with the Nordic energy company, Equinor, and engineering and industrial company, Norsk Hydro, to collaborate on building a battery business in Nor…*
        
-  - Resellee wants to become the Pinduoduo of Southeast Asia
-      <hr/>
-       
-       - *Launched in the Philippines, social commerce startup Resellee wants to recreate the success of Pinduoduo, one of China’s fastest-growing e-commerce companies, in Southeast Asia. A major part of Resellee’s business is grocery deliveries, including fresh produc…*
+       - *Panasonic, one of the world’s largest manufacturers of lithium ion batteries, has signed a preliminary agreement with the Nordic energy company, Equinor, and engineering and industrial company, Norsk Hydro, to collaborate on building a battery business in Nor…*
       
 
 <br />
