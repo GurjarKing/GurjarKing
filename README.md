@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Malaysia-based inventory management platform Food Market Hub raises $4 million from Go-Ventures, SIG
+  - Houseparty adds ‘Fortnite Mode,’ bringing video chat to the popular game
      <hr/>
      
-      - *Food Market Hub co-founders Anthony See and Shayna Teh Many restaurants still rely on spreadsheets to track their inventory of produce, meat and other ingredients. But using manual methods often results in food wastage and higher costs. Malaysia-based Food Ma…*
+      - *Epic acquired Houseparty way back in June of last year, following an absolutely massive $1.25 billion raise. It was clear why the Fortnite publisher would be interested in the social video app. After all, Fortnite is one of the most social games around. Now, …*
      
+  - Apple to reduce App Store fees for small businesses with under $1 million in revenues
+      <hr/>
+      
+      - *Amid increased regulatory scrutiny over how it runs its App Store, Apple today announced it will reduce the App Store commissions for smaller businesses. Under the new guidelines of the “App Store Small Business Program,” as it’s called, developers earning up…*
+      
+  - Tourlane adds another $20M at a $242M valuation to help it weather the Covid storm
+      <hr/>
+      
+      - *The tourism and travel industry has been one of the hardest hit by the global Covid-19 health pandemic, and today a promising startup in the space announced some funding to help it weather the storm. Berlin-based Tourlane, which has built a platform that mimi…*
+      
+  - Malaysia-based inventory management platform Food Market Hub raises $4 million from Go-Ventures, SIG
+      <hr/>
+      
+      - *Food Market Hub co-founders Anthony See and Shayna Teh Many restaurants still rely on spreadsheets to track their inventory of produce, meat and other ingredients. But using manual methods often results in food wastage and higher costs. Malaysia-based Food Ma…*
+       
   - Payments app True Balance raises $28 million to reach more underbanked users in India
       <hr/>
-      
-      - *True Balance, a South Korean startup which runs an eponymous financial services app aimed at tens of millions of users in small cities and towns in India, said on Wednesday it has raised $28 million in a new financing round and expects to turn a profit next y…*
-      
-  - Nigeria’s Autochek raises $3.4M for car sales and service platform
-      <hr/>
-      
-      - *Nigeria based startup Autochek looks to bring the sales and servicing of cars in Africa online. The newly founded venture has closed a $3.4 million seed-round co-led by TLcom Capital and 4DX ventures toward that aim. The raise comes fresh off of Autochek’s Se…*
-      
-  - Tutor marketplace GoStudent takes its Series A to €13.3M with Left Lane Capital and DN Capital
-      <hr/>
-      
-      - *Vienna-based e-learning start-up GoStudent has increased the Series A round it raised earlier this year to €13.3 million, adding €5m this week, in a round led by Left Lane Capital and DN Capital. To date it has raised a total of €16m. GoStudent operates a pla…*
        
-  - Panasonic explores a European battery deal with Norway's largest energy and industrial companies
-      <hr/>
-       
-       - *Panasonic, one of the world’s largest manufacturers of lithium ion batteries, has signed a preliminary agreement with the Nordic energy company, Equinor, and engineering and industrial company, Norsk Hydro, to collaborate on building a battery business in Nor…*
+       - *True Balance, a South Korean startup which runs an eponymous financial services app aimed at tens of millions of users in small cities and towns in India, said on Wednesday it has raised $28 million in a new financing round and expects to turn a profit next y…*
       
 
 <br />
