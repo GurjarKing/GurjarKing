@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Pfizer says its COVID-19 vaccine is 95% effective in final clinical trial results analysis
+  - The crowd goes wild for Yiming
      <hr/>
      
-      - *Drugmaker Pfizer has provided updated analysis around its COVID-19 vaccine Phase 3 clinical trial data, saying that in the final result of its analysis of the 44,000-participant trial, its COVID-19 vaccine candidate proved 95% percent effective. This is a bet…*
+      - *This excerpt follows a high-growth period for Douyin, detailing how it gained around 200 million daily active users within a year via a loyal creator community, viral memes, algorithmic recommendation and aggressive ad spending.*
      
+  - Tapping into digital nomadism and 'deep work' trends, Skimlinks founder raises $1.5M for Flown
+      <hr/>
+      
+      - *We already knew there was a big trend towards remote working, and this has only been drastically accelerated by the COVID-19 pandemic. At the same time, the distractions of daily life can easily impinge on the ‘deep work’ many need to get done when working on…*
+      
+  - Pfizer says its COVID-19 vaccine is 95% effective in final clinical trial results analysis
+      <hr/>
+      
+      - *Drugmaker Pfizer has provided updated analysis around its COVID-19 vaccine Phase 3 clinical trial data, saying that in the final result of its analysis of the 44,000-participant trial, its COVID-19 vaccine candidate proved 95% percent effective. This is a bet…*
+      
   - Headway raises $26M to help people find therapists, and therapists to accept insurance
       <hr/>
       
       - *Mental health has taken a nosedive for many people this year — spurred by economic and political uncertainty, a Covid-19-fueled public health crisis, and being cooped up, among other things. In the U.S., a startup is today announcing some funding to make it e…*
-      
+       
   - Houseparty adds ‘Fortnite Mode,’ bringing video chat to the popular game
       <hr/>
-      
-      - *Epic acquired Houseparty way back in June of last year, following an absolutely massive $1.25 billion raise. It was clear why the Fortnite publisher would be interested in the social video app. After all, Fortnite is one of the most social games around. Now, …*
-      
-  - Apple to reduce App Store fees for small businesses with under $1 million in revenues
-      <hr/>
-      
-      - *Amid increased regulatory scrutiny over how it runs its App Store, Apple today announced it will reduce the App Store commissions for smaller businesses. Under the new guidelines of the “App Store Small Business Program,” as it’s called, developers earning up…*
        
-  - Tourlane adds another $20M at a $242M valuation to help it weather the Covid storm
-      <hr/>
-       
-       - *The tourism and travel industry has been one of the hardest hit by the global Covid-19 health pandemic, and today a promising startup in the space announced some funding to help it weather the storm. Berlin-based Tourlane, which has built a platform that mimi…*
+       - *Epic acquired Houseparty way back in June of last year, following an absolutely massive $1.25 billion raise. It was clear why the Fortnite publisher would be interested in the social video app. After all, Fortnite is one of the most social games around. Now, …*
       
 
 <br />
