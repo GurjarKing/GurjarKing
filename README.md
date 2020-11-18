@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Yubo could be the next big social app as it raises $47.5 million
+  - Panasonic explores a European battery deal with Norway's largest energy and industrial companies
      <hr/>
      
-      - *French startup Yubo is the biggest social media app you’ve never heard of — unless you’re a teen. With a focus on young people under 25, the company has managed to attract 40 million users. A fraction of them hang out every day in live-streaming rooms, meet n…*
+      - *Panasonic, one of the world’s largest manufacturers of lithium ion batteries, has signed a preliminary agreement with the Nordic energy company, Equinor, and engineering and industrial company, Norsk Hydro, to collaborate on building a battery business in Nor…*
      
+  - Resellee wants to become the Pinduoduo of Southeast Asia
+      <hr/>
+      
+      - *Launched in the Philippines, social commerce startup Resellee wants to recreate the success of Pinduoduo, one of China’s fastest-growing e-commerce companies, in Southeast Asia. A major part of Resellee’s business is grocery deliveries, including fresh produc…*
+      
+  - Yubo could be the next big social app as it raises $47.5 million
+      <hr/>
+      
+      - *French startup Yubo is the biggest social media app you’ve never heard of — unless you’re a teen. With a focus on young people under 25, the company has managed to attract 40 million users. A fraction of them hang out every day in live-streaming rooms, meet n…*
+      
   - China's smartphone giant Oppo ratchets up AR push
       <hr/>
       
       - *Tech companies around the world are still identifying the “next big thing” enabled by 5G connections. Some, such as Oppo, are betting it will be augmented reality. The Chinese smartphone firm showcased its progress in AR at a Tuesday event swarmed by hundreds…*
-      
+       
   - Trump fires top US cybersecurity official Chris Krebs for debunking false election claims
       <hr/>
-      
-      - *Chris Krebs was appointed by President Trump to head the newly created CISA cybersecurity agency in 2018.*
-      
-  - AI-tool maker Seldon raises £7.1M Series A from AlbionVC and Cambridge Innovation Capital
-      <hr/>
-      
-      - *Seldon is a UK startup that specializes in the rarified world of development tools to optimize Machine Learning. What does this mean? Well, dear reader, it means that the “AI” that companies are so fond of trumpeting, does actually end up working. It’s now ra…*
        
-  - Musicians get the bulk of ticket sales with Bandcamp’s new live-streaming concert feature
-      <hr/>
-       
-       - *The musician’s life is rarely an easy one. That goes double for these last, oh, eight or so months. Most artists who haven’t risen the ranks to rock-star levels make the lion’s share of their money from live shows, and that’s just not in the cards for now — a…*
+       - *Chris Krebs was appointed by President Trump to head the newly created CISA cybersecurity agency in 2018.*
       
 
 <br />
