@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Bond Vet raises $17 million to be the CityMD of veterinary care
+  - Bella is a new challenger bank with a text-based interface
      <hr/>
      
-      - *Bond Vet, the NYC-based tech-forward veterinary startup, has announced the close of a $17 million Series A financing. The round was led by Talisman Capital Partners. The startup has clinics across NYC that are meant to fill the gap between veterinary ERs and …*
+      - *Meet Bella, a new challenger bank launching on November 30th. The company is trying to differentiate itself with two distinctive features. First, you can interact with the app using keywords and text commands. Second, Bella is trying to build a community that…*
      
-  - Cryptocurrency exchange Liquid confirms hack
+  - Kerry Washington backs jewelry startup Aurate
       <hr/>
       
-      - *An investigation is underway to see if hackers accessed documents that users submitted to verify their information with the exchange.*
+      - *Actress Kerry Washington has made an investment of undisclosed size in direct-to-consumer jewelry startup Aurate. This isn’t Washington’s first startup investment — she’s also backed The Wing, Community and Byte. In fact, when we asked her about her dream inv…*
       
-  - Quid raises $320M to loan money to startup employees using their equity as collateral
+  - Dear Sophie: Can an H-1B co-founder own a Delaware C Corp?
       <hr/>
       
-      - *Startups that take time to scale before going public or getting acquired can represent big, if long-term, returns for employees that hold equity in them. Big, because tech companies have proven to be some of the most valuable in the world when it comes to exi…*
+      - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
       
-  - Pokémon GO will bump its max level cap to 50 and add more Pokémon soon
+  - Facebook launches E.gg, an experimental collage making app
       <hr/>
       
-      - *Since launching four years ago, hitting level 40 in Pokémon GO meant hitting the top. You could still keep catching Pokémon and gathering XP, of course — but that shiny level badge wasn’t going up any higher. That’ll change later this month with an update tha…*
+      - *Facebook’s internal R&D group, NPE Team, has today officially launched its latest app, E.gg, to a broader audience. The app, a freeform creation tool described as a “digital zine creator” and “GIF collage bonanza,” was announced earlier this year, but was onl…*
        
-  - Marissa Mayer's startup launches its first official product, Sunshine Contacts
+  - Grouparoo snares $3M seed to build open source customer data integration framework
       <hr/>
        
-       - *Former Yahoo CEO and early Google employee Marissa Mayer’s startup Lumi Labs is today rebranding to Sunshine and releasing its first official product. Its new app, Sunshine Contacts, aims to be a better tool for organizing, updating and sharing contact inform…*
+       - *Creating a great customer experience requires a lot of data from a variety of sources, and pulling that disparate data together has captured the attention of companies and big and small from Salesforce and Adobe to Segment and Klaviyo. Today, Grouparoo, a new…*
       
 
 <br />
