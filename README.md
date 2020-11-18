@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - IBM is acquiring APM startup Instana as it continues to expand hybrid cloud vision
+  - Interlocking AIs let robots pick and place faster than ever
      <hr/>
      
-      - *As IBM transitions from software and services to a company fully focussed on hybrid cloud management, it announced  its intention to buy Instana, an applications performance management startup with a cloud native approach that fits firmly within that strategy…*
+      - *One of the jobs for which robots are best suited is the tedious, repetitive “pick and place” task common in warehouses — but humans are still much better at it. UC Berkeley researchers are picking up the pace with a pair of machine learning models that work t…*
      
-  - Trump will lose protected Twitter status after his presidency
+  - Just three days to save on passes to TC Sessions: Space 2020
       <hr/>
       
-      - *Twitter has at various times acknowledged that Donald Trump isn’t bound by the same rules that govern the rest of us. This executive privilege has allowed him to continue posting comments that could have long ago gotten any normal person banned from the platf…*
+      - *It takes a bold vision and nerves of steel to venture into outer space. The same holds true for the pioneering startups forging the future of space technology. Connect with other bold visionaries at TC Sessions: Space 2020 to go farther and faster together. I…*
       
-  - Facebook content moderators demand safer working conditions
+  - Epic Games founder Tim Sweeney likens fight against Apple to fight for civil rights
       <hr/>
       
-      - *A group of more than 200 Facebook content moderators are demanding the tech company “stop needlessly risking moderators’ lives,” they wrote in an open letter to Facebook and the company’s contractors that manage content moderators, Accenture and Covalen. This…*
+      - *Earlier today, Apple announced it will reduce the App Store commissions for smaller businesses so that developers earning less than $1 million per year pay a 15% commission on in-app purchases, rather than the standard 30% commission. Tim Sweeney, founder of …*
       
-  - Weather forecasts get an AI update with Atmo as businesses grapple with climate-related catastrophes
+  - Will Zoom Apps be the next hot startup platform?
       <hr/>
       
-      - *“Almost every business on earth is affected by weather,” says Alexander Levy, an investor serial entrepreneur whose latest company is the new weather prediction startup Atmo. The company, which graduated from Y Combinator earlier this year, has recently raise…*
+      - *When Zoom announced Zapps last month — the name has since been wisely changed to Zoom Apps — VC Twitter immediately began speculating that Zoom could make the leap from successful video conferencing service to becoming a launching pad for startup innovation. …*
        
-  - Google Pay gets a major redesign with a new emphasis on personal finance
+  - IBM is acquiring APM startup Instana as it continues to expand hybrid cloud vision
       <hr/>
        
-       - *With today's update and redesign, Google is taking the service in a new direction with a strong emphasis on deals and helping you manage your personal finances.*
+       - *As IBM transitions from software and services to a company fully focussed on hybrid cloud management, it announced  its intention to buy Instana, an applications performance management startup with a cloud native approach that fits firmly within that strategy…*
       
 
 <br />
