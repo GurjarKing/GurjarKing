@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Bella is a new challenger bank with a text-based interface
+  - Abacus.AI raises another $22M and launches new AI modules
      <hr/>
      
-      - *Meet Bella, a new challenger bank launching on November 30th. The company is trying to differentiate itself with two distinctive features. First, you can interact with the app using keywords and text commands. Second, Bella is trying to build a community that…*
+      - *AI startup RealityEngines.AI changed its name to Abacus.AI in July. At the same time, it announced a $13 million Series A round. Today, only a few months later, it is not changing its name again, but it is announcing a $22 million Series B round, led by Coatu…*
      
-  - Kerry Washington backs jewelry startup Aurate
+  - With a 2021 IPO in the cards, what do we know about Robinhood's Q3 performance?
       <hr/>
       
-      - *Actress Kerry Washington has made an investment of undisclosed size in direct-to-consumer jewelry startup Aurate. This isn’t Washington’s first startup investment — she’s also backed The Wing, Community and Byte. In fact, when we asked her about her dream inv…*
+      - *After rising sharply in the second quarter of 2020, Robinhood’s income from routing its users’ orders to different parties for execution appears largely flat in the third quarter. To be clear, Robinhood’s year-over-year growth is likely very impressive given …*
       
-  - Dear Sophie: Can an H-1B co-founder own a Delaware C Corp?
+  - Nestlings wants to help international students navigate a messy higher-ed environment
       <hr/>
       
-      - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
+      - *The admissions process for international students applying to colleges is outdated. For starters, there is no Common App, the one-stop application that U.S. students are able to use to apply to a variety of schools in one go. Instead, international students m…*
       
-  - Facebook launches E.gg, an experimental collage making app
+  - Jinx launches a text-to-buy dog food platform, with help from Initialized Capital
       <hr/>
       
-      - *Facebook’s internal R&D group, NPE Team, has today officially launched its latest app, E.gg, to a broader audience. The app, a freeform creation tool described as a “digital zine creator” and “GIF collage bonanza,” was announced earlier this year, but was onl…*
+      - *Jinx is launching a simple way to buy dog food and manage orders via text message. The startup says it has developed “the first text-to-buy platform in the legacy pet food space,” in partnership with its investor Initialized Capital and the firm’s co-founder …*
        
-  - Grouparoo snares $3M seed to build open source customer data integration framework
+  - Go Jauntly applies AI to seek scale via 'greener' walking routes
       <hr/>
        
-       - *Creating a great customer experience requires a lot of data from a variety of sources, and pulling that disparate data together has captured the attention of companies and big and small from Salesforce and Adobe to Segment and Klaviyo. Today, Grouparoo, a new…*
+       - *Unless you’ve been on very extended digital detox, you’ll have noticed algorithms don’t exactly have the greatest reputation these days, saddled as they are with pervasive questions of bias and inequity. Not to mention the dubious content amplification choice…*
       
 
 <br />
