@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The crowd goes wild for Yiming
+  - Pokémon GO will bump its max level cap to 50 and add more Pokémon soon
      <hr/>
      
-      - *This excerpt follows a high-growth period for Douyin, detailing how it gained around 200 million daily active users within a year via a loyal creator community, viral memes, algorithmic recommendation and aggressive ad spending.*
+      - *Since launching four years ago, hitting level 40 in Pokémon GO meant hitting the top. You could still keep catching Pokémon and gathering XP, of course — but that shiny level badge wasn’t going up any higher. That’ll change later this month with an update tha…*
      
-  - Tapping into digital nomadism and 'deep work' trends, Skimlinks founder raises $1.5M for Flown
+  - Marissa Mayer's startup launches its first official product, Sunshine Contacts
       <hr/>
       
-      - *We already knew there was a big trend towards remote working, and this has only been drastically accelerated by the COVID-19 pandemic. At the same time, the distractions of daily life can easily impinge on the ‘deep work’ many need to get done when working on…*
+      - *Former Yahoo CEO and early Google employee Marissa Mayer’s startup Lumi Labs is today rebranding to Sunshine and releasing its first official product. Its new app, Sunshine Contacts, aims to be a better tool for organizing, updating and sharing contact inform…*
       
-  - Pfizer says its COVID-19 vaccine is 95% effective in final clinical trial results analysis
+  - Welcome raises $12 million to be the 'Ritz Carlton for event platforms'
       <hr/>
       
-      - *Drugmaker Pfizer has provided updated analysis around its COVID-19 vaccine Phase 3 clinical trial data, saying that in the final result of its analysis of the 44,000-participant trial, its COVID-19 vaccine candidate proved 95% percent effective. This is a bet…*
+      - *On the heels of Hopin’s $125 million funding round, a newcomer in the virtual events space is gaining steam. Welcome, led by co-founder and CEO Roberto Ortiz, is positioning itself as the “Ritz Carlton for virtual events,” Ortiz told me. Today, it’s announcin…*
       
-  - Headway raises $26M to help people find therapists, and therapists to accept insurance
+  - Rapid Robotics raises $5.5M for pre-programmed manufacturing robots
       <hr/>
       
-      - *Mental health has taken a nosedive for many people this year — spurred by economic and political uncertainty, a Covid-19-fueled public health crisis, and being cooped up, among other things. In the U.S., a startup is today announcing some funding to make it e…*
+      - *Bay Area-based Rapid Robotics today announced it has raised $5.5 million in seed funding in a round led by Greycroft and Bee Partners. The announcement comes during what has been a solid several months for robotics funding, and more and more companies are loo…*
        
-  - Houseparty adds ‘Fortnite Mode,’ bringing video chat to the popular game
+  - Build.security raises $6M for its authorization policy management platform
       <hr/>
        
-       - *Epic acquired Houseparty way back in June of last year, following an absolutely massive $1.25 billion raise. It was clear why the Fortnite publisher would be interested in the social video app. After all, Fortnite is one of the most social games around. Now, …*
+       - *Build.security, a Tel Aviv and Sunnyvale-based startup that aims to make it easier for developers to bake authorization policy management right into their applications, today announced a $6 million seed funding round led by cybersecurity-centric firm YL Ventu…*
       
 
 <br />
