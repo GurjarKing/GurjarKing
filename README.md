@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Interlocking AIs let robots pick and place faster than ever
+  - This $99 gadget helps you make music, no skill required
      <hr/>
      
-      - *One of the jobs for which robots are best suited is the tedious, repetitive “pick and place” task common in warehouses — but humans are still much better at it. UC Berkeley researchers are picking up the pace with a pair of machine learning models that work t…*
+      - *At CES back in January, I met with a handful of founders who were/are crowdfunding musical instruments. It’s a fascinating category and one to watch if you have a passing interest in either music or technology. Like a vast majority of hardware startups, most …*
      
-  - Just three days to save on passes to TC Sessions: Space 2020
+  - Virtual HQs race to win over a remote-work-fatigued market
       <hr/>
       
-      - *It takes a bold vision and nerves of steel to venture into outer space. The same holds true for the pioneering startups forging the future of space technology. Connect with other bold visionaries at TC Sessions: Space 2020 to go farther and faster together. I…*
+      - *In retrospect, 2019 feels like the working world’s last dance with spontaneity. The pre-pandemic past is rife with conferences, running into co-workers and post-work happy hours. Now, as companies such as Microsoft and Twitter declare remote work as the futur…*
       
-  - Epic Games founder Tim Sweeney likens fight against Apple to fight for civil rights
+  - Apple embraces iOS 14 home screen customization by fixing how app shortcuts work
       <hr/>
       
-      - *Earlier today, Apple announced it will reduce the App Store commissions for smaller businesses so that developers earning less than $1 million per year pay a 15% commission on in-app purchases, rather than the standard 30% commission. Tim Sweeney, founder of …*
+      - *Apple is making a change to how app shortcuts work in the next release of the iOS 14 operating system. In iOS 14.3, beta 2, the Shortcuts app will now no longer open when you tap on an app shortcut on your iPhone’s home screen. That means users who have creat…*
       
-  - Will Zoom Apps be the next hot startup platform?
+  - Charge, please: Apple will pay $113M to settle 34-state 'batterygate' lawsuit
       <hr/>
       
-      - *When Zoom announced Zapps last month — the name has since been wisely changed to Zoom Apps — VC Twitter immediately began speculating that Zoom could make the leap from successful video conferencing service to becoming a launching pad for startup innovation. …*
+      - *Apple has agreed to pay $113 million to 34 states and the District of Columbia to settle allegations that it broke consumer protection laws when it systematically downplayed widespread iPhone battery problems in 2016. This is in addition to the half billion t…*
        
-  - IBM is acquiring APM startup Instana as it continues to expand hybrid cloud vision
+  - Interlocking AIs let robots pick and place faster than ever
       <hr/>
        
-       - *As IBM transitions from software and services to a company fully focussed on hybrid cloud management, it announced  its intention to buy Instana, an applications performance management startup with a cloud native approach that fits firmly within that strategy…*
+       - *One of the jobs for which robots are best suited is the tedious, repetitive “pick and place” task common in warehouses — but humans are still much better at it. UC Berkeley researchers are picking up the pace with a pair of machine learning models that work t…*
       
 
 <br />
