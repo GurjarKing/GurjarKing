@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Trump fires top US cybersecurity official Chris Krebs for debunking false election claims
+  - China's smartphone giant Oppo ratchets up AR push
      <hr/>
      
-      - *Chris Krebs was appointed by President Trump to head the newly created CISA cybersecurity agency in 2018.*
+      - *Tech companies around the world are still identifying the “next big thing” enabled by 5G connections. Some, such as Oppo, are betting it will be augmented reality. The Chinese smartphone firm showcased its progress in AR at a Tuesday event swarmed by hundreds…*
      
+  - Trump fires top US cybersecurity official Chris Krebs for debunking false election claims
+      <hr/>
+      
+      - *Chris Krebs was appointed by President Trump to head the newly created CISA cybersecurity agency in 2018.*
+      
   - AI-tool maker Seldon raises £7.1M Series A from AlbionVC and Cambridge Innovation Capital
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *The musician’s life is rarely an easy one. That goes double for these last, oh, eight or so months. Most artists who haven’t risen the ranks to rock-star levels make the lion’s share of their money from live shows, and that’s just not in the cards for now — a…*
-      
+       
   - Perkins, ACB, Benetech, Salesforce and more announce breakout sessions at Sight Tech Global
       <hr/>
-      
-      - *Sight Tech Global is little more than two weeks out, and today we published the detailed agenda for Dec. 2 & 3. The show runs from 8 a.m. to noonish Pacific standard time. If you have not already grabbed a free pass to the 100% virtual event, now is the time!…*
        
-  - Google has created an AI-powered nightmare creature generator
-      <hr/>
-       
-       - *Google has taken the wraps off Chimera Painter, a web-based tool that lets anyone generate terrifying cryptozoological entities in an interface that looks like MS Paint by way of Diablo. Why, you ask? Well, isn’t it obvious? No… no, I suppose it isn’t. Surely…*
+       - *Sight Tech Global is little more than two weeks out, and today we published the detailed agenda for Dec. 2 & 3. The show runs from 8 a.m. to noonish Pacific standard time. If you have not already grabbed a free pass to the 100% virtual event, now is the time!…*
       
 
 <br />
