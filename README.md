@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter and Facebook's diverging philosophies were on display in the latest tech hearing
+  - AI-tool maker Seldon raises £7.1M Series A from AlbionVC and Cambridge Innovation Capital
      <hr/>
      
-      - *The latest tech hearing was a study in contrasts. Contrasts between lawmakers who made an effort to stay on topic in a hearing ostensibly about social media and the 2020 election and those who… just talked about whatever was on their minds. Also contrasts bet…*
+      - *Seldon is a UK startup that specializes in the rarified world of development tools to optimize Machine Learning. What does this mean? Well, dear reader, it means that the “AI” that companies are so fond of trumpeting, does actually end up working. It’s now ra…*
      
-  - A Biden presidency doesn't need a Green New Deal to make progress on climate change
+  - Musicians get the bulk of ticket sales with Bandcamp’s new live-streaming concert feature
       <hr/>
       
-      - *Even without a Green New Deal, the sweeping set of climate-related initiatives many Democrats are pushing for, President-elect Joe Biden will have plenty of opportunities to move ahead with much of the ambitious energy transformation plan as part of any infra…*
+      - *The musician’s life is rarely an easy one. That goes double for these last, oh, eight or so months. Most artists who haven’t risen the ranks to rock-star levels make the lion’s share of their money from live shows, and that’s just not in the cards for now — a…*
       
-  - Biden's plans for energy storage, housing, transportation and agriculture could boost startups
+  - Perkins, ACB, Benetech, Salesforce and more announce breakout sessions at Sight Tech Global
       <hr/>
       
-      - *As President-elect Joe Biden readies his transition team and sets the agenda for his first 100 days in office, startups can expect to see some movement on long-stalled infrastructure initiatives that could mean big boosts to their business. Infrastructure is …*
+      - *Sight Tech Global is little more than two weeks out, and today we published the detailed agenda for Dec. 2 & 3. The show runs from 8 a.m. to noonish Pacific standard time. If you have not already grabbed a free pass to the 100% virtual event, now is the time!…*
       
-  - Twitter's new Stories feature 'Fleets' is already struggling
+  - Google has created an AI-powered nightmare creature generator
       <hr/>
       
-      - *Twitter’s new Stories feature, “Fleets,” appears to be struggling under the load. Launched this morning to Twitter’s global user base, Fleets appear at the top of the Twitter app, allowing users to post ephemeral content that disappears in 24 hours as well as…*
+      - *Google has taken the wraps off Chimera Painter, a web-based tool that lets anyone generate terrifying cryptozoological entities in an interface that looks like MS Paint by way of Diablo. Why, you ask? Well, isn’t it obvious? No… no, I suppose it isn’t. Surely…*
        
-  - Conan O'Brien will launch a weekly variety show on HBO Max
+  - Daily Crunch: Reviewing Apple's new Macs
       <hr/>
        
-       - *Conan O’Brien is making the move to streaming. In June of next year, his nightly talk show “Conan” will be ending its 10-year run on TBS, while he launches a new, weekly variety series on streaming service HBO Max. “In 1993 Johnny Carson gave me the best advi…*
+       - *We review each of Apple’s new M1-powered Macs, Twitter launches its new Stories-like format and Amazon launches a pharmacy service. This is your Daily Crunch for November 17, 2020. The big story: Reviewing Apple’s new Macs We’ve got three big hardware reviews…*
       
 
 <br />
