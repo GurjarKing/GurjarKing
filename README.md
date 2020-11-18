@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Abacus.AI raises another $22M and launches new AI modules
+  - IBM is acquiring APM startup Instana as it continues to expand hybrid cloud vision
      <hr/>
      
-      - *AI startup RealityEngines.AI changed its name to Abacus.AI in July. At the same time, it announced a $13 million Series A round. Today, only a few months later, it is not changing its name again, but it is announcing a $22 million Series B round, led by Coatu…*
+      - *As IBM transitions from software and services to a company fully focussed on hybrid cloud management, it announced  its intention to buy Instana, an applications performance management startup with a cloud native approach that fits firmly within that strategy…*
      
-  - With a 2021 IPO in the cards, what do we know about Robinhood's Q3 performance?
+  - Trump will lose protected Twitter status after his presidency
       <hr/>
       
-      - *After rising sharply in the second quarter of 2020, Robinhood’s income from routing its users’ orders to different parties for execution appears largely flat in the third quarter. To be clear, Robinhood’s year-over-year growth is likely very impressive given …*
+      - *Twitter has at various times acknowledged that Donald Trump isn’t bound by the same rules that govern the rest of us. This executive privilege has allowed him to continue posting comments that could have long ago gotten any normal person banned from the platf…*
       
-  - Nestlings wants to help international students navigate a messy higher-ed environment
+  - Facebook content moderators demand safer working conditions
       <hr/>
       
-      - *The admissions process for international students applying to colleges is outdated. For starters, there is no Common App, the one-stop application that U.S. students are able to use to apply to a variety of schools in one go. Instead, international students m…*
+      - *A group of more than 200 Facebook content moderators are demanding the tech company “stop needlessly risking moderators’ lives,” they wrote in an open letter to Facebook and the company’s contractors that manage content moderators, Accenture and Covalen. This…*
       
-  - Jinx launches a text-to-buy dog food platform, with help from Initialized Capital
+  - Weather forecasts get an AI update with Atmo as businesses grapple with climate-related catastrophes
       <hr/>
       
-      - *Jinx is launching a simple way to buy dog food and manage orders via text message. The startup says it has developed “the first text-to-buy platform in the legacy pet food space,” in partnership with its investor Initialized Capital and the firm’s co-founder …*
+      - *“Almost every business on earth is affected by weather,” says Alexander Levy, an investor serial entrepreneur whose latest company is the new weather prediction startup Atmo. The company, which graduated from Y Combinator earlier this year, has recently raise…*
        
-  - Go Jauntly applies AI to seek scale via 'greener' walking routes
+  - Google Pay gets a major redesign with a new emphasis on personal finance
       <hr/>
        
-       - *Unless you’ve been on very extended digital detox, you’ll have noticed algorithms don’t exactly have the greatest reputation these days, saddled as they are with pervasive questions of bias and inequity. Not to mention the dubious content amplification choice…*
+       - *With today's update and redesign, Google is taking the service in a new direction with a strong emphasis on deals and helping you manage your personal finances.*
       
 
 <br />
