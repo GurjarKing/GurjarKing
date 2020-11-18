@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Panasonic explores a European battery deal with Norway's largest energy and industrial companies
+  - Payments app True Balance raises $28 million to reach more underbanked users in India
      <hr/>
      
-      - *Panasonic, one of the world’s largest manufacturers of lithium ion batteries, has signed a preliminary agreement with the Nordic energy company, Equinor, and engineering and industrial company, Norsk Hydro, to collaborate on building a battery business in Nor…*
+      - *True Balance, a South Korean startup which runs an eponymous financial services app aimed at tens of millions of users in small cities and towns in India, said on Wednesday it has raised $28 million in a new financing round and expects to turn a profit next y…*
      
+  - Nigeria’s Autochek raises $3.4M for car sales and service platform
+      <hr/>
+      
+      - *Nigeria based startup Autochek looks to bring the sales and servicing of cars in Africa online. The newly founded venture has closed a $3.4 million seed-round co-led by TLcom Capital and 4DX ventures toward that aim. The raise comes fresh off of Autochek’s Se…*
+      
+  - Tutor marketplace GoStudent takes its Series A to €13.3M with Left Lane Capital and DN Capital
+      <hr/>
+      
+      - *Vienna-based e-learning start-up GoStudent has increased the Series A round it raised earlier this year to €13.3 million, adding €5m this week, in a round led by Left Lane Capital and DN Capital. To date it has raised a total of €16m. GoStudent operates a pla…*
+      
+  - Panasonic explores a European battery deal with Norway's largest energy and industrial companies
+      <hr/>
+      
+      - *Panasonic, one of the world’s largest manufacturers of lithium ion batteries, has signed a preliminary agreement with the Nordic energy company, Equinor, and engineering and industrial company, Norsk Hydro, to collaborate on building a battery business in Nor…*
+       
   - Resellee wants to become the Pinduoduo of Southeast Asia
       <hr/>
-      
-      - *Launched in the Philippines, social commerce startup Resellee wants to recreate the success of Pinduoduo, one of China’s fastest-growing e-commerce companies, in Southeast Asia. A major part of Resellee’s business is grocery deliveries, including fresh produc…*
-      
-  - Yubo could be the next big social app as it raises $47.5 million
-      <hr/>
-      
-      - *French startup Yubo is the biggest social media app you’ve never heard of — unless you’re a teen. With a focus on young people under 25, the company has managed to attract 40 million users. A fraction of them hang out every day in live-streaming rooms, meet n…*
-      
-  - China's smartphone giant Oppo ratchets up AR push
-      <hr/>
-      
-      - *Tech companies around the world are still identifying the “next big thing” enabled by 5G connections. Some, such as Oppo, are betting it will be augmented reality. The Chinese smartphone firm showcased its progress in AR at a Tuesday event swarmed by hundreds…*
        
-  - Trump fires top US cybersecurity official Chris Krebs for debunking false election claims
-      <hr/>
-       
-       - *Chris Krebs was appointed by President Trump to head the newly created CISA cybersecurity agency in 2018.*
+       - *Launched in the Philippines, social commerce startup Resellee wants to recreate the success of Pinduoduo, one of China’s fastest-growing e-commerce companies, in Southeast Asia. A major part of Resellee’s business is grocery deliveries, including fresh produc…*
       
 
 <br />
