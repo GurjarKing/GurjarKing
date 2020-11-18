@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Pokémon GO will bump its max level cap to 50 and add more Pokémon soon
+  - Bond Vet raises $17 million to be the CityMD of veterinary care
      <hr/>
      
-      - *Since launching four years ago, hitting level 40 in Pokémon GO meant hitting the top. You could still keep catching Pokémon and gathering XP, of course — but that shiny level badge wasn’t going up any higher. That’ll change later this month with an update tha…*
+      - *Bond Vet, the NYC-based tech-forward veterinary startup, has announced the close of a $17 million Series A financing. The round was led by Talisman Capital Partners. The startup has clinics across NYC that are meant to fill the gap between veterinary ERs and …*
      
+  - Cryptocurrency exchange Liquid confirms hack
+      <hr/>
+      
+      - *An investigation is underway to see if hackers accessed documents that users submitted to verify their information with the exchange.*
+      
+  - Quid raises $320M to loan money to startup employees using their equity as collateral
+      <hr/>
+      
+      - *Startups that take time to scale before going public or getting acquired can represent big, if long-term, returns for employees that hold equity in them. Big, because tech companies have proven to be some of the most valuable in the world when it comes to exi…*
+      
+  - Pokémon GO will bump its max level cap to 50 and add more Pokémon soon
+      <hr/>
+      
+      - *Since launching four years ago, hitting level 40 in Pokémon GO meant hitting the top. You could still keep catching Pokémon and gathering XP, of course — but that shiny level badge wasn’t going up any higher. That’ll change later this month with an update tha…*
+       
   - Marissa Mayer's startup launches its first official product, Sunshine Contacts
       <hr/>
-      
-      - *Former Yahoo CEO and early Google employee Marissa Mayer’s startup Lumi Labs is today rebranding to Sunshine and releasing its first official product. Its new app, Sunshine Contacts, aims to be a better tool for organizing, updating and sharing contact inform…*
-      
-  - Welcome raises $12 million to be the 'Ritz Carlton for event platforms'
-      <hr/>
-      
-      - *On the heels of Hopin’s $125 million funding round, a newcomer in the virtual events space is gaining steam. Welcome, led by co-founder and CEO Roberto Ortiz, is positioning itself as the “Ritz Carlton for virtual events,” Ortiz told me. Today, it’s announcin…*
-      
-  - Rapid Robotics raises $5.5M for pre-programmed manufacturing robots
-      <hr/>
-      
-      - *Bay Area-based Rapid Robotics today announced it has raised $5.5 million in seed funding in a round led by Greycroft and Bee Partners. The announcement comes during what has been a solid several months for robotics funding, and more and more companies are loo…*
        
-  - Build.security raises $6M for its authorization policy management platform
-      <hr/>
-       
-       - *Build.security, a Tel Aviv and Sunnyvale-based startup that aims to make it easier for developers to bake authorization policy management right into their applications, today announced a $6 million seed funding round led by cybersecurity-centric firm YL Ventu…*
+       - *Former Yahoo CEO and early Google employee Marissa Mayer’s startup Lumi Labs is today rebranding to Sunshine and releasing its first official product. Its new app, Sunshine Contacts, aims to be a better tool for organizing, updating and sharing contact inform…*
       
 
 <br />
