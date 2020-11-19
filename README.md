@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Affirm files to go public
+  - African fintech startup Chipper Cash raises $30M backed by Jeff Bezos
      <hr/>
      
-      - *Affirm, a consumer finance business founded by PayPal mafia member Max Levchin, filed to go public this afternoon. The company’s financial results show that Affirm, which doles out personalized loans on an installment basis to consumers at the point of sale, …*
+      - *African cross-border fintech startup Chipper Cash has raised a $30 million Series B funding round led by Ribbit Capital with participation of Bezos Expeditions — the personal VC fund of Amazon CEO Jeff Bezos. Chipper Cash was founded in San Francisco in 2018 …*
      
+  - Affirm files to go public
+      <hr/>
+      
+      - *Affirm, a consumer finance business founded by PayPal mafia member Max Levchin, filed to go public this afternoon. The company’s financial results show that Affirm, which doles out personalized loans on an installment basis to consumers at the point of sale, …*
+      
   - Daily Crunch: Apple cuts App Store fees
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the connected-car era. The service, called OnStar Insurance, will offer bundled auto, home and renters’ insuran…*
-      
+       
   - Mac-optimized TensorFlow flexes new M1 and GPU muscles
       <hr/>
-      
-      - *A new Mac-optimized fork of machine learning environment TensorFlow posts some major performance increases. Although a big part of that is that until now the GPU wasn’t used for training tasks (!), M1-based devices see even further gains, suggesting a spate o…*
        
-  - 'A Charlie Brown Christmas' will air on PBS, in spite of Apple TV+ rights exclusive
-      <hr/>
-       
-       - *Call it a holiday miracle. Apple today announced that animated holiday classics “A Charlie Brown Thanksgiving” and “A Charlie Brown Christmas” will, indeed, be appearing on television this year. The news comes after some pushback against an Apple TV+ exclusiv…*
+       - *A new Mac-optimized fork of machine learning environment TensorFlow posts some major performance increases. Although a big part of that is that until now the GPU wasn’t used for training tasks (!), M1-based devices see even further gains, suggesting a spate o…*
       
 
 <br />
