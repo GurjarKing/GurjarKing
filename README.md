@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook sues operator of Instagram clone sites
+  - Fintech unicorn Affirm has a lot of eggs in one basket
      <hr/>
      
-      - *Facebook has today filed another lawsuit against a company acting in violations of its terms of service. In this case, the company has sued Ensar Sahinturk, a Turkish national who operated of a network of Instagram clone sites, according to court filings. Fac…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week wound being incredibly busy. What else would a week that included both the Airbnb and Affirm IPO fili…*
      
+  - Transfr raises $12M Series A to bring virtual reality to manufacturing-plant floors
+      <hr/>
+      
+      - *The coronavirus has displaced millions of workers across the country. In order to recover, companies must focus on re-skilling their workforces in a measured and sustainable way. However, training and recruitment can cost hundreds of thousands of dollars for …*
+      
+  - Thank you, Chrome team
+      <hr/>
+      
+      - *Since Chrome came out back in 2008, it’s been a constant companion in my life. In fact, Chrome’s launch is how I helped get the startup I worked for at the time onto TechCrunch for the first time. We did shots to celebrate. Chrome rocked, and we were Day One …*
+      
+  - Facebook sues operator of Instagram clone sites
+      <hr/>
+      
+      - *Facebook has today filed another lawsuit against a company acting in violations of its terms of service. In this case, the company has sued Ensar Sahinturk, a Turkish national who operated of a network of Instagram clone sites, according to court filings. Fac…*
+       
   - Lime plans for 'modes' beyond bikes and scooters in 2021
       <hr/>
-      
-      - *Lime is launching its fourth generation scooter in Paris this week, an example the company says of its financial turnaround and commitment to growth. But that product rollout isn’t over. Lime CEO Wayne Ting hinted Thursday during the WSJ Future of Everything …*
-      
-  - Why Bessemer’s Byron Deeter thinks SaaS companies could grow even faster in 2021
-      <hr/>
-      
-      - *Byron Deeter is not backing down from his optimism about the cloud and the end of the COVID-19-induced wave of software buying doesn’t have him too worried. Of course, Deeter is an investor at Bessemer, a venture capital concern that has done well betting on …*
-      
-  - Genomatica’s expanded Aquafil partnership brings biomaterials to more consumer goods
-      <hr/>
-      
-      - *In a deal that has potentially big implications for the sustainability of consumer packaged goods, biomaterial manufacturing technology developer Genomatica and the massive nylon material manufacturer Aquafil have partnered on a new demonstration scale facili…*
        
-  - BuzzFeed acquires HuffPost
-      <hr/>
-       
-       - *HuffPost has a new owner, with its current parent company Verizon Media reaching an agreement to sell the site to BuzzFeed. The Wall Street Journal broke the news and described this as a stock deal. Verizon Media is also making an investment in BuzzFeed and b…*
+       - *Lime is launching its fourth generation scooter in Paris this week, an example the company says of its financial turnaround and commitment to growth. But that product rollout isn’t over. Lime CEO Wayne Ting hinted Thursday during the WSJ Future of Everything …*
       
 
 <br />
