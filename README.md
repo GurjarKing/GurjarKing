@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - BuzzFeed acquires HuffPost
+  - Facebook sues operator of Instagram clone sites
      <hr/>
      
-      - *HuffPost has a new owner, with its current parent company Verizon Media reaching an agreement to sell the site to BuzzFeed. The Wall Street Journal broke the news and described this as a stock deal. Verizon Media is also making an investment in BuzzFeed and b…*
+      - *Facebook has today filed another lawsuit against a company acting in violations of its terms of service. In this case, the company has sued Ensar Sahinturk, a Turkish national who operated of a network of Instagram clone sites, according to court filings. Fac…*
      
-  - Lime touts a 2020 turnaround and 2021 profitability
+  - Lime plans for 'modes' beyond bikes and scooters in 2021
       <hr/>
       
-      - *Micromobility company Lime says it has moved beyond the financial hardship caused by the COVID-19 pandemic, reaching a milestone that seemed unthinkable earlier this year. In short, the company is now largely profitable. Lime said it was both operating cash f…*
+      - *Lime is launching its fourth generation scooter in Paris this week, an example the company says of its financial turnaround and commitment to growth. But that product rollout isn’t over. Lime CEO Wayne Ting hinted Thursday during the WSJ Future of Everything …*
       
-  - Facebook details AI advances in catching misinformation and hate speech
+  - Why Bessemer’s Byron Deeter thinks SaaS companies could grow even faster in 2021
       <hr/>
       
-      - *Facebook’s battle against misinformation will never be over at this rate, but that doesn’t mean the company has given up. On the contrary it is only by dint of constant improvement to its automated systems that it is able to keep itself even remotely free of …*
+      - *Byron Deeter is not backing down from his optimism about the cloud and the end of the COVID-19-induced wave of software buying doesn’t have him too worried. Of course, Deeter is an investor at Bessemer, a venture capital concern that has done well betting on …*
       
-  - Tech in the Biden era
+  - Genomatica’s expanded Aquafil partnership brings biomaterials to more consumer goods
       <hr/>
       
-      - *President-elect Joe Biden may have spent eight years in an administration that doted on the tech industry, but that long honeymoon, punctuated by four years of Trump, looks to be over. Tech is on notice in 2020. The Russian election interference saga of the 2…*
+      - *In a deal that has potentially big implications for the sustainability of consumer packaged goods, biomaterial manufacturing technology developer Genomatica and the massive nylon material manufacturer Aquafil have partnered on a new demonstration scale facili…*
        
-  - Astra targets December for next orbital launch attempt
+  - BuzzFeed acquires HuffPost
       <hr/>
        
-       - *Astra is set to launch it’s next orbital rocket, with a window that opens on December 7 and lasts for 12 days following until December 18, with an 11 AM to 2:30 PM PT block each day during which the launch could occur, depending on weather and conditions on t…*
+       - *HuffPost has a new owner, with its current parent company Verizon Media reaching an agreement to sell the site to BuzzFeed. The Wall Street Journal broke the news and described this as a stock deal. Verizon Media is also making an investment in BuzzFeed and b…*
       
 
 <br />
