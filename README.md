@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Greece's Marathon Venture Capital completes first close for Fund II, reaching $47M
+  - Portugal's Faber reaches $24.3M for its second fund aimed at data-driven startups from Iberia
      <hr/>
      
-      - *Marathon Venture Capital in Athens, Greece has completed the first closing of its second fund, reaching the €40m / $47M mark. Backing the new fund is the European Investment Fund, HDBI, as well as corporates, family offices and HNWIs around the world (plus ma…*
+      - *Portuguese VC Faber has hit the first close of its Faber Tech II fund at €20.5 million ($24.3 million). The fund will focus on early-stage data-driven startups starting from Southern Europe and the Iberian peninsula, with the aim of reaching a final close of …*
      
+  - Greece's Marathon Venture Capital completes first close for Fund II, reaching $47M
+      <hr/>
+      
+      - *Marathon Venture Capital in Athens, Greece has completed the first closing of its second fund, reaching the €40m / $47M mark. Backing the new fund is the European Investment Fund, HDBI, as well as corporates, family offices and HNWIs around the world (plus ma…*
+      
   - Juni, the banking platform for e-commerce and online marketing companies, raises €2M seed
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *African cross-border fintech startup Chipper Cash has raised a $30 million Series B funding round led by Ribbit Capital with participation of Bezos Expeditions — the personal VC fund of Amazon CEO Jeff Bezos. Chipper Cash was founded in San Francisco in 2018 …*
-      
+       
   - Affirm files to go public
       <hr/>
-      
-      - *Affirm, a consumer finance business founded by PayPal mafia member Max Levchin, filed to go public this afternoon. The company’s financial results show that Affirm, which doles out personalized loans on an installment basis to consumers at the point of sale, …*
        
-  - Daily Crunch: Apple cuts App Store fees
-      <hr/>
-       
-       - *Apple is making a big shift in App Store fees, Duolingo raises more funding and Pfizer releases updated vaccine results. This is your Daily Crunch for November 18, 2020. The big story: Apple cuts App Store fees Apple is cutting the 30% fee it normally charges…*
+       - *Affirm, a consumer finance business founded by PayPal mafia member Max Levchin, filed to go public this afternoon. The company’s financial results show that Affirm, which doles out personalized loans on an installment basis to consumers at the point of sale, …*
       
 
 <br />
