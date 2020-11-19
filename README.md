@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Apple cuts App Store fees
+  - Affirm files to go public
      <hr/>
      
-      - *Apple is making a big shift in App Store fees, Duolingo raises more funding and Pfizer releases updated vaccine results. This is your Daily Crunch for November 18, 2020. The big story: Apple cuts App Store fees Apple is cutting the 30% fee it normally charges…*
+      - *Affirm, a consumer finance business founded by PayPal mafia member Max Levchin, filed to go public this afternoon. The company’s financial results show that Affirm, which doles out personalized loans on an installment basis to consumers at the point of sale, …*
      
+  - Daily Crunch: Apple cuts App Store fees
+      <hr/>
+      
+      - *Apple is making a big shift in App Store fees, Duolingo raises more funding and Pfizer releases updated vaccine results. This is your Daily Crunch for November 18, 2020. The big story: Apple cuts App Store fees Apple is cutting the 30% fee it normally charges…*
+      
   - GM to leverage driver data as it jumps back into the insurance business
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *A new Mac-optimized fork of machine learning environment TensorFlow posts some major performance increases. Although a big part of that is that until now the GPU wasn’t used for training tasks (!), M1-based devices see even further gains, suggesting a spate o…*
-      
+       
   - 'A Charlie Brown Christmas' will air on PBS, in spite of Apple TV+ rights exclusive
       <hr/>
-      
-      - *Call it a holiday miracle. Apple today announced that animated holiday classics “A Charlie Brown Thanksgiving” and “A Charlie Brown Christmas” will, indeed, be appearing on television this year. The news comes after some pushback against an Apple TV+ exclusiv…*
        
-  - This $99 gadget helps you make music, no skill required
-      <hr/>
-       
-       - *At CES back in January, I met with a handful of founders who were/are crowdfunding musical instruments. It’s a fascinating category and one to watch if you have a passing interest in either music or technology. Like a vast majority of hardware startups, most …*
+       - *Call it a holiday miracle. Apple today announced that animated holiday classics “A Charlie Brown Thanksgiving” and “A Charlie Brown Christmas” will, indeed, be appearing on television this year. The news comes after some pushback against an Apple TV+ exclusiv…*
       
 
 <br />
