@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Portugal's Faber reaches $24.3M for its second fund aimed at data-driven startups from Iberia
+  - Datafold raises seed from NEA to keep improving the lives of data engineers
      <hr/>
      
-      - *Portuguese VC Faber has hit the first close of its Faber Tech II fund at €20.5 million ($24.3 million). The fund will focus on early-stage data-driven startups starting from Southern Europe and the Iberian peninsula, with the aim of reaching a final close of …*
+      - *Data engineering is one of these new disciplines that has gone from buzzword to mission critical in just a few years. Data engineers design and build all the connections between sources of raw data (your payments information or ad-tracking data or what have y…*
      
+  - SellerX raises $118M to buy up and grow Amazon marketplace businesses
+      <hr/>
+      
+      - *As Amazon’s Marketplace continues to grow and mature, a new opportunity has emerged in the world of e-commerce for a new breed of startups to consolidate the most promising of the smaller businesses that sell via Amazon’s platform, and build out their own eco…*
+      
+  - Portugal's Faber reaches $24.3M for its second fund aimed at data-driven startups from Iberia
+      <hr/>
+      
+      - *Portuguese VC Faber has hit the first close of its Faber Tech II fund at €20.5 million ($24.3 million). The fund will focus on early-stage data-driven startups starting from Southern Europe and the Iberian peninsula, with the aim of reaching a final close of …*
+      
   - Greece's Marathon Venture Capital completes first close for Fund II, reaching $47M
       <hr/>
       
       - *Marathon Venture Capital in Athens, Greece has completed the first closing of its second fund, reaching the €40m / $47M mark. Backing the new fund is the European Investment Fund, HDBI, as well as corporates, family offices and HNWIs around the world (plus ma…*
-      
+       
   - Juni, the banking platform for e-commerce and online marketing companies, raises €2M seed
       <hr/>
-      
-      - *Juni, a Swedish pre-launch startup that’s building a banking app and platform for e-commerce and online marketing entrepreneurs, has raised just over €2.1 million in seed funding. Leading the round is Berlin-based Cherry Ventures — the first deal, I believe, …*
-      
-  - African fintech startup Chipper Cash raises $30M backed by Jeff Bezos
-      <hr/>
-      
-      - *African cross-border fintech startup Chipper Cash has raised a $30 million Series B funding round led by Ribbit Capital with participation of Bezos Expeditions — the personal VC fund of Amazon CEO Jeff Bezos. Chipper Cash was founded in San Francisco in 2018 …*
        
-  - Affirm files to go public
-      <hr/>
-       
-       - *Affirm, a consumer finance business founded by PayPal mafia member Max Levchin, filed to go public this afternoon. The company’s financial results show that Affirm, which doles out personalized loans on an installment basis to consumers at the point of sale, …*
+       - *Juni, a Swedish pre-launch startup that’s building a banking app and platform for e-commerce and online marketing entrepreneurs, has raised just over €2.1 million in seed funding. Leading the round is Berlin-based Cherry Ventures — the first deal, I believe, …*
       
 
 <br />
