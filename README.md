@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon S3 Storage Lens gives IT visibility into complex S3 usage
+  - Microsoft brings new shopping tools to its Edge browser
      <hr/>
      
-      - *As your S3 storage requirements grow, it gets harder to understand exactly what you have, and this especially true when it crosses multiple regions. This could have broad implications for administrators, who are forced to build their own solutions to get that…*
+      - *Microsoft announced a few updates to its Edge browser today that are all about shopping. In addition to expanding the price comparison feature the team announced last month, Edge can now also automatically find coupons for you. In addition, the company is lau…*
      
-  - Medable raises $91 million for its clinical trial management software
+  - Google rolls out iOS widgets for Gmail, Drive and Fit; says Calendar and Chrome coming soon
       <hr/>
       
-      - *The clinical trial management software developer Medable has raised $91 million in a new round of financing as life sciences companies struggle with how to conduct the necessary validation studies of new drugs and devices in a pandemically challenged environm…*
+      - *Google has updated its flagship iPhone apps with support for home screen widgets, a new feature of iOS 14. The company announced today it’s rolling out new widgets for Gmail, Google Drive, Google Fit and soon, Google Calendar and Google Chrome, in order to pu…*
       
-  - Google plans to test end-to-end encryption in Android messages
+  - Inside Affirm's IPO filing: a look at its economics, profits and revenue concentration
       <hr/>
       
-      - *The feature will roll out in November and continue into next year.*
+      - *Last night Affirm filed to go public, herding yet another unicorn into the end-of-year IPO corral. The consumer installment lending service joins DoorDash and Airbnb in filing recently, as a number of highly-valued, venture-backed private companies look to fl…*
       
-  - PayPal launches a new crowdsourced fundraising platform, the Generosity Network
+  - Head of the US Space Force, Gen. John W. 'Jay' Raymond, joins us at TechCrunch Sessions: Space
       <hr/>
       
-      - *PayPal is expanding its fundraising efforts with today’s launch of the Generosity Network. Unlike the PayPal Giving Fund, which helps people support charities through online donations, the new Generosity Network lets people raise money for themselves, other i…*
+      - *Space Force is at a critical part of its young life, and Gen. John W. “Jay” Raymond leads the service forward as its commanding officer. We’re thrilled to have him join us for a fireside chat at our TC Sessions: Space event on December 16 & 17. Since its foun…*
        
-  - Near acquires Teemo to expand its data business into Europe
+  - Against all odds: The sheer force of immigrant startup founders
       <hr/>
        
-       - *Two companies in the data business are teaming up, with Near announcing that it has acquired French startup Teemo. Near founder and CEO Anil Mathews told me that his company processes data around the online and offline behavior of 1.6 billion consumers each m…*
+       - *Niko Bonatsos Contributor Share on Twitter Niko Bonatsos is a managing director at General Catalyst Partners. More posts by this contributor As VCs enroll the startup class of 2016, it’s RIP for ‘me too’ companies I’ve long said that I don’t care where you co…*
       
 
 <br />
