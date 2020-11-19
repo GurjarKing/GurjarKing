@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - African fintech startup Chipper Cash raises $30M backed by Jeff Bezos
+  - Juni, the banking platform for e-commerce and online marketing companies, raises €2M seed
      <hr/>
      
-      - *African cross-border fintech startup Chipper Cash has raised a $30 million Series B funding round led by Ribbit Capital with participation of Bezos Expeditions — the personal VC fund of Amazon CEO Jeff Bezos. Chipper Cash was founded in San Francisco in 2018 …*
+      - *Juni, a Swedish pre-launch startup that’s building a banking app and platform for e-commerce and online marketing entrepreneurs, has raised just over €2.1 million in seed funding. Leading the round is Berlin-based Cherry Ventures — the first deal, I believe, …*
      
+  - African fintech startup Chipper Cash raises $30M backed by Jeff Bezos
+      <hr/>
+      
+      - *African cross-border fintech startup Chipper Cash has raised a $30 million Series B funding round led by Ribbit Capital with participation of Bezos Expeditions — the personal VC fund of Amazon CEO Jeff Bezos. Chipper Cash was founded in San Francisco in 2018 …*
+      
   - Affirm files to go public
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Apple is making a big shift in App Store fees, Duolingo raises more funding and Pfizer releases updated vaccine results. This is your Daily Crunch for November 18, 2020. The big story: Apple cuts App Store fees Apple is cutting the 30% fee it normally charges…*
-      
+       
   - GM to leverage driver data as it jumps back into the insurance business
       <hr/>
-      
-      - *General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the connected-car era. The service, called OnStar Insurance, will offer bundled auto, home and renters’ insuran…*
        
-  - Mac-optimized TensorFlow flexes new M1 and GPU muscles
-      <hr/>
-       
-       - *A new Mac-optimized fork of machine learning environment TensorFlow posts some major performance increases. Although a big part of that is that until now the GPU wasn’t used for training tasks (!), M1-based devices see even further gains, suggesting a spate o…*
+       - *General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the connected-car era. The service, called OnStar Insurance, will offer bundled auto, home and renters’ insuran…*
       
 
 <br />
