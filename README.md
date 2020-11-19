@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - ZenBusiness snags $55M Series B for its incorporation and growth platform for micro businesses
+  - Amazon S3 Storage Lens gives IT visibility into complex S3 usage
      <hr/>
      
-      - *Starting a small company used to be simple. Get some space on Main Street, put out a shingle, and begin plying your trade. Then the regulatory state came, and so did the internet. Now, entrepreneurs have to apply for licenses — sometimes multiple licenses in …*
+      - *As your S3 storage requirements grow, it gets harder to understand exactly what you have, and this especially true when it crosses multiple regions. This could have broad implications for administrators, who are forced to build their own solutions to get that…*
      
-  - Datafold raises seed from NEA to keep improving the lives of data engineers
+  - Medable raises $91 million for its clinical trial management software
       <hr/>
       
-      - *Data engineering is one of these new disciplines that has gone from buzzword to mission critical in just a few years. Data engineers design and build all the connections between sources of raw data (your payments information or ad-tracking data or what have y…*
+      - *The clinical trial management software developer Medable has raised $91 million in a new round of financing as life sciences companies struggle with how to conduct the necessary validation studies of new drugs and devices in a pandemically challenged environm…*
       
-  - SellerX raises $118M to buy up and grow Amazon marketplace businesses
+  - Google plans to test end-to-end encryption in Android messages
       <hr/>
       
-      - *As Amazon’s Marketplace continues to grow and mature, a new opportunity has emerged in the world of e-commerce for a new breed of startups to consolidate the most promising of the smaller businesses that sell via Amazon’s platform, and build out their own eco…*
+      - *The feature will roll out in November and continue into next year.*
       
-  - Portugal's Faber reaches $24.3M for its second fund aimed at data-driven startups from Iberia
+  - PayPal launches a new crowdsourced fundraising platform, the Generosity Network
       <hr/>
       
-      - *Portuguese VC Faber has hit the first close of its Faber Tech II fund at €20.5 million ($24.3 million). The fund will focus on early-stage data-driven startups starting from Southern Europe and the Iberian peninsula, with the aim of reaching a final close of …*
+      - *PayPal is expanding its fundraising efforts with today’s launch of the Generosity Network. Unlike the PayPal Giving Fund, which helps people support charities through online donations, the new Generosity Network lets people raise money for themselves, other i…*
        
-  - Greece's Marathon Venture Capital completes first close for Fund II, reaching $47M
+  - Near acquires Teemo to expand its data business into Europe
       <hr/>
        
-       - *Marathon Venture Capital in Athens, Greece has completed the first closing of its second fund, reaching the €40m / $47M mark. Backing the new fund is the European Investment Fund, HDBI, as well as corporates, family offices and HNWIs around the world (plus ma…*
+       - *Two companies in the data business are teaming up, with Near announcing that it has acquired French startup Teemo. Near founder and CEO Anil Mathews told me that his company processes data around the online and offline behavior of 1.6 billion consumers each m…*
       
 
 <br />
