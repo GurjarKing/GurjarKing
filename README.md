@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Datafold raises seed from NEA to keep improving the lives of data engineers
+  - ZenBusiness snags $55M Series B for its incorporation and growth platform for micro businesses
      <hr/>
      
-      - *Data engineering is one of these new disciplines that has gone from buzzword to mission critical in just a few years. Data engineers design and build all the connections between sources of raw data (your payments information or ad-tracking data or what have y…*
+      - *Starting a small company used to be simple. Get some space on Main Street, put out a shingle, and begin plying your trade. Then the regulatory state came, and so did the internet. Now, entrepreneurs have to apply for licenses — sometimes multiple licenses in …*
      
+  - Datafold raises seed from NEA to keep improving the lives of data engineers
+      <hr/>
+      
+      - *Data engineering is one of these new disciplines that has gone from buzzword to mission critical in just a few years. Data engineers design and build all the connections between sources of raw data (your payments information or ad-tracking data or what have y…*
+      
   - SellerX raises $118M to buy up and grow Amazon marketplace businesses
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Portuguese VC Faber has hit the first close of its Faber Tech II fund at €20.5 million ($24.3 million). The fund will focus on early-stage data-driven startups starting from Southern Europe and the Iberian peninsula, with the aim of reaching a final close of …*
-      
+       
   - Greece's Marathon Venture Capital completes first close for Fund II, reaching $47M
       <hr/>
-      
-      - *Marathon Venture Capital in Athens, Greece has completed the first closing of its second fund, reaching the €40m / $47M mark. Backing the new fund is the European Investment Fund, HDBI, as well as corporates, family offices and HNWIs around the world (plus ma…*
        
-  - Juni, the banking platform for e-commerce and online marketing companies, raises €2M seed
-      <hr/>
-       
-       - *Juni, a Swedish pre-launch startup that’s building a banking app and platform for e-commerce and online marketing entrepreneurs, has raised just over €2.1 million in seed funding. Leading the round is Berlin-based Cherry Ventures — the first deal, I believe, …*
+       - *Marathon Venture Capital in Athens, Greece has completed the first closing of its second fund, reaching the €40m / $47M mark. Backing the new fund is the European Investment Fund, HDBI, as well as corporates, family offices and HNWIs around the world (plus ma…*
       
 
 <br />
