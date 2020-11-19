@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - GM to leverage driver data as it jumps back into the insurance business
+  - Daily Crunch: Apple cuts App Store fees
      <hr/>
      
-      - *General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the connected-car era. The service, called OnStar Insurance, will offer bundled auto, home and renters’ insuran…*
+      - *Apple is making a big shift in App Store fees, Duolingo raises more funding and Pfizer releases updated vaccine results. This is your Daily Crunch for November 18, 2020. The big story: Apple cuts App Store fees Apple is cutting the 30% fee it normally charges…*
      
+  - GM to leverage driver data as it jumps back into the insurance business
+      <hr/>
+      
+      - *General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the connected-car era. The service, called OnStar Insurance, will offer bundled auto, home and renters’ insuran…*
+      
   - Mac-optimized TensorFlow flexes new M1 and GPU muscles
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Call it a holiday miracle. Apple today announced that animated holiday classics “A Charlie Brown Thanksgiving” and “A Charlie Brown Christmas” will, indeed, be appearing on television this year. The news comes after some pushback against an Apple TV+ exclusiv…*
-      
+       
   - This $99 gadget helps you make music, no skill required
       <hr/>
-      
-      - *At CES back in January, I met with a handful of founders who were/are crowdfunding musical instruments. It’s a fascinating category and one to watch if you have a passing interest in either music or technology. Like a vast majority of hardware startups, most …*
        
-  - Virtual HQs race to win over a remote-work-fatigued market
-      <hr/>
-       
-       - *In retrospect, 2019 feels like the working world’s last dance with spontaneity. The pre-pandemic past is rife with conferences, running into co-workers and post-work happy hours. Now, as companies such as Microsoft and Twitter declare remote work as the futur…*
+       - *At CES back in January, I met with a handful of founders who were/are crowdfunding musical instruments. It’s a fascinating category and one to watch if you have a passing interest in either music or technology. Like a vast majority of hardware startups, most …*
       
 
 <br />
