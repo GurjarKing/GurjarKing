@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Juni, the banking platform for e-commerce and online marketing companies, raises €2M seed
+  - Greece's Marathon Venture Capital completes first close for Fund II, reaching $47M
      <hr/>
      
-      - *Juni, a Swedish pre-launch startup that’s building a banking app and platform for e-commerce and online marketing entrepreneurs, has raised just over €2.1 million in seed funding. Leading the round is Berlin-based Cherry Ventures — the first deal, I believe, …*
+      - *Marathon Venture Capital in Athens, Greece has completed the first closing of its second fund, reaching the €40m / $47M mark. Backing the new fund is the European Investment Fund, HDBI, as well as corporates, family offices and HNWIs around the world (plus ma…*
      
+  - Juni, the banking platform for e-commerce and online marketing companies, raises €2M seed
+      <hr/>
+      
+      - *Juni, a Swedish pre-launch startup that’s building a banking app and platform for e-commerce and online marketing entrepreneurs, has raised just over €2.1 million in seed funding. Leading the round is Berlin-based Cherry Ventures — the first deal, I believe, …*
+      
   - African fintech startup Chipper Cash raises $30M backed by Jeff Bezos
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Affirm, a consumer finance business founded by PayPal mafia member Max Levchin, filed to go public this afternoon. The company’s financial results show that Affirm, which doles out personalized loans on an installment basis to consumers at the point of sale, …*
-      
+       
   - Daily Crunch: Apple cuts App Store fees
       <hr/>
-      
-      - *Apple is making a big shift in App Store fees, Duolingo raises more funding and Pfizer releases updated vaccine results. This is your Daily Crunch for November 18, 2020. The big story: Apple cuts App Store fees Apple is cutting the 30% fee it normally charges…*
        
-  - GM to leverage driver data as it jumps back into the insurance business
-      <hr/>
-       
-       - *General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the connected-car era. The service, called OnStar Insurance, will offer bundled auto, home and renters’ insuran…*
+       - *Apple is making a big shift in App Store fees, Duolingo raises more funding and Pfizer releases updated vaccine results. This is your Daily Crunch for November 18, 2020. The big story: Apple cuts App Store fees Apple is cutting the 30% fee it normally charges…*
       
 
 <br />
