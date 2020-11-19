@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Microsoft brings new shopping tools to its Edge browser
+  - GM ups electric and autonomous vehicle spending to $27 billion through 2025
      <hr/>
      
-      - *Microsoft announced a few updates to its Edge browser today that are all about shopping. In addition to expanding the price comparison feature the team announced last month, Edge can now also automatically find coupons for you. In addition, the company is lau…*
+      - *General Motors said it will spend $27 billion over the next five years on the development of electric vehicles and automated technology, a 35% percent increase that exceeds the automaker’s investment and gas and diesel and is an effort bring products to marke…*
      
-  - Google rolls out iOS widgets for Gmail, Drive and Fit; says Calendar and Chrome coming soon
+  - Verizon partners with Apple to launch 5G Fleet Swap
       <hr/>
       
-      - *Google has updated its flagship iPhone apps with support for home screen widgets, a new feature of iOS 14. The company announced today it’s rolling out new widgets for Gmail, Google Drive, Google Fit and soon, Google Calendar and Google Chrome, in order to pu…*
+      - *Apple and Verizon today announced a new partnership that will make it easier for their business partners to go all-in on 5G. Fleet Swap, as the program is called, allows businesses to trade in their entire fleet of smartphones — no matter whether they are cur…*
       
-  - Inside Affirm's IPO filing: a look at its economics, profits and revenue concentration
+  - Is the internet advertising economy about to implode?
       <hr/>
       
-      - *Last night Affirm filed to go public, herding yet another unicorn into the end-of-year IPO corral. The consumer installment lending service joins DoorDash and Airbnb in filing recently, as a number of highly-valued, venture-backed private companies look to fl…*
+      - *Advertising drives the modern digital economy. Whether it’s reading news sites like this one or perusing your social media feeds, advertising is the single most important industry that came out of the development of the web. Yet, for all the tens of billions …*
       
-  - Head of the US Space Force, Gen. John W. 'Jay' Raymond, joins us at TechCrunch Sessions: Space
+  - 48 hours left to save $100 on passes to TC Sessions: Space 2020
       <hr/>
       
-      - *Space Force is at a critical part of its young life, and Gen. John W. “Jay” Raymond leads the service forward as its commanding officer. We’re thrilled to have him join us for a fireside chat at our TC Sessions: Space event on December 16 & 17. Since its foun…*
+      - *T-minus two days and counting. That’s how much time you have left to score early-bird passes to TC Sessions: Space 2020. If you’re part of this global startup community, don’t miss a two-day deep dive focused on the intrepid visionaries pushing the boundaries…*
        
-  - Against all odds: The sheer force of immigrant startup founders
+  - Google Stadia and GeForce Now are both coming to iOS as web apps
       <hr/>
        
-       - *Niko Bonatsos Contributor Share on Twitter Niko Bonatsos is a managing director at General Catalyst Partners. More posts by this contributor As VCs enroll the startup class of 2016, it’s RIP for ‘me too’ companies I’ve long said that I don’t care where you co…*
+       - *Google and Nvidia both had some news about their respective cloud gaming service today. Let’s start with Nvidia. GeForce Now is now available on the iPhone and the iPad as a web app. The company says it’s a beta for now, but you can start using it by heading …*
       
 
 <br />
