@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - GM ups electric and autonomous vehicle spending to $27 billion through 2025
+  - BuzzFeed acquires HuffPost
      <hr/>
      
-      - *General Motors said it will spend $27 billion over the next five years on the development of electric vehicles and automated technology, a 35% percent increase that exceeds the automaker’s investment and gas and diesel and is an effort bring products to marke…*
+      - *HuffPost has a new owner, with its current parent company Verizon Media reaching an agreement to sell the site to BuzzFeed. The Wall Street Journal broke the news and described this as a stock deal. Verizon Media is also making an investment in BuzzFeed and b…*
      
-  - Verizon partners with Apple to launch 5G Fleet Swap
+  - Lime touts a 2020 turnaround and 2021 profitability
       <hr/>
       
-      - *Apple and Verizon today announced a new partnership that will make it easier for their business partners to go all-in on 5G. Fleet Swap, as the program is called, allows businesses to trade in their entire fleet of smartphones — no matter whether they are cur…*
+      - *Micromobility company Lime says it has moved beyond the financial hardship caused by the COVID-19 pandemic, reaching a milestone that seemed unthinkable earlier this year. In short, the company is now largely profitable. Lime said it was both operating cash f…*
       
-  - Is the internet advertising economy about to implode?
+  - Facebook details AI advances in catching misinformation and hate speech
       <hr/>
       
-      - *Advertising drives the modern digital economy. Whether it’s reading news sites like this one or perusing your social media feeds, advertising is the single most important industry that came out of the development of the web. Yet, for all the tens of billions …*
+      - *Facebook’s battle against misinformation will never be over at this rate, but that doesn’t mean the company has given up. On the contrary it is only by dint of constant improvement to its automated systems that it is able to keep itself even remotely free of …*
       
-  - 48 hours left to save $100 on passes to TC Sessions: Space 2020
+  - Tech in the Biden era
       <hr/>
       
-      - *T-minus two days and counting. That’s how much time you have left to score early-bird passes to TC Sessions: Space 2020. If you’re part of this global startup community, don’t miss a two-day deep dive focused on the intrepid visionaries pushing the boundaries…*
+      - *President-elect Joe Biden may have spent eight years in an administration that doted on the tech industry, but that long honeymoon, punctuated by four years of Trump, looks to be over. Tech is on notice in 2020. The Russian election interference saga of the 2…*
        
-  - Google Stadia and GeForce Now are both coming to iOS as web apps
+  - Astra targets December for next orbital launch attempt
       <hr/>
        
-       - *Google and Nvidia both had some news about their respective cloud gaming service today. Let’s start with Nvidia. GeForce Now is now available on the iPhone and the iPad as a web app. The company says it’s a beta for now, but you can start using it by heading …*
+       - *Astra is set to launch it’s next orbital rocket, with a window that opens on December 7 and lasts for 12 days following until December 18, with an 11 AM to 2:30 PM PT block each day during which the launch could occur, depending on weather and conditions on t…*
       
 
 <br />
