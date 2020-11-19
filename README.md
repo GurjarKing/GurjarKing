@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Fintech unicorn Affirm has a lot of eggs in one basket
+  - Gillmor Gang: Apple Tacks
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week wound being incredibly busy. What else would a week that included both the Airbnb and Affirm IPO fili…*
+      - *When the music’s over, turn out the lights. Back in the day, The Doors were one of a number of 60s rock groups to surface around the intersection of blues, R&B, and a cultural shift that challenged our notions of who was in charge. The Doors were a four-piece…*
      
+  - Amazon’s drone delivery team hit with layoffs amid reorganization
+      <hr/>
+      
+      - *Amazon has confirmed an early Financial Times report outlining layoffs at the retail giant’s Prime Air drone delivery program. “As part of our regular business operations, we are reorganizing one small team within our larger Prime Air organization to allow us…*
+      
+  - Iconic Arecibo radio telescope to be dismantled after 57-year run
+      <hr/>
+      
+      - *The famous Arecibo radio telescope in Puerto Rico, which has provided an invaluable service to scientists for 57 years as well as establishing itself in popular culture, will be dismantled after it incurred irreparable damage in recent months. The enormous ob…*
+      
+  - Fintech unicorn Affirm has a lot of eggs in one basket
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week wound being incredibly busy. What else would a week that included both the Airbnb and Affirm IPO fili…*
+       
   - Transfr raises $12M Series A to bring virtual reality to manufacturing-plant floors
       <hr/>
-      
-      - *The coronavirus has displaced millions of workers across the country. In order to recover, companies must focus on re-skilling their workforces in a measured and sustainable way. However, training and recruitment can cost hundreds of thousands of dollars for …*
-      
-  - Thank you, Chrome team
-      <hr/>
-      
-      - *Since Chrome came out back in 2008, it’s been a constant companion in my life. In fact, Chrome’s launch is how I helped get the startup I worked for at the time onto TechCrunch for the first time. We did shots to celebrate. Chrome rocked, and we were Day One …*
-      
-  - Facebook sues operator of Instagram clone sites
-      <hr/>
-      
-      - *Facebook has today filed another lawsuit against a company acting in violations of its terms of service. In this case, the company has sued Ensar Sahinturk, a Turkish national who operated of a network of Instagram clone sites, according to court filings. Fac…*
        
-  - Lime plans for 'modes' beyond bikes and scooters in 2021
-      <hr/>
-       
-       - *Lime is launching its fourth generation scooter in Paris this week, an example the company says of its financial turnaround and commitment to growth. But that product rollout isn’t over. Lime CEO Wayne Ting hinted Thursday during the WSJ Future of Everything …*
+       - *The coronavirus has displaced millions of workers across the country. In order to recover, companies must focus on re-skilling their workforces in a measured and sustainable way. However, training and recruitment can cost hundreds of thousands of dollars for …*
       
 
 <br />
