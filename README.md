@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - With new cash and a former Apple exec now at the helm, Connect Homes is ready to reconstruct homebuilding
+  - Rocket Lab makes its first booster recovery after successful launch
      <hr/>
      
-      - *Greg Leung had worked at Apple for years and was coming off of a stint at the smart lock company Otto, when he got the call to interview with Connect Homes. The pitch — building a starter home for a much lower cost than other prefabricated houses on the marke…*
+      - *New Zealand-born launch provider Rocket Lab took a step towards making its launch vehicles reusable today with the safe splashdown and recovery of an Electron booster after it successfully took its payload to orbit. The image above is the view from the booste…*
      
+  - With new cash and a former Apple exec now at the helm, Connect Homes is ready to reconstruct homebuilding
+      <hr/>
+      
+      - *Greg Leung had worked at Apple for years and was coming off of a stint at the smart lock company Otto, when he got the call to interview with Connect Homes. The pitch — building a starter home for a much lower cost than other prefabricated houses on the marke…*
+      
   - Steve Case's Revolution is targeting $500 million for its fourth growth fund
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *It’s time for another episode of Mixtape, where we take a look at diversity, inclusion, equity and the human labor that powers tech. This week we spoke to Y-Vonne Hutchinson, the CEO of ReadySet, a consulting firm that works with companies to create more incl…*
-      
+       
   - After Apple’s M1 launch, Intel announces its own white-label laptop
       <hr/>
-      
-      - *Its long fruitful relationship with Apple may be sunsetting soon, but Intel’s still got a fairly massive footprint in the PC market. There’s never a good time to get complacent, though (a lesson the company learned the hard way on the mobile front). This week…*
        
-  - Ashton Kutcher's Sound Ventures targets $150M for third fund
-      <hr/>
-       
-       - *Sound Ventures, a fund co-founded by Ashton Kutcher and Guy Oseary, has filed paperwork indicating plans to raise a third fund at $150 million. Notably, the firm filed paperwork for the same total in 2018 for its second fund. The firm did not immediately resp…*
+       - *Its long fruitful relationship with Apple may be sunsetting soon, but Intel’s still got a fairly massive footprint in the PC market. There’s never a good time to get complacent, though (a lesson the company learned the hard way on the mobile front). This week…*
       
 
 <br />
