@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Rocket Lab makes its first booster recovery after successful launch
+  - Astanor Ventures launches $325M  Impact Fund aimed at FoodTech and AgTech startups
      <hr/>
      
-      - *New Zealand-born launch provider Rocket Lab took a step towards making its launch vehicles reusable today with the safe splashdown and recovery of an Electron booster after it successfully took its payload to orbit. The image above is the view from the booste…*
+      - *We can all, by now, ascribe to the idea that something has changed in the last few months. Like it or not, business is not as it was. If we were true to ourselves, we would admit that our lives will never be the name again. But parallel to this visceral feeli…*
      
+  - Rocket Lab makes its first booster recovery after successful launch
+      <hr/>
+      
+      - *New Zealand-born launch provider Rocket Lab took a step towards making its launch vehicles reusable today with the safe splashdown and recovery of an Electron booster after it successfully took its payload to orbit. The image above is the view from the booste…*
+      
   - With new cash and a former Apple exec now at the helm, Connect Homes is ready to reconstruct homebuilding
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Revolution, the Washington, D.C.-based investment firm founded by AOL cofounder CEO Steve Case and former AOL senior exec Ted Leonsis, is raising $500 million for its fourth fund, shows a new SEC filing. Asked about the effort earlier today, the firm declined…*
-      
+       
   - Mixtape podcast: Building a structural DEI response to a systemic issue with Y-Vonne Hutchinson
       <hr/>
-      
-      - *It’s time for another episode of Mixtape, where we take a look at diversity, inclusion, equity and the human labor that powers tech. This week we spoke to Y-Vonne Hutchinson, the CEO of ReadySet, a consulting firm that works with companies to create more incl…*
        
-  - After Apple’s M1 launch, Intel announces its own white-label laptop
-      <hr/>
-       
-       - *Its long fruitful relationship with Apple may be sunsetting soon, but Intel’s still got a fairly massive footprint in the PC market. There’s never a good time to get complacent, though (a lesson the company learned the hard way on the mobile front). This week…*
+       - *It’s time for another episode of Mixtape, where we take a look at diversity, inclusion, equity and the human labor that powers tech. This week we spoke to Y-Vonne Hutchinson, the CEO of ReadySet, a consulting firm that works with companies to create more incl…*
       
 
 <br />
