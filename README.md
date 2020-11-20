@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google, Facebook and Twitter threaten to leave Pakistan over censorship law
+  - Despite commitment to anti-racism, Uber's Black employee base has decreased
      <hr/>
      
-      - *Global internet companies Facebook, Google and Twitter and others have banded together and threatened to leave Pakistan after the South Asian nation granted blanket powers to local regulators to censor digital content. Earlier this week, Pakistan Prime Minist…*
+      - *Uber today released its latest diversity report, showing a decline in the overall representation of Black employees in the U.S. despite an increased focus on racial justice this year in the wake of the police killing of George Floyd. In 2019, Uber was 9.3% Bl…*
      
+  - Loadsmart raises $90 million to further consolidate its one-stop freight and logistics platform
+      <hr/>
+      
+      - *Leading on-demand digital freight platform Loadsmart has raised a $90 million Series C funding round, led by funds under management by BlackRock, and co-led by Chromo Invest. The funding will be used to continue to build out its platform to offer even more en…*
+      
+  - Xesto is a foot scanning app that simplifies shoe gifting
+      <hr/>
+      
+      - *You wait ages for foot scanning startups to help with the tricky fit issue that troubles online shoe shopping and then two come along at once: Launching today in time for Black Friday sprees is Xesto — which like Neatsy, which we wrote about earlier today, al…*
+      
+  - Google, Facebook and Twitter threaten to leave Pakistan over censorship law
+      <hr/>
+      
+      - *Global internet companies Facebook, Google and Twitter and others have banded together and threatened to leave Pakistan after the South Asian nation granted blanket powers to local regulators to censor digital content. Earlier this week, Pakistan Prime Minist…*
+       
   - What is Roblox worth?
       <hr/>
-      
-      - *With Roblox joining the end-of-year unicorn stampede towards the public markets, we’re set for a contentedly busy second half of November and early December. I hope you didn’t have vacation planned in the next few weeks. This morning we need to get deeper int…*
-      
-  - Prices increase tonight for our space focused event, TC Sessions: Space
-      <hr/>
-      
-      - *“Space, the final frontier…” You can probably recite the “Star Trek” opening monologue in your sleep. But we’re talking science fact, not fiction, and TC Sessions: Space 2020 provides real opportunity to connect with the people, information and funding you ne…*
-      
-  - Snap acquired Voisey, an app to create music tracks overlaying your own vocals
-      <hr/>
-      
-      - *Snapchat helped pioneer the use of lenses on faces in photos and videos to turn ordinary picture messages into fantastical creations where humans can look like, say, cats, and even cats can wear festival-chic flower crowns. Now it sounds like the company migh…*
        
-  - Index ventures into Latin America to back Sofia, a Mexico City-based telemedicine and health insurer
-      <hr/>
-       
-       - *Arturo Sanchez and his co-founders have spent the past two years developing the telemedicine and insurance platform, Sofia, as a way to give customers across Mexico better access to quality healthcare through their insurance plan. Along with his co-founders, …*
+       - *With Roblox joining the end-of-year unicorn stampede towards the public markets, we’re set for a contentedly busy second half of November and early December. I hope you didn’t have vacation planned in the next few weeks. This morning we need to get deeper int…*
       
 
 <br />
