@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - OneWeb emerges from bankruptcy, aims to begin launching satellites again on December 17
+  - LA-based Credit Key raises $33 million for its business-to-business payments platform
      <hr/>
      
-      - *Broadband communication satellite company OneWeb has emerged from its Chapter 11 bankruptcy protection status, the company announced today. It’s now also officially owned by a consortium consisting of the UK government and India’s Bharti Global, and Neil Mast…*
+      - *Bringing the buy-now pay-later model that transformed companies like Klarna and Affirm into billion dollar businesses to small businesses across the U.S. has netted the payment and lending company Credit Key another $33.85 million in funding. The Los Angeles-…*
      
+  - AllRight , an English learning app for children, raises $5M to scale-up from Genesis Investments
+      <hr/>
+      
+      - *AllRight is a platform for English language learning, aimed at children four years or older, which combines lessons with real teachers and homework with ‘AI-powered’ tutors. It’s now raised a $5 million Series A round led by Genesis Investments, with particip…*
+      
+  - Wish files to go public with 100M monthly actives, $1.75B in 2020 revenue thus far
+      <hr/>
+      
+      - *This morning Wish, a well-known mobile ecommerce startup, filed to go public. It joins Affirm, Airbnb, and Roblox in filing this week as many well-known and valuable private companies look to debut before the year ends and the holidays start. Wish’s S-1 (whic…*
+      
+  - OneWeb emerges from bankruptcy, aims to begin launching satellites again on December 17
+      <hr/>
+      
+      - *Broadband communication satellite company OneWeb has emerged from its Chapter 11 bankruptcy protection status, the company announced today. It’s now also officially owned by a consortium consisting of the UK government and India’s Bharti Global, and Neil Mast…*
+       
   - Neatsy wants to reduce sneaker returns with 3D foot scans
       <hr/>
-      
-      - *U.S.-based startup Neatsy AI is using the iPhone’s depth-sensing FaceID selfie camera as a foot scanner to capture 3D models for predicting a comfortable sneaker fit. Its app, currently soft launched for iOS but due to launch officially next month, asks the u…*
-      
-  - Reddit appoints second Black board member this year
-      <hr/>
-      
-      - *Reddit has appointed Paula Price, who has served on the board of six public companies, including Accenture and Deutsche Bank, to its board of directors. Price’s appointment makes her one of two Black directors on the company’s board. “Paula’s vast experience …*
-      
-  - Pfizer and BioNTech to submit request for emergency use approval of their COVID-19 vaccine today
-      <hr/>
-      
-      - *Two of the companies behind one of the leading COVID-19 vaccine candidates will seek approval from the U.S. Food and Drug Administration for emergency use authorization (EUA) of their preventative treatment with an application to be delivered today. Pfizer an…*
        
-  - India approves Reliance's $3.4 billion deal with Future Group, brings a new headache to Amazon
-      <hr/>
-       
-       - *The Indian watchdog said on Friday it has approved the $3.4 billion deal between the nation’s two largest retail giants, Future Group and Reliance Retail, posing a new headache for American e-commerce group Amazon in the key overseas market. The Competition C…*
+       - *U.S.-based startup Neatsy AI is using the iPhone’s depth-sensing FaceID selfie camera as a foot scanner to capture 3D models for predicting a comfortable sneaker fit. Its app, currently soft launched for iOS but due to launch officially next month, asks the u…*
       
 
 <br />
