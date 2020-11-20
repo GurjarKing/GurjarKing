@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Mixtape podcast: Building a structural DEI response to a systemic issue with Y-Vonne Hutchinson
+  - Steve Case's Revolution is targeting $500 million for its fourth growth fund
      <hr/>
      
-      - *It’s time for another episode of Mixtape, where we take a look at diversity, inclusion, equity and the human labor that powers tech. This week we spoke to Y-Vonne Hutchinson, the CEO of ReadySet, a consulting firm that works with companies to create more incl…*
+      - *Revolution, the Washington, D.C.-based investment firm founded by AOL cofounder CEO Steve Case and former AOL senior exec Ted Leonsis, is raising $500 million for its fourth fund, shows a new SEC filing. Asked about the effort earlier today, the firm declined…*
      
+  - Mixtape podcast: Building a structural DEI response to a systemic issue with Y-Vonne Hutchinson
+      <hr/>
+      
+      - *It’s time for another episode of Mixtape, where we take a look at diversity, inclusion, equity and the human labor that powers tech. This week we spoke to Y-Vonne Hutchinson, the CEO of ReadySet, a consulting firm that works with companies to create more incl…*
+      
   - After Apple’s M1 launch, Intel announces its own white-label laptop
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Sound Ventures, a fund co-founded by Ashton Kutcher and Guy Oseary, has filed paperwork indicating plans to raise a third fund at $150 million. Notably, the firm filed paperwork for the same total in 2018 for its second fund. The firm did not immediately resp…*
-      
+       
   - Robotaxi companies get the green light to charge for rides in California
       <hr/>
-      
-      - *Companies that launch robotaxi services in California will be able to charge for and offer shared driverless rides as long as they can navigate a new government approval process that some in the industry argues adds unnecessary bureaucracy that could delay de…*
        
-  - FireEye acquires Respond Software for $186M, announces $400M investment
-      <hr/>
-       
-       - *The security sector is ever frothy and acquisitive. Just last week Palo Alto Networks grabbed Expanse for $800 million. Today it was FireEye’s turn snagging Respond Software, a company that helps customers investigate and understand security incidents, while …*
+       - *Companies that launch robotaxi services in California will be able to charge for and offer shared driverless rides as long as they can navigate a new government approval process that some in the industry argues adds unnecessary bureaucracy that could delay de…*
       
 
 <br />
