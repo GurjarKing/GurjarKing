@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Astanor Ventures launches $325M  Impact Fund aimed at FoodTech and AgTech startups
+  - Charge's City is an e-bike for everyone
      <hr/>
      
-      - *We can all, by now, ascribe to the idea that something has changed in the last few months. Like it or not, business is not as it was. If we were true to ourselves, we would admit that our lives will never be the name again. But parallel to this visceral feeli…*
+      - *Charge Bikes founder Nick Larsen and VP of product Peter Vallance wanted to reduce the pain points of buying and owning an electric bike to attract everyday folks and cycling enthusiasts alike. The company offers three models: the Comfort for weekend leisure …*
      
+  - How four European cities are embracing micromobility to drive out cars
+      <hr/>
+      
+      - *The coronavirus pandemic is acting as a catalyst for urban transformation across Europe as city authorities grapple with how to manage urban mobility without risking citizens’ health or inviting gridlock by letting cars flood in. Micromobility and local comme…*
+      
+  - How China's Realme sold 50 million phones in just over 2 years
+      <hr/>
+      
+      - *Starting a new phone brand in 2018 might seem too late in an already crowded market, but Sky Li was convinced that consumers between 18-25 years old were largely under-served — they needed something that was both affordable and cool. A few months after Li fou…*
+      
+  - Astanor Ventures launches $325M  Impact Fund aimed at FoodTech and AgTech startups
+      <hr/>
+      
+      - *We can all, by now, ascribe to the idea that something has changed in the last few months. Like it or not, business is not as it was. If we were true to ourselves, we would admit that our lives will never be the name again. But parallel to this visceral feeli…*
+       
   - Rocket Lab makes its first booster recovery after successful launch
       <hr/>
-      
-      - *New Zealand-born launch provider Rocket Lab took a step towards making its launch vehicles reusable today with the safe splashdown and recovery of an Electron booster after it successfully took its payload to orbit. The image above is the view from the booste…*
-      
-  - With new cash and a former Apple exec now at the helm, Connect Homes is ready to reconstruct homebuilding
-      <hr/>
-      
-      - *Greg Leung had worked at Apple for years and was coming off of a stint at the smart lock company Otto, when he got the call to interview with Connect Homes. The pitch — building a starter home for a much lower cost than other prefabricated houses on the marke…*
-      
-  - Steve Case's Revolution is targeting $500 million for its fourth growth fund
-      <hr/>
-      
-      - *Revolution, the Washington, D.C.-based investment firm founded by AOL cofounder CEO Steve Case and former AOL senior exec Ted Leonsis, is raising $500 million for its fourth fund, shows a new SEC filing. Asked about the effort earlier today, the firm declined…*
        
-  - Mixtape podcast: Building a structural DEI response to a systemic issue with Y-Vonne Hutchinson
-      <hr/>
-       
-       - *It’s time for another episode of Mixtape, where we take a look at diversity, inclusion, equity and the human labor that powers tech. This week we spoke to Y-Vonne Hutchinson, the CEO of ReadySet, a consulting firm that works with companies to create more incl…*
+       - *New Zealand-born launch provider Rocket Lab took a step towards making its launch vehicles reusable today with the safe splashdown and recovery of an Electron booster after it successfully took its payload to orbit. The image above is the view from the booste…*
       
 
 <br />
