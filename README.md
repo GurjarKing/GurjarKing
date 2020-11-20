@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Snap acquired Voisey, an app to create music tracks overlaying your own vocals
+  - Google, Facebook and Twitter threaten to leave Pakistan over censorship law
      <hr/>
      
-      - *Snapchat helped pioneer the use of lenses on faces in photos and videos to turn ordinary picture messages into fantastical creations where humans can look like, say, cats, and even cats can wear festival-chic flower crowns. Now it sounds like the company migh…*
+      - *Global internet companies Facebook, Google and Twitter and others have banded together and threatened to leave Pakistan after the South Asian nation granted blanket powers to local regulators to censor digital content. Earlier this week, Pakistan Prime Minist…*
      
+  - What is Roblox worth?
+      <hr/>
+      
+      - *With Roblox joining the end-of-year unicorn stampede towards the public markets, we’re set for a contentedly busy second half of November and early December. I hope you didn’t have vacation planned in the next few weeks. This morning we need to get deeper int…*
+      
+  - Prices increase tonight for our space focused event, TC Sessions: Space
+      <hr/>
+      
+      - *“Space, the final frontier…” You can probably recite the “Star Trek” opening monologue in your sleep. But we’re talking science fact, not fiction, and TC Sessions: Space 2020 provides real opportunity to connect with the people, information and funding you ne…*
+      
+  - Snap acquired Voisey, an app to create music tracks overlaying your own vocals
+      <hr/>
+      
+      - *Snapchat helped pioneer the use of lenses on faces in photos and videos to turn ordinary picture messages into fantastical creations where humans can look like, say, cats, and even cats can wear festival-chic flower crowns. Now it sounds like the company migh…*
+       
   - Index ventures into Latin America to back Sofia, a Mexico City-based telemedicine and health insurer
       <hr/>
-      
-      - *Arturo Sanchez and his co-founders have spent the past two years developing the telemedicine and insurance platform, Sofia, as a way to give customers across Mexico better access to quality healthcare through their insurance plan. Along with his co-founders, …*
-      
-  - Can artificial intelligence give elephants a winning edge?
-      <hr/>
-      
-      - *With great technology, collaboration and a commitment to stop the Ivory trade that leads to most elephant deaths, there’s a real chance to save these singular creatures.*
-      
-  - If you didn’t make $1B this week, you are not doing VC right
-      <hr/>
-      
-      - *The only thing more rare than a unicorn is an exited unicorn. At TechCrunch, we cover a lot of startup financings, but we rarely get the opportunity to cover exits. This week was an exception though, as it was exitpalooza as Affirm, Roblox, Airbnb, and Wish a…*
        
-  - Why is GoCardless COO Carlos Gonzalez-Cadenas pivoting to become a full-time VC?
-      <hr/>
-       
-       - *Index Ventures, a London- and San Francisco-headquartered venture capital firm that primarily invests in Europe and the U.S., recently announced its latest partner. Carlos Gonzalez-Cadenas, currently COO of London-based fintech GoCardless and previously the c…*
+       - *Arturo Sanchez and his co-founders have spent the past two years developing the telemedicine and insurance platform, Sofia, as a way to give customers across Mexico better access to quality healthcare through their insurance plan. Along with his co-founders, …*
       
 
 <br />
