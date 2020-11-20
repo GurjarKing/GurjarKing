@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Apple Tacks
+  - Mixtape podcast: Building a structural DEI response to a systemic issue with Y-Vonne Hutchinson
      <hr/>
      
-      - *When the music’s over, turn out the lights. Back in the day, The Doors were one of a number of 60s rock groups to surface around the intersection of blues, R&B, and a cultural shift that challenged our notions of who was in charge. The Doors were a four-piece…*
+      - *It’s time for another episode of Mixtape, where we take a look at diversity, inclusion, equity and the human labor that powers tech. This week we spoke to Y-Vonne Hutchinson, the CEO of ReadySet, a consulting firm that works with companies to create more incl…*
      
-  - Amazon’s drone delivery team hit with layoffs amid reorganization
+  - After Apple’s M1 launch, Intel announces its own white-label laptop
       <hr/>
       
-      - *Amazon has confirmed an early Financial Times report outlining layoffs at the retail giant’s Prime Air drone delivery program. “As part of our regular business operations, we are reorganizing one small team within our larger Prime Air organization to allow us…*
+      - *Its long fruitful relationship with Apple may be sunsetting soon, but Intel’s still got a fairly massive footprint in the PC market. There’s never a good time to get complacent, though (a lesson the company learned the hard way on the mobile front). This week…*
       
-  - Iconic Arecibo radio telescope to be dismantled after 57-year run
+  - Ashton Kutcher's Sound Ventures targets $150M for third fund
       <hr/>
       
-      - *The famous Arecibo radio telescope in Puerto Rico, which has provided an invaluable service to scientists for 57 years as well as establishing itself in popular culture, will be dismantled after it incurred irreparable damage in recent months. The enormous ob…*
+      - *Sound Ventures, a fund co-founded by Ashton Kutcher and Guy Oseary, has filed paperwork indicating plans to raise a third fund at $150 million. Notably, the firm filed paperwork for the same total in 2018 for its second fund. The firm did not immediately resp…*
       
-  - Fintech unicorn Affirm has a lot of eggs in one basket
+  - Robotaxi companies get the green light to charge for rides in California
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week wound being incredibly busy. What else would a week that included both the Airbnb and Affirm IPO fili…*
+      - *Companies that launch robotaxi services in California will be able to charge for and offer shared driverless rides as long as they can navigate a new government approval process that some in the industry argues adds unnecessary bureaucracy that could delay de…*
        
-  - Transfr raises $12M Series A to bring virtual reality to manufacturing-plant floors
+  - FireEye acquires Respond Software for $186M, announces $400M investment
       <hr/>
        
-       - *The coronavirus has displaced millions of workers across the country. In order to recover, companies must focus on re-skilling their workforces in a measured and sustainable way. However, training and recruitment can cost hundreds of thousands of dollars for …*
+       - *The security sector is ever frothy and acquisitive. Just last week Palo Alto Networks grabbed Expanse for $800 million. Today it was FireEye’s turn snagging Respond Software, a company that helps customers investigate and understand security incidents, while …*
       
 
 <br />
