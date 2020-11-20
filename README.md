@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Charge's City is an e-bike for everyone
+  - Reddit appoints second Black board member this year
      <hr/>
      
-      - *Charge Bikes founder Nick Larsen and VP of product Peter Vallance wanted to reduce the pain points of buying and owning an electric bike to attract everyday folks and cycling enthusiasts alike. The company offers three models: the Comfort for weekend leisure …*
+      - *Reddit has appointed Paula Price, who has served on the board of six public companies, including Accenture and Deutsche Bank, to its board of directors. Price’s appointment makes her one of two Black directors on the company’s board. “Paula’s vast experience …*
      
+  - Pfizer and BioNTech to submit request for emergency use approval of their COVID-19 vaccine today
+      <hr/>
+      
+      - *Two of the companies behind one of the leading COVID-19 vaccine candidates will seek approval from the U.S. Food and Drug Administration for emergency use authorization (EUA) of their preventative treatment with an application to be delivered today. Pfizer an…*
+      
+  - India approves Reliance's $3.4 billion deal with Future Group, brings a new headache to Amazon
+      <hr/>
+      
+      - *The Indian watchdog said on Friday it has approved the $3.4 billion deal between the nation’s two largest retail giants, Future Group and Reliance Retail, posing a new headache for American e-commerce group Amazon in the key overseas market. The Competition C…*
+      
+  - Charge's City is an e-bike for everyone
+      <hr/>
+      
+      - *Charge Bikes founder Nick Larsen and VP of product Peter Vallance wanted to reduce the pain points of buying and owning an electric bike to attract everyday folks and cycling enthusiasts alike. The company offers three models: the Comfort for weekend leisure …*
+       
   - How four European cities are embracing micromobility to drive out cars
       <hr/>
-      
-      - *The coronavirus pandemic is acting as a catalyst for urban transformation across Europe as city authorities grapple with how to manage urban mobility without risking citizens’ health or inviting gridlock by letting cars flood in. Micromobility and local comme…*
-      
-  - How China's Realme sold 50 million phones in just over 2 years
-      <hr/>
-      
-      - *Starting a new phone brand in 2018 might seem too late in an already crowded market, but Sky Li was convinced that consumers between 18-25 years old were largely under-served — they needed something that was both affordable and cool. A few months after Li fou…*
-      
-  - Astanor Ventures launches $325M  Impact Fund aimed at FoodTech and AgTech startups
-      <hr/>
-      
-      - *We can all, by now, ascribe to the idea that something has changed in the last few months. Like it or not, business is not as it was. If we were true to ourselves, we would admit that our lives will never be the name again. But parallel to this visceral feeli…*
        
-  - Rocket Lab makes its first booster recovery after successful launch
-      <hr/>
-       
-       - *New Zealand-born launch provider Rocket Lab took a step towards making its launch vehicles reusable today with the safe splashdown and recovery of an Electron booster after it successfully took its payload to orbit. The image above is the view from the booste…*
+       - *The coronavirus pandemic is acting as a catalyst for urban transformation across Europe as city authorities grapple with how to manage urban mobility without risking citizens’ health or inviting gridlock by letting cars flood in. Micromobility and local comme…*
       
 
 <br />
