@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Reddit appoints second Black board member this year
+  - OneWeb emerges from bankruptcy, aims to begin launching satellites again on December 17
      <hr/>
      
-      - *Reddit has appointed Paula Price, who has served on the board of six public companies, including Accenture and Deutsche Bank, to its board of directors. Price’s appointment makes her one of two Black directors on the company’s board. “Paula’s vast experience …*
+      - *Broadband communication satellite company OneWeb has emerged from its Chapter 11 bankruptcy protection status, the company announced today. It’s now also officially owned by a consortium consisting of the UK government and India’s Bharti Global, and Neil Mast…*
      
+  - Neatsy wants to reduce sneaker returns with 3D foot scans
+      <hr/>
+      
+      - *U.S.-based startup Neatsy AI is using the iPhone’s depth-sensing FaceID selfie camera as a foot scanner to capture 3D models for predicting a comfortable sneaker fit. Its app, currently soft launched for iOS but due to launch officially next month, asks the u…*
+      
+  - Reddit appoints second Black board member this year
+      <hr/>
+      
+      - *Reddit has appointed Paula Price, who has served on the board of six public companies, including Accenture and Deutsche Bank, to its board of directors. Price’s appointment makes her one of two Black directors on the company’s board. “Paula’s vast experience …*
+      
   - Pfizer and BioNTech to submit request for emergency use approval of their COVID-19 vaccine today
       <hr/>
       
       - *Two of the companies behind one of the leading COVID-19 vaccine candidates will seek approval from the U.S. Food and Drug Administration for emergency use authorization (EUA) of their preventative treatment with an application to be delivered today. Pfizer an…*
-      
+       
   - India approves Reliance's $3.4 billion deal with Future Group, brings a new headache to Amazon
       <hr/>
-      
-      - *The Indian watchdog said on Friday it has approved the $3.4 billion deal between the nation’s two largest retail giants, Future Group and Reliance Retail, posing a new headache for American e-commerce group Amazon in the key overseas market. The Competition C…*
-      
-  - Charge's City is an e-bike for everyone
-      <hr/>
-      
-      - *Charge Bikes founder Nick Larsen and VP of product Peter Vallance wanted to reduce the pain points of buying and owning an electric bike to attract everyday folks and cycling enthusiasts alike. The company offers three models: the Comfort for weekend leisure …*
        
-  - How four European cities are embracing micromobility to drive out cars
-      <hr/>
-       
-       - *The coronavirus pandemic is acting as a catalyst for urban transformation across Europe as city authorities grapple with how to manage urban mobility without risking citizens’ health or inviting gridlock by letting cars flood in. Micromobility and local comme…*
+       - *The Indian watchdog said on Friday it has approved the $3.4 billion deal between the nation’s two largest retail giants, Future Group and Reliance Retail, posing a new headache for American e-commerce group Amazon in the key overseas market. The Competition C…*
       
 
 <br />
