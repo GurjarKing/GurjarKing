@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Restaurant search engine FoodBoss adds support for direct delivery from restaurants
+  - Extra Crunch roundup: A fistful of IPOs, Affirm's Peloton problem, Zoom Apps and more
      <hr/>
      
-      - *FoodBoss aims to be something like Kayak for online food ordering — the place where you can search across different service and apps to find the lowest prices and fastest delivery times. One limitation, however, is the fact that the service was limited to thi…*
+      - *DoorDash, Affirm, Roblox, Airbnb, C3.ai and Wish all filed to go public in recent days, which means some venture capitalists are having the best week of their lives. Tech companies that go public capture our imagination because they are literal happy endings.…*
      
+  - Restaurant search engine FoodBoss adds support for direct delivery from restaurants
+      <hr/>
+      
+      - *FoodBoss aims to be something like Kayak for online food ordering — the place where you can search across different service and apps to find the lowest prices and fastest delivery times. One limitation, however, is the fact that the service was limited to thi…*
+      
   - Walmart is buying JoyRun assets to add ‘peer-to-peer’ product delivery
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Kea is a new startup giving restaurants an opportunity to upgrade one of the more old-fashioned ways that they take orders — over the phone. Today, Kea is announcing that it has raised a $10 million Series A led by Marbruck, with participation from Streamline…*
-      
+       
   - Mobileye taps Luminar to supply lidar for its robotaxi fleet
       <hr/>
-      
-      - *Luminar, the buzzy sensor startup that is on the verge of becoming a publicly traded company, locked in a supplier deal to furnish Intel subsidiary Mobileye with lidar for its fleet of autonomous vehicles. The deal, announced Friday, will see a rising star pa…*
        
-  - A16z is now managing $16.5 billion, after announcing two new funds
-      <hr/>
-       
-       - *Andreessen Horowitz (a16z) has closed a pair of funds totaling $4.5 billion, the firm confirmed in a blog post this morning. The firm has raised $1.3 billion for an early-stage fund focused on consumer, enterprise, and fintech; and closed a $3.2 billion growt…*
+       - *Luminar, the buzzy sensor startup that is on the verge of becoming a publicly traded company, locked in a supplier deal to furnish Intel subsidiary Mobileye with lidar for its fleet of autonomous vehicles. The deal, announced Friday, will see a rising star pa…*
       
 
 <br />
