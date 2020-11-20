@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Walmart is buying JoyRun assets to add ‘peer-to-peer’ product delivery
+  - Restaurant search engine FoodBoss adds support for direct delivery from restaurants
      <hr/>
      
-      - *The last time we wrote about JoyRun, it was raising $10 million. Today, the Bay Area startup has some very different news to share, as it becomes part of Walmart as Walmart has purchased select assets in a bid to enhance its supply chain. The mega-retailer an…*
+      - *FoodBoss aims to be something like Kayak for online food ordering — the place where you can search across different service and apps to find the lowest prices and fastest delivery times. One limitation, however, is the fact that the service was limited to thi…*
      
+  - Walmart is buying JoyRun assets to add ‘peer-to-peer’ product delivery
+      <hr/>
+      
+      - *The last time we wrote about JoyRun, it was raising $10 million. Today, the Bay Area startup has some very different news to share, as it becomes part of Walmart as Walmart has purchased select assets in a bid to enhance its supply chain. The mega-retailer an…*
+      
   - Kea raises $10M to build AI that helps restaurants answer the phone
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Luminar, the buzzy sensor startup that is on the verge of becoming a publicly traded company, locked in a supplier deal to furnish Intel subsidiary Mobileye with lidar for its fleet of autonomous vehicles. The deal, announced Friday, will see a rising star pa…*
-      
+       
   - A16z is now managing $16.5 billion, after announcing two new funds
       <hr/>
-      
-      - *Andreessen Horowitz (a16z) has closed a pair of funds totaling $4.5 billion, the firm confirmed in a blog post this morning. The firm has raised $1.3 billion for an early-stage fund focused on consumer, enterprise, and fintech; and closed a $3.2 billion growt…*
        
-  - ORIX invests $60M in Israeli crowdfunding platform OurCrowd
-      <hr/>
-       
-       - *Japan-based financial services group ORIX Corporation today announced that it has made a $60 million strategic investment into the Israeli crowdsourcing platform OurCrowd. In return, the crowdfunding platform will provide the firm with access to its startup n…*
+       - *Andreessen Horowitz (a16z) has closed a pair of funds totaling $4.5 billion, the firm confirmed in a blog post this morning. The firm has raised $1.3 billion for an early-stage fund focused on consumer, enterprise, and fintech; and closed a $3.2 billion growt…*
       
 
 <br />
