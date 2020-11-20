@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Steve Case's Revolution is targeting $500 million for its fourth growth fund
+  - With new cash and a former Apple exec now at the helm, Connect Homes is ready to reconstruct homebuilding
      <hr/>
      
-      - *Revolution, the Washington, D.C.-based investment firm founded by AOL cofounder CEO Steve Case and former AOL senior exec Ted Leonsis, is raising $500 million for its fourth fund, shows a new SEC filing. Asked about the effort earlier today, the firm declined…*
+      - *Greg Leung had worked at Apple for years and was coming off of a stint at the smart lock company Otto, when he got the call to interview with Connect Homes. The pitch — building a starter home for a much lower cost than other prefabricated houses on the marke…*
      
+  - Steve Case's Revolution is targeting $500 million for its fourth growth fund
+      <hr/>
+      
+      - *Revolution, the Washington, D.C.-based investment firm founded by AOL cofounder CEO Steve Case and former AOL senior exec Ted Leonsis, is raising $500 million for its fourth fund, shows a new SEC filing. Asked about the effort earlier today, the firm declined…*
+      
   - Mixtape podcast: Building a structural DEI response to a systemic issue with Y-Vonne Hutchinson
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Its long fruitful relationship with Apple may be sunsetting soon, but Intel’s still got a fairly massive footprint in the PC market. There’s never a good time to get complacent, though (a lesson the company learned the hard way on the mobile front). This week…*
-      
+       
   - Ashton Kutcher's Sound Ventures targets $150M for third fund
       <hr/>
-      
-      - *Sound Ventures, a fund co-founded by Ashton Kutcher and Guy Oseary, has filed paperwork indicating plans to raise a third fund at $150 million. Notably, the firm filed paperwork for the same total in 2018 for its second fund. The firm did not immediately resp…*
        
-  - Robotaxi companies get the green light to charge for rides in California
-      <hr/>
-       
-       - *Companies that launch robotaxi services in California will be able to charge for and offer shared driverless rides as long as they can navigate a new government approval process that some in the industry argues adds unnecessary bureaucracy that could delay de…*
+       - *Sound Ventures, a fund co-founded by Ashton Kutcher and Guy Oseary, has filed paperwork indicating plans to raise a third fund at $150 million. Notably, the firm filed paperwork for the same total in 2018 for its second fund. The firm did not immediately resp…*
       
 
 <br />
