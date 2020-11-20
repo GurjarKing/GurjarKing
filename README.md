@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - LA-based Credit Key raises $33 million for its business-to-business payments platform
+  - Snap acquired Voisey, an app to create music tracks overlaying your own vocals
      <hr/>
      
-      - *Bringing the buy-now pay-later model that transformed companies like Klarna and Affirm into billion dollar businesses to small businesses across the U.S. has netted the payment and lending company Credit Key another $33.85 million in funding. The Los Angeles-…*
+      - *Snapchat helped pioneer the use of lenses on faces in photos and videos to turn ordinary picture messages into fantastical creations where humans can look like, say, cats, and even cats can wear festival-chic flower crowns. Now it sounds like the company migh…*
      
-  - AllRight , an English learning app for children, raises $5M to scale-up from Genesis Investments
+  - Index ventures into Latin America to back Sofia, a Mexico City-based telemedicine and health insurer
       <hr/>
       
-      - *AllRight is a platform for English language learning, aimed at children four years or older, which combines lessons with real teachers and homework with ‘AI-powered’ tutors. It’s now raised a $5 million Series A round led by Genesis Investments, with particip…*
+      - *Arturo Sanchez and his co-founders have spent the past two years developing the telemedicine and insurance platform, Sofia, as a way to give customers across Mexico better access to quality healthcare through their insurance plan. Along with his co-founders, …*
       
-  - Wish files to go public with 100M monthly actives, $1.75B in 2020 revenue thus far
+  - Can artificial intelligence give elephants a winning edge?
       <hr/>
       
-      - *This morning Wish, a well-known mobile ecommerce startup, filed to go public. It joins Affirm, Airbnb, and Roblox in filing this week as many well-known and valuable private companies look to debut before the year ends and the holidays start. Wish’s S-1 (whic…*
+      - *With great technology, collaboration and a commitment to stop the Ivory trade that leads to most elephant deaths, there’s a real chance to save these singular creatures.*
       
-  - OneWeb emerges from bankruptcy, aims to begin launching satellites again on December 17
+  - If you didn’t make $1B this week, you are not doing VC right
       <hr/>
       
-      - *Broadband communication satellite company OneWeb has emerged from its Chapter 11 bankruptcy protection status, the company announced today. It’s now also officially owned by a consortium consisting of the UK government and India’s Bharti Global, and Neil Mast…*
+      - *The only thing more rare than a unicorn is an exited unicorn. At TechCrunch, we cover a lot of startup financings, but we rarely get the opportunity to cover exits. This week was an exception though, as it was exitpalooza as Affirm, Roblox, Airbnb, and Wish a…*
        
-  - Neatsy wants to reduce sneaker returns with 3D foot scans
+  - Why is GoCardless COO Carlos Gonzalez-Cadenas pivoting to become a full-time VC?
       <hr/>
        
-       - *U.S.-based startup Neatsy AI is using the iPhone’s depth-sensing FaceID selfie camera as a foot scanner to capture 3D models for predicting a comfortable sneaker fit. Its app, currently soft launched for iOS but due to launch officially next month, asks the u…*
+       - *Index Ventures, a London- and San Francisco-headquartered venture capital firm that primarily invests in Europe and the U.S., recently announced its latest partner. Carlos Gonzalez-Cadenas, currently COO of London-based fintech GoCardless and previously the c…*
       
 
 <br />
