@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Mobileye taps Luminar to supply lidar for its robotaxi fleet
+  - Walmart is buying JoyRun assets to add ‘peer-to-peer’ product delivery
      <hr/>
      
-      - *Luminar, the buzzy sensor startup that is on the verge of becoming a publicly traded company, locked in a supplier deal to furnish Intel subsidiary Mobileye with lidar for its fleet of autonomous vehicles. The deal, announced Friday, will see a rising star pa…*
+      - *The last time we wrote about JoyRun, it was raising $10 million. Today, the Bay Area startup has some very different news to share, as it becomes part of Walmart as Walmart has purchased select assets in a bid to enhance its supply chain. The mega-retailer an…*
      
+  - Kea raises $10M to build AI that helps restaurants answer the phone
+      <hr/>
+      
+      - *Kea is a new startup giving restaurants an opportunity to upgrade one of the more old-fashioned ways that they take orders — over the phone. Today, Kea is announcing that it has raised a $10 million Series A led by Marbruck, with participation from Streamline…*
+      
+  - Mobileye taps Luminar to supply lidar for its robotaxi fleet
+      <hr/>
+      
+      - *Luminar, the buzzy sensor startup that is on the verge of becoming a publicly traded company, locked in a supplier deal to furnish Intel subsidiary Mobileye with lidar for its fleet of autonomous vehicles. The deal, announced Friday, will see a rising star pa…*
+      
   - A16z is now managing $16.5 billion, after announcing two new funds
       <hr/>
       
       - *Andreessen Horowitz (a16z) has closed a pair of funds totaling $4.5 billion, the firm confirmed in a blog post this morning. The firm has raised $1.3 billion for an early-stage fund focused on consumer, enterprise, and fintech; and closed a $3.2 billion growt…*
-      
+       
   - ORIX invests $60M in Israeli crowdfunding platform OurCrowd
       <hr/>
-      
-      - *Japan-based financial services group ORIX Corporation today announced that it has made a $60 million strategic investment into the Israeli crowdsourcing platform OurCrowd. In return, the crowdfunding platform will provide the firm with access to its startup n…*
-      
-  - Despite commitment to anti-racism, Uber's Black employee base has decreased
-      <hr/>
-      
-      - *Uber today released its latest diversity report, showing a decline in the overall representation of Black employees in the U.S. despite an increased focus on racial justice this year in the wake of the police killing of George Floyd. In 2019, Uber was 9.3% Bl…*
        
-  - Loadsmart raises $90 million to further consolidate its one-stop freight and logistics platform
-      <hr/>
-       
-       - *Leading on-demand digital freight platform Loadsmart has raised a $90 million Series C funding round, led by funds under management by BlackRock, and co-led by Chromo Invest. The funding will be used to continue to build out its platform to offer even more en…*
+       - *Japan-based financial services group ORIX Corporation today announced that it has made a $60 million strategic investment into the Israeli crowdsourcing platform OurCrowd. In return, the crowdfunding platform will provide the firm with access to its startup n…*
       
 
 <br />
