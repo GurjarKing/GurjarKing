@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Despite commitment to anti-racism, Uber's Black employee base has decreased
+  - ORIX invests $60M in Israeli crowdfunding platform OurCrowd
      <hr/>
      
-      - *Uber today released its latest diversity report, showing a decline in the overall representation of Black employees in the U.S. despite an increased focus on racial justice this year in the wake of the police killing of George Floyd. In 2019, Uber was 9.3% Bl…*
+      - *Japan-based financial services group ORIX Corporation today announced that it has made a $60 million strategic investment into the Israeli crowdsourcing platform OurCrowd. In return, the crowdfunding platform will provide the firm with access to its startup n…*
      
+  - Despite commitment to anti-racism, Uber's Black employee base has decreased
+      <hr/>
+      
+      - *Uber today released its latest diversity report, showing a decline in the overall representation of Black employees in the U.S. despite an increased focus on racial justice this year in the wake of the police killing of George Floyd. In 2019, Uber was 9.3% Bl…*
+      
   - Loadsmart raises $90 million to further consolidate its one-stop freight and logistics platform
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *You wait ages for foot scanning startups to help with the tricky fit issue that troubles online shoe shopping and then two come along at once: Launching today in time for Black Friday sprees is Xesto — which like Neatsy, which we wrote about earlier today, al…*
-      
+       
   - Google, Facebook and Twitter threaten to leave Pakistan over censorship law
       <hr/>
-      
-      - *Global internet companies Facebook, Google and Twitter and others have banded together and threatened to leave Pakistan after the South Asian nation granted blanket powers to local regulators to censor digital content. Earlier this week, Pakistan Prime Minist…*
        
-  - What is Roblox worth?
-      <hr/>
-       
-       - *With Roblox joining the end-of-year unicorn stampede towards the public markets, we’re set for a contentedly busy second half of November and early December. I hope you didn’t have vacation planned in the next few weeks. This morning we need to get deeper int…*
+       - *Global internet companies Facebook, Google and Twitter and others have banded together and threatened to leave Pakistan after the South Asian nation granted blanket powers to local regulators to censor digital content. Earlier this week, Pakistan Prime Minist…*
       
 
 <br />
