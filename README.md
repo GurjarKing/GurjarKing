@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - All IPOs should be paid for in Robux
+  - Watch SpaceX launch a satellite that will monitor the world's oceans
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This is an all-time first for the show, it’s an Equity Leftovers. Which means that we’re not focusing on a sing…*
+      - *SpaceX is set to launch a Falcon 9 from Vandenberg Air Force Base in California on Saturday morning, with a target liftoff time of 9:17 AM PST (12:17 PM EST). This is the Sentinel-6 Michael Freilich Mission, which carries a satellite of the same name develope…*
      
+  - All IPOs should be paid for in Robux
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This is an all-time first for the show, it’s an Equity Leftovers. Which means that we’re not focusing on a sing…*
+      
   - Daily Crunch: Roblox is going public
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *DoorDash, Affirm, Roblox, Airbnb, C3.ai and Wish all filed to go public in recent days, which means some venture capitalists are having the best week of their lives. Tech companies that go public capture our imagination because they are literal happy endings.…*
-      
+       
   - Restaurant search engine FoodBoss adds support for direct delivery from restaurants
       <hr/>
-      
-      - *FoodBoss aims to be something like Kayak for online food ordering — the place where you can search across different service and apps to find the lowest prices and fastest delivery times. One limitation, however, is the fact that the service was limited to thi…*
        
-  - Walmart is buying JoyRun assets to add ‘peer-to-peer’ product delivery
-      <hr/>
-       
-       - *The last time we wrote about JoyRun, it was raising $10 million. Today, the Bay Area startup has some very different news to share, as it becomes part of Walmart as Walmart has purchased select assets in a bid to enhance its supply chain. The mega-retailer an…*
+       - *FoodBoss aims to be something like Kayak for online food ordering — the place where you can search across different service and apps to find the lowest prices and fastest delivery times. One limitation, however, is the fact that the service was limited to thi…*
       
 
 <br />
