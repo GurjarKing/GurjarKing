@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Roblox is going public
+  - All IPOs should be paid for in Robux
      <hr/>
      
-      - *Roblox opens its books, Snap makes an acquisition and Pfizer and BioNTech seek regulatory approval for their vaccine. This your Daily Crunch for November 20, 2020. The big story: Roblox is going public The child-friendly gaming company filed confidentially to…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This is an all-time first for the show, it’s an Equity Leftovers. Which means that we’re not focusing on a sing…*
      
+  - Daily Crunch: Roblox is going public
+      <hr/>
+      
+      - *Roblox opens its books, Snap makes an acquisition and Pfizer and BioNTech seek regulatory approval for their vaccine. This your Daily Crunch for November 20, 2020. The big story: Roblox is going public The child-friendly gaming company filed confidentially to…*
+      
   - Extra Crunch roundup: A fistful of IPOs, Affirm's Peloton problem, Zoom Apps and more
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *FoodBoss aims to be something like Kayak for online food ordering — the place where you can search across different service and apps to find the lowest prices and fastest delivery times. One limitation, however, is the fact that the service was limited to thi…*
-      
+       
   - Walmart is buying JoyRun assets to add ‘peer-to-peer’ product delivery
       <hr/>
-      
-      - *The last time we wrote about JoyRun, it was raising $10 million. Today, the Bay Area startup has some very different news to share, as it becomes part of Walmart as Walmart has purchased select assets in a bid to enhance its supply chain. The mega-retailer an…*
        
-  - Kea raises $10M to build AI that helps restaurants answer the phone
-      <hr/>
-       
-       - *Kea is a new startup giving restaurants an opportunity to upgrade one of the more old-fashioned ways that they take orders — over the phone. Today, Kea is announcing that it has raised a $10 million Series A led by Marbruck, with participation from Streamline…*
+       - *The last time we wrote about JoyRun, it was raising $10 million. Today, the Bay Area startup has some very different news to share, as it becomes part of Walmart as Walmart has purchased select assets in a bid to enhance its supply chain. The mega-retailer an…*
       
 
 <br />
