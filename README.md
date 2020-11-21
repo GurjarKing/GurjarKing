@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch roundup: A fistful of IPOs, Affirm's Peloton problem, Zoom Apps and more
+  - Daily Crunch: Roblox is going public
      <hr/>
      
-      - *DoorDash, Affirm, Roblox, Airbnb, C3.ai and Wish all filed to go public in recent days, which means some venture capitalists are having the best week of their lives. Tech companies that go public capture our imagination because they are literal happy endings.…*
+      - *Roblox opens its books, Snap makes an acquisition and Pfizer and BioNTech seek regulatory approval for their vaccine. This your Daily Crunch for November 20, 2020. The big story: Roblox is going public The child-friendly gaming company filed confidentially to…*
      
+  - Extra Crunch roundup: A fistful of IPOs, Affirm's Peloton problem, Zoom Apps and more
+      <hr/>
+      
+      - *DoorDash, Affirm, Roblox, Airbnb, C3.ai and Wish all filed to go public in recent days, which means some venture capitalists are having the best week of their lives. Tech companies that go public capture our imagination because they are literal happy endings.…*
+      
   - Restaurant search engine FoodBoss adds support for direct delivery from restaurants
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *The last time we wrote about JoyRun, it was raising $10 million. Today, the Bay Area startup has some very different news to share, as it becomes part of Walmart as Walmart has purchased select assets in a bid to enhance its supply chain. The mega-retailer an…*
-      
+       
   - Kea raises $10M to build AI that helps restaurants answer the phone
       <hr/>
-      
-      - *Kea is a new startup giving restaurants an opportunity to upgrade one of the more old-fashioned ways that they take orders — over the phone. Today, Kea is announcing that it has raised a $10 million Series A led by Marbruck, with participation from Streamline…*
        
-  - Mobileye taps Luminar to supply lidar for its robotaxi fleet
-      <hr/>
-       
-       - *Luminar, the buzzy sensor startup that is on the verge of becoming a publicly traded company, locked in a supplier deal to furnish Intel subsidiary Mobileye with lidar for its fleet of autonomous vehicles. The deal, announced Friday, will see a rising star pa…*
+       - *Kea is a new startup giving restaurants an opportunity to upgrade one of the more old-fashioned ways that they take orders — over the phone. Today, Kea is announcing that it has raised a $10 million Series A led by Marbruck, with participation from Streamline…*
       
 
 <br />
