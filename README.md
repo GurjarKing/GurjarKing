@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - WhiteHat Jr's founder files $2.6M defamation suit against critic
+  - Original Content podcast: 'The Crown' introduces its Princess Diana
      <hr/>
      
-      - *Karan Bajaj, an Indian entrepreneur who teaches meditation and in a recent book guides others on how to avoid noise, is going after the most vocal critic of his startup. Bajaj, founder of coding platform aimed at kids WhiteHat Jr, has filed a defamation case …*
+      - *“The Crown,” Netflix’s lavish historical drama about the reign of Queen Elizabeth II, has returned for a fourth season that focuses on Elizabeth’s relationship with Prime Minister Margaret Thatcher, and on Prince Charles’ troubled marriage to Diana, Princess …*
      
+  - WhiteHat Jr's founder files $2.6M defamation suit against critic
+      <hr/>
+      
+      - *Karan Bajaj, an Indian entrepreneur who teaches meditation and in a recent book guides others on how to avoid noise, is going after the most vocal critic of his startup. Bajaj, founder of coding platform aimed at kids WhiteHat Jr, has filed a defamation case …*
+      
   - Week in Review: Venture-backed loneliness
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Fleets live on Twitter's servers for up to 30 days.*
-      
+       
   - How the pandemic drove the IPO wave we see today
       <hr/>
-      
-      - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. I had a neat look into the world of mental health startup fundraising planned for this week, but after being sl…*
        
-  - Human Capital: Uber's Black employee base shrinks
-      <hr/>
-       
-       - *Welcome back to Human Capital, where I break down the latest in diversity, equity and inclusion, and labor in tech. TL;DR: This week, Apple announced its third head of diversity and inclusion in four years, Uber’s Black employee base shrunk despite the compan…*
+       - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. I had a neat look into the world of mental health startup fundraising planned for this week, but after being sl…*
       
 
 <br />
