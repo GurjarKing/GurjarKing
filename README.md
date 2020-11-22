@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: Uber's Black employee base shrinks
+  - A bug meant Twitter Fleets could still be seen after they disappear
      <hr/>
      
-      - *Welcome back to Human Capital, where I break down the latest in diversity, equity and inclusion, and labor in tech. TL;DR: This week, Apple announced its third head of diversity and inclusion in four years, Uber’s Black employee base shrunk despite the compan…*
+      - *Fleets live on Twitter's servers for up to 30 days.*
      
+  - Human Capital: Uber's Black employee base shrinks
+      <hr/>
+      
+      - *Welcome back to Human Capital, where I break down the latest in diversity, equity and inclusion, and labor in tech. TL;DR: This week, Apple announced its third head of diversity and inclusion in four years, Uber’s Black employee base shrunk despite the compan…*
+      
   - How the pandemic drove the IPO wave we see today
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *For some of the most awaited Silicon Valley tech companies of the decade, this week looked good enough to file for IPOs*
-      
+       
   - Hulu UX teardown: 5 user experience fails and how to fix them
       <hr/>
-      
-      - *Hulu is the first major streaming platform to offer a social watching experience. And with most major league sports now being allowed to resume behind closed doors, Hulu’s combined proposition with ESPN will likely help entertain the service’s 30+ million use…*
        
-  - This Week in Apps: Apple slashes commissions, Twitter launches Fleets, warnings about Parler
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *Hulu is the first major streaming platform to offer a social watching experience. And with most major league sports now being allowed to resume behind closed doors, Hulu’s combined proposition with ESPN will likely help entertain the service’s 30+ million use…*
       
 
 <br />
