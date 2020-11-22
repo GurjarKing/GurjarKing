@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Week in Review: Venture-backed loneliness
+  - WhiteHat Jr's founder files $2.6M defamation suit against critic
      <hr/>
      
-      - *Hello everyone and welcome back to Week in Review! Natasha here, subbing in for Lucas while he’s out. This week, we’ll talk about loneliness raising money and how Zoom fatigue is fueling innovation. For everyone celebrating, happy holidays! Keep on the lookou…*
+      - *Karan Bajaj, an Indian entrepreneur who teaches meditation and in a recent book guides others on how to avoid noise, is going after the most vocal critic of his startup. Bajaj, founder of coding platform aimed at kids WhiteHat Jr, has filed a defamation case …*
      
+  - Week in Review: Venture-backed loneliness
+      <hr/>
+      
+      - *Hello everyone and welcome back to Week in Review! Natasha here, subbing in for Lucas while he’s out. This week, we’ll talk about loneliness raising money and how Zoom fatigue is fueling innovation. For everyone celebrating, happy holidays! Keep on the lookou…*
+      
   - A bug meant Twitter Fleets could still be seen after they disappear
       <hr/>
       
       - *Fleets live on Twitter's servers for up to 30 days.*
-      
-  - Human Capital: Uber's Black employee base shrinks
-      <hr/>
-      
-      - *Welcome back to Human Capital, where I break down the latest in diversity, equity and inclusion, and labor in tech. TL;DR: This week, Apple announced its third head of diversity and inclusion in four years, Uber’s Black employee base shrunk despite the compan…*
       
   - How the pandemic drove the IPO wave we see today
       <hr/>
       
       - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. I had a neat look into the world of mental health startup fundraising planned for this week, but after being sl…*
        
-  - Affirm, Airbnb, C3.ai, Roblox, Wish file for tech IPO finale of 2020
+  - Human Capital: Uber's Black employee base shrinks
       <hr/>
        
-       - *For some of the most awaited Silicon Valley tech companies of the decade, this week looked good enough to file for IPOs*
+       - *Welcome back to Human Capital, where I break down the latest in diversity, equity and inclusion, and labor in tech. TL;DR: This week, Apple announced its third head of diversity and inclusion in four years, Uber’s Black employee base shrunk despite the compan…*
       
 
 <br />
