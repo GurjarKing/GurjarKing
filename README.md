@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Original Content podcast: 'The Crown' introduces its Princess Diana
+  - The promise and challenge of Roblox's future in China
      <hr/>
      
-      - *“The Crown,” Netflix’s lavish historical drama about the reign of Queen Elizabeth II, has returned for a fourth season that focuses on Elizabeth’s relationship with Prime Minister Margaret Thatcher, and on Prince Charles’ troubled marriage to Diana, Princess …*
+      - *In a much-anticipated move, California-based gaming firm Roblox filed to go public last week. One aspect driving the future growth of the children- and community-focused gaming platform is its China entry, which it fleshes out in detail for the first time in …*
      
+  - Original Content podcast: 'The Crown' introduces its Princess Diana
+      <hr/>
+      
+      - *“The Crown,” Netflix’s lavish historical drama about the reign of Queen Elizabeth II, has returned for a fourth season that focuses on Elizabeth’s relationship with Prime Minister Margaret Thatcher, and on Prince Charles’ troubled marriage to Diana, Princess …*
+      
   - WhiteHat Jr's founder files $2.6M defamation suit against critic
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Hello everyone and welcome back to Week in Review! Natasha here, subbing in for Lucas while he’s out. This week, we’ll talk about loneliness raising money and how Zoom fatigue is fueling innovation. For everyone celebrating, happy holidays! Keep on the lookou…*
-      
+       
   - A bug meant Twitter Fleets could still be seen after they disappear
       <hr/>
-      
-      - *Fleets live on Twitter's servers for up to 30 days.*
        
-  - How the pandemic drove the IPO wave we see today
-      <hr/>
-       
-       - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. I had a neat look into the world of mental health startup fundraising planned for this week, but after being sl…*
+       - *Fleets live on Twitter's servers for up to 30 days.*
       
 
 <br />
