@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gift Guide: 7 great gifts for anyone working from home
+  - Netflix commits $1 billion to make New Mexico home to one of the world's largest studios
      <hr/>
      
-      - *Let’s just get this out of the way: for the past several years, I’ve contributed the “Best Gifts for Frequent Travelers” segment to TechCrunch’s annual gift guide. I love it. It was easily my favorite gift guide to write, and it was an audience favorite, as w…*
+      - *Netflix is committing $1 billion in production spend at its ABQ Studios in Albuquerque, New Mexico along with plans to expand those studios, the company said. In an announcement alongside New Mexico’s Governor, Michelle Lujan Grisham, and Albuquerque Mayor, T…*
      
+  - Gift Guide: 7 great gifts for anyone working from home
+      <hr/>
+      
+      - *Let’s just get this out of the way: for the past several years, I’ve contributed the “Best Gifts for Frequent Travelers” segment to TechCrunch’s annual gift guide. I love it. It was easily my favorite gift guide to write, and it was an audience favorite, as w…*
+      
   - Will Brazil’s Roaring 20s see the rise of early-stage startups?
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Two large job search and recruiting platforms are coming together, with Vettery acquiring Hired. The news follows a report last week in The Information claiming that Hired had begun to sell off its assets and wind down the company. The report also stated that…*
-      
+       
   - GM dumps Trump to side with California in emissions rules fight
       <hr/>
-      
-      - *General Motors is changing sides in a battle over whether states — and specifically California — can set tailpipe emissions regulations and other rules meant to mitigate climate change that are stricter than the federal government. The automaker said Monday i…*
        
-  - Approaching commercialization for its autonomous radar nav system, Lunewave raises $7 million
-      <hr/>
-       
-       - *Lunewave, the Arizona-based startup developing a novel technology for radars for autonomous vehicles, has raised $7 million in financing as it gets ready for the commercial rollout of its systems. The company’s latest financing came from Proeza entures, Blue …*
+       - *General Motors is changing sides in a battle over whether states — and specifically California — can set tailpipe emissions regulations and other rules meant to mitigate climate change that are stricter than the federal government. The automaker said Monday i…*
       
 
 <br />
