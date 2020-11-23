@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Watch live as SpaceX tests the limits of Falcon 9 reusability with sixteenth Starlink satellite launch
+  - Netflix says 'The Queen's Gambit' is setting viewership records
      <hr/>
      
-      - *SpaceX is set to launch its sixteenth Starlink mission on Monday at 9:34 PM EST (6:34 PM PST). This launch will carry 60 of the company’s broadband internet satellites to low-Earth orbit, where they’ll join the existing constellation and contribute to its gro…*
+      - *“The Queen’s Gambit” is setting viewership records at Netflix, the streaming service said today. Like all the viewership data that Netflix has released this year, these new numbers reflect how many people “chose to watch” — in other words, how many people wat…*
      
+  - Founders seeking their first check need a fundraising sales funnel
+      <hr/>
+      
+      - *CEO and co-founder of music tech startup Stem Milana Lewis explains how she landed several superstar investors and raised a little under $22 million.*
+      
+  - Watch live as SpaceX tests the limits of Falcon 9 reusability with sixteenth Starlink satellite launch
+      <hr/>
+      
+      - *SpaceX is set to launch its sixteenth Starlink mission on Monday at 9:34 PM EST (6:34 PM PST). This launch will carry 60 of the company’s broadband internet satellites to low-Earth orbit, where they’ll join the existing constellation and contribute to its gro…*
+      
   - Investors Lockheed Martin Ventures and SpaceFund are coming to TC Sessions: Space 2020
       <hr/>
       
       - *The space industry, once dominated by government-funded programs and a small handful of corporations, has seen a surge in startups in recent years. And with startups aplenty, the venture firms can never be far behind. Venture capital has played an increasingl…*
-      
+       
   - Uber refused permission to dismiss 11 staff at its EMEA HQ
       <hr/>
-      
-      - *Uber has been refused permission to dismiss 11 people at its EMEA headquarters in Amsterdam by the Dutch Employee Insurance Agency (UWV), the ride hailing company has confirmed. The affected individuals did not take up an earlier severance offer as part of wi…*
-      
-  - Relativity Space raises $500 million as its sets sights on the industrialization of Mars
-      <hr/>
-      
-      - *3D-printed rocket startup Relativity Space has closed $500 million in Series D funding (making official the earlier reported raise), the company announced today. This funding was led by Tiger Global Management, and included participation by a host of new inve…*
        
-  - The EPA says the Ford Mustang Mach-E's electric range is a lackluster 211-300 miles
-      <hr/>
-       
-       - *The EPA just released its findings on the Mustang Mach-E, and it’s a mixture of good news and bad news. Depending on the model, the EPA says the Mach-E is good for just 211 miles to 300 miles on a charge. On the one hand, the Mach-E matched Ford’s range targe…*
+       - *Uber has been refused permission to dismiss 11 people at its EMEA headquarters in Amsterdam by the Dutch Employee Insurance Agency (UWV), the ride hailing company has confirmed. The affected individuals did not take up an earlier severance offer as part of wi…*
       
 
 <br />
