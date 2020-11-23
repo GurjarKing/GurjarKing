@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Approaching commercialization for its autonomous radar nav system, Lunewave raises $7 million
+  - Gift Guide: 7 great gifts for anyone working from home
      <hr/>
      
-      - *Lunewave, the Arizona-based startup developing a novel technology for radars for autonomous vehicles, has raised $7 million in financing as it gets ready for the commercial rollout of its systems. The company’s latest financing came from Proeza entures, Blue …*
+      - *Let’s just get this out of the way: for the past several years, I’ve contributed the “Best Gifts for Frequent Travelers” segment to TechCrunch’s annual gift guide. I love it. It was easily my favorite gift guide to write, and it was an audience favorite, as w…*
      
-  - Amazon’s Echo Buds get new fitness tracking features
+  - Will Brazil’s Roaring 20s see the rise of early-stage startups?
       <hr/>
       
-      - *I wasn’t super impressed when I reviewed the Echo Buds around this time last year, but Amazon’s first shot at Alexa-powered fully wireless earbuds was passable. And while they’ve already been on the market for a while now, the company’s continuing to deliver …*
+      - *The capital market boom might be temporary, but the emergence of a new economy in Brazil supported by new local investors and new players is a trend that has been building up for some time*
       
-  - The downfall of ad tech means the trust economy is here
+  - Vettery acquires Hired to create a 'unified' job search platform
       <hr/>
       
-      - *Richard Jones Contributor Share on Twitter Richard is CMO of Cheetah Digital, a cross-channel customer engagement solution provider. As an expert in zero-party data, he is committed to helping brands provide a value exchange with consumers through the lifecyc…*
+      - *Two large job search and recruiting platforms are coming together, with Vettery acquiring Hired. The news follows a report last week in The Information claiming that Hired had begun to sell off its assets and wind down the company. The report also stated that…*
       
-  - 7 things we just learned about Sequoia's European expansion plans
+  - GM dumps Trump to side with California in emissions rules fight
       <hr/>
       
-      - *Sequoia Capital, the renowned Silicon Valley venture capital firm that has backed companies like Apple, Google, Dropbox, Airbnb and Stripe, recently disclosed that it had opened its first office in Europe. To staff up, it hired partner Luciana Lixandru away f…*
+      - *General Motors is changing sides in a battle over whether states — and specifically California — can set tailpipe emissions regulations and other rules meant to mitigate climate change that are stricter than the federal government. The automaker said Monday i…*
        
-  - Gift Guide: Which next-gen console is the one your kid wants?
+  - Approaching commercialization for its autonomous radar nav system, Lunewave raises $7 million
       <hr/>
        
-       - *This holiday season the next generation of gamers, bless their hearts, will be hoping to receive the next generation of gaming consoles. But confusing branding by the console makers — not to mention a major shortage of consoles — could lead to disappointment …*
+       - *Lunewave, the Arizona-based startup developing a novel technology for radars for autonomous vehicles, has raised $7 million in financing as it gets ready for the commercial rollout of its systems. The company’s latest financing came from Proeza entures, Blue …*
       
 
 <br />
