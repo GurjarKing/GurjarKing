@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gartner: Q3 smartphone sales down 5.7% to 366M, stemming Covid-19 declines earlier this year
+  - Oxford University's COVID-19 vaccine shows high efficacy, and is cheaper to make and easier to store
      <hr/>
      
-      - *As we head into the all-important holiday sales period, new numbers from Gartner point to some recovery for the smartphone market as vendors roll out a raft of new 5G handsets. Q3 smartphone figures published today showed that smartphone unit sales declined 5…*
+      - *Oxford University’s COVID-19 vaccine, being developed in partnership with drugmaker AstraZeneca, has shown to be 70.4% effective in preliminary results from its Phase 3 clinical trial. That rate actually includes data from two different approaches to dosing, …*
      
+  - Gartner: Q3 smartphone sales down 5.7% to 366M, stemming Covid-19 declines earlier this year
+      <hr/>
+      
+      - *As we head into the all-important holiday sales period, new numbers from Gartner point to some recovery for the smartphone market as vendors roll out a raft of new 5G handsets. Q3 smartphone figures published today showed that smartphone unit sales declined 5…*
+      
   - The promise and challenge of Roblox's future in China
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *“The Crown,” Netflix’s lavish historical drama about the reign of Queen Elizabeth II, has returned for a fourth season that focuses on Elizabeth’s relationship with Prime Minister Margaret Thatcher, and on Prince Charles’ troubled marriage to Diana, Princess …*
-      
+       
   - WhiteHat Jr's founder files $2.6M defamation suit against critic
       <hr/>
-      
-      - *Karan Bajaj, an Indian entrepreneur who teaches meditation and in a recent book guides others on how to avoid noise, is going after the most vocal critic of his startup. Bajaj, founder of coding platform aimed at kids WhiteHat Jr, has filed a defamation case …*
        
-  - Week in Review: Venture-backed loneliness
-      <hr/>
-       
-       - *Hello everyone and welcome back to Week in Review! Natasha here, subbing in for Lucas while he’s out. This week, we’ll talk about loneliness raising money and how Zoom fatigue is fueling innovation. For everyone celebrating, happy holidays! Keep on the lookou…*
+       - *Karan Bajaj, an Indian entrepreneur who teaches meditation and in a recent book guides others on how to avoid noise, is going after the most vocal critic of his startup. Bajaj, founder of coding platform aimed at kids WhiteHat Jr, has filed a defamation case …*
       
 
 <br />
