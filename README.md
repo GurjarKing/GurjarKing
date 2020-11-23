@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Netflix says 'The Queen's Gambit' is setting viewership records
+  - 7 things we just learned about Sequoia's European expansion plans
      <hr/>
      
-      - *“The Queen’s Gambit” is setting viewership records at Netflix, the streaming service said today. Like all the viewership data that Netflix has released this year, these new numbers reflect how many people “chose to watch” — in other words, how many people wat…*
+      - *Sequoia Capital, the renowned Silicon Valley venture capital firm that has backed companies like Apple, Google, Dropbox, Airbnb and Stripe, recently disclosed that it had opened its first office in Europe. To staff up, it hired partner Luciana Lixandru away f…*
      
+  - Gift Guide: Which next-gen console is the one your kid wants?
+      <hr/>
+      
+      - *This holiday season the next generation of gamers, bless their hearts, will be hoping to receive the next generation of gaming consoles. But confusing branding by the console makers — not to mention a major shortage of consoles — could lead to disappointment …*
+      
+  - Despite pandemic, forecasts predict U.S. online holiday sales increase of 20%-30% or more
+      <hr/>
+      
+      - *Strong e-commerce sales are predicted to help lift overall holiday retail spending in the U.S., according to forecasts released today by the National Retail Federation (NRF) and eMarketer. Both firms expect to see overall retail sales growth during November a…*
+      
+  - Netflix says 'The Queen's Gambit' is setting viewership records
+      <hr/>
+      
+      - *“The Queen’s Gambit” is setting viewership records at Netflix, the streaming service said today. Like all the viewership data that Netflix has released this year, these new numbers reflect how many people “chose to watch” — in other words, how many people wat…*
+       
   - Founders seeking their first check need a fundraising sales funnel
       <hr/>
-      
-      - *CEO and co-founder of music tech startup Stem Milana Lewis explains how she landed several superstar investors and raised a little under $22 million.*
-      
-  - Watch live as SpaceX tests the limits of Falcon 9 reusability with sixteenth Starlink satellite launch
-      <hr/>
-      
-      - *SpaceX is set to launch its sixteenth Starlink mission on Monday at 9:34 PM EST (6:34 PM PST). This launch will carry 60 of the company’s broadband internet satellites to low-Earth orbit, where they’ll join the existing constellation and contribute to its gro…*
-      
-  - Investors Lockheed Martin Ventures and SpaceFund are coming to TC Sessions: Space 2020
-      <hr/>
-      
-      - *The space industry, once dominated by government-funded programs and a small handful of corporations, has seen a surge in startups in recent years. And with startups aplenty, the venture firms can never be far behind. Venture capital has played an increasingl…*
        
-  - Uber refused permission to dismiss 11 staff at its EMEA HQ
-      <hr/>
-       
-       - *Uber has been refused permission to dismiss 11 people at its EMEA headquarters in Amsterdam by the Dutch Employee Insurance Agency (UWV), the ride hailing company has confirmed. The affected individuals did not take up an earlier severance offer as part of wi…*
+       - *CEO and co-founder of music tech startup Stem Milana Lewis explains how she landed several superstar investors and raised a little under $22 million.*
       
 
 <br />
