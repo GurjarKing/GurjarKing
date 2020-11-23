@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Corporate services platform Sleek lands $4 million in new funding
+  - Equity Monday: Good vaccine news, three rounds, and why IPOs are trending
      <hr/>
      
-      - *Sleek, the corporate services platform that helps entrepreneurs launch and run new companies in Singapore and Hong Kong, has raised $4 million. The new funding was led by SEEDS Capital, the investment arm of government agency Enterprise Singapore. Returning i…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
      
+  - Serenade snags $2.1M seed round to turn speech into code
+      <hr/>
+      
+      - *Several years ago Serenade co-founder Matt Wiethoff was a developer at Quora when he was diagnosed with a severe repetitive stress injury to his hand and couldn’t code. He and co-founder Tommy MacWilliam decided to use AI to create a tool that let him speak t…*
+      
+  - Friday app, a remote work tool, raises $2.1 million led by Bessemer
+      <hr/>
+      
+      - *Friday, an app looking to make remote work more efficient, has announced the close of a $2.1 million seed round led by Bessemer Venture Partners. Active Capital, Underscore, El Cap Holdings, TLC Collective, and New York Venture Partners also participated in t…*
+      
+  - Corporate services platform Sleek lands $4 million in new funding
+      <hr/>
+      
+      - *Sleek, the corporate services platform that helps entrepreneurs launch and run new companies in Singapore and Hong Kong, has raised $4 million. The new funding was led by SEEDS Capital, the investment arm of government agency Enterprise Singapore. Returning i…*
+       
   - Metigy gets $20 million AUD to making online marketing easier for SMEs
       <hr/>
-      
-      - *Metigy, a marketing platform created to help small businesses automate more of the decision making in their online ad campaigns, has raised a Series B of $20 million AUD (about $14.6 million USD). The new funding, led by returning investor Cygnet Capital, wil…*
-      
-  - Snapchat launches a TikTok-like feed called Spotlight, kick-started by paying creators
-      <hr/>
-      
-      - *After taking on TikTok with music-powered features last month, Snapchat this morning is officially launching a dedicated place within its app where users can watch short, entertaining videos in a vertically scrollable, TikTok-like feed. This new feature, call…*
-      
-  - Digital marketing firms file UK competition complaint against Google's Privacy Sandbox
-      <hr/>
-      
-      - *Google’s push to phase out third party tracking cookies — aka its ‘Privacy Sandbox’ initiative — is facing a competition challenge in Europe. A coalition of digital marketing companies announced today that it’s filed a complaint with the UK’s Competition an…*
        
-  - Resilience raises over $800 million to transform pharmaceutical manufacturing in response to COVID-19
-      <hr/>
-       
-       - *Resilience, a new biopharmaceutical company backed by $800 million in financing from investors including ARCH Venture Partners and 8VC, has emerged from stealth to transform the way that drugs and therapies are manufactured in the U.S. Founded by ARCH Venture…*
+       - *Metigy, a marketing platform created to help small businesses automate more of the decision making in their online ad campaigns, has raised a Series B of $20 million AUD (about $14.6 million USD). The new funding, led by returning investor Cygnet Capital, wil…*
       
 
 <br />
