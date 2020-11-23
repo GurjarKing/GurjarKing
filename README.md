@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook launches 'Drives,' a U.S.-only feature for collecting food, clothing and other necessities for people in need
+  - Relativity Space raises $500 million as its sets sights on the industrialization of Mars
      <hr/>
      
-      - *Facebook today is introducing a new feature that will allow users in the U.S. to collect food, clothing, and other necessities for people in need. The feature, called “Drives,” is being made available through Facebook’s existing Community Help hub, which is t…*
+      - *3D-printed rocket startup Relativity Space has closed $500 million in Series D funding (making official the earlier reported raise), the company announced today. This funding was led by Tiger Global Management, and included participation by a host of new inve…*
      
-  - Brexit's data compliance burden could cost UK firms up to £1.6BN, says think tank
+  - The EPA says the Ford Mustang Mach-E's electric range is a lackluster 211-300 miles
       <hr/>
       
-      - *An analysis of the total cost to UK businesses if the country fails to gain an adequacy agreement from the European Commission once it leaves the bloc at the end of the year — creating barriers to inbound data flows from the EU — suggests the price in pure co…*
+      - *The EPA just released its findings on the Mustang Mach-E, and it’s a mixture of good news and bad news. Depending on the model, the EPA says the Mach-E is good for just 211 miles to 300 miles on a charge. On the one hand, the Mach-E matched Ford’s range targe…*
       
-  - TC Sessions: Space Black Friday ticket sale starts today
+  - Mental health startups are raising spirits and venture capital
       <hr/>
       
-      - *Nothing signals the start of the holiday shopping season like a Black Friday sale. It’s been an incredibly challenging year for everyone on every level. We can’t change that, but we can make attending TC Sessions: Space 2020 more affordable a bit longer. Star…*
+      - *A spate of startups focused on mental health recently made enough noise as a group that they caught the eye of the Equity podcast crew. Sadly, the segment we’d planned to discuss this topic was swept away by a blizzard of IPO filings that piled up like fresh …*
       
-  - AvePoint to go public via SPAC valued at $2B
+  - Video mentoring platform Superpeer raises $8M and launches paid channels
       <hr/>
       
-      - *AvePoint, a company that gives enterprises using Microsoft Office 365, SharePoint and Teams a control layer on top of these tools, announced today that it would be going public via a SPAC merger with Apex Technology Acquisition Corporation in a deal that valu…*
+      - *Superpeer, a startup that helps experts share and monetize their knowledge online, is announcing that it has raised $8 million in additional funding. As I wrote in March, the Superpeer platform allows experts to promote, schedule and charge for one-on-one vid…*
        
-  - Cure Hydration raises $2.6M for its healthy sports drink alternative
+  - Gatik's self-driving box trucks to shuttle groceries for Loblaw in Canada
       <hr/>
        
-       - *Cure Hydration is announcing that it has raised $2.6 million in seed funding as it brings a healthier approach to the sports beverage market. Founder and CEO Lauren Picasso, whose past roles include serving as director of marketing at Jet.com, told me that sh…*
+       - *Gatik, the autonomous vehicle startup focused on the “middle mile,” is already using its self-driving box trucks to deliver customer online grocery orders for Walmart. Now, the company — freshly stocked with $25 million in Series A funding — is expanding up i…*
       
 
 <br />
