@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 7 things we just learned about Sequoia's European expansion plans
+  - Approaching commercialization for its autonomous radar nav system, Lunewave raises $7 million
      <hr/>
      
-      - *Sequoia Capital, the renowned Silicon Valley venture capital firm that has backed companies like Apple, Google, Dropbox, Airbnb and Stripe, recently disclosed that it had opened its first office in Europe. To staff up, it hired partner Luciana Lixandru away f…*
+      - *Lunewave, the Arizona-based startup developing a novel technology for radars for autonomous vehicles, has raised $7 million in financing as it gets ready for the commercial rollout of its systems. The company’s latest financing came from Proeza entures, Blue …*
      
+  - Amazon’s Echo Buds get new fitness tracking features
+      <hr/>
+      
+      - *I wasn’t super impressed when I reviewed the Echo Buds around this time last year, but Amazon’s first shot at Alexa-powered fully wireless earbuds was passable. And while they’ve already been on the market for a while now, the company’s continuing to deliver …*
+      
+  - The downfall of ad tech means the trust economy is here
+      <hr/>
+      
+      - *Richard Jones Contributor Share on Twitter Richard is CMO of Cheetah Digital, a cross-channel customer engagement solution provider. As an expert in zero-party data, he is committed to helping brands provide a value exchange with consumers through the lifecyc…*
+      
+  - 7 things we just learned about Sequoia's European expansion plans
+      <hr/>
+      
+      - *Sequoia Capital, the renowned Silicon Valley venture capital firm that has backed companies like Apple, Google, Dropbox, Airbnb and Stripe, recently disclosed that it had opened its first office in Europe. To staff up, it hired partner Luciana Lixandru away f…*
+       
   - Gift Guide: Which next-gen console is the one your kid wants?
       <hr/>
-      
-      - *This holiday season the next generation of gamers, bless their hearts, will be hoping to receive the next generation of gaming consoles. But confusing branding by the console makers — not to mention a major shortage of consoles — could lead to disappointment …*
-      
-  - Despite pandemic, forecasts predict U.S. online holiday sales increase of 20%-30% or more
-      <hr/>
-      
-      - *Strong e-commerce sales are predicted to help lift overall holiday retail spending in the U.S., according to forecasts released today by the National Retail Federation (NRF) and eMarketer. Both firms expect to see overall retail sales growth during November a…*
-      
-  - Netflix says 'The Queen's Gambit' is setting viewership records
-      <hr/>
-      
-      - *“The Queen’s Gambit” is setting viewership records at Netflix, the streaming service said today. Like all the viewership data that Netflix has released this year, these new numbers reflect how many people “chose to watch” — in other words, how many people wat…*
        
-  - Founders seeking their first check need a fundraising sales funnel
-      <hr/>
-       
-       - *CEO and co-founder of music tech startup Stem Milana Lewis explains how she landed several superstar investors and raised a little under $22 million.*
+       - *This holiday season the next generation of gamers, bless their hearts, will be hoping to receive the next generation of gaming consoles. But confusing branding by the console makers — not to mention a major shortage of consoles — could lead to disappointment …*
       
 
 <br />
