@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Oxford University's COVID-19 vaccine shows high efficacy, and is cheaper to make and easier to store
+  - Corporate services platform Sleek lands $4 million in new funding
      <hr/>
      
-      - *Oxford University’s COVID-19 vaccine, being developed in partnership with drugmaker AstraZeneca, has shown to be 70.4% effective in preliminary results from its Phase 3 clinical trial. That rate actually includes data from two different approaches to dosing, …*
+      - *Sleek, the corporate services platform that helps entrepreneurs launch and run new companies in Singapore and Hong Kong, has raised $4 million. The new funding was led by SEEDS Capital, the investment arm of government agency Enterprise Singapore. Returning i…*
      
-  - Gartner: Q3 smartphone sales down 5.7% to 366M, stemming Covid-19 declines earlier this year
+  - Metigy gets $20 million AUD to making online marketing easier for SMEs
       <hr/>
       
-      - *As we head into the all-important holiday sales period, new numbers from Gartner point to some recovery for the smartphone market as vendors roll out a raft of new 5G handsets. Q3 smartphone figures published today showed that smartphone unit sales declined 5…*
+      - *Metigy, a marketing platform created to help small businesses automate more of the decision making in their online ad campaigns, has raised a Series B of $20 million AUD (about $14.6 million USD). The new funding, led by returning investor Cygnet Capital, wil…*
       
-  - The promise and challenge of Roblox's future in China
+  - Snapchat launches a TikTok-like feed called Spotlight, kick-started by paying creators
       <hr/>
       
-      - *In a much-anticipated move, California-based gaming firm Roblox filed to go public last week. One aspect driving the future growth of the children- and community-focused gaming platform is its China entry, which it fleshes out in detail for the first time in …*
+      - *After taking on TikTok with music-powered features last month, Snapchat this morning is officially launching a dedicated place within its app where users can watch short, entertaining videos in a vertically scrollable, TikTok-like feed. This new feature, call…*
       
-  - Original Content podcast: 'The Crown' introduces its Princess Diana
+  - Digital marketing firms file UK competition complaint against Google's Privacy Sandbox
       <hr/>
       
-      - *“The Crown,” Netflix’s lavish historical drama about the reign of Queen Elizabeth II, has returned for a fourth season that focuses on Elizabeth’s relationship with Prime Minister Margaret Thatcher, and on Prince Charles’ troubled marriage to Diana, Princess …*
+      - *Google’s push to phase out third party tracking cookies — aka its ‘Privacy Sandbox’ initiative — is facing a competition challenge in Europe. A coalition of digital marketing companies announced today that it’s filed a complaint with the UK’s Competition an…*
        
-  - WhiteHat Jr's founder files $2.6M defamation suit against critic
+  - Resilience raises over $800 million to transform pharmaceutical manufacturing in response to COVID-19
       <hr/>
        
-       - *Karan Bajaj, an Indian entrepreneur who teaches meditation and in a recent book guides others on how to avoid noise, is going after the most vocal critic of his startup. Bajaj, founder of coding platform aimed at kids WhiteHat Jr, has filed a defamation case …*
+       - *Resilience, a new biopharmaceutical company backed by $800 million in financing from investors including ARCH Venture Partners and 8VC, has emerged from stealth to transform the way that drugs and therapies are manufactured in the U.S. Founded by ARCH Venture…*
       
 
 <br />
