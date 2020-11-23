@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The promise and challenge of Roblox's future in China
+  - Gartner: Q3 smartphone sales down 5.7% to 366M, stemming Covid-19 declines earlier this year
      <hr/>
      
-      - *In a much-anticipated move, California-based gaming firm Roblox filed to go public last week. One aspect driving the future growth of the children- and community-focused gaming platform is its China entry, which it fleshes out in detail for the first time in …*
+      - *As we head into the all-important holiday sales period, new numbers from Gartner point to some recovery for the smartphone market as vendors roll out a raft of new 5G handsets. Q3 smartphone figures published today showed that smartphone unit sales declined 5…*
      
+  - The promise and challenge of Roblox's future in China
+      <hr/>
+      
+      - *In a much-anticipated move, California-based gaming firm Roblox filed to go public last week. One aspect driving the future growth of the children- and community-focused gaming platform is its China entry, which it fleshes out in detail for the first time in …*
+      
   - Original Content podcast: 'The Crown' introduces its Princess Diana
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Karan Bajaj, an Indian entrepreneur who teaches meditation and in a recent book guides others on how to avoid noise, is going after the most vocal critic of his startup. Bajaj, founder of coding platform aimed at kids WhiteHat Jr, has filed a defamation case …*
-      
+       
   - Week in Review: Venture-backed loneliness
       <hr/>
-      
-      - *Hello everyone and welcome back to Week in Review! Natasha here, subbing in for Lucas while he’s out. This week, we’ll talk about loneliness raising money and how Zoom fatigue is fueling innovation. For everyone celebrating, happy holidays! Keep on the lookou…*
        
-  - A bug meant Twitter Fleets could still be seen after they disappear
-      <hr/>
-       
-       - *Fleets live on Twitter's servers for up to 30 days.*
+       - *Hello everyone and welcome back to Week in Review! Natasha here, subbing in for Lucas while he’s out. This week, we’ll talk about loneliness raising money and how Zoom fatigue is fueling innovation. For everyone celebrating, happy holidays! Keep on the lookou…*
       
 
 <br />
