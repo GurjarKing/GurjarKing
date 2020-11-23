@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Equity Monday: Good vaccine news, three rounds, and why IPOs are trending
+  - Facebook launches 'Drives,' a U.S.-only feature for collecting food, clothing and other necessities for people in need
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Facebook today is introducing a new feature that will allow users in the U.S. to collect food, clothing, and other necessities for people in need. The feature, called “Drives,” is being made available through Facebook’s existing Community Help hub, which is t…*
      
-  - Serenade snags $2.1M seed round to turn speech into code
+  - Brexit's data compliance burden could cost UK firms up to £1.6BN, says think tank
       <hr/>
       
-      - *Several years ago Serenade co-founder Matt Wiethoff was a developer at Quora when he was diagnosed with a severe repetitive stress injury to his hand and couldn’t code. He and co-founder Tommy MacWilliam decided to use AI to create a tool that let him speak t…*
+      - *An analysis of the total cost to UK businesses if the country fails to gain an adequacy agreement from the European Commission once it leaves the bloc at the end of the year — creating barriers to inbound data flows from the EU — suggests the price in pure co…*
       
-  - Friday app, a remote work tool, raises $2.1 million led by Bessemer
+  - TC Sessions: Space Black Friday ticket sale starts today
       <hr/>
       
-      - *Friday, an app looking to make remote work more efficient, has announced the close of a $2.1 million seed round led by Bessemer Venture Partners. Active Capital, Underscore, El Cap Holdings, TLC Collective, and New York Venture Partners also participated in t…*
+      - *Nothing signals the start of the holiday shopping season like a Black Friday sale. It’s been an incredibly challenging year for everyone on every level. We can’t change that, but we can make attending TC Sessions: Space 2020 more affordable a bit longer. Star…*
       
-  - Corporate services platform Sleek lands $4 million in new funding
+  - AvePoint to go public via SPAC valued at $2B
       <hr/>
       
-      - *Sleek, the corporate services platform that helps entrepreneurs launch and run new companies in Singapore and Hong Kong, has raised $4 million. The new funding was led by SEEDS Capital, the investment arm of government agency Enterprise Singapore. Returning i…*
+      - *AvePoint, a company that gives enterprises using Microsoft Office 365, SharePoint and Teams a control layer on top of these tools, announced today that it would be going public via a SPAC merger with Apex Technology Acquisition Corporation in a deal that valu…*
        
-  - Metigy gets $20 million AUD to making online marketing easier for SMEs
+  - Cure Hydration raises $2.6M for its healthy sports drink alternative
       <hr/>
        
-       - *Metigy, a marketing platform created to help small businesses automate more of the decision making in their online ad campaigns, has raised a Series B of $20 million AUD (about $14.6 million USD). The new funding, led by returning investor Cygnet Capital, wil…*
+       - *Cure Hydration is announcing that it has raised $2.6 million in seed funding as it brings a healthier approach to the sports beverage market. Founder and CEO Lauren Picasso, whose past roles include serving as director of marketing at Jet.com, told me that sh…*
       
 
 <br />
