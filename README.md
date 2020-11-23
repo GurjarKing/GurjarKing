@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Relativity Space raises $500 million as its sets sights on the industrialization of Mars
+  - Watch live as SpaceX tests the limits of Falcon 9 reusability with sixteenth Starlink satellite launch
      <hr/>
      
-      - *3D-printed rocket startup Relativity Space has closed $500 million in Series D funding (making official the earlier reported raise), the company announced today. This funding was led by Tiger Global Management, and included participation by a host of new inve…*
+      - *SpaceX is set to launch its sixteenth Starlink mission on Monday at 9:34 PM EST (6:34 PM PST). This launch will carry 60 of the company’s broadband internet satellites to low-Earth orbit, where they’ll join the existing constellation and contribute to its gro…*
      
+  - Investors Lockheed Martin Ventures and SpaceFund are coming to TC Sessions: Space 2020
+      <hr/>
+      
+      - *The space industry, once dominated by government-funded programs and a small handful of corporations, has seen a surge in startups in recent years. And with startups aplenty, the venture firms can never be far behind. Venture capital has played an increasingl…*
+      
+  - Uber refused permission to dismiss 11 staff at its EMEA HQ
+      <hr/>
+      
+      - *Uber has been refused permission to dismiss 11 people at its EMEA headquarters in Amsterdam by the Dutch Employee Insurance Agency (UWV), the ride hailing company has confirmed. The affected individuals did not take up an earlier severance offer as part of wi…*
+      
+  - Relativity Space raises $500 million as its sets sights on the industrialization of Mars
+      <hr/>
+      
+      - *3D-printed rocket startup Relativity Space has closed $500 million in Series D funding (making official the earlier reported raise), the company announced today. This funding was led by Tiger Global Management, and included participation by a host of new inve…*
+       
   - The EPA says the Ford Mustang Mach-E's electric range is a lackluster 211-300 miles
       <hr/>
-      
-      - *The EPA just released its findings on the Mustang Mach-E, and it’s a mixture of good news and bad news. Depending on the model, the EPA says the Mach-E is good for just 211 miles to 300 miles on a charge. On the one hand, the Mach-E matched Ford’s range targe…*
-      
-  - Mental health startups are raising spirits and venture capital
-      <hr/>
-      
-      - *A spate of startups focused on mental health recently made enough noise as a group that they caught the eye of the Equity podcast crew. Sadly, the segment we’d planned to discuss this topic was swept away by a blizzard of IPO filings that piled up like fresh …*
-      
-  - Video mentoring platform Superpeer raises $8M and launches paid channels
-      <hr/>
-      
-      - *Superpeer, a startup that helps experts share and monetize their knowledge online, is announcing that it has raised $8 million in additional funding. As I wrote in March, the Superpeer platform allows experts to promote, schedule and charge for one-on-one vid…*
        
-  - Gatik's self-driving box trucks to shuttle groceries for Loblaw in Canada
-      <hr/>
-       
-       - *Gatik, the autonomous vehicle startup focused on the “middle mile,” is already using its self-driving box trucks to deliver customer online grocery orders for Walmart. Now, the company — freshly stocked with $25 million in Series A funding — is expanding up i…*
+       - *The EPA just released its findings on the Mustang Mach-E, and it’s a mixture of good news and bad news. Depending on the model, the EPA says the Mach-E is good for just 211 miles to 300 miles on a charge. On the one hand, the Mach-E matched Ford’s range targe…*
       
 
 <br />
