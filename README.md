@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google-backed Chinese truck-hailing firm Manbang raises $1.7 billion
+  - Caura, the app for U.K. car owners, begins offering insurance
      <hr/>
      
-      - *The Chinese Uber for trucks Manbang announced Tuesday that it has raised $1.7 billion in its latest funding round, two years after it hauled in $1.9 billion from investors including SoftBank Group and Alphabet Inc’s venture capital fund CapitalG. The news cam…*
+      - *Caura, the U.K. startup that wants to take the hassle out of car ownership, is launching car insurance — unveiling its insurtech ambitions. Dubbed “Caura Protect,” the new insurance product claims to reduce the cost and time taken to insure a car, building on…*
      
+  - Google-backed Chinese truck-hailing firm Manbang raises $1.7 billion
+      <hr/>
+      
+      - *The Chinese Uber for trucks Manbang announced Tuesday that it has raised $1.7 billion in its latest funding round, two years after it hauled in $1.9 billion from investors including SoftBank Group and Alphabet Inc’s venture capital fund CapitalG. The news cam…*
+      
   - N26 launches mid-tier subscription plan for €4.90 per month
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *The transition was approved on Monday after Michigan certified its election results.*
-      
+       
   - Recycling robotics company AMP Robotics could raise up to $70 million sources say
       <hr/>
-      
-      - *AMP Robotics, the recycling robotics technology developer backed by investors including Sequoia Capital and Sidewalk Infrastructure Partners, is close to closing on as much as $70 million in new financing, according to multiple sources with knowledge of the c…*
        
-  - YC-backed Cashfree raises $35.3 million for its payments platform
-      <hr/>
-       
-       - *Cashfree, an Indian startup that offers a wide-range of payments services to businesses, has raised $35.3 million in a new financing round as the profitable firm looks to broaden its offering. The Bangalore-based startup’s Series B was led by London-headquart…*
+       - *AMP Robotics, the recycling robotics technology developer backed by investors including Sequoia Capital and Sidewalk Infrastructure Partners, is close to closing on as much as $70 million in new financing, according to multiple sources with knowledge of the c…*
       
 
 <br />
