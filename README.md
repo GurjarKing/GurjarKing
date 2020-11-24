@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Marie Ekeland launches 2050, a new fund with radically ambitious, long-term goals
+  - Instagram businesses and creators may be getting a Messenger-like 'FAQ' feature
      <hr/>
      
-      - *Marie Ekeland has unveiled her next act — and it’s a new fund called 2050. But it’s not your average French VC fund as it’s going to be an evergreen fund focused on building a better world. It sounds ambitious, but Ekeland isn’t just daydreaming as she has a …*
+      - *Instagram is developing a new product, Frequently Asked Questions (FAQ), that will allow people to start conversations with businesses or creators’ accounts by tapping on a commonly asked question within a chat. Those who already have the feature available re…*
      
-  - Twitter to relaunch account verifications in early 2021, asks for feedback on policy
+  - Dija, a new delivery startup from former Deliveroo employees, is closing in on a $20M round led by Blossom
       <hr/>
       
-      - *Twitter announced today it’s planning to relaunch its verification system in 2021, and will now begin the process of soliciting public feedback on the new policy ahead of its implementation. Under the policy, Twitter will initially verify six types of account…*
+      - *Dija, a new U.K. based startup founded by senior former Deliveroo employees, is closing in on $20 million funding, TechCrunch has learned. According to multiple sources, the round, which has yet to close, is being led by Blossom Capital, the early stage ventu…*
       
-  - As edtech grows cash rich, some lessons for early stage
+  - Splunk acquires network observability service Flowmill
       <hr/>
       
-      - *Last week, Udemy, an online learning marketplace, raised $50 million at a $3.32 million valuation, up from a $2 million valuation earlier this year. Language learning app Duolingo raised $35 million on a $2.4 billion valuation, up from a $1.65 valuation from …*
+      - *Data platform Splunk continues to make acquisitions as it works to build out its recently launched observability platform. After acquiring Plumbr and Rigor last month, the company today announced that it has acquired Flowmill, a Palo Alto-based network observ…*
       
-  - SEC issues proposed rulemaking to give gig workers equity compensation
+  - Ignore the social media echo chambers
       <hr/>
       
-      - *The Securities and Exchange Commission has issued rules that would allow public and private companies to offer equity compensation to gig workers. The rule-making comes just weeks after California voters upheld an initiative that overturned legislation that w…*
+      - *I hope this election will change the temperament of our nation and its citizens. I hope it will lead more people to ignore the tactics of both political parties and organizations seeking their attention and support.*
        
-  - Learn how to access funding for your startup at TC Sessions: Space 2020
+  - Marie Ekeland launches 2050, a new fund with radically ambitious, long-term goals
       <hr/>
        
-       - *Building tech startups takes cash — and lots of it. But when you’re talking space startups, you’re talking galactic-level money. Costs blast right through Earth’s exosphere and become, literally, astronomical. If space is your jam, you’re going to need financ…*
+       - *Marie Ekeland has unveiled her next act — and it’s a new fund called 2050. But it’s not your average French VC fund as it’s going to be an evergreen fund focused on building a better world. It sounds ambitious, but Ekeland isn’t just daydreaming as she has a …*
       
 
 <br />
