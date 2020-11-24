@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - AliveCor, which helps its users manage their heart health, scores another FDA approval
+  - Recycling robotics company AMP Robotics could raise up to $70 million sources say
      <hr/>
      
-      - *Last week, AliveCor, a nine-year-old, 92-person company whose small, personal electrocardiogram devices help users detect atrial fibrillation, bradycardia, and tachycardia from heart rate readings taken from their own kitchen tables, raised $65 million from i…*
+      - *AMP Robotics, the recycling robotics technology developer backed by investors including Sequoia Capital and Sidewalk Infrastructure Partners, is close to closing on as much as $70 million in new financing, according to multiple sources with knowledge of the c…*
      
+  - YC-backed Cashfree raises $35.3 million for its payments platform
+      <hr/>
+      
+      - *Cashfree, an Indian startup that offers a wide-range of payments services to businesses, has raised $35.3 million in a new financing round as the profitable firm looks to broaden its offering. The Bangalore-based startup’s Series B was led by London-headquart…*
+      
+  - AliveCor, which helps its users manage their heart health, scores another FDA approval
+      <hr/>
+      
+      - *Last week, AliveCor, a nine-year-old, 92-person company whose small, personal electrocardiogram devices help users detect atrial fibrillation, bradycardia, and tachycardia from heart rate readings taken from their own kitchen tables, raised $65 million from i…*
+      
   - Trump didn't concede, but he will move Biden's transition forward
       <hr/>
       
       - *With an unprecedented number of mail-in ballots, election results took a bit longer this year than usual. But if Americans were expecting an election week, November stretched on into a month of election drama, with President Trump mounting an unprecedented ef…*
-      
+       
   - Gift Guide: 22 STEM toy gift ideas for every little builder
       <hr/>
-      
-      - *In 2020, parents and guardians are super spoilt for choice in the STEM toys gift department — which is great news in the midst of a pandemic that’s supercharging homeschooling needs. The category has matured to offer an interesting range of options for childr…*
-      
-  - Gift Guide: 7 perfect gifts for podcasters and streamers
-      <hr/>
-      
-      - *So, this one is going to be a different from last year. Because everything is different from last year. I know 2020 has been a pretty big change for my own personal podcast. I always prefer conducting interviews in person when I’m able — in fact, around 400 o…*
        
-  - Daily Crunch: Snapchat adds Spotlight
-      <hr/>
-       
-       - *Snapchat introduces a TikTok-style feed, Amazon Echo Buds add fitness tracking and Vettery acquires Hired. This is your Daily Crunch for November 23, 2020. The big story: Snapchat adds Spotlight Snapchat has introduced a dedicated feed where users can watch s…*
+       - *In 2020, parents and guardians are super spoilt for choice in the STEM toys gift department — which is great news in the midst of a pandemic that’s supercharging homeschooling needs. The category has matured to offer an interesting range of options for childr…*
       
 
 <br />
