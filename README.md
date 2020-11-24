@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 'Complete Success': Rocket Lab's booster recovery is a big step towards reusability
+  - Gift Guide: Smart exercise gear to hunker down and get fit with
      <hr/>
      
-      - *Rocket Lab has successfully recovered the first stage of an Electron launch vehicle after it made a controlled splashdown in the Atlantic, marking a major milestone in the company’s quest for a reusable rocket. CEO Peter Beck, speaking to press shortly after …*
+      - *Home exercise gear is always a nice holiday gift choice for anyone who has expressed interest in staying healthy and getting more fit, but during the ongoing COVID-19 pandemic it’s more relevant than ever.*
      
-  - Discord is close to closing a round that would value the company at up to $7B
+  - Working to understand C3.ai's growth story
       <hr/>
       
-      - *Discord, the communications service that’s become the 21st century’s answer to MUD rooms, is close to closing a new round of financing that would value the company at up to $7 billion, according to sources with knowledge of the round. The new funding comes ju…*
+      - *The end-of-year IPO wave continues, this time with C3.ai moving closer to its own formal debut by updating its S-1 filing with third-quarter data. The new data provides the market with a much better look into how the unicorn AI company’s business has progress…*
       
-  - Instagram businesses and creators may be getting a Messenger-like 'FAQ' feature
+  - Pay-per-mile auto insurer Metromile is heading to public markets via SPAC
       <hr/>
       
-      - *Instagram is developing a new product, Frequently Asked Questions (FAQ), that will allow people to start conversations with businesses or creators’ accounts by tapping on a commonly asked question within a chat. Those who already have the feature available re…*
+      - *Metromile, the pay-per-mile auto insurer that earlier this year laid off a third of its staff due to economic uncertainties caused by COVID-19, is taking the SPAC path to the public markets. The company, which was founded in 2011 and is led by CEO Dan Preston…*
       
-  - Dija, a new delivery startup from former Deliveroo employees, is closing in on a $20M round led by Blossom
+  - YouTube suspends and demonetizes One America News Network over COVID-19 video
       <hr/>
       
-      - *Dija, a new U.K. based startup founded by senior former Deliveroo employees, is closing in on $20 million funding, TechCrunch has learned. According to multiple sources, the round, which has yet to close, is being led by Blossom Capital, the early stage ventu…*
+      - *YouTube today confirmed that it has suspended right-wing cable channel One America News Network (OAN or OANN for short). The penalty comes after a violation of YouTube’s stated COVID-19 misinformation guidelines. As a result, the network will be barred from p…*
        
-  - Splunk acquires network observability service Flowmill
+  - 'Complete Success': Rocket Lab's booster recovery is a big step towards reusability
       <hr/>
        
-       - *Data platform Splunk continues to make acquisitions as it works to build out its recently launched observability platform. After acquiring Plumbr and Rigor last month, the company today announced that it has acquired Flowmill, a Palo Alto-based network observ…*
+       - *Rocket Lab has successfully recovered the first stage of an Electron launch vehicle after it made a controlled splashdown in the Atlantic, marking a major milestone in the company’s quest for a reusable rocket. CEO Peter Beck, speaking to press shortly after …*
       
 
 <br />
