@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - New TikTok feature allows users to avoid videos with epileptic seizure triggers
+  - Looking to emulate Venmo, JoomPay preps a Euro launch for easy bill splitting and cash payments
      <hr/>
      
-      - *TikTok announced today it is rolling out a new feature that will allow people with photosensitive epilepsy to automatically skip videos that can trigger seizures. The “Skip All” option will be introduced to all users over the next few weeks and comes a few mo…*
+      - *JoomPay, a startup with a similar product to PayPayl-owned Venmo in the US, is set to launch in Europe shortly after being granted a Luxembourg Electronic Money Institution (EMI) license. The app allows people to send and receive money with anyone, instantly …*
      
+  - New TikTok feature allows users to avoid videos with epileptic seizure triggers
+      <hr/>
+      
+      - *TikTok announced today it is rolling out a new feature that will allow people with photosensitive epilepsy to automatically skip videos that can trigger seizures. The “Skip All” option will be introduced to all users over the next few weeks and comes a few mo…*
+      
   - Industrial drone maker Percepto raises $45M and integrates with Boston Dynamics' Spot
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Israel will capture how the country is faring, and what changes are being wr…*
-      
+       
   - Kahoot drops $50M on Drops to add language learning to its gamified education stable
       <hr/>
-      
-      - *After raising $215 million from SoftBank to double down on the surge of interest in online learning, Kahoot has made an acquisition to expand the scope of subjects that it covers. The popular startup, which lets people build and share educational games, has p…*
        
-  - Caura, the app for U.K. car owners, begins offering insurance
-      <hr/>
-       
-       - *Caura, the U.K. startup that wants to take the hassle out of car ownership, is launching car insurance — unveiling its insurtech ambitions. Dubbed “Caura Protect,” the new insurance product claims to reduce the cost and time taken to insure a car, building on…*
+       - *After raising $215 million from SoftBank to double down on the surge of interest in online learning, Kahoot has made an acquisition to expand the scope of subjects that it covers. The popular startup, which lets people build and share educational games, has p…*
       
 
 <br />
