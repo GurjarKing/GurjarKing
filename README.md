@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Looking to emulate Venmo, JoomPay preps a Euro launch for easy bill splitting and cash payments
+  - Two-year-old Day One Ventures raises new $52.5M fund to invest in Valley startups
      <hr/>
      
-      - *JoomPay, a startup with a similar product to PayPayl-owned Venmo in the US, is set to launch in Europe shortly after being granted a Luxembourg Electronic Money Institution (EMI) license. The app allows people to send and receive money with anyone, instantly …*
+      - *Back in 2018 Day One Ventures launched in Silicon Valley specifically designed to be both a VC and an investor that would also lead marketing and communications for its portfolio. Two years on, Day One has invested in numerous startups to do just that and has…*
      
-  - New TikTok feature allows users to avoid videos with epileptic seizure triggers
+  - Adobe expands customer data platform to include B2B sales
       <hr/>
       
-      - *TikTok announced today it is rolling out a new feature that will allow people with photosensitive epilepsy to automatically skip videos that can trigger seizures. The “Skip All” option will be introduced to all users over the next few weeks and comes a few mo…*
+      - *The concept of the customer data platform (CDP) is a relatively new one. Up until now, it has focused primarily on pulling data about an individual consumer from a variety of channels into a super record, where in theory you can serve more meaningful content …*
       
-  - Industrial drone maker Percepto raises $45M and integrates with Boston Dynamics' Spot
+  - India bans another 43 Chinese apps
       <hr/>
       
-      - *Consumer drones have over the years struggled with an image of being no more than expensive and delicate toys. But applications in industrial, military and enterprise scenarios have shown that there is indeed a market for unmanned aerial vehicles, and today, …*
+      - *India is not done banning Chinese apps. The world’s second largest internet market, which has banned over 175 apps with links to the neighboring nation in recent months, said on Tuesday it was banning an additional 43 such apps. Like with the previous orders,…*
       
-  - Calling VCs in Israel: Be featured in The Great TechCrunch Survey of European VC
+  - 5 top investors in Dutch startups discuss trends, hopes and 2020 opportunities
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Israel will capture how the country is faring, and what changes are being wr…*
+      - *The Netherlands’ ecosystem has been flourishing; more than $85 million was invested in regional startups in 2019 alone. The nation’s proximity to the U.K., Belgium, France and Germany makes Amsterdam a natural gateway to those markets. Long ago the savvy Dutc…*
        
-  - Kahoot drops $50M on Drops to add language learning to its gamified education stable
+  - Europe's data strategy aims to tip the scales away from big tech
       <hr/>
        
-       - *After raising $215 million from SoftBank to double down on the surge of interest in online learning, Kahoot has made an acquisition to expand the scope of subjects that it covers. The popular startup, which lets people build and share educational games, has p…*
+       - *Google wants to organize the world’s information but European lawmakers are in a rush to organize the local digital sphere and make Europe “the most data-empowered continent in the world”, internal market commissioner Thierry Breton said today, setting out th…*
       
 
 <br />
