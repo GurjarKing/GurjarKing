@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Caura, the app for U.K. car owners, begins offering insurance
+  - Kahoot drops $50M on Drops to add language learning to its gamified education stable
      <hr/>
      
-      - *Caura, the U.K. startup that wants to take the hassle out of car ownership, is launching car insurance — unveiling its insurtech ambitions. Dubbed “Caura Protect,” the new insurance product claims to reduce the cost and time taken to insure a car, building on…*
+      - *After raising $215 million from SoftBank to double down on the surge of interest in online learning, Kahoot has made an acquisition to expand the scope of subjects that it covers. The popular startup, which lets people build and share educational games, has p…*
      
+  - Caura, the app for U.K. car owners, begins offering insurance
+      <hr/>
+      
+      - *Caura, the U.K. startup that wants to take the hassle out of car ownership, is launching car insurance — unveiling its insurtech ambitions. Dubbed “Caura Protect,” the new insurance product claims to reduce the cost and time taken to insure a car, building on…*
+      
   - Google-backed Chinese truck-hailing firm Manbang raises $1.7 billion
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Challenger bank N26 is adding a third subscription product called N26 Smart. N26 Smart is designed to be a mid-tier subscription plan with advanced banking features but without a travel insurance package. In Europe, in addition to the free plan, N26 already p…*
-      
+       
   - Biden-Harris team finally get their transition .gov domain
       <hr/>
-      
-      - *The transition was approved on Monday after Michigan certified its election results.*
        
-  - Recycling robotics company AMP Robotics could raise up to $70 million sources say
-      <hr/>
-       
-       - *AMP Robotics, the recycling robotics technology developer backed by investors including Sequoia Capital and Sidewalk Infrastructure Partners, is close to closing on as much as $70 million in new financing, according to multiple sources with knowledge of the c…*
+       - *The transition was approved on Monday after Michigan certified its election results.*
       
 
 <br />
