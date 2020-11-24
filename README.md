@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gift Guide: Smart exercise gear to hunker down and get fit with
+  - Gift Guide: Smart cooking gadgets for the smart cookies on your list
      <hr/>
      
-      - *Home exercise gear is always a nice holiday gift choice for anyone who has expressed interest in staying healthy and getting more fit, but during the ongoing COVID-19 pandemic it’s more relevant than ever.*
+      - *If you're spending a lot of time at home this holiday season, you might as well spend at least some of that time in the kitchen and making delicious meals. There are plenty of smart kitchen gadgets out there, but it feels like the best among them are really d…*
      
+  - Netflix removes 'Chappelle's Show' at Dave Chappelle's request
+      <hr/>
+      
+      - *Netflix started streaming “Chappelle’s Show” at the beginning of November — but barely more than three weeks later, it has taken the Comedy Central sketch show off its service. Co-creator Dave Chappelle offered some context for the decision in an Instagram cl…*
+      
+  - Gift Guide: Smart exercise gear to hunker down and get fit with
+      <hr/>
+      
+      - *Home exercise gear is always a nice holiday gift choice for anyone who has expressed interest in staying healthy and getting more fit, but during the ongoing COVID-19 pandemic it’s more relevant than ever.*
+      
   - Working to understand C3.ai's growth story
       <hr/>
       
       - *The end-of-year IPO wave continues, this time with C3.ai moving closer to its own formal debut by updating its S-1 filing with third-quarter data. The new data provides the market with a much better look into how the unicorn AI company’s business has progress…*
-      
+       
   - Pay-per-mile auto insurer Metromile is heading to public markets via SPAC
       <hr/>
-      
-      - *Metromile, the pay-per-mile auto insurer that earlier this year laid off a third of its staff due to economic uncertainties caused by COVID-19, is taking the SPAC path to the public markets. The company, which was founded in 2011 and is led by CEO Dan Preston…*
-      
-  - YouTube suspends and demonetizes One America News Network over COVID-19 video
-      <hr/>
-      
-      - *YouTube today confirmed that it has suspended right-wing cable channel One America News Network (OAN or OANN for short). The penalty comes after a violation of YouTube’s stated COVID-19 misinformation guidelines. As a result, the network will be barred from p…*
        
-  - 'Complete Success': Rocket Lab's booster recovery is a big step towards reusability
-      <hr/>
-       
-       - *Rocket Lab has successfully recovered the first stage of an Electron launch vehicle after it made a controlled splashdown in the Atlantic, marking a major milestone in the company’s quest for a reusable rocket. CEO Peter Beck, speaking to press shortly after …*
+       - *Metromile, the pay-per-mile auto insurer that earlier this year laid off a third of its staff due to economic uncertainties caused by COVID-19, is taking the SPAC path to the public markets. The company, which was founded in 2011 and is led by CEO Dan Preston…*
       
 
 <br />
