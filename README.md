@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Trump didn't concede, but he will move Biden's transition forward
+  - AliveCor, which helps its users manage their heart health, scores another FDA approval
      <hr/>
      
-      - *With an unprecedented number of mail-in ballots, election results took a bit longer this year than usual. But if Americans were expecting an election week, November stretched on into a month of election drama, with President Trump mounting an unprecedented ef…*
+      - *Last week, AliveCor, a nine-year-old, 92-person company whose small, personal electrocardiogram devices help users detect atrial fibrillation, bradycardia, and tachycardia from heart rate readings taken from their own kitchen tables, raised $65 million from i…*
      
+  - Trump didn't concede, but he will move Biden's transition forward
+      <hr/>
+      
+      - *With an unprecedented number of mail-in ballots, election results took a bit longer this year than usual. But if Americans were expecting an election week, November stretched on into a month of election drama, with President Trump mounting an unprecedented ef…*
+      
   - Gift Guide: 22 STEM toy gift ideas for every little builder
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *So, this one is going to be a different from last year. Because everything is different from last year. I know 2020 has been a pretty big change for my own personal podcast. I always prefer conducting interviews in person when I’m able — in fact, around 400 o…*
-      
+       
   - Daily Crunch: Snapchat adds Spotlight
       <hr/>
-      
-      - *Snapchat introduces a TikTok-style feed, Amazon Echo Buds add fitness tracking and Vettery acquires Hired. This is your Daily Crunch for November 23, 2020. The big story: Snapchat adds Spotlight Snapchat has introduced a dedicated feed where users can watch s…*
        
-  - Netflix commits $1 billion to make New Mexico home to one of the world's largest studios
-      <hr/>
-       
-       - *Netflix is committing $1 billion in production spend at its ABQ Studios in Albuquerque, New Mexico along with plans to expand those studios, the company said. In an announcement alongside New Mexico’s Governor, Michelle Lujan Grisham, and Albuquerque Mayor, T…*
+       - *Snapchat introduces a TikTok-style feed, Amazon Echo Buds add fitness tracking and Vettery acquires Hired. This is your Daily Crunch for November 23, 2020. The big story: Snapchat adds Spotlight Snapchat has introduced a dedicated feed where users can watch s…*
       
 
 <br />
