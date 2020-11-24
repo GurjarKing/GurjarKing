@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - HMBradley raises $18.25 million planting a flag as LA's entrant into the challenger bank business
+  - Following its acquisition by BuzzFeed, HuffPost shuts down its Brazil and India editions
      <hr/>
      
-      - *With $90 million in deposits and $18.25 million in new financing, HMBradley is making moves as the Los Angeles-based entrant into the challenger bank competition. LA is home to a growing community of financial services startups and HMBradley is quickly taking…*
+      - *HuffPost is becoming part of BuzzFeed, but HuffPost India and HuffPost Brasil will not be making the transition — both sites are shutting down today. “Today is @huffpostIndia’s last day,” tweeted the team’s editor in chief Aman Sethi. “Pound for pound, story …*
      
+  - Fortnite adds a $12 monthly subscription bundle
+      <hr/>
+      
+      - *Fortnite’s free to play model has no doubt been a big driver in the battle royale title’s stratospheric success. Epic clearly hasn’t had much issue monetizing the game. While revenue slipped last year, it still managed to pull in a massive windfall of $1.8 bi…*
+      
+  - Tesla is now worth half a trillion dollars
+      <hr/>
+      
+      - *Surging Tesla shares have pushed the company’s market capitalization to more than $515 billion, a fivefold increase since the start of the year. The traditionally volatile stock has continued to experience price swings. But since reaching a low for the year i…*
+      
+  - HMBradley raises $18.25 million planting a flag as LA's entrant into the challenger bank business
+      <hr/>
+      
+      - *With $90 million in deposits and $18.25 million in new financing, HMBradley is making moves as the Los Angeles-based entrant into the challenger bank competition. LA is home to a growing community of financial services startups and HMBradley is quickly taking…*
+       
   - Australia's spy agencies caught collecting COVID-19 app data
       <hr/>
-      
-      - *A government watchdog said the data was scooped up "in the course of the lawful collection of other data."*
-      
-  - Proxyclick visitor management system adapts to COVID as employee check-in platform
-      <hr/>
-      
-      - *Proxyclick began life by providing an easy way to manage visitors in your building with an iPad-based check-in system. As the pandemic has taken hold, however, customer requirements have changed, and Proxyclick is changing with them. Today the company announc…*
-      
-  - Mobile banking app Current raises $131M Series C, tops 2 million members
-      <hr/>
-      
-      - *U.S. challenger bank Current, which has doubled its member base in less than six months, announced this morning it raised $131 million in Series C funding, led by Tiger Global Management. The additional financing brings Current to over $180 million in total f…*
        
-  - Three new $100M ARR club members and a call for the next generation of growth-stage startups
-      <hr/>
-       
-       - *Time flies. It was nearly a year ago that The Exchange started keeping tabs on startups that managed to reach $100 million in annual recurring revenue, or ARR. Our goal was to determine which unicorns were more than paper horses so we could keep tabs on upcom…*
+       - *A government watchdog said the data was scooped up "in the course of the lawful collection of other data."*
       
 
 <br />
