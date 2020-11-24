@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Two-year-old Day One Ventures raises new $52.5M fund to invest in Valley startups
+  - Three new $100M ARR club members and a call for the next generation of growth-stage startups
      <hr/>
      
-      - *Back in 2018 Day One Ventures launched in Silicon Valley specifically designed to be both a VC and an investor that would also lead marketing and communications for its portfolio. Two years on, Day One has invested in numerous startups to do just that and has…*
+      - *Time flies. It was nearly a year ago that The Exchange started keeping tabs on startups that managed to reach $100 million in annual recurring revenue, or ARR. Our goal was to determine which unicorns were more than paper horses so we could keep tabs on upcom…*
      
+  - F3, a Stories-style Q&A app for Gen Z teens, raises $3.9M
+      <hr/>
+      
+      - *F3, an anonymous Q&A app targeting Gen Z teens which blends a Tinder-style swipe-to-friend gamification mechanic, Stories-esque rich media responses and eye-wateringly expensive subscriptions to unlock a ‘Plus’ version that actually lets you see who wants to …*
+      
+  - Altana raises $7M to protect supply chains from disruptions, child labor
+      <hr/>
+      
+      - *Supply chains used to be one of those magical elements of capitalism that seemed to be designed by Apple: they just worked. Minus the occasional salmonella outbreak in your vegetable aisle, we could go about our daily consumer lives never really questioning h…*
+      
+  - Two-year-old Day One Ventures raises new $52.5M fund to invest in Valley startups
+      <hr/>
+      
+      - *Back in 2018 Day One Ventures launched in Silicon Valley specifically designed to be both a VC and an investor that would also lead marketing and communications for its portfolio. Two years on, Day One has invested in numerous startups to do just that and has…*
+       
   - Adobe expands customer data platform to include B2B sales
       <hr/>
-      
-      - *The concept of the customer data platform (CDP) is a relatively new one. Up until now, it has focused primarily on pulling data about an individual consumer from a variety of channels into a super record, where in theory you can serve more meaningful content …*
-      
-  - India bans another 43 Chinese apps
-      <hr/>
-      
-      - *India is not done banning Chinese apps. The world’s second largest internet market, which has banned over 175 apps with links to the neighboring nation in recent months, said on Tuesday it was banning an additional 43 such apps. Like with the previous orders,…*
-      
-  - 5 top investors in Dutch startups discuss trends, hopes and 2020 opportunities
-      <hr/>
-      
-      - *The Netherlands’ ecosystem has been flourishing; more than $85 million was invested in regional startups in 2019 alone. The nation’s proximity to the U.K., Belgium, France and Germany makes Amsterdam a natural gateway to those markets. Long ago the savvy Dutc…*
        
-  - Europe's data strategy aims to tip the scales away from big tech
-      <hr/>
-       
-       - *Google wants to organize the world’s information but European lawmakers are in a rush to organize the local digital sphere and make Europe “the most data-empowered continent in the world”, internal market commissioner Thierry Breton said today, setting out th…*
+       - *The concept of the customer data platform (CDP) is a relatively new one. Up until now, it has focused primarily on pulling data about an individual consumer from a variety of channels into a super record, where in theory you can serve more meaningful content …*
       
 
 <br />
