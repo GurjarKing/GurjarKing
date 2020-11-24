@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Kahoot drops $50M on Drops to add language learning to its gamified education stable
+  - New TikTok feature allows users to avoid videos with epileptic seizure triggers
      <hr/>
      
-      - *After raising $215 million from SoftBank to double down on the surge of interest in online learning, Kahoot has made an acquisition to expand the scope of subjects that it covers. The popular startup, which lets people build and share educational games, has p…*
+      - *TikTok announced today it is rolling out a new feature that will allow people with photosensitive epilepsy to automatically skip videos that can trigger seizures. The “Skip All” option will be introduced to all users over the next few weeks and comes a few mo…*
      
+  - Industrial drone maker Percepto raises $45M and integrates with Boston Dynamics' Spot
+      <hr/>
+      
+      - *Consumer drones have over the years struggled with an image of being no more than expensive and delicate toys. But applications in industrial, military and enterprise scenarios have shown that there is indeed a market for unmanned aerial vehicles, and today, …*
+      
+  - Calling VCs in Israel: Be featured in The Great TechCrunch Survey of European VC
+      <hr/>
+      
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Israel will capture how the country is faring, and what changes are being wr…*
+      
+  - Kahoot drops $50M on Drops to add language learning to its gamified education stable
+      <hr/>
+      
+      - *After raising $215 million from SoftBank to double down on the surge of interest in online learning, Kahoot has made an acquisition to expand the scope of subjects that it covers. The popular startup, which lets people build and share educational games, has p…*
+       
   - Caura, the app for U.K. car owners, begins offering insurance
       <hr/>
-      
-      - *Caura, the U.K. startup that wants to take the hassle out of car ownership, is launching car insurance — unveiling its insurtech ambitions. Dubbed “Caura Protect,” the new insurance product claims to reduce the cost and time taken to insure a car, building on…*
-      
-  - Google-backed Chinese truck-hailing firm Manbang raises $1.7 billion
-      <hr/>
-      
-      - *The Chinese Uber for trucks Manbang announced Tuesday that it has raised $1.7 billion in its latest funding round, two years after it hauled in $1.9 billion from investors including SoftBank Group and Alphabet Inc’s venture capital fund CapitalG. The news cam…*
-      
-  - N26 launches mid-tier subscription plan for €4.90 per month
-      <hr/>
-      
-      - *Challenger bank N26 is adding a third subscription product called N26 Smart. N26 Smart is designed to be a mid-tier subscription plan with advanced banking features but without a travel insurance package. In Europe, in addition to the free plan, N26 already p…*
        
-  - Biden-Harris team finally get their transition .gov domain
-      <hr/>
-       
-       - *The transition was approved on Monday after Michigan certified its election results.*
+       - *Caura, the U.K. startup that wants to take the hassle out of car ownership, is launching car insurance — unveiling its insurtech ambitions. Dubbed “Caura Protect,” the new insurance product claims to reduce the cost and time taken to insure a car, building on…*
       
 
 <br />
