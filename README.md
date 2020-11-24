@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Recycling robotics company AMP Robotics could raise up to $70 million sources say
+  - N26 launches mid-tier subscription plan for €4.90 per month
      <hr/>
      
-      - *AMP Robotics, the recycling robotics technology developer backed by investors including Sequoia Capital and Sidewalk Infrastructure Partners, is close to closing on as much as $70 million in new financing, according to multiple sources with knowledge of the c…*
+      - *Challenger bank N26 is adding a third subscription product called N26 Smart. N26 Smart is designed to be a mid-tier subscription plan with advanced banking features but without a travel insurance package. In Europe, in addition to the free plan, N26 already p…*
      
+  - Biden-Harris team finally get their transition .gov domain
+      <hr/>
+      
+      - *The transition was approved on Monday after Michigan certified its election results.*
+      
+  - Recycling robotics company AMP Robotics could raise up to $70 million sources say
+      <hr/>
+      
+      - *AMP Robotics, the recycling robotics technology developer backed by investors including Sequoia Capital and Sidewalk Infrastructure Partners, is close to closing on as much as $70 million in new financing, according to multiple sources with knowledge of the c…*
+      
   - YC-backed Cashfree raises $35.3 million for its payments platform
       <hr/>
       
       - *Cashfree, an Indian startup that offers a wide-range of payments services to businesses, has raised $35.3 million in a new financing round as the profitable firm looks to broaden its offering. The Bangalore-based startup’s Series B was led by London-headquart…*
-      
+       
   - AliveCor, which helps its users manage their heart health, scores another FDA approval
       <hr/>
-      
-      - *Last week, AliveCor, a nine-year-old, 92-person company whose small, personal electrocardiogram devices help users detect atrial fibrillation, bradycardia, and tachycardia from heart rate readings taken from their own kitchen tables, raised $65 million from i…*
-      
-  - Trump didn't concede, but he will move Biden's transition forward
-      <hr/>
-      
-      - *With an unprecedented number of mail-in ballots, election results took a bit longer this year than usual. But if Americans were expecting an election week, November stretched on into a month of election drama, with President Trump mounting an unprecedented ef…*
        
-  - Gift Guide: 22 STEM toy gift ideas for every little builder
-      <hr/>
-       
-       - *In 2020, parents and guardians are super spoilt for choice in the STEM toys gift department — which is great news in the midst of a pandemic that’s supercharging homeschooling needs. The category has matured to offer an interesting range of options for childr…*
+       - *Last week, AliveCor, a nine-year-old, 92-person company whose small, personal electrocardiogram devices help users detect atrial fibrillation, bradycardia, and tachycardia from heart rate readings taken from their own kitchen tables, raised $65 million from i…*
       
 
 <br />
