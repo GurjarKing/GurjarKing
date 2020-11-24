@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - N26 launches mid-tier subscription plan for €4.90 per month
+  - Google-backed Chinese truck-hailing firm Manbang raises $1.7 billion
      <hr/>
      
-      - *Challenger bank N26 is adding a third subscription product called N26 Smart. N26 Smart is designed to be a mid-tier subscription plan with advanced banking features but without a travel insurance package. In Europe, in addition to the free plan, N26 already p…*
+      - *The Chinese Uber for trucks Manbang announced Tuesday that it has raised $1.7 billion in its latest funding round, two years after it hauled in $1.9 billion from investors including SoftBank Group and Alphabet Inc’s venture capital fund CapitalG. The news cam…*
      
+  - N26 launches mid-tier subscription plan for €4.90 per month
+      <hr/>
+      
+      - *Challenger bank N26 is adding a third subscription product called N26 Smart. N26 Smart is designed to be a mid-tier subscription plan with advanced banking features but without a travel insurance package. In Europe, in addition to the free plan, N26 already p…*
+      
   - Biden-Harris team finally get their transition .gov domain
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *AMP Robotics, the recycling robotics technology developer backed by investors including Sequoia Capital and Sidewalk Infrastructure Partners, is close to closing on as much as $70 million in new financing, according to multiple sources with knowledge of the c…*
-      
+       
   - YC-backed Cashfree raises $35.3 million for its payments platform
       <hr/>
-      
-      - *Cashfree, an Indian startup that offers a wide-range of payments services to businesses, has raised $35.3 million in a new financing round as the profitable firm looks to broaden its offering. The Bangalore-based startup’s Series B was led by London-headquart…*
        
-  - AliveCor, which helps its users manage their heart health, scores another FDA approval
-      <hr/>
-       
-       - *Last week, AliveCor, a nine-year-old, 92-person company whose small, personal electrocardiogram devices help users detect atrial fibrillation, bradycardia, and tachycardia from heart rate readings taken from their own kitchen tables, raised $65 million from i…*
+       - *Cashfree, an Indian startup that offers a wide-range of payments services to businesses, has raised $35.3 million in a new financing round as the profitable firm looks to broaden its offering. The Bangalore-based startup’s Series B was led by London-headquart…*
       
 
 <br />
