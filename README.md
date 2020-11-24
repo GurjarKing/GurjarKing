@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Instagram businesses and creators may be getting a Messenger-like 'FAQ' feature
+  - 'Complete Success': Rocket Lab's booster recovery is a big step towards reusability
      <hr/>
      
-      - *Instagram is developing a new product, Frequently Asked Questions (FAQ), that will allow people to start conversations with businesses or creators’ accounts by tapping on a commonly asked question within a chat. Those who already have the feature available re…*
+      - *Rocket Lab has successfully recovered the first stage of an Electron launch vehicle after it made a controlled splashdown in the Atlantic, marking a major milestone in the company’s quest for a reusable rocket. CEO Peter Beck, speaking to press shortly after …*
      
+  - Discord is close to closing a round that would value the company at up to $7B
+      <hr/>
+      
+      - *Discord, the communications service that’s become the 21st century’s answer to MUD rooms, is close to closing a new round of financing that would value the company at up to $7 billion, according to sources with knowledge of the round. The new funding comes ju…*
+      
+  - Instagram businesses and creators may be getting a Messenger-like 'FAQ' feature
+      <hr/>
+      
+      - *Instagram is developing a new product, Frequently Asked Questions (FAQ), that will allow people to start conversations with businesses or creators’ accounts by tapping on a commonly asked question within a chat. Those who already have the feature available re…*
+      
   - Dija, a new delivery startup from former Deliveroo employees, is closing in on a $20M round led by Blossom
       <hr/>
       
       - *Dija, a new U.K. based startup founded by senior former Deliveroo employees, is closing in on $20 million funding, TechCrunch has learned. According to multiple sources, the round, which has yet to close, is being led by Blossom Capital, the early stage ventu…*
-      
+       
   - Splunk acquires network observability service Flowmill
       <hr/>
-      
-      - *Data platform Splunk continues to make acquisitions as it works to build out its recently launched observability platform. After acquiring Plumbr and Rigor last month, the company today announced that it has acquired Flowmill, a Palo Alto-based network observ…*
-      
-  - Ignore the social media echo chambers
-      <hr/>
-      
-      - *I hope this election will change the temperament of our nation and its citizens. I hope it will lead more people to ignore the tactics of both political parties and organizations seeking their attention and support.*
        
-  - Marie Ekeland launches 2050, a new fund with radically ambitious, long-term goals
-      <hr/>
-       
-       - *Marie Ekeland has unveiled her next act — and it’s a new fund called 2050. But it’s not your average French VC fund as it’s going to be an evergreen fund focused on building a better world. It sounds ambitious, but Ekeland isn’t just daydreaming as she has a …*
+       - *Data platform Splunk continues to make acquisitions as it works to build out its recently launched observability platform. After acquiring Plumbr and Rigor last month, the company today announced that it has acquired Flowmill, a Palo Alto-based network observ…*
       
 
 <br />
