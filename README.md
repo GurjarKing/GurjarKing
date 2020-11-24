@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Netflix commits $1 billion to make New Mexico home to one of the world's largest studios
+  - Gift Guide: 22 STEM toy gift ideas for every little builder
      <hr/>
      
-      - *Netflix is committing $1 billion in production spend at its ABQ Studios in Albuquerque, New Mexico along with plans to expand those studios, the company said. In an announcement alongside New Mexico’s Governor, Michelle Lujan Grisham, and Albuquerque Mayor, T…*
+      - *In 2020, parents and guardians are super spoilt for choice in the STEM toys gift department — which is great news in the midst of a pandemic that’s supercharging homeschooling needs. The category has matured to offer an interesting range of options for childr…*
      
+  - Gift Guide: 7 perfect gifts for podcasters and streamers
+      <hr/>
+      
+      - *So, this one is going to be a different from last year. Because everything is different from last year. I know 2020 has been a pretty big change for my own personal podcast. I always prefer conducting interviews in person when I’m able — in fact, around 400 o…*
+      
+  - Daily Crunch: Snapchat adds Spotlight
+      <hr/>
+      
+      - *Snapchat introduces a TikTok-style feed, Amazon Echo Buds add fitness tracking and Vettery acquires Hired. This is your Daily Crunch for November 23, 2020. The big story: Snapchat adds Spotlight Snapchat has introduced a dedicated feed where users can watch s…*
+      
+  - Netflix commits $1 billion to make New Mexico home to one of the world's largest studios
+      <hr/>
+      
+      - *Netflix is committing $1 billion in production spend at its ABQ Studios in Albuquerque, New Mexico along with plans to expand those studios, the company said. In an announcement alongside New Mexico’s Governor, Michelle Lujan Grisham, and Albuquerque Mayor, T…*
+       
   - Gift Guide: 7 great gifts for anyone working from home
       <hr/>
-      
-      - *Let’s just get this out of the way: for the past several years, I’ve contributed the “Best Gifts for Frequent Travelers” segment to TechCrunch’s annual gift guide. I love it. It was easily my favorite gift guide to write, and it was an audience favorite, as w…*
-      
-  - Will Brazil’s Roaring 20s see the rise of early-stage startups?
-      <hr/>
-      
-      - *The capital market boom might be temporary, but the emergence of a new economy in Brazil supported by new local investors and new players is a trend that has been building up for some time*
-      
-  - Vettery acquires Hired to create a 'unified' job search platform
-      <hr/>
-      
-      - *Two large job search and recruiting platforms are coming together, with Vettery acquiring Hired. The news follows a report last week in The Information claiming that Hired had begun to sell off its assets and wind down the company. The report also stated that…*
        
-  - GM dumps Trump to side with California in emissions rules fight
-      <hr/>
-       
-       - *General Motors is changing sides in a battle over whether states — and specifically California — can set tailpipe emissions regulations and other rules meant to mitigate climate change that are stricter than the federal government. The automaker said Monday i…*
+       - *Let’s just get this out of the way: for the past several years, I’ve contributed the “Best Gifts for Frequent Travelers” segment to TechCrunch’s annual gift guide. I love it. It was easily my favorite gift guide to write, and it was an audience favorite, as w…*
       
 
 <br />
