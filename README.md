@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gift Guide: 22 STEM toy gift ideas for every little builder
+  - Trump didn't concede, but he will move Biden's transition forward
      <hr/>
      
-      - *In 2020, parents and guardians are super spoilt for choice in the STEM toys gift department — which is great news in the midst of a pandemic that’s supercharging homeschooling needs. The category has matured to offer an interesting range of options for childr…*
+      - *With an unprecedented number of mail-in ballots, election results took a bit longer this year than usual. But if Americans were expecting an election week, November stretched on into a month of election drama, with President Trump mounting an unprecedented ef…*
      
+  - Gift Guide: 22 STEM toy gift ideas for every little builder
+      <hr/>
+      
+      - *In 2020, parents and guardians are super spoilt for choice in the STEM toys gift department — which is great news in the midst of a pandemic that’s supercharging homeschooling needs. The category has matured to offer an interesting range of options for childr…*
+      
   - Gift Guide: 7 perfect gifts for podcasters and streamers
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Snapchat introduces a TikTok-style feed, Amazon Echo Buds add fitness tracking and Vettery acquires Hired. This is your Daily Crunch for November 23, 2020. The big story: Snapchat adds Spotlight Snapchat has introduced a dedicated feed where users can watch s…*
-      
+       
   - Netflix commits $1 billion to make New Mexico home to one of the world's largest studios
       <hr/>
-      
-      - *Netflix is committing $1 billion in production spend at its ABQ Studios in Albuquerque, New Mexico along with plans to expand those studios, the company said. In an announcement alongside New Mexico’s Governor, Michelle Lujan Grisham, and Albuquerque Mayor, T…*
        
-  - Gift Guide: 7 great gifts for anyone working from home
-      <hr/>
-       
-       - *Let’s just get this out of the way: for the past several years, I’ve contributed the “Best Gifts for Frequent Travelers” segment to TechCrunch’s annual gift guide. I love it. It was easily my favorite gift guide to write, and it was an audience favorite, as w…*
+       - *Netflix is committing $1 billion in production spend at its ABQ Studios in Albuquerque, New Mexico along with plans to expand those studios, the company said. In an announcement alongside New Mexico’s Governor, Michelle Lujan Grisham, and Albuquerque Mayor, T…*
       
 
 <br />
