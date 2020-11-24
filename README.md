@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Three new $100M ARR club members and a call for the next generation of growth-stage startups
+  - HMBradley raises $18.25 million planting a flag as LA's entrant into the challenger bank business
      <hr/>
      
-      - *Time flies. It was nearly a year ago that The Exchange started keeping tabs on startups that managed to reach $100 million in annual recurring revenue, or ARR. Our goal was to determine which unicorns were more than paper horses so we could keep tabs on upcom…*
+      - *With $90 million in deposits and $18.25 million in new financing, HMBradley is making moves as the Los Angeles-based entrant into the challenger bank competition. LA is home to a growing community of financial services startups and HMBradley is quickly taking…*
      
-  - F3, a Stories-style Q&A app for Gen Z teens, raises $3.9M
+  - Australia's spy agencies caught collecting COVID-19 app data
       <hr/>
       
-      - *F3, an anonymous Q&A app targeting Gen Z teens which blends a Tinder-style swipe-to-friend gamification mechanic, Stories-esque rich media responses and eye-wateringly expensive subscriptions to unlock a ‘Plus’ version that actually lets you see who wants to …*
+      - *A government watchdog said the data was scooped up "in the course of the lawful collection of other data."*
       
-  - Altana raises $7M to protect supply chains from disruptions, child labor
+  - Proxyclick visitor management system adapts to COVID as employee check-in platform
       <hr/>
       
-      - *Supply chains used to be one of those magical elements of capitalism that seemed to be designed by Apple: they just worked. Minus the occasional salmonella outbreak in your vegetable aisle, we could go about our daily consumer lives never really questioning h…*
+      - *Proxyclick began life by providing an easy way to manage visitors in your building with an iPad-based check-in system. As the pandemic has taken hold, however, customer requirements have changed, and Proxyclick is changing with them. Today the company announc…*
       
-  - Two-year-old Day One Ventures raises new $52.5M fund to invest in Valley startups
+  - Mobile banking app Current raises $131M Series C, tops 2 million members
       <hr/>
       
-      - *Back in 2018 Day One Ventures launched in Silicon Valley specifically designed to be both a VC and an investor that would also lead marketing and communications for its portfolio. Two years on, Day One has invested in numerous startups to do just that and has…*
+      - *U.S. challenger bank Current, which has doubled its member base in less than six months, announced this morning it raised $131 million in Series C funding, led by Tiger Global Management. The additional financing brings Current to over $180 million in total f…*
        
-  - Adobe expands customer data platform to include B2B sales
+  - Three new $100M ARR club members and a call for the next generation of growth-stage startups
       <hr/>
        
-       - *The concept of the customer data platform (CDP) is a relatively new one. Up until now, it has focused primarily on pulling data about an individual consumer from a variety of channels into a super record, where in theory you can serve more meaningful content …*
+       - *Time flies. It was nearly a year ago that The Exchange started keeping tabs on startups that managed to reach $100 million in annual recurring revenue, or ARR. Our goal was to determine which unicorns were more than paper horses so we could keep tabs on upcom…*
       
 
 <br />
