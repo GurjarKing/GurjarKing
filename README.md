@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Pinterest tests online events with dedicated 'class communities'
+  - SpaceX successfully launches a Falcon 9 booster for a record seventh time
      <hr/>
      
-      - *Pinterest is getting into online events. The company has been spotted testing a new feature that allows users to sign up for Zoom classes through Pinterest, while creators use Pinterest’s class boards to organize class materials, notes, and other resources, o…*
+      - *SpaceX has launched yet another Starlink mission, adding 60 more Starlink satellites to its low-Earth orbit constellation. That’s good news for its efforts to blanket the globe in high-speed broadband, and today’s flight is even better news for its equally im…*
      
+  - Pinterest tests online events with dedicated 'class communities'
+      <hr/>
+      
+      - *Pinterest is getting into online events. The company has been spotted testing a new feature that allows users to sign up for Zoom classes through Pinterest, while creators use Pinterest’s class boards to organize class materials, notes, and other resources, o…*
+      
   - Police case filed against Netflix executives in India over 'A Suitable Boy' kissing scene
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *SpaceX looks ready to proceed to the next crucial phase of its Starship spacecraft development program: A 15km (50,000 feet) test flight. This would far exceed the max height that any prior Starship prototype has achieved so far, since the current record-sett…*
-      
+       
   - New venture firm The-Wolfpack takes a fresh approach to D2C startups
       <hr/>
-      
-      - *The COVID-19 pandemic has hit the consumer, leisure and media companies hard, but a new venture firm called The-Wolfpack is still very upbeat on those sectors. Based in Singapore, the firm was founded by former managing directors at GroupM, one of the world’s…*
        
-  - How Verge Aero's drones pulled off an Election Day win as big as Biden's
-      <hr/>
-       
-       - *Intel may be the household name, but Verge Aero is hot on their heels with a product that’s more nimble, easier to execute and much more dynamic.*
+       - *The COVID-19 pandemic has hit the consumer, leisure and media companies hard, but a new venture firm called The-Wolfpack is still very upbeat on those sectors. Based in Singapore, the firm was founded by former managing directors at GroupM, one of the world’s…*
       
 
 <br />
