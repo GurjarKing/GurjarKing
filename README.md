@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - SpaceX successfully launches a Falcon 9 booster for a record seventh time
+  - Talking tech's exodus, Twitter's new labels, and Medium's future with founder Ev Williams
      <hr/>
      
-      - *SpaceX has launched yet another Starlink mission, adding 60 more Starlink satellites to its low-Earth orbit constellation. That’s good news for its efforts to blanket the globe in high-speed broadband, and today’s flight is even better news for its equally im…*
+      - *Earlier today, we had the chance to talk with Twitter and Medium cofounder Ev Williams, along with operator-turned investor James Joaquin, who helps oversee the day-to-day of the “world-positive” venture firm they separately cofounded six years ago, Obvious V…*
      
+  - SpaceX successfully launches a Falcon 9 booster for a record seventh time
+      <hr/>
+      
+      - *SpaceX has launched yet another Starlink mission, adding 60 more Starlink satellites to its low-Earth orbit constellation. That’s good news for its efforts to blanket the globe in high-speed broadband, and today’s flight is even better news for its equally im…*
+      
   - Pinterest tests online events with dedicated 'class communities'
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Netflix, which has invested more than $500 million to gain a foothold in India in recent years, is slowly finding out just about what all could upset some people in the world’s second-largest internet market: Apparently everything. A police case has been file…*
-      
+       
   - SpaceX targeting next week for Starship's first high-altitude test flight
       <hr/>
-      
-      - *SpaceX looks ready to proceed to the next crucial phase of its Starship spacecraft development program: A 15km (50,000 feet) test flight. This would far exceed the max height that any prior Starship prototype has achieved so far, since the current record-sett…*
        
-  - New venture firm The-Wolfpack takes a fresh approach to D2C startups
-      <hr/>
-       
-       - *The COVID-19 pandemic has hit the consumer, leisure and media companies hard, but a new venture firm called The-Wolfpack is still very upbeat on those sectors. Based in Singapore, the firm was founded by former managing directors at GroupM, one of the world’s…*
+       - *SpaceX looks ready to proceed to the next crucial phase of its Starship spacecraft development program: A 15km (50,000 feet) test flight. This would far exceed the max height that any prior Starship prototype has achieved so far, since the current record-sett…*
       
 
 <br />
