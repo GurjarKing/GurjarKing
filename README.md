@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gift Guide: Smart cooking gadgets for the smart cookies on your list
+  - Pinterest tests online events with dedicated 'class communities'
      <hr/>
      
-      - *If you're spending a lot of time at home this holiday season, you might as well spend at least some of that time in the kitchen and making delicious meals. There are plenty of smart kitchen gadgets out there, but it feels like the best among them are really d…*
+      - *Pinterest is getting into online events. The company has been spotted testing a new feature that allows users to sign up for Zoom classes through Pinterest, while creators use Pinterest’s class boards to organize class materials, notes, and other resources, o…*
      
-  - Netflix removes 'Chappelle's Show' at Dave Chappelle's request
+  - Police case filed against Netflix executives in India over 'A Suitable Boy' kissing scene
       <hr/>
       
-      - *Netflix started streaming “Chappelle’s Show” at the beginning of November — but barely more than three weeks later, it has taken the Comedy Central sketch show off its service. Co-creator Dave Chappelle offered some context for the decision in an Instagram cl…*
+      - *Netflix, which has invested more than $500 million to gain a foothold in India in recent years, is slowly finding out just about what all could upset some people in the world’s second-largest internet market: Apparently everything. A police case has been file…*
       
-  - Gift Guide: Smart exercise gear to hunker down and get fit with
+  - SpaceX targeting next week for Starship's first high-altitude test flight
       <hr/>
       
-      - *Home exercise gear is always a nice holiday gift choice for anyone who has expressed interest in staying healthy and getting more fit, but during the ongoing COVID-19 pandemic it’s more relevant than ever.*
+      - *SpaceX looks ready to proceed to the next crucial phase of its Starship spacecraft development program: A 15km (50,000 feet) test flight. This would far exceed the max height that any prior Starship prototype has achieved so far, since the current record-sett…*
       
-  - Working to understand C3.ai's growth story
+  - New venture firm The-Wolfpack takes a fresh approach to D2C startups
       <hr/>
       
-      - *The end-of-year IPO wave continues, this time with C3.ai moving closer to its own formal debut by updating its S-1 filing with third-quarter data. The new data provides the market with a much better look into how the unicorn AI company’s business has progress…*
+      - *The COVID-19 pandemic has hit the consumer, leisure and media companies hard, but a new venture firm called The-Wolfpack is still very upbeat on those sectors. Based in Singapore, the firm was founded by former managing directors at GroupM, one of the world’s…*
        
-  - Pay-per-mile auto insurer Metromile is heading to public markets via SPAC
+  - How Verge Aero's drones pulled off an Election Day win as big as Biden's
       <hr/>
        
-       - *Metromile, the pay-per-mile auto insurer that earlier this year laid off a third of its staff due to economic uncertainties caused by COVID-19, is taking the SPAC path to the public markets. The company, which was founded in 2011 and is led by CEO Dan Preston…*
+       - *Intel may be the household name, but Verge Aero is hot on their heels with a product that’s more nimble, easier to execute and much more dynamic.*
       
 
 <br />
