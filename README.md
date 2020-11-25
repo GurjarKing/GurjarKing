@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Insurtech's big year gets bigger as Metromile looks to go public
+  - France starts collecting tax on tech giants
      <hr/>
      
-      - *In the wake of insurtech unicorn Root’s IPO, it felt safe to say that the big transactions for the insurance technology startup space were done for the year. After all, 2020 had been a big one for the broad category, with insurtech marketplaces raising lots, …*
+      - *France is going forward with its plan to tax big tech companies. The government has sent out notices to tech giants, as reported by the Financial Times, Reuters and AFP. There could be retaliation tariffs on French goods in the U.S. For the past couple of yea…*
      
+  - As IBM shifts to hybrid cloud, reports have them laying off 10,000 in EU
+      <hr/>
+      
+      - *As IBM makes a broad shift in strategy, Bloomberg reported this morning that the company would be cutting around 10,000 jobs in Europe. This comes on the heels of last month’s announcement that the organization will be spinning out its infrastructure services…*
+      
+  - What will tomorrow's tech look like? Ask someone who can't see
+      <hr/>
+      
+      - *Will Butler Contributor Share on Twitter Will Butler is a writer, producer and podcast host from California. Legally blind since age of 19, Will has written and produced numerous stories about adjusting to vision loss. Will joined Be My Eyes as its VP in 2019…*
+      
+  - Insurtech's big year gets bigger as Metromile looks to go public
+      <hr/>
+      
+      - *In the wake of insurtech unicorn Root’s IPO, it felt safe to say that the big transactions for the insurance technology startup space were done for the year. After all, 2020 had been a big one for the broad category, with insurtech marketplaces raising lots, …*
+       
   - Amazon Web Services outage takes a portion of the internet down with it
       <hr/>
-      
-      - *Companies that rely on AWS, like Adobe, Roku, and Shipt, are also experiencing outages.*
-      
-  - Slack’s stock climbs on possible Salesforce acquisition
-      <hr/>
-      
-      - *News that Salesforce is interested in buying Slack, the popular workplace chat company, sent shares of the smaller firm sharply higher today. Slack shares are up just under 25% at the moment, according to Yahoo Finance data. Slack is worth $36.95 per share as…*
-      
-  - Instead of Yule log, watch this interactive dumpster fire because 2020
-      <hr/>
-      
-      - *The holiday seasons is upon us and with that comes stress, anxiety, and the airing of grievances. And this year is worse. Instead of watching a yule log smolder in a warm hearth, we’re all stuck in our homes watching the world burn. Try this interactive dumps…*
        
-  - Join us for a live Q&A with Sapphire's Jai Das on Tuesday at 2 pm ET/11 am PT
-      <hr/>
-       
-       - *Sure, we’re heading into a holiday weekend here in America, but that doesn’t mean that the good ship TechCrunch is going to slow down. We’re diving right back in next week with another installment in season two of Extra Crunch Live, our regular interview seri…*
+       - *Companies that rely on AWS, like Adobe, Roku, and Shipt, are also experiencing outages.*
       
 
 <br />
