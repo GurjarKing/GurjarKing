@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Coinbase disables margin trading following guidance from Commodity Futures Trading Commission
+  - Tiger Global invests in India's Unacademy at $2 billion valuation
      <hr/>
      
-      - *Just a few months after launching margin trading on Coinbase Pro, the company is disabling the feature. Margin trading lets you trade on leverage. But it works both ways — margin trading lets you multiply your gains and your losses. Starting on November 25, 2…*
+      - *Unacademy, an online learning platform in India, today announced it has raised a fresh investment round from Tiger Global Management and Dragoneer Investment Group. The funding round, the size of which was not disclosed, valued the Bangalore-based startup at …*
      
+  - Coinbase disables margin trading following guidance from Commodity Futures Trading Commission
+      <hr/>
+      
+      - *Just a few months after launching margin trading on Coinbase Pro, the company is disabling the feature. Margin trading lets you trade on leverage. But it works both ways — margin trading lets you multiply your gains and your losses. Starting on November 25, 2…*
+      
   - WeGift, the 'incentive marketing' platform, collects $8M in new funding
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *With COVID-19 making commuters switch to bikes, and cities wanting cleaner air, the e-bike revolution is only just getting started. Further evidence of this is the news that today British e-bike manufacturer FuroSystems has closed its first institutional vent…*
-      
+       
   - The FCC rejects ZTE's petition to stop designating it a "national security threat"
       <hr/>
-      
-      - *The Federal Communications Commission has rejected ZTE’s petition to remove its designation as a “national security threat.” This means that American companies will continue to be barred from using the FCC’s $8.3 billion Universal Service Fund to buy equipmen…*
        
-  - Talking tech's exodus, Twitter's new labels, and Medium's future with founder Ev Williams
-      <hr/>
-       
-       - *Earlier today, we had the chance to talk with Twitter and Medium cofounder Ev Williams, along with operator-turned investor James Joaquin, who helps oversee the day-to-day of the “world-positive” venture firm they separately cofounded six years ago, Obvious V…*
+       - *The Federal Communications Commission has rejected ZTE’s petition to remove its designation as a “national security threat.” This means that American companies will continue to be barred from using the FCC’s $8.3 billion Universal Service Fund to buy equipmen…*
       
 
 <br />
