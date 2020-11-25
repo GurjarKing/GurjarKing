@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - France starts collecting tax on tech giants
+  - Remote-controlled delivery carts are now working for the local Los Angeles grocer
      <hr/>
      
-      - *France is going forward with its plan to tax big tech companies. The government has sent out notices to tech giants, as reported by the Financial Times, Reuters and AFP. There could be retaliation tariffs on French goods in the U.S. For the past couple of yea…*
+      - *Robots are no longer the high-tech tools reserved for university labs, e-commerce giants and buzzy Silicon Valley startups. The local grocer now has access too. Tortoise, the one-year-old Silicon Valley startup known for its remote repositioning electric scoo…*
      
+  - France starts collecting tax on tech giants
+      <hr/>
+      
+      - *France is going forward with its plan to tax big tech companies. The government has sent out notices to tech giants, as reported by the Financial Times, Reuters and AFP. There could be retaliation tariffs on French goods in the U.S. For the past couple of yea…*
+      
   - As IBM shifts to hybrid cloud, reports have them laying off 10,000 in EU
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Will Butler Contributor Share on Twitter Will Butler is a writer, producer and podcast host from California. Legally blind since age of 19, Will has written and produced numerous stories about adjusting to vision loss. Will joined Be My Eyes as its VP in 2019…*
-      
+       
   - Insurtech's big year gets bigger as Metromile looks to go public
       <hr/>
-      
-      - *In the wake of insurtech unicorn Root’s IPO, it felt safe to say that the big transactions for the insurance technology startup space were done for the year. After all, 2020 had been a big one for the broad category, with insurtech marketplaces raising lots, …*
        
-  - Amazon Web Services outage takes a portion of the internet down with it
-      <hr/>
-       
-       - *Companies that rely on AWS, like Adobe, Roku, and Shipt, are also experiencing outages.*
+       - *In the wake of insurtech unicorn Root’s IPO, it felt safe to say that the big transactions for the insurance technology startup space were done for the year. After all, 2020 had been a big one for the broad category, with insurtech marketplaces raising lots, …*
       
 
 <br />
