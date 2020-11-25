@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Flexible expressions could lift 3D-generated faces out of the uncanny valley
+  - Gift Guide: 5 solid tech gifts to help decrease stress and increase sleep
      <hr/>
      
-      - *3D-rendered faces are a big part of any major movie or game now, but the task of capturing and animated them in a natural way can be a tough one. Disney Research is working on ways to smooth out this process, among them a machine learning tool that makes it m…*
+      - *Even in a normal year, the holidays can be an anxiety-inducing hellscape. In 2020, though — honestly, it’s hard to say what manner of climactic finale this historically rough year might have on tap. In honor of the one of the most epically rotten years on rec…*
      
+  - Enterprise investor Jason Green on SPAC hopefuls versus startups bound for traditional IPOs
+      <hr/>
+      
+      - *Jason Green has a pretty solid reputation as venture capitalists go. The enterprise-focused firm the cofounded 17 years ago, Emergence Capital, has backed Saleforce, Box, and Zoom, among many other companies, and even while every firm is now investing in soft…*
+      
+  - Flexible expressions could lift 3D-generated faces out of the uncanny valley
+      <hr/>
+      
+      - *3D-rendered faces are a big part of any major movie or game now, but the task of capturing and animated them in a natural way can be a tough one. Disney Research is working on ways to smooth out this process, among them a machine learning tool that makes it m…*
+      
   - Gift Guide: 7 Smart Home gift ideas that go beyond the usual Google/Amazon smart speakers
       <hr/>
       
       - *It's never been easier to build a smart home. Beyond the same Google/Amazon/Apple/etc. voice-powered assistant speakers you've probably seen on every gift guide for years, there's a world of wonderful smart home products that can delight, surprise, and maybe …*
-      
+       
   - Remote-controlled delivery carts are now working for the local Los Angeles grocer
       <hr/>
-      
-      - *Robots are no longer the high-tech tools reserved for university labs, e-commerce giants and buzzy Silicon Valley startups. The local grocer now has access too. Tortoise, the one-year-old Silicon Valley startup known for its remote repositioning electric scoo…*
-      
-  - France starts collecting tax on tech giants
-      <hr/>
-      
-      - *France is going forward with its plan to tax big tech companies. The government has sent out notices to tech giants, as reported by the Financial Times, Reuters and AFP. There could be retaliation tariffs on French goods in the U.S. For the past couple of yea…*
        
-  - As IBM shifts to hybrid cloud, reports have them laying off 10,000 in EU
-      <hr/>
-       
-       - *As IBM makes a broad shift in strategy, Bloomberg reported this morning that the company would be cutting around 10,000 jobs in Europe. This comes on the heels of last month’s announcement that the organization will be spinning out its infrastructure services…*
+       - *Robots are no longer the high-tech tools reserved for university labs, e-commerce giants and buzzy Silicon Valley startups. The local grocer now has access too. Tortoise, the one-year-old Silicon Valley startup known for its remote repositioning electric scoo…*
       
 
 <br />
