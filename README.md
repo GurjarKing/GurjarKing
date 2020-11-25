@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - WeGift, the 'incentive marketing' platform, collects $8M in new funding
+  - Coinbase disables margin trading following guidance from Commodity Futures Trading Commission
      <hr/>
      
-      - *WeGift, the London-based startup that has built an “incentive marketing” platform that lets businesses easily issue e-gift cards and other digital rewards to customers, has raised $8 million in new funding. Dubbed a Series A extension, the round is led by Alb…*
+      - *Just a few months after launching margin trading on Coinbase Pro, the company is disabling the feature. Margin trading lets you trade on leverage. But it works both ways — margin trading lets you multiply your gains and your losses. Starting on November 25, 2…*
      
+  - WeGift, the 'incentive marketing' platform, collects $8M in new funding
+      <hr/>
+      
+      - *WeGift, the London-based startup that has built an “incentive marketing” platform that lets businesses easily issue e-gift cards and other digital rewards to customers, has raised $8 million in new funding. Dubbed a Series A extension, the round is led by Alb…*
+      
   - As e-bikes boom, FuroSystems raises its first venture funding round ahead of a new model launch
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *The Federal Communications Commission has rejected ZTE’s petition to remove its designation as a “national security threat.” This means that American companies will continue to be barred from using the FCC’s $8.3 billion Universal Service Fund to buy equipmen…*
-      
+       
   - Talking tech's exodus, Twitter's new labels, and Medium's future with founder Ev Williams
       <hr/>
-      
-      - *Earlier today, we had the chance to talk with Twitter and Medium cofounder Ev Williams, along with operator-turned investor James Joaquin, who helps oversee the day-to-day of the “world-positive” venture firm they separately cofounded six years ago, Obvious V…*
        
-  - SpaceX successfully launches a Falcon 9 booster for a record seventh time
-      <hr/>
-       
-       - *SpaceX has launched yet another Starlink mission, adding 60 more Starlink satellites to its low-Earth orbit constellation. That’s good news for its efforts to blanket the globe in high-speed broadband, and today’s flight is even better news for its equally im…*
+       - *Earlier today, we had the chance to talk with Twitter and Medium cofounder Ev Williams, along with operator-turned investor James Joaquin, who helps oversee the day-to-day of the “world-positive” venture firm they separately cofounded six years ago, Obvious V…*
       
 
 <br />
