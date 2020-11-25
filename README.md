@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Cast.ai nabs $7.7M seed to remove barriers between public clouds
+  - Join us for a live Q&A with Sapphire's Jai Das on Tuesday at 2 pm ET/11 am PT
      <hr/>
      
-      - *When you launch an application in the public cloud, you usually put everything on one provider, but what if you could choose the components based on cost and technology and have your database one place and your storage another? That’s what Cast.ai says that i…*
+      - *Sure, we’re heading into a holiday weekend here in America, but that doesn’t mean that the good ship TechCrunch is going to slow down. We’re diving right back in next week with another installment in season two of Extra Crunch Live, our regular interview seri…*
      
+  - Cast.ai nabs $7.7M seed to remove barriers between public clouds
+      <hr/>
+      
+      - *When you launch an application in the public cloud, you usually put everything on one provider, but what if you could choose the components based on cost and technology and have your database one place and your storage another? That’s what Cast.ai says that i…*
+      
   - Europe sets out the rules of the road for its data reuse plan
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *As we head into the biggest shopping period of the year — which this year may well have an even stronger online component than usual because of Covid-19 — Amazon has launched its latest effort to combat the sale of counterfeit goods on its site. The e-commerc…*
-      
+       
   - Tiger Global invests in India's Unacademy at $2 billion valuation
       <hr/>
-      
-      - *Unacademy, an online learning platform in India, today announced it has raised a fresh investment round from Tiger Global Management and Dragoneer Investment Group. The funding round, the size of which was not disclosed, valued the Bangalore-based startup at …*
        
-  - Coinbase disables margin trading following guidance from Commodity Futures Trading Commission
-      <hr/>
-       
-       - *Just a few months after launching margin trading on Coinbase Pro, the company is disabling the feature. Margin trading lets you trade on leverage. But it works both ways — margin trading lets you multiply your gains and your losses. Starting on November 25, 2…*
+       - *Unacademy, an online learning platform in India, today announced it has raised a fresh investment round from Tiger Global Management and Dragoneer Investment Group. The funding round, the size of which was not disclosed, valued the Bangalore-based startup at …*
       
 
 <br />
