@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The FCC rejects ZTE's petition to stop designating it a "national security threat"
+  - WeGift, the 'incentive marketing' platform, collects $8M in new funding
      <hr/>
      
-      - *The Federal Communications Commission has rejected ZTE’s petition to remove its designation as a “national security threat.” This means that American companies will continue to be barred from using the FCC’s $8.3 billion Universal Service Fund to buy equipmen…*
+      - *WeGift, the London-based startup that has built an “incentive marketing” platform that lets businesses easily issue e-gift cards and other digital rewards to customers, has raised $8 million in new funding. Dubbed a Series A extension, the round is led by Alb…*
      
+  - As e-bikes boom, FuroSystems raises its first venture funding round ahead of a new model launch
+      <hr/>
+      
+      - *With COVID-19 making commuters switch to bikes, and cities wanting cleaner air, the e-bike revolution is only just getting started. Further evidence of this is the news that today British e-bike manufacturer FuroSystems has closed its first institutional vent…*
+      
+  - The FCC rejects ZTE's petition to stop designating it a "national security threat"
+      <hr/>
+      
+      - *The Federal Communications Commission has rejected ZTE’s petition to remove its designation as a “national security threat.” This means that American companies will continue to be barred from using the FCC’s $8.3 billion Universal Service Fund to buy equipmen…*
+      
   - Talking tech's exodus, Twitter's new labels, and Medium's future with founder Ev Williams
       <hr/>
       
       - *Earlier today, we had the chance to talk with Twitter and Medium cofounder Ev Williams, along with operator-turned investor James Joaquin, who helps oversee the day-to-day of the “world-positive” venture firm they separately cofounded six years ago, Obvious V…*
-      
+       
   - SpaceX successfully launches a Falcon 9 booster for a record seventh time
       <hr/>
-      
-      - *SpaceX has launched yet another Starlink mission, adding 60 more Starlink satellites to its low-Earth orbit constellation. That’s good news for its efforts to blanket the globe in high-speed broadband, and today’s flight is even better news for its equally im…*
-      
-  - Pinterest tests online events with dedicated 'class communities'
-      <hr/>
-      
-      - *Pinterest is getting into online events. The company has been spotted testing a new feature that allows users to sign up for Zoom classes through Pinterest, while creators use Pinterest’s class boards to organize class materials, notes, and other resources, o…*
        
-  - Police case filed against Netflix executives in India over 'A Suitable Boy' kissing scene
-      <hr/>
-       
-       - *Netflix, which has invested more than $500 million to gain a foothold in India in recent years, is slowly finding out just about what all could upset some people in the world’s second-largest internet market: Apparently everything. A police case has been file…*
+       - *SpaceX has launched yet another Starlink mission, adding 60 more Starlink satellites to its low-Earth orbit constellation. That’s good news for its efforts to blanket the globe in high-speed broadband, and today’s flight is even better news for its equally im…*
       
 
 <br />
