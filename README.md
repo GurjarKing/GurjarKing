@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Join us for a live Q&A with Sapphire's Jai Das on Tuesday at 2 pm ET/11 am PT
+  - Instead of Yule log, watch this interactive dumpster fire because 2020
      <hr/>
      
-      - *Sure, we’re heading into a holiday weekend here in America, but that doesn’t mean that the good ship TechCrunch is going to slow down. We’re diving right back in next week with another installment in season two of Extra Crunch Live, our regular interview seri…*
+      - *The holiday seasons is upon us and with that comes stress, anxiety, and the airing of grievances. And this year is worse. Instead of watching a yule log smolder in a warm hearth, we’re all stuck in our homes watching the world burn. Try this interactive dumps…*
      
+  - Join us for a live Q&A with Sapphire's Jai Das on Tuesday at 2 pm ET/11 am PT
+      <hr/>
+      
+      - *Sure, we’re heading into a holiday weekend here in America, but that doesn’t mean that the good ship TechCrunch is going to slow down. We’re diving right back in next week with another installment in season two of Extra Crunch Live, our regular interview seri…*
+      
   - Cast.ai nabs $7.7M seed to remove barriers between public clouds
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *European Union lawmakers have laid out a major legislative proposal today to encourage the reuse of industrial data across the Single Market by creating a standardized framework of trusted tools and techniques to ensure what they describe as “secure and priva…*
-      
+       
   - Amazon expands IP Accelerator to Europe after US SMBs register 6,000 trademarks
       <hr/>
-      
-      - *As we head into the biggest shopping period of the year — which this year may well have an even stronger online component than usual because of Covid-19 — Amazon has launched its latest effort to combat the sale of counterfeit goods on its site. The e-commerc…*
        
-  - Tiger Global invests in India's Unacademy at $2 billion valuation
-      <hr/>
-       
-       - *Unacademy, an online learning platform in India, today announced it has raised a fresh investment round from Tiger Global Management and Dragoneer Investment Group. The funding round, the size of which was not disclosed, valued the Bangalore-based startup at …*
+       - *As we head into the biggest shopping period of the year — which this year may well have an even stronger online component than usual because of Covid-19 — Amazon has launched its latest effort to combat the sale of counterfeit goods on its site. The e-commerc…*
       
 
 <br />
