@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon expands IP Accelerator to Europe after US SMBs register 6,000 trademarks
+  - Cast.ai nabs $7.7M seed to remove barriers between public clouds
      <hr/>
      
-      - *As we head into the biggest shopping period of the year — which this year may well have an even stronger online component than usual because of Covid-19 — Amazon has launched its latest effort to combat the sale of counterfeit goods on its site. The e-commerc…*
+      - *When you launch an application in the public cloud, you usually put everything on one provider, but what if you could choose the components based on cost and technology and have your database one place and your storage another? That’s what Cast.ai says that i…*
      
+  - Europe sets out the rules of the road for its data reuse plan
+      <hr/>
+      
+      - *European Union lawmakers have laid out a major legislative proposal today to encourage the reuse of industrial data across the Single Market by creating a standardized framework of trusted tools and techniques to ensure what they describe as “secure and priva…*
+      
+  - Amazon expands IP Accelerator to Europe after US SMBs register 6,000 trademarks
+      <hr/>
+      
+      - *As we head into the biggest shopping period of the year — which this year may well have an even stronger online component than usual because of Covid-19 — Amazon has launched its latest effort to combat the sale of counterfeit goods on its site. The e-commerc…*
+      
   - Tiger Global invests in India's Unacademy at $2 billion valuation
       <hr/>
       
       - *Unacademy, an online learning platform in India, today announced it has raised a fresh investment round from Tiger Global Management and Dragoneer Investment Group. The funding round, the size of which was not disclosed, valued the Bangalore-based startup at …*
-      
+       
   - Coinbase disables margin trading following guidance from Commodity Futures Trading Commission
       <hr/>
-      
-      - *Just a few months after launching margin trading on Coinbase Pro, the company is disabling the feature. Margin trading lets you trade on leverage. But it works both ways — margin trading lets you multiply your gains and your losses. Starting on November 25, 2…*
-      
-  - WeGift, the 'incentive marketing' platform, collects $8M in new funding
-      <hr/>
-      
-      - *WeGift, the London-based startup that has built an “incentive marketing” platform that lets businesses easily issue e-gift cards and other digital rewards to customers, has raised $8 million in new funding. Dubbed a Series A extension, the round is led by Alb…*
        
-  - As e-bikes boom, FuroSystems raises its first venture funding round ahead of a new model launch
-      <hr/>
-       
-       - *With COVID-19 making commuters switch to bikes, and cities wanting cleaner air, the e-bike revolution is only just getting started. Further evidence of this is the news that today British e-bike manufacturer FuroSystems has closed its first institutional vent…*
+       - *Just a few months after launching margin trading on Coinbase Pro, the company is disabling the feature. Margin trading lets you trade on leverage. But it works both ways — margin trading lets you multiply your gains and your losses. Starting on November 25, 2…*
       
 
 <br />
