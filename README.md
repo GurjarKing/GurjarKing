@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok's epic rise and stumble
+  - Equity Dive: Edtech’s 2020 wakeup call
      <hr/>
      
-      - *TikTok’s rise in the West is unprecedented for any Chinese tech company, and so is the amount of attention it has attracted from politicians worldwide. Below is a timeline of how TikTok grew from what some considered another “copycat” short video app to globa…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week, we’re doing a first-ever for the show and taking a deep dive into one specific sector: Edtech. Natas…*
      
+  - TikTok's epic rise and stumble
+      <hr/>
+      
+      - *TikTok’s rise in the West is unprecedented for any Chinese tech company, and so is the amount of attention it has attracted from politicians worldwide. Below is a timeline of how TikTok grew from what some considered another “copycat” short video app to globa…*
+      
   - Rock-star programmer: Rivers Cuomo finds meaning in coding
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *An Amazon Web Services outage has a wide effect, Salesforce might be buying Slack and Pinterest tests new support for virtual events. This is your Daily Crunch for November 25, 2020. And for those of you who celebrate Thanksgiving: Enjoy! There will be no new…*
-      
+       
   - Gift Guide: 5 solid tech gifts to help decrease stress and increase sleep
       <hr/>
-      
-      - *Even in a normal year, the holidays can be an anxiety-inducing hellscape. In 2020, though — honestly, it’s hard to say what manner of climactic finale this historically rough year might have on tap. In honor of the one of the most epically rotten years on rec…*
        
-  - Enterprise investor Jason Green on SPAC hopefuls versus startups bound for traditional IPOs
-      <hr/>
-       
-       - *Jason Green has a pretty solid reputation as venture capitalists go. The enterprise-focused firm the cofounded 17 years ago, Emergence Capital, has backed Saleforce, Box, and Zoom, among many other companies, and even while every firm is now investing in soft…*
+       - *Even in a normal year, the holidays can be an anxiety-inducing hellscape. In 2020, though — honestly, it’s hard to say what manner of climactic finale this historically rough year might have on tap. In honor of the one of the most epically rotten years on rec…*
       
 
 <br />
