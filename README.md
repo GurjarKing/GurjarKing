@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Thanksgiving on track for a record $6B in US online sales, says Adobe
+  - Facebook's latest ad tool fail puts another dent in its reputation
      <hr/>
      
-      - *As people prepare and eat their Thanksgiving meals, or just “work” on relaxing for the day, some consumers are going online to get a jump on holiday shopping deals. Adobe, which is following online sales in real time at 80 of the top 100 retailers in the US, …*
+      - *Reset yer counters: Facebook has had to ‘fess up to yet another major ad reporting fail. This one looks like it could be costly for the tech giant to put right — not least because it’s another dent in its reputation for self reporting. (For past Facebook ad m…*
      
+  - Thanksgiving on track for a record $6B in US online sales, says Adobe
+      <hr/>
+      
+      - *As people prepare and eat their Thanksgiving meals, or just “work” on relaxing for the day, some consumers are going online to get a jump on holiday shopping deals. Adobe, which is following online sales in real time at 80 of the top 100 retailers in the US, …*
+      
   - AstraZeneca says it will likely do another study of COVID-19 vaccine after accidental lower dose shows higher efficacy
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Meet Bigblue, a French startup that just raised a $3.6 million seed round (€3 million) to build an end-to-end fulfillment solution in Europe. If you sell products on your own website and across multiple marketplaces, you can use Bigblue to handle everything t…*
-      
+       
   - Foxconn could move some iPad and MacBook production to Vietnam
       <hr/>
-      
-      - *Following a request from Apple, Foxconn could be shifting production out of China for some iPad and MacBook models according to a report from Reuters. The new assembly lines would be based in Vietnam. As a recent investigation from The Information highlighted…*
        
-  - US Fertility says patient data was stolen in a ransomware attack
-      <hr/>
-       
-       - *The company has 55 fertility clinics across the U.S.*
+       - *Following a request from Apple, Foxconn could be shifting production out of China for some iPad and MacBook models according to a report from Reuters. The new assembly lines would be based in Vietnam. As a recent investigation from The Information highlighted…*
       
 
 <br />
