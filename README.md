@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - GDPR enforcement must level up to catch big tech, report warns
+  - Foxconn could move some iPad and MacBook production to Vietnam
      <hr/>
      
-      - *A new report by European consumer protection umbrella group Beuc, reflecting on the barriers to effective cross-border enforcement of the EU’s flagship data protection framework, makes awkward reading for the regional lawmakers and regulators as they seek to …*
+      - *Following a request from Apple, Foxconn could be shifting production out of China for some iPad and MacBook models according to a report from Reuters. The new assembly lines would be based in Vietnam. As a recent investigation from The Information highlighted…*
      
+  - US Fertility says patient data was stolen in a ransomware attack
+      <hr/>
+      
+      - *The company has 55 fertility clinics across the U.S.*
+      
+  - GDPR enforcement must level up to catch big tech, report warns
+      <hr/>
+      
+      - *A new report by European consumer protection umbrella group Beuc, reflecting on the barriers to effective cross-border enforcement of the EU’s flagship data protection framework, makes awkward reading for the regional lawmakers and regulators as they seek to …*
+      
   - Equity Dive: Edtech’s 2020 wakeup call
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week, we’re doing a first-ever for the show and taking a deep dive into one specific sector: Edtech. Natas…*
-      
+       
   - TikTok's epic rise and stumble
       <hr/>
-      
-      - *TikTok’s rise in the West is unprecedented for any Chinese tech company, and so is the amount of attention it has attracted from politicians worldwide. Below is a timeline of how TikTok grew from what some considered another “copycat” short video app to globa…*
-      
-  - Rock-star programmer: Rivers Cuomo finds meaning in coding
-      <hr/>
-      
-      - *“Hi, I’m Rivers from the band, Weezer,” Rivers Cuomo says with a slight smile and a wave. He turns away from the camera for a bit, before launching into his best infomercial pitch. “Imagine you’re on tour, and you’re sitting in your dressing room or your tour…*
        
-  - Daily Crunch: Amazon Web Services stumble
-      <hr/>
-       
-       - *An Amazon Web Services outage has a wide effect, Salesforce might be buying Slack and Pinterest tests new support for virtual events. This is your Daily Crunch for November 25, 2020. And for those of you who celebrate Thanksgiving: Enjoy! There will be no new…*
+       - *TikTok’s rise in the West is unprecedented for any Chinese tech company, and so is the amount of attention it has attracted from politicians worldwide. Below is a timeline of how TikTok grew from what some considered another “copycat” short video app to globa…*
       
 
 <br />
