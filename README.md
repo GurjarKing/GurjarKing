@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - AstraZeneca says it will likely do another study of COVID-19 vaccine after accidental lower dose shows higher efficacy
+  - Thanksgiving on track for a record $6B in US online sales, says Adobe
      <hr/>
      
-      - *AstraZeneca’s CEO told Bloomberg that the pharmaceutical company will likely conduct another global trial of the effectiveness of its COVID-19 vaccine trial, following the disclosure that the more effective dosage in the existing Phase 3 clinical trial was ac…*
+      - *As people prepare and eat their Thanksgiving meals, or just “work” on relaxing for the day, some consumers are going online to get a jump on holiday shopping deals. Adobe, which is following online sales in real time at 80 of the top 100 retailers in the US, …*
      
+  - AstraZeneca says it will likely do another study of COVID-19 vaccine after accidental lower dose shows higher efficacy
+      <hr/>
+      
+      - *AstraZeneca’s CEO told Bloomberg that the pharmaceutical company will likely conduct another global trial of the effectiveness of its COVID-19 vaccine trial, following the disclosure that the more effective dosage in the existing Phase 3 clinical trial was ac…*
+      
   - Bigblue wants to automate e-commerce fulfillment in Europe
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Following a request from Apple, Foxconn could be shifting production out of China for some iPad and MacBook models according to a report from Reuters. The new assembly lines would be based in Vietnam. As a recent investigation from The Information highlighted…*
-      
+       
   - US Fertility says patient data was stolen in a ransomware attack
       <hr/>
-      
-      - *The company has 55 fertility clinics across the U.S.*
        
-  - GDPR enforcement must level up to catch big tech, report warns
-      <hr/>
-       
-       - *A new report by European consumer protection umbrella group Beuc, reflecting on the barriers to effective cross-border enforcement of the EU’s flagship data protection framework, makes awkward reading for the regional lawmakers and regulators as they seek to …*
+       - *The company has 55 fertility clinics across the U.S.*
       
 
 <br />
