@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Rock-star programmer: Rivers Cuomo finds meaning in coding
+  - TikTok's epic rise and stumble
      <hr/>
      
-      - *“Hi, I’m Rivers from the band, Weezer,” Rivers Cuomo says with a slight smile and a wave. He turns away from the camera for a bit, before launching into his best infomercial pitch. “Imagine you’re on tour, and you’re sitting in your dressing room or your tour…*
+      - *TikTok’s rise in the West is unprecedented for any Chinese tech company, and so is the amount of attention it has attracted from politicians worldwide. Below is a timeline of how TikTok grew from what some considered another “copycat” short video app to globa…*
      
+  - Rock-star programmer: Rivers Cuomo finds meaning in coding
+      <hr/>
+      
+      - *“Hi, I’m Rivers from the band, Weezer,” Rivers Cuomo says with a slight smile and a wave. He turns away from the camera for a bit, before launching into his best infomercial pitch. “Imagine you’re on tour, and you’re sitting in your dressing room or your tour…*
+      
   - Daily Crunch: Amazon Web Services stumble
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Even in a normal year, the holidays can be an anxiety-inducing hellscape. In 2020, though — honestly, it’s hard to say what manner of climactic finale this historically rough year might have on tap. In honor of the one of the most epically rotten years on rec…*
-      
+       
   - Enterprise investor Jason Green on SPAC hopefuls versus startups bound for traditional IPOs
       <hr/>
-      
-      - *Jason Green has a pretty solid reputation as venture capitalists go. The enterprise-focused firm the cofounded 17 years ago, Emergence Capital, has backed Saleforce, Box, and Zoom, among many other companies, and even while every firm is now investing in soft…*
        
-  - Flexible expressions could lift 3D-generated faces out of the uncanny valley
-      <hr/>
-       
-       - *3D-rendered faces are a big part of any major movie or game now, but the task of capturing and animated them in a natural way can be a tough one. Disney Research is working on ways to smooth out this process, among them a machine learning tool that makes it m…*
+       - *Jason Green has a pretty solid reputation as venture capitalists go. The enterprise-focused firm the cofounded 17 years ago, Emergence Capital, has backed Saleforce, Box, and Zoom, among many other companies, and even while every firm is now investing in soft…*
       
 
 <br />
