@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Equity Dive: Edtech’s 2020 wakeup call
+  - GDPR enforcement must level up to catch big tech, report warns
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week, we’re doing a first-ever for the show and taking a deep dive into one specific sector: Edtech. Natas…*
+      - *A new report by European consumer protection umbrella group Beuc, reflecting on the barriers to effective cross-border enforcement of the EU’s flagship data protection framework, makes awkward reading for the regional lawmakers and regulators as they seek to …*
      
+  - Equity Dive: Edtech’s 2020 wakeup call
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week, we’re doing a first-ever for the show and taking a deep dive into one specific sector: Edtech. Natas…*
+      
   - TikTok's epic rise and stumble
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *“Hi, I’m Rivers from the band, Weezer,” Rivers Cuomo says with a slight smile and a wave. He turns away from the camera for a bit, before launching into his best infomercial pitch. “Imagine you’re on tour, and you’re sitting in your dressing room or your tour…*
-      
+       
   - Daily Crunch: Amazon Web Services stumble
       <hr/>
-      
-      - *An Amazon Web Services outage has a wide effect, Salesforce might be buying Slack and Pinterest tests new support for virtual events. This is your Daily Crunch for November 25, 2020. And for those of you who celebrate Thanksgiving: Enjoy! There will be no new…*
        
-  - Gift Guide: 5 solid tech gifts to help decrease stress and increase sleep
-      <hr/>
-       
-       - *Even in a normal year, the holidays can be an anxiety-inducing hellscape. In 2020, though — honestly, it’s hard to say what manner of climactic finale this historically rough year might have on tap. In honor of the one of the most epically rotten years on rec…*
+       - *An Amazon Web Services outage has a wide effect, Salesforce might be buying Slack and Pinterest tests new support for virtual events. This is your Daily Crunch for November 25, 2020. And for those of you who celebrate Thanksgiving: Enjoy! There will be no new…*
       
 
 <br />
