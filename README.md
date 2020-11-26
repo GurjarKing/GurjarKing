@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Foxconn could move some iPad and MacBook production to Vietnam
+  - AstraZeneca says it will likely do another study of COVID-19 vaccine after accidental lower dose shows higher efficacy
      <hr/>
      
-      - *Following a request from Apple, Foxconn could be shifting production out of China for some iPad and MacBook models according to a report from Reuters. The new assembly lines would be based in Vietnam. As a recent investigation from The Information highlighted…*
+      - *AstraZeneca’s CEO told Bloomberg that the pharmaceutical company will likely conduct another global trial of the effectiveness of its COVID-19 vaccine trial, following the disclosure that the more effective dosage in the existing Phase 3 clinical trial was ac…*
      
+  - Bigblue wants to automate e-commerce fulfillment in Europe
+      <hr/>
+      
+      - *Meet Bigblue, a French startup that just raised a $3.6 million seed round (€3 million) to build an end-to-end fulfillment solution in Europe. If you sell products on your own website and across multiple marketplaces, you can use Bigblue to handle everything t…*
+      
+  - Foxconn could move some iPad and MacBook production to Vietnam
+      <hr/>
+      
+      - *Following a request from Apple, Foxconn could be shifting production out of China for some iPad and MacBook models according to a report from Reuters. The new assembly lines would be based in Vietnam. As a recent investigation from The Information highlighted…*
+      
   - US Fertility says patient data was stolen in a ransomware attack
       <hr/>
       
       - *The company has 55 fertility clinics across the U.S.*
-      
+       
   - GDPR enforcement must level up to catch big tech, report warns
       <hr/>
-      
-      - *A new report by European consumer protection umbrella group Beuc, reflecting on the barriers to effective cross-border enforcement of the EU’s flagship data protection framework, makes awkward reading for the regional lawmakers and regulators as they seek to …*
-      
-  - Equity Dive: Edtech’s 2020 wakeup call
-      <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week, we’re doing a first-ever for the show and taking a deep dive into one specific sector: Edtech. Natas…*
        
-  - TikTok's epic rise and stumble
-      <hr/>
-       
-       - *TikTok’s rise in the West is unprecedented for any Chinese tech company, and so is the amount of attention it has attracted from politicians worldwide. Below is a timeline of how TikTok grew from what some considered another “copycat” short video app to globa…*
+       - *A new report by European consumer protection umbrella group Beuc, reflecting on the barriers to effective cross-border enforcement of the EU’s flagship data protection framework, makes awkward reading for the regional lawmakers and regulators as they seek to …*
       
 
 <br />
