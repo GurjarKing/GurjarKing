@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - No Google-Fitbit merger without human rights remedies, says Amnesty to EU
+  - There's no 'hacker house' geared toward undergraduate women, so they created one of their own
      <hr/>
      
-      - *Human rights NGO, Amnesty International, has written to the EU’s competition regulator calling for Google’s acquisition of wearable maker Fitbit to be blocked — unless meaningful safeguards can be baked in. The tech giant announced its intent to splash $2.1BN…*
+      - *Hacker houses are making a comeback for entrepreneurs as remote work drags on. While founders are adapting to quarantine in style, a group of college women in their 20s aren’t waiting until they are done with undergraduate to plunge into the lifestyle themsel…*
      
+  - No Google-Fitbit merger without human rights remedies, says Amnesty to EU
+      <hr/>
+      
+      - *Human rights NGO, Amnesty International, has written to the EU’s competition regulator calling for Google’s acquisition of wearable maker Fitbit to be blocked — unless meaningful safeguards can be baked in. The tech giant announced its intent to splash $2.1BN…*
+      
   - Is Slack overpriced now that the market knows Salesforce might buy it?
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *We are hearing that a COVID-19 vaccine could be on the way sooner than later, and that means we could be returning to normal life some time in 2021. That’s the good news. The perplexing news, however, is that each time some positive news emerges about a vacci…*
-      
+       
   - UK to set up 'pro-competition' regulator to put limits on big tech
       <hr/>
-      
-      - *The UK is moving ahead with a plan to regulate big tech, responding to competition concerns over a ‘winner takes all’ dynamic in digital markets. It will set up a new Digital Market Unit (DMU) to oversee a “pro-competition” regime for Internet platforms — inc…*
        
-  - Alibaba vies for a piece of China's booming EV market
-      <hr/>
-       
-       - *There’s no lack of news these days on China’s tech giants teaming up with traditional carmakers. Companies from Alibaba to Huawei are striving to become relevant in the trillion-dollar auto industry, which itself is seeking an electric transition and intellig…*
+       - *The UK is moving ahead with a plan to regulate big tech, responding to competition concerns over a ‘winner takes all’ dynamic in digital markets. It will set up a new Digital Market Unit (DMU) to oversee a “pro-competition” regime for Internet platforms — inc…*
       
 
 <br />
