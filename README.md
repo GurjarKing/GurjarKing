@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - UK to set up 'pro-competition' regulator to put limits on big tech
+  - Wall Street needs to relax, as startups show remote work is here to stay
      <hr/>
      
-      - *The UK is moving ahead with a plan to regulate big tech, responding to competition concerns over a ‘winner takes all’ dynamic in digital markets. It will set up a new Digital Market Unit (DMU) to oversee a “pro-competition” regime for Internet platforms — inc…*
+      - *We are hearing that a COVID-19 vaccine could be on the way sooner than later, and that means we could be returning to normal life some time in 2021. That’s the good news. The perplexing news, however, is that each time some positive news emerges about a vacci…*
      
+  - UK to set up 'pro-competition' regulator to put limits on big tech
+      <hr/>
+      
+      - *The UK is moving ahead with a plan to regulate big tech, responding to competition concerns over a ‘winner takes all’ dynamic in digital markets. It will set up a new Digital Market Unit (DMU) to oversee a “pro-competition” regime for Internet platforms — inc…*
+      
   - Alibaba vies for a piece of China's booming EV market
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Black Friday approaches! In a year where asking Alexa what day today is feels totally normal, this Black Friday seems like it came out of nowhere. As we say pretty much every year, a lot of Black Friday deals are… not that good. While there are certainly deal…*
-      
+       
   - Facebook's latest ad tool fail puts another dent in its reputation
       <hr/>
-      
-      - *Reset yer counters: Facebook has had to ‘fess up to yet another major ad reporting fail. This one looks like it could be costly for the tech giant to put right — not least because it’s another dent in its reputation for self reporting. (For past Facebook ad m…*
        
-  - Thanksgiving on track for a record $6B in US online sales, says Adobe
-      <hr/>
-       
-       - *As people prepare and eat their Thanksgiving meals, or just “work” on relaxing for the day, some consumers are going online to get a jump on holiday shopping deals. Adobe, which is following online sales in real time at 80 of the top 100 retailers in the US, …*
+       - *Reset yer counters: Facebook has had to ‘fess up to yet another major ad reporting fail. This one looks like it could be costly for the tech giant to put right — not least because it’s another dent in its reputation for self reporting. (For past Facebook ad m…*
       
 
 <br />
