@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gift Guide: Black Friday tech deals that are actually worth checking out
+  - Alibaba vies for a piece of China's booming EV market
      <hr/>
      
-      - *Black Friday approaches! In a year where asking Alexa what day today is feels totally normal, this Black Friday seems like it came out of nowhere. As we say pretty much every year, a lot of Black Friday deals are… not that good. While there are certainly deal…*
+      - *There’s no lack of news these days on China’s tech giants teaming up with traditional carmakers. Companies from Alibaba to Huawei are striving to become relevant in the trillion-dollar auto industry, which itself is seeking an electric transition and intellig…*
      
+  - Gift Guide: Black Friday tech deals that are actually worth checking out
+      <hr/>
+      
+      - *Black Friday approaches! In a year where asking Alexa what day today is feels totally normal, this Black Friday seems like it came out of nowhere. As we say pretty much every year, a lot of Black Friday deals are… not that good. While there are certainly deal…*
+      
   - Facebook's latest ad tool fail puts another dent in its reputation
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *As people prepare and eat their Thanksgiving meals, or just “work” on relaxing for the day, some consumers are going online to get a jump on holiday shopping deals. Adobe, which is following online sales in real time at 80 of the top 100 retailers in the US, …*
-      
+       
   - AstraZeneca says it will likely do another study of COVID-19 vaccine after accidental lower dose shows higher efficacy
       <hr/>
-      
-      - *AstraZeneca’s CEO told Bloomberg that the pharmaceutical company will likely conduct another global trial of the effectiveness of its COVID-19 vaccine trial, following the disclosure that the more effective dosage in the existing Phase 3 clinical trial was ac…*
        
-  - Bigblue wants to automate e-commerce fulfillment in Europe
-      <hr/>
-       
-       - *Meet Bigblue, a French startup that just raised a $3.6 million seed round (€3 million) to build an end-to-end fulfillment solution in Europe. If you sell products on your own website and across multiple marketplaces, you can use Bigblue to handle everything t…*
+       - *AstraZeneca’s CEO told Bloomberg that the pharmaceutical company will likely conduct another global trial of the effectiveness of its COVID-19 vaccine trial, following the disclosure that the more effective dosage in the existing Phase 3 clinical trial was ac…*
       
 
 <br />
