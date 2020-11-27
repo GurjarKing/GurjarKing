@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Alibaba vies for a piece of China's booming EV market
+  - UK to set up 'pro-competition' regulator to put limits on big tech
      <hr/>
      
-      - *There’s no lack of news these days on China’s tech giants teaming up with traditional carmakers. Companies from Alibaba to Huawei are striving to become relevant in the trillion-dollar auto industry, which itself is seeking an electric transition and intellig…*
+      - *The UK is moving ahead with a plan to regulate big tech, responding to competition concerns over a ‘winner takes all’ dynamic in digital markets. It will set up a new Digital Market Unit (DMU) to oversee a “pro-competition” regime for Internet platforms — inc…*
      
+  - Alibaba vies for a piece of China's booming EV market
+      <hr/>
+      
+      - *There’s no lack of news these days on China’s tech giants teaming up with traditional carmakers. Companies from Alibaba to Huawei are striving to become relevant in the trillion-dollar auto industry, which itself is seeking an electric transition and intellig…*
+      
   - Gift Guide: Black Friday tech deals that are actually worth checking out
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Reset yer counters: Facebook has had to ‘fess up to yet another major ad reporting fail. This one looks like it could be costly for the tech giant to put right — not least because it’s another dent in its reputation for self reporting. (For past Facebook ad m…*
-      
+       
   - Thanksgiving on track for a record $6B in US online sales, says Adobe
       <hr/>
-      
-      - *As people prepare and eat their Thanksgiving meals, or just “work” on relaxing for the day, some consumers are going online to get a jump on holiday shopping deals. Adobe, which is following online sales in real time at 80 of the top 100 retailers in the US, …*
        
-  - AstraZeneca says it will likely do another study of COVID-19 vaccine after accidental lower dose shows higher efficacy
-      <hr/>
-       
-       - *AstraZeneca’s CEO told Bloomberg that the pharmaceutical company will likely conduct another global trial of the effectiveness of its COVID-19 vaccine trial, following the disclosure that the more effective dosage in the existing Phase 3 clinical trial was ac…*
+       - *As people prepare and eat their Thanksgiving meals, or just “work” on relaxing for the day, some consumers are going online to get a jump on holiday shopping deals. Adobe, which is following online sales in real time at 80 of the top 100 retailers in the US, …*
       
 
 <br />
