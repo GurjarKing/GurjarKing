@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Original Content podcast: Just don't watch Netflix's 'Holidate' with your parents
+  - How Ryan Reynolds and Mint Mobile worked without becoming the joke
      <hr/>
      
-      - *You might think that a new Netflix film called “Holidate” offers holiday-themed romance that’s perfect for a family watch party. You’d be wrong. The film stars Emma Roberts and Luke Bracey as a pair of strangers who agree (in classic romantic comedy style) to…*
+      - *In the past decade, celebrity interest and investment in tech companies has significantly increased. But not all celebrity investments are created equally. Some investors, like Ashton Kutcher, have prioritized the VC pursuits. Some have invested casually with…*
      
+  - Original Content podcast: Just don't watch Netflix's 'Holidate' with your parents
+      <hr/>
+      
+      - *You might think that a new Netflix film called “Holidate” offers holiday-themed romance that’s perfect for a family watch party. You’d be wrong. The film stars Emma Roberts and Luke Bracey as a pair of strangers who agree (in classic romantic comedy style) to…*
+      
   - Black Friday on track for $8.9B+ in online sales as shoppers stay away from brick-and-mortar stores
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Tony Hsieh, the former head of Zappos who catapulted the shoe company into the big leagues with a sale to Amazon and then used the proceeds of his success in a huge project kickstarting regeneration of a run-down part of Las Vegas, Nevada, with tech and wider…*
-      
+       
   - Facebook’s Libra could launch in January
       <hr/>
-      
-      - *According to a report from the Financial Times, Facebook-backed cryptocurrency Libra could launch in January. More interestingly, the Libra Association, the consortium created by Facebook, could scale back its ambitions once again. When it was first unveiled,…*
        
-  - India sets rules for commissions, surge pricing for Uber and Ola
-      <hr/>
-       
-       - *Ride-hailing firms such as Ola and Uber can only draw a fee of up to 20% on ride fares in India, New Delhi said in guidelines on Friday, a new setback for the SoftBank-backed firms already struggling to improve their finances in the key overseas market. The g…*
+       - *According to a report from the Financial Times, Facebook-backed cryptocurrency Libra could launch in January. More interestingly, the Libra Association, the consortium created by Facebook, could scale back its ambitions once again. When it was first unveiled,…*
       
 
 <br />
