@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Tony Hsieh, iconic Las Vegas tech entrepreneur, dies aged 46
+  - Black Friday on track for $8.9B+ in online sales as shoppers stay away from brick-and-mortar stores
      <hr/>
      
-      - *Tony Hsieh, the former head of Zappos who catapulted the shoe company into the big leagues with a sale to Amazon and then used the proceeds of his success in a huge project kickstarting regeneration of a run-down part of Las Vegas, Nevada, with tech and wider…*
+      - *Black Friday — the day that launched 1,000 other shopping holidays — may have lost its place as the “start” of the Christmas shopping season by now (it gets bigger and earlier with each passing year). But the day after Thanksgiving still pulls in a crowd of b…*
      
+  - Tony Hsieh, iconic Las Vegas tech entrepreneur, dies aged 46
+      <hr/>
+      
+      - *Tony Hsieh, the former head of Zappos who catapulted the shoe company into the big leagues with a sale to Amazon and then used the proceeds of his success in a huge project kickstarting regeneration of a run-down part of Las Vegas, Nevada, with tech and wider…*
+      
   - Facebook’s Libra could launch in January
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Ride-hailing firms such as Ola and Uber can only draw a fee of up to 20% on ride fares in India, New Delhi said in guidelines on Friday, a new setback for the SoftBank-backed firms already struggling to improve their finances in the key overseas market. The g…*
-      
+       
   - There's no 'hacker house' geared toward undergraduate women, so they created one of their own
       <hr/>
-      
-      - *Hacker houses are making a comeback for entrepreneurs as remote work drags on. While founders are adapting to quarantine in style, a group of college women in their 20s aren’t waiting until they are done with undergraduate to plunge into the lifestyle themsel…*
        
-  - No Google-Fitbit merger without human rights remedies, says Amnesty to EU
-      <hr/>
-       
-       - *Human rights NGO, Amnesty International, has written to the EU’s competition regulator calling for Google’s acquisition of wearable maker Fitbit to be blocked — unless meaningful safeguards can be baked in. The tech giant announced its intent to splash $2.1BN…*
+       - *Hacker houses are making a comeback for entrepreneurs as remote work drags on. While founders are adapting to quarantine in style, a group of college women in their 20s aren’t waiting until they are done with undergraduate to plunge into the lifestyle themsel…*
       
 
 <br />
