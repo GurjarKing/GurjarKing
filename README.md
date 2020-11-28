@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook’s Libra could launch in January
+  - Tony Hsieh, iconic Las Vegas tech entrepreneur, dies aged 46
      <hr/>
      
-      - *According to a report from the Financial Times, Facebook-backed cryptocurrency Libra could launch in January. More interestingly, the Libra Association, the consortium created by Facebook, could scale back its ambitions once again. When it was first unveiled,…*
+      - *Tony Hsieh, the former head of Zappos who catapulted the shoe company into the big leagues with a sale to Amazon and then used the proceeds of his success in a huge project kickstarting regeneration of a run-down part of Las Vegas, Nevada, with tech and wider…*
      
+  - Facebook’s Libra could launch in January
+      <hr/>
+      
+      - *According to a report from the Financial Times, Facebook-backed cryptocurrency Libra could launch in January. More interestingly, the Libra Association, the consortium created by Facebook, could scale back its ambitions once again. When it was first unveiled,…*
+      
   - India sets rules for commissions, surge pricing for Uber and Ola
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Hacker houses are making a comeback for entrepreneurs as remote work drags on. While founders are adapting to quarantine in style, a group of college women in their 20s aren’t waiting until they are done with undergraduate to plunge into the lifestyle themsel…*
-      
+       
   - No Google-Fitbit merger without human rights remedies, says Amnesty to EU
       <hr/>
-      
-      - *Human rights NGO, Amnesty International, has written to the EU’s competition regulator calling for Google’s acquisition of wearable maker Fitbit to be blocked — unless meaningful safeguards can be baked in. The tech giant announced its intent to splash $2.1BN…*
        
-  - Is Slack overpriced now that the market knows Salesforce might buy it?
-      <hr/>
-       
-       - *The Exchange is technically off today, but we’re here anyway because there’s neat stuff in the world of startups and money to talk about. So, let’s yammer this morning about Slack’s new valuation and what the market is telling us about what the venerable SaaS…*
+       - *Human rights NGO, Amnesty International, has written to the EU’s competition regulator calling for Google’s acquisition of wearable maker Fitbit to be blocked — unless meaningful safeguards can be baked in. The tech giant announced its intent to splash $2.1BN…*
       
 
 <br />
