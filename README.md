@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Black Friday on track for $8.9B+ in online sales as shoppers stay away from brick-and-mortar stores
+  - Original Content podcast: Just don't watch Netflix's 'Holidate' with your parents
      <hr/>
      
-      - *Black Friday — the day that launched 1,000 other shopping holidays — may have lost its place as the “start” of the Christmas shopping season by now (it gets bigger and earlier with each passing year). But the day after Thanksgiving still pulls in a crowd of b…*
+      - *You might think that a new Netflix film called “Holidate” offers holiday-themed romance that’s perfect for a family watch party. You’d be wrong. The film stars Emma Roberts and Luke Bracey as a pair of strangers who agree (in classic romantic comedy style) to…*
      
+  - Black Friday on track for $8.9B+ in online sales as shoppers stay away from brick-and-mortar stores
+      <hr/>
+      
+      - *Black Friday — the day that launched 1,000 other shopping holidays — may have lost its place as the “start” of the Christmas shopping season by now (it gets bigger and earlier with each passing year). But the day after Thanksgiving still pulls in a crowd of b…*
+      
   - Tony Hsieh, iconic Las Vegas tech entrepreneur, dies aged 46
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *According to a report from the Financial Times, Facebook-backed cryptocurrency Libra could launch in January. More interestingly, the Libra Association, the consortium created by Facebook, could scale back its ambitions once again. When it was first unveiled,…*
-      
+       
   - India sets rules for commissions, surge pricing for Uber and Ola
       <hr/>
-      
-      - *Ride-hailing firms such as Ola and Uber can only draw a fee of up to 20% on ride fares in India, New Delhi said in guidelines on Friday, a new setback for the SoftBank-backed firms already struggling to improve their finances in the key overseas market. The g…*
        
-  - There's no 'hacker house' geared toward undergraduate women, so they created one of their own
-      <hr/>
-       
-       - *Hacker houses are making a comeback for entrepreneurs as remote work drags on. While founders are adapting to quarantine in style, a group of college women in their 20s aren’t waiting until they are done with undergraduate to plunge into the lifestyle themsel…*
+       - *Ride-hailing firms such as Ola and Uber can only draw a fee of up to 20% on ride fares in India, New Delhi said in guidelines on Friday, a new setback for the SoftBank-backed firms already struggling to improve their finances in the key overseas market. The g…*
       
 
 <br />
