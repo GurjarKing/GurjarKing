@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - What to make of Stripe’s possible $100B valuation
+  - This Week in Apps: Snapchat clones TikTok, India bans 43 Chinese apps, more data on App Store commission changes
      <hr/>
      
-      - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. Welcome to a special Thanksgiving edition of The Exchange. Today we will be brief. But not silent, as there is …*
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest in mobile OS news, mobile applications, and the overall app economy. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consumer spending …*
      
+  - The Supreme Court will hear its first big CFAA case
+      <hr/>
+      
+      - *The court's decision could fundamentally change how millions use their computers and access online services.*
+      
+  - What to make of Stripe’s possible $100B valuation
+      <hr/>
+      
+      - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. Welcome to a special Thanksgiving edition of The Exchange. Today we will be brief. But not silent, as there is …*
+      
   - How Ryan Reynolds and Mint Mobile worked without becoming the joke
       <hr/>
       
       - *In the past decade, celebrity interest and investment in tech companies has significantly increased. But not all celebrity investments are created equally. Some investors, like Ashton Kutcher, have prioritized the VC pursuits. Some have invested casually with…*
-      
+       
   - Original Content podcast: Just don't watch Netflix's 'Holidate' with your parents
       <hr/>
-      
-      - *You might think that a new Netflix film called “Holidate” offers holiday-themed romance that’s perfect for a family watch party. You’d be wrong. The film stars Emma Roberts and Luke Bracey as a pair of strangers who agree (in classic romantic comedy style) to…*
-      
-  - Black Friday on track for $8.9B+ in online sales as shoppers stay away from brick-and-mortar stores
-      <hr/>
-      
-      - *Black Friday — the day that launched 1,000 other shopping holidays — may have lost its place as the “start” of the Christmas shopping season by now (it gets bigger and earlier with each passing year). But the day after Thanksgiving still pulls in a crowd of b…*
        
-  - Tony Hsieh, iconic Las Vegas tech entrepreneur, dies aged 46
-      <hr/>
-       
-       - *Tony Hsieh, the former head of Zappos who catapulted the shoe company into the big leagues with a sale to Amazon and then used the proceeds of his success in a huge project kickstarting regeneration of a run-down part of Las Vegas, Nevada, with tech and wider…*
+       - *You might think that a new Netflix film called “Holidate” offers holiday-themed romance that’s perfect for a family watch party. You’d be wrong. The film stars Emma Roberts and Luke Bracey as a pair of strangers who agree (in classic romantic comedy style) to…*
       
 
 <br />
