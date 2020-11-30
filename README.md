@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The Trump administration will add SMIC, China's largest chipmaker, to its defense blacklist: report
+  - HungryPanda raises $70M for a food delivery app aimed at overseas Chinese consumers
      <hr/>
      
-      - *SMIC, one of largest chip makers in the world, is among several companies that the Department of Defense plans to designate as being owned or controlled by the Chinese military, reports Reuters. Earlier this month, President Donald Trump signed an executive o…*
+      - *Food delivery apps have been a big deal this year for consumers stuck at home and unable (or unwilling) to go to restaurants or grocery stores; and for investors who are eyeing the opportunity to back rising stars to help them grow. Today came the latest deve…*
      
+  - Gartner: Q3 smartphone sales down 5.7% to 366M, slicing Covid-19 declines in Q1, Q2
+      <hr/>
+      
+      - *We are now into the all-important holiday sales period, and new numbers from Gartner point to some recovery underway for the smartphone market as vendors roll out a raft of new 5G handsets. Q3 smartphone figures from the analysts published today showed that s…*
+      
+  - The Trump administration will add SMIC, China's largest chipmaker, to its defense blacklist: report
+      <hr/>
+      
+      - *SMIC, one of largest chip makers in the world, is among several companies that the Department of Defense plans to designate as being owned or controlled by the Chinese military, reports Reuters. Earlier this month, President Donald Trump signed an executive o…*
+      
   - Primer, the fintech helping merchants consolidate the payments stack, raises £14M Series A
       <hr/>
       
       - *Primer, the U.K. fintech that wants to help merchants consolidate their payments stack and easily support new payment methods in the future, has raised £14 million in Series A funding. The round was led by Accel, who I understand were quite proactive in persu…*
-      
+       
   - Gillmor Gang: Electrical Banana
       <hr/>
-      
-      - *Thanks I’m giving for the start of the first big online season. Yes, the pandemic has put in place a gigantic move to the digital for our immediate and accelerated future. We all know how this plays out in the required state of things pre-vaccine. But there’s…*
-      
-  - Firstminute Capital launches second $111 fund, featuring a whos-who of founders as LPs
-      <hr/>
-      
-      - *London HQ’d Firstminute Capital has announced its second early-stage venture fund of $111m (£87m). Founded and cornerstoned in 2016 by Brent Hoberman CBE (best known as co-founder of lastminute.com and MADE.com), together with Spencer Crawley (formerly of Gol…*
        
-  - This Week in Apps: Snapchat clones TikTok, India bans 43 Chinese apps, more data on App Store commission changes
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest in mobile OS news, mobile applications, and the overall app economy. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consumer spending …*
+       - *Thanks I’m giving for the start of the first big online season. Yes, the pandemic has put in place a gigantic move to the digital for our immediate and accelerated future. We all know how this plays out in the required state of things pre-vaccine. But there’s…*
       
 
 <br />
