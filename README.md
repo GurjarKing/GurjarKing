@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Moderna claims 94% efficacy for COVID-19 vaccine, will ask FDA for emergency use authorization today
+  - EU lawmakers to push audio-visual sector on geoblocking
      <hr/>
      
-      - *Drugmaker Moderna has completed its initial efficacy analysis of its COVID-19 vaccine from the drug’s Phase 3 clinical study, and determined that it was 94.1% effective in preventing people from contracting COVID-19 across 196 confirmed cases from among 30,00…*
+      - *European Union lawmakers are considering whether current rules aimed at limiting the practice of geoblocking across the bloc should be extended to cover access to streaming audio-visual content. Access to services like Netflix tends to be gated to individual …*
      
+  - ServiceNow is acquiring Element AI, the Canadian startup building AI services for enterprises
+      <hr/>
+      
+      - *ServiceNow, the cloud-based IT services company, is making a significant acquisition today to fill out its longer-term strategy to be a big player in the worlds of automation and artificial intelligence for enterprises. It is acquiring Element AI, a startup o…*
+      
+  - Moderna claims 94% efficacy for COVID-19 vaccine, will ask FDA for emergency use authorization today
+      <hr/>
+      
+      - *Drugmaker Moderna has completed its initial efficacy analysis of its COVID-19 vaccine from the drug’s Phase 3 clinical study, and determined that it was 94.1% effective in preventing people from contracting COVID-19 across 196 confirmed cases from among 30,00…*
+      
   - Apple on the hook for €10M in Italy, accused of misleading users about iPhone water resistance
       <hr/>
       
       - *Apple’s marketing of iPhones as ‘water resistant’ without clarifying the limits of the feature and also having a warranty that excludes cover for damage by liquids has got the company into hot water in Italy. The Italian competition authority (AGCM) has infor…*
-      
+       
   - UK shrinks timetable for telcos to stop installing 5G kit from Huawei
       <hr/>
-      
-      - *The UK government has squeezed the timetable for domestic telcos to stop installing 5G kit from Chinese suppliers, per the BBC, which reports that the deadline for installation of kit from so-called ‘high risk’ vendors is now September. It had already announc…*
-      
-  - HungryPanda raises $70M for a food delivery app aimed at overseas Chinese consumers
-      <hr/>
-      
-      - *Food delivery apps have been a big deal this year for consumers stuck at home and unable (or unwilling) to go to restaurants or grocery stores; and for investors who are eyeing the opportunity to back rising stars to help them grow. Today came the latest deve…*
        
-  - Gartner: Q3 smartphone sales down 5.7% to 366M, slicing Covid-19 declines in Q1, Q2
-      <hr/>
-       
-       - *We are now into the all-important holiday sales period, and new numbers from Gartner point to some recovery underway for the smartphone market as vendors roll out a raft of new 5G handsets. Q3 smartphone figures from the analysts published today showed that s…*
+       - *The UK government has squeezed the timetable for domestic telcos to stop installing 5G kit from Chinese suppliers, per the BBC, which reports that the deadline for installation of kit from so-called ‘high risk’ vendors is now September. It had already announc…*
       
 
 <br />
