@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Primer, the fintech helping merchants consolidate the payments stack, raises £14M Series A
+  - The Trump administration will add SMIC, China's largest chipmaker, to its defense blacklist: report
      <hr/>
      
-      - *Primer, the U.K. fintech that wants to help merchants consolidate their payments stack and easily support new payment methods in the future, has raised £14 million in Series A funding. The round was led by Accel, who I understand were quite proactive in persu…*
+      - *SMIC, one of largest chip makers in the world, is among several companies that the Department of Defense plans to designate as being owned or controlled by the Chinese military, reports Reuters. Earlier this month, President Donald Trump signed an executive o…*
      
+  - Primer, the fintech helping merchants consolidate the payments stack, raises £14M Series A
+      <hr/>
+      
+      - *Primer, the U.K. fintech that wants to help merchants consolidate their payments stack and easily support new payment methods in the future, has raised £14 million in Series A funding. The round was led by Accel, who I understand were quite proactive in persu…*
+      
   - Gillmor Gang: Electrical Banana
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *London HQ’d Firstminute Capital has announced its second early-stage venture fund of $111m (£87m). Founded and cornerstoned in 2016 by Brent Hoberman CBE (best known as co-founder of lastminute.com and MADE.com), together with Spencer Crawley (formerly of Gol…*
-      
+       
   - This Week in Apps: Snapchat clones TikTok, India bans 43 Chinese apps, more data on App Store commission changes
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest in mobile OS news, mobile applications, and the overall app economy. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consumer spending …*
        
-  - The Supreme Court will hear its first big CFAA case
-      <hr/>
-       
-       - *The court's decision could fundamentally change how millions use their computers and access online services.*
+       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest in mobile OS news, mobile applications, and the overall app economy. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consumer spending …*
       
 
 <br />
