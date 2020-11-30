@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - This Week in Apps: Snapchat clones TikTok, India bans 43 Chinese apps, more data on App Store commission changes
+  - Primer, the fintech helping merchants consolidate the payments stack, raises £14M Series A
      <hr/>
      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest in mobile OS news, mobile applications, and the overall app economy. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consumer spending …*
+      - *Primer, the U.K. fintech that wants to help merchants consolidate their payments stack and easily support new payment methods in the future, has raised £14 million in Series A funding. The round was led by Accel, who I understand were quite proactive in persu…*
      
+  - Gillmor Gang: Electrical Banana
+      <hr/>
+      
+      - *Thanks I’m giving for the start of the first big online season. Yes, the pandemic has put in place a gigantic move to the digital for our immediate and accelerated future. We all know how this plays out in the required state of things pre-vaccine. But there’s…*
+      
+  - Firstminute Capital launches second $111 fund, featuring a whos-who of founders as LPs
+      <hr/>
+      
+      - *London HQ’d Firstminute Capital has announced its second early-stage venture fund of $111m (£87m). Founded and cornerstoned in 2016 by Brent Hoberman CBE (best known as co-founder of lastminute.com and MADE.com), together with Spencer Crawley (formerly of Gol…*
+      
+  - This Week in Apps: Snapchat clones TikTok, India bans 43 Chinese apps, more data on App Store commission changes
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest in mobile OS news, mobile applications, and the overall app economy. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consumer spending …*
+       
   - The Supreme Court will hear its first big CFAA case
       <hr/>
-      
-      - *The court's decision could fundamentally change how millions use their computers and access online services.*
-      
-  - What to make of Stripe’s possible $100B valuation
-      <hr/>
-      
-      - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. Welcome to a special Thanksgiving edition of The Exchange. Today we will be brief. But not silent, as there is …*
-      
-  - How Ryan Reynolds and Mint Mobile worked without becoming the joke
-      <hr/>
-      
-      - *In the past decade, celebrity interest and investment in tech companies has significantly increased. But not all celebrity investments are created equally. Some investors, like Ashton Kutcher, have prioritized the VC pursuits. Some have invested casually with…*
        
-  - Original Content podcast: Just don't watch Netflix's 'Holidate' with your parents
-      <hr/>
-       
-       - *You might think that a new Netflix film called “Holidate” offers holiday-themed romance that’s perfect for a family watch party. You’d be wrong. The film stars Emma Roberts and Luke Bracey as a pair of strangers who agree (in classic romantic comedy style) to…*
+       - *The court's decision could fundamentally change how millions use their computers and access online services.*
       
 
 <br />
