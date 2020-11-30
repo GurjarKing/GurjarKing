@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - HungryPanda raises $70M for a food delivery app aimed at overseas Chinese consumers
+  - UK shrinks timetable for telcos to stop installing 5G kit from Huawei
      <hr/>
      
-      - *Food delivery apps have been a big deal this year for consumers stuck at home and unable (or unwilling) to go to restaurants or grocery stores; and for investors who are eyeing the opportunity to back rising stars to help them grow. Today came the latest deve…*
+      - *The UK government has squeezed the timetable for domestic telcos to stop installing 5G kit from Chinese suppliers, per the BBC, which reports that the deadline for installation of kit from so-called ‘high risk’ vendors is now September. It had already announc…*
      
+  - HungryPanda raises $70M for a food delivery app aimed at overseas Chinese consumers
+      <hr/>
+      
+      - *Food delivery apps have been a big deal this year for consumers stuck at home and unable (or unwilling) to go to restaurants or grocery stores; and for investors who are eyeing the opportunity to back rising stars to help them grow. Today came the latest deve…*
+      
   - Gartner: Q3 smartphone sales down 5.7% to 366M, slicing Covid-19 declines in Q1, Q2
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *SMIC, one of largest chip makers in the world, is among several companies that the Department of Defense plans to designate as being owned or controlled by the Chinese military, reports Reuters. Earlier this month, President Donald Trump signed an executive o…*
-      
+       
   - Primer, the fintech helping merchants consolidate the payments stack, raises £14M Series A
       <hr/>
-      
-      - *Primer, the U.K. fintech that wants to help merchants consolidate their payments stack and easily support new payment methods in the future, has raised £14 million in Series A funding. The round was led by Accel, who I understand were quite proactive in persu…*
        
-  - Gillmor Gang: Electrical Banana
-      <hr/>
-       
-       - *Thanks I’m giving for the start of the first big online season. Yes, the pandemic has put in place a gigantic move to the digital for our immediate and accelerated future. We all know how this plays out in the required state of things pre-vaccine. But there’s…*
+       - *Primer, the U.K. fintech that wants to help merchants consolidate their payments stack and easily support new payment methods in the future, has raised £14 million in Series A funding. The round was led by Accel, who I understand were quite proactive in persu…*
       
 
 <br />
