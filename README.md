@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - UK shrinks timetable for telcos to stop installing 5G kit from Huawei
+  - Moderna claims 94% efficacy for COVID-19 vaccine, will ask FDA for emergency use authorization today
      <hr/>
      
-      - *The UK government has squeezed the timetable for domestic telcos to stop installing 5G kit from Chinese suppliers, per the BBC, which reports that the deadline for installation of kit from so-called ‘high risk’ vendors is now September. It had already announc…*
+      - *Drugmaker Moderna has completed its initial efficacy analysis of its COVID-19 vaccine from the drug’s Phase 3 clinical study, and determined that it was 94.1% effective in preventing people from contracting COVID-19 across 196 confirmed cases from among 30,00…*
      
+  - Apple on the hook for €10M in Italy, accused of misleading users about iPhone water resistance
+      <hr/>
+      
+      - *Apple’s marketing of iPhones as ‘water resistant’ without clarifying the limits of the feature and also having a warranty that excludes cover for damage by liquids has got the company into hot water in Italy. The Italian competition authority (AGCM) has infor…*
+      
+  - UK shrinks timetable for telcos to stop installing 5G kit from Huawei
+      <hr/>
+      
+      - *The UK government has squeezed the timetable for domestic telcos to stop installing 5G kit from Chinese suppliers, per the BBC, which reports that the deadline for installation of kit from so-called ‘high risk’ vendors is now September. It had already announc…*
+      
   - HungryPanda raises $70M for a food delivery app aimed at overseas Chinese consumers
       <hr/>
       
       - *Food delivery apps have been a big deal this year for consumers stuck at home and unable (or unwilling) to go to restaurants or grocery stores; and for investors who are eyeing the opportunity to back rising stars to help them grow. Today came the latest deve…*
-      
+       
   - Gartner: Q3 smartphone sales down 5.7% to 366M, slicing Covid-19 declines in Q1, Q2
       <hr/>
-      
-      - *We are now into the all-important holiday sales period, and new numbers from Gartner point to some recovery underway for the smartphone market as vendors roll out a raft of new 5G handsets. Q3 smartphone figures from the analysts published today showed that s…*
-      
-  - The Trump administration will add SMIC, China's largest chipmaker, to its defense blacklist: report
-      <hr/>
-      
-      - *SMIC, one of largest chip makers in the world, is among several companies that the Department of Defense plans to designate as being owned or controlled by the Chinese military, reports Reuters. Earlier this month, President Donald Trump signed an executive o…*
        
-  - Primer, the fintech helping merchants consolidate the payments stack, raises £14M Series A
-      <hr/>
-       
-       - *Primer, the U.K. fintech that wants to help merchants consolidate their payments stack and easily support new payment methods in the future, has raised £14 million in Series A funding. The round was led by Accel, who I understand were quite proactive in persu…*
+       - *We are now into the all-important holiday sales period, and new numbers from Gartner point to some recovery underway for the smartphone market as vendors roll out a raft of new 5G handsets. Q3 smartphone figures from the analysts published today showed that s…*
       
 
 <br />
