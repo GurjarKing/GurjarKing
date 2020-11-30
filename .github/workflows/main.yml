@@ -1,8 +1,8 @@
-name: Generate README News every hour
+name: Generate README News every 12 hour
 
 on: 
   schedule:
-     - cron: "0 * * * *"
+     - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - name: Automated News Updation (Hourly)
+      - name: Automated News Updation
         uses: actions/setup-node@v1
         with:
           node-version: 12.15.0
@@ -26,7 +26,7 @@ jobs:
            git add .
            git config --global user.name "GurjarKing"
            git config --global user.email "nitinnagar432@gmail.com"
-           git commit -m "Automated News Update (Hourly)"
+           git commit -m "Automated News Update"
         
       - name: Push
         uses: ad-m/github-push-action@master
