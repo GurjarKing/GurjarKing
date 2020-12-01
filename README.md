@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - EV bus and truck maker The Lion Electric to take SPAC route to public markets
+  - GoSite snags $40M to help SMBs bring their businesses online
      <hr/>
      
-      - *Canadian electric truck and bus manufacturer The Lion Electric Company said Monday it plans to become a publicly traded company via a merger with special-purpose acquisition company Northern Genesis Acquisition Corp. The combined company, which will be listed…*
+      - *There are 12 million small and medium businesses in the US, yet they have continued to be one of most underserved segments of the B2B universe: that volume underscores a lot of fragmentation, and alongside other issues like budget constraints, there are a num…*
      
-  - Daily Crunch: Facebook acquires Kustomer for $1B
+  - Nordigen introduces free European open banking API
       <hr/>
       
-      - *Facebook makes a billion-dollar acquisition, we learn more about Twitter’s Clubhouse-style feature and Moderna applies for emergency authorization for its COVID-19 vaccine. This is your Daily Crunch for November 30, 2020. The big story: Facebook acquires Kust…*
+      - *Latvian fintech startup Nordigen is switching to a freemium model thanks to a free open banking API. Open banking was supposed to democratize access to banking information, but the company believes banking aggregation APIs from Tink or Plaid are too expensive…*
       
-  - A tween tries Apple's new 'Family Setup' system for Apple Watch
+  - Vivenu, a ticketing API for events, closes a $15M Series A round led by Balderton Capital
       <hr/>
       
-      - *With the release of watchOS 7, Apple at last turned the Apple Watch into the GPS-based kid tracker parents have wanted, albeit at a price point that requires careful consideration. As someone in the target demographic for such a device — a parent of a “tween”…*
+      - *vivenu, a ticketing platform that offers an API for venues and promoters to customize to their needs, has closed a $15 million (€12.6 million) in Series A funding led by Balderton Capital. Previous investor Redalpine also participated. Historically-speaking, …*
       
-  - With an eye for what's next, longtime operator and VC Josh Elman gets pulled into Apple
+  - Databand raises $14.5M led by Accel for its data pipeline observability tools
       <hr/>
       
-      - *Josh Elman is moving over to Apple, he announced on Twitter today, saying he will be focused on the company’s App Store and helping “customers discover the best apps for them.” Asked for more details about his new role, Elman referred us to Apple, which confi…*
+      - *DevOps continues to get a lot of attention as a wave of companies develop more sophisticated tools to help developers manage increasingly complex architectures and workloads. In the latest development, Databand — an AI-based observability platform for data pi…*
        
-  - Vista acquires Gainsight for $1.1B, adding to its growing enterprise arsenal
+  - WhatsApp is upping its wallpapers and stickers game
       <hr/>
        
-       - *Vista Equity Partners hasn’t been shy about scooping up enterprise companies over the years, and today it added to a growing portfolio with its purchase of Gainsight.  The company’s software helps clients with customer success, meaning it helps create a posit…*
+       - *WhatsApp is finally upping its wallpapers and stickers game. The instant messaging service said on Tuesday that it will now allow users to set custom wallpapers for different chats. There’s no limit on how many custom wallpapers a user could choose to assign …*
       
 
 <br />
