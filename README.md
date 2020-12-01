@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - EU lawmakers to push audio-visual sector on geoblocking
+  - EV bus and truck maker The Lion Electric to take SPAC route to public markets
      <hr/>
      
-      - *European Union lawmakers are considering whether current rules aimed at limiting the practice of geoblocking across the bloc should be extended to cover access to streaming audio-visual content. Access to services like Netflix tends to be gated to individual …*
+      - *Canadian electric truck and bus manufacturer The Lion Electric Company said Monday it plans to become a publicly traded company via a merger with special-purpose acquisition company Northern Genesis Acquisition Corp. The combined company, which will be listed…*
      
-  - ServiceNow is acquiring Element AI, the Canadian startup building AI services for enterprises
+  - Daily Crunch: Facebook acquires Kustomer for $1B
       <hr/>
       
-      - *ServiceNow, the cloud-based IT services company, is making a significant acquisition today to fill out its longer-term strategy to be a big player in the worlds of automation and artificial intelligence for enterprises. It is acquiring Element AI, a startup o…*
+      - *Facebook makes a billion-dollar acquisition, we learn more about Twitter’s Clubhouse-style feature and Moderna applies for emergency authorization for its COVID-19 vaccine. This is your Daily Crunch for November 30, 2020. The big story: Facebook acquires Kust…*
       
-  - Moderna claims 94% efficacy for COVID-19 vaccine, will ask FDA for emergency use authorization today
+  - A tween tries Apple's new 'Family Setup' system for Apple Watch
       <hr/>
       
-      - *Drugmaker Moderna has completed its initial efficacy analysis of its COVID-19 vaccine from the drug’s Phase 3 clinical study, and determined that it was 94.1% effective in preventing people from contracting COVID-19 across 196 confirmed cases from among 30,00…*
+      - *With the release of watchOS 7, Apple at last turned the Apple Watch into the GPS-based kid tracker parents have wanted, albeit at a price point that requires careful consideration. As someone in the target demographic for such a device — a parent of a “tween”…*
       
-  - Apple on the hook for €10M in Italy, accused of misleading users about iPhone water resistance
+  - With an eye for what's next, longtime operator and VC Josh Elman gets pulled into Apple
       <hr/>
       
-      - *Apple’s marketing of iPhones as ‘water resistant’ without clarifying the limits of the feature and also having a warranty that excludes cover for damage by liquids has got the company into hot water in Italy. The Italian competition authority (AGCM) has infor…*
+      - *Josh Elman is moving over to Apple, he announced on Twitter today, saying he will be focused on the company’s App Store and helping “customers discover the best apps for them.” Asked for more details about his new role, Elman referred us to Apple, which confi…*
        
-  - UK shrinks timetable for telcos to stop installing 5G kit from Huawei
+  - Vista acquires Gainsight for $1.1B, adding to its growing enterprise arsenal
       <hr/>
        
-       - *The UK government has squeezed the timetable for domestic telcos to stop installing 5G kit from Chinese suppliers, per the BBC, which reports that the deadline for installation of kit from so-called ‘high risk’ vendors is now September. It had already announc…*
+       - *Vista Equity Partners hasn’t been shy about scooping up enterprise companies over the years, and today it added to a growing portfolio with its purchase of Gainsight.  The company’s software helps clients with customer success, meaning it helps create a posit…*
       
 
 <br />
