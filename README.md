@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - GoSite snags $40M to help SMBs bring their businesses online
+  - Massachusetts lawmakers vote to pass a statewide police ban on facial recognition
      <hr/>
      
-      - *There are 12 million small and medium businesses in the US, yet they have continued to be one of most underserved segments of the B2B universe: that volume underscores a lot of fragmentation, and alongside other issues like budget constraints, there are a num…*
+      - *The bill was finally passed after months of deadline.*
      
-  - Nordigen introduces free European open banking API
+  - Virgin Galactic plans first rocket-powered test flight from New Mexico for next week
       <hr/>
       
-      - *Latvian fintech startup Nordigen is switching to a freemium model thanks to a free open banking API. Open banking was supposed to democratize access to banking information, but the company believes banking aggregation APIs from Tink or Plaid are too expensive…*
+      - *Virgin Galactic has revealed the flight window for the first rocket-powered flight of its VSS Unity spacecraft from the shiny new Spaceport America in New Mexico. The ship could be in the air as early as December 11. This flight will be the third for Unity ou…*
       
-  - Vivenu, a ticketing API for events, closes a $15M Series A round led by Balderton Capital
+  - Equity Shot: Salesforce's $27.7 billion-dollar Slack message
       <hr/>
       
-      - *vivenu, a ticketing platform that offers an API for venues and promoters to customize to their needs, has closed a $15 million (€12.6 million) in Series A funding led by Balderton Capital. Previous investor Redalpine also participated. Historically-speaking, …*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. Welcome to an Equity Shot all about the huge, and hugely interesting Salesforce -Slack deal, in which the enterprise social compan…*
       
-  - Databand raises $14.5M led by Accel for its data pipeline observability tools
+  - Daily Crunch: Salesforce buys Slack for $27.7B
       <hr/>
       
-      - *DevOps continues to get a lot of attention as a wave of companies develop more sophisticated tools to help developers manage increasingly complex architectures and workloads. In the latest development, Databand — an AI-based observability platform for data pi…*
+      - *Salesforce announces its acquisition of Slack, Amazon brings the Mac mini to the cloud and Google Maps gets a newsfeed. This is your Daily Crunch for December 1, 2020. The big story: Salesforce buys Slack for $27.7B The acquisition, which was first reported l…*
        
-  - WhatsApp is upping its wallpapers and stickers game
+  - Lightspeed acquires restaurant software company Upserve for $430M
       <hr/>
        
-       - *WhatsApp is finally upping its wallpapers and stickers game. The instant messaging service said on Tuesday that it will now allow users to set custom wallpapers for different chats. There’s no limit on how many custom wallpapers a user could choose to assign …*
+       - *Lightspeed POS just announced the acquisition of Upserve, expanding Lightspeed’s presence in the restaurant industry. The company already offers cloud-based point-of-sale software for restaurants and other businesses. It went public in Canada last year before…*
       
 
 <br />
