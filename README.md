@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Massachusetts lawmakers vote to pass a statewide police ban on facial recognition
+  - Bizzabo raises $138M for a platform that helps you build and run virtual conferences
      <hr/>
      
-      - *The bill was finally passed after months of deadline.*
+      - *Conferences have — for better or worse (and if you’ve ever been trapped in a cavernous CES exhibition hall, you might say worse) — become a significant cornerstone of how industries engage with their audiences, whether they are comics superfans, or iOS develo…*
      
-  - Virgin Galactic plans first rocket-powered test flight from New Mexico for next week
+  - Genesis Therapeutics raises $52M A round for its AI-focused drug discovery mission
       <hr/>
       
-      - *Virgin Galactic has revealed the flight window for the first rocket-powered flight of its VSS Unity spacecraft from the shiny new Spaceport America in New Mexico. The ship could be in the air as early as December 11. This flight will be the third for Unity ou…*
+      - *Sifting through the trillions of molecules out there that might have powerful medicinal effects is a daunting task, but the solution biotech has found is to work smarter, not harder. Genesis Therapeutics has a new simulation approach and cross-disciplinary te…*
       
-  - Equity Shot: Salesforce's $27.7 billion-dollar Slack message
+  - The UK approves the BioNTech/Pfizer COVID-19 vaccine for emergency use
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. Welcome to an Equity Shot all about the huge, and hugely interesting Salesforce -Slack deal, in which the enterprise social compan…*
+      - *The UK’s medicines regulator has approved the BioNTech/Pfizer vaccine against COVID-19 for emergency use, the companies said today. The UK is the first country to approve the vaccine for widespread use — paving the way for some of the most “high risk” citizen…*
       
-  - Daily Crunch: Salesforce buys Slack for $27.7B
+  - Monzo, the U.K. challenger bank, picks up additional £60M in funding
       <hr/>
       
-      - *Salesforce announces its acquisition of Slack, Amazon brings the Mac mini to the cloud and Google Maps gets a newsfeed. This is your Daily Crunch for December 1, 2020. The big story: Salesforce buys Slack for $27.7B The acquisition, which was first reported l…*
+      - *Monzo, the U.K. challenger bank now with more than 4.8 million customers, has closed another £60 million in funding, priced the same as and effectively an extension of the its previous top-up round in June. This saw Monzo valued by private investors at around…*
        
-  - Lightspeed acquires restaurant software company Upserve for $430M
+  - Spotify launches '2020 Wrapped' with new features including quizzes, badges and, yes, stories
       <hr/>
        
-       - *Lightspeed POS just announced the acquisition of Upserve, expanding Lightspeed’s presence in the restaurant industry. The company already offers cloud-based point-of-sale software for restaurants and other businesses. It went public in Canada last year before…*
+       - *Spotify is today launching its 2020 Wrapped personalized experience — the company’s popular year-end review of users’ favorite artists, songs, genres, and podcasts. This year, however, Spotify is making a few changes. For starters, Wrapped will be exclusively…*
       
 
 <br />
