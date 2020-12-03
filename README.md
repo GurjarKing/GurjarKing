@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google shutting down Poly 3D content platform
+  - Portugal's Bizay - a customized products marketplace for SMBs - just raised a $38.6M C round
      <hr/>
      
-      - *Google is almost running out of AR/VR projects to kill off. The company announced today in an email to Poly users that they will be shutting 3D-object creation and library platform “forever” next year. The service will shut down on June 30, 2021 and users won…*
+      - *Bizay, a marketplace for small-to-medium-sized businesses allowing them to create highly customized products (such as merchandise), has raised a $38.6 million (€32 million) funding round. The Series C financing round was co-led by investors Indico Capital and…*
      
-  - Hulu officially launches its co-viewing feature Watch Party
+  - ultimate.ai scores $20M for a supportive approach to customer service automation
       <hr/>
       
-      - *Hulu’s social viewing feature, Watch Party, has now launched to all on-demand subscribers, the company announced today. The co-viewing feature was first introduced during the earlier days of the pandemic in 2020, allowing Hulu users to watch shows together fr…*
+      - *Ultimate.ai, a virtual customer service agent builder, has closed a $20 million Series A round of funding, led by Omers Ventures with participation from Felicis Ventures and existing investors HV Capital, and Maki.vc — bringing its total raised to date to $25…*
       
-  - Salesforce slumps 8.5% as its post-Slack selloff continues
+  - Alibaba and Ethiopian Airlines to launch cold chain exporting China's COVID vaccines
       <hr/>
       
-      - *Shares of Salesforce traded lower today, despite the company hosting a multi-hour keynote that included a buffet of Marc Benioff. What’s going on? Essentially, since the Salesforce-Slack deal reached the ears of the public, shares of the CRM giant have fallen…*
+      - *China has pledged that it would be sharing its COVID-19 vaccines with other countries, especially those with which it has close ties. While the country is not ready to deploy its vaccines internationally, it is gearing up the infrastructure for mass distribut…*
       
-  - Daily Crunch: Apple announces its best apps of 2020
+  - Web Summit will hold Rise 2022 in Kuala Lumpur, launch a new event in Tokyo
       <hr/>
       
-      - *Apple releases its annual best apps list, a self-driving truck startup raises $350 million and the BioNTech/Pfizer COVID-19 vaccine gets emergency approval in the United Kingdom. This is your Daily Crunch for December 2, 2020. The big story: Apple announces i…*
+      - *Web Summit announced today that it will revive Rise, one of Asia’s largest tech conferences, in March 2022, moving it to Kuala Lumpur after five years in Hong Kong. It also announced a new event, called Web Summit Tokyo, that will launch in 2022, too. The fla…*
        
-  - Everyone has an opinion on the $27.7B Slack acquisition
+  - Bolt unveils its fourth-generation scooter
       <hr/>
        
-       - *When the Salesforce-Slack deal was officially announced on Tuesday afternoon, and the number appeared, it was kind of hard to believe. Salesforce had shelled out more than $27 billion to buy Slack and bring it into the Salesforce family of products. The compa…*
+       - *Bolt is better known for its ride-hailing service. But the company also operates an electric scooter service in 45 cities across Europe. Designed by the company’s in-house hardware team, the new model focuses on safety. As you can see on the photo, it’s a big…*
       
 
 <br />
