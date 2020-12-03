@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Bizzabo raises $138M for a platform that helps you build and run virtual conferences
+  - Google shutting down Poly 3D content platform
      <hr/>
      
-      - *Conferences have — for better or worse (and if you’ve ever been trapped in a cavernous CES exhibition hall, you might say worse) — become a significant cornerstone of how industries engage with their audiences, whether they are comics superfans, or iOS develo…*
+      - *Google is almost running out of AR/VR projects to kill off. The company announced today in an email to Poly users that they will be shutting 3D-object creation and library platform “forever” next year. The service will shut down on June 30, 2021 and users won…*
      
-  - Genesis Therapeutics raises $52M A round for its AI-focused drug discovery mission
+  - Hulu officially launches its co-viewing feature Watch Party
       <hr/>
       
-      - *Sifting through the trillions of molecules out there that might have powerful medicinal effects is a daunting task, but the solution biotech has found is to work smarter, not harder. Genesis Therapeutics has a new simulation approach and cross-disciplinary te…*
+      - *Hulu’s social viewing feature, Watch Party, has now launched to all on-demand subscribers, the company announced today. The co-viewing feature was first introduced during the earlier days of the pandemic in 2020, allowing Hulu users to watch shows together fr…*
       
-  - The UK approves the BioNTech/Pfizer COVID-19 vaccine for emergency use
+  - Salesforce slumps 8.5% as its post-Slack selloff continues
       <hr/>
       
-      - *The UK’s medicines regulator has approved the BioNTech/Pfizer vaccine against COVID-19 for emergency use, the companies said today. The UK is the first country to approve the vaccine for widespread use — paving the way for some of the most “high risk” citizen…*
+      - *Shares of Salesforce traded lower today, despite the company hosting a multi-hour keynote that included a buffet of Marc Benioff. What’s going on? Essentially, since the Salesforce-Slack deal reached the ears of the public, shares of the CRM giant have fallen…*
       
-  - Monzo, the U.K. challenger bank, picks up additional £60M in funding
+  - Daily Crunch: Apple announces its best apps of 2020
       <hr/>
       
-      - *Monzo, the U.K. challenger bank now with more than 4.8 million customers, has closed another £60 million in funding, priced the same as and effectively an extension of the its previous top-up round in June. This saw Monzo valued by private investors at around…*
+      - *Apple releases its annual best apps list, a self-driving truck startup raises $350 million and the BioNTech/Pfizer COVID-19 vaccine gets emergency approval in the United Kingdom. This is your Daily Crunch for December 2, 2020. The big story: Apple announces i…*
        
-  - Spotify launches '2020 Wrapped' with new features including quizzes, badges and, yes, stories
+  - Everyone has an opinion on the $27.7B Slack acquisition
       <hr/>
        
-       - *Spotify is today launching its 2020 Wrapped personalized experience — the company’s popular year-end review of users’ favorite artists, songs, genres, and podcasts. This year, however, Spotify is making a few changes. For starters, Wrapped will be exclusively…*
+       - *When the Salesforce-Slack deal was officially announced on Tuesday afternoon, and the number appeared, it was kind of hard to believe. Salesforce had shelled out more than $27 billion to buy Slack and bring it into the Salesforce family of products. The compa…*
       
 
 <br />
