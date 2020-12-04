@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Joe White MBE appointed new UK Consul-General in SF, with new Technology Envoy role
+  - China's internet regulator takes aim at forced data collection
      <hr/>
      
-      - *Joe White MBE — a General Partner of Entrepreneur First, a Greylock backed early-stage deep tech fund — is leaving after being appointed as Her Majesty’s Consul-General, San Francisco, and Technology Envoy to the United States in a new, combined and powerful,…*
+      - *China is a step closer to cracking down on unscrupulous data collection by app developers. This week, the country’s cybersecurity watchdog began seeking comment on the range of user information that apps from instant messengers to ride-hailing services are al…*
      
-  - Daily Crunch: Google fires co-lead of its Ethical AI team
+  - YC-backed LemonBox raises $2.5M bringing vitamins to Chinese millennials
       <hr/>
       
-      - *Google fires a leading researcher, Stripe launches a new banking service and WarnerMedia shakes up the theatrical business model. This is your Daily Crunch for December 3, 2020. The big story: Google fires co-lead of its Ethical AI team Timnit Gebru, a leadin…*
+      - *Like many overseas Chinese, Derek Weng gets shopping requests from his family and friends whenever he returns to China. Some of the most wanted imported products are maternity items, cosmetics, and vitamin supplements. Many in China still uphold the belief th…*
       
-  - Gift Guide: Games on every platform to get you through the long, COVID winter
+  - Health tech venture firm OTV closes new $170 million fund and expands into Asia
       <hr/>
       
-      - *It's a great time to be a gamer — I mean, what else is there to do? And with the prospect of a long winter and lonely holiday season ahead of us, here's a list of games on all the major platforms that you can really sink your teeth — and a few dozen hours — i…*
+      - *OTV (formerly known as Olive Tree Ventures), an Israeli venture capital firm that focuses on digital health tech, announced it has closed a new fund totaling $170 million. The firm also launched a new office in Shanghai, China to spearhead its growth in the A…*
       
-  - What about $30 billion under 30
+  - WH's AI EO is BS
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. We’re back with not an Equity Shot or Dive of Monday, this is just the regular show! So, we got back to our roo…*
+      - *An Executive Order was just issued from the White House regarding “the Use of Trustworthy Artificial Intelligence in Government.” Leaving aside the meritless presumption of the government’s own trustworthiness and that it is the software that has trust issues…*
        
-  - Henry picks up cash to be a Lambda School for Latin America
+  - Joe White MBE appointed new UK Consul-General in SF, with new Technology Envoy role
       <hr/>
        
-       - *Latin America’s startup scene has attracted troves of venture investment, lifting highly-valued companies such as Rappi and NuBank into behemoth businesses. Now that the spotlight has arrived, those same startups need more talent than ever before to meet dema…*
+       - *Joe White MBE — a General Partner of Entrepreneur First, a Greylock backed early-stage deep tech fund — is leaving after being appointed as Her Majesty’s Consul-General, San Francisco, and Technology Envoy to the United States in a new, combined and powerful,…*
       
 
 <br />
