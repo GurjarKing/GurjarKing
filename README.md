@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Portugal's Bizay - a customized products marketplace for SMBs - just raised a $38.6M C round
+  - Joe White MBE appointed new UK Consul-General in SF, with new Technology Envoy role
      <hr/>
      
-      - *Bizay, a marketplace for small-to-medium-sized businesses allowing them to create highly customized products (such as merchandise), has raised a $38.6 million (€32 million) funding round. The Series C financing round was co-led by investors Indico Capital and…*
+      - *Joe White MBE — a General Partner of Entrepreneur First, a Greylock backed early-stage deep tech fund — is leaving after being appointed as Her Majesty’s Consul-General, San Francisco, and Technology Envoy to the United States in a new, combined and powerful,…*
      
-  - ultimate.ai scores $20M for a supportive approach to customer service automation
+  - Daily Crunch: Google fires co-lead of its Ethical AI team
       <hr/>
       
-      - *Ultimate.ai, a virtual customer service agent builder, has closed a $20 million Series A round of funding, led by Omers Ventures with participation from Felicis Ventures and existing investors HV Capital, and Maki.vc — bringing its total raised to date to $25…*
+      - *Google fires a leading researcher, Stripe launches a new banking service and WarnerMedia shakes up the theatrical business model. This is your Daily Crunch for December 3, 2020. The big story: Google fires co-lead of its Ethical AI team Timnit Gebru, a leadin…*
       
-  - Alibaba and Ethiopian Airlines to launch cold chain exporting China's COVID vaccines
+  - Gift Guide: Games on every platform to get you through the long, COVID winter
       <hr/>
       
-      - *China has pledged that it would be sharing its COVID-19 vaccines with other countries, especially those with which it has close ties. While the country is not ready to deploy its vaccines internationally, it is gearing up the infrastructure for mass distribut…*
+      - *It's a great time to be a gamer — I mean, what else is there to do? And with the prospect of a long winter and lonely holiday season ahead of us, here's a list of games on all the major platforms that you can really sink your teeth — and a few dozen hours — i…*
       
-  - Web Summit will hold Rise 2022 in Kuala Lumpur, launch a new event in Tokyo
+  - What about $30 billion under 30
       <hr/>
       
-      - *Web Summit announced today that it will revive Rise, one of Asia’s largest tech conferences, in March 2022, moving it to Kuala Lumpur after five years in Hong Kong. It also announced a new event, called Web Summit Tokyo, that will launch in 2022, too. The fla…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. We’re back with not an Equity Shot or Dive of Monday, this is just the regular show! So, we got back to our roo…*
        
-  - Bolt unveils its fourth-generation scooter
+  - Henry picks up cash to be a Lambda School for Latin America
       <hr/>
        
-       - *Bolt is better known for its ride-hailing service. But the company also operates an electric scooter service in 45 cities across Europe. Designed by the company’s in-house hardware team, the new model focuses on safety. As you can see on the photo, it’s a big…*
+       - *Latin America’s startup scene has attracted troves of venture investment, lifting highly-valued companies such as Rappi and NuBank into behemoth businesses. Now that the spotlight has arrived, those same startups need more talent than ever before to meet dema…*
       
 
 <br />
