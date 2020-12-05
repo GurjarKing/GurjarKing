@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - China's internet regulator takes aim at forced data collection
+  - Daily Crunch: Slack and Salesforce execs explain their big acquisition
      <hr/>
      
-      - *China is a step closer to cracking down on unscrupulous data collection by app developers. This week, the country’s cybersecurity watchdog began seeking comment on the range of user information that apps from instant messengers to ride-hailing services are al…*
+      - *We learn more about Slack’s future, Revolut adds new payment features and DoorDash pushes its IPO range upward. This is your Daily Crunch for December 4, 2020. The big story: Slack and Salesforce execs explain their big acquisition After Salesforce announced …*
      
-  - YC-backed LemonBox raises $2.5M bringing vitamins to Chinese millennials
+  - Gift Guide: 9+ caffeinated gift ideas for your favorite coffee lovers
       <hr/>
       
-      - *Like many overseas Chinese, Derek Weng gets shopping requests from his family and friends whenever he returns to China. Some of the most wanted imported products are maternity items, cosmetics, and vitamin supplements. Many in China still uphold the belief th…*
+      - *The pandemic has meant we leave our homes far less often, and that means fending for ourselves when it comes to coffee. But too many of us have old, cheap coffee makers or worse, pod-based ones at home. Here are the best ways to elevate your coffee game or de…*
       
-  - Health tech venture firm OTV closes new $170 million fund and expands into Asia
+  - Review: Wireless headsets from Logitech, Audio-Technica, SteelSeries, HyperX and more
       <hr/>
       
-      - *OTV (formerly known as Olive Tree Ventures), an Israeli venture capital firm that focuses on digital health tech, announced it has closed a new fund totaling $170 million. The firm also launched a new office in Shanghai, China to spearhead its growth in the A…*
+      - *With the amount of time you’re spending at home these days, you deserve a better headset. A wireless one that works with your computer and maybe your console as well, with a mic for calls and great sound for games and movies. Fortunately there are a lot to ch…*
       
-  - WH's AI EO is BS
+  - 3 ways the pandemic is transforming tech spending
       <hr/>
       
-      - *An Executive Order was just issued from the White House regarding “the Use of Trustworthy Artificial Intelligence in Government.” Leaving aside the meritless presumption of the government’s own trustworthiness and that it is the software that has trust issues…*
+      - *We don’t believe enterprises or consumers will revert to the old ways of doing things when the pandemic subsides. Welcome to the next phase of tech spending.*
        
-  - Joe White MBE appointed new UK Consul-General in SF, with new Technology Envoy role
+  - Zephr raises $8M to help news publishers grow subscription revenue
       <hr/>
        
-       - *Joe White MBE — a General Partner of Entrepreneur First, a Greylock backed early-stage deep tech fund — is leaving after being appointed as Her Majesty’s Consul-General, San Francisco, and Technology Envoy to the United States in a new, combined and powerful,…*
+       - *Zephr has raised $8 million in a new funding round led by Bertelsmann Digital Media Investments (owned by media giant Bertelsmann). The London-headquarteed startup’s customers already include publishers like McClatchy, News Corp Australia, Dennis Publishing a…*
       
 
 <br />
