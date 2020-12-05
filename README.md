@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Slack and Salesforce execs explain their big acquisition
+  - Mike Cagney is testing the boundaries of the banking system for himself -- and others
      <hr/>
      
-      - *We learn more about Slack’s future, Revolut adds new payment features and DoorDash pushes its IPO range upward. This is your Daily Crunch for December 4, 2020. The big story: Slack and Salesforce execs explain their big acquisition After Salesforce announced …*
+      - *Founder Mike Cagney is always pushing the envelope, and investors love him for it. Not long sexual harassment allegations prompted him to leave SoFi, the personal finance company that he cofounded in 2011, he raised $50 million for new lending startup called …*
      
+  - Daily Crunch: Slack and Salesforce execs explain their big acquisition
+      <hr/>
+      
+      - *We learn more about Slack’s future, Revolut adds new payment features and DoorDash pushes its IPO range upward. This is your Daily Crunch for December 4, 2020. The big story: Slack and Salesforce execs explain their big acquisition After Salesforce announced …*
+      
   - Gift Guide: 9+ caffeinated gift ideas for your favorite coffee lovers
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *With the amount of time you’re spending at home these days, you deserve a better headset. A wireless one that works with your computer and maybe your console as well, with a mic for calls and great sound for games and movies. Fortunately there are a lot to ch…*
-      
+       
   - 3 ways the pandemic is transforming tech spending
       <hr/>
-      
-      - *We don’t believe enterprises or consumers will revert to the old ways of doing things when the pandemic subsides. Welcome to the next phase of tech spending.*
        
-  - Zephr raises $8M to help news publishers grow subscription revenue
-      <hr/>
-       
-       - *Zephr has raised $8 million in a new funding round led by Bertelsmann Digital Media Investments (owned by media giant Bertelsmann). The London-headquarteed startup’s customers already include publishers like McClatchy, News Corp Australia, Dennis Publishing a…*
+       - *We don’t believe enterprises or consumers will revert to the old ways of doing things when the pandemic subsides. Welcome to the next phase of tech spending.*
       
 
 <br />
