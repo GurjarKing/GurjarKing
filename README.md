@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - How one company reached revenues of $200M without VC money
+  - Gillmor Gang: HBO Plus
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *With one fell swoop, WarnerMedia eradicated the status quo in Hollywood, turning its 2021 feature film schedule on its head. Well, not quite. By moving 2021’s theatrical releases to both physical and digital theaters, the AT&T affiliate gave us a reason to si…*
      
+  - How one company reached revenues of $200M without VC money
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      
   - Human Capital: Google's labor stumbles
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Did you follow all of the unicorn news from the last couple of weeks? No? Here’s a list of headlines to catch you up....*
-      
+       
   - Original Content podcast: Hulu's 'Happiest Season' casts fresh characters in a familiar story
       <hr/>
-      
-      - *“Happiest Season,” a new film on Hulu, feels like a traditional, Christmas-themed romantic comedy — with one important exception. The movie stars Kristen Stewart and Mackenzie Davis as Abby and Harper, a lesbian couple who are visiting Harper’s parents for th…*
        
-  - Tesla's racially diverse workforce is led mostly by white men, internal report shows
-      <hr/>
-       
-       - *Tesla’s top leadership positions skew white and male with just 4% of those roles going to Black employees, according to the company’s first diversity and inclusion report released Friday. The report shows that overall the company, which has factories in Calif…*
+       - *“Happiest Season,” a new film on Hulu, feels like a traditional, Christmas-themed romantic comedy — with one important exception. The movie stars Kristen Stewart and Mackenzie Davis as Abby and Harper, a lesbian couple who are visiting Harper’s parents for th…*
       
 
 <br />
