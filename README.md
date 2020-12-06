@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Mike Cagney is testing the boundaries of the banking system for himself -- and others
+  - How one company reached revenues of $200M without VC money
      <hr/>
      
-      - *Founder Mike Cagney is always pushing the envelope, and investors love him for it. Not long sexual harassment allegations prompted him to leave SoFi, the personal finance company that he cofounded in 2011, he raised $50 million for new lending startup called …*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
      
-  - Daily Crunch: Slack and Salesforce execs explain their big acquisition
+  - Human Capital: Google's labor stumbles
       <hr/>
       
-      - *We learn more about Slack’s future, Revolut adds new payment features and DoorDash pushes its IPO range upward. This is your Daily Crunch for December 4, 2020. The big story: Slack and Salesforce execs explain their big acquisition After Salesforce announced …*
+      - *Welcome back to Human Capital, a weekly newsletter that looks at the latest in diversity and inclusion in tech, as well as labor. This week, Google made headlines a couple of times for its workplace issues, while Coinbase found itself back in the news after t…*
       
-  - Gift Guide: 9+ caffeinated gift ideas for your favorite coffee lovers
+  - It's holiday season for tech unicorns
       <hr/>
       
-      - *The pandemic has meant we leave our homes far less often, and that means fending for ourselves when it comes to coffee. But too many of us have old, cheap coffee makers or worse, pod-based ones at home. Here are the best ways to elevate your coffee game or de…*
+      - *Did you follow all of the unicorn news from the last couple of weeks? No? Here’s a list of headlines to catch you up....*
       
-  - Review: Wireless headsets from Logitech, Audio-Technica, SteelSeries, HyperX and more
+  - Original Content podcast: Hulu's 'Happiest Season' casts fresh characters in a familiar story
       <hr/>
       
-      - *With the amount of time you’re spending at home these days, you deserve a better headset. A wireless one that works with your computer and maybe your console as well, with a mic for calls and great sound for games and movies. Fortunately there are a lot to ch…*
+      - *“Happiest Season,” a new film on Hulu, feels like a traditional, Christmas-themed romantic comedy — with one important exception. The movie stars Kristen Stewart and Mackenzie Davis as Abby and Harper, a lesbian couple who are visiting Harper’s parents for th…*
        
-  - 3 ways the pandemic is transforming tech spending
+  - Tesla's racially diverse workforce is led mostly by white men, internal report shows
       <hr/>
        
-       - *We don’t believe enterprises or consumers will revert to the old ways of doing things when the pandemic subsides. Welcome to the next phase of tech spending.*
+       - *Tesla’s top leadership positions skew white and male with just 4% of those roles going to Black employees, according to the company’s first diversity and inclusion report released Friday. The report shows that overall the company, which has factories in Calif…*
       
 
 <br />
