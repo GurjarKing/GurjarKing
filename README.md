@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: HBO Plus
+  - SpaceX launches new cargo Dragon to Space Station for 100th successful Falcon 9 flight
      <hr/>
      
-      - *With one fell swoop, WarnerMedia eradicated the status quo in Hollywood, turning its 2021 feature film schedule on its head. Well, not quite. By moving 2021’s theatrical releases to both physical and digital theaters, the AT&T affiliate gave us a reason to si…*
+      - *SpaceX launched its 21st Commercial Resupply Services (CRS) mission for NASA to the International Space Station on Sunday, using a brand new variant of its Dragon capsule spacecraft. This new cargo Dragon has greater carrying capacity and can dock fully auton…*
      
-  - How one company reached revenues of $200M without VC money
+  - Why does TechCrunch cover so many early-stage funding rounds?
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *If funding round stories were simply stories about funding, we would only need Twitter to be educated. TechCrunch is proof that the stories are so much more than the dollar signs.*
       
-  - Human Capital: Google's labor stumbles
+  - Mixtape podcast: Making technology accessible for everyone
       <hr/>
       
-      - *Welcome back to Human Capital, a weekly newsletter that looks at the latest in diversity and inclusion in tech, as well as labor. This week, Google made headlines a couple of times for its workplace issues, while Coinbase found itself back in the news after t…*
+      - *Welcome back to Mixtape, the TechCrunch podcast that takes examines diversity, inclusion and the human labor that drives tech. This week, Megan moderated a panel at Sight Tech Global, a conference dedicated to fostering discussion among technology pioneers on…*
       
-  - It's holiday season for tech unicorns
+  - Watch SpaceX launch its new and improved cargo Dragon spacecraft for the first time
       <hr/>
       
-      - *Did you follow all of the unicorn news from the last couple of weeks? No? Here’s a list of headlines to catch you up....*
+      - *SpaceX is launching a new spacecraft during its 21st Commercial Resupply Services (CRS) mission for the International Space Station this morning. The launch is set to take off at 11:17 AM EST (8:17 AM PST) from Kennedy Space Center in Florida, and will be the…*
        
-  - Original Content podcast: Hulu's 'Happiest Season' casts fresh characters in a familiar story
+  - Gillmor Gang: HBO Plus
       <hr/>
        
-       - *“Happiest Season,” a new film on Hulu, feels like a traditional, Christmas-themed romantic comedy — with one important exception. The movie stars Kristen Stewart and Mackenzie Davis as Abby and Harper, a lesbian couple who are visiting Harper’s parents for th…*
+       - *With one fell swoop, WarnerMedia eradicated the status quo in Hollywood, turning its 2021 feature film schedule on its head. Well, not quite. By moving 2021’s theatrical releases to both physical and digital theaters, the AT&T affiliate gave us a reason to si…*
       
 
 <br />
