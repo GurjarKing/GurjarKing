@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - SpaceX launches new cargo Dragon to Space Station for 100th successful Falcon 9 flight
+  - Berlin's Wonder raises $11M for a new approach to video chat where you wander and join groups
      <hr/>
      
-      - *SpaceX launched its 21st Commercial Resupply Services (CRS) mission for NASA to the International Space Station on Sunday, using a brand new variant of its Dragon capsule spacecraft. This new cargo Dragon has greater carrying capacity and can dock fully auton…*
+      - *If this year has taught us a lesson about the world of of work, it’s that collectively, we weren’t very well equipped in terms of the technology we use to translate the in-person experience seamlessly to a remote version. That’s led to a rush of companies lau…*
      
-  - Why does TechCrunch cover so many early-stage funding rounds?
+  - Tech growth fund Highland Europe raises €700M to 'double-down', strengthens team
       <hr/>
       
-      - *If funding round stories were simply stories about funding, we would only need Twitter to be educated. TechCrunch is proof that the stories are so much more than the dollar signs.*
+      - *Highland Europe — the tech growth fund best known for backing high profile late-stage startups like GetYourGuide, Huel, WeTransfer, Wolt and Zwift — has closed its fourth fund, raising €700M in a comparatively short space of time compared to previous fund clo…*
       
-  - Mixtape podcast: Making technology accessible for everyone
+  - How Alibaba and JD.com compare in their healthcare endeavors
       <hr/>
       
-      - *Welcome back to Mixtape, the TechCrunch podcast that takes examines diversity, inclusion and the human labor that drives tech. This week, Megan moderated a panel at Sight Tech Global, a conference dedicated to fostering discussion among technology pioneers on…*
+      - *China’s tech circle is shifting its attention to online healthcare this week as JD Health is set to go public in one of Hong Kong’s largest IPOs this year. Like Amazon, China’s e-commerce firms Alibaba and JD.com have been working to conquer the massive healt…*
       
-  - Watch SpaceX launch its new and improved cargo Dragon spacecraft for the first time
+  - Singapore’s government launches blockchain innovation program with $8.9 million in funding
       <hr/>
       
-      - *SpaceX is launching a new spacecraft during its 21st Commercial Resupply Services (CRS) mission for the International Space Station this morning. The launch is set to take off at 11:17 AM EST (8:17 AM PST) from Kennedy Space Center in Florida, and will be the…*
+      - *A group of Singaporean government agencies is launching a new research program for blockchain technology with $12 million SGD (about $8.9 million USD) in funding. Called the Singapore Blockchain Innovation Programme (SBIP), the project is a collaboration betw…*
        
-  - Gillmor Gang: HBO Plus
+  - Luko raises $60 million for its home insurance products
       <hr/>
        
-       - *With one fell swoop, WarnerMedia eradicated the status quo in Hollywood, turning its 2021 feature film schedule on its head. Well, not quite. By moving 2021’s theatrical releases to both physical and digital theaters, the AT&T affiliate gave us a reason to si…*
+       - *French startup Luko has raised a $60 million Series B funding round (€50 million). The round is led by EQT Ventures, with existing investors Accel, Founders Fund and Speedinvest also participating. Some angel investors with a background in insurance and techn…*
       
 
 <br />
