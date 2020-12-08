@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Berlin's Wonder raises $11M for a new approach to video chat where you wander and join groups
+  - Daily Crunch: Google smart speakers add Apple Music support
      <hr/>
      
-      - *If this year has taught us a lesson about the world of of work, it’s that collectively, we weren’t very well equipped in terms of the technology we use to translate the in-person experience seamlessly to a remote version. That’s led to a rush of companies lau…*
+      - *You can listen to Apple Music on your Google Nest device, Apple is working to top Intel with its next set of chips and Cisco acquires Slido. This is your Daily Crunch for December 7, 2020. The big story: Google smart speakers add Apple Music support Google an…*
      
-  - Tech growth fund Highland Europe raises €700M to 'double-down', strengthens team
+  - Fitness startup Aarmy reinvents itself for a remote fitness world
       <hr/>
       
-      - *Highland Europe — the tech growth fund best known for backing high profile late-stage startups like GetYourGuide, Huel, WeTransfer, Wolt and Zwift — has closed its fourth fund, raising €700M in a comparatively short space of time compared to previous fund clo…*
+      - *Like a lot of startups, Aarmy faced some big challenges when the pandemic forced widespread shutdowns in March. Up until then, Aarmy was offering in-person fitness classes from its locations in New York and Los Angeles. Trey Laird, who founded the startup wit…*
       
-  - How Alibaba and JD.com compare in their healthcare endeavors
+  - Cyberpunk 2077: A retro-futuristic fantasy with huge potential - if you can ignore the Cyberjank
       <hr/>
       
-      - *China’s tech circle is shifting its attention to online healthcare this week as JD Health is set to go public in one of Hong Kong’s largest IPOs this year. Like Amazon, China’s e-commerce firms Alibaba and JD.com have been working to conquer the massive healt…*
+      - *Practically speaking, it’s nearly impossible to offer a real review of Cyberpunk 2077, the long-awaited follow-up to The Witcher 3 from developer CD Projekt Red. In the first place, it’s so big that the few days I’ve had with it aren’t enough to realistically…*
       
-  - Singapore’s government launches blockchain innovation program with $8.9 million in funding
+  - Uber sells self-driving unit Uber ATG in deal that will push Aurora's valuation to $10B
       <hr/>
       
-      - *A group of Singaporean government agencies is launching a new research program for blockchain technology with $12 million SGD (about $8.9 million USD) in funding. Called the Singapore Blockchain Innovation Programme (SBIP), the project is a collaboration betw…*
+      - *Aurora Innovation, the autonomous vehicle startup backed by Sequoia Capital and Amazon, has reached an agreement with Uber to buy the ride-hailing firm’s self-driving unit in a complex deal that will value the combined company at $10 billion. Aurora is not pa…*
        
-  - Luko raises $60 million for its home insurance products
+  - Odysee aims to build a more freewheeling, independent video platform
       <hr/>
        
-       - *French startup Luko has raised a $60 million Series B funding round (€50 million). The round is led by EQT Ventures, with existing investors Accel, Founders Fund and Speedinvest also participating. Some angel investors with a background in insurance and techn…*
+       - *Odysee is a new video site that CEO Jeremy Kauffman said was created to recapture some of the freedom and independence of the internet he grew up with — an internet where “anyone could speak and anyone could have a voice.” Kauffman argued that since then, the…*
       
 
 <br />
