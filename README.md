@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Google smart speakers add Apple Music support
+  - Reliance's Jio Platforms says it will roll out 5G in second half of 2021
      <hr/>
      
-      - *You can listen to Apple Music on your Google Nest device, Apple is working to top Intel with its next set of chips and Cisco acquires Slido. This is your Daily Crunch for December 7, 2020. The big story: Google smart speakers add Apple Music support Google an…*
+      - *Reliance’s Jio Platforms, the largest telecom operator in India, plans to roll out a 5G network in the country in the second half of 2021, top executive Mukesh Ambani announced on Tuesday. “India is today among the best digitally connected nations in the worl…*
      
-  - Fitness startup Aarmy reinvents itself for a remote fitness world
+  - Angling to be the Carfax for EV batteries, Recurrent raises $3.5 million
       <hr/>
       
-      - *Like a lot of startups, Aarmy faced some big challenges when the pandemic forced widespread shutdowns in March. Up until then, Aarmy was offering in-person fitness classes from its locations in New York and Los Angeles. Trey Laird, who founded the startup wit…*
+      - *The Seattle-based startup Recurrent said today it has closed on $3.5 million in financing as it looks to become the Carfax for electric vehicle batteries.  The battery system is arguably the most important part of any electric vehicle and as the market for us…*
       
-  - Cyberpunk 2077: A retro-futuristic fantasy with huge potential - if you can ignore the Cyberjank
+  - German secure email provider Tutanota forced to monitor an account, after regional court ruling
       <hr/>
       
-      - *Practically speaking, it’s nearly impossible to offer a real review of Cyberpunk 2077, the long-awaited follow-up to The Witcher 3 from developer CD Projekt Red. In the first place, it’s so big that the few days I’ve had with it aren’t enough to realistically…*
+      - *German e2e encrypted email provider Tutanota has been ordered by a regional court to develop a function that allows it to monitor an individual account. The encrypted email service provider has been fighting a number of such orders in its home country. The ru…*
       
-  - Uber sells self-driving unit Uber ATG in deal that will push Aurora's valuation to $10B
+  - Nielsen plans to combine traditional and digital TV ratings
       <hr/>
       
-      - *Aurora Innovation, the autonomous vehicle startup backed by Sequoia Capital and Amazon, has reached an agreement with Uber to buy the ride-hailing firm’s self-driving unit in a complex deal that will value the combined company at $10 billion. Aurora is not pa…*
+      - *Nielsen is updating its TV ratings to reflect a world which audiences are watching TV both live and on-demand, across a variety of different streaming services and devices. While the firm has long provided the standard measure for TV audiences, things are mor…*
        
-  - Odysee aims to build a more freewheeling, independent video platform
+  - Finch raises $3.5M to build out its HR and payroll-focused API business
       <hr/>
        
-       - *Odysee is a new video site that CEO Jeremy Kauffman said was created to recapture some of the freedom and independence of the internet he grew up with — an internet where “anyone could speak and anyone could have a voice.” Kauffman argued that since then, the…*
+       - *The old saw about finding a place where companies still use spreadsheets, and then building a startup to solve the problem, was a good way to dream up new software as a service (SaaS) companies. But the next generation of that idea may be to instead find a pl…*
       
 
 <br />
