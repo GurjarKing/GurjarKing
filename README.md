@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Apple announces AirPods Max headphones
+  - Wikifactory has raised $4.5m for its 'Github for hardware’ to make almost anything remotely
      <hr/>
      
-      - *Apple unveils new high-end headphones, Calm raises more funding and Cyberpunk 2077 faces criticism. This is your Daily Crunch for December 8, 2020. The big story: Apple announces AirPods Max headphones These are Apple’s first over-ear headphones under the Air…*
+      - *Karl Marx famously argued in ‘Das Kapital’ that to achieve freedom from the slavery of capitalism, the worker must own the means of production. Perhaps that day is edging closer. Today Wikifactory, billing itself as a ‘Github for hardware’, announces it has c…*
      
-  - DoorDash said to price to at $102 per share, doubling its final private price
+  - OnePlus co-founder Carl Pei raises $7 million for his new venture
       <hr/>
       
-      - *According to media reports, food-delivery giant DoorDash priced its IPO at $102 per share, ahead of its final IPO pricing range of $90 to $95 per share. The company’s debut has been warmly anticipated by public investors, as evinced by the company raising its…*
+      - *Carl Pei, the co-founder of OnePlus who left the company two months ago, has raised $7 million from a roster of high-profile investors for his new venture. The Swedish tech entrepreneur said on Wednesday he had secured $7 million in Seed financing round from …*
       
-  - Senate confirms Nathan Simington as FCC Commissioner, potentially setting up years of stonewalling
+  - TripAdvisor shares drop following China app ban
       <hr/>
       
-      - *The Senate today confirmed the appointment of Nathan Simington to the FCC, which with the imminent departure of Chairman Ajit Pai sets up the agency for years of deadlock unless Democrats take the Senate. The last-minute appointment breaks with political norm…*
+      - *The Cyberspace Administration of China (CAC) announced it has banned 105 mobile apps for violating Chinese internet regulations. While almost all of the apps are made by Chinese developers, American travel booking and review site TripAdvisor is also on the li…*
       
-  - Uber sells air taxi business Elevate to Joby Aviation, shedding its last moonshot
+  - Lawn startup Sunday raises millions to help you with your backyard
       <hr/>
       
-      - *Uber has offloaded its air taxi enterprise Elevate to Joby Aviation, the last of several moonshots to be sold by the ride-hailing company in a pursuit to stick to its core business and reach profitability. The transaction announced Tuesday is part of a comple…*
+      - *Inspiration to launch a lawn-care company struck Coulter Lewis when he was shopping for lawn-care products one day. The entrepreneur, who previously worked as a designer and co-founder of a snack company, says the stench of pesticides and herbicides piled hig…*
        
-  - Cybersecurity firm FireEye says it was hacked by a nation-state
+  - Newly funded OfficeTogether looks to help other startups reopen their offices safely
       <hr/>
        
-       - *FireEye, normally the first company that cyberattack victims will call, has now admitted it too has fallen victim to hackers, which the company called a “sophisticated threat actor” that was likely backed by a nation-state. In a blog post confirming the breac…*
+       - *Amy Yin doesn’t foresee startups resuming a five-day-a-week in-office work schedule, even after COVID-19 has been battled back. It’s probably a safe bet. Many companies have learned this year that employees can be just as productive, working from home. More, …*
       
 
 <br />
