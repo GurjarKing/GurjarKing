@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Reliance's Jio Platforms says it will roll out 5G in second half of 2021
+  - Daily Crunch: Apple announces AirPods Max headphones
      <hr/>
      
-      - *Reliance’s Jio Platforms, the largest telecom operator in India, plans to roll out a 5G network in the country in the second half of 2021, top executive Mukesh Ambani announced on Tuesday. “India is today among the best digitally connected nations in the worl…*
+      - *Apple unveils new high-end headphones, Calm raises more funding and Cyberpunk 2077 faces criticism. This is your Daily Crunch for December 8, 2020. The big story: Apple announces AirPods Max headphones These are Apple’s first over-ear headphones under the Air…*
      
-  - Angling to be the Carfax for EV batteries, Recurrent raises $3.5 million
+  - DoorDash said to price to at $102 per share, doubling its final private price
       <hr/>
       
-      - *The Seattle-based startup Recurrent said today it has closed on $3.5 million in financing as it looks to become the Carfax for electric vehicle batteries.  The battery system is arguably the most important part of any electric vehicle and as the market for us…*
+      - *According to media reports, food-delivery giant DoorDash priced its IPO at $102 per share, ahead of its final IPO pricing range of $90 to $95 per share. The company’s debut has been warmly anticipated by public investors, as evinced by the company raising its…*
       
-  - German secure email provider Tutanota forced to monitor an account, after regional court ruling
+  - Senate confirms Nathan Simington as FCC Commissioner, potentially setting up years of stonewalling
       <hr/>
       
-      - *German e2e encrypted email provider Tutanota has been ordered by a regional court to develop a function that allows it to monitor an individual account. The encrypted email service provider has been fighting a number of such orders in its home country. The ru…*
+      - *The Senate today confirmed the appointment of Nathan Simington to the FCC, which with the imminent departure of Chairman Ajit Pai sets up the agency for years of deadlock unless Democrats take the Senate. The last-minute appointment breaks with political norm…*
       
-  - Nielsen plans to combine traditional and digital TV ratings
+  - Uber sells air taxi business Elevate to Joby Aviation, shedding its last moonshot
       <hr/>
       
-      - *Nielsen is updating its TV ratings to reflect a world which audiences are watching TV both live and on-demand, across a variety of different streaming services and devices. While the firm has long provided the standard measure for TV audiences, things are mor…*
+      - *Uber has offloaded its air taxi enterprise Elevate to Joby Aviation, the last of several moonshots to be sold by the ride-hailing company in a pursuit to stick to its core business and reach profitability. The transaction announced Tuesday is part of a comple…*
        
-  - Finch raises $3.5M to build out its HR and payroll-focused API business
+  - Cybersecurity firm FireEye says it was hacked by a nation-state
       <hr/>
        
-       - *The old saw about finding a place where companies still use spreadsheets, and then building a startup to solve the problem, was a good way to dream up new software as a service (SaaS) companies. But the next generation of that idea may be to instead find a pl…*
+       - *FireEye, normally the first company that cyberattack victims will call, has now admitted it too has fallen victim to hackers, which the company called a “sophisticated threat actor” that was likely backed by a nation-state. In a blog post confirming the breac…*
       
 
 <br />
