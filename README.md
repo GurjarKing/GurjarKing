@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Seoul-based payment tech startup CHAI gets $60 million from Hanhwa, SoftBank Ventures Asia
+  - Ava expands its AI captioning to desktop and web apps, and raises $4.5M to scale
      <hr/>
      
-      - *Demand for contactless payments and e-commerce has grown in South Korea during the COVID-19 pandemic. This is good news for payment service operators, but the market is very fragmented, so adding payment options is a time-consuming process for many merchants.…*
+      - *The worldwide shift to virtual workplaces has been a blessing and a curse to people with hearing impairments. Having office chatter occur in text rather than speech is more accessible, but virtual meetings are no easier to follow than in-person ones — which i…*
      
-  - LabCorp COVID-19 test kit has just been approved for sale over-the-counter
+  - Google and IAB adtech targeted with more RTB privacy complaints
       <hr/>
       
-      - *LabCorp has now become the first company to receive approval to sell its COVID-19 test kit over-the-counter without a prescription, according to a statement form the company. One of the largest diagnostics testing companies in the U.S., LabCorp could be a sig…*
+      - *Another batch of complaints has been filed with European Union data protection agencies urging enforcement action against the adtech industry’s abuse of Internet users’ information to target ads. The complaints argue that behavioural ads are both harmful and …*
       
-  - Airbnb said to price IPO between $67 and $68
+  - Papercup, the UK startup using AI for realistic-sounding voice translation, raises £8M funding
       <hr/>
       
-      - *The WSJ is reporting that Airbnb is expected to priced its IPO at either $67 or $68 per share. The American hospitality unicorn raised its IPO price target earlier this week, from $44 to $50 to $56 to $60. While we’re still waiting for official pricing, Airbn…*
+      - *Papercup, the U.K.-based AI startup that has developed speech technology that translates people’s voices into other languages and is already being used in the video and television industry, has raised £8 million in funding. The round was led by LocalGlobe and…*
       
-  - Daily Crunch: FTC and 48 state AGs sue Facebook
+  - France fines Google $120M and Amazon $42M for dropping tracking cookies without consent
       <hr/>
       
-      - *Facebook faces big antitrust lawsuits, DoorDash and C3.ai go public and YouTube announces new election misinformation policies. This is your Daily Crunch for December 9, 2020. The big story: FTC and 48 state AGs sue Facebook The Federal Trade Commission filed…*
+      - *France’s data protection agency, the CNIL, has slapped Google and Amazon with fines for dropping tracking cookies without consent. Google has been hit with a total of €100 million ($120M) for dropping cookies on Google.fr and Amazon €35M (~42M) for doing so o…*
        
-  - UK electric vehicle startup Arrival picks Charlotte for its North American headquarters
+  - Improving sound for hardware giants, Sweden's Dirac finds its niche in China
       <hr/>
        
-       - *Arrival, the UK electric vehicle startup that plans to become a publicly traded company through a merger with  special purpose acquisition company CIIG Merger Corp., has picked Charlotte for its North American headquarters. The company said it will add 150 ne…*
+       - *The rise of U.S.-China tensions has accelerated the bifurcation of global technology, with the two superpowers each working on their own tech systems. While the rift might be discouraging cross-border investment and business expansion between the rivals, the …*
       
 
 <br />
