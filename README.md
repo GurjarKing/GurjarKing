@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Wikifactory has raised $4.5m for its 'Github for hardware’ to make almost anything remotely
+  - Seoul-based payment tech startup CHAI gets $60 million from Hanhwa, SoftBank Ventures Asia
      <hr/>
      
-      - *Karl Marx famously argued in ‘Das Kapital’ that to achieve freedom from the slavery of capitalism, the worker must own the means of production. Perhaps that day is edging closer. Today Wikifactory, billing itself as a ‘Github for hardware’, announces it has c…*
+      - *Demand for contactless payments and e-commerce has grown in South Korea during the COVID-19 pandemic. This is good news for payment service operators, but the market is very fragmented, so adding payment options is a time-consuming process for many merchants.…*
      
-  - OnePlus co-founder Carl Pei raises $7 million for his new venture
+  - LabCorp COVID-19 test kit has just been approved for sale over-the-counter
       <hr/>
       
-      - *Carl Pei, the co-founder of OnePlus who left the company two months ago, has raised $7 million from a roster of high-profile investors for his new venture. The Swedish tech entrepreneur said on Wednesday he had secured $7 million in Seed financing round from …*
+      - *LabCorp has now become the first company to receive approval to sell its COVID-19 test kit over-the-counter without a prescription, according to a statement form the company. One of the largest diagnostics testing companies in the U.S., LabCorp could be a sig…*
       
-  - TripAdvisor shares drop following China app ban
+  - Airbnb said to price IPO between $67 and $68
       <hr/>
       
-      - *The Cyberspace Administration of China (CAC) announced it has banned 105 mobile apps for violating Chinese internet regulations. While almost all of the apps are made by Chinese developers, American travel booking and review site TripAdvisor is also on the li…*
+      - *The WSJ is reporting that Airbnb is expected to priced its IPO at either $67 or $68 per share. The American hospitality unicorn raised its IPO price target earlier this week, from $44 to $50 to $56 to $60. While we’re still waiting for official pricing, Airbn…*
       
-  - Lawn startup Sunday raises millions to help you with your backyard
+  - Daily Crunch: FTC and 48 state AGs sue Facebook
       <hr/>
       
-      - *Inspiration to launch a lawn-care company struck Coulter Lewis when he was shopping for lawn-care products one day. The entrepreneur, who previously worked as a designer and co-founder of a snack company, says the stench of pesticides and herbicides piled hig…*
+      - *Facebook faces big antitrust lawsuits, DoorDash and C3.ai go public and YouTube announces new election misinformation policies. This is your Daily Crunch for December 9, 2020. The big story: FTC and 48 state AGs sue Facebook The Federal Trade Commission filed…*
        
-  - Newly funded OfficeTogether looks to help other startups reopen their offices safely
+  - UK electric vehicle startup Arrival picks Charlotte for its North American headquarters
       <hr/>
        
-       - *Amy Yin doesn’t foresee startups resuming a five-day-a-week in-office work schedule, even after COVID-19 has been battled back. It’s probably a safe bet. Many companies have learned this year that employees can be just as productive, working from home. More, …*
+       - *Arrival, the UK electric vehicle startup that plans to become a publicly traded company through a merger with  special purpose acquisition company CIIG Merger Corp., has picked Charlotte for its North American headquarters. The company said it will add 150 ne…*
       
 
 <br />
