@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Ava expands its AI captioning to desktop and web apps, and raises $4.5M to scale
+  - Massachusetts governor won't sign police reform bill with facial recognition ban
      <hr/>
      
-      - *The worldwide shift to virtual workplaces has been a blessing and a curse to people with hearing impairments. Having office chatter occur in text rather than speech is more accessible, but virtual meetings are no easier to follow than in-person ones — which i…*
+      - *The bill, if it becomes law, would ban police statewide from using facial recognition.*
      
-  - Google and IAB adtech targeted with more RTB privacy complaints
+  - Daily Crunch: First impressions of the AirPods Max
       <hr/>
       
-      - *Another batch of complaints has been filed with European Union data protection agencies urging enforcement action against the adtech industry’s abuse of Internet users’ information to target ads. The complaints argue that behavioural ads are both harmful and …*
+      - *We try out Apple’s new headphones, Spotify resets passwords and Airbnb goes public. This is your Daily Crunch for December 10, 2020. The big story: First impressions of the AirPods Max Our fearless leader Matthew Panzarino has written what he insists is “not …*
       
-  - Papercup, the UK startup using AI for realistic-sounding voice translation, raises £8M funding
+  - Residential renewable energy developer Swell is raising $450 million for distributed power projects in three states
       <hr/>
       
-      - *Papercup, the U.K.-based AI startup that has developed speech technology that translates people’s voices into other languages and is already being used in the video and television industry, has raised £8 million in funding. The round was led by LocalGlobe and…*
+      - *Swell Energy, an installer and manager of residential renewable energy, energy efficiency and storage technologies, is raising $450 million to finance the construction of four virtual power plants representing a massive amount of energy storage capacity paire…*
       
-  - France fines Google $120M and Amazon $42M for dropping tracking cookies without consent
+  - Disney+ has plans for 10 Marvel shows and 10 Star Wars shows in the next few years
       <hr/>
       
-      - *France’s data protection agency, the CNIL, has slapped Google and Amazon with fines for dropping tracking cookies without consent. Google has been hit with a total of €100 million ($120M) for dropping cookies on Google.fr and Amazon €35M (~42M) for doing so o…*
+      - *Disney just wrapped up the first segment of an investor day in which it laid out its plans for its direct-to-consumer streaming business, including Disney+, Hulu, ESPN+ and Hotstar/Star. The company kicked off the presentation with some new subscriber numbers…*
        
-  - Improving sound for hardware giants, Sweden's Dirac finds its niche in China
+  - Early DoorDash investor dismisses "froth" talk, says company could grow 10x from here
       <hr/>
        
-       - *The rise of U.S.-China tensions has accelerated the bifurcation of global technology, with the two superpowers each working on their own tech systems. While the rift might be discouraging cross-border investment and business expansion between the rivals, the …*
+       - *[The stunning debut of the food delivery company DoorDash on the public market this week has plenty of people puzzled. While undeniably fast-growing, the unprofitable delivery company that has come under fire numerous times over its employment practices, and …*
       
 
 <br />
