@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Massachusetts governor won't sign police reform bill with facial recognition ban
+  - Hyundai buys controlling interest in Boston Dynamics
      <hr/>
      
-      - *The bill, if it becomes law, would ban police statewide from using facial recognition.*
+      - *It’s official. Boston Dynamics is becoming part of the Hyundai family (pending regulatory approval, naturally). The Waltham, Massachusetts-based robot maker confirmed that the South Korean technology company is acquiring controlling interest in a press releas…*
      
+  - Sweden's Tink raises $103M as its open banking platform grows to 3,400 banks and 250M customers
+      <hr/>
+      
+      - *Open banking platforms, where services that might not have previously lived next to each other are now joined up by way of APIs, has been one of the emerging trends of the last couple of years, and today one of the leaders in the space out of Europe has close…*
+      
+  - Cosmos Video - a 'Club Penguin for adults' to socialise and work - raises $2.6M  from LocalGlobe
+      <hr/>
+      
+      - *All over the world startups are piling into the space marked “virtual interaction and collaboration”. What if a startup created a sort of ‘Club Penguin for adults’? Step forward Cosmos Video, which has a virtual venues platform that allows people to work, han…*
+      
+  - Massachusetts governor won't sign police reform bill with facial recognition ban
+      <hr/>
+      
+      - *The bill, if it becomes law, would ban police statewide from using facial recognition.*
+       
   - Daily Crunch: First impressions of the AirPods Max
       <hr/>
-      
-      - *We try out Apple’s new headphones, Spotify resets passwords and Airbnb goes public. This is your Daily Crunch for December 10, 2020. The big story: First impressions of the AirPods Max Our fearless leader Matthew Panzarino has written what he insists is “not …*
-      
-  - Residential renewable energy developer Swell is raising $450 million for distributed power projects in three states
-      <hr/>
-      
-      - *Swell Energy, an installer and manager of residential renewable energy, energy efficiency and storage technologies, is raising $450 million to finance the construction of four virtual power plants representing a massive amount of energy storage capacity paire…*
-      
-  - Disney+ has plans for 10 Marvel shows and 10 Star Wars shows in the next few years
-      <hr/>
-      
-      - *Disney just wrapped up the first segment of an investor day in which it laid out its plans for its direct-to-consumer streaming business, including Disney+, Hulu, ESPN+ and Hotstar/Star. The company kicked off the presentation with some new subscriber numbers…*
        
-  - Early DoorDash investor dismisses "froth" talk, says company could grow 10x from here
-      <hr/>
-       
-       - *[The stunning debut of the food delivery company DoorDash on the public market this week has plenty of people puzzled. While undeniably fast-growing, the unprofitable delivery company that has come under fire numerous times over its employment practices, and …*
+       - *We try out Apple’s new headphones, Spotify resets passwords and Airbnb goes public. This is your Daily Crunch for December 10, 2020. The big story: First impressions of the AirPods Max Our fearless leader Matthew Panzarino has written what he insists is “not …*
       
 
 <br />
