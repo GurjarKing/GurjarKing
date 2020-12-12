@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Hyundai acquires 80% stake in Boston Robotics
+  - FDA grants emergency use authorization for Pfizer's COVID-19 vaccine, distribution to begin within days
      <hr/>
      
-      - *Hyundai takes a controlling stake in an iconic robotics company, Twitter acquires a screen-sharing startup and we round up some security-themed gift ideas. This is your Daily Crunch for December 11, 2020. The big story: Hyundai acquires 80% stake in Boston Ro…*
+      - *The U.S. Food and Drug Administration (FDA) has granted an Emergency Use Authorization (EUA) for the COVID-19 vaccine developed by Pfizer and its partner BioNTech, the New York Times first reported on Friday night, and later supported by The Wall Street Journ…*
      
+  - Daily Crunch: Hyundai acquires 80% stake in Boston Robotics
+      <hr/>
+      
+      - *Hyundai takes a controlling stake in an iconic robotics company, Twitter acquires a screen-sharing startup and we round up some security-themed gift ideas. This is your Daily Crunch for December 11, 2020. The big story: Hyundai acquires 80% stake in Boston Ro…*
+      
   - Oracle is headed to Texas now, too
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *You don’t have to buy into 5G conspiracy theories to think that you could do with a little less radiation in your life. One way of blocking radiation is a Faraday cage, but this is usually a metal mesh of some kind, making everyday use difficult. Researchers …*
-      
+       
   - General Catalyst's Katherine Boyle and Peter Boyce are looking for 'obsessive' founders
       <hr/>
-      
-      - *There are definitely people who are working at companies that we start engaging before they even have an idea. So it's never too early*
        
-  - Give the gift of Extra Crunch for 25% off
-      <hr/>
-       
-       - *This holiday season, TechCrunch readers can send an Extra Crunch annual membership as a gift to a friend, family member or co-worker for 25% off.  The gifting feature can be found here. Extra Crunch is our membership program that helps you spot technology tre…*
+       - *There are definitely people who are working at companies that we start engaging before they even have an idea. So it's never too early*
       
 
 <br />
