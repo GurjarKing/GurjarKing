@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Hyundai buys controlling interest in Boston Dynamics
+  - Daily Crunch: Hyundai acquires 80% stake in Boston Robotics
      <hr/>
      
-      - *It’s official. Boston Dynamics is becoming part of the Hyundai family (pending regulatory approval, naturally). The Waltham, Massachusetts-based robot maker confirmed that the South Korean technology company is acquiring controlling interest in a press releas…*
+      - *Hyundai takes a controlling stake in an iconic robotics company, Twitter acquires a screen-sharing startup and we round up some security-themed gift ideas. This is your Daily Crunch for December 11, 2020. The big story: Hyundai acquires 80% stake in Boston Ro…*
      
-  - Sweden's Tink raises $103M as its open banking platform grows to 3,400 banks and 250M customers
+  - Oracle is headed to Texas now, too
       <hr/>
       
-      - *Open banking platforms, where services that might not have previously lived next to each other are now joined up by way of APIs, has been one of the emerging trends of the last couple of years, and today one of the leaders in the space out of Europe has close…*
+      - *Austinites, watch out; another tech company is headed into town. Just days after Tesla CEO Elon Musk revealed during an interview that he has moved to Texas, and less than two weeks after HP Enterprises, a spin-out of one of the iconic Silicon Valley company …*
       
-  - Cosmos Video - a 'Club Penguin for adults' to socialise and work - raises $2.6M  from LocalGlobe
+  - Here comes the Faraday fabric
       <hr/>
       
-      - *All over the world startups are piling into the space marked “virtual interaction and collaboration”. What if a startup created a sort of ‘Club Penguin for adults’? Step forward Cosmos Video, which has a virtual venues platform that allows people to work, han…*
+      - *You don’t have to buy into 5G conspiracy theories to think that you could do with a little less radiation in your life. One way of blocking radiation is a Faraday cage, but this is usually a metal mesh of some kind, making everyday use difficult. Researchers …*
       
-  - Massachusetts governor won't sign police reform bill with facial recognition ban
+  - General Catalyst's Katherine Boyle and Peter Boyce are looking for 'obsessive' founders
       <hr/>
       
-      - *The bill, if it becomes law, would ban police statewide from using facial recognition.*
+      - *There are definitely people who are working at companies that we start engaging before they even have an idea. So it's never too early*
        
-  - Daily Crunch: First impressions of the AirPods Max
+  - Give the gift of Extra Crunch for 25% off
       <hr/>
        
-       - *We try out Apple’s new headphones, Spotify resets passwords and Airbnb goes public. This is your Daily Crunch for December 10, 2020. The big story: First impressions of the AirPods Max Our fearless leader Matthew Panzarino has written what he insists is “not …*
+       - *This holiday season, TechCrunch readers can send an Extra Crunch annual membership as a gift to a friend, family member or co-worker for 25% off.  The gifting feature can be found here. Extra Crunch is our membership program that helps you spot technology tre…*
       
 
 <br />
