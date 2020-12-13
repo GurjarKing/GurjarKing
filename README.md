@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - FDA grants emergency use authorization for Pfizer's COVID-19 vaccine, distribution to begin within days
+  - Gillmor Gang: Strange Days Indeed
      <hr/>
      
-      - *The U.S. Food and Drug Administration (FDA) has granted an Emergency Use Authorization (EUA) for the COVID-19 vaccine developed by Pfizer and its partner BioNTech, the New York Times first reported on Friday night, and later supported by The Wall Street Journ…*
+      - *The place we’re in, the valley of the dolls between the vote and the Inauguration, is overshadowed by the battle to save our lives. The vaccines look promising, and so does the persistence of the Trumpster to play his games. Somehow we have to live with that,…*
      
-  - Daily Crunch: Hyundai acquires 80% stake in Boston Robotics
+  - Human Capital: Dr. Timnit Gebru says Google's memo was 'dehumanizing'
       <hr/>
       
-      - *Hyundai takes a controlling stake in an iconic robotics company, Twitter acquires a screen-sharing startup and we round up some security-themed gift ideas. This is your Daily Crunch for December 11, 2020. The big story: Hyundai acquires 80% stake in Boston Ro…*
+      - *Welcome back to Human Capital, where I break down the latest in diversity, equity and inclusion, and labor in tech. This week, Twitter dropped its latest diversity report and Tesla released its first one ever. Meanwhile, Google CEO Sundar Pichai apologized fo…*
       
-  - Oracle is headed to Texas now, too
+  - How to find your next VC
       <hr/>
       
-      - *Austinites, watch out; another tech company is headed into town. Just days after Tesla CEO Elon Musk revealed during an interview that he has moved to Texas, and less than two weeks after HP Enterprises, a spin-out of one of the iconic Silicon Valley company …*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday? Subscribe here.  Ready? …*
       
-  - Here comes the Faraday fabric
+  - Investors double down on tech stocks in massive DoorDash, Airbnb, C3.ai IPOs
       <hr/>
       
-      - *You don’t have to buy into 5G conspiracy theories to think that you could do with a little less radiation in your life. One way of blocking radiation is a Faraday cage, but this is usually a metal mesh of some kind, making everyday use difficult. Researchers …*
+      - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. Maybe it is a stock market bubble, or a tech-stock bubble at least. And maybe DoorDash, Airbnb and C3.ai and the…*
        
-  - General Catalyst's Katherine Boyle and Peter Boyce are looking for 'obsessive' founders
+  - This Week in Apps:  Apple scolds adtech, Facebook hit with antitrust suits, Twitter buys Squad
       <hr/>
        
-       - *There are definitely people who are working at companies that we start engaging before they even have an idea. So it's never too early*
+       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in global consu…*
       
 
 <br />
