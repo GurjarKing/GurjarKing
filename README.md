@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - An even bigger battle for gig worker rights is on the horizon
+  - EdTech boom continues as IntellectoKids raises $3M from Allrise Capital and others
      <hr/>
      
-      - *In the year ahead, we'll likely see lobbying efforts from both gig companies and gig worker organizations — as well as more lawsuits.*
+      - *The rush to capitalize on the shift to online learning, post-pandemic, continues. IntellectoKids, a developer of educational apps for children aged 3 to 7 years, has raised $3 million in a Series A financing led by US-based Allrise Capital and other investors…*
      
-  - Original Content podcast: David Fincher presents a compelling character study in 'Mank'
+  - German Bionic raises $20M led by Samsung for exoskeleton tech to supercharge human labor
       <hr/>
       
-      - *“Mank” is a change of pace for director David Fincher — instead of exploring the world of startup backstabbing (“The Social Network”), political backstabbing (“House of Cards”) or actual stabbings (“Seven,” “Zodiac,” “Gone Girl,&#822…*
+      - *Exoskeleton technology has been one of the more interesting developments in the world of robotics: instead of building machines that replace humans altogether, build hardware that humans can wear to supercharge their abilities. Today, German Bionic, one of th…*
       
-  - Gillmor Gang: Strange Days Indeed
+  - Cledara, the SaaS purchase and management platform, raises $3.4M funding
       <hr/>
       
-      - *The place we’re in, the valley of the dolls between the vote and the Inauguration, is overshadowed by the battle to save our lives. The vaccines look promising, and so does the persistence of the Trumpster to play his games. Somehow we have to live with that,…*
+      - *Cledara, the SaaS purchase and management platform that helps bring greater viability and control over a company’s sprawling software subscriptions, has raised $3.4 million in additional funding. The round is led by Nauta Capital, with participation from exis…*
       
-  - Human Capital: Dr. Timnit Gebru says Google's memo was 'dehumanizing'
+  - Nokia launches a laptop with India's Flipkart
       <hr/>
       
-      - *Welcome back to Human Capital, where I break down the latest in diversity, equity and inclusion, and labor in tech. This week, Twitter dropped its latest diversity report and Tesla released its first one ever. Meanwhile, Google CEO Sundar Pichai apologized fo…*
+      - *Nokia, the 155-year-old iconic firm that has manufactured a range of items from rubber to cables to phones and telecommunications equipment, is ready to expand to a new category. The Finnish firm on Monday launched the Nokia PureBook X14 laptop in collaborati…*
        
-  - How to find your next VC
+  - China fines Alibaba, Tencent's e-book subsidiary over anti-trust violations
       <hr/>
        
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday? Subscribe here.  Ready? …*
+       - *The Chinese government is moving to curb the power of some of China’s most influential internet companies. The country’s top market regulator announced Monday that it is fining Alibaba and China Literature, Tencent’s e-book spinoff, for failing to report thei…*
       
 
 <br />
