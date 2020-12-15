@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - EdTech boom continues as IntellectoKids raises $3M from Allrise Capital and others
+  - UK Online Harms Bill, coming next year, will propose fines of up to 10% of annual turnover for breaching duty of care rules
      <hr/>
      
-      - *The rush to capitalize on the shift to online learning, post-pandemic, continues. IntellectoKids, a developer of educational apps for children aged 3 to 7 years, has raised $3 million in a Series A financing led by US-based Allrise Capital and other investors…*
+      - *The UK is moving ahead with a populist but controversial plan to regulate a wide range of illegal and/or harmful content almost anywhere online such stuff might pose a risk to children. The government has set out its final response to the consultation it kick…*
      
-  - German Bionic raises $20M led by Samsung for exoskeleton tech to supercharge human labor
+  - Daily Crunch: Apple launches Fitness+
       <hr/>
       
-      - *Exoskeleton technology has been one of the more interesting developments in the world of robotics: instead of building machines that replace humans altogether, build hardware that humans can wear to supercharge their abilities. Today, German Bionic, one of th…*
+      - *We review Apple Fitness+, Gmail goes down and Pornhub cracks down on unverified content. This is your Daily Crunch for December 14, 2020. The big story: Apple launches Fitness+ Brian Heater tried out Apple’s new $10-per-month subscription service for guided w…*
       
-  - Cledara, the SaaS purchase and management platform, raises $3.4M funding
+  - FTC orders ByteDance, Facebook, Snap and others to explain what they do with user data
       <hr/>
       
-      - *Cledara, the SaaS purchase and management platform that helps bring greater viability and control over a company’s sprawling software subscriptions, has raised $3.4 million in additional funding. The round is led by Nauta Capital, with participation from exis…*
+      - *The FTC is ordering the companies behind many of the largest social and video platforms to explain how they use the treasure troves of data they harvest from users. Amazon, TikTok owner ByteDance, Facebook, WhatsApp, Discord, Reddit, Snap, Twitter and YouTube…*
       
-  - Nokia launches a laptop with India's Flipkart
+  - Pinterest settles gender discrimination lawsuit with former COO for $22.5 million
       <hr/>
       
-      - *Nokia, the 155-year-old iconic firm that has manufactured a range of items from rubber to cables to phones and telecommunications equipment, is ready to expand to a new category. The Finnish firm on Monday launched the Nokia PureBook X14 laptop in collaborati…*
+      - *Pinterest today announced it has settled the gender discrimination lawsuit brought forth by former COO Francoise Brougher. In August, Brougher sued Pinterest, alleging gender discrimination, retaliation and wrongful termination. As part of the settlement, Pin…*
        
-  - China fines Alibaba, Tencent's e-book subsidiary over anti-trust violations
+  - Gift Guide: Fun photography gear to brighten up the holidays
       <hr/>
        
-       - *The Chinese government is moving to curb the power of some of China’s most influential internet companies. The country’s top market regulator announced Monday that it is fining Alibaba and China Literature, Tencent’s e-book spinoff, for failing to report thei…*
+       - *It's a difficult time to be a photographer. Getting creative feels impossible when every day is the same and the most exotic locale you visit is the living room. Travel is out this year, vacations are pushed back and everybody is cooped up inside trying not t…*
       
 
 <br />
