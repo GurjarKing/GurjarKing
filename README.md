@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - UK Online Harms Bill, coming next year, will propose fines of up to 10% of annual turnover for breaching duty of care rules
+  - The 2021 Ford Mustang Mach-E disappoints in our first drive
      <hr/>
      
-      - *The UK is moving ahead with a populist but controversial plan to regulate a wide range of illegal and/or harmful content almost anywhere online such stuff might pose a risk to children. The government has set out its final response to the consultation it kick…*
+      - *This is not a review of the 2021 Ford Mustang Mach-E Sport SUV. A few weeks back, I spent two short hours in Ford’s upcoming EV. I don’t feel comfortable declaring a conclusion with just a couple of hours behind the wheel. I need more time with the Mach-E, an…*
      
-  - Daily Crunch: Apple launches Fitness+
+  - Iceland's Controlant, with $50M backing, emerges as key player in Cold Chain for COVID-19 vaccine
       <hr/>
       
-      - *We review Apple Fitness+, Gmail goes down and Pornhub cracks down on unverified content. This is your Daily Crunch for December 14, 2020. The big story: Apple launches Fitness+ Brian Heater tried out Apple’s new $10-per-month subscription service for guided w…*
+      - *A startup hailing form far-flung Iceland is emerging as one of the key players in the race to distribute one of the key Coronavirus vaccines around the world. Controlant — which has a unique real-time supply chain monitoring technology based on GSM networks a…*
       
-  - FTC orders ByteDance, Facebook, Snap and others to explain what they do with user data
+  - Twitter fined ~$550k over a data breach in Ireland's first major GDPR decision
       <hr/>
       
-      - *The FTC is ordering the companies behind many of the largest social and video platforms to explain how they use the treasure troves of data they harvest from users. Amazon, TikTok owner ByteDance, Facebook, WhatsApp, Discord, Reddit, Snap, Twitter and YouTube…*
+      - *Ireland’s Data Protection Commission (DPC) has issued Twitter with a fine of €450,000 (~$547k) for failing to promptly declare and properly document a data breach under Europe’s General Data Protection Regulation (GDPR). The decision is noteworthy as it’s the…*
       
-  - Pinterest settles gender discrimination lawsuit with former COO for $22.5 million
+  - Extra Crunch membership now available to readers in Norway, Sweden, Finland, and Denmark
       <hr/>
       
-      - *Pinterest today announced it has settled the gender discrimination lawsuit brought forth by former COO Francoise Brougher. In August, Brougher sued Pinterest, alleging gender discrimination, retaliation and wrongful termination. As part of the settlement, Pin…*
+      - *We’re excited to announce that Extra Crunch memberships are now available in several Nordic countries: Norway, Sweden, Finland, and Denmark. For a full list of supported countries, head here. Sign up for Extra Crunch membership here to join our growing commun…*
        
-  - Gift Guide: Fun photography gear to brighten up the holidays
+  - Data privacy startup eXate raises £2.3M Seed led by Outward VC
       <hr/>
        
-       - *It's a difficult time to be a photographer. Getting creative feels impossible when every day is the same and the most exotic locale you visit is the living room. Travel is out this year, vacations are pushed back and everybody is cooped up inside trying not t…*
+       - *Accessing and sharing data is a complicated issue for large businesses, and doing this in a secure, compliant way is a problem for many. eXate, a London-based data software firm is attacking this problem and has now raised a £2.3 million seed round led by Out…*
       
 
 <br />
