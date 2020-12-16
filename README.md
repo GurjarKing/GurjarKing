@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Revolut launches mid-tier subscription plan
+  - Facebook to move UK users out of EU's privacy jurisdiction next year, post-brexit
      <hr/>
      
-      - *Fintech startup Revolut is tweaking its subscription plans with a new mid-tier offering called Revolut — it costs £2.99 per month. Like N26 Smart and Monzo Plus, the new plan is a pandemic-proof package that doesn’t focus as much on travel. For the past coupl…*
+      - *Facebook is to follow Google’s lead and move millions of UK users out of the jurisdiction of EU privacy laws to the US (which has no such comprehensive data protection framework) next year under a looming Brexit-related change to its T&Cs, Reuters reported ye…*
      
-  - Pinterest’s $22.5M settlement highlights tech’s inequities, say former employees who alleged discrimination
+  - Why Alibaba rival Pinduoduo is investing in agritech
       <hr/>
       
-      - *When Ifeoma Ozoma and Aerica Shimizu Banks, formerly of Pinterest’s policy team, alleged racial and gender discrimination at Pinterest in June, the hope was for Pinterest to make them whole and address its culture of alleged discrimination, Ozoma told TechCru…*
+      - *Back in 2018, Pinduoduo sent shock waves through the investor community when it raised $1.6 billion from a Nasdaq listing as a three-year-old company. Online shoppers in China were excited to see its rise as an alternative to long-time market dominators Aliba…*
       
-  - Daily Crunch: Goodbye, Periscope
+  - Australia sues Facebook over its use of Onavo to snoop
       <hr/>
       
-      - *Periscope is shutting down, Samsung has plans for more foldable devices and Airbnb sets new diversity goals. This is your Daily Crunch for December 15, 2020. The big story: Goodbye, Periscope It’s official: Twitter -owned live-streaming app Periscope is shutt…*
+      - *Yet more trouble brewing for Facebook: Australia’s Competition and Consumer Commission (ACCC) is suing the tech giant over its use, in 2016 and 2017, of the Onavo VPN app to spy on users for commercial purposes. The ACCC’s case accuses Facebook of false, misl…*
       
-  - Robomart launches its mobile convenience store in beta for West Hollywood residents
+  - Facebook launches revamped Instagram Lite app in India
       <hr/>
       
-      - *Nine months into the pandemic, one of the first states to institute a shut down is back at square one. Following a major spike in COVID-19 cases, California governor Gavin Newsom reinstituted major closures across the state, leaving many residents in search o…*
+      - *Facebook is working to bring back the Instagram Lite app, months after it shut down the light version offering worldwide. The social conglomerate said on Wednesday that it is testing the revamped Instagram Lite app in India, where it hopes to “gain valuable i…*
        
-  - Launch startup Astra's rocket reaches space
+  - Extra Crunch membership now available in Switzerland
       <hr/>
        
-       - *Rocket launch startup Astra has joined an elite group of companies who can say their vehicle has actually made it to orbital space – earlier than expected. The company’s Rocket 3.2 test rocket (yes it’s a rocket called ‘Rocket’) passed the Karman line, the se…*
+       - *TechCrunch readers in Switzerland can now purchase Extra Crunch membership. Join our growing community of founders, startup teams, and investors here.  Use the code SWISSCRUNCH during checkout for an additional 25% off an annual or 2-year plan. The discount c…*
       
 
 <br />
