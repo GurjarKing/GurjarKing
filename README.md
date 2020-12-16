@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The 2021 Ford Mustang Mach-E disappoints in our first drive
+  - Revolut launches mid-tier subscription plan
      <hr/>
      
-      - *This is not a review of the 2021 Ford Mustang Mach-E Sport SUV. A few weeks back, I spent two short hours in Ford’s upcoming EV. I don’t feel comfortable declaring a conclusion with just a couple of hours behind the wheel. I need more time with the Mach-E, an…*
+      - *Fintech startup Revolut is tweaking its subscription plans with a new mid-tier offering called Revolut — it costs £2.99 per month. Like N26 Smart and Monzo Plus, the new plan is a pandemic-proof package that doesn’t focus as much on travel. For the past coupl…*
      
-  - Iceland's Controlant, with $50M backing, emerges as key player in Cold Chain for COVID-19 vaccine
+  - Pinterest’s $22.5M settlement highlights tech’s inequities, say former employees who alleged discrimination
       <hr/>
       
-      - *A startup hailing form far-flung Iceland is emerging as one of the key players in the race to distribute one of the key Coronavirus vaccines around the world. Controlant — which has a unique real-time supply chain monitoring technology based on GSM networks a…*
+      - *When Ifeoma Ozoma and Aerica Shimizu Banks, formerly of Pinterest’s policy team, alleged racial and gender discrimination at Pinterest in June, the hope was for Pinterest to make them whole and address its culture of alleged discrimination, Ozoma told TechCru…*
       
-  - Twitter fined ~$550k over a data breach in Ireland's first major GDPR decision
+  - Daily Crunch: Goodbye, Periscope
       <hr/>
       
-      - *Ireland’s Data Protection Commission (DPC) has issued Twitter with a fine of €450,000 (~$547k) for failing to promptly declare and properly document a data breach under Europe’s General Data Protection Regulation (GDPR). The decision is noteworthy as it’s the…*
+      - *Periscope is shutting down, Samsung has plans for more foldable devices and Airbnb sets new diversity goals. This is your Daily Crunch for December 15, 2020. The big story: Goodbye, Periscope It’s official: Twitter -owned live-streaming app Periscope is shutt…*
       
-  - Extra Crunch membership now available to readers in Norway, Sweden, Finland, and Denmark
+  - Robomart launches its mobile convenience store in beta for West Hollywood residents
       <hr/>
       
-      - *We’re excited to announce that Extra Crunch memberships are now available in several Nordic countries: Norway, Sweden, Finland, and Denmark. For a full list of supported countries, head here. Sign up for Extra Crunch membership here to join our growing commun…*
+      - *Nine months into the pandemic, one of the first states to institute a shut down is back at square one. Following a major spike in COVID-19 cases, California governor Gavin Newsom reinstituted major closures across the state, leaving many residents in search o…*
        
-  - Data privacy startup eXate raises £2.3M Seed led by Outward VC
+  - Launch startup Astra's rocket reaches space
       <hr/>
        
-       - *Accessing and sharing data is a complicated issue for large businesses, and doing this in a secure, compliant way is a problem for many. eXate, a London-based data software firm is attacking this problem and has now raised a £2.3 million seed round led by Out…*
+       - *Rocket launch startup Astra has joined an elite group of companies who can say their vehicle has actually made it to orbital space – earlier than expected. The company’s Rocket 3.2 test rocket (yes it’s a rocket called ‘Rocket’) passed the Karman line, the se…*
       
 
 <br />
