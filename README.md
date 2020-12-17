@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook to move UK users out of EU's privacy jurisdiction next year, post-brexit
+  - Lydia raises another $86 million to build European financial super app
      <hr/>
      
-      - *Facebook is to follow Google’s lead and move millions of UK users out of the jurisdiction of EU privacy laws to the US (which has no such comprehensive data protection framework) next year under a looming Brexit-related change to its T&Cs, Reuters reported ye…*
+      - *French fintech startup Lydia has extended its Series B round. Accel is leading the extension with all major existing shareholders also participating. Lydia first raised $45 million in January 2020 — Tencent led that investment. The startup is now raising anot…*
      
-  - Why Alibaba rival Pinduoduo is investing in agritech
+  - Daily Crunch: Facebook escalates Apple criticism
       <hr/>
       
-      - *Back in 2018, Pinduoduo sent shock waves through the investor community when it raised $1.6 billion from a Nasdaq listing as a three-year-old company. Online shoppers in China were excited to see its rise as an alternative to long-time market dominators Aliba…*
+      - *Facebook takes aim at Apple, Texas sues Google and we interview the CEO of Boston Dynamics. This is your Daily Crunch for December 16, 2020. The big story: Facebook escalates Apple criticism Facebook took a big swing at Apple’s upcoming app tracking restricti…*
       
-  - Australia sues Facebook over its use of Onavo to snoop
+  - HBO Max will finally land on Roku devices tomorrow
       <hr/>
       
-      - *Yet more trouble brewing for Facebook: Australia’s Competition and Consumer Commission (ACCC) is suing the tech giant over its use, in 2016 and 2017, of the Onavo VPN app to spy on users for commercial purposes. The ACCC’s case accuses Facebook of false, misl…*
+      - *It took an unusually long time, but HBO Max is set to launch on Roku devices tomorrow. Roku users make up a massive chunk of the cord-cutting market, so the absence of an HBO Max app for Roku nearly seven months after the service launched was pretty glaring. …*
       
-  - Facebook launches revamped Instagram Lite app in India
+  - The StockX megaround smells like pre-IPO money
       <hr/>
       
-      - *Facebook is working to bring back the Instagram Lite app, months after it shut down the light version offering worldwide. The social conglomerate said on Wednesday that it is testing the revamped Instagram Lite app in India, where it hopes to “gain valuable i…*
+      - *An IPO? A shoe-reselling marketplace? Sure! At the numbers we know about it, why not?*
        
-  - Extra Crunch membership now available in Switzerland
+  - Following Hyundai acquisition, Boston Dynamics’ CEO discusses the robotics pioneer’s future
       <hr/>
        
-       - *TechCrunch readers in Switzerland can now purchase Extra Crunch membership. Join our growing community of founders, startup teams, and investors here.  Use the code SWISSCRUNCH during checkout for an additional 25% off an annual or 2-year plan. The discount c…*
+       - *A lot can change in a year. Especially this year. For Boston Dynamics, the past 12 months have brought a number of radical changes traditionally not seen at 30-year-old businesses of its size. It’s a list that includes the first new CEO in the company’s histo…*
       
 
 <br />
