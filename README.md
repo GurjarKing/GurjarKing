@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Lydia raises another $86 million to build European financial super app
+  - PhotoRoom launches background-removal app on Android
      <hr/>
      
-      - *French fintech startup Lydia has extended its Series B round. Accel is leading the extension with all major existing shareholders also participating. Lydia first raised $45 million in January 2020 — Tencent led that investment. The startup is now raising anot…*
+      - *French startup PhotoRoom is launching its app on Android today. The company has been working on a utility photography app that lets you remove the background from a photo, swaps it for another background and tweaks your photo. And it’s been working well on iO…*
      
-  - Daily Crunch: Facebook escalates Apple criticism
+  - Better Dairy picks up £1.6M seed funding to produce animal-free dairy
       <hr/>
       
-      - *Facebook takes aim at Apple, Texas sues Google and we interview the CEO of Boston Dynamics. This is your Daily Crunch for December 16, 2020. The big story: Facebook escalates Apple criticism Facebook took a big swing at Apple’s upcoming app tracking restricti…*
+      - *Better Dairy, a U.K. startup developing animal-free dairy that was founded out of Entrepreneur First (EF), has picked up £1.6 million in seed funding. The London-based company is currently in the R&D stages of developing products that are “molecularly identic…*
       
-  - HBO Max will finally land on Roku devices tomorrow
+  - GoCardless raises another $95M as it bets on open banking alongside its recurring payments network
       <hr/>
       
-      - *It took an unusually long time, but HBO Max is set to launch on Roku devices tomorrow. Roku users make up a massive chunk of the cord-cutting market, so the absence of an HBO Max app for Roku nearly seven months after the service launched was pretty glaring. …*
+      - *GoCardless, the London fintech that aims to become the one-stop shop globally for businesses that want to let customers pay via recurring bank payments, has raised $95 million in Series F funding. According to The Telegraph newspaper, this gives the company m…*
       
-  - The StockX megaround smells like pre-IPO money
+  - Google expands languages push in India to serve non-English speakers
       <hr/>
       
-      - *An IPO? A shoe-reselling marketplace? Sure! At the numbers we know about it, why not?*
+      - *There are over 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English. This language barrier continues …*
        
-  - Following Hyundai acquisition, Boston Dynamics’ CEO discusses the robotics pioneer’s future
+  - Waresix acquires Trukita to connect more of Indonesia's fragmented logistics chain
       <hr/>
        
-       - *A lot can change in a year. Especially this year. For Boston Dynamics, the past 12 months have brought a number of radical changes traditionally not seen at 30-year-old businesses of its size. It’s a list that includes the first new CEO in the company’s histo…*
+       - *Waresix, one of Indonesia’s largest logistics startups, has acquired Trukita, a company that focuses on the “first mile.” The term refers to the part of the supply chain where goods are transported from ports to warehouses. While Waresix’s platform digitizes …*
       
 
 <br />
