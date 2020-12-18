@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Googling for "Baby Yoda" will beam him into your living room via augmented reality
+  - Troubles rise for China's biggest chipmaker SMIC
      <hr/>
      
-      - *Google has been all about the fun little augmented reality Easter Eggs lately, with a bevy of search terms triggering Halloween-themed AR experiences back in October. Ghosts! Jack-o-lanterns! Dancing skeletons! Now they’ve got another one. Rolled out just in …*
+      - *Semiconductor Manufacturing International Corporation (SMIC), China’s top chipmaker, is under mounting pressure as reports of its CEO’s looming departure and a potential U.S. sanction concern investors. The U.S. Commerce Department is looking to add dozens of…*
      
-  - Mental wellness platform Lyra Health is raising up to $175M at a $2.25B valuation
+  - Sony pulls Cyberpunk 2077 from PlayStation Store after bugs complaints, offers refund
       <hr/>
       
-      - *The coronavirus pandemic has underscored, and often exacerbated, the mental health crisis that exists across the world. Even the spread of remote work is part of the problem: As everyone stays at home, the lack of interaction and watercooler chat has left emp…*
+      - *Sony has pulled “Cyberpunk 2077,” one of the most anticipated games in recent years, from its PlayStation Store after a flood of complaints and ridicule over compatibility issues and bugs from customers. The gaming giant said it is offering full refunds to an…*
       
-  - Lockheed Martin's Lisa Callahan on building a lunar lander collaboratively (and during COVID)
+  - Tencent-led consortium will lift stake in Universal Music to 20%
       <hr/>
       
-      - *NASA’s Artemis mission is just starting to get underway, and among the commercial partnerships vying for the privilege of building the lunar landing system is one between Lockheed Martin and Blue Origin, which is leading the effort. Lockheed VP and GM of Comm…*
+      - *Tencent is further strengthening its ties with music giant Universal Music Group as it continues to dominate the Chinese music streaming market. A consortium led by Tencent and comprising Tencent Music Entertainment, the internet giant’s music spinoff, is set…*
       
-  - Daily Crunch: Discord raises $100M
+  - Foresight raises $15M for its construction workers compensation platform
       <hr/>
       
-      - *Discord announces a big funding round, Google gets European approval to acquire Fitbit and Twitter launches a new voice-based feature. This is your Daily Crunch for December 17, 2020. Discord raises $100M The popular gaming chat platform confirmed today that …*
+      - *When an accident on a building site resulted in the death of their friend, the founders of Safesight were inspired to launch the platform to digitize safety programs for construction. The data from that gave birth to a new InsurTech startup this year, Foresig…*
        
-  - UIPath files confidential IPO paperwork with SEC
+  - V7 Labs raises $3M to help AI teams ‘automate’ training data workflows
       <hr/>
        
-       - *UIPath, the robotic process automation startup that has been growing like gangbusters, filed confidential paperwork with the SEC today ahead of a potential IPO. “UiPath, Inc. today announced that it has submitted a draft registration statement on a confidenti…*
+       - *V7 Labs, the makers of a computer vision platform that helps AI teams “automate” and future-proof their training data workflows as advances in AI continue, has picked up $3 million in funding. Leading the seed round is Amadeus Capital Partners, with participa…*
       
 
 <br />
