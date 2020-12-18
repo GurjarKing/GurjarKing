@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - PhotoRoom launches background-removal app on Android
+  - Googling for "Baby Yoda" will beam him into your living room via augmented reality
      <hr/>
      
-      - *French startup PhotoRoom is launching its app on Android today. The company has been working on a utility photography app that lets you remove the background from a photo, swaps it for another background and tweaks your photo. And it’s been working well on iO…*
+      - *Google has been all about the fun little augmented reality Easter Eggs lately, with a bevy of search terms triggering Halloween-themed AR experiences back in October. Ghosts! Jack-o-lanterns! Dancing skeletons! Now they’ve got another one. Rolled out just in …*
      
-  - Better Dairy picks up £1.6M seed funding to produce animal-free dairy
+  - Mental wellness platform Lyra Health is raising up to $175M at a $2.25B valuation
       <hr/>
       
-      - *Better Dairy, a U.K. startup developing animal-free dairy that was founded out of Entrepreneur First (EF), has picked up £1.6 million in seed funding. The London-based company is currently in the R&D stages of developing products that are “molecularly identic…*
+      - *The coronavirus pandemic has underscored, and often exacerbated, the mental health crisis that exists across the world. Even the spread of remote work is part of the problem: As everyone stays at home, the lack of interaction and watercooler chat has left emp…*
       
-  - GoCardless raises another $95M as it bets on open banking alongside its recurring payments network
+  - Lockheed Martin's Lisa Callahan on building a lunar lander collaboratively (and during COVID)
       <hr/>
       
-      - *GoCardless, the London fintech that aims to become the one-stop shop globally for businesses that want to let customers pay via recurring bank payments, has raised $95 million in Series F funding. According to The Telegraph newspaper, this gives the company m…*
+      - *NASA’s Artemis mission is just starting to get underway, and among the commercial partnerships vying for the privilege of building the lunar landing system is one between Lockheed Martin and Blue Origin, which is leading the effort. Lockheed VP and GM of Comm…*
       
-  - Google expands languages push in India to serve non-English speakers
+  - Daily Crunch: Discord raises $100M
       <hr/>
       
-      - *There are over 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English. This language barrier continues …*
+      - *Discord announces a big funding round, Google gets European approval to acquire Fitbit and Twitter launches a new voice-based feature. This is your Daily Crunch for December 17, 2020. Discord raises $100M The popular gaming chat platform confirmed today that …*
        
-  - Waresix acquires Trukita to connect more of Indonesia's fragmented logistics chain
+  - UIPath files confidential IPO paperwork with SEC
       <hr/>
        
-       - *Waresix, one of Indonesia’s largest logistics startups, has acquired Trukita, a company that focuses on the “first mile.” The term refers to the part of the supply chain where goods are transported from ports to warehouses. While Waresix’s platform digitizes …*
+       - *UIPath, the robotic process automation startup that has been growing like gangbusters, filed confidential paperwork with the SEC today ahead of a potential IPO. “UiPath, Inc. today announced that it has submitted a draft registration statement on a confidenti…*
       
 
 <br />
