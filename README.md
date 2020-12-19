@@ -59,30 +59,32 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Troubles rise for China's biggest chipmaker SMIC
+  - Extra Crunch roundup: 'Nightmare' security breach, Poshmark's IPO, crypto boom, more
      <hr/>
      
-      - *Semiconductor Manufacturing International Corporation (SMIC), China’s top chipmaker, is under mounting pressure as reports of its CEO’s looming departure and a potential U.S. sanction concern investors. The U.S. Commerce Department is looking to add dozens of…*
+      - *The rest of the world may be slowing down as we prepare for Christmas and New Year's, but we are not taking our foot off the gas.*
      
-  - Sony pulls Cyberpunk 2077 from PlayStation Store after bugs complaints, offers refund
+  - Daily Crunch: Amy Klobuchar discusses Amazon Halo concerns
       <hr/>
       
-      - *Sony has pulled “Cyberpunk 2077,” one of the most anticipated games in recent years, from its PlayStation Store after a flood of complaints and ridicule over compatibility issues and bugs from customers. The gaming giant said it is offering full refunds to an…*
+      - *We interview the senior senator from Minnesota about fitness trackers, Sony pulls “Cyberpunk 2077” from the PlayStation Store and Indian delivery startup Zomato raises a massive round. This is your Daily Crunch for December 18, 2020. The big story: Amy Klobuc…*
       
-  - Tencent-led consortium will lift stake in Universal Music to 20%
+  - Gift Guide: Our favorite headphones of 2020
       <hr/>
       
-      - *Tencent is further strengthening its ties with music giant Universal Music Group as it continues to dominate the Chinese music streaming market. A consortium led by Tencent and comprising Tencent Music Entertainment, the internet giant’s music spinoff, is set…*
+      - *Headphones! They make a pretty solid gift any year, but they're an even better option when we're all stuck at home. It's hard to think (much less get anything done) when the background track of your life is a cacophony of conference calls and Zoom school.
+
+…*
       
-  - Foresight raises $15M for its construction workers compensation platform
+  - Orbital refueling and manufacturing go from theory to reality in 2021
       <hr/>
       
-      - *When an accident on a building site resulted in the death of their friend, the founders of Safesight were inspired to launch the platform to digitize safety programs for construction. The data from that gave birth to a new InsurTech startup this year, Foresig…*
+      - *The idea of satellites and other spacecraft being able to refuel, repair, or even add new capabilities while in orbit has generally seemed like a “nice in theory” one, but as leaders from Maxar, Astroscale, and Orbit Fab explained at TC Sessions: Space, 2021 …*
        
-  - V7 Labs raises $3M to help AI teams ‘automate’ training data workflows
+  - Amazon’s Halo fitness tracker raises privacy concerns for Amy Klobuchar
       <hr/>
        
-       - *V7 Labs, the makers of a computer vision platform that helps AI teams “automate” and future-proof their training data workflows as advances in AI continue, has picked up $3 million in funding. Leading the seed round is Amadeus Capital Partners, with participa…*
+       - *After reading a review of Amazon’s new fitness tracker, Minnesota Senator Amy Klobuchar penned an open letter. “Recent reports have raised concerns about the Halo’s access to this extensive personal and private health information,” the lawmaker wrote to U.S. …*
       
 
 <br />
