@@ -59,32 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch roundup: 'Nightmare' security breach, Poshmark's IPO, crypto boom, more
+  - Apple puts contract partner Wistron on probation after violence at India plant
      <hr/>
      
-      - *The rest of the world may be slowing down as we prepare for Christmas and New Year's, but we are not taking our foot off the gas.*
+      - *Apple has placed its contract manufacturing partner Wistron on probation and won’t give the Taiwanese firm any new business until it took “complete corrective actions” following lapses at its southern India plant. The iPhone maker said on Saturday that its em…*
      
+  - Wish (and Airbnb, and Palantir) investor Justin Fishner-Wolfson doesn't care about first-day pops
+      <hr/>
+      
+      - *It’s probably no wonder that when Founders Fund was still a very young venture firm 13 years ago, it brought aboard as its first principal Justin Fishner-Wolfson. Having nabbed two computer science degrees from Stanford and spent two years as CEO of an organi…*
+      
+  - FDA authorizes Moderna's COVID-19 vaccine for emergency use
+      <hr/>
+      
+      - *The U.S. Food and Drug Administration (FDA) has issues an Emergency Use Authorization (EUA) for Moderna’s COVID-19 vaccine, as expected after an independent panel commissioned by the administration recommended its approval earlier this week. This is the secon…*
+      
+  - Extra Crunch roundup: 'Nightmare' security breach, Poshmark's IPO, crypto boom, more
+      <hr/>
+      
+      - *The rest of the world may be slowing down as we prepare for Christmas and New Year's, but we are not taking our foot off the gas.*
+       
   - Daily Crunch: Amy Klobuchar discusses Amazon Halo concerns
       <hr/>
-      
-      - *We interview the senior senator from Minnesota about fitness trackers, Sony pulls “Cyberpunk 2077” from the PlayStation Store and Indian delivery startup Zomato raises a massive round. This is your Daily Crunch for December 18, 2020. The big story: Amy Klobuc…*
-      
-  - Gift Guide: Our favorite headphones of 2020
-      <hr/>
-      
-      - *Headphones! They make a pretty solid gift any year, but they're an even better option when we're all stuck at home. It's hard to think (much less get anything done) when the background track of your life is a cacophony of conference calls and Zoom school.
-
-…*
-      
-  - Orbital refueling and manufacturing go from theory to reality in 2021
-      <hr/>
-      
-      - *The idea of satellites and other spacecraft being able to refuel, repair, or even add new capabilities while in orbit has generally seemed like a “nice in theory” one, but as leaders from Maxar, Astroscale, and Orbit Fab explained at TC Sessions: Space, 2021 …*
        
-  - Amazon’s Halo fitness tracker raises privacy concerns for Amy Klobuchar
-      <hr/>
-       
-       - *After reading a review of Amazon’s new fitness tracker, Minnesota Senator Amy Klobuchar penned an open letter. “Recent reports have raised concerns about the Halo’s access to this extensive personal and private health information,” the lawmaker wrote to U.S. …*
+       - *We interview the senior senator from Minnesota about fitness trackers, Sony pulls “Cyberpunk 2077” from the PlayStation Store and Indian delivery startup Zomato raises a massive round. This is your Daily Crunch for December 18, 2020. The big story: Amy Klobuc…*
       
 
 <br />
