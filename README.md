@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Full Stream Ahead
+  - Mixtape podcast: Artificial intelligence and disability
      <hr/>
      
-      - *Twitter is shutting down Periscope, the video app it acquired several years ago when Facebook Live threatened to lap the field. When we stream the Gillmor Gang sessions, we send them to Facebook, Twitter, and an unlisted embed on YouTube. At one point, we pla…*
+      - *﻿ Welcome back to Mixtape, the TechCrunch podcast that looks at the human element that powers technology. For this episode we spoke with Meredith Whittaker, co-founder of the AI Now Institute and Minderoo Research Professor at NYU; Mara Mills, associate profe…*
      
+  - Gillmor Gang: Full Stream Ahead
+      <hr/>
+      
+      - *Twitter is shutting down Periscope, the video app it acquired several years ago when Facebook Live threatened to lap the field. When we stream the Gillmor Gang sessions, we send them to Facebook, Twitter, and an unlisted embed on YouTube. At one point, we pla…*
+      
   - Can you IPO sneakers? Also, this is the last Exchange roundup of the year
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *This was quite the week for Pinterest and not in a good way. While the company settled the gender discrimination lawsuit brought forth by its former COO, the hefty $22.5 million settlement highlighted some of the tech industry’s inequities.  Meanwhile, Airbnb…*
-      
+       
   - How Zoox turned a failed Series C into the future
       <hr/>
-      
-      - *I often begin calls with founders by asking why they’re willing to bet their livelihoods on an idea that will most likely fail. It’s a small hack that lets me see how vulnerable a founder is, and how much conviction they have behind their ideas. Sometimes, if…*
        
-  - DJI says products will remain on sale after being added to US ‘entity list’
-      <hr/>
-       
-       - *Yesterday the U.S. Department of Commerce included DJI among the 77 new entries on its ‘entity list.’ Precisely what this means for the company’s future in the States remains uncertain, but it has since responded to TechCrunch’s request for comment. “DJI is d…*
+       - *I often begin calls with founders by asking why they’re willing to bet their livelihoods on an idea that will most likely fail. It’s a small hack that lets me see how vulnerable a founder is, and how much conviction they have behind their ideas. Sometimes, if…*
       
 
 <br />
