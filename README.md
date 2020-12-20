@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Apple puts contract partner Wistron on probation after violence at India plant
+  - Gillmor Gang: Full Stream Ahead
      <hr/>
      
-      - *Apple has placed its contract manufacturing partner Wistron on probation and won’t give the Taiwanese firm any new business until it took “complete corrective actions” following lapses at its southern India plant. The iPhone maker said on Saturday that its em…*
+      - *Twitter is shutting down Periscope, the video app it acquired several years ago when Facebook Live threatened to lap the field. When we stream the Gillmor Gang sessions, we send them to Facebook, Twitter, and an unlisted embed on YouTube. At one point, we pla…*
      
-  - Wish (and Airbnb, and Palantir) investor Justin Fishner-Wolfson doesn't care about first-day pops
+  - Can you IPO sneakers? Also, this is the last Exchange roundup of the year
       <hr/>
       
-      - *It’s probably no wonder that when Founders Fund was still a very young venture firm 13 years ago, it brought aboard as its first principal Justin Fishner-Wolfson. Having nabbed two computer science degrees from Stanford and spent two years as CEO of an organi…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday? Subscribe here.  Ready? …*
       
-  - FDA authorizes Moderna's COVID-19 vaccine for emergency use
+  - Human Capital: Ex-Pinterest employees who alleged discrimination say 'no progress has been made'
       <hr/>
       
-      - *The U.S. Food and Drug Administration (FDA) has issues an Emergency Use Authorization (EUA) for Moderna’s COVID-19 vaccine, as expected after an independent panel commissioned by the administration recommended its approval earlier this week. This is the secon…*
+      - *This was quite the week for Pinterest and not in a good way. While the company settled the gender discrimination lawsuit brought forth by its former COO, the hefty $22.5 million settlement highlighted some of the tech industry’s inequities.  Meanwhile, Airbnb…*
       
-  - Extra Crunch roundup: 'Nightmare' security breach, Poshmark's IPO, crypto boom, more
+  - How Zoox turned a failed Series C into the future
       <hr/>
       
-      - *The rest of the world may be slowing down as we prepare for Christmas and New Year's, but we are not taking our foot off the gas.*
+      - *I often begin calls with founders by asking why they’re willing to bet their livelihoods on an idea that will most likely fail. It’s a small hack that lets me see how vulnerable a founder is, and how much conviction they have behind their ideas. Sometimes, if…*
        
-  - Daily Crunch: Amy Klobuchar discusses Amazon Halo concerns
+  - DJI says products will remain on sale after being added to US ‘entity list’
       <hr/>
        
-       - *We interview the senior senator from Minnesota about fitness trackers, Sony pulls “Cyberpunk 2077” from the PlayStation Store and Indian delivery startup Zomato raises a massive round. This is your Daily Crunch for December 18, 2020. The big story: Amy Klobuc…*
+       - *Yesterday the U.S. Department of Commerce included DJI among the 77 new entries on its ‘entity list.’ Precisely what this means for the company’s future in the States remains uncertain, but it has since responded to TechCrunch’s request for comment. “DJI is d…*
       
 
 <br />
