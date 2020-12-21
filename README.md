@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Mixtape podcast: Artificial intelligence and disability
+  - Entrepreneurs say regulatory constraints are hampering commercial applications of space tech
      <hr/>
      
-      - *﻿ Welcome back to Mixtape, the TechCrunch podcast that looks at the human element that powers technology. For this episode we spoke with Meredith Whittaker, co-founder of the AI Now Institute and Minderoo Research Professor at NYU; Mara Mills, associate profe…*
+      - *When Payam Banazadeh and his team started Capella Space in 2016, they had visions of providing private industry with a wealth of new data that they could use in all sorts of ways to create business opportunities and improve efficiencies. Four years later, Ban…*
      
+  - Dozens of journalists' iPhones hacked with NSO 'zero-click' spyware, says Citizen Lab
+      <hr/>
+      
+      - *Citizen Lab said Saudi Arabia and the United Arab Emirates were likely behind the attacks.*
+      
+  - Original Content podcast: The pandemic thriller 'Songbird' could have been a lot worse
+      <hr/>
+      
+      - *Let’s be clear: “Songbird” is not a good movie. It’s hard to see how it could have been any good, since “Songbird” was written shortly after the pandemic began and filmed a few months later — so the filmmakers had to write a screenplay, shoot it in the midst …*
+      
+  - Mixtape podcast: Artificial intelligence and disability
+      <hr/>
+      
+      - *﻿ Welcome back to Mixtape, the TechCrunch podcast that looks at the human element that powers technology. For this episode we spoke with Meredith Whittaker, co-founder of the AI Now Institute and Minderoo Research Professor at NYU; Mara Mills, associate profe…*
+       
   - Gillmor Gang: Full Stream Ahead
       <hr/>
-      
-      - *Twitter is shutting down Periscope, the video app it acquired several years ago when Facebook Live threatened to lap the field. When we stream the Gillmor Gang sessions, we send them to Facebook, Twitter, and an unlisted embed on YouTube. At one point, we pla…*
-      
-  - Can you IPO sneakers? Also, this is the last Exchange roundup of the year
-      <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday? Subscribe here.  Ready? …*
-      
-  - Human Capital: Ex-Pinterest employees who alleged discrimination say 'no progress has been made'
-      <hr/>
-      
-      - *This was quite the week for Pinterest and not in a good way. While the company settled the gender discrimination lawsuit brought forth by its former COO, the hefty $22.5 million settlement highlighted some of the tech industry’s inequities.  Meanwhile, Airbnb…*
        
-  - How Zoox turned a failed Series C into the future
-      <hr/>
-       
-       - *I often begin calls with founders by asking why they’re willing to bet their livelihoods on an idea that will most likely fail. It’s a small hack that lets me see how vulnerable a founder is, and how much conviction they have behind their ideas. Sometimes, if…*
+       - *Twitter is shutting down Periscope, the video app it acquired several years ago when Facebook Live threatened to lap the field. When we stream the Gillmor Gang sessions, we send them to Facebook, Twitter, and an unlisted embed on YouTube. At one point, we pla…*
       
 
 <br />
