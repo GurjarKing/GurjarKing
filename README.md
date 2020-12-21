@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Entrepreneurs say regulatory constraints are hampering commercial applications of space tech
+  - Indian court rejects retail giant Future Group's plea against Amazon
      <hr/>
      
-      - *When Payam Banazadeh and his team started Capella Space in 2016, they had visions of providing private industry with a wealth of new data that they could use in all sorts of ways to create business opportunities and improve efficiencies. Four years later, Ban…*
+      - *An Indian court rejected Future Group’s plea that sought to prevent its partner Amazon from raising objections and interfering in the Indian retail giant’s $3.4 billion asset sale deal to Mukesh Ambani’s Reliance Industries, delivering a glimmer of hope to th…*
      
+  - SoftBank will reportedly file for a SPAC on Monday
+      <hr/>
+      
+      - *SoftBank Investment Advisers may file as early as Monday to raise between $500 million and $600 million through an initial public offering of its first special purpose acquisition vehicle, reports Axios. SoftBank Investment Advisers manages the two Vision Fun…*
+      
+  - Entrepreneurs say regulatory constraints are hampering commercial applications of space tech
+      <hr/>
+      
+      - *When Payam Banazadeh and his team started Capella Space in 2016, they had visions of providing private industry with a wealth of new data that they could use in all sorts of ways to create business opportunities and improve efficiencies. Four years later, Ban…*
+      
   - Dozens of journalists' iPhones hacked with NSO 'zero-click' spyware, says Citizen Lab
       <hr/>
       
       - *Citizen Lab said Saudi Arabia and the United Arab Emirates were likely behind the attacks.*
-      
+       
   - Original Content podcast: The pandemic thriller 'Songbird' could have been a lot worse
       <hr/>
-      
-      - *Let’s be clear: “Songbird” is not a good movie. It’s hard to see how it could have been any good, since “Songbird” was written shortly after the pandemic began and filmed a few months later — so the filmmakers had to write a screenplay, shoot it in the midst …*
-      
-  - Mixtape podcast: Artificial intelligence and disability
-      <hr/>
-      
-      - *﻿ Welcome back to Mixtape, the TechCrunch podcast that looks at the human element that powers technology. For this episode we spoke with Meredith Whittaker, co-founder of the AI Now Institute and Minderoo Research Professor at NYU; Mara Mills, associate profe…*
        
-  - Gillmor Gang: Full Stream Ahead
-      <hr/>
-       
-       - *Twitter is shutting down Periscope, the video app it acquired several years ago when Facebook Live threatened to lap the field. When we stream the Gillmor Gang sessions, we send them to Facebook, Twitter, and an unlisted embed on YouTube. At one point, we pla…*
+       - *Let’s be clear: “Songbird” is not a good movie. It’s hard to see how it could have been any good, since “Songbird” was written shortly after the pandemic began and filmed a few months later — so the filmmakers had to write a screenplay, shoot it in the midst …*
       
 
 <br />
