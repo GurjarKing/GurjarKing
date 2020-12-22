@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Snoop Dogg's Casa Verde Capital closes on $100 million as the cannabis industry bounces back
+  - Liberis, the embedded finance provider for SMEs, raises additional £70M in equity and debt
      <hr/>
      
-      - *Casa Verde Capital, the investment fund co-founded by cannabis connoisseur Snoop Dogg (also known as Calvin Broadus), has closed on $100 million for its second investment fund, according to documents filed with the SEC. The fund, whose managing director, Kara…*
+      - *Liberis, the U.K.-based fintech that provides finance for small businesses as an alternative to a traditional bank loan or extended overdraft, has replenished its own coffers with £70 million in funding. The round is a mixture of equity and debt, although the…*
      
-  - Google, Cisco, and VMware join Microsoft to oppose NSO Group in WhatsApp spyware case
+  - Asia's casino capital Macau to host a CES alternative in 2021
       <hr/>
       
-      - *Silicon Valley tech giants say spyware maker NSO Group should not be allowed to claim immunity.*
+      - *Macau, the former Portuguese colony that is now the world’s biggest gambling center, is planning to host a tech fair next year to match the famed CES in Las Vegas. The brains behind the “Beyond” conference are Lu Gang, founder of Chinese tech news media compa…*
       
-  - Daily Crunch: Stimulus bill includes money for broadband and energy
+  - Google leads $145M investment in India's Glance; backs VerSe Innovation in $100M round
       <hr/>
       
-      - *We look at the tech implications of the new stimulus bill, Lockheed Martin makes a big rocket engine acquisition and Google Cloud expands. This is your Daily Crunch for December 21, 2020. The big story: Stimulus bill includes money for broadband and energy Th…*
+      - *Indian startup Glance, which serves news, media content, and games on the lock screen of over 100 million smartphones, has a new investor: Google. The two-year-old Glance, which is part of advertising giant InMobi Group, said on Tuesday that it has raised $14…*
       
-  - The 'Apple car' chatter is back with new reports pointing to a 2024 launch date
+  - Horizon Robotics, a Chinese rival to Nvidia, seeks to raise over $700M
       <hr/>
       
-      - *The demise of the Apple car, the technology giant’s not-so-secret secret project, was perhaps overstated. Apple’s so-called Project Titan, which last year reduced the team by some 200 employees, is not only alive, it has plans to produce an electric passenger…*
+      - *In their rush to offer alternatives to advanced western chipsets, Chinese semiconductor companies are racking up large fundings from investors. Horizon Robotics, a five-year-old unicorn specializing in AI chips for robots and autonomous vehicles, announced Tu…*
        
-  - As 2020 ends, new unicorn formation continues to impress
+  - Snoop Dogg's Casa Verde Capital closes on $100 million as the cannabis industry bounces back
       <hr/>
        
-       - *Here in the final few working days of 2020, a surprising number of new unicorns have come to light. The mad scramble that investors are seeing in seed-stage startups appears to be reflected across the later stages as well. That deal-making is still alive is n…*
+       - *Casa Verde Capital, the investment fund co-founded by cannabis connoisseur Snoop Dogg (also known as Calvin Broadus), has closed on $100 million for its second investment fund, according to documents filed with the SEC. The fund, whose managing director, Kara…*
       
 
 <br />
