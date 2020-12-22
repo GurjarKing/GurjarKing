@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Indian court rejects retail giant Future Group's plea against Amazon
+  - Snoop Dogg's Casa Verde Capital closes on $100 million as the cannabis industry bounces back
      <hr/>
      
-      - *An Indian court rejected Future Group’s plea that sought to prevent its partner Amazon from raising objections and interfering in the Indian retail giant’s $3.4 billion asset sale deal to Mukesh Ambani’s Reliance Industries, delivering a glimmer of hope to th…*
+      - *Casa Verde Capital, the investment fund co-founded by cannabis connoisseur Snoop Dogg (also known as Calvin Broadus), has closed on $100 million for its second investment fund, according to documents filed with the SEC. The fund, whose managing director, Kara…*
      
-  - SoftBank will reportedly file for a SPAC on Monday
+  - Google, Cisco, and VMware join Microsoft to oppose NSO Group in WhatsApp spyware case
       <hr/>
       
-      - *SoftBank Investment Advisers may file as early as Monday to raise between $500 million and $600 million through an initial public offering of its first special purpose acquisition vehicle, reports Axios. SoftBank Investment Advisers manages the two Vision Fun…*
+      - *Silicon Valley tech giants say spyware maker NSO Group should not be allowed to claim immunity.*
       
-  - Entrepreneurs say regulatory constraints are hampering commercial applications of space tech
+  - Daily Crunch: Stimulus bill includes money for broadband and energy
       <hr/>
       
-      - *When Payam Banazadeh and his team started Capella Space in 2016, they had visions of providing private industry with a wealth of new data that they could use in all sorts of ways to create business opportunities and improve efficiencies. Four years later, Ban…*
+      - *We look at the tech implications of the new stimulus bill, Lockheed Martin makes a big rocket engine acquisition and Google Cloud expands. This is your Daily Crunch for December 21, 2020. The big story: Stimulus bill includes money for broadband and energy Th…*
       
-  - Dozens of journalists' iPhones hacked with NSO 'zero-click' spyware, says Citizen Lab
+  - The 'Apple car' chatter is back with new reports pointing to a 2024 launch date
       <hr/>
       
-      - *Citizen Lab said Saudi Arabia and the United Arab Emirates were likely behind the attacks.*
+      - *The demise of the Apple car, the technology giant’s not-so-secret secret project, was perhaps overstated. Apple’s so-called Project Titan, which last year reduced the team by some 200 employees, is not only alive, it has plans to produce an electric passenger…*
        
-  - Original Content podcast: The pandemic thriller 'Songbird' could have been a lot worse
+  - As 2020 ends, new unicorn formation continues to impress
       <hr/>
        
-       - *Let’s be clear: “Songbird” is not a good movie. It’s hard to see how it could have been any good, since “Songbird” was written shortly after the pandemic began and filmed a few months later — so the filmmakers had to write a screenplay, shoot it in the midst …*
+       - *Here in the final few working days of 2020, a surprising number of new unicorns have come to light. The mad scramble that investors are seeing in seed-stage startups appears to be reflected across the later stages as well. That deal-making is still alive is n…*
       
 
 <br />
