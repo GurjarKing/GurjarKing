@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Stimulus bill increases penalties for illegal streaming services
+  - Telegram to begin monetizing the app as it approaches 500 million users
      <hr/>
      
-      - *The stimulus bill includes significant changes to copyright law and enforcement, the Biden administration may have to build a presidential Twitter following from scratch and we round up the startups that shut down this year. This is your Daily Crunch for Dece…*
+      - *Instant messaging app Telegram is “approaching” 500 million users and plans to start generating revenue starting next year to keep the business operational, its founder Pavel Durov said on Wednesday. Durov said he has personally bankrolled the seven-year-old …*
      
-  - Substack explains its ‘hands-off’ approach to content moderation
+  - AI-driven energy startup Octopus hits $2Bn mark after $200M investment from Tokyo Gas
       <hr/>
       
-      - *Content moderation has been a thorny topic in 2020. And when I say “thorny,” I mean in the sense of having multiple congressional hearings on the subject. Twitter and Facebook in particular have been mired in concerns around the subject, fielding complaints t…*
+      - *You’ve heard of challenger banks? Now meet the challenger energy suppliers. The UK’s Octopus Energy has attained a $2.06 billion valuation (£1.5 billion) after attracting a $200 million (£150 million) investment from Tokyo Gas for a 9.7% stake, in order to la…*
       
-  - Elon Musk claims he tried selling Tesla to Apple but Tim Cook wasn't interested
+  - On-demand logistics company Lalamove gets $515 million Series E
       <hr/>
       
-      - *Tesla stock’s miraculously bizarre 2020 might have a gone different way had Apple’s Tim Cook agreed to a meeting in recent years, or so says Elon Musk. Reacting to Reuters’ recent news that Apple has not abandoned its electric car program and is still pursuin…*
+      - *Lalamove will extend its network to cover more small Chinese cities after raising $515 million in Series E funding, the on-demand logistics company announced on its site. The round was led by Sequoia Capital China, with participation from Hillhouse Capital an…*
       
-  - Bandit ML helps e-commerce businesses present the most effective offer to each shopper
+  - Chinese autonomous driving startup WeRide bags $200M in funding
       <hr/>
       
-      - *Bandit ML aims to optimize and automate the process of presenting the right offer to the right customer. The startup was part of the summer 2020 class at accelerator Y Combinator . It also raised a $1.32 million seed round in September from YC, Haystack Fund,…*
+      - *WeRide, one of China’s most-funded startups developing autonomous driving capabilities, said on Wednesday that it has raised a $200 million strategic round from Chinese bus maker Yutong. Mega investments aren’t uncommon at companies like WeRide developing the…*
        
-  - NASA opens new launchpad at Kennedy Space Center meant to serve multiple commercial launch customers
+  - TaskRabbit is resetting customer passwords after finding  'suspicious activity' on its network
       <hr/>
        
-       - *NASA has finished work on a new launchpad at its Kennedy Space Center in Florida – Launch Complex 48 (LC-48), a pad that will be able to support smaller launch vehicles than either LC-39A or B, or SLC-41, which currently host SpaceX, SLS and ULA launches resp…*
+       - *The gig-economy company said it "took steps to prevent access to any user accounts."*
       
 
 <br />
