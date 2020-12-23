@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Liberis, the embedded finance provider for SMEs, raises additional £70M in equity and debt
+  - Daily Crunch: Stimulus bill increases penalties for illegal streaming services
      <hr/>
      
-      - *Liberis, the U.K.-based fintech that provides finance for small businesses as an alternative to a traditional bank loan or extended overdraft, has replenished its own coffers with £70 million in funding. The round is a mixture of equity and debt, although the…*
+      - *The stimulus bill includes significant changes to copyright law and enforcement, the Biden administration may have to build a presidential Twitter following from scratch and we round up the startups that shut down this year. This is your Daily Crunch for Dece…*
      
-  - Asia's casino capital Macau to host a CES alternative in 2021
+  - Substack explains its ‘hands-off’ approach to content moderation
       <hr/>
       
-      - *Macau, the former Portuguese colony that is now the world’s biggest gambling center, is planning to host a tech fair next year to match the famed CES in Las Vegas. The brains behind the “Beyond” conference are Lu Gang, founder of Chinese tech news media compa…*
+      - *Content moderation has been a thorny topic in 2020. And when I say “thorny,” I mean in the sense of having multiple congressional hearings on the subject. Twitter and Facebook in particular have been mired in concerns around the subject, fielding complaints t…*
       
-  - Google leads $145M investment in India's Glance; backs VerSe Innovation in $100M round
+  - Elon Musk claims he tried selling Tesla to Apple but Tim Cook wasn't interested
       <hr/>
       
-      - *Indian startup Glance, which serves news, media content, and games on the lock screen of over 100 million smartphones, has a new investor: Google. The two-year-old Glance, which is part of advertising giant InMobi Group, said on Tuesday that it has raised $14…*
+      - *Tesla stock’s miraculously bizarre 2020 might have a gone different way had Apple’s Tim Cook agreed to a meeting in recent years, or so says Elon Musk. Reacting to Reuters’ recent news that Apple has not abandoned its electric car program and is still pursuin…*
       
-  - Horizon Robotics, a Chinese rival to Nvidia, seeks to raise over $700M
+  - Bandit ML helps e-commerce businesses present the most effective offer to each shopper
       <hr/>
       
-      - *In their rush to offer alternatives to advanced western chipsets, Chinese semiconductor companies are racking up large fundings from investors. Horizon Robotics, a five-year-old unicorn specializing in AI chips for robots and autonomous vehicles, announced Tu…*
+      - *Bandit ML aims to optimize and automate the process of presenting the right offer to the right customer. The startup was part of the summer 2020 class at accelerator Y Combinator . It also raised a $1.32 million seed round in September from YC, Haystack Fund,…*
        
-  - Snoop Dogg's Casa Verde Capital closes on $100 million as the cannabis industry bounces back
+  - NASA opens new launchpad at Kennedy Space Center meant to serve multiple commercial launch customers
       <hr/>
        
-       - *Casa Verde Capital, the investment fund co-founded by cannabis connoisseur Snoop Dogg (also known as Calvin Broadus), has closed on $100 million for its second investment fund, according to documents filed with the SEC. The fund, whose managing director, Kara…*
+       - *NASA has finished work on a new launchpad at its Kennedy Space Center in Florida – Launch Complex 48 (LC-48), a pad that will be able to support smaller launch vehicles than either LC-39A or B, or SLC-41, which currently host SpaceX, SLS and ULA launches resp…*
       
 
 <br />
