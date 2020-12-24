@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gift Guide: Last-minute subscriptions to keep the gifts going all year
+  - China's e-commerce titan Alibaba hit with antitrust probe
      <hr/>
      
-      - *SURPRISE! It's December 23rd. How? Because time doesn't make sense anymore and last week was really a month ago and April was yesterday.*
+      - *China’s top market watchdog has begun a probe into Alibaba over alleged anti-competition practices at the e-commerce firm, the latest of Beijing’s efforts to curb the country’s ever-expanding internet titans. The State Administration for Market Regulation sai…*
      
+  - Google reportedly tightens grip on research into 'sensitive topics'
+      <hr/>
+      
+      - *Google is currently under fire for apparently pushing out a researcher whose work warned of bias in AI, and now a report from Reuters says others doing such work at the company have been asked to “strike a positive tone” and undergo additional reviews for res…*
+      
+  - Gift Guide: Last-minute subscriptions to keep the gifts going all year
+      <hr/>
+      
+      - *SURPRISE! It's December 23rd. How? Because time doesn't make sense anymore and last week was really a month ago and April was yesterday.*
+      
   - Daily Crunch: Telegram prepares to monetize
       <hr/>
       
       - *Telegram will introduce ads, TikTok’s parent company is moving into drug discovery and President Trump continues his battle against Section 230. This is your Daily Crunch for December 23, 2020. The big story: Telegram prepares to monetize Telegram founder Pav…*
-      
+       
   - Trump vetoes major defense bill, citing Section 230
       <hr/>
-      
-      - *Following through on his previous threat, President Trump has vetoed the $740 million National Defense Authorization Act (NDAA), a major bill that allocates military funds each year. Through tweets in early December, Trump said he would sink the NDAA if it wa…*
-      
-  - XRP cryptocurrency crashes following announcement of SEC suit against Ripple
-      <hr/>
-      
-      - *The value of one of the world’s most valuable cryptocurrencies is crashing and a recently filed SEC complaint is at the root of the free fall. According to CoinMarketCap, the XRP token’s value has declined more than 42% in the past 24 hours and is down more t…*
        
-  - TechCrunch's top stories of 2020
-      <hr/>
-       
-       - *As the year comes to a close, some of our editors share their top stories from 2020. Read more: For Seattle’s cop-free protest zone, tech is both a revolutionary asset and disastrous liability Uber in talks to sell ATG self-driving unit to Aurora Uber sells s…*
+       - *Following through on his previous threat, President Trump has vetoed the $740 million National Defense Authorization Act (NDAA), a major bill that allocates military funds each year. Through tweets in early December, Trump said he would sink the NDAA if it wa…*
       
 
 <br />
