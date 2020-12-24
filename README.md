@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Telegram to begin monetizing the app as it approaches 500 million users
+  - Gift Guide: Last-minute subscriptions to keep the gifts going all year
      <hr/>
      
-      - *Instant messaging app Telegram is “approaching” 500 million users and plans to start generating revenue starting next year to keep the business operational, its founder Pavel Durov said on Wednesday. Durov said he has personally bankrolled the seven-year-old …*
+      - *SURPRISE! It's December 23rd. How? Because time doesn't make sense anymore and last week was really a month ago and April was yesterday.*
      
-  - AI-driven energy startup Octopus hits $2Bn mark after $200M investment from Tokyo Gas
+  - Daily Crunch: Telegram prepares to monetize
       <hr/>
       
-      - *You’ve heard of challenger banks? Now meet the challenger energy suppliers. The UK’s Octopus Energy has attained a $2.06 billion valuation (£1.5 billion) after attracting a $200 million (£150 million) investment from Tokyo Gas for a 9.7% stake, in order to la…*
+      - *Telegram will introduce ads, TikTok’s parent company is moving into drug discovery and President Trump continues his battle against Section 230. This is your Daily Crunch for December 23, 2020. The big story: Telegram prepares to monetize Telegram founder Pav…*
       
-  - On-demand logistics company Lalamove gets $515 million Series E
+  - Trump vetoes major defense bill, citing Section 230
       <hr/>
       
-      - *Lalamove will extend its network to cover more small Chinese cities after raising $515 million in Series E funding, the on-demand logistics company announced on its site. The round was led by Sequoia Capital China, with participation from Hillhouse Capital an…*
+      - *Following through on his previous threat, President Trump has vetoed the $740 million National Defense Authorization Act (NDAA), a major bill that allocates military funds each year. Through tweets in early December, Trump said he would sink the NDAA if it wa…*
       
-  - Chinese autonomous driving startup WeRide bags $200M in funding
+  - XRP cryptocurrency crashes following announcement of SEC suit against Ripple
       <hr/>
       
-      - *WeRide, one of China’s most-funded startups developing autonomous driving capabilities, said on Wednesday that it has raised a $200 million strategic round from Chinese bus maker Yutong. Mega investments aren’t uncommon at companies like WeRide developing the…*
+      - *The value of one of the world’s most valuable cryptocurrencies is crashing and a recently filed SEC complaint is at the root of the free fall. According to CoinMarketCap, the XRP token’s value has declined more than 42% in the past 24 hours and is down more t…*
        
-  - TaskRabbit is resetting customer passwords after finding  'suspicious activity' on its network
+  - TechCrunch's top stories of 2020
       <hr/>
        
-       - *The gig-economy company said it "took steps to prevent access to any user accounts."*
+       - *As the year comes to a close, some of our editors share their top stories from 2020. Read more: For Seattle’s cop-free protest zone, tech is both a revolutionary asset and disastrous liability Uber in talks to sell ATG self-driving unit to Aurora Uber sells s…*
       
 
 <br />
