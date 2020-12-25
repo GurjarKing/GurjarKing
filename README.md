@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - China's e-commerce titan Alibaba hit with antitrust probe
+  - Daily Crunch: Alibaba faces antitrust probe
      <hr/>
      
-      - *China’s top market watchdog has begun a probe into Alibaba over alleged anti-competition practices at the e-commerce firm, the latest of Beijing’s efforts to curb the country’s ever-expanding internet titans. The State Administration for Market Regulation sai…*
+      - *Chinese authorities investigate an e-commerce giant, Google may be tightening its grip on research and VCs weigh in on the year’s biggest surprises. This is your (briefer than usual) Daily Crunch for December 24, 2020. The big story: Alibaba faces antitrust p…*
      
-  - Google reportedly tightens grip on research into 'sensitive topics'
+  - Not even 5G could rescue smartphone sales in 2020
       <hr/>
       
-      - *Google is currently under fire for apparently pushing out a researcher whose work warned of bias in AI, and now a report from Reuters says others doing such work at the company have been asked to “strike a positive tone” and undergo additional reviews for res…*
+      - *This was going to be the year of 5G. It was going to be the year the next-generation wireless technology helped reverse some troubling macro trends for the industry — or at the very least helped stem the bleeding some. But the best laid plans, and all that. W…*
       
-  - Gift Guide: Last-minute subscriptions to keep the gifts going all year
+  - Elon Musk says SpaceX to double launch pad usage for Starship tests, Super Heavy flights coming in a 'few months'
       <hr/>
       
-      - *SURPRISE! It's December 23rd. How? Because time doesn't make sense anymore and last week was really a month ago and April was yesterday.*
+      - *SpaceX is set to significantly ramp up its Starship development program in the new year, in more ways than one. SpaceX CEO and founder Elon Musk noted on Twitter on Thursday that the company will seek to make use of both of its two launch pads at its developm…*
       
-  - Daily Crunch: Telegram prepares to monetize
+  - Use Git data to optimize your developers’ annual reviews
       <hr/>
       
-      - *Telegram will introduce ads, TikTok’s parent company is moving into drug discovery and President Trump continues his battle against Section 230. This is your Daily Crunch for December 23, 2020. The big story: Telegram prepares to monetize Telegram founder Pav…*
+      - *Summarizing the performance of 10, 20 or 50 developers over the past 12 months, offering personalized advice and having the facts to back it up — is no small task.*
        
-  - Trump vetoes major defense bill, citing Section 230
+  - US seed-stage investing flourished during pandemic
       <hr/>
        
-       - *Following through on his previous threat, President Trump has vetoed the $740 million National Defense Authorization Act (NDAA), a major bill that allocates military funds each year. Through tweets in early December, Trump said he would sink the NDAA if it wa…*
+       - *If you didn’t think much about seed in 2020, you’re not alone. Late, huge rounds consumed most of the media’s oxygen, leaving smaller startups to compete for scraps of attention.*
       
 
 <br />
