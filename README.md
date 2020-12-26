@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Alibaba faces antitrust probe
+  - Music made 2020 better, but we failed to make 2020 better for musicians
      <hr/>
      
-      - *Chinese authorities investigate an e-commerce giant, Google may be tightening its grip on research and VCs weigh in on the year’s biggest surprises. This is your (briefer than usual) Daily Crunch for December 24, 2020. The big story: Alibaba faces antitrust p…*
+      - *“Are you okay?” I don’t have a good answer to the question. Knowing full well that I’m talking back to an algorithm — even one asking the same question of everyone with a different band mad-libbed in — doesn’t soften the blow. Am I? Are we? Is anyone, really?…*
      
+  - Daily Crunch: Alibaba faces antitrust probe
+      <hr/>
+      
+      - *Chinese authorities investigate an e-commerce giant, Google may be tightening its grip on research and VCs weigh in on the year’s biggest surprises. This is your (briefer than usual) Daily Crunch for December 24, 2020. The big story: Alibaba faces antitrust p…*
+      
   - Not even 5G could rescue smartphone sales in 2020
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *SpaceX is set to significantly ramp up its Starship development program in the new year, in more ways than one. SpaceX CEO and founder Elon Musk noted on Twitter on Thursday that the company will seek to make use of both of its two launch pads at its developm…*
-      
+       
   - Use Git data to optimize your developers’ annual reviews
       <hr/>
-      
-      - *Summarizing the performance of 10, 20 or 50 developers over the past 12 months, offering personalized advice and having the facts to back it up — is no small task.*
        
-  - US seed-stage investing flourished during pandemic
-      <hr/>
-       
-       - *If you didn’t think much about seed in 2020, you’re not alone. Late, huge rounds consumed most of the media’s oxygen, leaving smaller startups to compete for scraps of attention.*
+       - *Summarizing the performance of 10, 20 or 50 developers over the past 12 months, offering personalized advice and having the facts to back it up — is no small task.*
       
 
 <br />
