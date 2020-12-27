@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Music made 2020 better, but we failed to make 2020 better for musicians
+  - What startups can learn from this dumpster fire year
      <hr/>
      
-      - *“Are you okay?” I don’t have a good answer to the question. Knowing full well that I’m talking back to an algorithm — even one asking the same question of everyone with a different band mad-libbed in — doesn’t soften the blow. Am I? Are we? Is anyone, really?…*
+      - *Want this newsletter in your inbox every Saturday morning? Sign up here. Remember when it was news that venture capitalists were open for business? Or when Zoom investing was only done by that one guy in Ann Arbor (ha, I kid!)? These past few months have felt…*
      
+  - Original Content podcast: 'The Mandalorian' season two goes deep into Star Wars mythology
+      <hr/>
+      
+      - *“The Mandalorian” just wrapped up its second season on Disney+, with an action-packed and surprise-filled finale. In many ways, it feels like a seamless continuation of the first season’s storylines, with the titular bounty hunter searching for a Jedi who can…*
+      
+  - Music made 2020 better, but we failed to make 2020 better for musicians
+      <hr/>
+      
+      - *“Are you okay?” I don’t have a good answer to the question. Knowing full well that I’m talking back to an algorithm — even one asking the same question of everyone with a different band mad-libbed in — doesn’t soften the blow. Am I? Are we? Is anyone, really?…*
+      
   - Daily Crunch: Alibaba faces antitrust probe
       <hr/>
       
       - *Chinese authorities investigate an e-commerce giant, Google may be tightening its grip on research and VCs weigh in on the year’s biggest surprises. This is your (briefer than usual) Daily Crunch for December 24, 2020. The big story: Alibaba faces antitrust p…*
-      
+       
   - Not even 5G could rescue smartphone sales in 2020
       <hr/>
-      
-      - *This was going to be the year of 5G. It was going to be the year the next-generation wireless technology helped reverse some troubling macro trends for the industry — or at the very least helped stem the bleeding some. But the best laid plans, and all that. W…*
-      
-  - Elon Musk says SpaceX to double launch pad usage for Starship tests, Super Heavy flights coming in a 'few months'
-      <hr/>
-      
-      - *SpaceX is set to significantly ramp up its Starship development program in the new year, in more ways than one. SpaceX CEO and founder Elon Musk noted on Twitter on Thursday that the company will seek to make use of both of its two launch pads at its developm…*
        
-  - Use Git data to optimize your developers’ annual reviews
-      <hr/>
-       
-       - *Summarizing the performance of 10, 20 or 50 developers over the past 12 months, offering personalized advice and having the facts to back it up — is no small task.*
+       - *This was going to be the year of 5G. It was going to be the year the next-generation wireless technology helped reverse some troubling macro trends for the industry — or at the very least helped stem the bleeding some. But the best laid plans, and all that. W…*
       
 
 <br />
