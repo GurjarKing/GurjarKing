@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Get Back
+  - Chinese online education app Zuoyebang raises $1.6 billion from investors including Alibaba
      <hr/>
      
-      - *Today we sat on the deck with our daughter Ella and her boyfriend Nick. Knowing of my fascination with all things Beatles, Nick gave me a Japanese 45 of Get Back flipped with Don’t Let Me Down. His gift coincided with a 5 minute cut of material from a newly a…*
+      - *The rivalry between China’s top online learning apps has become even more intense this year because of the COVID-19 pandemic. The latest company to score a significant funding round is Zuoyebang, which announced today (link in Chinese) that it has raised a $1…*
      
+  - China lays out 'rectification' plan for Jack Ma's fintech empire Ant
+      <hr/>
+      
+      - *What a whirlwind holiday for Jack Ma and his fintech empire. The People’s Bank of China, the country’s central bank, summoned Ant Group for regulatory talks on December 26th, announcing a sweeping plan for the fintech firm to “rectify” its regulatory violatio…*
+      
+  - Indian startups raised $9.3 billion in 2020
+      <hr/>
+      
+      - *The coronavirus pandemic — and a handful of other factors — slowed dealmaking for startups in India this year. Compared to their record $14.5 billion fundraise last year, Indian startups are ending 2020 with about $9.3 billion. This is the first time since 20…*
+      
+  - Gillmor Gang: Get Back
+      <hr/>
+      
+      - *Today we sat on the deck with our daughter Ella and her boyfriend Nick. Knowing of my fascination with all things Beatles, Nick gave me a Japanese 45 of Get Back flipped with Don’t Let Me Down. His gift coincided with a 5 minute cut of material from a newly a…*
+       
   - What startups can learn from this dumpster fire year
       <hr/>
-      
-      - *Want this newsletter in your inbox every Saturday morning? Sign up here. Remember when it was news that venture capitalists were open for business? Or when Zoom investing was only done by that one guy in Ann Arbor (ha, I kid!)? These past few months have felt…*
-      
-  - Original Content podcast: 'The Mandalorian' season two goes deep into Star Wars mythology
-      <hr/>
-      
-      - *“The Mandalorian” just wrapped up its second season on Disney+, with an action-packed and surprise-filled finale. In many ways, it feels like a seamless continuation of the first season’s storylines, with the titular bounty hunter searching for a Jedi who can…*
-      
-  - Music made 2020 better, but we failed to make 2020 better for musicians
-      <hr/>
-      
-      - *“Are you okay?” I don’t have a good answer to the question. Knowing full well that I’m talking back to an algorithm — even one asking the same question of everyone with a different band mad-libbed in — doesn’t soften the blow. Am I? Are we? Is anyone, really?…*
        
-  - Daily Crunch: Alibaba faces antitrust probe
-      <hr/>
-       
-       - *Chinese authorities investigate an e-commerce giant, Google may be tightening its grip on research and VCs weigh in on the year’s biggest surprises. This is your (briefer than usual) Daily Crunch for December 24, 2020. The big story: Alibaba faces antitrust p…*
+       - *Want this newsletter in your inbox every Saturday morning? Sign up here. Remember when it was news that venture capitalists were open for business? Or when Zoom investing was only done by that one guy in Ann Arbor (ha, I kid!)? These past few months have felt…*
       
 
 <br />
