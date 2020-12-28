@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - What startups can learn from this dumpster fire year
+  - Gillmor Gang: Get Back
      <hr/>
      
-      - *Want this newsletter in your inbox every Saturday morning? Sign up here. Remember when it was news that venture capitalists were open for business? Or when Zoom investing was only done by that one guy in Ann Arbor (ha, I kid!)? These past few months have felt…*
+      - *Today we sat on the deck with our daughter Ella and her boyfriend Nick. Knowing of my fascination with all things Beatles, Nick gave me a Japanese 45 of Get Back flipped with Don’t Let Me Down. His gift coincided with a 5 minute cut of material from a newly a…*
      
+  - What startups can learn from this dumpster fire year
+      <hr/>
+      
+      - *Want this newsletter in your inbox every Saturday morning? Sign up here. Remember when it was news that venture capitalists were open for business? Or when Zoom investing was only done by that one guy in Ann Arbor (ha, I kid!)? These past few months have felt…*
+      
   - Original Content podcast: 'The Mandalorian' season two goes deep into Star Wars mythology
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *“Are you okay?” I don’t have a good answer to the question. Knowing full well that I’m talking back to an algorithm — even one asking the same question of everyone with a different band mad-libbed in — doesn’t soften the blow. Am I? Are we? Is anyone, really?…*
-      
+       
   - Daily Crunch: Alibaba faces antitrust probe
       <hr/>
-      
-      - *Chinese authorities investigate an e-commerce giant, Google may be tightening its grip on research and VCs weigh in on the year’s biggest surprises. This is your (briefer than usual) Daily Crunch for December 24, 2020. The big story: Alibaba faces antitrust p…*
        
-  - Not even 5G could rescue smartphone sales in 2020
-      <hr/>
-       
-       - *This was going to be the year of 5G. It was going to be the year the next-generation wireless technology helped reverse some troubling macro trends for the industry — or at the very least helped stem the bleeding some. But the best laid plans, and all that. W…*
+       - *Chinese authorities investigate an e-commerce giant, Google may be tightening its grip on research and VCs weigh in on the year’s biggest surprises. This is your (briefer than usual) Daily Crunch for December 24, 2020. The big story: Alibaba faces antitrust p…*
       
 
 <br />
