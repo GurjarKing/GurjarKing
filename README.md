@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Chinese online education app Zuoyebang raises $1.6 billion from investors including Alibaba
+  - Daily Crunch: China presents 'rectification' plan for Ant Group
      <hr/>
      
-      - *The rivalry between China’s top online learning apps has become even more intense this year because of the COVID-19 pandemic. The latest company to score a significant funding round is Zuoyebang, which announced today (link in Chinese) that it has raised a $1…*
+      - *The Chinese government could reshape Ant Group’s business, Tesla plans to launch in India next year and the FAA announces a new ID requirement for drones. This is your Daily Crunch for December 28, 2020. The big story: China presents ‘rectification’ plan for …*
      
-  - China lays out 'rectification' plan for Jack Ma's fintech empire Ant
+  - Feast your eyes on the space rocks Japan's Hayabusa 2 mission brought back from asteroid Ryugu
       <hr/>
       
-      - *What a whirlwind holiday for Jack Ma and his fintech empire. The People’s Bank of China, the country’s central bank, summoned Ant Group for regulatory talks on December 26th, announcing a sweeping plan for the fintech firm to “rectify” its regulatory violatio…*
+      - *Japan’s ambitious second asteroid return mission, Hayabusa 2, has produced a wealth of material from its destination, Ryugu, which astronomers and other interested parties are almost certainly champing at the bit to play with. Though they may look like ordina…*
       
-  - Indian startups raised $9.3 billion in 2020
+  - Unpacking Qualtrics' brand-new S-1 filing
       <hr/>
       
-      - *The coronavirus pandemic — and a handful of other factors — slowed dealmaking for startups in India this year. Compared to their record $14.5 billion fundraise last year, Indian startups are ending 2020 with about $9.3 billion. This is the first time since 20…*
+      - *The Exchange is taking a break from vacation to dig into the new Qualtrics S-1 filing. Then the column and newsletter are back on hold until January 4th. This afternoon, Qualtrics, a software company that helps companies poll their employee base, customers, a…*
       
-  - Gillmor Gang: Get Back
+  - New FAA rule requires Remote ID for drones
       <hr/>
       
-      - *Today we sat on the deck with our daughter Ella and her boyfriend Nick. Knowing of my fascination with all things Beatles, Nick gave me a Japanese 45 of Get Back flipped with Don’t Let Me Down. His gift coincided with a 5 minute cut of material from a newly a…*
+      - *The FAA today announced that it will be issuing two new rules for drone pilots in the U.S. The first is the implementation of a long-awaited Remote ID. The system effectively works as a kind of digital license plate for unmanned aircraft, broadcasting identif…*
        
-  - What startups can learn from this dumpster fire year
+  - How Niantic evolved Pokémon GO for the year no one could go anywhere
       <hr/>
        
-       - *Want this newsletter in your inbox every Saturday morning? Sign up here. Remember when it was news that venture capitalists were open for business? Or when Zoom investing was only done by that one guy in Ann Arbor (ha, I kid!)? These past few months have felt…*
+       - *Pokémon GO was created to encourage players to explore the world while coordinating impromptu large group gatherings — activities we've all been encouraged to avoid since the pandemic began.*
       
 
 <br />
