@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: China presents 'rectification' plan for Ant Group
+  - Estonian proptech Rendin raises €1.2M seed for its long-term rental platform
      <hr/>
      
-      - *The Chinese government could reshape Ant Group’s business, Tesla plans to launch in India next year and the FAA announces a new ID requirement for drones. This is your Daily Crunch for December 28, 2020. The big story: China presents ‘rectification’ plan for …*
+      - *Rendin, an Estonian proptech startup that wants to improve the home rental experience, including offering a no-deposit feature, has raised €1.2 million in seed funding. Backing the round is Tera Ventures, Iron Wolf Capital, Truesight Ventures, Atomico’s Angel…*
      
+  - AI chipmaker Graphcore raises $222M at a $2.77B valuation and puts an IPO in its sights
+      <hr/>
+      
+      - *Applications based on artificial intelligence — whether they are systems running autonomous services, platforms being used in drug development or to predict the spread of a virus, traffic management for 5G networks, or something else altogether — require an u…*
+      
+  - Tencent backs Chinese healthcare portal DXY in $500M round
+      <hr/>
+      
+      - *DXY, a 20-year-old online healthcare community for Chinese consumers and healthcare organizations like Pfizer, announced this week that it has raised $500 million in a new round led by private equity firm Trustbridge Partners. Existing backer Tencent and Hill…*
+      
+  - Daily Crunch: China presents 'rectification' plan for Ant Group
+      <hr/>
+      
+      - *The Chinese government could reshape Ant Group’s business, Tesla plans to launch in India next year and the FAA announces a new ID requirement for drones. This is your Daily Crunch for December 28, 2020. The big story: China presents ‘rectification’ plan for …*
+       
   - Feast your eyes on the space rocks Japan's Hayabusa 2 mission brought back from asteroid Ryugu
       <hr/>
-      
-      - *Japan’s ambitious second asteroid return mission, Hayabusa 2, has produced a wealth of material from its destination, Ryugu, which astronomers and other interested parties are almost certainly champing at the bit to play with. Though they may look like ordina…*
-      
-  - Unpacking Qualtrics' brand-new S-1 filing
-      <hr/>
-      
-      - *The Exchange is taking a break from vacation to dig into the new Qualtrics S-1 filing. Then the column and newsletter are back on hold until January 4th. This afternoon, Qualtrics, a software company that helps companies poll their employee base, customers, a…*
-      
-  - New FAA rule requires Remote ID for drones
-      <hr/>
-      
-      - *The FAA today announced that it will be issuing two new rules for drone pilots in the U.S. The first is the implementation of a long-awaited Remote ID. The system effectively works as a kind of digital license plate for unmanned aircraft, broadcasting identif…*
        
-  - How Niantic evolved Pokémon GO for the year no one could go anywhere
-      <hr/>
-       
-       - *Pokémon GO was created to encourage players to explore the world while coordinating impromptu large group gatherings — activities we've all been encouraged to avoid since the pandemic began.*
+       - *Japan’s ambitious second asteroid return mission, Hayabusa 2, has produced a wealth of material from its destination, Ryugu, which astronomers and other interested parties are almost certainly champing at the bit to play with. Though they may look like ordina…*
       
 
 <br />
