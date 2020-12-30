@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Judge dismisses Apple copyright claims against Corellium
+  - Amazon eyes launching its computer science education program in India
      <hr/>
      
-      - *Apple faces a major setback in one of its legal fights, VMware sues a former executive and Google tests a new short-form video feature. This is your Daily Crunch for December 29, 2020. The big story: Judge dismisses Apple copyright claims against Corellium Ap…*
+      - *Amazon is planning to extend its computer science program Future Engineer to India, demonstrating its growing interest in the education space in the world’s second largest internet market. In a job recruitment post, the company said that initial research for …*
      
+  - RentPath drops acquisition deal with CoStar after FTC antitrust lawsuit
+      <hr/>
+      
+      - *RentPath, owner of property listing sites including Rent.com and Apartment Guide, said today it has cancelled its agreement to be acquired by CoStar Group after the Federal Trade Commission sued to block the sale. CoStar, a commercial real estate data and ana…*
+      
+  - New York licenses GMO Internet to issue the first JPY-pegged stablecoin
+      <hr/>
+      
+      - *The New York Department of Financial Services (NYDFS) has approved Tokyo-based GMO Internet to launch GYEN, the first stablecoin pegged to the Japanese yen. GMO Internet, an internet conglomerate that offers a large array of services, including domain hosting…*
+      
+  - Daily Crunch: Judge dismisses Apple copyright claims against Corellium
+      <hr/>
+      
+      - *Apple faces a major setback in one of its legal fights, VMware sues a former executive and Google tests a new short-form video feature. This is your Daily Crunch for December 29, 2020. The big story: Judge dismisses Apple copyright claims against Corellium Ap…*
+       
   - This quick and clever tool creates an instant homepage for your podcast
       <hr/>
-      
-      - *Podcast homepages weren’t something I gave any thought to until I launched my own standalone show. And honestly, even then I probably didn’t give enough thought to the subject. For that reason, many or most of my shows have Tumblr pages – which is, at best, a…*
-      
-  - Google pilots a search feature that aggregates short-form videos from TikTok and Instagram
-      <hr/>
-      
-      - *Google is testing a new feature that will surface Instagram and TikTok videos in their own dedicated carousel in the Google app for mobile devices — a move that could help the company retain users in search of social video entertainment from fully leaving Goo…*
-      
-  - Apple's lawsuit against Corellium has been partly thrown out
-      <hr/>
-      
-      - *Back in August of last year Apple filed a lawsuit against the virtualization software company Corellium, arguing that the product infringed its copyright and later adding claims that Corellium’s product violates the DMCA. While the DMCA claims will still need…*
        
-  - What's behind this year's boom in climate tech SPACs?
-      <hr/>
-       
-       - *There’s no denying that 2020 has been the year of the special purpose acquisition company. Since the beginning of the year, 219 SPACs have raised $73 billion, according to widely reported market research from Goldman Sachs. That’s a 462% jump from 2019 and mo…*
+       - *Podcast homepages weren’t something I gave any thought to until I launched my own standalone show. And honestly, even then I probably didn’t give enough thought to the subject. For that reason, many or most of my shows have Tumblr pages – which is, at best, a…*
       
 
 <br />
