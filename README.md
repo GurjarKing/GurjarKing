@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Estonian proptech Rendin raises €1.2M seed for its long-term rental platform
+  - Daily Crunch: Judge dismisses Apple copyright claims against Corellium
      <hr/>
      
-      - *Rendin, an Estonian proptech startup that wants to improve the home rental experience, including offering a no-deposit feature, has raised €1.2 million in seed funding. Backing the round is Tera Ventures, Iron Wolf Capital, Truesight Ventures, Atomico’s Angel…*
+      - *Apple faces a major setback in one of its legal fights, VMware sues a former executive and Google tests a new short-form video feature. This is your Daily Crunch for December 29, 2020. The big story: Judge dismisses Apple copyright claims against Corellium Ap…*
      
-  - AI chipmaker Graphcore raises $222M at a $2.77B valuation and puts an IPO in its sights
+  - This quick and clever tool creates an instant homepage for your podcast
       <hr/>
       
-      - *Applications based on artificial intelligence — whether they are systems running autonomous services, platforms being used in drug development or to predict the spread of a virus, traffic management for 5G networks, or something else altogether — require an u…*
+      - *Podcast homepages weren’t something I gave any thought to until I launched my own standalone show. And honestly, even then I probably didn’t give enough thought to the subject. For that reason, many or most of my shows have Tumblr pages – which is, at best, a…*
       
-  - Tencent backs Chinese healthcare portal DXY in $500M round
+  - Google pilots a search feature that aggregates short-form videos from TikTok and Instagram
       <hr/>
       
-      - *DXY, a 20-year-old online healthcare community for Chinese consumers and healthcare organizations like Pfizer, announced this week that it has raised $500 million in a new round led by private equity firm Trustbridge Partners. Existing backer Tencent and Hill…*
+      - *Google is testing a new feature that will surface Instagram and TikTok videos in their own dedicated carousel in the Google app for mobile devices — a move that could help the company retain users in search of social video entertainment from fully leaving Goo…*
       
-  - Daily Crunch: China presents 'rectification' plan for Ant Group
+  - Apple's lawsuit against Corellium has been partly thrown out
       <hr/>
       
-      - *The Chinese government could reshape Ant Group’s business, Tesla plans to launch in India next year and the FAA announces a new ID requirement for drones. This is your Daily Crunch for December 28, 2020. The big story: China presents ‘rectification’ plan for …*
+      - *Back in August of last year Apple filed a lawsuit against the virtualization software company Corellium, arguing that the product infringed its copyright and later adding claims that Corellium’s product violates the DMCA. While the DMCA claims will still need…*
        
-  - Feast your eyes on the space rocks Japan's Hayabusa 2 mission brought back from asteroid Ryugu
+  - What's behind this year's boom in climate tech SPACs?
       <hr/>
        
-       - *Japan’s ambitious second asteroid return mission, Hayabusa 2, has produced a wealth of material from its destination, Ryugu, which astronomers and other interested parties are almost certainly champing at the bit to play with. Though they may look like ordina…*
+       - *There’s no denying that 2020 has been the year of the special purpose acquisition company. Since the beginning of the year, 219 SPACs have raised $73 billion, according to widely reported market research from Goldman Sachs. That’s a 462% jump from 2019 and mo…*
       
 
 <br />
