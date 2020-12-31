@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Amazon acquires Wondery
+  - Samsung vice chairman Jay Y. Lee faces nine-year sentence in bribery case
      <hr/>
      
-      - *Amazon makes a big podcast acquisition, a Chinese robot maker raises $100 million and we review a robotic cat pillow. This is your Daily Crunch for December 30, 2020. The big story: Amazon acquires Wondery Amazon is the latest company to make a big acquisitio…*
+      - *Samsung Electronics vice chairman Jay Y. Lee faces a nine-year prison term in the bribery case that contributed to the downfall of former president Park Guen-hye. Prosecutors argued that the length of the sentence is warranted because of Samsung’s power as th…*
      
+  - Daily Crunch: Amazon acquires Wondery
+      <hr/>
+      
+      - *Amazon makes a big podcast acquisition, a Chinese robot maker raises $100 million and we review a robotic cat pillow. This is your Daily Crunch for December 30, 2020. The big story: Amazon acquires Wondery Amazon is the latest company to make a big acquisitio…*
+      
   - An earnest review of a robotic cat pillow
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Earlier this month, Hyundai acquired a controlling stake in Boston Dynamics that valued the company at $1.1 billion. What’s most interesting about the news isn’t the acquisition itself (it does, after all, find Boston Dynamics switching hands for the third ti…*
-      
+       
   - Elon Musk says SpaceX will attempt to recover Super Heavy rocket by catching it with launch tower
       <hr/>
-      
-      - *SpaceX will try a significantly different approach to landing its future reusable rocket boosters, according to CEO and founder Elon Musk. It will attempt to ‘catch’ the heavy booster, which is currently in development, using the launch tower arm used to stab…*
        
-  - Fluence, the energy storage systems developer, is now worth over $1 billion after QIA investment
-      <hr/>
-       
-       - *The Qatar Investment Authority is investing $125 million into energy storage systems integrator and power management tech developer, Fluence, in a deal that will value the company at over $1 billion. The joint venture between the American independent power pr…*
+       - *SpaceX will try a significantly different approach to landing its future reusable rocket boosters, according to CEO and founder Elon Musk. It will attempt to ‘catch’ the heavy booster, which is currently in development, using the launch tower arm used to stab…*
       
 
 <br />
