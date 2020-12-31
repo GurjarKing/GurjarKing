@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Amazon eyes launching its computer science education program in India
+  - Daily Crunch: Amazon acquires Wondery
      <hr/>
      
-      - *Amazon is planning to extend its computer science program Future Engineer to India, demonstrating its growing interest in the education space in the world’s second largest internet market. In a job recruitment post, the company said that initial research for …*
+      - *Amazon makes a big podcast acquisition, a Chinese robot maker raises $100 million and we review a robotic cat pillow. This is your Daily Crunch for December 30, 2020. The big story: Amazon acquires Wondery Amazon is the latest company to make a big acquisitio…*
      
-  - RentPath drops acquisition deal with CoStar after FTC antitrust lawsuit
+  - An earnest review of a robotic cat pillow
       <hr/>
       
-      - *RentPath, owner of property listing sites including Rent.com and Apartment Guide, said today it has cancelled its agreement to be acquired by CoStar Group after the Federal Trade Commission sued to block the sale. CoStar, a commercial real estate data and ana…*
+      - *You don’t need Qoobo in your life. Nobody needs Qoobo, exactly. In fact, first reactions tend to range from befuddlement to bemusement. The robotic cat pillow doesn’t make a ton of sense on the face of it – in part because Qoobo has no face. The handful of ti…*
       
-  - New York licenses GMO Internet to issue the first JPY-pegged stablecoin
+  - 2020 will change the way we look at robotics
       <hr/>
       
-      - *The New York Department of Financial Services (NYDFS) has approved Tokyo-based GMO Internet to launch GYEN, the first stablecoin pegged to the Japanese yen. GMO Internet, an internet conglomerate that offers a large array of services, including domain hosting…*
+      - *Earlier this month, Hyundai acquired a controlling stake in Boston Dynamics that valued the company at $1.1 billion. What’s most interesting about the news isn’t the acquisition itself (it does, after all, find Boston Dynamics switching hands for the third ti…*
       
-  - Daily Crunch: Judge dismisses Apple copyright claims against Corellium
+  - Elon Musk says SpaceX will attempt to recover Super Heavy rocket by catching it with launch tower
       <hr/>
       
-      - *Apple faces a major setback in one of its legal fights, VMware sues a former executive and Google tests a new short-form video feature. This is your Daily Crunch for December 29, 2020. The big story: Judge dismisses Apple copyright claims against Corellium Ap…*
+      - *SpaceX will try a significantly different approach to landing its future reusable rocket boosters, according to CEO and founder Elon Musk. It will attempt to ‘catch’ the heavy booster, which is currently in development, using the launch tower arm used to stab…*
        
-  - This quick and clever tool creates an instant homepage for your podcast
+  - Fluence, the energy storage systems developer, is now worth over $1 billion after QIA investment
       <hr/>
        
-       - *Podcast homepages weren’t something I gave any thought to until I launched my own standalone show. And honestly, even then I probably didn’t give enough thought to the subject. For that reason, many or most of my shows have Tumblr pages – which is, at best, a…*
+       - *The Qatar Investment Authority is investing $125 million into energy storage systems integrator and power management tech developer, Fluence, in a deal that will value the company at over $1 billion. The joint venture between the American independent power pr…*
       
 
 <br />
