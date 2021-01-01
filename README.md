@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Union Square Ventures and Learn Capital file paperwork indicating new funds
+  - Sony to launch PlayStation 5 in India on February 2
      <hr/>
      
-      - *As 2020 comes to a long-awaited end, a series of filings indicate that venture capitalists are ending the year with fresh money. According to SEC paperwork, Learn Capital and USV have filed paperwork that shows the firms have raised new, multimillion-dollar f…*
+      - *Sony said on Friday that it will launch PlayStation 5 in India on February 2, and begin taking pre-order requests for the new gaming console in the nation on January 12. The console will be available for pre-order at Amazon, Flipkart, Croma, Reliance Digital,…*
      
+  - Union Square Ventures and Learn Capital file paperwork indicating new funds
+      <hr/>
+      
+      - *As 2020 comes to a long-awaited end, a series of filings indicate that venture capitalists are ending the year with fresh money. According to SEC paperwork, Learn Capital and USV have filed paperwork that shows the firms have raised new, multimillion-dollar f…*
+      
   - Bose’s latest sleep-centric earbuds mostly do the trick
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *When the Los Angeles-based extended reality data visualization company, BadVR, first heard that one of its earliest benefactors, Magic Leap, was about to shed 1,000 jobs and was fighting for its life, the young startup was unfazed. Despite the very public tie…*
-      
+       
   - Goodbye Flash, goodbye FarmVille
       <hr/>
-      
-      - *While much of what made 2020 such an absolute nightmare will still be with us on January 1 (sorry!), we will really, truly be leaving Adobe Flash and FarmVille behind as we enter the new year. The end of Flash has been a long time coming. The plugin, which wa…*
        
-  - NYC MTA’s contactless fare system completes rollout, will phase out MetroCard in 2023
-      <hr/>
-       
-       - *On the last day of 2020, New York City’s Metro Transit Authority announced that it has finished its roll out of contactless payment systems. With the addition of a final stop in Brooklyn, every MTA subway station and bus in the five boroughs now sports the OM…*
+       - *While much of what made 2020 such an absolute nightmare will still be with us on January 1 (sorry!), we will really, truly be leaving Adobe Flash and FarmVille behind as we enter the new year. The end of Flash has been a long time coming. The plugin, which wa…*
       
 
 <br />
