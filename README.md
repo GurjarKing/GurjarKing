@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Samsung vice chairman Jay Y. Lee faces nine-year sentence in bribery case
+  - Union Square Ventures and Learn Capital file paperwork indicating new funds
      <hr/>
      
-      - *Samsung Electronics vice chairman Jay Y. Lee faces a nine-year prison term in the bribery case that contributed to the downfall of former president Park Guen-hye. Prosecutors argued that the length of the sentence is warranted because of Samsung’s power as th…*
+      - *As 2020 comes to a long-awaited end, a series of filings indicate that venture capitalists are ending the year with fresh money. According to SEC paperwork, Learn Capital and USV have filed paperwork that shows the firms have raised new, multimillion-dollar f…*
      
-  - Daily Crunch: Amazon acquires Wondery
+  - Bose’s latest sleep-centric earbuds mostly do the trick
       <hr/>
       
-      - *Amazon makes a big podcast acquisition, a Chinese robot maker raises $100 million and we review a robotic cat pillow. This is your Daily Crunch for December 30, 2020. The big story: Amazon acquires Wondery Amazon is the latest company to make a big acquisitio…*
+      - *It’s been a strange year for sleep. For me, levels have fluctuated between too little and too much, but have – more often than not – tended toward the former. 2020 gave most of us no shortage of excuses for sleep deprivation, from personal stresses to larger …*
       
-  - An earnest review of a robotic cat pillow
+  - BadVR is using government grants to build a business that's independent of venture capital
       <hr/>
       
-      - *You don’t need Qoobo in your life. Nobody needs Qoobo, exactly. In fact, first reactions tend to range from befuddlement to bemusement. The robotic cat pillow doesn’t make a ton of sense on the face of it – in part because Qoobo has no face. The handful of ti…*
+      - *When the Los Angeles-based extended reality data visualization company, BadVR, first heard that one of its earliest benefactors, Magic Leap, was about to shed 1,000 jobs and was fighting for its life, the young startup was unfazed. Despite the very public tie…*
       
-  - 2020 will change the way we look at robotics
+  - Goodbye Flash, goodbye FarmVille
       <hr/>
       
-      - *Earlier this month, Hyundai acquired a controlling stake in Boston Dynamics that valued the company at $1.1 billion. What’s most interesting about the news isn’t the acquisition itself (it does, after all, find Boston Dynamics switching hands for the third ti…*
+      - *While much of what made 2020 such an absolute nightmare will still be with us on January 1 (sorry!), we will really, truly be leaving Adobe Flash and FarmVille behind as we enter the new year. The end of Flash has been a long time coming. The plugin, which wa…*
        
-  - Elon Musk says SpaceX will attempt to recover Super Heavy rocket by catching it with launch tower
+  - NYC MTA’s contactless fare system completes rollout, will phase out MetroCard in 2023
       <hr/>
        
-       - *SpaceX will try a significantly different approach to landing its future reusable rocket boosters, according to CEO and founder Elon Musk. It will attempt to ‘catch’ the heavy booster, which is currently in development, using the launch tower arm used to stab…*
+       - *On the last day of 2020, New York City’s Metro Transit Authority announced that it has finished its roll out of contactless payment systems. With the addition of a final stop in Brooklyn, every MTA subway station and bus in the five boroughs now sports the OM…*
       
 
 <br />
