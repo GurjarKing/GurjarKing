@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Sony to launch PlayStation 5 in India on February 2
+  - Astronaut Anne McClain on designing and piloting the next generation of spacecraft
      <hr/>
      
-      - *Sony said on Friday that it will launch PlayStation 5 in India on February 2, and begin taking pre-order requests for the new gaming console in the nation on January 12. The console will be available for pre-order at Amazon, Flipkart, Croma, Reliance Digital,…*
+      - *NASA recently announced the astronauts who will be taking part in the Artemis missions, and among them is Anne McClain, who has spent 203 days in orbit and conducted two spacewalks on the ISS. With the space industry looking nothing like it did 10 years ago a…*
      
+  - Sony to launch PlayStation 5 in India on February 2
+      <hr/>
+      
+      - *Sony said on Friday that it will launch PlayStation 5 in India on February 2, and begin taking pre-order requests for the new gaming console in the nation on January 12. The console will be available for pre-order at Amazon, Flipkart, Croma, Reliance Digital,…*
+      
   - Union Square Ventures and Learn Capital file paperwork indicating new funds
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *It’s been a strange year for sleep. For me, levels have fluctuated between too little and too much, but have – more often than not – tended toward the former. 2020 gave most of us no shortage of excuses for sleep deprivation, from personal stresses to larger …*
-      
+       
   - BadVR is using government grants to build a business that's independent of venture capital
       <hr/>
-      
-      - *When the Los Angeles-based extended reality data visualization company, BadVR, first heard that one of its earliest benefactors, Magic Leap, was about to shed 1,000 jobs and was fighting for its life, the young startup was unfazed. Despite the very public tie…*
        
-  - Goodbye Flash, goodbye FarmVille
-      <hr/>
-       
-       - *While much of what made 2020 such an absolute nightmare will still be with us on January 1 (sorry!), we will really, truly be leaving Adobe Flash and FarmVille behind as we enter the new year. The end of Flash has been a long time coming. The plugin, which wa…*
+       - *When the Los Angeles-based extended reality data visualization company, BadVR, first heard that one of its earliest benefactors, Magic Leap, was about to shed 1,000 jobs and was fighting for its life, the young startup was unfazed. Despite the very public tie…*
       
 
 <br />
