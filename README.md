@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Astronaut Anne McClain on designing and piloting the next generation of spacecraft
+  - Human Capital: The biggest labor stories of 2020
      <hr/>
      
-      - *NASA recently announced the astronauts who will be taking part in the Artemis missions, and among them is Anne McClain, who has spent 203 days in orbit and conducted two spacewalks on the ISS. With the space industry looking nothing like it did 10 years ago a…*
+      - *Hellllooooo, 2021! Welcome back to Human Capital, a weekly newsletter that details the latest in the realms of labor, and diversity and inclusion. Not a ton happened this week so I figured I’d use the time to look back on some of the more notable labor storie…*
      
-  - Sony to launch PlayStation 5 in India on February 2
+  - The big question on every startup's mind for 2021
       <hr/>
       
-      - *Sony said on Friday that it will launch PlayStation 5 in India on February 2, and begin taking pre-order requests for the new gaming console in the nation on January 12. The console will be available for pre-order at Amazon, Flipkart, Croma, Reliance Digital,…*
+      - *My big question for 2021, and the one that is on every startup’s mind, is how will a cataclysmic event such as a global pandemic show up in post-pandemic innovation? I think we’re in the early innings of seeing what ‘aha moments’ have materialized into compan…*
       
-  - Union Square Ventures and Learn Capital file paperwork indicating new funds
+  - This Week in Apps: Apple bans party app, China loses 39K iOS games, TikTok births a 'Ratatousical'
       <hr/>
       
-      - *As 2020 comes to a long-awaited end, a series of filings indicate that venture capitalists are ending the year with fresh money. According to SEC paperwork, Learn Capital and USV have filed paperwork that shows the firms have raised new, multimillion-dollar f…*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 204 billion total downloads and $120 billion in global…*
       
-  - Bose’s latest sleep-centric earbuds mostly do the trick
+  - Tesla delivers nearly 500,000 vehicles in 2020
       <hr/>
       
-      - *It’s been a strange year for sleep. For me, levels have fluctuated between too little and too much, but have – more often than not – tended toward the former. 2020 gave most of us no shortage of excuses for sleep deprivation, from personal stresses to larger …*
+      - *Tesla delivered 499,550 vehicles in 2020, a 36% increase over the previous year and just a few dozen short of hitting an an historic and long-awaited milestone that CEO Elon Musk has been aiming for more than five years. Tesla reported Saturday that it produc…*
        
-  - BadVR is using government grants to build a business that's independent of venture capital
+  - Original Content podcast: 'Wonder Woman 1984' might be a beautiful mess, or maybe just a mess
       <hr/>
        
-       - *When the Los Angeles-based extended reality data visualization company, BadVR, first heard that one of its earliest benefactors, Magic Leap, was about to shed 1,000 jobs and was fighting for its life, the young startup was unfazed. Despite the very public tie…*
+       - *“Wonder Woman 1984” was released on HBO Max on Christmas Day, where it quickly divided the hosts of the Original Content podcast. Perhaps it was predictable that Anthony — a fan of clunky-but-ambitious superhero sequels like “The Dark Knight Rises” and “Aveng…*
       
 
 <br />
