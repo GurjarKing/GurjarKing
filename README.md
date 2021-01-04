@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Astronaut Anne McClain on designing and piloting the next generation of spacecraft
+  - UK judge denies US request to extradite WikiLeaks' founder, Julian Assange
      <hr/>
      
-      - *NASA recently announced the astronauts who will be taking part in the Artemis missions, and among them is Anne McClain, who has spent 203 days in orbit and conducted two spacewalks on the ISS. With the space industry looking nothing like it did 10 years ago a…*
+      - *A UK district court judge has refused to extradite WikiLeaks founder Julian Assange to the US. In a hearing at Westminster Magistrates’ Court this morning, Judge Vanessa Baraitser denied the extradition on grounds that Assange is a suicide risk and extraditio…*
      
-  - Sony to launch PlayStation 5 in India on February 2
+  - Google, Alphabet employees seek to form a union
       <hr/>
       
-      - *Sony said on Friday that it will launch PlayStation 5 in India on February 2, and begin taking pre-order requests for the new gaming console in the nation on January 12. The console will be available for pre-order at Amazon, Flipkart, Croma, Reliance Digital,…*
+      - *A group of more than 200 Google and Alphabet workers have announced their efforts to form a union. With the help of Communication Workers of America Union’s Campaign to Organize Digital Employees (CODE-CWA), the Alphabet Workers Union seeks to be open to both…*
       
-  - Union Square Ventures and Learn Capital file paperwork indicating new funds
+  - Tesla's China rival Xpeng to use lidar sensors from DJI affiliate Livox
       <hr/>
       
-      - *As 2020 comes to a long-awaited end, a series of filings indicate that venture capitalists are ending the year with fresh money. According to SEC paperwork, Learn Capital and USV have filed paperwork that shows the firms have raised new, multimillion-dollar f…*
+      - *The battle is heating up between Tesla and its Chinese challenger Xpeng as the latter makes clearer its stance on the future of autonomous driving. Over the weekend, Xpeng, which counts Xiaomi and Alibaba among its investors, announced that it will be using l…*
       
-  - Bose’s latest sleep-centric earbuds mostly do the trick
+  - India's CRED buys back shares worth $1.2 million from employees
       <hr/>
       
-      - *It’s been a strange year for sleep. For me, levels have fluctuated between too little and too much, but have – more often than not – tended toward the former. 2020 gave most of us no shortage of excuses for sleep deprivation, from personal stresses to larger …*
+      - *Bangalore-based CRED is kickstarting the new year on a high note. The two-year-old startup, led by high-profile entrepreneur Kunal Shah, said on Monday it has raised $81 million in a new financing round and bought shares worth $1.2 million (about 90 million I…*
        
-  - BadVR is using government grants to build a business that's independent of venture capital
+  - Known for 5G mmWave testing solutions, Taiwan's TMYTEK sets its sights on base stations
       <hr/>
        
-       - *When the Los Angeles-based extended reality data visualization company, BadVR, first heard that one of its earliest benefactors, Magic Leap, was about to shed 1,000 jobs and was fighting for its life, the young startup was unfazed. Despite the very public tie…*
+       - *TMYTEK recently raised a Series A+ round of about $10 million for products that make it easier to test 5G millimeter wave equipment. So far, the company’s clients include KDDI, NTT DoCoMo and research institutions. But the Taiwanese startup has aspirations to…*
       
 
 <br />
