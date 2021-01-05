@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Looking to decarbonize the metal industry, Bill Gates-backed Boston Metal raises $50 million
+  - NYSE reverses plans to delist China's three big telcos
      <hr/>
      
-      - *Steel production accounts for roughly 8 percent of the emissions that contribute to global climate change. It is one of the industries that sits at the foundation of the modern economy and is one of the most resistant to decarbonization. As nations around the…*
+      - *In an unexpected turn, the New York Stock Exchange said Monday that it no longer intends to delist China’s three major telecoms operators, a decision that was originally announced on December 31. The initial action targeted China Mobile, China Unicom and Chin…*
      
-  - Daily Crunch: Hundreds of Google and Alphabet employees unionize
+  - Alibaba shuts down 12-year-old music streaming app Xiami
       <hr/>
       
-      - *Google employees take another step in their activism, Venmo adds a check-cashing feature and Slack has some issues. This is your Daily Crunch for January 4, 2021. The big story: Hundreds of Google and Alphabet employees unionize More than 200 employees at Goo…*
+      - *Using Xiami was once synonymous with having good music taste in China. The music app, which debuted around 2008 and was acquired by Alibaba in 2013, is discontinuing its streaming service today, Xiami said in a notice to users. Xiami, which means “smalll shri…*
       
-  - Twitter acquires social podcasting app Breaker, team to help build Twitter Spaces
+  - TrendForce expects the smartphone market to slowly recover in 2021, but Huawei won't benefit
       <hr/>
       
-      - *Twitter has acquired social broadcasting app Breaker, the companies announced today via a combination of blog posts and tweets. The deal will see Breaker’s team joining Twitter to help “improve the health of the public conversation” on the service, as well as…*
+      - *After a dismal year, the global smartphone market will slowly start recovering in 2021, predicts TrendForce. But Huawei won’t benefit and, in fact, will fall out of the research firm’s list of the world’s top six smartphone makers by production volume. In 202…*
       
-  - How to convert customers with subscription pricing
+  - Silicon Valley Bank just made an even bigger push into wealth management
       <hr/>
       
-      - *While the customer dynamic has changed over the last 20 years, it's actually gotten easier to convert and retain customers through the subscription funnel.*
+      - *SVB Financial Group agreed today to buy Boston Private Financial Holdings in Boston for $900 million in cash and stock. It’s a big deal for SVB, which has earned a reputation over its 37-year history as a bank that’s friendly to startups, as well as venture a…*
        
-  - 2020 was a record year for Israel's security startup ecosystem
+  - Jack Ma's absence from public eye sparks Twitter discussions
       <hr/>
        
-       - *The start of a new year presents the perfect opportunity to reflect on the annual performance of our focus, the Israeli cybersecurity ecosystem.*
+       - *The world’s attention is on Jack Ma’s whereabouts after reports noted the billionaire founder of Alibaba and Ant Group had been absent from public view since late October. On October 24, Ma delivered fiery remarks against China’s financial system to an audien…*
       
 
 <br />
