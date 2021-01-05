@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - UK judge denies US request to extradite WikiLeaks' founder, Julian Assange
+  - Looking to decarbonize the metal industry, Bill Gates-backed Boston Metal raises $50 million
      <hr/>
      
-      - *A UK district court judge has refused to extradite WikiLeaks founder Julian Assange to the US. In a hearing at Westminster Magistrates’ Court this morning, Judge Vanessa Baraitser denied the extradition on grounds that Assange is a suicide risk and extraditio…*
+      - *Steel production accounts for roughly 8 percent of the emissions that contribute to global climate change. It is one of the industries that sits at the foundation of the modern economy and is one of the most resistant to decarbonization. As nations around the…*
      
-  - Google, Alphabet employees seek to form a union
+  - Daily Crunch: Hundreds of Google and Alphabet employees unionize
       <hr/>
       
-      - *A group of more than 200 Google and Alphabet workers have announced their efforts to form a union. With the help of Communication Workers of America Union’s Campaign to Organize Digital Employees (CODE-CWA), the Alphabet Workers Union seeks to be open to both…*
+      - *Google employees take another step in their activism, Venmo adds a check-cashing feature and Slack has some issues. This is your Daily Crunch for January 4, 2021. The big story: Hundreds of Google and Alphabet employees unionize More than 200 employees at Goo…*
       
-  - Tesla's China rival Xpeng to use lidar sensors from DJI affiliate Livox
+  - Twitter acquires social podcasting app Breaker, team to help build Twitter Spaces
       <hr/>
       
-      - *The battle is heating up between Tesla and its Chinese challenger Xpeng as the latter makes clearer its stance on the future of autonomous driving. Over the weekend, Xpeng, which counts Xiaomi and Alibaba among its investors, announced that it will be using l…*
+      - *Twitter has acquired social broadcasting app Breaker, the companies announced today via a combination of blog posts and tweets. The deal will see Breaker’s team joining Twitter to help “improve the health of the public conversation” on the service, as well as…*
       
-  - India's CRED buys back shares worth $1.2 million from employees
+  - How to convert customers with subscription pricing
       <hr/>
       
-      - *Bangalore-based CRED is kickstarting the new year on a high note. The two-year-old startup, led by high-profile entrepreneur Kunal Shah, said on Monday it has raised $81 million in a new financing round and bought shares worth $1.2 million (about 90 million I…*
+      - *While the customer dynamic has changed over the last 20 years, it's actually gotten easier to convert and retain customers through the subscription funnel.*
        
-  - Known for 5G mmWave testing solutions, Taiwan's TMYTEK sets its sights on base stations
+  - 2020 was a record year for Israel's security startup ecosystem
       <hr/>
        
-       - *TMYTEK recently raised a Series A+ round of about $10 million for products that make it easier to test 5G millimeter wave equipment. So far, the company’s clients include KDDI, NTT DoCoMo and research institutions. But the Taiwanese startup has aspirations to…*
+       - *The start of a new year presents the perfect opportunity to reflect on the annual performance of our focus, the Israeli cybersecurity ecosystem.*
       
 
 <br />
