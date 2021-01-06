@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google to add App Store privacy labels to its iOS apps as soon as this week
+  - Atlanta's SalesLoft raises $100M for its digital sales platform, now valued at $1.1B
      <hr/>
      
-      - *Contrary to reports, Google is not delaying updates to its iOS apps because it doesn’t want to comply with Apple’s recently announced App Store Privacy Labels policy. The new policy, a part of the company’s larger privacy push, requires developers to disclose…*
+      - *The Covid-19 pandemic and specifically need for social distancing to slow the spread of the virus have continued to keep many of us away from the office. Now, increasingly, many organizations and people believe that it could usher in a more permanent shift to…*
      
-  - OpenAI's DALL-E creates plausible images of literally anything you ask it to
+  - Indian B2B e-commerce startup Udaan raises $280 million
       <hr/>
       
-      - *OpenAI’s latest strange yet fascinating creation is DALL-E, which by way of hasty summary might be called “GPT-3 for images.” It creates illustrations, photos, renders, or whatever method you prefer, of anything you can intelligibly describe, from “a cat wear…*
+      - *Business-to-business marketplace Udaan has raised $280 million from new and existing investors as the Indian startup builds a war-chest to accelerate its growth and fend off rivals. The new capital is not part of a new financing round but is an extension of S…*
       
-  - Daily Crunch: NYSE won't delist Chinese telcos
+  - Indonesian robo-advisor app Bibit raises $30 million led by Sequoia Capital India
       <hr/>
       
-      - *The New York Stock Exchange reverses course, Nintendo acquires a game studio and an Indian electronics and lifestyle startup raises $100 million. This is your Daily Crunch for January 5, 2021. The big story: NYSE won’t delist Chinese telcos The New York Stock…*
+      - *Bibit, a robo-advisor app that wants to make investing more accessible in Indonesia, has raised $30 million from Sequoia Capital India. Returning investors East Ventures, EV Growth, AC Ventures and 500 Startups also participated. Part of Stockbit Group, about…*
       
-  - Sources: Hinge Health has raised $310M Series D at a $3B valuation
+  - Oxbotica raises $47M to deploy its autonomous vehicle software in industrial applications
       <hr/>
       
-      - *Hinge Health, the San Francisco-based company that offers a digital solution to treat chronic musculoskeletal (MSK) conditions — such as back and joint pain — has closed a $310 million in Series D funding, according to sources. The round is led by Coatue and …*
+      - *While the world continues to await the arrival of safe, reliable and cost-effective self-driving cars, one of the pioneers in the world of autonomous vehicle software has raised some substantial funding to double down on what it sees as a more immediate oppor…*
        
-  - Facebook will turn all U.S. political advertising off again after Georgia runoffs
+  - Google to add App Store privacy labels to its iOS apps as soon as this week
       <hr/>
        
-       - *Georgia is the only state in the U.S. right now where Facebook allows political ads to run, but after Tuesday’s polls close that’s set to change. According to Facebook’s site detailing changes to its ad policies and a story from Axios, the company will no lon…*
+       - *Contrary to reports, Google is not delaying updates to its iOS apps because it doesn’t want to comply with Apple’s recently announced App Store Privacy Labels policy. The new policy, a part of the company’s larger privacy push, requires developers to disclose…*
       
 
 <br />
