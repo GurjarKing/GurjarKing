@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - NYSE reverses plans to delist China's three big telcos
+  - Google to add App Store privacy labels to its iOS apps as soon as this week
      <hr/>
      
-      - *In an unexpected turn, the New York Stock Exchange said Monday that it no longer intends to delist China’s three major telecoms operators, a decision that was originally announced on December 31. The initial action targeted China Mobile, China Unicom and Chin…*
+      - *Contrary to reports, Google is not delaying updates to its iOS apps because it doesn’t want to comply with Apple’s recently announced App Store Privacy Labels policy. The new policy, a part of the company’s larger privacy push, requires developers to disclose…*
      
-  - Alibaba shuts down 12-year-old music streaming app Xiami
+  - OpenAI's DALL-E creates plausible images of literally anything you ask it to
       <hr/>
       
-      - *Using Xiami was once synonymous with having good music taste in China. The music app, which debuted around 2008 and was acquired by Alibaba in 2013, is discontinuing its streaming service today, Xiami said in a notice to users. Xiami, which means “smalll shri…*
+      - *OpenAI’s latest strange yet fascinating creation is DALL-E, which by way of hasty summary might be called “GPT-3 for images.” It creates illustrations, photos, renders, or whatever method you prefer, of anything you can intelligibly describe, from “a cat wear…*
       
-  - TrendForce expects the smartphone market to slowly recover in 2021, but Huawei won't benefit
+  - Daily Crunch: NYSE won't delist Chinese telcos
       <hr/>
       
-      - *After a dismal year, the global smartphone market will slowly start recovering in 2021, predicts TrendForce. But Huawei won’t benefit and, in fact, will fall out of the research firm’s list of the world’s top six smartphone makers by production volume. In 202…*
+      - *The New York Stock Exchange reverses course, Nintendo acquires a game studio and an Indian electronics and lifestyle startup raises $100 million. This is your Daily Crunch for January 5, 2021. The big story: NYSE won’t delist Chinese telcos The New York Stock…*
       
-  - Silicon Valley Bank just made an even bigger push into wealth management
+  - Sources: Hinge Health has raised $310M Series D at a $3B valuation
       <hr/>
       
-      - *SVB Financial Group agreed today to buy Boston Private Financial Holdings in Boston for $900 million in cash and stock. It’s a big deal for SVB, which has earned a reputation over its 37-year history as a bank that’s friendly to startups, as well as venture a…*
+      - *Hinge Health, the San Francisco-based company that offers a digital solution to treat chronic musculoskeletal (MSK) conditions — such as back and joint pain — has closed a $310 million in Series D funding, according to sources. The round is led by Coatue and …*
        
-  - Jack Ma's absence from public eye sparks Twitter discussions
+  - Facebook will turn all U.S. political advertising off again after Georgia runoffs
       <hr/>
        
-       - *The world’s attention is on Jack Ma’s whereabouts after reports noted the billionaire founder of Alibaba and Ant Group had been absent from public view since late October. On October 24, Ma delivered fiery remarks against China’s financial system to an audien…*
+       - *Georgia is the only state in the U.S. right now where Facebook allows political ads to run, but after Tuesday’s polls close that’s set to change. According to Facebook’s site detailing changes to its ad policies and a story from Axios, the company will no lon…*
       
 
 <br />
