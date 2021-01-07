@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Atlanta's SalesLoft raises $100M for its digital sales platform, now valued at $1.1B
+  - Twitter locks Trump out of his account for at least 12 hours
      <hr/>
      
-      - *The Covid-19 pandemic and specifically need for social distancing to slow the spread of the virus have continued to keep many of us away from the office. Now, increasingly, many organizations and people believe that it could usher in a more permanent shift to…*
+      - *In a reversal of its long standing policy, Twitter has locked the President of the United States’ Twitter account and forced the removal of three offending tweets. “As a result of the unprecedented and ongoing violent situation in Washington, D.C., we have re…*
      
-  - Indian B2B e-commerce startup Udaan raises $280 million
+  - Facebook and YouTube remove Trump video calling extremists 'special'
       <hr/>
       
-      - *Business-to-business marketplace Udaan has raised $280 million from new and existing investors as the Indian startup builds a war-chest to accelerate its growth and fend off rivals. The new capital is not part of a new financing round but is an extension of S…*
+      - *Facebook and YouTube have removed a video posted by President Trump telling rioters who stormed Congress “we love you.” The same video was left online but blocked from being shared by Twitter just minutes ago. A great deal of video and content from the chaoti…*
       
-  - Indonesian robo-advisor app Bibit raises $30 million led by Sequoia Capital India
+  - Daily Crunch: Trump tweets approvingly as rioters storm US Capitol
       <hr/>
       
-      - *Bibit, a robo-advisor app that wants to make investing more accessible in Indonesia, has raised $30 million from Sequoia Capital India. Returning investors East Ventures, EV Growth, AC Ventures and 500 Startups also participated. Part of Stockbit Group, about…*
+      - *A pro-Trump mob stormed the U.S. Capitol while the president encouraged them on Twitter and … well, it feels extremely hard to care about anything else right now. That said, there was a whole other news cycle before then, and I know you read The Daily Crunch …*
       
-  - Oxbotica raises $47M to deploy its autonomous vehicle software in industrial applications
+  - Reddit ‘taking action’ on site violations as rioters storm US Capitol
       <hr/>
       
-      - *While the world continues to await the arrival of safe, reliable and cost-effective self-driving cars, one of the pioneers in the world of autonomous vehicle software has raised some substantial funding to double down on what it sees as a more immediate oppor…*
+      - *As chaos and violence have erupted in Washington D.C., social media platforms are grappling with the fallout. A spokesperson for Reddit tells TechCrunch, Reddit’s site-wide policies prohibit content that promotes hate or encourages, glorifies, incites, or cal…*
        
-  - Google to add App Store privacy labels to its iOS apps as soon as this week
+  - Twitter puts huge warning label on Trump video telling Capitol Hill rioters 'we love you'
       <hr/>
        
-       - *Contrary to reports, Google is not delaying updates to its iOS apps because it doesn’t want to comply with Apple’s recently announced App Store Privacy Labels policy. The new policy, a part of the company’s larger privacy push, requires developers to disclose…*
+       - *Twitter took a new action against President Trump’s account Wednesday, adding a large, pop-up warning message to his latest tweet addressing the ongoing chaos on Capitol Hill. Trump’s new message to his mob of angry supporters came in video form, following a …*
       
 
 <br />
