@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter locks Trump out of his account for at least 12 hours
+  - Waymo is dropping the term 'self-driving,' but not everyone in the industry is on board
      <hr/>
      
-      - *In a reversal of its long standing policy, Twitter has locked the President of the United States’ Twitter account and forced the removal of three offending tweets. “As a result of the unprecedented and ongoing violent situation in Washington, D.C., we have re…*
+      - *Waymo will no longer use the term ‘self-driving’ to describe the technology it has been developing for more than a decade, opting instead for ‘autonomous.’ The Alphabet company said that this seemingly small shift is an important effort to clarify what the te…*
      
-  - Facebook and YouTube remove Trump video calling extremists 'special'
+  - Mambu raises $122M at a $2B+ valuation for an SaaS platform that powers banking services
       <hr/>
       
-      - *Facebook and YouTube have removed a video posted by President Trump telling rioters who stormed Congress “we love you.” The same video was left online but blocked from being shared by Twitter just minutes ago. A great deal of video and content from the chaoti…*
+      - *Challenger banks, incumbent banks, and all of the many businesses that are making inroads into any kind of banking service, all have something in common: when it comes to launching a new product like a credit line or a deposit or current account service, thes…*
       
-  - Daily Crunch: Trump tweets approvingly as rioters storm US Capitol
+  - US says India, Italy, and Turkey digital taxes are discriminatory, but won't take any actions for now
       <hr/>
       
-      - *A pro-Trump mob stormed the U.S. Capitol while the president encouraged them on Twitter and … well, it feels extremely hard to care about anything else right now. That said, there was a whole other news cycle before then, and I know you read The Daily Crunch …*
+      - *Digital services taxes adopted by India, Italy, and Turkey in the past years discriminate against U.S. companies, the U.S. Trade Representative said on Wednesday. USTR, which began investigations into the three nation’s digital services taxes in June last yea…*
       
-  - Reddit ‘taking action’ on site violations as rioters storm US Capitol
+  - Too Good To Go raises $31 million to fight food waste
       <hr/>
       
-      - *As chaos and violence have erupted in Washington D.C., social media platforms are grappling with the fallout. A spokesperson for Reddit tells TechCrunch, Reddit’s site-wide policies prohibit content that promotes hate or encourages, glorifies, incites, or cal…*
+      - *Too Good To Go, the startup that lets you buy food right before it goes to waste, is raising a $31.1 million round. blisce/ is leading the round and investing $15.4 million as part of today’s round. Existing investors and employees are also participating. Whi…*
        
-  - Twitter puts huge warning label on Trump video telling Capitol Hill rioters 'we love you'
+  - Pennylane raises $18.4 million for its accounting service
       <hr/>
        
-       - *Twitter took a new action against President Trump’s account Wednesday, adding a large, pop-up warning message to his latest tweet addressing the ongoing chaos on Capitol Hill. Trump’s new message to his mob of angry supporters came in video form, following a …*
+       - *French startup Pennylane has raised $18.4 million (€15 million) for its accounting service that combines automated processes with human accountants. Existing investors Global Founders Capital and Partech are investing once again. Pennylane is both a software-…*
       
 
 <br />
