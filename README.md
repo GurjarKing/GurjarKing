@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Waymo is dropping the term 'self-driving,' but not everyone in the industry is on board
+  - Google AI concocts 'breakie' and 'cakie' hybrid baked goods
      <hr/>
      
-      - *Waymo will no longer use the term ‘self-driving’ to describe the technology it has been developing for more than a decade, opting instead for ‘autonomous.’ The Alphabet company said that this seemingly small shift is an important effort to clarify what the te…*
+      - *If, as I suspect many of you have, you have worked your way through baking every type of cookie, bread, and cake under the sun over the last year, Google has a surprise for you: a pair of AI-generated hybrid treats, the “breakie” and the “cakie.” The origin o…*
      
-  - Mambu raises $122M at a $2B+ valuation for an SaaS platform that powers banking services
+  - TikTok bans videos of Trump inciting mob, blocks #stormthecapital and other hashtags
       <hr/>
       
-      - *Challenger banks, incumbent banks, and all of the many businesses that are making inroads into any kind of banking service, all have something in common: when it comes to launching a new product like a credit line or a deposit or current account service, thes…*
+      - *For obvious reasons, Trump doesn’t have a TikTok account. But the President’s speeches that helped incite the mob who yesterday stormed the U.S. Capitol will have no home on TikTok’s platform. The company confirmed to TechCrunch its content policy around the …*
       
-  - US says India, Italy, and Turkey digital taxes are discriminatory, but won't take any actions for now
+  - Detroit's Ludlow Ventures goes for fund four
       <hr/>
       
-      - *Digital services taxes adopted by India, Italy, and Turkey in the past years discriminate against U.S. companies, the U.S. Trade Representative said on Wednesday. USTR, which began investigations into the three nation’s digital services taxes in June last yea…*
+      - *Ludlow Ventures, an 11-year-old, Detroit-based seed-stage venture firm, is in the process of closing on $65 million in capital commitments for its fourth and newest fund, shows SEC paperwork filed this week. We reached out to firm founder Jonathan Triest, who…*
       
-  - Too Good To Go raises $31 million to fight food waste
+  - F5 snags Volterra multi-cloud management startup for $500M
       <hr/>
       
-      - *Too Good To Go, the startup that lets you buy food right before it goes to waste, is raising a $31.1 million round. blisce/ is leading the round and investing $15.4 million as part of today’s round. Existing investors and employees are also participating. Whi…*
+      - *F5, the applications networking company announced today that it is acquiring Volterra, a multi-cloud management startup for $500 million. That breaks down to $440 million in cash and $60 million in deferred and unvested incentive compensation. Volterra emerge…*
        
-  - Pennylane raises $18.4 million for its accounting service
+  - Daily Crunch: Facebook bans Trump for two weeks
       <hr/>
        
-       - *French startup Pennylane has raised $18.4 million (€15 million) for its accounting service that combines automated processes with human accountants. Existing investors Global Founders Capital and Partech are investing once again. Pennylane is both a software-…*
+       - *Online platforms take action against President Trump, Lenovo tries out a swiveling screen and Roblox raises $250 million. This is your Daily Crunch for January 7, 2021. The big story: Facebook bans Trump for two weeks After a pro-Trump mob stormed the U.S. Ca…*
       
 
 <br />
