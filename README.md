@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google AI concocts 'breakie' and 'cakie' hybrid baked goods
+  - Jobandtalent tops up with $108M for its 'workforce as a service' platform
      <hr/>
      
-      - *If, as I suspect many of you have, you have worked your way through baking every type of cookie, bread, and cake under the sun over the last year, Google has a surprise for you: a pair of AI-generated hybrid treats, the “breakie” and the “cakie.” The origin o…*
+      - *Madrid-based Jobandtalent, a digital temp staffing agency which operates a dual-sided platform that connects temp workers with employers needing regular casual labor in sectors like transport and logistics, has added €88 million (~$108M) to its Series C — bri…*
      
-  - TikTok bans videos of Trump inciting mob, blocks #stormthecapital and other hashtags
+  - Shares of Hyundai Motors Co. climb more than 20% on potential EV deal with Apple
       <hr/>
       
-      - *For obvious reasons, Trump doesn’t have a TikTok account. But the President’s speeches that helped incite the mob who yesterday stormed the U.S. Capitol will have no home on TikTok’s platform. The company confirmed to TechCrunch its content policy around the …*
+      - *Hyundai Motor Company is downplaying reports that it is in talks with Apple to produce an autonomous electric vehicle, stating that discussions are still in the “early stage” and still undecided. But the news of a potential tie-up (however tentative) with App…*
       
-  - Detroit's Ludlow Ventures goes for fund four
+  - Tencent investment stays on game in 2020
       <hr/>
       
-      - *Ludlow Ventures, an 11-year-old, Detroit-based seed-stage venture firm, is in the process of closing on $65 million in capital commitments for its fourth and newest fund, shows SEC paperwork filed this week. We reached out to firm founder Jonathan Triest, who…*
+      - *It’s no secret that Tencent, the Chinese tech giant behind WeChat and a handful of blockbuster video games, is an aggressive investor. Even during 2020 when the pandemic slowed down economic activity in many parts of the world, Tencent was charging ahead with…*
       
-  - F5 snags Volterra multi-cloud management startup for $500M
+  - Trump returns to Twitter with what sounds like a concession speech
       <hr/>
       
-      - *F5, the applications networking company announced today that it is acquiring Volterra, a multi-cloud management startup for $500 million. That breaks down to $440 million in cash and $60 million in deferred and unvested incentive compensation. Volterra emerge…*
+      - *It’s been a long couple of days for the country, but President Trump only had to wait 12 hours before returning to his social network of choice. In an uncharacteristically scripted three-ish minute speech, the president denounced the “heinous attack” on the C…*
        
-  - Daily Crunch: Facebook bans Trump for two weeks
+  - Google AI concocts 'breakie' and 'cakie' hybrid baked goods
       <hr/>
        
-       - *Online platforms take action against President Trump, Lenovo tries out a swiveling screen and Roblox raises $250 million. This is your Daily Crunch for January 7, 2021. The big story: Facebook bans Trump for two weeks After a pro-Trump mob stormed the U.S. Ca…*
+       - *If, as I suspect many of you have, you have worked your way through baking every type of cookie, bread, and cake under the sun over the last year, Google has a surprise for you: a pair of AI-generated hybrid treats, the “breakie” and the “cakie.” The origin o…*
       
 
 <br />
