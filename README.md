@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Jobandtalent tops up with $108M for its 'workforce as a service' platform
+  - Twitter permanently bans President Trump
      <hr/>
      
-      - *Madrid-based Jobandtalent, a digital temp staffing agency which operates a dual-sided platform that connects temp workers with employers needing regular casual labor in sectors like transport and logistics, has added €88 million (~$108M) to its Series C — bri…*
+      - *President Trump was permanently suspended from Twitter Friday. In the announcement, the company cited “the risk of further incitement of violence” and the president’s past transgressions on the platform. “In the context of horrific events this week, we made i…*
      
-  - Shares of Hyundai Motors Co. climb more than 20% on potential EV deal with Apple
+  - Holographic startup Envisics partners with Panasonic to fast-track in-car AR tech
       <hr/>
       
-      - *Hyundai Motor Company is downplaying reports that it is in talks with Apple to produce an autonomous electric vehicle, stating that discussions are still in the “early stage” and still undecided. But the news of a potential tie-up (however tentative) with App…*
+      - *Envisics founder and CEO Dr. Jamieson Christmas launched the startup three years ago to “revolutionize” the in-car experience with its holographic technology. Now, it has a partner that could help it achieve that mission. The U.K.-based holographic technology…*
       
-  - Tencent investment stays on game in 2020
+  - Daily Crunch: Roku buys Quibi's content library
       <hr/>
       
-      - *It’s no secret that Tencent, the Chinese tech giant behind WeChat and a handful of blockbuster video games, is an aggressive investor. Even during 2020 when the pandemic slowed down economic activity in many parts of the world, Tencent was charging ahead with…*
+      - *Quibi’s content will live on, Hyundai may partner with Apple and Donald Trump returns to Twitter. This is your Daily Crunch for January 8, 2021. The big story: Roku buys Quibi’s content library If you’re wondering what will happen to Quibi shows like “Most Da…*
       
-  - Trump returns to Twitter with what sounds like a concession speech
+  - You'll never believe what this email thread says about the ad-funded 'open' web
       <hr/>
       
-      - *It’s been a long couple of days for the country, but President Trump only had to wait 12 hours before returning to his social network of choice. In an uncharacteristically scripted three-ish minute speech, the president denounced the “heinous attack” on the C…*
+      - *Among a number of claims on UK adtech lobby group MOW’s website is the canonical biggie that ‘Advertising funds the open web.’ This coalition of “marketers”, whose members are not being made public despite its sweeping claims to love web openness — lest, MOW …*
        
-  - Google AI concocts 'breakie' and 'cakie' hybrid baked goods
+  - Extra Crunch roundup: 2 VC surveys, Tesla's melt up, The Roblox Gambit, more
       <hr/>
        
-       - *If, as I suspect many of you have, you have worked your way through baking every type of cookie, bread, and cake under the sun over the last year, Google has a surprise for you: a pair of AI-generated hybrid treats, the “breakie” and the “cakie.” The origin o…*
+       - *Thanks very much for reading Extra Crunch this week. I hope we can all look forward to a nice, boring weekend with no breaking news alerts.*
       
 
 <br />
