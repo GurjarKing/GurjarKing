@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Parler reportedly removed posts by Trump affiliate Lin Wood calling for execution of VP Mike Pence
+  - These 6 browser extensions will protect your privacy online
      <hr/>
      
-      - *It seems that even the “free speech” social network Parler has its limits. The social network that has attracted scores of conservative commentators because of its commitment to free speech has taken down several posts from Trump affiliate Lin Wood, according…*
+      - *How to reduce tracking, block ads, and encrypt all the things.*
      
+  - Amazon Web Services gives Parler 24-hour notice that it will suspend services to the company
+      <hr/>
+      
+      - *Parler is at risk of disappearing, just as the social media network popular among conservatives was reaching new heights of popularity in the wake of President Donald Trump’s ban from all major tech social platforms. Amazon Web Services, which provides backen…*
+      
+  - Apple suspend Parler from App Store
+      <hr/>
+      
+      - *Following reports of a warning to site developers sent earlier this Apple today confirmed that it has pulled right wing social media platform Parler from the App Store. Apple tells TechCrunch, We have always supported diverse points of view being represented …*
+      
+  - Parler reportedly removed posts by Trump affiliate Lin Wood calling for execution of VP Mike Pence
+      <hr/>
+      
+      - *It seems that even the “free speech” social network Parler has its limits. The social network that has attracted scores of conservative commentators because of its commitment to free speech has taken down several posts from Trump affiliate Lin Wood, according…*
+       
   - Human Capital: What's next for Dr. Timnit Gebru
       <hr/>
-      
-      - *Congrats on surviving this wild first week of 2021. Outside all-things political, a few labor developments happened that are worth noting. Also, shortly before the mob of Trump supporters wreaked havoc on the U.S. Capitol, I caught up with Dr. Timnit Gebru, t…*
-      
-  - Bootstrapping to $80M ARR
-      <hr/>
-      
-      - *So much for a quiet start to the year. Any hopes of 2021 giving us respite from the turbulent waters of 2020 went splat, as the first week of the New Year was busy with venture capital deals, IPO news and SPAC news.*
-      
-  - The next Zoom wants to be nothing like Zoom
-      <hr/>
-      
-      - *In the past few months, there hasn’t been one conversation I’ve had about remote work that doesn’t include a mention of Hopin, a virtual events platform last valued at $2.1 billion.*
        
-  - Parler jumps to No. 1 on App Store after Facebook and Twitter ban Trump
-      <hr/>
-       
-       - *Users are surging on small, conservative, social media platforms after President Donald Trump’s ban from the world’s largest social networks, even as those platforms are seeing access throttled by the app marketplaces of tech’s biggest players. The social net…*
+       - *Congrats on surviving this wild first week of 2021. Outside all-things political, a few labor developments happened that are worth noting. Also, shortly before the mob of Trump supporters wreaked havoc on the U.S. Capitol, I caught up with Dr. Timnit Gebru, t…*
       
 
 <br />
