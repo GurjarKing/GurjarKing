@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Why Twitter banned President Trump
+  - Parler reportedly removed posts by Trump affiliate Lin Wood calling for execution of VP Mike Pence
      <hr/>
      
-      - *Twitter permanently banned the U.S. president Friday, taking a dramatic step to limit Trump’s ability to communicate with his followers. That decision, made in light of his encouragement for Wednesday’s violent invasion of the U.S. Capitol, might seem sudden …*
+      - *It seems that even the “free speech” social network Parler has its limits. The social network that has attracted scores of conservative commentators because of its commitment to free speech has taken down several posts from Trump affiliate Lin Wood, according…*
      
-  - President Trump responds to Twitter account ban in tweet storm from @POTUS account
+  - Human Capital: What's next for Dr. Timnit Gebru
       <hr/>
       
-      - *After Twitter took the major step Friday of permanently banning President Trump’s @realdonaldtrump Twitter account, the President aimed to get the last word in through his government account @POTUS which has a fraction of the Twitter followers but still offer…*
+      - *Congrats on surviving this wild first week of 2021. Outside all-things political, a few labor developments happened that are worth noting. Also, shortly before the mob of Trump supporters wreaked havoc on the U.S. Capitol, I caught up with Dr. Timnit Gebru, t…*
       
-  - Parler removed from Google Play store as Apple App Store suspension reportedly looms
+  - Bootstrapping to $80M ARR
       <hr/>
       
-      - *Shortly after Twitter announced Friday afternoon that they were permanently suspending the account of President Trump, Google shared that they were removing Parler, a conservative social media app, from their Play Store immediately, saying in a statement that…*
+      - *So much for a quiet start to the year. Any hopes of 2021 giving us respite from the turbulent waters of 2020 went splat, as the first week of the New Year was busy with venture capital deals, IPO news and SPAC news.*
       
-  - Twitter permanently bans President Trump
+  - The next Zoom wants to be nothing like Zoom
       <hr/>
       
-      - *President Trump was permanently suspended from Twitter Friday. In the announcement, the company cited “the risk of further incitement of violence” and the president’s past transgressions on the platform. “In the context of horrific events this week, we made i…*
+      - *In the past few months, there hasn’t been one conversation I’ve had about remote work that doesn’t include a mention of Hopin, a virtual events platform last valued at $2.1 billion.*
        
-  - Holographic startup Envisics partners with Panasonic to fast-track in-car AR tech
+  - Parler jumps to No. 1 on App Store after Facebook and Twitter ban Trump
       <hr/>
        
-       - *Envisics founder and CEO Dr. Jamieson Christmas launched the startup three years ago to “revolutionize” the in-car experience with its holographic technology. Now, it has a partner that could help it achieve that mission. The U.K.-based holographic technology…*
+       - *Users are surging on small, conservative, social media platforms after President Donald Trump’s ban from the world’s largest social networks, even as those platforms are seeing access throttled by the app marketplaces of tech’s biggest players. The social net…*
       
 
 <br />
