@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Stripe reportedly joins the tech platforms booting President Trump from their services
+  - The Station: the 2021 predictions issue, part two
      <hr/>
      
-      - *It might be easier at this point to ask which tech platforms President Donald Trump can still use. Payment-processing company Stripe is the latest tech company to kick Donald Trump off of its platform, according to a report in The Wall Street Journal. That me…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Sunday in your inbox.  Hi friends and new readers, welcome back to The Station, a newsletter dedicated to all the present an…*
      
-  - Original Content podcast: Despite some odd choices, 'The Undoing' lays out a satisfying mystery
+  - Vision Fund backs Chinese fitness app Keep in $360 million round
       <hr/>
       
-      - *The HBO miniseries “The Undoing” wrapped up back in November, but the hosts of the Original Content podcast took advantage of the holidays to get caught up. Based on a novel by Jean Hanff Korelitz, “The Undoing” tells the story of Grace Fraser (played by Nico…*
+      - *As Chinese fitness class provider Keep continues to diversify its offerings to include Peloton-like bikes, health-conscious snacks among other things, it’s bringing in new investors to fund its ambitions. On Monday, Keep said it has recently closed a Series F…*
       
-  - Lenovo launches AR glasses for enterprise
+  - China's search giant Baidu to set up an EV making venture
       <hr/>
       
-      - *Lenovo seems to have gotten the memo that the real money in the augmented reality space is going to be made in enterprise. Ahead of tomorrow’s CES kick off, the hardware company announced the impending arrival of the ThinkReality A3, a pair of enterprise AR g…*
+      - *China’s search giant Baidu is extending its car ambitions from mere software to production. The company said Monday that it will set up a company to produce electric vehicles with the help of Chinese automaker Geely. Baidu, a dominant player in China’s intern…*
       
-  - These 6 browser extensions will protect your privacy online
+  - San Francisco police are prepping for a pro-Trump rally at Twitter headquarters
       <hr/>
       
-      - *How to reduce tracking, block ads, and encrypt all the things.*
+      - *San Francisco police are preparing for a pro-Trump protest at Twitter’s headquarters, a building which has been essentially abandoned since the start of the pandemic last year, with most Twitter employees working remotely. The potential protest comes days aft…*
        
-  - Amazon Web Services gives Parler 24-hour notice that it will suspend services to the company
+  - Indonesian investment platform Ajaib gets $25 million Series A led by Horizons Venture and Alpha JWC
       <hr/>
        
-       - *Parler is at risk of disappearing, just as the social media network popular among conservatives was reaching new heights of popularity in the wake of President Donald Trump’s ban from all major tech social platforms. Amazon Web Services, which provides backen…*
+       - *Ajaib Group, an online investment platform that says it now runs the fifth-largest stock brokerage in Indonesia by number of trades, announced it has raised a $25 million Series A led by Horizons Ventures, the venture capital firm founded by Li Ka-Shing, and …*
       
 
 <br />
