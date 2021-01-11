@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - These 6 browser extensions will protect your privacy online
+  - Stripe reportedly joins the tech platforms booting President Trump from their services
      <hr/>
      
-      - *How to reduce tracking, block ads, and encrypt all the things.*
+      - *It might be easier at this point to ask which tech platforms President Donald Trump can still use. Payment-processing company Stripe is the latest tech company to kick Donald Trump off of its platform, according to a report in The Wall Street Journal. That me…*
      
+  - Original Content podcast: Despite some odd choices, 'The Undoing' lays out a satisfying mystery
+      <hr/>
+      
+      - *The HBO miniseries “The Undoing” wrapped up back in November, but the hosts of the Original Content podcast took advantage of the holidays to get caught up. Based on a novel by Jean Hanff Korelitz, “The Undoing” tells the story of Grace Fraser (played by Nico…*
+      
+  - Lenovo launches AR glasses for enterprise
+      <hr/>
+      
+      - *Lenovo seems to have gotten the memo that the real money in the augmented reality space is going to be made in enterprise. Ahead of tomorrow’s CES kick off, the hardware company announced the impending arrival of the ThinkReality A3, a pair of enterprise AR g…*
+      
+  - These 6 browser extensions will protect your privacy online
+      <hr/>
+      
+      - *How to reduce tracking, block ads, and encrypt all the things.*
+       
   - Amazon Web Services gives Parler 24-hour notice that it will suspend services to the company
       <hr/>
-      
-      - *Parler is at risk of disappearing, just as the social media network popular among conservatives was reaching new heights of popularity in the wake of President Donald Trump’s ban from all major tech social platforms. Amazon Web Services, which provides backen…*
-      
-  - Apple suspend Parler from App Store
-      <hr/>
-      
-      - *Following reports of a warning to site developers sent earlier this Apple today confirmed that it has pulled right wing social media platform Parler from the App Store. Apple tells TechCrunch, We have always supported diverse points of view being represented …*
-      
-  - Parler reportedly removed posts by Trump affiliate Lin Wood calling for execution of VP Mike Pence
-      <hr/>
-      
-      - *It seems that even the “free speech” social network Parler has its limits. The social network that has attracted scores of conservative commentators because of its commitment to free speech has taken down several posts from Trump affiliate Lin Wood, according…*
        
-  - Human Capital: What's next for Dr. Timnit Gebru
-      <hr/>
-       
-       - *Congrats on surviving this wild first week of 2021. Outside all-things political, a few labor developments happened that are worth noting. Also, shortly before the mob of Trump supporters wreaked havoc on the U.S. Capitol, I caught up with Dr. Timnit Gebru, t…*
+       - *Parler is at risk of disappearing, just as the social media network popular among conservatives was reaching new heights of popularity in the wake of President Donald Trump’s ban from all major tech social platforms. Amazon Web Services, which provides backen…*
       
 
 <br />
