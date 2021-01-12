@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Content discovery platform Dable closes $12 million Series C at $90 million valuation to accelerate its global expansion
+  - Jobber raises $60M as its platform for home service professionals hits 100k users
      <hr/>
      
-      - *Launched in South Korea five years ago, content discovery platform Dable now serves a total of six markets in Asia. Now it plans to speed up the pace of its expansion, with six new markets in the region planned for this year, before entering European countrie…*
+      - *One of the technology byproducts of the Covid-19 pandemic is that it has raised the game for businesses to have better digital tools in place to interface with customers, and their own work, to get things done. Today, a company called Jobber, which has built …*
      
-  - Daily Crunch: Parler sues Amazon after going offline
+  - Yelp will show user feedback about businesses' health and safety practices
       <hr/>
       
-      - *Platforms and infrastructure providers dump Parler, Microsoft unveils a new Surface and a Chinese fitness app raises $360 million. This is your Daily Crunch for January 11, 2021. The big story: Parler sues Amazon after going offline President Donald Trump has…*
+      - *Moving forward, Yelp users won’t just be asked whether a business has good food or accepts credit cards — the platform is also allowing them to share feedback on whether the staff is wearing masks and enforcing social distancing. Yelp’s head of consumer produ…*
       
-  - Noopl’s iPhone plug-in is designed to improve hearing in noisy environments
+  - IBM leads U.S. patent list for 2020 as total numbers decline 1% in pandemic year to 352,000
       <hr/>
       
-      - *Noopl looks like one of the more interesting hardware startups to come out of CES day one. The Sacramento-based company has designed an accessory that it says can help drown out background noise for users in a loud environment. The little accessory sports a L…*
+      - *One year in, the Covid-19 global health pandemic continues to have something of a dragging effect on many aspects of life, but today a key bellwether for how technology is developing underscored how the industry continues to march on. The number of patents gr…*
       
-  - YouTube and WhatsApp inch closer to half a billion users in India
+  - LAUNCHub Ventures heading towards a $85M fund for South Eastern European startups
       <hr/>
       
-      - *WhatsApp has enjoyed unrivaled reach in India for years. By mid-2019, the Facebook-owned app had amassed over 400 million users in the country. Its closest app rival at the time was YouTube, which, according to the company’s own statement and data from mobile…*
+      - *LAUNCHub Ventures, an early-stage European VC which concentrates mainly on Central Eastern (CEE) and South-Eastern Europe (SEE), has completed the first closing of its new fund at €44 million ($53.5M), with an aspiration to reach a target size of €70 million.…*
        
-  - Facebook says it will remove references to 'stop the steal' across its platform
+  - Two ex-Sequoia VCs:  the most 'compelling emerging market' may be America, outside of Silicon Valley
       <hr/>
        
-       - *In the wake of last week’s violence at the U.S. Capitol, Facebook today announced it will be taking additional steps to removing content referencing the phrase “stop the steal” on its platform. The phrase is associated with the right-wing campaign that falsel…*
+       - *Roughly eight years ago, investors Mark Kvamme and Chris Olsen left Silicon Valley to open a venture firm, Drive Capital, in Columbus, Ohio. It wasn’t an easy decision. Leaving California wasn’t exactly fashionable at the time. In fact, While Olsen had grown …*
       
 
 <br />
