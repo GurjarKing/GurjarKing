@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The Station: the 2021 predictions issue, part two
+  - Content discovery platform Dable closes $12 million Series C at $90 million valuation to accelerate its global expansion
      <hr/>
      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Sunday in your inbox.  Hi friends and new readers, welcome back to The Station, a newsletter dedicated to all the present an…*
+      - *Launched in South Korea five years ago, content discovery platform Dable now serves a total of six markets in Asia. Now it plans to speed up the pace of its expansion, with six new markets in the region planned for this year, before entering European countrie…*
      
-  - Vision Fund backs Chinese fitness app Keep in $360 million round
+  - Daily Crunch: Parler sues Amazon after going offline
       <hr/>
       
-      - *As Chinese fitness class provider Keep continues to diversify its offerings to include Peloton-like bikes, health-conscious snacks among other things, it’s bringing in new investors to fund its ambitions. On Monday, Keep said it has recently closed a Series F…*
+      - *Platforms and infrastructure providers dump Parler, Microsoft unveils a new Surface and a Chinese fitness app raises $360 million. This is your Daily Crunch for January 11, 2021. The big story: Parler sues Amazon after going offline President Donald Trump has…*
       
-  - China's search giant Baidu to set up an EV making venture
+  - Noopl’s iPhone plug-in is designed to improve hearing in noisy environments
       <hr/>
       
-      - *China’s search giant Baidu is extending its car ambitions from mere software to production. The company said Monday that it will set up a company to produce electric vehicles with the help of Chinese automaker Geely. Baidu, a dominant player in China’s intern…*
+      - *Noopl looks like one of the more interesting hardware startups to come out of CES day one. The Sacramento-based company has designed an accessory that it says can help drown out background noise for users in a loud environment. The little accessory sports a L…*
       
-  - San Francisco police are prepping for a pro-Trump rally at Twitter headquarters
+  - YouTube and WhatsApp inch closer to half a billion users in India
       <hr/>
       
-      - *San Francisco police are preparing for a pro-Trump protest at Twitter’s headquarters, a building which has been essentially abandoned since the start of the pandemic last year, with most Twitter employees working remotely. The potential protest comes days aft…*
+      - *WhatsApp has enjoyed unrivaled reach in India for years. By mid-2019, the Facebook-owned app had amassed over 400 million users in the country. Its closest app rival at the time was YouTube, which, according to the company’s own statement and data from mobile…*
        
-  - Indonesian investment platform Ajaib gets $25 million Series A led by Horizons Venture and Alpha JWC
+  - Facebook says it will remove references to 'stop the steal' across its platform
       <hr/>
        
-       - *Ajaib Group, an online investment platform that says it now runs the fifth-largest stock brokerage in Indonesia by number of trades, announced it has raised a $25 million Series A led by Horizons Ventures, the venture capital firm founded by Li Ka-Shing, and …*
+       - *In the wake of last week’s violence at the U.S. Capitol, Facebook today announced it will be taking additional steps to removing content referencing the phrase “stop the steal” on its platform. The phrase is associated with the right-wing campaign that falsel…*
       
 
 <br />
