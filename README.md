@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Jobber raises $60M as its platform for home service professionals hits 100k users
+  - Lime removes all Trump-owned properties from its list of approved corporate hotels
      <hr/>
      
-      - *One of the technology byproducts of the Covid-19 pandemic is that it has raised the game for businesses to have better digital tools in place to interface with customers, and their own work, to get things done. Today, a company called Jobber, which has built …*
+      - *Lime has changed its corporate travel policy to ensure not a dime of its money ends up in the coffers of the Trump Organization’s hotels and other properties in response to the January 6 insurrection at the U.S. Capitol that led to several deaths. The micromo…*
      
-  - Yelp will show user feedback about businesses' health and safety practices
+  - Daily Crunch: Visa calls off Plaid acquisition
       <hr/>
       
-      - *Moving forward, Yelp users won’t just be asked whether a business has good food or accepts credit cards — the platform is also allowing them to share feedback on whether the staff is wearing masks and enforcing social distancing. Yelp’s head of consumer produ…*
+      - *Regulatory action prompts Visa to back off a fintech acquisition, Uber and Moderna partner and Checkout.com is valued at $15 billion. This is your Daily Crunch for January 12, 2021. The big story: Visa calls off Plaid acquisition The deal, valued at $5.3 bill…*
       
-  - IBM leads U.S. patent list for 2020 as total numbers decline 1% in pandemic year to 352,000
+  - Companies rush to replace the gym at CES
       <hr/>
       
-      - *One year in, the Covid-19 global health pandemic continues to have something of a dragging effect on many aspects of life, but today a key bellwether for how technology is developing underscored how the industry continues to march on. The number of patents gr…*
+      - *The year of the first-ever all-virtual CES is, unsurprisingly, the year of the virtual gym. The past 12 months have seen most of our fitness routines completely transformed — speaking for myself, my Apple Watch step count shows two big empty spots where March…*
       
-  - LAUNCHub Ventures heading towards a $85M fund for South Eastern European startups
+  - A deep dive on Steve Jurvetson and Maryanna Saenko's $200 million new fund
       <hr/>
       
-      - *LAUNCHub Ventures, an early-stage European VC which concentrates mainly on Central Eastern (CEE) and South-Eastern Europe (SEE), has completed the first closing of its new fund at €44 million ($53.5M), with an aspiration to reach a target size of €70 million.…*
+      - *Future Ventures — cofounded by renowned VC Steve Jurvetson and Maryanna Saenko, a colleague of Jurvetson at his last firm, DFJ, as well as an investor previously with Airbus Ventures and Khosla Ventures — has closed its second fund with $200 million in capita…*
        
-  - Two ex-Sequoia VCs:  the most 'compelling emerging market' may be America, outside of Silicon Valley
+  - Visa will not acquire Plaid after running into regulatory wall
       <hr/>
        
-       - *Roughly eight years ago, investors Mark Kvamme and Chris Olsen left Silicon Valley to open a venture firm, Drive Capital, in Columbus, Ohio. It wasn’t an easy decision. Leaving California wasn’t exactly fashionable at the time. In fact, While Olsen had grown …*
+       - *Visa and Plaid called off their agreement this afternoon, ending the consumer credit giant’s takeover of the data-focused fintech API startup. The deal, valued at $5.3 billion at the time of its announcement, first broke cover on January 13th, 2020, or nearly…*
       
 
 <br />
