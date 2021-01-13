@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Lime removes all Trump-owned properties from its list of approved corporate hotels
+  - Rapyd raises $300M on a $2.5B valuation to boost its fintech-as-a-service API
      <hr/>
      
-      - *Lime has changed its corporate travel policy to ensure not a dime of its money ends up in the coffers of the Trump Organization’s hotels and other properties in response to the January 6 insurrection at the U.S. Capitol that led to several deaths. The micromo…*
+      - *A wave of organizations — propelled by global Covid-19 pandemic circumstances — are moving their commercial and financial interactions online, and today one of the big players helping to enable that shift is announcing a significant round of growth funding to…*
      
-  - Daily Crunch: Visa calls off Plaid acquisition
+  - YouTube puts a temporary freeze on uploads to Trump's channel
       <hr/>
       
-      - *Regulatory action prompts Visa to back off a fintech acquisition, Uber and Moderna partner and Checkout.com is valued at $15 billion. This is your Daily Crunch for January 12, 2021. The big story: Visa calls off Plaid acquisition The deal, valued at $5.3 bill…*
+      - *YouTube has been the slowest of the big social media platforms to react to the threat of letting president Trump continue to use its platform as a megaphone to whip up insurrection in the wake of the attack on the US capital last week. But it’s now applied a …*
       
-  - Companies rush to replace the gym at CES
+  - TikTok update will change privacy settings and defaults for users under 18
       <hr/>
       
-      - *The year of the first-ever all-virtual CES is, unsurprisingly, the year of the virtual gym. The past 12 months have seen most of our fitness routines completely transformed — speaking for myself, my Apple Watch step count shows two big empty spots where March…*
+      - *TikTok announced today it’s making changes to its app to make the experience safer for younger users. The company will now set the accounts for users ages 13 to 15 to private by default, as well as tighten other controls for all users under 18, in terms of ho…*
       
-  - A deep dive on Steve Jurvetson and Maryanna Saenko's $200 million new fund
+  - Amazon launches mobile-only Prime Video subscription in India
       <hr/>
       
-      - *Future Ventures — cofounded by renowned VC Steve Jurvetson and Maryanna Saenko, a colleague of Jurvetson at his last firm, DFJ, as well as an investor previously with Airbus Ventures and Khosla Ventures — has closed its second fund with $200 million in capita…*
+      - *Amazon is doubling down on one of the biggest strengths of Prime Video streaming service: Aggressive pricing. The e-commerce giant on Wednesday announced Prime Video Mobile Edition, an even more affordable tier of the on-demand video streaming service — now a…*
        
-  - Visa will not acquire Plaid after running into regulatory wall
+  - Winnoz's vacuum-assisted Haiim makes finger prick blood draws more efficient
       <hr/>
        
-       - *Visa and Plaid called off their agreement this afternoon, ending the consumer credit giant’s takeover of the data-focused fintech API startup. The deal, valued at $5.3 billion at the time of its announcement, first broke cover on January 13th, 2020, or nearly…*
+       - *Winnoz’s Haiim is designed to make collecting blood from fingertips easier, increasing the volume drawn so it can be used for more types of tests. The New Taipei City, Taiwan-based company’s vacuum-assisted device can collect up to 150 to 500 microliters of b…*
       
 
 <br />
