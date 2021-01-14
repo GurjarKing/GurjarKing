@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Rapyd raises $300M on a $2.5B valuation to boost its fintech-as-a-service API
+  - Trump circumvents Twitter ban to decry 'unprecedented assault on free speech'
      <hr/>
      
-      - *A wave of organizations — propelled by global Covid-19 pandemic circumstances — are moving their commercial and financial interactions online, and today one of the big players helping to enable that shift is announcing a significant round of growth funding to…*
+      - *Following a comprehensive ban from Twitter and a number of other online services following last week’s assault on the Capitol by his followers, President Trump managed to put out a tweet in the form of a video address touching on the “calamity at the Capitol”…*
      
-  - YouTube puts a temporary freeze on uploads to Trump's channel
+  - Feds asks Tesla to recall 158,000 vehicles over failing touchscreen displays
       <hr/>
       
-      - *YouTube has been the slowest of the big social media platforms to react to the threat of letting president Trump continue to use its platform as a megaphone to whip up insurrection in the wake of the attack on the US capital last week. But it’s now applied a …*
+      - *U.S. safety regulators have asked Tesla to recall 158,000 vehicles over media control unit failures that cause the touchscreen displays to stop working, following a months-long investigation by the National Highway Traffic Safety Administration. The Office of…*
       
-  - TikTok update will change privacy settings and defaults for users under 18
+  - Tokyo-based SODA, which runs Japan's largest sneaker resell platform, lands $22 million led by SoftBank Ventures Asia
       <hr/>
       
-      - *TikTok announced today it’s making changes to its app to make the experience safer for younger users. The company will now set the accounts for users ages 13 to 15 to private by default, as well as tighten other controls for all users under 18, in terms of ho…*
+      - *Tokyo-based SODA, which runs sneaker reselling platform SNKRDUNK, has raised a $22 million Series B led by SoftBank Ventures Asia. Investors also included basepartners, Colopl Next, THE GUILD and other strategic partners. Part of the funding will be used to e…*
       
-  - Amazon launches mobile-only Prime Video subscription in India
+  - Pace launches out of private beta with a plan to scale virtual group therapy
       <hr/>
       
-      - *Amazon is doubling down on one of the biggest strengths of Prime Video streaming service: Aggressive pricing. The e-commerce giant on Wednesday announced Prime Video Mobile Edition, an even more affordable tier of the on-demand video streaming service — now a…*
+      - *One in five people have a mental health illness. Pace, a new startup founded by Pinterest and Affirm executives, wants to pay attention to the other four in that statistic. “Nobody is perfectly mentally healthy all the time,” said Jack Chou, Pace co-founder. …*
        
-  - Winnoz's vacuum-assisted Haiim makes finger prick blood draws more efficient
+  - Robotic exoskeletons promise increased mobility and job assistance
       <hr/>
        
-       - *Winnoz’s Haiim is designed to make collecting blood from fingertips easier, increasing the volume drawn so it can be used for more types of tests. The New Taipei City, Taiwan-based company’s vacuum-assisted device can collect up to 150 to 500 microliters of b…*
+       - *The last several years have seen a substantial increase of ability for robotic exoskeleton technology. Completely understandable. For one thing, it’s that rare technology you encounter that really feels like it’s going to change lives for the better the first…*
       
 
 <br />
