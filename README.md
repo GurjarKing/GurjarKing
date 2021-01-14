@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Trump circumvents Twitter ban to decry 'unprecedented assault on free speech'
+  - Gemini is launching a credit card with bitcoin rewards
      <hr/>
      
-      - *Following a comprehensive ban from Twitter and a number of other online services following last week’s assault on the Capitol by his followers, President Trump managed to put out a tweet in the form of a video address touching on the “calamity at the Capitol”…*
+      - *Cryptocurrency exchange company Gemini is acquiring Blockrize and announcing a new product today based on Blockrize’s work. Later this year, the company is launching a credit card that works like a regular credit card — but you earn bitcoin rewards based on y…*
      
-  - Feds asks Tesla to recall 158,000 vehicles over failing touchscreen displays
+  - Accel Partners heads down to Georgia to invest in DecisionLink, leading an $18.5 million round
       <hr/>
       
-      - *U.S. safety regulators have asked Tesla to recall 158,000 vehicles over media control unit failures that cause the touchscreen displays to stop working, following a months-long investigation by the National Highway Traffic Safety Administration. The Office of…*
+      - *DecisionLink, an Atlanta-based company that provides software for cost-benefit analyses of business services from a customer’s perspective, has managed to woo one of Silicon Valley’s top venture firms to invest in its latest $18.5 million round of funding. Ac…*
       
-  - Tokyo-based SODA, which runs Japan's largest sneaker resell platform, lands $22 million led by SoftBank Ventures Asia
+  - Can't figure out how to end your Amazon Prime sub? These complaints could help...
       <hr/>
       
-      - *Tokyo-based SODA, which runs sneaker reselling platform SNKRDUNK, has raised a $22 million Series B led by SoftBank Ventures Asia. Investors also included basepartners, Colopl Next, THE GUILD and other strategic partners. Part of the funding will be used to e…*
+      - *Amazon’s use of dark patterns that add friction to the process of terminating a Prime subscription is being targeted by 16 consumer rights groups in Europe and the US which are taking coordinated action to urge regulatory intervention. One of them — Norway’s …*
       
-  - Pace launches out of private beta with a plan to scale virtual group therapy
+  - Upgrade launches checking accounts and debit cards
       <hr/>
       
-      - *One in five people have a mental health illness. Pace, a new startup founded by Pinterest and Affirm executives, wants to pay attention to the other four in that statistic. “Nobody is perfectly mentally healthy all the time,” said Jack Chou, Pace co-founder. …*
+      - *Fintech startup Upgrade has been positioning itself as a neobank. And yet, the company has mostly been focused on personal loans and more recently credit cards. You couldn’t just replace your bank account with Upgrade. Upgrade is adding two important missing …*
        
-  - Robotic exoskeletons promise increased mobility and job assistance
+  - Tresl's Segments Analytics gives small online stores the same data analytics as large sellers
       <hr/>
        
-       - *The last several years have seen a substantial increase of ability for robotic exoskeleton technology. Completely understandable. For one thing, it’s that rare technology you encounter that really feels like it’s going to change lives for the better the first…*
+       - *Tresl’s flagship product, e-commerce intelligence platform Segment Analytics, is designed to give small brands on Shopify access to the same kind of analytics larger online retailers have. Founded by former LinkedIn data scientists, Tresl is currently exhibit…*
       
 
 <br />
