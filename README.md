@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - A theory about the current IPO market
+  - A security researcher commandeered a country's expired top-level domain to save it from hackers
      <hr/>
      
-      - *Lots of demand, little supply, boom goes the price.*
+      - *Fredrik Almroth hoped the government would buy back the critical domain name, but nobody ever did.*
      
-  - Daily Crunch: Samsung unveils Galaxy S21 line
+  - How Twitter is handling the 2021 US presidential transition
       <hr/>
       
-      - *Samsung lowers prices with its latest Galaxy S phones, Google completes its Fitbit acquisition and Beyond Meat is coming to Taco Bell. This is your Daily Crunch for January 14, 2021. The big story: Samsung unveils Galaxy S21 line Samsung’s new line of phones …*
+      - *Twitter has set out its plans for US Inauguration Day 2021, next Wednesday, January 20, when president-elect Joe Biden will be sworn into office as the 46th US president and vice president-elect Kamala Harris will become VP. “This year, multiple challenging c…*
       
-  - The end of Plaid-Visa, and Palantir's growing startup mafia
+  - OneWeb picks up $1.4B more from SoftBank and Hughes to help fund its first satellite fleet
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture-capital-focused podcast, where we unpack the numbers behind the headlines. This week we — Natasha and Danny and Alex and Grace — had a lot to get through, as the news volume in early 2021 has been rapid, …*
+      - *After a troubled year that saw broadband satellite operator OneWeb file for bankruptcy, get rescue finance from the UK government and Bharti, and then emerge out of that with a launch of part of its fleet last month, the London-based company today announced a…*
       
-  - Capsule raises $2 million for its video Q&A platform aimed at brands
+  - Trump Administration adds Xiaomi to military blacklist
       <hr/>
       
-      - *Capsule, a video Q&A platform aimed at brands, emerged last year in direct response to the challenges companies were facing in terms of reaching consumers during the pandemic. Now, the business has closed on $2 million in pre-seed funding. The round was led b…*
+      - *Chinese smartphone maker Xiaomi is the latest to be added to the Trump Administration’s military blacklist. On Thursday, the Department of Defense added nine more companies to its list of alleged Chinese military companies, including Xiaomi, the world’s third…*
        
-  - 12 'flexible VCs' who operate where equity meets revenue share
+  - A theory about the current IPO market
       <hr/>
        
-       - *A dozen active investors who offer funding via revenue-based, compensation-based and blended-return streams.*
+       - *Lots of demand, little supply, boom goes the price.*
       
 
 <br />
