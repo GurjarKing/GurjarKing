@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gemini is launching a credit card with bitcoin rewards
+  - A theory about the current IPO market
      <hr/>
      
-      - *Cryptocurrency exchange company Gemini is acquiring Blockrize and announcing a new product today based on Blockrize’s work. Later this year, the company is launching a credit card that works like a regular credit card — but you earn bitcoin rewards based on y…*
+      - *Lots of demand, little supply, boom goes the price.*
      
-  - Accel Partners heads down to Georgia to invest in DecisionLink, leading an $18.5 million round
+  - Daily Crunch: Samsung unveils Galaxy S21 line
       <hr/>
       
-      - *DecisionLink, an Atlanta-based company that provides software for cost-benefit analyses of business services from a customer’s perspective, has managed to woo one of Silicon Valley’s top venture firms to invest in its latest $18.5 million round of funding. Ac…*
+      - *Samsung lowers prices with its latest Galaxy S phones, Google completes its Fitbit acquisition and Beyond Meat is coming to Taco Bell. This is your Daily Crunch for January 14, 2021. The big story: Samsung unveils Galaxy S21 line Samsung’s new line of phones …*
       
-  - Can't figure out how to end your Amazon Prime sub? These complaints could help...
+  - The end of Plaid-Visa, and Palantir's growing startup mafia
       <hr/>
       
-      - *Amazon’s use of dark patterns that add friction to the process of terminating a Prime subscription is being targeted by 16 consumer rights groups in Europe and the US which are taking coordinated action to urge regulatory intervention. One of them — Norway’s …*
+      - *Hello and welcome back to Equity, TechCrunch’s venture-capital-focused podcast, where we unpack the numbers behind the headlines. This week we — Natasha and Danny and Alex and Grace — had a lot to get through, as the news volume in early 2021 has been rapid, …*
       
-  - Upgrade launches checking accounts and debit cards
+  - Capsule raises $2 million for its video Q&A platform aimed at brands
       <hr/>
       
-      - *Fintech startup Upgrade has been positioning itself as a neobank. And yet, the company has mostly been focused on personal loans and more recently credit cards. You couldn’t just replace your bank account with Upgrade. Upgrade is adding two important missing …*
+      - *Capsule, a video Q&A platform aimed at brands, emerged last year in direct response to the challenges companies were facing in terms of reaching consumers during the pandemic. Now, the business has closed on $2 million in pre-seed funding. The round was led b…*
        
-  - Tresl's Segments Analytics gives small online stores the same data analytics as large sellers
+  - 12 'flexible VCs' who operate where equity meets revenue share
       <hr/>
        
-       - *Tresl’s flagship product, e-commerce intelligence platform Segment Analytics, is designed to give small brands on Shopify access to the same kind of analytics larger online retailers have. Founded by former LinkedIn data scientists, Tresl is currently exhibit…*
+       - *A dozen active investors who offer funding via revenue-based, compensation-based and blended-return streams.*
       
 
 <br />
