@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - A security researcher commandeered a country's expired top-level domain to save it from hackers
+  - Facebook blocks new events around DC and state capitols
      <hr/>
      
-      - *Fredrik Almroth hoped the government would buy back the critical domain name, but nobody ever did.*
+      - *As a precaution against coordinated violence as the US approaches President-elect Joe Biden’s inauguration, Facebook announced a few new measures it’s putting in place. In a blog post and tweets from Facebook Policy Communications Director Andy Stone, the com…*
      
-  - How Twitter is handling the 2021 US presidential transition
+  - GitLab raises $195M in secondary funding on $6B valuation
       <hr/>
       
-      - *Twitter has set out its plans for US Inauguration Day 2021, next Wednesday, January 20, when president-elect Joe Biden will be sworn into office as the 46th US president and vice president-elect Kamala Harris will become VP. “This year, multiple challenging c…*
+      - *GitLab has confirmed with TechCrunch that it raised a $195 million secondary round on a $6 billion valuation. CNBC broke the story earlier today. The company’s impressive valuation comes after its most recent 2019 Series E in which it raised $268 million on a…*
       
-  - OneWeb picks up $1.4B more from SoftBank and Hughes to help fund its first satellite fleet
+  - The pandemic was top of mind in the tech of CES 2021
       <hr/>
       
-      - *After a troubled year that saw broadband satellite operator OneWeb file for bankruptcy, get rescue finance from the UK government and Bharti, and then emerge out of that with a launch of part of its fleet last month, the London-based company today announced a…*
+      - *Of course COVID-19 was bound to be an unavoidable topic during the first-ever all-virtual CES. After all, the topic is at front of mind regardless of the topic these days. Close to a year into the pandemic, presenters still understandably feel obligated to ad…*
       
-  - Trump Administration adds Xiaomi to military blacklist
+  - Daily Crunch: WhatsApp responds to privacy backlash
       <hr/>
       
-      - *Chinese smartphone maker Xiaomi is the latest to be added to the Trump Administration’s military blacklist. On Thursday, the Department of Defense added nine more companies to its list of alleged Chinese military companies, including Xiaomi, the world’s third…*
+      - *WhatsApp delays enforcement of a controversial privacy change, Apple may get rid of the Touch Bar in future MacBooks and Bumble files to go public. This is your Daily Crunch for January 15, 2021. The big story: WhatsApp responds to privacy backlash Earlier th…*
        
-  - A theory about the current IPO market
+  - Twitter’s vision of decentralization could also be the far-right’s internet endgame
       <hr/>
        
-       - *Lots of demand, little supply, boom goes the price.*
+       - *This week, Twitter CEO Jack Dorsey finally responded publicly to the company’s decision to ban President Trump from its platform, writing that Twitter had “faced an extraordinary and untenable circumstance” and that he did not “feel pride” about the decision.…*
       
 
 <br />
