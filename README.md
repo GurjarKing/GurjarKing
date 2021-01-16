@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook blocks new events around DC and state capitols
+  - Checkout wants to be Rapyd and Fast
      <hr/>
      
-      - *As a precaution against coordinated violence as the US approaches President-elect Joe Biden’s inauguration, Facebook announced a few new measures it’s putting in place. In a blog post and tweets from Facebook Policy Communications Director Andy Stone, the com…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture-capital-focused podcast, where we unpack the numbers behind the headlines. We’re back on this lovely Saturday with a bonus episode! Again! There is enough going on that to avoid failing to bring you stuff…*
      
-  - GitLab raises $195M in secondary funding on $6B valuation
+  - Extra Crunch roundup: antitrust jitters, SPAC odyssey, white-hot IPOs, more
       <hr/>
       
-      - *GitLab has confirmed with TechCrunch that it raised a $195 million secondary round on a $6 billion valuation. CNBC broke the story earlier today. The company’s impressive valuation comes after its most recent 2019 Series E in which it raised $268 million on a…*
+      - *Some time ago, I gave up on the idea of identifying a thread that could connect each story in this weekly roundup. There are no unified theories for technology news.*
       
+  - Facebook blocks new events around DC and state capitols
+      <hr/>
+      
+      - *As a precaution against coordinated violence as the US approaches President-elect Joe Biden’s inauguration, Facebook announced a few new measures it’s putting in place. In a blog post and tweets from Facebook Policy Communications Director Andy Stone, the com…*
+      
+  - GitLab oversaw a $195 million secondary sale that values the company at $6 billion
+      <hr/>
+      
+      - *GitLab has confirmed with TechCrunch that it oversaw a $195 million secondary sale that values the company at $6 billion. CNBC broke the story earlier today. The company’s impressive valuation comes after its most recent 2019 Series E in which it raised $268 …*
+       
   - The pandemic was top of mind in the tech of CES 2021
       <hr/>
-      
-      - *Of course COVID-19 was bound to be an unavoidable topic during the first-ever all-virtual CES. After all, the topic is at front of mind regardless of the topic these days. Close to a year into the pandemic, presenters still understandably feel obligated to ad…*
-      
-  - Daily Crunch: WhatsApp responds to privacy backlash
-      <hr/>
-      
-      - *WhatsApp delays enforcement of a controversial privacy change, Apple may get rid of the Touch Bar in future MacBooks and Bumble files to go public. This is your Daily Crunch for January 15, 2021. The big story: WhatsApp responds to privacy backlash Earlier th…*
        
-  - Twitter’s vision of decentralization could also be the far-right’s internet endgame
-      <hr/>
-       
-       - *This week, Twitter CEO Jack Dorsey finally responded publicly to the company’s decision to ban President Trump from its platform, writing that Twitter had “faced an extraordinary and untenable circumstance” and that he did not “feel pride” about the decision.…*
+       - *Of course COVID-19 was bound to be an unavoidable topic during the first-ever all-virtual CES. After all, the topic is at front of mind regardless of the topic these days. Close to a year into the pandemic, presenters still understandably feel obligated to ad…*
       
 
 <br />
