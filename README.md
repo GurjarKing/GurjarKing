@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Checkout wants to be Rapyd and Fast
+  - After a record year for Israeli startups, 16 investors tell us what's next
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture-capital-focused podcast, where we unpack the numbers behind the headlines. We’re back on this lovely Saturday with a bonus episode! Again! There is enough going on that to avoid failing to bring you stuff…*
+      - *Israel’s startup ecosystem raised record amounts of funding and produced 19 IPOs in 2020, despite the pandemic. Now tech companies across industries are poised for an even better year, according to more than a dozen investors we talked to in the country. Main…*
      
-  - Extra Crunch roundup: antitrust jitters, SPAC odyssey, white-hot IPOs, more
+  - No one knows what anything is worth
       <hr/>
       
-      - *Some time ago, I gave up on the idea of identifying a thread that could connect each story in this weekly roundup. There are no unified theories for technology news.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Click here if you want it in your inbox every Saturday morning…*
       
-  - Facebook blocks new events around DC and state capitols
+  - Human Capital: Labor issues at GitHub, Facebook's new civil rights exec and a legal battle against Prop 22
       <hr/>
       
-      - *As a precaution against coordinated violence as the US approaches President-elect Joe Biden’s inauguration, Facebook announced a few new measures it’s putting in place. In a blog post and tweets from Facebook Policy Communications Director Andy Stone, the com…*
+      - *This week kicked off with a report of a GitHub worker who was fired after cautioning his coworkers in the DC area to stay safe from Nazis during the assault on the U.S. Capitol. Meanwhile, Facebook created a new executive role pertaining to civil rights and C…*
       
-  - GitLab oversaw a $195 million secondary sale that values the company at $6 billion
+  - Stay gold, ‘Plaid for X’ startups
       <hr/>
       
-      - *GitLab has confirmed with TechCrunch that it oversaw a $195 million secondary sale that values the company at $6 billion. CNBC broke the story earlier today. The company’s impressive valuation comes after its most recent 2019 Series E in which it raised $268 …*
+      - *A failed acquisition usually triggers the same series of questions: What does this mean for early-stage startups in the sector? Will a chilling effect occur and hurt valuations? Will VCs stop funding this category? How will the exit environment look going for…*
        
-  - The pandemic was top of mind in the tech of CES 2021
+  - Startups look beyond lidar for autonomous vehicle perception
       <hr/>
        
-       - *Of course COVID-19 was bound to be an unavoidable topic during the first-ever all-virtual CES. After all, the topic is at front of mind regardless of the topic these days. Close to a year into the pandemic, presenters still understandably feel obligated to ad…*
+       - *Last CES was a time of reckoning for lidar companies, many of which were cratering due to a lack of demand from a (still) non-existent autonomous vehicle industry. The few that excelled did so by specializing, and this year the trend has pushed beyond lidar, …*
       
 
 <br />
