@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - After a record year for Israeli startups, 16 investors tell us what's next
+  - UK's Bloom & Wild raises $102M to seed its flower delivery service across Europe
      <hr/>
      
-      - *Israel’s startup ecosystem raised record amounts of funding and produced 19 IPOs in 2020, despite the pandemic. Now tech companies across industries are poised for an even better year, according to more than a dozen investors we talked to in the country. Main…*
+      - *Bloom & Wild, a London-based startup that takes an updated and online approach to the very traditional business of ordering and delivering flowers, has seen business blossom in the last year. And today, it is announcing a big round of funding to help it doubl…*
      
-  - No one knows what anything is worth
+  - Virgin Orbit reaches orbit for the first time
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Click here if you want it in your inbox every Saturday morning…*
+      - *Virgin Orbit launched its LauncherOne rocket to orbit for the first time today, with a successful demonstration mission that carried a handful of satellites and will attempt to deliver them to low Earth orbit on behalf of NASA. It’s a crucial milestone for th…*
       
-  - Human Capital: Labor issues at GitHub, Facebook's new civil rights exec and a legal battle against Prop 22
+  - GitHub's head of HR resigns in light of termination of Jewish employee
       <hr/>
       
-      - *This week kicked off with a report of a GitHub worker who was fired after cautioning his coworkers in the DC area to stay safe from Nazis during the assault on the U.S. Capitol. Meanwhile, Facebook created a new executive role pertaining to civil rights and C…*
+      - *A GitHub internal investigation has revealed the company made “significant errors of judgment and procedure” in the firing of the Jewish employee who cautioned his coworkers about the presence of Nazis in the DC area on the day of insurrection at the U.S. Cap…*
       
-  - Stay gold, ‘Plaid for X’ startups
+  - Threat of inauguration violence casts a long shadow over social media
       <hr/>
       
-      - *A failed acquisition usually triggers the same series of questions: What does this mean for early-stage startups in the sector? Will a chilling effect occur and hurt valuations? Will VCs stop funding this category? How will the exit environment look going for…*
+      - *As the U.S. heads into one of the most perilous phases of American democracy since the Civil War, social media companies are scrambling to shore up their patchwork defenses for a moment they appear to have believed would never come. Most major platforms pulle…*
        
-  - Startups look beyond lidar for autonomous vehicle perception
+  - Original Content podcast: Martin Scorsese and Fran Lebowitz have a good time in 'Pretend It's A City'
       <hr/>
        
-       - *Last CES was a time of reckoning for lidar companies, many of which were cratering due to a lack of demand from a (still) non-existent autonomous vehicle industry. The few that excelled did so by specializing, and this year the trend has pushed beyond lidar, …*
+       - *The concept behind the new Netflix documentary series “Pretend It’s A City” is pretty straightforward: Author Fran Lebowitz talks, while Martin Scorsese (who’s both director and an on-camera presence) listens and laughs. Lebowitz’s musings across seven episod…*
       
 
 <br />
