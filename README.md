@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - UK's Bloom & Wild raises $102M to seed its flower delivery service across Europe
+  - Tencent-backed Hike, once India's answer to WhatsApp, has given up on messaging
      <hr/>
      
-      - *Bloom & Wild, a London-based startup that takes an updated and online approach to the very traditional business of ordering and delivering flowers, has seen business blossom in the last year. And today, it is announcing a big round of funding to help it doubl…*
+      - *India’s answer to WhatsApp has completely moved on from messaging. Hike Messenger, backed by Tencent, Tiger Global and SoftBank and valued at $1.4 billion in 2016, earlier this month announced that it was shutting down Sticker Chat, its messaging app. The sta…*
      
-  - Virgin Orbit reaches orbit for the first time
+  - proSapient raises $10M Series A led by Smedvig Capital to expand expert network platform
       <hr/>
       
-      - *Virgin Orbit launched its LauncherOne rocket to orbit for the first time today, with a successful demonstration mission that carried a handful of satellites and will attempt to deliver them to low Earth orbit on behalf of NASA. It’s a crucial milestone for th…*
+      - *For several years there has been talk about how to leverage ‘experts’ online. How do you ‘suck their brains’ for information in an efficient manner, whether it be for research into companies or sectors, often for investment purposes. Major players in this are…*
       
-  - GitHub's head of HR resigns in light of termination of Jewish employee
+  - Samsung vice chairman Jay Y. Lee sent back to prison in bribery case
       <hr/>
       
-      - *A GitHub internal investigation has revealed the company made “significant errors of judgment and procedure” in the firing of the Jewish employee who cautioned his coworkers about the presence of Nazis in the DC area on the day of insurrection at the U.S. Cap…*
+      - *Samsung Electronics vice chairman Jay Y. Lee is back in prison following a retrial of his 2017 conviction in a bribery case that helped lead to the downfall of former South Korean president Park Guen-hye. The Seoul High Court sentenced Lee to 30 months on Mon…*
       
-  - Threat of inauguration violence casts a long shadow over social media
+  - Goama lets developers integrate a social gaming platform into their apps
       <hr/>
       
-      - *As the U.S. heads into one of the most perilous phases of American democracy since the Civil War, social media companies are scrambling to shore up their patchwork defenses for a moment they appear to have believed would never come. Most major platforms pulle…*
+      - *Goama (also known as Go Games) lets developers quickly integrate social games into their apps. Some of Goama’s clients have used it for promotional campaigns, while others rely on the platform, which introduces new games every week, to add a full-fledged gami…*
        
-  - Original Content podcast: Martin Scorsese and Fran Lebowitz have a good time in 'Pretend It's A City'
+  - Twitter is bringing Moments to Indian social app Dailyhunt
       <hr/>
        
-       - *The concept behind the new Netflix documentary series “Pretend It’s A City” is pretty straightforward: Author Fran Lebowitz talks, while Martin Scorsese (who’s both director and an on-camera presence) listens and laughs. Lebowitz’s musings across seven episod…*
+       - *Five years after its launch, Twitter Moments is growing beyond the American social networking platform. On Monday, Twitter said it had partnered with Dailyhunt to bring Moments to the Indian social app. Dailyhunt app now has a dedicated tab called ‘Twitter Mo…*
       
 
 <br />
