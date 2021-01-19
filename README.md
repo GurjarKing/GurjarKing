@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Tencent-backed Hike, once India's answer to WhatsApp, has given up on messaging
+  - Salesforce leads $15M investment round in Indian HR tech platform Darwinbox
      <hr/>
      
-      - *India’s answer to WhatsApp has completely moved on from messaging. Hike Messenger, backed by Tencent, Tiger Global and SoftBank and valued at $1.4 billion in 2016, earlier this month announced that it was shutting down Sticker Chat, its messaging app. The sta…*
+      - *Darwinbox, which operates a cloud-based human resource management platform, has raised $15 million in a new financing round as the Indian startup looks to expand beyond the country and Southeast Asian markets. The new round, a Series C, for the Hyderabad-base…*
      
-  - proSapient raises $10M Series A led by Smedvig Capital to expand expert network platform
+  - Singapore-based Volopay raises $2.1 million seed round to build a "financial control center" for businesses
       <hr/>
       
-      - *For several years there has been talk about how to leverage ‘experts’ online. How do you ‘suck their brains’ for information in an efficient manner, whether it be for research into companies or sectors, often for investment purposes. Major players in this are…*
+      - *Volopay, a Singapore-based startup building a “financial control center” for businesses, announced today it has raised $2.1 million in seed funding. The round was led by Tinder co-founder Justin Mateen, and included participation from Soma Capital, CP Venture…*
       
-  - Samsung vice chairman Jay Y. Lee sent back to prison in bribery case
+  - Gillmor Gang: Twitter+
       <hr/>
       
-      - *Samsung Electronics vice chairman Jay Y. Lee is back in prison following a retrial of his 2017 conviction in a bribery case that helped lead to the downfall of former South Korean president Park Guen-hye. The Seoul High Court sentenced Lee to 30 months on Mon…*
+      - *The best thing about 2020 is we survived it. No need to say what the worst thing is, it’s hands down our collective stupidity in the choices we’ve made. That reality has forced us to refactor what we do moving forward. If we had correctly understood the massi…*
       
-  - Goama lets developers integrate a social gaming platform into their apps
+  - Cryptocat author gets insanely fast backing to build p2p tech for social media
       <hr/>
       
-      - *Goama (also known as Go Games) lets developers quickly integrate social games into their apps. Some of Goama’s clients have used it for promotional campaigns, while others rely on the platform, which introduces new games every week, to add a full-fledged gami…*
+      - *The idea for Capsule started with a tweet about reinventing social media. A day later cryptography researcher, Nadim Kobeissi — best known for authoring the open source e2e encrypted desktop chat app Cryptocat (now discontinued) — had pulled in a pre-seed inv…*
        
-  - Twitter is bringing Moments to Indian social app Dailyhunt
+  - The Station: CES trends and Uber plots another spinoff
       <hr/>
        
-       - *Five years after its launch, Twitter Moments is growing beyond the American social networking platform. On Monday, Twitter said it had partnered with Dailyhunt to bring Moments to the Indian social app. Dailyhunt app now has a dedicated tab called ‘Twitter Mo…*
+       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi friends and new readers, welcome back to The Station, a newsletter dedicated to all the present an…*
       
 
 <br />
