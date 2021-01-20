@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - PPRO nabs $180M at a $1B+ valuation to bring together the fragmented world of payments
+  - Brave web browser adds native support for peer-to-peer IPFS protocol
      <hr/>
      
-      - *The pandemic has hastened a shift of most commerce becoming e-commerce in the last year, and that has brought a new focus on startups that are helping to enable that process. In the latest development, PPRO, a London-based startup that has built a platform to…*
+      - *The decentralized tech community is aiming to find support for technologies that go beyond cryptocurrency support. In a blog post, today the team at Brave announced that they have worked with Protocol Labs to integrate native support for the InterPlanetary Fi…*
      
-  - Calling Athens VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Elon Musk said it was 'Not a Flamethrower.'
       <hr/>
       
-      - *TechCrunch is embarking on a major project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Athens, Greece will capture how the country is faring, and what changes are bein…*
+      - *After two days locked up in an Italian prison, American Max Craddock was finally able to make his case to a judge. “It’s not a weapon of war,” his lawyer told the investigating magistrate. “It’s a toy they sell to children.” Craddock had been arrested in the …*
       
-  - India asks WhatsApp to withdraw new privacy policy, expresses 'grave concerns'
+  - Daily Crunch: Microsoft backs Cruise
       <hr/>
       
-      - *India has asked WhatsApp to withdraw the planned change to its privacy policy, posing a new headache to Facebook-owned service that identifies the South Asian nation as its biggest market by users. In an email to WhatsApp head Will Cathcart, the nation’s IT m…*
+      - *Autonomous vehicle company Cruise raises a $2 billion new round, Netflix keeps growing and WhatsApp faces more privacy concerns. This is your Daily Crunch for January 19, 2021. The big story: Microsoft backs Cruise Cruise announced today that it has raised $2…*
       
-  - Spain's Glovo inks real-estate tie-up to add more dark stores for speedy urban delivery
+  - Podchaser raises $4m to build a comprehensive podcast database
       <hr/>
       
-      - *Spain’s Glovo, an on-demand delivery app, has announced a strategic partnership with Swiss-based real estate firm, Stoneweg. The deal will see the latter invest €100M in building and refurbishing “prime city real estate” in some of Glovo’s key markets as the …*
+      - *Podchaser, a startup building what it calls “IMDB for podcasts,” recently announced that it has raised $4 million in a funding round led by Greycroft. In other words, it’s a site where — similar to the Amazon-owned Internet Movie Database — users can look up …*
        
-  - Qualcomm-backed chipmaker Kneron nails Foxconn funding, deal
+  - Adthena acquires Kantar's paid search business
       <hr/>
        
-       - *A startup based out of San Diego and Taipei is quietly nailing fundings and deals from some of the biggest names in electronics. Kneron, which specializes in energy-efficient processors for edge artificial intelligence, just raised a strategic funding round f…*
+       - *Adthena is expanding its partnership with market research company Kantar by acquiring Kantar’s paid search business. The two companies announced an agreement earlier this month, through which Adthena data will be integrated into Kantar’s ad intelligence produ…*
       
 
 <br />
