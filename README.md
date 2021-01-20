@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Brave web browser adds native support for peer-to-peer IPFS protocol
+  - HiPeople picks up $3M seed to automate reference checks
      <hr/>
      
-      - *The decentralized tech community is aiming to find support for technologies that go beyond cryptocurrency support. In a blog post, today the team at Brave announced that they have worked with Protocol Labs to integrate native support for the InterPlanetary Fi…*
+      - *HiPeople, a HR tech startup based in Berlin that wants to automate the reference checking process, has raised $3 million in seed funding. Leading the round is Mattias Ljungman’s Moonfire, with participation from Capnamic Ventures, and Cherry Ventures. It foll…*
      
-  - Elon Musk said it was 'Not a Flamethrower.'
+  - Alibaba shares jump on Jack Ma's first appearance in 3 months
       <hr/>
       
-      - *After two days locked up in an Italian prison, American Max Craddock was finally able to make his case to a judge. “It’s not a weapon of war,” his lawyer told the investigating magistrate. “It’s a toy they sell to children.” Craddock had been arrested in the …*
+      - *Alibaba’s billionaire founder resurfaced as he spoke to 100 rural teachers through a video call, three months after his last public appearance in October, sending the e-commerce firm’s shares up more than 8% in Hong Kong. A recording of the call was first pos…*
       
-  - Daily Crunch: Microsoft backs Cruise
+  - Landbot closes $8M Series A for its 'no code' chatbot builder
       <hr/>
       
-      - *Autonomous vehicle company Cruise raises a $2 billion new round, Netflix keeps growing and WhatsApp faces more privacy concerns. This is your Daily Crunch for January 19, 2021. The big story: Microsoft backs Cruise Cruise announced today that it has raised $2…*
+      - *Barcelona-based Landbot, a ‘no-code’ chatbot builder, has bagged a $8M Series A led by the Spanish-Israeli VC firm Swanlaab, alongside support from Spain’s innovation-focused public agency, CDTI. Previous investors Nauta Capital, Encomenda and Bankinter also …*
       
-  - Podchaser raises $4m to build a comprehensive podcast database
+  - Former Google engineer Anthony Levandowski among list of last-minute Trump pardons
       <hr/>
       
-      - *Podchaser, a startup building what it calls “IMDB for podcasts,” recently announced that it has raised $4 million in a funding round led by Greycroft. In other words, it’s a site where — similar to the Amazon-owned Internet Movie Database — users can look up …*
+      - *Anthony Levandowski, the former Google engineer and serial entrepreneur who had been sentenced to 18 months in prison on one count of stealing trade secrets, has received a pardon from President Donald Trump. The full pardon, which was one of 73 issued late T…*
        
-  - Adthena acquires Kantar's paid search business
+  - Wattpad, the storytelling platform, is selling to South Korea's Naver for $600 million
       <hr/>
        
-       - *Adthena is expanding its partnership with market research company Kantar by acquiring Kantar’s paid search business. The two companies announced an agreement earlier this month, through which Adthena data will be integrated into Kantar’s ad intelligence produ…*
+       - *Wattpad, a 14-year-old, Toronto-based, venture-backed storytelling platform with reach into a number of verticals, is being acquired Naver, the South Korean conglomerate, in a $600 million cash-and-stock deal. Naver plans to incorporate at least part of the b…*
       
 
 <br />
