@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Genflow nabs $11M investment from BGF
+  - Google inks agreement in France on paying publishers for news reuse
      <hr/>
      
-      - *Genflow, a London and L.A.-based brand building agency that offers an e-commerce and mobile tech platform to let influencers start companies, has raised $11 million in funding. Leading the round is U.K. investor BGF. The injection of capital will be used by G…*
+      - *Google has reached an agreement with an association of French publishers over how it will be pay for reuse of snippets of their content. This is a result of application of a ‘neighbouring right’ for news which was transposed into national law following a pan-…*
      
-  - Daily Crunch: Trump pardons Anthony Levandowski
+  - Israel's startup ecosystem powers ahead, amid a year of change
       <hr/>
       
-      - *On his way out the door, President Donald Trump pardons a former Googler, Jack Ma reappears and Wattpad gets acquired. This is your Daily Crunch for January 20, 2021. The big story: Trump pardons Anthony Levandowski Although Donald Trump is no longer presiden…*
+      - *But it’s been hard to argue against this position in the last ten years, as the country powered ahead, famously producing ground-breaking startups like Waze, which was eventually picked up by Google for over $1 billion in 2013. Waze’s 100 employees received a…*
       
-  - Curtsy, a clothing resale app aimed at Gen Z women, raises $11 million Series A
+  - Financial forecasting startup Springbox AI launches its apps and raises $2M
       <hr/>
       
-      - *Curtsy, a clothing resale app and competitor to recently IPO’d Poshmark, announced today it has raised $11 million in Series A funding for its startup focused on the Gen Z market. The app, which evolved out of an earlier effort for renting dresses, now allows…*
+      - *Springbox AI, an AI-powered financial forecasting application designed to replace financial market investment service and aimed at the average financial markets trader, has launched on iOS and Android. It’s been built by a team of founders who previously work…*
       
-  - African edtech startup uLesson lands a $7.5 million Series A
+  - Raspberry Pi Foundation launches $4 microcontroller with custom chip
       <hr/>
       
-      - *ULesson, an edtech startup based in Nigeria that sells digital curriculum to students through SD cards, has raised $7.5 million in Series A funding. The round is led by Owl Ventures, which closed over half a billion in new fund money just months ago. Other pa…*
+      - *Meet the Raspberry Pi Pico, a tiny little microcontroller that lets you build hardware projects with some code running on the microcontroller. Even more interesting, the Raspberry Pi Foundation is using its own RP2040 chip, which means that the foundation is …*
        
-  - Amazon offers Biden resources for Covid-19 vaccine rollout
+  - Porsche and Axel Springer increase investment into their APX accelerator to €55M
       <hr/>
        
-       - *Following Joseph Biden’s swearing in as the 46th President of the United States, Amazon is offering help in the administration’s stated goals for rolling out the Covid-19 vaccine. In a letter provided to TechCrunch, Worldwide Consumer CEO Dave Clark congratul…*
+       - *Berlin-based early-stage fund APX today announced that its two investors, European publisher Axel Springer and sports car maker Porsche, have increased their investment in the fund to a total of €55 million. With this, APX, which launched in 2018, is now able…*
       
 
 <br />
