@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - HiPeople picks up $3M seed to automate reference checks
+  - Genflow nabs $11M investment from BGF
      <hr/>
      
-      - *HiPeople, a HR tech startup based in Berlin that wants to automate the reference checking process, has raised $3 million in seed funding. Leading the round is Mattias Ljungman’s Moonfire, with participation from Capnamic Ventures, and Cherry Ventures. It foll…*
+      - *Genflow, a London and L.A.-based brand building agency that offers an e-commerce and mobile tech platform to let influencers start companies, has raised $11 million in funding. Leading the round is U.K. investor BGF. The injection of capital will be used by G…*
      
-  - Alibaba shares jump on Jack Ma's first appearance in 3 months
+  - Daily Crunch: Trump pardons Anthony Levandowski
       <hr/>
       
-      - *Alibaba’s billionaire founder resurfaced as he spoke to 100 rural teachers through a video call, three months after his last public appearance in October, sending the e-commerce firm’s shares up more than 8% in Hong Kong. A recording of the call was first pos…*
+      - *On his way out the door, President Donald Trump pardons a former Googler, Jack Ma reappears and Wattpad gets acquired. This is your Daily Crunch for January 20, 2021. The big story: Trump pardons Anthony Levandowski Although Donald Trump is no longer presiden…*
       
-  - Landbot closes $8M Series A for its 'no code' chatbot builder
+  - Curtsy, a clothing resale app aimed at Gen Z women, raises $11 million Series A
       <hr/>
       
-      - *Barcelona-based Landbot, a ‘no-code’ chatbot builder, has bagged a $8M Series A led by the Spanish-Israeli VC firm Swanlaab, alongside support from Spain’s innovation-focused public agency, CDTI. Previous investors Nauta Capital, Encomenda and Bankinter also …*
+      - *Curtsy, a clothing resale app and competitor to recently IPO’d Poshmark, announced today it has raised $11 million in Series A funding for its startup focused on the Gen Z market. The app, which evolved out of an earlier effort for renting dresses, now allows…*
       
-  - Former Google engineer Anthony Levandowski among list of last-minute Trump pardons
+  - African edtech startup uLesson lands a $7.5 million Series A
       <hr/>
       
-      - *Anthony Levandowski, the former Google engineer and serial entrepreneur who had been sentenced to 18 months in prison on one count of stealing trade secrets, has received a pardon from President Donald Trump. The full pardon, which was one of 73 issued late T…*
+      - *ULesson, an edtech startup based in Nigeria that sells digital curriculum to students through SD cards, has raised $7.5 million in Series A funding. The round is led by Owl Ventures, which closed over half a billion in new fund money just months ago. Other pa…*
        
-  - Wattpad, the storytelling platform, is selling to South Korea's Naver for $600 million
+  - Amazon offers Biden resources for Covid-19 vaccine rollout
       <hr/>
        
-       - *Wattpad, a 14-year-old, Toronto-based, venture-backed storytelling platform with reach into a number of verticals, is being acquired Naver, the South Korean conglomerate, in a $600 million cash-and-stock deal. Naver plans to incorporate at least part of the b…*
+       - *Following Joseph Biden’s swearing in as the 46th President of the United States, Amazon is offering help in the administration’s stated goals for rolling out the Covid-19 vaccine. In a letter provided to TechCrunch, Worldwide Consumer CEO Dave Clark congratul…*
       
 
 <br />
