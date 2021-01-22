@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Telehealth startup Hims fell in its public trading debut -- and that's fine with its CEO
+  - Privacy complaint targets European parliament's COVID-19 test-booking site
      <hr/>
      
-      - *Hims & Hers, a San Francisco-based telehealth startup that sells sexual wellness and other health products and services to millennials, began trading publicly today on the NYSE after completing a reverse merger with the blank-check company Oaktree Acquisition…*
+      - *The European Parliament is being investigated by the EU’s lead data regulator over a complaint that a website it set up for MEPs to book coronavirus tests may have violated data protection laws. The complaint, which has been filed by six MEPs and is being sup…*
      
-  - The only take about the future of media is that media is the future
+  - Didi to subsidize trips for vaccinations with $10M global fund
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture-capital-focused podcast, where we unpack the numbers behind the headlines. This week we — Natasha and Danny and Alex and Grace — had more than a little to noodle over, but not so much that we blocked out …*
+      - *As countries around the world prepare to vaccinate people against the coronavirus, tech companies are rushing to demonstrate their willingness to help fight the deadly virus. China’s ride-hailing leader Didi Chuxing is pledging a $10 million fund to support C…*
       
-  - Daily Crunch: Apple might be working on a VR headset
+  - China's draft payments rules put Ant, Tencent on notice
       <hr/>
       
-      - *A new report suggests there’s a pricey Apple VR headset in the works, Facebook’s Oversight Board will examine one of the social network’s most consequential decisions and we review the Samsung Galaxy S21 Ultra. This is your Daily Crunch for January 21, 2021. …*
+      - *A string of recent events in China’s payments industry suggests the duopoly comprising Ant Group and Tencent may be getting a shakeup. Following the abrupt call-off of Ant’s public sale and a government directive to reform the firm’s business, the Chinese aut…*
       
-  - IBM transformation struggles continue with cloud and AI revenue down 4.5%
+  - JustKitchen is using cloud kitchens to create the next generation of restaurant franchising
       <hr/>
       
-      - *A couple of months ago at CNBC’s Transform conference, IBM CEO Arvind Krishna painted a picture of a company in the midst of a transformation. He said that he wanted to take advantage of IBM’s $34 billion 2018 Red Hat acquisition to help customers manage a gr…*
+      - *JustKitchen operates cloud kitchens, but the company goes beyond providing cooking facilities for delivery meals. Instead, it sees food as a content play, with recipes and branding instead of music or shows as the content, and wants to create the next iterati…*
        
-  - Judge denies Parler's bid to make Amazon restore service
+  - Elon Musk is donating $100M to find the best carbon capture technology
       <hr/>
        
-       - *A federal judge has denied an attempt by conservative social network Parler to force Amazon to host it on AWS. As expected by most who read Parler’s ramshackle legal arguments, the court found nothing in the lawsuit that could justify intervention, only “fain…*
+       - *Elon Musk said Thursday via a tweet that he will donate $100 million toward a prize for the best carbon capture technology. Musk, who recently surpassed Amazon’s Jeff Bezos to become the world’s richest person, didn’t provide any more details except to add in…*
       
 
 <br />
