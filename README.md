@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google inks agreement in France on paying publishers for news reuse
+  - Telehealth startup Hims fell in its public trading debut -- and that's fine with its CEO
      <hr/>
      
-      - *Google has reached an agreement with an association of French publishers over how it will be pay for reuse of snippets of their content. This is a result of application of a ‘neighbouring right’ for news which was transposed into national law following a pan-…*
+      - *Hims & Hers, a San Francisco-based telehealth startup that sells sexual wellness and other health products and services to millennials, began trading publicly today on the NYSE after completing a reverse merger with the blank-check company Oaktree Acquisition…*
      
-  - Israel's startup ecosystem powers ahead, amid a year of change
+  - The only take about the future of media is that media is the future
       <hr/>
       
-      - *But it’s been hard to argue against this position in the last ten years, as the country powered ahead, famously producing ground-breaking startups like Waze, which was eventually picked up by Google for over $1 billion in 2013. Waze’s 100 employees received a…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture-capital-focused podcast, where we unpack the numbers behind the headlines. This week we — Natasha and Danny and Alex and Grace — had more than a little to noodle over, but not so much that we blocked out …*
       
-  - Financial forecasting startup Springbox AI launches its apps and raises $2M
+  - Daily Crunch: Apple might be working on a VR headset
       <hr/>
       
-      - *Springbox AI, an AI-powered financial forecasting application designed to replace financial market investment service and aimed at the average financial markets trader, has launched on iOS and Android. It’s been built by a team of founders who previously work…*
+      - *A new report suggests there’s a pricey Apple VR headset in the works, Facebook’s Oversight Board will examine one of the social network’s most consequential decisions and we review the Samsung Galaxy S21 Ultra. This is your Daily Crunch for January 21, 2021. …*
       
-  - Raspberry Pi Foundation launches $4 microcontroller with custom chip
+  - IBM transformation struggles continue with cloud and AI revenue down 4.5%
       <hr/>
       
-      - *Meet the Raspberry Pi Pico, a tiny little microcontroller that lets you build hardware projects with some code running on the microcontroller. Even more interesting, the Raspberry Pi Foundation is using its own RP2040 chip, which means that the foundation is …*
+      - *A couple of months ago at CNBC’s Transform conference, IBM CEO Arvind Krishna painted a picture of a company in the midst of a transformation. He said that he wanted to take advantage of IBM’s $34 billion 2018 Red Hat acquisition to help customers manage a gr…*
        
-  - Porsche and Axel Springer increase investment into their APX accelerator to €55M
+  - Judge denies Parler's bid to make Amazon restore service
       <hr/>
        
-       - *Berlin-based early-stage fund APX today announced that its two investors, European publisher Axel Springer and sports car maker Porsche, have increased their investment in the fund to a total of €55 million. With this, APX, which launched in 2018, is now able…*
+       - *A federal judge has denied an attempt by conservative social network Parler to force Amazon to host it on AWS. As expected by most who read Parler’s ramshackle legal arguments, the court found nothing in the lawsuit that could justify intervention, only “fain…*
       
 
 <br />
