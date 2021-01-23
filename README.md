@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Alphabet shuts down Loon
+  - How fintech and serial founders drove African pre-seed investing to new heights in 2020
      <hr/>
      
-      - *Alphabet pulls the plug on its internet balloon company, Apple is reportedly developing a new MacBook Air and Google threatens to pull out of Australia. This is your Daily Crunch for January 22, 2021. The big story: Alphabet shuts down Loon Alphabet announced…*
+      - *When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity. But over the years, those same s…*
      
+  - Is anything too big to be SPAC'd?
+      <hr/>
+      
+      - *While many deemed 2020 the year of SPAC, short for special purpose acquisition company, 2021 may well make last year look quaint in comparison. It’s probably not premature to be asking: is anything too big to be SPAC’d? Just today, we saw the trading debut of…*
+      
+  - Daily Crunch: Alphabet shuts down Loon
+      <hr/>
+      
+      - *Alphabet pulls the plug on its internet balloon company, Apple is reportedly developing a new MacBook Air and Google threatens to pull out of Australia. This is your Daily Crunch for January 22, 2021. The big story: Alphabet shuts down Loon Alphabet announced…*
+      
   - The far right's favorite registrar is building 'censorship-resistant' servers
       <hr/>
       
       - *Almost half the global population currently has no internet access, and many who do cannot freely access all information sources.*
-      
+       
   - End-to-end operators are the next generation of consumer business
       <hr/>
-      
-      - *These businesses are fundamentally reimagining their product experience by owning the entire value chain from end to end, thereby creating a step-functionally better experience for consumers.*
-      
-  - Extra Crunch roundup: Digital health VC survey, edtech M&A, deep tech marketing, more
-      <hr/>
-      
-      - *Speaking as an unvaccinated urban dweller: I'd rather speak to a nurse or doctor via my laptop than try to remain physically distanced on a bus or hailed ride traveling to/from their office.*
        
-  - Backed by Vint Cerf, Emortal wants to protect your digital legacy from 'bit-rot'
-      <hr/>
-       
-       - *We are all pumping out data into the cloud. Some of it we’d like to keep forever. Emortal is a startup that wants to help you organize, protect, preserve and pass on your ‘digital legacy’ and protect it from becoming unreadable, otherwise known as ‘bit-rot’. …*
+       - *These businesses are fundamentally reimagining their product experience by owning the entire value chain from end to end, thereby creating a step-functionally better experience for consumers.*
       
 
 <br />
