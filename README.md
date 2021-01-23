@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Privacy complaint targets European parliament's COVID-19 test-booking site
+  - Daily Crunch: Alphabet shuts down Loon
      <hr/>
      
-      - *The European Parliament is being investigated by the EU’s lead data regulator over a complaint that a website it set up for MEPs to book coronavirus tests may have violated data protection laws. The complaint, which has been filed by six MEPs and is being sup…*
+      - *Alphabet pulls the plug on its internet balloon company, Apple is reportedly developing a new MacBook Air and Google threatens to pull out of Australia. This is your Daily Crunch for January 22, 2021. The big story: Alphabet shuts down Loon Alphabet announced…*
      
-  - Didi to subsidize trips for vaccinations with $10M global fund
+  - The far right's favorite registrar is building 'censorship-resistant' servers
       <hr/>
       
-      - *As countries around the world prepare to vaccinate people against the coronavirus, tech companies are rushing to demonstrate their willingness to help fight the deadly virus. China’s ride-hailing leader Didi Chuxing is pledging a $10 million fund to support C…*
+      - *Almost half the global population currently has no internet access, and many who do cannot freely access all information sources.*
       
-  - China's draft payments rules put Ant, Tencent on notice
+  - End-to-end operators are the next generation of consumer business
       <hr/>
       
-      - *A string of recent events in China’s payments industry suggests the duopoly comprising Ant Group and Tencent may be getting a shakeup. Following the abrupt call-off of Ant’s public sale and a government directive to reform the firm’s business, the Chinese aut…*
+      - *These businesses are fundamentally reimagining their product experience by owning the entire value chain from end to end, thereby creating a step-functionally better experience for consumers.*
       
-  - JustKitchen is using cloud kitchens to create the next generation of restaurant franchising
+  - Extra Crunch roundup: Digital health VC survey, edtech M&A, deep tech marketing, more
       <hr/>
       
-      - *JustKitchen operates cloud kitchens, but the company goes beyond providing cooking facilities for delivery meals. Instead, it sees food as a content play, with recipes and branding instead of music or shows as the content, and wants to create the next iterati…*
+      - *Speaking as an unvaccinated urban dweller: I'd rather speak to a nurse or doctor via my laptop than try to remain physically distanced on a bus or hailed ride traveling to/from their office.*
        
-  - Elon Musk is donating $100M to find the best carbon capture technology
+  - Backed by Vint Cerf, Emortal wants to protect your digital legacy from 'bit-rot'
       <hr/>
        
-       - *Elon Musk said Thursday via a tweet that he will donate $100 million toward a prize for the best carbon capture technology. Musk, who recently surpassed Amazon’s Jeff Bezos to become the world’s richest person, didn’t provide any more details except to add in…*
+       - *We are all pumping out data into the cloud. Some of it we’d like to keep forever. Emortal is a startup that wants to help you organize, protect, preserve and pass on your ‘digital legacy’ and protect it from becoming unreadable, otherwise known as ‘bit-rot’. …*
       
 
 <br />
