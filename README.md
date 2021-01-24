@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Instacart to eliminate about 2,000 jobs and GitHub head of HR resigns
+  - 8 investors tell us the story behind the Romanian startup boom
      <hr/>
      
-      - *Hey y’all. You’ve just landed on Human Capital, the weekly newsletter that details the latest in labor, and diversity and inclusion in tech. The week kicked off with GitHub making a public apology to the person the company terminated for cautioning his employ…*
+      - *With record funding levels and three unicorns to show, local investors are buoyant about Romania’s prospects heading into 2021. We caught up with eight of them recently, and heard how the country’s technical talent pool, broadband access and low cost of livin…*
      
+  - Instacart to eliminate about 2,000 jobs and GitHub head of HR resigns
+      <hr/>
+      
+      - *Hey y’all. You’ve just landed on Human Capital, the weekly newsletter that details the latest in labor, and diversity and inclusion in tech. The week kicked off with GitHub making a public apology to the person the company terminated for cautioning his employ…*
+      
   - How VCs and founders see 2021 differently
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Howdy friends, this is the web version of my Week in Review newsletter, it’s here to entice you to sign up and get it in your inbox every week. Last week, I showcased how Twitter was looking at the future of the web with a decentralized approach so that they …*
-      
+       
   - Work trips are making a $5 billion comeback
       <hr/>
-      
-      - *Would you bet millions of dollars on a corporate travel comeback? Doesn’t matter. Andreessen Horowitz, Addition and Elad Gil are anyways. This week, the trio led a nine-figure financing round in TripActions, a software company that helps other companies book …*
        
-  - Original Content podcast: 'Bridgerton' is an addictive reimagining of Jane Austen-style romance
-      <hr/>
-       
-       - *“Bridgerton,” the Shondaland drama that launched last month on Netflix, offers a few key updates to the standard formula of Regency-era  romance. For one thing, there’s a racially diverse cast, with Black actors taking on the role of early 19th-century Englis…*
+       - *Would you bet millions of dollars on a corporate travel comeback? Doesn’t matter. Andreessen Horowitz, Addition and Elad Gil are anyways. This week, the trio led a nine-figure financing round in TripActions, a software company that helps other companies book …*
       
 
 <br />
