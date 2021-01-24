@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - How fintech and serial founders drove African pre-seed investing to new heights in 2020
+  - Instacart to eliminate about 2,000 jobs and GitHub head of HR resigns
      <hr/>
      
-      - *When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity. But over the years, those same s…*
+      - *Hey y’all. You’ve just landed on Human Capital, the weekly newsletter that details the latest in labor, and diversity and inclusion in tech. The week kicked off with GitHub making a public apology to the person the company terminated for cautioning his employ…*
      
-  - Is anything too big to be SPAC'd?
+  - How VCs and founders see 2021 differently
       <hr/>
       
-      - *While many deemed 2020 the year of SPAC, short for special purpose acquisition company, 2021 may well make last year look quaint in comparison. It’s probably not premature to be asking: is anything too big to be SPAC’d? Just today, we saw the trading debut of…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Click here if you want it in your inbox every Saturday morning…*
       
-  - Daily Crunch: Alphabet shuts down Loon
+  - Augmented reality and the next century of the web
       <hr/>
       
-      - *Alphabet pulls the plug on its internet balloon company, Apple is reportedly developing a new MacBook Air and Google threatens to pull out of Australia. This is your Daily Crunch for January 22, 2021. The big story: Alphabet shuts down Loon Alphabet announced…*
+      - *Howdy friends, this is the web version of my Week in Review newsletter, it’s here to entice you to sign up and get it in your inbox every week. Last week, I showcased how Twitter was looking at the future of the web with a decentralized approach so that they …*
       
-  - The far right's favorite registrar is building 'censorship-resistant' servers
+  - Work trips are making a $5 billion comeback
       <hr/>
       
-      - *Almost half the global population currently has no internet access, and many who do cannot freely access all information sources.*
+      - *Would you bet millions of dollars on a corporate travel comeback? Doesn’t matter. Andreessen Horowitz, Addition and Elad Gil are anyways. This week, the trio led a nine-figure financing round in TripActions, a software company that helps other companies book …*
        
-  - End-to-end operators are the next generation of consumer business
+  - Original Content podcast: 'Bridgerton' is an addictive reimagining of Jane Austen-style romance
       <hr/>
        
-       - *These businesses are fundamentally reimagining their product experience by owning the entire value chain from end to end, thereby creating a step-functionally better experience for consumers.*
+       - *“Bridgerton,” the Shondaland drama that launched last month on Netflix, offers a few key updates to the standard formula of Regency-era  romance. For one thing, there’s a racially diverse cast, with Black actors taking on the role of early 19th-century Englis…*
       
 
 <br />
