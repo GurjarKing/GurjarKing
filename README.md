@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 8 investors tell us the story behind the Romanian startup boom
+  - Wingcopter raises $22 million to expand to the U.S. and launch a next-generation drone
      <hr/>
      
-      - *With record funding levels and three unicorns to show, local investors are buoyant about Romania’s prospects heading into 2021. We caught up with eight of them recently, and heard how the country’s technical talent pool, broadband access and low cost of livin…*
+      - *German drone technology startup Wingcopter has raised a $22 million Series A – its first significant venture capital raise after mostly bootstrapping. The company, which focuses on drone delivery, has come a long way since its founding in 2017, having develop…*
      
-  - Instacart to eliminate about 2,000 jobs and GitHub head of HR resigns
+  - Clubhouse announces plans for creator payments and raises new funding led by Andreessen Horowitz
       <hr/>
       
-      - *Hey y’all. You’ve just landed on Human Capital, the weekly newsletter that details the latest in labor, and diversity and inclusion in tech. The week kicked off with GitHub making a public apology to the person the company terminated for cautioning his employ…*
+      - *Buzzy live voice chat app Clubhouse has confirmed that it has raised new funding – without revealing how much – in a Series B round led by Andreessen Horowitz through the firm’s partner Andrew Chen. The app was reported to be raising at a $1 billion valuation…*
       
-  - How VCs and founders see 2021 differently
+  - SpaceX sets new record for most satellites on a single launch with latest Falcon 9 mission
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Click here if you want it in your inbox every Saturday morning…*
+      - *SpaceX has set a new all-time record for the most satellites launched and deployed on a single mission, with its Transporter-1 flight on Sunday. The launch was the first of SpaceX’s dedicated rideshare missions, in which it splits up the payload capacity of i…*
       
-  - Augmented reality and the next century of the web
+  - How emerging markets are approaching crypto
       <hr/>
       
-      - *Howdy friends, this is the web version of my Week in Review newsletter, it’s here to entice you to sign up and get it in your inbox every week. Last week, I showcased how Twitter was looking at the future of the web with a decentralized approach so that they …*
+      - *From Brazil to Nigeria, people turn to bitcoin because it’s the most advantageous way for them to conduct international transactions.*
        
-  - Work trips are making a $5 billion comeback
+  - Watch SpaceX's first dedicated rideshare rocket launch live, carrying a record-breaking payload of satellites
       <hr/>
        
-       - *Would you bet millions of dollars on a corporate travel comeback? Doesn’t matter. Andreessen Horowitz, Addition and Elad Gil are anyways. This week, the trio led a nine-figure financing round in TripActions, a software company that helps other companies book …*
+       - *SpaceX is set to launch the very first of its dedicated rideshare missions – an offering it introduced in 2019 that allows small satellite operators to book a portion of a payload on a Falcon 9 launch. SpaceX’s rocket has a relatively high payload capacity co…*
       
 
 <br />
