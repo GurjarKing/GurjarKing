@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Wingcopter raises $22 million to expand to the U.S. and launch a next-generation drone
+  - Wolt closes $530M round to continue expanding beyond restaurant delivery
      <hr/>
      
-      - *German drone technology startup Wingcopter has raised a $22 million Series A – its first significant venture capital raise after mostly bootstrapping. The company, which focuses on drone delivery, has come a long way since its founding in 2017, having develop…*
+      - *Wolt, the Helsinki-based online ordering and delivery company that initially focused on restaurants but has since expanded to other verticals, has raised $530 million in new funding. The round was led by Iconiq Growth, with participation from Tiger Global, DS…*
      
-  - Clubhouse announces plans for creator payments and raises new funding led by Andreessen Horowitz
+  - Taboola is going public via SPAC
       <hr/>
       
-      - *Buzzy live voice chat app Clubhouse has confirmed that it has raised new funding – without revealing how much – in a Series B round led by Andreessen Horowitz through the firm’s partner Andrew Chen. The app was reported to be raising at a $1 billion valuation…*
+      - *Taboola is the latest company seeking to go public via special purpose acquisition corporation — more commonly known as a SPAC. To achieve this, it will merge with ION Acquisition Corp, which went public in 2020 with the aim of funding an Israeli tech acquisi…*
       
-  - SpaceX sets new record for most satellites on a single launch with latest Falcon 9 mission
+  - Google pledges grants and facilities for COVID-19 vaccine programs
       <hr/>
       
-      - *SpaceX has set a new all-time record for the most satellites launched and deployed on a single mission, with its Transporter-1 flight on Sunday. The launch was the first of SpaceX’s dedicated rideshare missions, in which it splits up the payload capacity of i…*
+      - *Google said today it is taking several steps to help with COVID-19 vaccine distribution in the United States, including grants and opening its facilities to vaccination programs. The tech giant is among several other large corporations, including Amazon, Walm…*
       
-  - How emerging markets are approaching crypto
+  - Virtual social network IMVU raises $35M from China's NetEase and others
       <hr/>
       
-      - *From Brazil to Nigeria, people turn to bitcoin because it’s the most advantageous way for them to conduct international transactions.*
+      - *The line between social networking and gaming is increasingly blurring, and internet incumbents are taking notice. NetEase, the second-largest gaming company in China behind Tencent, is among a group of investors who just backed IMVU, an avatar-focused social…*
        
-  - Watch SpaceX's first dedicated rideshare rocket launch live, carrying a record-breaking payload of satellites
+  - Sano Genetics, a startup helping with Long Covid research, raises £2.5M in seed funding
       <hr/>
        
-       - *SpaceX is set to launch the very first of its dedicated rideshare missions – an offering it introduced in 2019 that allows small satellite operators to book a portion of a payload on a Falcon 9 launch. SpaceX’s rocket has a relatively high payload capacity co…*
+       - *Sano Genetics, a startup with a broad mission to support personalised medicine research by increasing participation in clinical trials, has raised £2.5 million in seed funding. The round is led by Episode1 Ventures, alongside Seedcamp, Cambridge Enterprise, J…*
       
 
 <br />
