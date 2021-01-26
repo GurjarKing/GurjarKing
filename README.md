@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook News launches in the UK, its first market outside of the US for the curated news portal
+  - Fleksy adds an art marketplace to spice up its keyboard app
      <hr/>
      
-      - *As the United Kingdom prepares to sharpen its focus on how it regulates big tech companies, Facebook is taking a big step up in the role it plays in presenting media to the U.K. public, and into how it works with the country’s media industry. Today it is laun…*
+      - *Fleksy, an autocorrecting AI keyboard which competes with big-guns like Google’s Gboard and Microsoft’s Swiftkey, has a new way to catch users’ eyes: Art keyboards. It’s just launched FleksyArt: A marketplace for artists to sell digital works to its users so …*
      
-  - Debunk, don't 'prebunk,' and other psychology lessons for social media moderation
+  - Grindr on the hook for €10M over GDPR consent violations
       <hr/>
       
-      - *If social networks and other platforms are to get a handle on disinformation, it’s not enough to know what it is — you have to know how people react to it. Researchers at MIT and Cornell have some surprising but subtle findings that may affect how Twitter and…*
+      - *Grindr, a gay, bi, trans and queer hook-up app, is on the hook for a penalty of NOK100,000,000 (aka €10M or ~$12.1M) in Europe. Norway’s data protection agency has announced it’s notified the US-based company of its intention to issue the fine in relation to …*
       
-  - Daily Crunch:  Twitter unveils Birdwatch
+  - Atomico promotes SaaS and enterprise-focussed investor Ben Blume to partner
       <hr/>
       
-      - *Twitter pilots a new tool to fight disinformation, Apple brings celebrity-guided walks to the Apple Watch and Clubhouses raises funding. This is your Daily Crunch for January 25, 2021. The big story: Twitter unveils Birdwatch Twitter launched a new product to…*
+      - *Atomico, the European venture capital fund that typically invests at Series A and Series B, has made a number of internal promotions, including making SaaS and enterprise-focussed investor Ben Blume a partner at the firm. The step up from principal to partner…*
       
-  - Smart lock maker Latch teams with real estate firm to go public via SPAC
+  - A look at the soaring valuations of Rivian and Cruise with transportation VC Reilly Brennan
       <hr/>
       
-      - *This week, Latch becomes the latest company to join the SPAC parade. Founded in 2014, the New York-based company came out of stealth two years later, launching a smart lock system. Though, like many companies primarily known for hardware solutions, Latch says…*
+      - *Reilly Brennan loves cars. The native Michigander happily did grunt work for an automotive magazine as an undergrad at the University of Michigan before landing a gig as a trackside communications manager at General Motors, spending a few years as an editor a…*
        
-  - Fintechs could see $100 billion of liquidity in 2021
+  - Berlin's Remagine secures $24M to finance high-growth and impact-led startups
       <hr/>
        
-       - *We believe one of the most important trends to gain traction in the last three years to be point-of-sale financing, now referred to as Buy Now Pay Later (BNPL).*
+       - *Remagine, a financing platform offering banking services to high-growth companies with an ‘impact’ twist, has raised €20 million ($24M) in a Seed funding round. The Berlin-based startup has been operating in stealth mode, but already has 20 clients under its …*
       
 
 <br />
