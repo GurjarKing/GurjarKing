@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Fleksy adds an art marketplace to spice up its keyboard app
+  - Sila Nanotechnologies raises $590M to fund battery materials factory
      <hr/>
      
-      - *Fleksy, an autocorrecting AI keyboard which competes with big-guns like Google’s Gboard and Microsoft’s Swiftkey, has a new way to catch users’ eyes: Art keyboards. It’s just launched FleksyArt: A marketplace for artists to sell digital works to its users so …*
+      - *Sila Nanotechnologies, a Silicon Valley battery materials company, has spent years developing technology designed to pack more energy into a cell at a lower cost — an end game that has helped it lock in partnerships with Amperex Technology Limited as well as …*
      
-  - Grindr on the hook for €10M over GDPR consent violations
+  - Daily Crunch: Calendly valued at $3B
       <hr/>
       
-      - *Grindr, a gay, bi, trans and queer hook-up app, is on the hook for a penalty of NOK100,000,000 (aka €10M or ~$12.1M) in Europe. Norway’s data protection agency has announced it’s notified the US-based company of its intention to issue the fine in relation to …*
+      - *A popular scheduling startup raises a big funding round, Twitter makes a newsletter acquisition and Beyond Meat teams up with PepsiCo. This is your Daily Crunch for January 26, 2021. The big story: Calendly valued at $3B Calendly, which helps users schedule a…*
       
-  - Atomico promotes SaaS and enterprise-focussed investor Ben Blume to partner
+  - Apple just had its best quarter in India
       <hr/>
       
-      - *Atomico, the European venture capital fund that typically invests at Series A and Series B, has made a number of internal promotions, including making SaaS and enterprise-focussed investor Ben Blume a partner at the firm. The step up from principal to partner…*
+      - *When Apple reports its earnings on Wednesday, you can expect mentions of India on the call. Apple shipped more than 1.5 million iPhone units in India in the quarter that ended in December, up 100% year-on-year, making this its best quarter in the world’s larg…*
       
-  - A look at the soaring valuations of Rivian and Cruise with transportation VC Reilly Brennan
+  - ClassDojo's second act comes with first profits
       <hr/>
       
-      - *Reilly Brennan loves cars. The native Michigander happily did grunt work for an automotive magazine as an undergrad at the University of Michigan before landing a gig as a trackside communications manager at General Motors, spending a few years as an editor a…*
+      - *ClassDojo’s first eight years as an edtech consumer startup could look like failure: zero revenue; no paid users; and a team that hasn’t aggressively grown in years. But the company, which helps parents and teachers communicate about students, has raised tens…*
        
-  - Berlin's Remagine secures $24M to finance high-growth and impact-led startups
+  - The 5 biggest mistakes I made as a first-time startup founder
       <hr/>
        
-       - *Remagine, a financing platform offering banking services to high-growth companies with an ‘impact’ twist, has raised €20 million ($24M) in a Seed funding round. The Berlin-based startup has been operating in stealth mode, but already has 20 clients under its …*
+       - *First-time entrepreneurs are bound to make some major mistakes. The true measure of a serial entrepreneur, I’d submit, is the ability to recognize those mistakes and adapt.*
       
 
 <br />
