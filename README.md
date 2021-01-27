@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Sila Nanotechnologies raises $590M to fund battery materials factory
+  - Lime adds shared electric mopeds to the mix
      <hr/>
      
-      - *Sila Nanotechnologies, a Silicon Valley battery materials company, has spent years developing technology designed to pack more energy into a cell at a lower cost — an end game that has helped it lock in partnerships with Amperex Technology Limited as well as …*
+      - *Lime is adding electric mopeds — painted in the company’s signature green — to its micromobility platform as the startup aims to own the spectrum of inner city travel from jaunts to the corner store to longer distance trips up to five miles. Lime said Wednesd…*
      
-  - Daily Crunch: Calendly valued at $3B
+  - Gardin raises $1.2M pre-seed to use 'optical phenotyping' tech to improve food production
       <hr/>
       
-      - *A popular scheduling startup raises a big funding round, Twitter makes a newsletter acquisition and Beyond Meat teams up with PepsiCo. This is your Daily Crunch for January 26, 2021. The big story: Calendly valued at $3B Calendly, which helps users schedule a…*
+      - *Gardin, a ‘deep tech’ hardware and software startup developing optical phenotyping technology and analytics to optimise food production, has raised $1.2 million in pre-seed funding. Leading the round is LDV Capital, with participation from Seedcamp, and MMC V…*
       
-  - Apple just had its best quarter in India
+  - Corporate card startup Mooncard challenges American Express in France with miles
       <hr/>
       
-      - *When Apple reports its earnings on Wednesday, you can expect mentions of India on the call. Apple shipped more than 1.5 million iPhone units in India in the quarter that ended in December, up 100% year-on-year, making this its best quarter in the world’s larg…*
+      - *French startup Mooncard is partnering with Flying Blue to offer Air France miles to its customers. This is the first time you can earn miles with a payment card in France that isn’t an American Express card. Mooncard provides corporate payment cards to stream…*
       
-  - ClassDojo's second act comes with first profits
+  - Joanne Chen just became the first woman GP at Foundation Capital since founder Kathryn Gould
       <hr/>
       
-      - *ClassDojo’s first eight years as an edtech consumer startup could look like failure: zero revenue; no paid users; and a team that hasn’t aggressively grown in years. But the company, which helps parents and teachers communicate about students, has raised tens…*
+      - *Joanne Chen just became the second general partner in the history of the now 26-year-old, Silicon Valley venture firm, Foundation Capital. Were she still alive, Foundation’s founder, Kathyrn Gould, would undoubtedly cheer the development. Known for her big pe…*
        
-  - The 5 biggest mistakes I made as a first-time startup founder
+  - SaaS startup studio eFounders launches a fintech startup studio
       <hr/>
        
-       - *First-time entrepreneurs are bound to make some major mistakes. The true measure of a serial entrepreneur, I’d submit, is the ability to recognize those mistakes and adapt.*
+       - *eFounders is expanding its focus by creating a second startup studio called Logic Founders. This time, Logic Founders is going to focus on fintech startups exclusively. Camille Tyan (pictured above) is going to lead the new studio. Over the past ten years, eF…*
       
 
 <br />
