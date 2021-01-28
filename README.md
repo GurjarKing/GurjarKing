@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - WallStreetBets goes dark
+  - UK's competition watchdog still eyeing Facebook's Giphy buy
      <hr/>
      
-      - *After a wild day for public markets driven by Reddit traders commandeering stocks and combatting hedge fund short sellers, the community at r/wallstreetbets no longer has a home on Discord and its Reddit community has been locked down as an invite-only subred…*
+      - *The UK’s competition regulator will make a decision on whether or not Facebook’s purchase of Giphy has a ‘realistic prospect’ of substantially lessening competition by March 25, it said today, as it continues to scrutinize the acquisition. “The Competition an…*
      
-  - Tesla's power businesses are beginning to take off
+  - Berlin Brands Group commits $302M to acquire D2C and Amazon merchants
       <hr/>
       
-      - *Tesla just released its latest earnings report, and the results indicate that Elon Musk’s bets on energy storage and solar are beginning to pay off. The storage business was the star of the company’s power plays in the fourth quarter, with quarterly year-on-y…*
+      - *If the rise of direct-to-consumer businesses has been one of the big e-commerce trends of the last decade, then the growth of startups raising huge rounds to consolidate D2C players, to bring more economies of scale to the model, has definitely been a related…*
       
-  - Daily Crunch: GameStop becomes a meme stock
+  - Google updates Play Store policies on gamified loyalty programs following confusion in India
       <hr/>
       
-      - *Reddit users have some fun with the stock market, Facebook predicts advertising challenges and ByteDance is cutting jobs in India. This is your Daily Crunch for January 27, 2021. The big story: GameStop becomes a meme stock GameStop’s stock continued to climb…*
+      - *Google has updated, simplified, and broadened its policy on gaming loyalty programs for Play Store apps to help developers better understand what practices are permitted months after confusion about the guidance prompted some backlash in India, the biggest An…*
       
-  - ProtonMail, Threema, Tresorit and Tutanota warn EU lawmakers over 'anti-encryption' push
+  - Female-led startups dominate Catalyst Fund's inclusive fintech 2021 cohort
       <hr/>
       
-      - *Four European apps which secure user data via end-to-end encryption, ProtonMail, Threema, Tresorit and Tutanota, have issued a joint-statement warning over recent moves by EU institutions that they say are setting lawmakers on a dangerous path to backdooring …*
+      - *Catalyst Fund, a global accelerator managed by BFA Global, announced the 8th cohort for its Inclusive Fintech Program today. The accelerator, backed by the JP Morgan Chase and Bill & Melinda Gates Foundation, runs the flagship program annually. With a focus o…*
        
-  - This is the new interior of Tesla's Model S
+  - Ula raises $20 million to expand its e-commerce marketplace in Indonesia
       <hr/>
        
-       - *The Model S will see some significant changes to its interior this year. After months of rumors, Tesla confirmed the revisions in a few images released just ahead of its quarterly earnings call scheduled for later this afternoon. Some of the changes — like th…*
+       - *Tokopedia, Lazada, Shopee, and other firms created an e-commerce market in Indonesia in the past decade, making it possible for consumers to shop online in the island nation. But as is true in other Asian markets, most small retailers and mom-and-pop stores i…*
       
 
 <br />
