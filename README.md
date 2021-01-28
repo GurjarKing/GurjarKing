@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Lime adds shared electric mopeds to the mix
+  - WallStreetBets goes dark
      <hr/>
      
-      - *Lime is adding electric mopeds — painted in the company’s signature green — to its micromobility platform as the startup aims to own the spectrum of inner city travel from jaunts to the corner store to longer distance trips up to five miles. Lime said Wednesd…*
+      - *After a wild day for public markets driven by Reddit traders commandeering stocks and combatting hedge fund short sellers, the community at r/wallstreetbets no longer has a home on Discord and its Reddit community has been locked down as an invite-only subred…*
      
-  - Gardin raises $1.2M pre-seed to use 'optical phenotyping' tech to improve food production
+  - Tesla's power businesses are beginning to take off
       <hr/>
       
-      - *Gardin, a ‘deep tech’ hardware and software startup developing optical phenotyping technology and analytics to optimise food production, has raised $1.2 million in pre-seed funding. Leading the round is LDV Capital, with participation from Seedcamp, and MMC V…*
+      - *Tesla just released its latest earnings report, and the results indicate that Elon Musk’s bets on energy storage and solar are beginning to pay off. The storage business was the star of the company’s power plays in the fourth quarter, with quarterly year-on-y…*
       
-  - Corporate card startup Mooncard challenges American Express in France with miles
+  - Daily Crunch: GameStop becomes a meme stock
       <hr/>
       
-      - *French startup Mooncard is partnering with Flying Blue to offer Air France miles to its customers. This is the first time you can earn miles with a payment card in France that isn’t an American Express card. Mooncard provides corporate payment cards to stream…*
+      - *Reddit users have some fun with the stock market, Facebook predicts advertising challenges and ByteDance is cutting jobs in India. This is your Daily Crunch for January 27, 2021. The big story: GameStop becomes a meme stock GameStop’s stock continued to climb…*
       
-  - Joanne Chen just became the first woman GP at Foundation Capital since founder Kathryn Gould
+  - ProtonMail, Threema, Tresorit and Tutanota warn EU lawmakers over 'anti-encryption' push
       <hr/>
       
-      - *Joanne Chen just became the second general partner in the history of the now 26-year-old, Silicon Valley venture firm, Foundation Capital. Were she still alive, Foundation’s founder, Kathyrn Gould, would undoubtedly cheer the development. Known for her big pe…*
+      - *Four European apps which secure user data via end-to-end encryption, ProtonMail, Threema, Tresorit and Tutanota, have issued a joint-statement warning over recent moves by EU institutions that they say are setting lawmakers on a dangerous path to backdooring …*
        
-  - SaaS startup studio eFounders launches a fintech startup studio
+  - This is the new interior of Tesla's Model S
       <hr/>
        
-       - *eFounders is expanding its focus by creating a second startup studio called Logic Founders. This time, Logic Founders is going to focus on fintech startups exclusively. Camille Tyan (pictured above) is going to lead the new studio. Over the past ten years, eF…*
+       - *The Model S will see some significant changes to its interior this year. After months of rumors, Tesla confirmed the revisions in a few images released just ahead of its quarterly earnings call scheduled for later this afternoon. Some of the changes — like th…*
       
 
 <br />
