@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Why calendar invites are worth $3B
+  - Chefclub raises $17 million to expand its food media brand beyond social networks
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. Natasha and Danny and Alex and Grace hopped online for our weekly show, sans Gamestop news (which you can find here) to talk abou…*
+      - *French startup Chefclub announced earlier this week that it has raised a $17 million funding round led by First Bridge Ventures. SEB Alliance, the venture arm of kitchen appliance maker Groupe SEB, Korelya Capital and Algaé Ventures are also participating. Ch…*
      
-  - Daily Crunch: Robinhood restricts GameStop trading
+  - Xiaomi teases over-the-air wireless charging, but it’s not coming to its devices this year
       <hr/>
       
-      - *The GameStop stock saga continues, Apple releases more details about its privacy changes and Qualtrics goes public. This is your Daily Crunch for January 28, 2021. The big story: Robinhood restricts GameStop trading Robinhood has responded to an upsurge in re…*
+      - *Xiaomi, the world’s third largest smartphone maker, today unveiled “Mi Air Charge Technology” that it says can deliver power to multiple devices “within a radius of several metres” as the Chinese giant invited customers to a “true wireless charging era.” The …*
       
-  - SoftBank earmarks $100 million for Miami-based startups
+  - Stock trading app Trade Republic expands to France
       <hr/>
       
-      - *Miami, an emerging startup hub, has a new check-writer in town: SoftBank. The Japanese multinational conglomerate announced plans today to invest $100 million, drawn from across its funds, into Miami-based startups. Notably, SoftBank’s $5 billion Latin Americ…*
+      - *German startup Trade Republic is rolling out its app and service in France this week. This is a significant expansion move as Trade Republic has only been available in Germany and Austria so far. Trade Republic lets you buy and sell shares or exchange-traded …*
       
-  - After soaring above $23B, Qualtrics' founder and CEO reflect on a stellar debut
+  - Huawei's struggles hurt overall smartphone shipments in China, but rivals like Apple found new opportunities
       <hr/>
       
-      - *Amidst the sturm und drang of l'affaire GameStop, the cloud software vendor received a warm welcome from public investors.*
+      - *The impact of United States government sanctions on Huawei is continuing to hurt the company and dampen overall smartphone shipments in China, where it is largest smartphone vendor, according to a new report by Canalys. But Huawei’s decline also opens new opp…*
        
-  - The somewhat boring reason it appears that Robinhood yanked trading on some securities
+  - Hong Kong startup ICW eyes supply chain diversification demand amid trade war
       <hr/>
        
-       - *After enduring a day’s worth of taking a beating across social media, government, and the various app stores of the mobile world, Robinhood took to its own blog and CEO’s Twitter account to explain why it had halted trading of some stocks earlier today. That …*
+       - *For American importers, finding suppliers these days can be challenging not only due to COVID-19 travel restrictions. The U.S. government’s entity list designations, human rights-related sanctions, among other trade blacklists targeting Chinese firms have als…*
       
 
 <br />
