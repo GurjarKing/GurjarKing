@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - UK's competition watchdog still eyeing Facebook's Giphy buy
+  - Why calendar invites are worth $3B
      <hr/>
      
-      - *The UK’s competition regulator will make a decision on whether or not Facebook’s purchase of Giphy has a ‘realistic prospect’ of substantially lessening competition by March 25, it said today, as it continues to scrutinize the acquisition. “The Competition an…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. Natasha and Danny and Alex and Grace hopped online for our weekly show, sans Gamestop news (which you can find here) to talk abou…*
      
-  - Berlin Brands Group commits $302M to acquire D2C and Amazon merchants
+  - Daily Crunch: Robinhood restricts GameStop trading
       <hr/>
       
-      - *If the rise of direct-to-consumer businesses has been one of the big e-commerce trends of the last decade, then the growth of startups raising huge rounds to consolidate D2C players, to bring more economies of scale to the model, has definitely been a related…*
+      - *The GameStop stock saga continues, Apple releases more details about its privacy changes and Qualtrics goes public. This is your Daily Crunch for January 28, 2021. The big story: Robinhood restricts GameStop trading Robinhood has responded to an upsurge in re…*
       
-  - Google updates Play Store policies on gamified loyalty programs following confusion in India
+  - SoftBank earmarks $100 million for Miami-based startups
       <hr/>
       
-      - *Google has updated, simplified, and broadened its policy on gaming loyalty programs for Play Store apps to help developers better understand what practices are permitted months after confusion about the guidance prompted some backlash in India, the biggest An…*
+      - *Miami, an emerging startup hub, has a new check-writer in town: SoftBank. The Japanese multinational conglomerate announced plans today to invest $100 million, drawn from across its funds, into Miami-based startups. Notably, SoftBank’s $5 billion Latin Americ…*
       
-  - Female-led startups dominate Catalyst Fund's inclusive fintech 2021 cohort
+  - After soaring above $23B, Qualtrics' founder and CEO reflect on a stellar debut
       <hr/>
       
-      - *Catalyst Fund, a global accelerator managed by BFA Global, announced the 8th cohort for its Inclusive Fintech Program today. The accelerator, backed by the JP Morgan Chase and Bill & Melinda Gates Foundation, runs the flagship program annually. With a focus o…*
+      - *Amidst the sturm und drang of l'affaire GameStop, the cloud software vendor received a warm welcome from public investors.*
        
-  - Ula raises $20 million to expand its e-commerce marketplace in Indonesia
+  - The somewhat boring reason it appears that Robinhood yanked trading on some securities
       <hr/>
        
-       - *Tokopedia, Lazada, Shopee, and other firms created an e-commerce market in Indonesia in the past decade, making it possible for consumers to shop online in the island nation. But as is true in other Asian markets, most small retailers and mom-and-pop stores i…*
+       - *After enduring a day’s worth of taking a beating across social media, government, and the various app stores of the mobile world, Robinhood took to its own blog and CEO’s Twitter account to explain why it had halted trading of some stocks earlier today. That …*
       
 
 <br />
