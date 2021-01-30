@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Robinhood raises $1B
+  - India plans to introduce law to ban Bitcoin, other private cryptocurrencies
      <hr/>
      
-      - *Robinhood caps a wild week for new funding, Coinbase is going public and Johnson & Johnson reveals new vaccine trial data. This is your Daily Crunch for January 29, 2021. The big story: Robinhood raises $1B I know the newsletter has been dominated by Robinhoo…*
+      - *India plans to introduce a law to ban private cryptocurrencies such as bitcoin in the country and provide a framework for the creation of an official digital currency during the current budget session of parliament. In the agenda (PDF) published on the lower …*
      
+  - Despite Brexit and COVID-19, Irish investors remain bullish
+      <hr/>
+      
+      - *"Dublin is a really vibrant startup ecosystem," said Michelle Dervan of Rethink Education Management. "Young population. Lots of government supports to encourage entrepreneurship."*
+      
+  - The biggest exit for this L.A. venture firm may wind up being . . . canned water
+      <hr/>
+      
+      - *Earlier this week, Science Inc, the 10-year-old, L.A.-based incubator and venture firm, rolled out a blank-check company onto the Nasdaq, raising $270 for what firm founders Peter Pham and Mike Jones say will ultimately be used to take public a company in the…*
+      
+  - Daily Crunch: Robinhood raises $1B
+      <hr/>
+      
+      - *Robinhood caps a wild week for new funding, Coinbase is going public and Johnson & Johnson reveals new vaccine trial data. This is your Daily Crunch for January 29, 2021. The big story: Robinhood raises $1B I know the newsletter has been dominated by Robinhoo…*
+       
   - Robinhood limits users to a single share of GameStop and other stocks
       <hr/>
-      
-      - *Robinhood has detailed its latest step in the complex quagmire of market manipulation that is this week’s GameStop hedge fund Reddit army debacle. Users will for the present be limited to holding a single share of GameStop and dozens of other stocks. Several …*
-      
-  - Extra Crunch roundup: Edtech VC survey, 5 founder mistakes, fintech liquidity, more
-      <hr/>
-      
-      - *Edtech is so widespread, we already need more consumer-friendly nomenclature to describe the products, services and tools it encompasses.*
-      
-  - How Roblox's creator accelerator helps the gaming giant build new platform opportunities
-      <hr/>
-      
-      - *As Roblox eyes what could be a historic debut on public markets in the coming months, investors who have valued the company at $29.5 billion are certainly eyeing the gaming company’s dedicated and youthful user base, but it’s the 7 million active creators and…*
        
-  - Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models
-      <hr/>
-       
-       - *Out of nine SaaS IPOs in recent years that had the best net dollar retention, seven employ usage-based models.*
+       - *Robinhood has detailed its latest step in the complex quagmire of market manipulation that is this week’s GameStop hedge fund Reddit army debacle. Users will for the present be limited to holding a single share of GameStop and dozens of other stocks. Several …*
       
 
 <br />
