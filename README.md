@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Chefclub raises $17 million to expand its food media brand beyond social networks
+  - Daily Crunch: Robinhood raises $1B
      <hr/>
      
-      - *French startup Chefclub announced earlier this week that it has raised a $17 million funding round led by First Bridge Ventures. SEB Alliance, the venture arm of kitchen appliance maker Groupe SEB, Korelya Capital and Algaé Ventures are also participating. Ch…*
+      - *Robinhood caps a wild week for new funding, Coinbase is going public and Johnson & Johnson reveals new vaccine trial data. This is your Daily Crunch for January 29, 2021. The big story: Robinhood raises $1B I know the newsletter has been dominated by Robinhoo…*
      
-  - Xiaomi teases over-the-air wireless charging, but it’s not coming to its devices this year
+  - Robinhood limits users to a single share of GameStop and other stocks
       <hr/>
       
-      - *Xiaomi, the world’s third largest smartphone maker, today unveiled “Mi Air Charge Technology” that it says can deliver power to multiple devices “within a radius of several metres” as the Chinese giant invited customers to a “true wireless charging era.” The …*
+      - *Robinhood has detailed its latest step in the complex quagmire of market manipulation that is this week’s GameStop hedge fund Reddit army debacle. Users will for the present be limited to holding a single share of GameStop and dozens of other stocks. Several …*
       
-  - Stock trading app Trade Republic expands to France
+  - Extra Crunch roundup: Edtech VC survey, 5 founder mistakes, fintech liquidity, more
       <hr/>
       
-      - *German startup Trade Republic is rolling out its app and service in France this week. This is a significant expansion move as Trade Republic has only been available in Germany and Austria so far. Trade Republic lets you buy and sell shares or exchange-traded …*
+      - *Edtech is so widespread, we already need more consumer-friendly nomenclature to describe the products, services and tools it encompasses.*
       
-  - Huawei's struggles hurt overall smartphone shipments in China, but rivals like Apple found new opportunities
+  - How Roblox's creator accelerator helps the gaming giant build new platform opportunities
       <hr/>
       
-      - *The impact of United States government sanctions on Huawei is continuing to hurt the company and dampen overall smartphone shipments in China, where it is largest smartphone vendor, according to a new report by Canalys. But Huawei’s decline also opens new opp…*
+      - *As Roblox eyes what could be a historic debut on public markets in the coming months, investors who have valued the company at $29.5 billion are certainly eyeing the gaming company’s dedicated and youthful user base, but it’s the 7 million active creators and…*
        
-  - Hong Kong startup ICW eyes supply chain diversification demand amid trade war
+  - Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models
       <hr/>
        
-       - *For American importers, finding suppliers these days can be challenging not only due to COVID-19 travel restrictions. The U.S. government’s entity list designations, human rights-related sanctions, among other trade blacklists targeting Chinese firms have als…*
+       - *Out of nine SaaS IPOs in recent years that had the best net dollar retention, seven employ usage-based models.*
       
 
 <br />
