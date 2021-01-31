@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - India plans to introduce law to ban Bitcoin, other private cryptocurrencies
+  - Stonks, flying burritos and my boss’s boss’s boss’s boss
      <hr/>
      
-      - *India plans to introduce a law to ban private cryptocurrencies such as bitcoin in the country and provide a framework for the creation of an official digital currency during the current budget session of parliament. In the agenda (PDF) published on the lower …*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Wh…*
      
-  - Despite Brexit and COVID-19, Irish investors remain bullish
+  - Gillmor Gang: Back Then Now
       <hr/>
       
-      - *"Dublin is a really vibrant startup ecosystem," said Michelle Dervan of Rethink Education Management. "Young population. Lots of government supports to encourage entrepreneurship."*
+      - *Still figuring out what this newsletter is, I’m torn between aggregation and writing. The inputs vary from blog posts, Twitter threads, and the occasional video. Podcasting seems oddly muzzled by the acceleration of streaming. Blog posts are a misnomer; profe…*
       
-  - The biggest exit for this L.A. venture firm may wind up being . . . canned water
+  - Reddit co-founder on GameStop: ‘The collective public cannot unsee this’
       <hr/>
       
-      - *Earlier this week, Science Inc, the 10-year-old, L.A.-based incubator and venture firm, rolled out a blank-check company onto the Nasdaq, raising $270 for what firm founders Peter Pham and Mike Jones say will ultimately be used to take public a company in the…*
+      - *When Robinhood, a startup that promises to make finance accessible for all, temporarily limited trading on GameStop, AMC, and other memestocks, many retail investors were pissed that the fintech darling suddenly didn’t live up to its name. The specific reason…*
       
-  - Daily Crunch: Robinhood raises $1B
+  - This Week in Apps: GameStop madness hits trading apps, Apple privacy changes, Clubhouse becomes a unicorn
       <hr/>
       
-      - *Robinhood caps a wild week for new funding, Coinbase is going public and Johnson & Johnson reveals new vaccine trial data. This is your Daily Crunch for January 29, 2021. The big story: Robinhood raises $1B I know the newsletter has been dominated by Robinhoo…*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - Robinhood limits users to a single share of GameStop and other stocks
+  - India plans to introduce law to ban Bitcoin, other private cryptocurrencies
       <hr/>
        
-       - *Robinhood has detailed its latest step in the complex quagmire of market manipulation that is this week’s GameStop hedge fund Reddit army debacle. Users will for the present be limited to holding a single share of GameStop and dozens of other stocks. Several …*
+       - *India plans to introduce a law to ban private cryptocurrencies such as bitcoin in the country and provide a framework for the creation of an official digital currency during the current budget session of parliament. In the agenda (PDF) published on the lower …*
       
 
 <br />
