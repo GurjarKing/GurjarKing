@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: Alpha Global forms to unite Alphabet workers worldwide
+  - bluShift Aerospace launches its first rocket powered by biofuels
      <hr/>
      
-      - *You’ve just landed on the web version of my weekly newsletter, Human Capital. It’s where we look at the recent events of the week pertaining to diversity, equity, inclusion and labor in tech. You can sign up here to get Human Capital delivered straight to you…*
+      - *New space startup bluShift wants to bring a new kind of propellant to the small satellite launching market, with rockets powered by bio-derived rocket fuels. These differ from traditional fuels in that they offer safety advantages during handling, and ecologi…*
      
-  - Institutional trust is the real meme
+  - Twitter restricts over a dozen high-profile accounts in India following 'legal demand'
       <hr/>
       
-      - *Hello friends, this is Week in Review. Last week, I dove into the AR maneuverings of Apple and Facebook and what that means for the future of the web. This week, I’m aiming to touch the meme stock phenomenon that dominated American news cycles this week and s…*
+      - *Twitter blocked access to over a dozen high-profile individuals in India on Monday to comply with a “legal request”, prompting confusion and anger among users who are seeking an explanation for this action. Among those whose accounts have been restricted in I…*
       
-  - Original Content podcast: Netflix's 'White Tiger' tells a bloody capitalist fable
+  - India proposes social security benefits for gig workers in annual budget
       <hr/>
       
-      - *The new Netflix film “The White Tiger” tells the story of Balram, who is born to a poor family in the Indian village of Laxmangarh and escapes by using his intelligence and determination, ultimately becoming a successful entrepreneur in Bangalore. The viewers…*
+      - *India’s Finance Minister Nirmala Sitharaman proposed a handful of benefits for the startup ecosystem and to accelerate the growth of digital services in the annual budget Monday as the South Asian nation looks to revive the economy that plunged into deepest r…*
       
-  - Stonks, flying burritos and my boss’s boss’s boss’s boss
+  - Elon Musk goes live on Clubhouse, but with the room full, fans stream audio on YouTube
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Wh…*
+      - *As I write this Elon Musk has joined Clubhouse for his first ever in-person session and the boundaries of the app have already been tested. Only 5,000 people are in the room, BUT… the session is being live-streamed from here or here. We are live blogging the …*
        
-  - Gillmor Gang: Back Then Now
+  - English learning app ELSA lands $15 million Series B for international growth and its B2B platform
       <hr/>
        
-       - *Still figuring out what this newsletter is, I’m torn between aggregation and writing. The inputs vary from blog posts, Twitter threads, and the occasional video. Podcasting seems oddly muzzled by the acceleration of streaming. Blog posts are a misnomer; profe…*
+       - *Speaking is one of the hardest parts of learning a new language, especially if you don’t have someone to practice with regularly. ELSA is an app that helps by using speech recognition technology to correct pronunciation. Based in San Francisco and Ho Chi Minh…*
       
 
 <br />
