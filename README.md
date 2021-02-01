@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Stonks, flying burritos and my boss’s boss’s boss’s boss
+  - Human Capital: Alpha Global forms to unite Alphabet workers worldwide
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Wh…*
+      - *You’ve just landed on the web version of my weekly newsletter, Human Capital. It’s where we look at the recent events of the week pertaining to diversity, equity, inclusion and labor in tech. You can sign up here to get Human Capital delivered straight to you…*
      
+  - Institutional trust is the real meme
+      <hr/>
+      
+      - *Hello friends, this is Week in Review. Last week, I dove into the AR maneuverings of Apple and Facebook and what that means for the future of the web. This week, I’m aiming to touch the meme stock phenomenon that dominated American news cycles this week and s…*
+      
+  - Original Content podcast: Netflix's 'White Tiger' tells a bloody capitalist fable
+      <hr/>
+      
+      - *The new Netflix film “The White Tiger” tells the story of Balram, who is born to a poor family in the Indian village of Laxmangarh and escapes by using his intelligence and determination, ultimately becoming a successful entrepreneur in Bangalore. The viewers…*
+      
+  - Stonks, flying burritos and my boss’s boss’s boss’s boss
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Wh…*
+       
   - Gillmor Gang: Back Then Now
       <hr/>
-      
-      - *Still figuring out what this newsletter is, I’m torn between aggregation and writing. The inputs vary from blog posts, Twitter threads, and the occasional video. Podcasting seems oddly muzzled by the acceleration of streaming. Blog posts are a misnomer; profe…*
-      
-  - Reddit co-founder on GameStop: ‘The collective public cannot unsee this’
-      <hr/>
-      
-      - *When Robinhood, a startup that promises to make finance accessible for all, temporarily limited trading on GameStop, AMC, and other memestocks, many retail investors were pissed that the fintech darling suddenly didn’t live up to its name. The specific reason…*
-      
-  - This Week in Apps: GameStop madness hits trading apps, Apple privacy changes, Clubhouse becomes a unicorn
-      <hr/>
-      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - India plans to introduce law to ban Bitcoin, other private cryptocurrencies
-      <hr/>
-       
-       - *India plans to introduce a law to ban private cryptocurrencies such as bitcoin in the country and provide a framework for the creation of an official digital currency during the current budget session of parliament. In the agenda (PDF) published on the lower …*
+       - *Still figuring out what this newsletter is, I’m torn between aggregation and writing. The inputs vary from blog posts, Twitter threads, and the occasional video. Podcasting seems oddly muzzled by the acceleration of streaming. Blog posts are a misnomer; profe…*
       
 
 <br />
