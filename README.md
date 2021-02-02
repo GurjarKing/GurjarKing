@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Former Asana employees want to take on Discord with a positive platform for creator communities
+  - Oyster snaps up $20M for its HR platform aimed at distributed workforces
      <hr/>
      
-      - *In a creator-economy world, if you’re only as good as your last YouTube video, then your next YouTube video had better be bigger and louder than the last. Vibely, a new startup co-founded by Asana alumni Teri Yu and Theresa Lee, wants to turn the constant, an…*
+      - *The growth of remote working and managing workforces that are distributed well beyond the confines of a centralized physical office — or even a single country — have put a spotlight on the human resources technology that organizations use to help manage those…*
      
-  - Daily Crunch: Google shutters internal game studios
+  - Twitter quietly rolls out Revue newsletters integration on web
       <hr/>
       
-      - *Google rethinks its gaming strategy, Microsoft rolls out its quantum computing platform and UiPath is now valued at $35 billion. This is your Daily Crunch for February 1, 2021. The big story: Google shutters internal game studios When Google announced its Sta…*
+      - *If you were itching to launch an email newsletter via Twitter, following its acquisition of the Dutch newsletter platform Revue last month, it appears you’ll have to wait a little bit longer for the official unveiling — although some Twitter users are reporti…*
       
-  - Battery companies are the latest SPAC target as EVs get a huge regulatory boost
+  - Seyna is building an insurance-as-a-service startup for the French market
       <hr/>
       
-      - *Batteries are the latest landing pad for investors. In the past week alone, two companies have announced plans to become publicly traded companies by merging with special purpose acquisition companies. European battery manufacturer FREYR said Friday it would …*
+      - *French startup Seyna is getting a new CEO. Stephen Leguillon is joining the company as chief executive while Philippe Mangematin is stepping back from day-to-day activities for personal reasons — he’ll become honorary chairman. If you’re not familiar with the…*
       
-  - Canon takes tentative step towards eliminating photographers with robotic PICK camera
+  - Mono, a startup that wants to build Plaid for Africa, gets backing from Y Combinator
       <hr/>
       
-      - *Canon is embracing the AI-infused future with a strange new robotic camera called the PowerShot PICK. This little device swivels and keeps its subjects in view, taking commands or snapping shots on its own. It’s a bit like a smart security camera or Facebook’…*
+      - *Prakhar Singh and ex-Paystack employee Abdul Hassan have known each other for seven years, building different tech products individually and collectively along the way. Before joining Paystack in 2018, Hassan co-founded OyaPay, a payments startup the year bef…*
        
-  - Salesforce promotes former Vlocity CEO David Schmaier to president and CPO
+  - As contactless menu ordering becomes the norm amid COVID, China pushes back
       <hr/>
        
-       - *Last year I penned a post positing that Salesforce’s propensity to purchase mature enterprise companies not only provided new technology, but was also helping to produce a profusion of executive talent.. As though to prove my point, the company announced toda…*
+       - *Digital ordering and paying at restaurants was already gaining much ground in China before the COVID-19 pandemic hit. The tap-to-order method on a smartphone is part of the greater development in China where cash and physical documentation is increasingly bei…*
       
 
 <br />
