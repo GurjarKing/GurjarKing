@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - bluShift Aerospace launches its first rocket powered by biofuels
+  - Former Asana employees want to take on Discord with a positive platform for creator communities
      <hr/>
      
-      - *New space startup bluShift wants to bring a new kind of propellant to the small satellite launching market, with rockets powered by bio-derived rocket fuels. These differ from traditional fuels in that they offer safety advantages during handling, and ecologi…*
+      - *In a creator-economy world, if you’re only as good as your last YouTube video, then your next YouTube video had better be bigger and louder than the last. Vibely, a new startup co-founded by Asana alumni Teri Yu and Theresa Lee, wants to turn the constant, an…*
      
-  - Twitter restricts over a dozen high-profile accounts in India following 'legal demand'
+  - Daily Crunch: Google shutters internal game studios
       <hr/>
       
-      - *Twitter blocked access to over a dozen high-profile individuals in India on Monday to comply with a “legal request”, prompting confusion and anger among users who are seeking an explanation for this action. Among those whose accounts have been restricted in I…*
+      - *Google rethinks its gaming strategy, Microsoft rolls out its quantum computing platform and UiPath is now valued at $35 billion. This is your Daily Crunch for February 1, 2021. The big story: Google shutters internal game studios When Google announced its Sta…*
       
-  - India proposes social security benefits for gig workers in annual budget
+  - Battery companies are the latest SPAC target as EVs get a huge regulatory boost
       <hr/>
       
-      - *India’s Finance Minister Nirmala Sitharaman proposed a handful of benefits for the startup ecosystem and to accelerate the growth of digital services in the annual budget Monday as the South Asian nation looks to revive the economy that plunged into deepest r…*
+      - *Batteries are the latest landing pad for investors. In the past week alone, two companies have announced plans to become publicly traded companies by merging with special purpose acquisition companies. European battery manufacturer FREYR said Friday it would …*
       
-  - Elon Musk goes live on Clubhouse, but with the room full, fans stream audio on YouTube
+  - Canon takes tentative step towards eliminating photographers with robotic PICK camera
       <hr/>
       
-      - *As I write this Elon Musk has joined Clubhouse for his first ever in-person session and the boundaries of the app have already been tested. Only 5,000 people are in the room, BUT… the session is being live-streamed from here or here. We are live blogging the …*
+      - *Canon is embracing the AI-infused future with a strange new robotic camera called the PowerShot PICK. This little device swivels and keeps its subjects in view, taking commands or snapping shots on its own. It’s a bit like a smart security camera or Facebook’…*
        
-  - English learning app ELSA lands $15 million Series B for international growth and its B2B platform
+  - Salesforce promotes former Vlocity CEO David Schmaier to president and CPO
       <hr/>
        
-       - *Speaking is one of the hardest parts of learning a new language, especially if you don’t have someone to practice with regularly. ELSA is an app that helps by using speech recognition technology to correct pronunciation. Based in San Francisco and Ho Chi Minh…*
+       - *Last year I penned a post positing that Salesforce’s propensity to purchase mature enterprise companies not only provided new technology, but was also helping to produce a profusion of executive talent.. As though to prove my point, the company announced toda…*
       
 
 <br />
