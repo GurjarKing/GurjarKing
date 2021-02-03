@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Oyster snaps up $20M for its HR platform aimed at distributed workforces
+  - BukuWarung, a startup digitizing Indonesia's SMEs, raises new funding from Rocketship.vc
      <hr/>
      
-      - *The growth of remote working and managing workforces that are distributed well beyond the confines of a centralized physical office — or even a single country — have put a spotlight on the human resources technology that organizations use to help manage those…*
+      - *BukuWarung, an Indonesian startup focused on digitizing the country’s 60 million small businesses, announced today it has raised new funding from Rocketship.vc and an Indonesian retail conglomerate. The amount was undisclosed, but sources say it brings BukuWa…*
      
-  - Twitter quietly rolls out Revue newsletters integration on web
+  - Daily Crunch: Jeff Bezos will step down as Amazon CEO
       <hr/>
       
-      - *If you were itching to launch an email newsletter via Twitter, following its acquisition of the Dutch newsletter platform Revue last month, it appears you’ll have to wait a little bit longer for the official unveiling — although some Twitter users are reporti…*
+      - *The Bezos era is ending, Uber acquires Drizly and Tesla recalls 135,000 vehicles. This is your Daily Crunch for February 2, 2021. The big story: Jeff Bezos will step down as Amazon CEO Amazon announced today that founder Jeff Bezos will be transitioning from …*
       
-  - Seyna is building an insurance-as-a-service startup for the French market
+  - What Andy Jassy's promotion to Amazon CEO could mean for AWS
       <hr/>
       
-      - *French startup Seyna is getting a new CEO. Stephen Leguillon is joining the company as chief executive while Philippe Mangematin is stepping back from day-to-day activities for personal reasons — he’ll become honorary chairman. If you’re not familiar with the…*
+      - *Blockbuster news struck late this afternoon when Amazon announced that Jeff Bezos would be stepping back as CEO of Amazon, the company he built from a business in his garage to worldwide behemoth. As he takes on the role of executive chairman, his replacement…*
       
-  - Mono, a startup that wants to build Plaid for Africa, gets backing from Y Combinator
+  - Google Cloud lost $5.6B in 2020
       <hr/>
       
-      - *Prakhar Singh and ex-Paystack employee Abdul Hassan have known each other for seven years, building different tech products individually and collectively along the way. Before joining Paystack in 2018, Hassan co-founded OyaPay, a payments startup the year bef…*
+      - *Google Cloud lost $5.6 billion in Google's fiscal year 2020, which ended December 31. That's on $13 billion of revenue.*
        
-  - As contactless menu ordering becomes the norm amid COVID, China pushes back
+  - Save 25% with Extra Crunch Group Membership
       <hr/>
        
-       - *Digital ordering and paying at restaurants was already gaining much ground in China before the COVID-19 pandemic hit. The tap-to-order method on a smartphone is part of the greater development in China where cash and physical documentation is increasingly bei…*
+       - *We’re excited to announce Group Membership for Extra Crunch. The feature allows you to easily manage seats and payments for your team through a self-service interface. If your team joins through Group Membership, you’ll also save 25% or more on annual pricing…*
       
 
 <br />
