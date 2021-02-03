@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - BukuWarung, a startup digitizing Indonesia's SMEs, raises new funding from Rocketship.vc
+  - India sends warning to Twitter over lifting block on accounts and noncompliance of order
      <hr/>
      
-      - *BukuWarung, an Indonesian startup focused on digitizing the country’s 60 million small businesses, announced today it has raised new funding from Rocketship.vc and an Indonesian retail conglomerate. The amount was undisclosed, but sources say it brings BukuWa…*
+      - *India has issued a notice to Twitter, warning the American social firm to comply with New Delhi’s order to block accounts and content related to a protest by farmers and not “assume the role of a court and justify non-compliance.” Failure to comply may prompt…*
      
-  - Daily Crunch: Jeff Bezos will step down as Amazon CEO
+  - Embedded finance startup Banxware raises €4M seed
       <hr/>
       
-      - *The Bezos era is ending, Uber acquires Drizly and Tesla recalls 135,000 vehicles. This is your Daily Crunch for February 2, 2021. The big story: Jeff Bezos will step down as Amazon CEO Amazon announced today that founder Jeff Bezos will be transitioning from …*
+      - *Embedded finance — the idea of offering financial products where customers are already congregating via white label solutions and APIs – isn’t an entirely new concept. In fact, in one form or another, such as point of sale credit, the concept has existed for …*
       
-  - What Andy Jassy's promotion to Amazon CEO could mean for AWS
+  - Alibaba Cloud turns profitable after 11 years
       <hr/>
       
-      - *Blockbuster news struck late this afternoon when Amazon announced that Jeff Bezos would be stepping back as CEO of Amazon, the company he built from a business in his garage to worldwide behemoth. As he takes on the role of executive chairman, his replacement…*
+      - *Alibaba Cloud, the cloud computing arm of Chinese e-commerce giant Alibaba, became profitable for the first time in the December quarter, the company announced in its earnings report. The firm’s cloud unit achieved positive adjusted EBITA (earnings before int…*
       
-  - Google Cloud lost $5.6B in 2020
+  - Could eyelash extensions become a huge market? This robotics startup thinks so
       <hr/>
       
-      - *Google Cloud lost $5.6 billion in Google's fiscal year 2020, which ended December 31. That's on $13 billion of revenue.*
+      - *Eyelash extensions have taken off in recent years — particularly in Asia —  but the audience is only so broad. Getting extensions — semi-permanent fibers that are attached to one’s natural eyelashes — can require hundreds dollars and hours in the seat of a la…*
        
-  - Save 25% with Extra Crunch Group Membership
+  - Bot MD, an AI-based chatbot for doctors, raises $5 million for expansion into more Asian markets
       <hr/>
        
-       - *We’re excited to announce Group Membership for Extra Crunch. The feature allows you to easily manage seats and payments for your team through a self-service interface. If your team joins through Group Membership, you’ll also save 25% or more on annual pricing…*
+       - *Time is critical for healthcare providers, especially in the middle of the pandemic. Singapore-based Bot MD helps save time with an AI-based chatbot that lets doctors look up important information from their smartphones, instead of needing to call a hospital …*
       
 
 <br />
