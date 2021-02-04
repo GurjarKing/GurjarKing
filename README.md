@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - India sends warning to Twitter over lifting block on accounts and noncompliance of order
+  - Daily Crunch: TikTok will downrank 'unsubstantiated' claims
      <hr/>
      
-      - *India has issued a notice to Twitter, warning the American social firm to comply with New Delhi’s order to block accounts and content related to a protest by farmers and not “assume the role of a court and justify non-compliance.” Failure to comply may prompt…*
+      - *TikTok announces additional steps to fight misinformation, Myanmar’s military cracks down on Facebook and Google’s subsea cable goes online. This is your Daily Crunch for February 3, 2021. The big story: TikTok will downrank ‘unsubstantiated’ claims TikTok ha…*
      
-  - Embedded finance startup Banxware raises €4M seed
+  - Spotify hints toward plans for podcast subscriptions, à la carte payments
       <hr/>
       
-      - *Embedded finance — the idea of offering financial products where customers are already congregating via white label solutions and APIs – isn’t an entirely new concept. In fact, in one form or another, such as point of sale credit, the concept has existed for …*
+      - *Spotify again signaled its interest in developing new ways to monetize its investments in podcasts. In the company’s fourth-quarter earnings, chief executive Daniel Ek suggested the streaming media company foresees a future where there will be multiple busine…*
       
-  - Alibaba Cloud turns profitable after 11 years
+  - CA Supreme Court denies lawsuit challenging Prop 22's constitutionality
       <hr/>
       
-      - *Alibaba Cloud, the cloud computing arm of Chinese e-commerce giant Alibaba, became profitable for the first time in the December quarter, the company announced in its earnings report. The firm’s cloud unit achieved positive adjusted EBITA (earnings before int…*
+      - *The California Supreme Court today shot down the lawsuit filed by a group of rideshare drivers in California and the Service Employees International Union that alleged Proposition 22 violates the state’s constitution. “We are disappointed in the Supreme Court…*
       
-  - Could eyelash extensions become a huge market? This robotics startup thinks so
+  - Myanmar military government orders telecom networks to temporarily block Facebook
       <hr/>
       
-      - *Eyelash extensions have taken off in recent years — particularly in Asia —  but the audience is only so broad. Getting extensions — semi-permanent fibers that are attached to one’s natural eyelashes — can require hundreds dollars and hours in the seat of a la…*
+      - *Myanmar’s new military government has ordered local telecom firms to temporarily block Facebook in the Southeast Asian nation days after the military seized power in the country in a military coup. Several users on Myanmar subreddit reported moments ago that …*
        
-  - Bot MD, an AI-based chatbot for doctors, raises $5 million for expansion into more Asian markets
+  - Social platform veteran Sriram Krishnan is Andreessen Horowitz's latest general partner
       <hr/>
        
-       - *Time is critical for healthcare providers, especially in the middle of the pandemic. Singapore-based Bot MD helps save time with an AI-based chatbot that lets doctors look up important information from their smartphones, instead of needing to call a hospital …*
+       - *Today, Andreessen Horowitz founder Marc Andreessen announced that social media product veteran Sriram Krishnan will be joining the firm as their latest general partner. Krishnan, whose previous roles include stints at Snap, Facebook and Twitter, has gained a …*
       
 
 <br />
