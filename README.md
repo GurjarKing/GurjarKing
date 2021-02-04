@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: TikTok will downrank 'unsubstantiated' claims
+  - Former Paytm execs team up to chase gold in India
      <hr/>
      
-      - *TikTok announces additional steps to fight misinformation, Myanmar’s military cracks down on Facebook and Google’s subsea cable goes online. This is your Daily Crunch for February 3, 2021. The big story: TikTok will downrank ‘unsubstantiated’ claims TikTok ha…*
+      - *Nearly every adult in India has a bank account, but fewer than a quarter of them in the South Asian nation can secure loans from the formal financial institutions. Although much of the population in the country doesn’t have a credit score, an increasingly gro…*
      
-  - Spotify hints toward plans for podcast subscriptions, à la carte payments
+  - BigChange raises $102M for a platform to help manage service fleets
       <hr/>
       
-      - *Spotify again signaled its interest in developing new ways to monetize its investments in podcasts. In the company’s fourth-quarter earnings, chief executive Daniel Ek suggested the streaming media company foresees a future where there will be multiple busine…*
+      - *We talk a lot these days about the future of work and the proliferation of new and better tools for distributed workforces, but companies focused on developing fleet management software — even if they have not really been viewed as “tech startups” — have been…*
       
-  - CA Supreme Court denies lawsuit challenging Prop 22's constitutionality
+  - ManoMano’s sales are growing rapidly for its home improvement e-commerce platform
       <hr/>
       
-      - *The California Supreme Court today shot down the lawsuit filed by a group of rideshare drivers in California and the Service Employees International Union that alleged Proposition 22 violates the state’s constitution. “We are disappointed in the Supreme Court…*
+      - *It’s been a year since I covered ManoMano, the French e-commerce platform focused on DIY, home improvement and gardening products. And 2020 has been a successful years as the company’s gross merchandise volume doubled to €1.2 billion ($1.45 billion at today’s…*
       
-  - Myanmar military government orders telecom networks to temporarily block Facebook
+  - This insurtech alleges its venture backer founded and funded a copycat: a founder's "nightmare"
       <hr/>
       
-      - *Myanmar’s new military government has ordered local telecom firms to temporarily block Facebook in the Southeast Asian nation days after the military seized power in the country in a military coup. Several users on Myanmar subreddit reported moments ago that …*
+      - *Relationships can be messy, including between startup founders and their venture investors. But in a case that takes messy to an extreme, an insurtech company in Santa Monica, Calif. called Sure is alleging that its Series A investor used privileged informati…*
        
-  - Social platform veteran Sriram Krishnan is Andreessen Horowitz's latest general partner
+  - Will Carbon and Shahry usher in a wave of buy now, pay later services in Africa?
       <hr/>
        
-       - *Today, Andreessen Horowitz founder Marc Andreessen announced that social media product veteran Sriram Krishnan will be joining the firm as their latest general partner. Krishnan, whose previous roles include stints at Snap, Facebook and Twitter, has gained a …*
+       - *Affirm, Afterpay, Klarna, Quadpay. These are some of the big global players in the buy now, pay later (BNPL) movement. They allow shoppers to purchase products online and pay in installments with nominal or no fees, and have become more prominent due to how t…*
       
 
 <br />
