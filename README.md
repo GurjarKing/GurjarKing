@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Peloton will pump $100M into delivery logistics to ease supply concerns
+  - Dublin's Frontline Ventures raises new $83.8M seed fund  for European B2B startups
      <hr/>
      
-      - *This probably falls under “good problems,” in the grand scheme of things. After another record quarter, Peloton has announced that it will invest more than $100 million in air and ocean freight deliveries due to “longer-than-acceptable wait times for the deli…*
+      - *Dublin-based Frontline Ventures has released details of its new €70 million ($83.8M) Frontline Seed fund III which will be aimed at European B2B startups. The new fund will bring Frontline’s total funds under management to €250 million, deployed out of its of…*
      
-  - Firefly will light up the Moon with $93M lunar lander contract from NASA
+  - YC-backed Djamo is building a financial super app for consumers in Francophone Africa
       <hr/>
       
-      - *NASA has awarded Firefly Aerospace with a $93.3 million contract to take a lunar lander module loaded with experiments to the surface of the Moon. While the company will not be performing the launch itself, it will be providing the spacecraft and “Blue Ghost”…*
+      - *Djamo, a financial super app for consumers in Francophone Africa, is the first startup from Ivory Coast to get backing from Y Combinator. While there has been a huge profusion of financial services that have emerged in recent years in Africa, Djamo’s mission …*
       
-  - TechCrunch's favorite companies from 500 Startups' latest demo day
+  - Twinco Capital scores €3M for its supply chain finance solution
       <hr/>
       
-      - *TechCrunch tuned into 500 Startups' 27th demo day today, keen to get our eyes on the accelerator's latest companies.*
+      - *Twinco Capital, a Madrid and Amsterdam-based startup making it easier to access supply chain finance, has raised €3 million in funding. Leading the round is Spanish VC fund Mundi Ventures, with participation from previous backer Finch Capital and several unna…*
       
-  - Daily Crunch: Microsoft rethinks corporate intranet
+  - PayPal is shutting down domestic payments business in India
       <hr/>
       
-      - *Microsoft tries to improve corporate intranet, Google will offer new smartphone health measurements and 23andMe is going public via SPAC. This is your Daily Crunch for February 4, 2021. The big story: Microsoft rethinks corporate intranet Microsoft launched w…*
+      - *PayPal is shutting down its domestic business in India, less than four years after the American giant kickstarted local operations in the world’s second largest internet market. “From 1 April 2021, we will focus all our attention on enabling more internationa…*
        
-  - A lake house architect, a Miami VC, and homeowner walk into a wine bar
+  - Kuaishou, TikTok's Chinese nemesis, surges 194% on IPO debut
       <hr/>
        
-       - *Hello and welcome back to Equity, TechCrunch’s venture-capital-focused podcast, where we unpack the numbers behind the headlines. Natasha and Danny and Alex and Grace were all here to chat through the week’s biggest tech happenings. The good news is that we m…*
+       - *Kuaishou, a Chinese video app that’s largely underappreciated outside China, has just completed a massive initial public offering in Hong Kong. The app is by far the biggest rival for Douyin, TikTok’s Chinese version, and unlike many Western video platforms t…*
       
 
 <br />
