@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Former Paytm execs team up to chase gold in India
+  - Peloton will pump $100M into delivery logistics to ease supply concerns
      <hr/>
      
-      - *Nearly every adult in India has a bank account, but fewer than a quarter of them in the South Asian nation can secure loans from the formal financial institutions. Although much of the population in the country doesn’t have a credit score, an increasingly gro…*
+      - *This probably falls under “good problems,” in the grand scheme of things. After another record quarter, Peloton has announced that it will invest more than $100 million in air and ocean freight deliveries due to “longer-than-acceptable wait times for the deli…*
      
-  - BigChange raises $102M for a platform to help manage service fleets
+  - Firefly will light up the Moon with $93M lunar lander contract from NASA
       <hr/>
       
-      - *We talk a lot these days about the future of work and the proliferation of new and better tools for distributed workforces, but companies focused on developing fleet management software — even if they have not really been viewed as “tech startups” — have been…*
+      - *NASA has awarded Firefly Aerospace with a $93.3 million contract to take a lunar lander module loaded with experiments to the surface of the Moon. While the company will not be performing the launch itself, it will be providing the spacecraft and “Blue Ghost”…*
       
-  - ManoMano’s sales are growing rapidly for its home improvement e-commerce platform
+  - TechCrunch's favorite companies from 500 Startups' latest demo day
       <hr/>
       
-      - *It’s been a year since I covered ManoMano, the French e-commerce platform focused on DIY, home improvement and gardening products. And 2020 has been a successful years as the company’s gross merchandise volume doubled to €1.2 billion ($1.45 billion at today’s…*
+      - *TechCrunch tuned into 500 Startups' 27th demo day today, keen to get our eyes on the accelerator's latest companies.*
       
-  - This insurtech alleges its venture backer founded and funded a copycat: a founder's "nightmare"
+  - Daily Crunch: Microsoft rethinks corporate intranet
       <hr/>
       
-      - *Relationships can be messy, including between startup founders and their venture investors. But in a case that takes messy to an extreme, an insurtech company in Santa Monica, Calif. called Sure is alleging that its Series A investor used privileged informati…*
+      - *Microsoft tries to improve corporate intranet, Google will offer new smartphone health measurements and 23andMe is going public via SPAC. This is your Daily Crunch for February 4, 2021. The big story: Microsoft rethinks corporate intranet Microsoft launched w…*
        
-  - Will Carbon and Shahry usher in a wave of buy now, pay later services in Africa?
+  - A lake house architect, a Miami VC, and homeowner walk into a wine bar
       <hr/>
        
-       - *Affirm, Afterpay, Klarna, Quadpay. These are some of the big global players in the buy now, pay later (BNPL) movement. They allow shoppers to purchase products online and pay in installments with nominal or no fees, and have become more prominent due to how t…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture-capital-focused podcast, where we unpack the numbers behind the headlines. Natasha and Danny and Alex and Grace were all here to chat through the week’s biggest tech happenings. The good news is that we m…*
       
 
 <br />
