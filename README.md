@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Dublin's Frontline Ventures raises new $83.8M seed fund  for European B2B startups
+  - Daily Crunch: Myanmar blocks Twitter and Instagram
      <hr/>
      
-      - *Dublin-based Frontline Ventures has released details of its new €70 million ($83.8M) Frontline Seed fund III which will be aimed at European B2B startups. The new fund will bring Frontline’s total funds under management to €250 million, deployed out of its of…*
+      - *Myanmar’s government extends its internet crackdown, Microsoft’s lobbying arm blacklists presidential election objectors and Dublin’s Frontline Ventures raises a new fund. This is your Daily Crunch for February 5, 2021. The big story: Myanmar blocks Twitter a…*
      
-  - YC-backed Djamo is building a financial super app for consumers in Francophone Africa
+  - Extra Crunch roundup: 500 Startups' demo day, smart SaaS pricing and much more
       <hr/>
       
-      - *Djamo, a financial super app for consumers in Francophone Africa, is the first startup from Ivory Coast to get backing from Y Combinator. While there has been a huge profusion of financial services that have emerged in recent years in Africa, Djamo’s mission …*
+      - *I've never used "stonkathon" in a headline before, but it's been that kind of week.*
       
-  - Twinco Capital scores €3M for its supply chain finance solution
+  - A look at how proptech startup Knotel went from a $1.6B valuation to filing for bankruptcy
       <hr/>
       
-      - *Twinco Capital, a Madrid and Amsterdam-based startup making it easier to access supply chain finance, has raised €3 million in funding. Leading the round is Spanish VC fund Mundi Ventures, with participation from previous backer Finch Capital and several unna…*
+      - *This week, flexible workspace operator (and one-time unicorn) Knotel announced it had filed for bankruptcy and that its assets were being acquired by investor and commercial real estate brokerage Newmark for a reported $70 million. Knotel designed, built and …*
       
-  - PayPal is shutting down domestic payments business in India
+  - The SAFE TECH Act would overhaul Section 230, but law's defenders warn of major side effects
       <hr/>
       
-      - *PayPal is shutting down its domestic business in India, less than four years after the American giant kickstarted local operations in the world’s second largest internet market. “From 1 April 2021, we will focus all our attention on enabling more internationa…*
+      - *The first major Section 230 reform proposal of the Biden era is out. In a new bill, Senate Democrats Mark Warner, Mazie Hirono and Amy Klobuchar propose changes to Section 230 of the Communications Decency Act that would fundamentally change the 1996 law wide…*
        
-  - Kuaishou, TikTok's Chinese nemesis, surges 194% on IPO debut
+  - The Founder Institute's VC Lab is a free training program for budding venture capitalists
       <hr/>
        
-       - *Kuaishou, a Chinese video app that’s largely underappreciated outside China, has just completed a massive initial public offering in Hong Kong. The app is by far the biggest rival for Douyin, TikTok’s Chinese version, and unlike many Western video platforms t…*
+       - *The Founder Institute isn’t just trying trying to help entrepreneurs launch new startups — with its new VC Lab, the accelerator says it’s also hoping to fuel the launch of 1,000 new venture capital funds. Fi co-founder Jonathan Greechan described this as an a…*
       
 
 <br />
