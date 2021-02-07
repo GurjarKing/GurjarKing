@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - As location becomes irrelevant, Greek VCs eye local talent and spread their wings
+  - Hasselblad X1D II 50C: out of the studio and into the streets
      <hr/>
      
-      - *Venture capital and venture debt have continued to grow in the country, although the angel scene remains low-key.*
+      - *We crawled into an abandoned school bus, trespassed through dilapidated hallways, dodged fleeting thunderstorms and wandered through empty streets of Chinatown late into the evening. For two summery weeks, I couldn’t have been happier. New York City was in lo…*
      
-  - Two new efforts push to transform more people into limited partners of VC funds
+  - What are these rich people doing pumping crappy assets?
       <hr/>
       
-      - *Venture funds have historically counted on a few types of investors — or limited partners — for their investing capital. One of these groups is institutional investors — think pension funds, university endowments, hospital systems and the like. Another is cor…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here.  R…*
       
-  - Daily Crunch: Myanmar blocks Twitter and Instagram
+  - Bumble's first date with the public markets
       <hr/>
       
-      - *Myanmar’s government extends its internet crackdown, Microsoft’s lobbying arm blacklists presidential election objectors and Dublin’s Frontline Ventures raises a new fund. This is your Daily Crunch for February 5, 2021. The big story: Myanmar blocks Twitter a…*
+      - *The public markets have been so active lately that it’s hard to drum up excitement for yet another company making its way to the bull market. But, in the case of Bumble, a dating app where women message first, next week’s public debut is worth paying attentio…*
       
-  - Extra Crunch roundup: 500 Startups' demo day, smart SaaS pricing and much more
+  - Amazon, Google pay the piper
       <hr/>
       
-      - *I've never used "stonkathon" in a headline before, but it's been that kind of week.*
+      - *You’ve landed on Human Capital, a weekly newsletter detailing the latest in diversity, equity, inclusion and labor. Sign up here to receive the newsletter every Friday at 1 p.m. PT. The events of this week perfectly encapsulate the variety of worker and workp…*
        
-  - A look at how proptech startup Knotel went from a $1.6B valuation to filing for bankruptcy
+  - Original Content podcast: Pixar's 'Soul' offers a lively visit to pre-pandemic New York
       <hr/>
        
-       - *This week, flexible workspace operator (and one-time unicorn) Knotel announced it had filed for bankruptcy and that its assets were being acquired by investor and commercial real estate brokerage Newmark for a reported $70 million. Knotel designed, built and …*
+       - *For the latest episode of the Original Content podcast, we looked back at “Soul,” which was released on Disney+ at the end of last year. The new Pixar film tells the story of Joe Gardner, a high school music teacher and jazz musician voiced by Jamie Foxx. Joe…*
       
 
 <br />
