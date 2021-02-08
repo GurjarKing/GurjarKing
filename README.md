@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Harry Stebbings is leaving Stride, the VC firm he founded with Fred Destin
+  - Here's how Elon Musk's $100 million Xprize competition for carbon removal will work
      <hr/>
      
-      - *Harry Stebbings, the podcaster-turned-VC, is stepping down as a partner of Stride.VC, the London-based venture capital firm he co-founded with Fred Destin, formerly of Accel. In a series of tweets, Destin said that Stebbings won’t be involved in Stride’s seco…*
+      - *Elon Musk notified the world that he would be donating $100 million to pursue new technologies for carbon capture, methods through which carbon dioxide can be actively extracted from the atmosphere as a means to help stave off climate change. As TechCrunch re…*
      
+  - Dailyhunt and Josh's parent firm raises over $100 million
+      <hr/>
+      
+      - *VerSe Innovation, the parent firm of popular news and entertainment app DailyHunt and short video app Josh, said on Monday the startup has raised over $100 million as part of its Series H financing round from Qatar Investment Authority and Glade Brook Capital…*
+      
+  - China court to proceed with ByteDance case against Tencent over alleged monopoly
+      <hr/>
+      
+      - *ByteDance is bringing its battle with archrival Tencent to the court at a time when the Chinese government moves to curve the power of the country’s internet behemoths. The Beijing Intellectual Property Court has permitted a ByteDance lawsuit brought against …*
+      
+  - Harry Stebbings is leaving Stride, the VC firm he founded with Fred Destin
+      <hr/>
+      
+      - *Harry Stebbings, the podcaster-turned-VC, is stepping down as a partner of Stride.VC, the London-based venture capital firm he co-founded with Fred Destin, formerly of Accel. In a series of tweets, Destin said that Stebbings won’t be involved in Stride’s seco…*
+       
   - Amazon warehouse workers begin historic vote to unionize
       <hr/>
-      
-      - *On Friday, the National Labor Relations Board rejected Amazon’s attempt to delay a union vote set to begin on Monday, February 8. For many, the online giant’s bid was seen as a stalling tactic, including a motion to demand votes take place in-person — a clear…*
-      
-  - Calling Belfast VCs: Be featured in The Great TechCrunch Survey of European VC
-      <hr/>
-      
-      - *TechCrunch is embarking on a major project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Belfast and Northern Ireland will capture how things are faring, and what change…*
-      
-  - Hasselblad X1D II 50C: out of the studio and into the streets
-      <hr/>
-      
-      - *We crawled into an abandoned school bus, trespassed through dilapidated hallways, dodged fleeting thunderstorms and wandered through empty streets of Chinatown late into the evening. For two summery weeks, I couldn’t have been happier. New York City was in lo…*
        
-  - What are these rich people doing pumping crappy assets?
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here.  R…*
+       - *On Friday, the National Labor Relations Board rejected Amazon’s attempt to delay a union vote set to begin on Monday, February 8. For many, the online giant’s bid was seen as a stalling tactic, including a motion to demand votes take place in-person — a clear…*
       
 
 <br />
