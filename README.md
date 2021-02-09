@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Here's how Elon Musk's $100 million Xprize competition for carbon removal will work
+  - Daily Crunch: DoorDash acquires Chowbotics
      <hr/>
      
-      - *Elon Musk notified the world that he would be donating $100 million to pursue new technologies for carbon capture, methods through which carbon dioxide can be actively extracted from the atmosphere as a means to help stave off climate change. As TechCrunch re…*
+      - *DoorDash acquires a salad-making robotics startup, Twitter confirms subscription plans and Tesla makes a big bet on bitcoin. This is your Daily Crunch for February 8, 2021. The big story: DoorDash acquires Chowbotics DoorDash has acquired the Bay Area startup…*
      
-  - Dailyhunt and Josh's parent firm raises over $100 million
+  - Facebook says it will remove more COVID-19 conspiracies that discourage vaccination
       <hr/>
       
-      - *VerSe Innovation, the parent firm of popular news and entertainment app DailyHunt and short video app Josh, said on Monday the startup has raised over $100 million as part of its Series H financing round from Qatar Investment Authority and Glade Brook Capital…*
+      - *Vaccine misinformation has been around since well before the pandemic, but ensuring that anti-scientific conspiracies don’t get boosted online is more crucial than ever as the world races against the spread of a deadly, changing virus. Now, Facebook says it w…*
       
-  - China court to proceed with ByteDance case against Tencent over alleged monopoly
+  - Blair launches $100M facility to fund ISAs for students
       <hr/>
       
-      - *ByteDance is bringing its battle with archrival Tencent to the court at a time when the Chinese government moves to curve the power of the country’s internet behemoths. The Beijing Intellectual Property Court has permitted a ByteDance lawsuit brought against …*
+      - *Income-share agreements or ISAs have been gathering force as an alternative financial model for students, particularly at non-traditional schools like coding boot camps and trade schools. We’ve done some pretty deep dives into the space over the years in term…*
       
-  - Harry Stebbings is leaving Stride, the VC firm he founded with Fred Destin
+  - Micro-mobility startup Helbiz to go public via a SPAC, and will expand into ghost kitchens
       <hr/>
       
-      - *Harry Stebbings, the podcaster-turned-VC, is stepping down as a partner of Stride.VC, the London-based venture capital firm he co-founded with Fred Destin, formerly of Accel. In a series of tweets, Destin said that Stebbings won’t be involved in Stride’s seco…*
+      - *Micro-mobility startup Helbiz, which now operates across Europe and the USA, is merging with a special purpose acquisition company (“SPAC”) to become a publicly listed company, giving it a war-chest to potentially roll-up smaller competitors in the space, as …*
        
-  - Amazon warehouse workers begin historic vote to unionize
+  - Goody raises $4 million for its mobile app that lets you send gifts via text
       <hr/>
        
-       - *On Friday, the National Labor Relations Board rejected Amazon’s attempt to delay a union vote set to begin on Monday, February 8. For many, the online giant’s bid was seen as a stalling tactic, including a motion to demand votes take place in-person — a clear…*
+       - *Unless you’ve got someone’s Amazon Wish List, gift giving today can still be fairly difficult. You don’t necessarily know a friend or family member’s shipping address, their sizes or their particular tastes, at times. A new startup called Goody, backed by a r…*
       
 
 <br />
