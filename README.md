@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: DoorDash acquires Chowbotics
+  - Target Global leads $150M round for Amazon Marketplace consolidator Branded
      <hr/>
      
-      - *DoorDash acquires a salad-making robotics startup, Twitter confirms subscription plans and Tesla makes a big bet on bitcoin. This is your Daily Crunch for February 8, 2021. The big story: DoorDash acquires Chowbotics DoorDash has acquired the Bay Area startup…*
+      - *There’s been a profusion of startups emerging in the last year around the concept of rolling up smaller e-commerce businesses — operations that mainly sell and distribute their products on marketplace platforms like Amazon’s — using economies of scale to brin…*
      
-  - Facebook says it will remove more COVID-19 conspiracies that discourage vaccination
+  - Finch Capital launches third fund to invest in European fintech at Series A and B
       <hr/>
       
-      - *Vaccine misinformation has been around since well before the pandemic, but ensuring that anti-scientific conspiracies don’t get boosted online is more crucial than ever as the world races against the spread of a deadly, changing virus. Now, Facebook says it w…*
+      - *Finch Capital, the early-stage fintech VC with a presence in London and Amsterdam, has raised a third fund. Targeting a final close of €150 million, the fund has already secured €85 million from LPs ready to deploy. Out of Finch Capital “Europe III,” the VC w…*
       
-  - Blair launches $100M facility to fund ISAs for students
+  - Hoxton Farms raises £2.7M seed to produce animal fat without animals
       <hr/>
       
-      - *Income-share agreements or ISAs have been gathering force as an alternative financial model for students, particularly at non-traditional schools like coding boot camps and trade schools. We’ve done some pretty deep dives into the space over the years in term…*
+      - *Hoxton Farms, a U.K. startup that wants to produce animal fat without using animals, has raised £2.7 million in seed funding. The round is led by Founders Fund, the Silicon Valley venture capital firm founded by Peter Thiel. Also participating is Backed, Pres…*
       
-  - Micro-mobility startup Helbiz to go public via a SPAC, and will expand into ghost kitchens
+  - Tesla summoned by Chinese regulators for quality concerns
       <hr/>
       
-      - *Micro-mobility startup Helbiz, which now operates across Europe and the USA, is merging with a special purpose acquisition company (“SPAC”) to become a publicly listed company, giving it a war-chest to potentially roll-up smaller competitors in the space, as …*
+      - *Tesla, which is seeing rapid growth in China as it ramps up local manufacturing capacity, has been called upon by the Chinese government for talks over quality issues in its electric cars. A group of Chinese authorities, including the country’s top market reg…*
        
-  - Goody raises $4 million for its mobile app that lets you send gifts via text
+  - LanzaJet inks deal with British Airways for 7500 tons of fuel low emission fuel additive per year
       <hr/>
        
-       - *Unless you’ve got someone’s Amazon Wish List, gift giving today can still be fairly difficult. You don’t necessarily know a friend or family member’s shipping address, their sizes or their particular tastes, at times. A new startup called Goody, backed by a r…*
+       - *LanzaJet, the renewable jet fuel startup spun out from the longtime renewable and synthetic fuel manufacturer, LanzaTech, has inked a supply agreement with British Airways to supply the company with at least 7500 tons of fuel additive per yer. The deal marks …*
       
 
 <br />
