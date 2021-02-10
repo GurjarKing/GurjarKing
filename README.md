@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Target Global leads $150M round for Amazon Marketplace consolidator Branded
+  - Big data VC OpenOcean hits $111.5M for third fund, appoints Ekaterina Almasque to GP
      <hr/>
      
-      - *There’s been a profusion of startups emerging in the last year around the concept of rolling up smaller e-commerce businesses — operations that mainly sell and distribute their products on marketplace platforms like Amazon’s — using economies of scale to brin…*
+      - *OpenOcean, a European VC which has tended to specialise in big-data-oriented startups and deep tech, has reach the €92 million ($111.5 million) mark for its third main venture fund, and is aiming for a final close of €130M by mid-way this year. LPs in the new…*
      
-  - Finch Capital launches third fund to invest in European fintech at Series A and B
+  - NASA picks SpaceX Falcon Heavy for $332M mission to launch lunar Gateway components in 2024
       <hr/>
       
-      - *Finch Capital, the early-stage fintech VC with a presence in London and Amsterdam, has raised a third fund. Targeting a final close of €150 million, the fund has already secured €85 million from LPs ready to deploy. Out of Finch Capital “Europe III,” the VC w…*
+      - *NASA has announced that SpaceX will take two major parts of the Gateway lunar orbiter that will function as a pit stop for future Moon missions. The Power and Propulsion Element and Habitation and Logistics Outpost — which together will form the first usable …*
       
-  - Hoxton Farms raises £2.7M seed to produce animal fat without animals
+  - Sharify makes it super simple to rediscover your city's social side
       <hr/>
       
-      - *Hoxton Farms, a U.K. startup that wants to produce animal fat without using animals, has raised £2.7 million in seed funding. The round is led by Founders Fund, the Silicon Valley venture capital firm founded by Peter Thiel. Also participating is Backed, Pres…*
+      - *The pandemic has upended many aspects of urban life but perhaps the most visible upheaval is to citydwellers’ social lives, with curfews calling time on traditional night life across much of the Western world and social distancing putting a chilly spin on opp…*
       
-  - Tesla summoned by Chinese regulators for quality concerns
+  - Hyundai shrinks its 'walking car' robot to carry cargo, get rides from drones
       <hr/>
       
-      - *Tesla, which is seeing rapid growth in China as it ramps up local manufacturing capacity, has been called upon by the Chinese government for talks over quality issues in its electric cars. A group of Chinese authorities, including the country’s top market reg…*
+      - *Hyundai Motor Group is back with a new “walking car” robot that can use its wheels to roll along a path or stand up and navigate tougher terrain on its legs. This time, the concept is designed to carry cargo and is small enough to be carried by a drone. The T…*
        
-  - LanzaJet inks deal with British Airways for 7500 tons of fuel low emission fuel additive per year
+  - Researchers look to ‘worm blobs’ to improve robotic movement
       <hr/>
        
-       - *LanzaJet, the renewable jet fuel startup spun out from the longtime renewable and synthetic fuel manufacturer, LanzaTech, has inked a supply agreement with British Airways to supply the company with at least 7500 tons of fuel additive per yer. The deal marks …*
+       - *What, you are no doubt asking, is a worm a blob? Well, it’s a blob of worms, obviously. More specifically, it’s a blob of California blackworms. It’s not a flock, nor a swam nor a school. It’s a big, undulating mass of a Lumbriculus variegatus tangled up, but…*
       
 
 <br />
