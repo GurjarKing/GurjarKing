@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Big data VC OpenOcean hits $111.5M for third fund, appoints Ekaterina Almasque to GP
+  - Podz turns podcasts into a personalized audio newsfeed
      <hr/>
      
-      - *OpenOcean, a European VC which has tended to specialise in big-data-oriented startups and deep tech, has reach the €92 million ($111.5 million) mark for its third main venture fund, and is aiming for a final close of €130M by mid-way this year. LPs in the new…*
+      - *Podz is the latest startup trying to solve the problem of podcast discovery, with backing from investors like M13, Katie Couric and Paris Hilton. “Even though podcasts have gained a lot of momentum — there are 100 million folks in the U.S. who listen to podca…*
      
-  - NASA picks SpaceX Falcon Heavy for $332M mission to launch lunar Gateway components in 2024
+  - Archer lands $1.1B order from United Airlines and a SPAC deal
       <hr/>
       
-      - *NASA has announced that SpaceX will take two major parts of the Gateway lunar orbiter that will function as a pit stop for future Moon missions. The Power and Propulsion Element and Habitation and Logistics Outpost — which together will form the first usable …*
+      - *Archer Aviation, the electric aircraft startup targeting the urban air mobility market, has landed United Airlines as a customer and an investor in its bid to become a publicly traded company via a merger with a special purpose acquisition company.  Archer Av…*
       
-  - Sharify makes it super simple to rediscover your city's social side
+  - Thrasio raises $750M more in equity for its Amazon roll-up play
       <hr/>
       
-      - *The pandemic has upended many aspects of urban life but perhaps the most visible upheaval is to citydwellers’ social lives, with curfews calling time on traditional night life across much of the Western world and social distancing putting a chilly spin on opp…*
+      - *The Amazon Marketplace roll-up play is well and truly underway. In the latest development, Thrasio — one of the biggest and earliest movers in the market to consolidate third-party sellers on the platform, with the promise to provide better economies of scale…*
       
-  - Hyundai shrinks its 'walking car' robot to carry cargo, get rides from drones
+  - Collective launches a SaaS marketplace for freelancer teams
       <hr/>
       
-      - *Hyundai Motor Group is back with a new “walking car” robot that can use its wheels to roll along a path or stand up and navigate tougher terrain on its legs. This time, the concept is designed to carry cargo and is small enough to be carried by a drone. The T…*
+      - *Freelancers who work well together in teams are the target for Collective, a French startup that’s launching a software-as-a-service marketplace today. (Not to be confused with Collective, a US-based startup that offers back-office tools for the self employed…*
        
-  - Researchers look to ‘worm blobs’ to improve robotic movement
+  - Labster gets millions from a16z to bring virtual science lab software to the world
       <hr/>
        
-       - *What, you are no doubt asking, is a worm a blob? Well, it’s a blob of worms, obviously. More specifically, it’s a blob of California blackworms. It’s not a flock, nor a swam nor a school. It’s a big, undulating mass of a Lumbriculus variegatus tangled up, but…*
+       - *Andreessen Horowitz, a venture capital firm with $16.5 billion in assets under management, has poured millions into an edtech startup that sells virtual STEM lab simulations to institutions. Copenhagen-based Labster, which sells virtual science laboratory sim…*
       
 
 <br />
