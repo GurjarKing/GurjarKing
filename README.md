@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Podz turns podcasts into a personalized audio newsfeed
+  - Bumble prices IPO at $43 per share
      <hr/>
      
-      - *Podz is the latest startup trying to solve the problem of podcast discovery, with backing from investors like M13, Katie Couric and Paris Hilton. “Even though podcasts have gained a lot of momentum — there are 100 million folks in the U.S. who listen to podca…*
+      - *This afternoon Bumble priced its IPO at $43 per share, ahead its raised IPO range of $37 to $39 per share. After filing to go public in mid-January, and offered up its first price range on February 2nd. That range, $28 to $30 per share wound up coming up shor…*
      
-  - Archer lands $1.1B order from United Airlines and a SPAC deal
+  - Daily Crunch: Facebook tests a News Feed with less politics
       <hr/>
       
-      - *Archer Aviation, the electric aircraft startup targeting the urban air mobility market, has landed United Airlines as a customer and an investor in its bid to become a publicly traded company via a merger with a special purpose acquisition company.  Archer Av…*
+      - *Facebook tries to get less political, Oracle’s TikTok acquisition may not be happening and Twitter says Donald Trump is banned forever. This is your Daily Crunch for February 10, 2021. The big story: Facebook tests a News Feed with less politics Facebook anno…*
       
-  - Thrasio raises $750M more in equity for its Amazon roll-up play
+  - Scalarr raises $7.5M to fight mobile ad fraud
       <hr/>
       
-      - *The Amazon Marketplace roll-up play is well and truly underway. In the latest development, Thrasio — one of the biggest and earliest movers in the market to consolidate third-party sellers on the platform, with the promise to provide better economies of scale…*
+      - *Scalarr, a startup that says it uses machine learning to combat ad fraud, is announcing that it has raised $7.5 million in Series A funding. The company was founded by CEO Inna Ushakova and CPO Yuriy Yashunin, who previously led the mobile marketing agency Ze…*
       
-  - Collective launches a SaaS marketplace for freelancer teams
+  - Beacons debuts a 'link in bio' mobile website builder that helps creators make money, not just list links
       <hr/>
       
-      - *Freelancers who work well together in teams are the target for Collective, a French startup that’s launching a software-as-a-service marketplace today. (Not to be confused with Collective, a US-based startup that offers back-office tools for the self employed…*
+      - *Today, there are a number of website builders aimed at creators who want to point fans to a dedicated landing page from their social media profile. If you’ve spent any time on TikTok or Instagram, you’ve likely come across one of these simplified “link in bio…*
        
-  - Labster gets millions from a16z to bring virtual science lab software to the world
+  - How I Podcast: Welcome to Your Fantasy's Eleanor Kagan
       <hr/>
        
-       - *Andreessen Horowitz, a venture capital firm with $16.5 billion in assets under management, has poured millions into an edtech startup that sells virtual STEM lab simulations to institutions. Copenhagen-based Labster, which sells virtual science laboratory sim…*
+       - *The beauty of podcasting is that anyone can do it. It’s a rare medium that’s nearly as easy to make as it is to consume. And as such, no two people do it exactly the same way. There are a wealth of hardware and software solutions open to potential podcasters,…*
       
 
 <br />
