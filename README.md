@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Bumble prices IPO at $43 per share
+  - Goldman Sachs and Sesame Workshop pour money into this edtech firm's newest fund
      <hr/>
      
-      - *This afternoon Bumble priced its IPO at $43 per share, ahead its raised IPO range of $37 to $39 per share. After filing to go public in mid-January, and offered up its first price range on February 2nd. That range, $28 to $30 per share wound up coming up shor…*
+      - *Shauntel Garvey and Jennifer Carolan liked edtech before the sector was cool, so the duo co-founded Reach Capital in 2015 with a $53 million debut fund. The San Francisco-based venture firm has since put checks into education startups including Newsela, Sketc…*
      
-  - Daily Crunch: Facebook tests a News Feed with less politics
+  - SuperAnnotate, a computer vision platform, partners with with open-source to spread visual ML
       <hr/>
       
-      - *Facebook tries to get less political, Oracle’s TikTok acquisition may not be happening and Twitter says Donald Trump is banned forever. This is your Daily Crunch for February 10, 2021. The big story: Facebook tests a News Feed with less politics Facebook anno…*
+      - *SuperAnnotate, a NoCode computer vision platform, is partnering with OpenCV, a non-profit organization that has built a large collection of open-source computer vision algorithms. The move means startups and entrepreneurs will be able to build their own AI mo…*
       
-  - Scalarr raises $7.5M to fight mobile ad fraud
+  - How African startups raised investments in 2020
       <hr/>
       
-      - *Scalarr, a startup that says it uses machine learning to combat ad fraud, is announcing that it has raised $7.5 million in Series A funding. The company was founded by CEO Inna Ushakova and CPO Yuriy Yashunin, who previously led the mobile marketing agency Ze…*
+      - *The venture capital scene in Africa has consistently grown, with an influx of capital from local and international investors reaching unprecedented heights in recent years. To understand how much growth has occurred, African startups raised a meagre $400 mill…*
       
-  - Beacons debuts a 'link in bio' mobile website builder that helps creators make money, not just list links
+  - Crypto-currency pioneer Diana Biggs joins digital assets startup Valour as its new CEO
       <hr/>
       
-      - *Today, there are a number of website builders aimed at creators who want to point fans to a dedicated landing page from their social media profile. If you’ve spent any time on TikTok or Instagram, you’ve likely come across one of these simplified “link in bio…*
+      - *Crypto-currency pioneer and early Bitcoin thought-leader Diana Biggs has joined Swiss-based startup Valour, which lets investors easily buy digital assets through their bank or broker. The move is significant with the news that Tesla has bought $1.5 billion w…*
        
-  - How I Podcast: Welcome to Your Fantasy's Eleanor Kagan
+  - Monzo, the British challenger bank nearing 5 million customers, has recruited a new U.S. CEO
       <hr/>
        
-       - *The beauty of podcasting is that anyone can do it. It’s a rare medium that’s nearly as easy to make as it is to consume. And as such, no two people do it exactly the same way. There are a wealth of hardware and software solutions open to potential podcasters,…*
+       - *Monzo, the U.K. challenger bank with just shy of 5 million customers, has recruited a new U.S CEO to head up its efforts states-side, TechCrunch has learned. Carol Nelson, who previously spent ten years as CEO of Cascade Bank and prior to that was a long time…*
       
 
 <br />
