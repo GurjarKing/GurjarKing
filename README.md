@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Goldman Sachs and Sesame Workshop pour money into this edtech firm's newest fund
+  - TechCrunch's favorites from Techstars' Boston, Chicago and workforce accelerators
      <hr/>
      
-      - *Shauntel Garvey and Jennifer Carolan liked edtech before the sector was cool, so the duo co-founded Reach Capital in 2015 with a $53 million debut fund. The San Francisco-based venture firm has since put checks into education startups including Newsela, Sketc…*
+      - *Building off TechCrunch’s coverage of the recent 500 Startups demo day, we’re back today to talk about some favorites from three more accelerator classes. This time we’re digging into Techstars’ latest three accelerator classes. What follows are four favorite…*
      
-  - SuperAnnotate, a computer vision platform, partners with with open-source to spread visual ML
+  - Daily Crunch: TikTok becomes a political battleground in Russia
       <hr/>
       
-      - *SuperAnnotate, a NoCode computer vision platform, is partnering with OpenCV, a non-profit organization that has built a large collection of open-source computer vision algorithms. The move means startups and entrepreneurs will be able to build their own AI mo…*
+      - *We take an in-depth look at TikTok usage in Russia, Facebook’s Oversight Board looks beyond Facebook and Sesame Workshop backs an edtech fund. This is your Daily Crunch for February 11, 2021. The big story: TikTok becomes a political battleground in Russia Ru…*
       
-  - How African startups raised investments in 2020
+  - TikTok partners with Whisk to pilot a recipe-saving feature on food videos
       <hr/>
       
-      - *The venture capital scene in Africa has consistently grown, with an influx of capital from local and international investors reaching unprecedented heights in recent years. To understand how much growth has occurred, African startups raised a meagre $400 mill…*
+      - *TikTok is expanding its integrations with third-party services, with the launch of a test that allows creators in the food space to link directly to recipes found on the Whisk app. This is being made possible by way of a new “recipe” button overlaid on relate…*
       
-  - Crypto-currency pioneer Diana Biggs joins digital assets startup Valour as its new CEO
+  - Facebook Oversight Board says other social networks 'welcome to join' if project succeeds
       <hr/>
       
-      - *Crypto-currency pioneer and early Bitcoin thought-leader Diana Biggs has joined Swiss-based startup Valour, which lets investors easily buy digital assets through their bank or broker. The move is significant with the news that Tesla has bought $1.5 billion w…*
+      - *The Facebook Oversight Board has only been operational for a short time, but the nascent project is already looking ahead. In a conversation hosted by the Carnegie Endowment Thursday, Oversight Board co-chair and former Prime Minister of Denmark Helle Thornin…*
        
-  - Monzo, the British challenger bank nearing 5 million customers, has recruited a new U.S. CEO
+  - South African VC firm Knife Capital gets first commitment for its $50M fund, to invest in 10-12 Series B rounds
       <hr/>
        
-       - *Monzo, the U.K. challenger bank with just shy of 5 million customers, has recruited a new U.S CEO to head up its efforts states-side, TechCrunch has learned. Carol Nelson, who previously spent ten years as CEO of Cascade Bank and prior to that was a long time…*
+       - *Knife Capital, a South African venture capital firm, is raising a $50 million fund for startups looking to raise Series B financing. With Knife Fund III called the African Series B Expansion Fund, the firm seeks to directly invest in the aggressive expansion …*
       
 
 <br />
