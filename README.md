@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - TechCrunch's favorites from Techstars' Boston, Chicago and workforce accelerators
+  - Jack Dorsey and Jay Z invest $23.6 million to fund Bitcoin development
      <hr/>
      
-      - *Building off TechCrunch’s coverage of the recent 500 Startups demo day, we’re back today to talk about some favorites from three more accelerator classes. This time we’re digging into Techstars’ latest three accelerator classes. What follows are four favorite…*
+      - *Twitter and Square CEO Jack Dorsey and rapper Jay Z have created an endowment to fund bitcoin development initially in Africa and India, Dorsey said Friday. The duo is putting 500 Bitcoin, which is currently worth $23.6 million, in the endowment called ₿trust…*
      
-  - Daily Crunch: TikTok becomes a political battleground in Russia
+  - Sweden's data watchdog slaps police for unlawful use of Clearview AI
       <hr/>
       
-      - *We take an in-depth look at TikTok usage in Russia, Facebook’s Oversight Board looks beyond Facebook and Sesame Workshop backs an edtech fund. This is your Daily Crunch for February 11, 2021. The big story: TikTok becomes a political battleground in Russia Ru…*
+      - *Sweden’s data protection authority, the IMY, has fined the local police authority €250,000 ($300k+) for unlawful use of the controversial facial recognition software, Clearview AI, in breach of the country’s Criminal Data Act. As part of the enforcement the p…*
       
-  - TikTok partners with Whisk to pilot a recipe-saving feature on food videos
+  - Does SoftBank have 20 more DoorDashes?
       <hr/>
       
-      - *TikTok is expanding its integrations with third-party services, with the launch of a test that allows creators in the food space to link directly to recipes found on the Whisk app. This is being made possible by way of a new “recipe” button overlaid on relate…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. Natasha and Danny and Alex and Grace were all here to chat through the week’s biggest tech happenings. This week felt oddly comfo…*
       
-  - Facebook Oversight Board says other social networks 'welcome to join' if project succeeds
+  - Best practices for Zoom board meetings at early-stage startups
       <hr/>
       
-      - *The Facebook Oversight Board has only been operational for a short time, but the nascent project is already looking ahead. In a conversation hosted by the Carnegie Endowment Thursday, Oversight Board co-chair and former Prime Minister of Denmark Helle Thornin…*
+      - *While we might look like the Brady Bunch while sharing a Zoom window, are you actually communicating more like the family from "Succession?"*
        
-  - South African VC firm Knife Capital gets first commitment for its $50M fund, to invest in 10-12 Series B rounds
+  - TechCrunch's favorites from Techstars' Boston, Chicago and workforce accelerators
       <hr/>
        
-       - *Knife Capital, a South African venture capital firm, is raising a $50 million fund for startups looking to raise Series B financing. With Knife Fund III called the African Series B Expansion Fund, the firm seeks to directly invest in the aggressive expansion …*
+       - *Building off TechCrunch’s coverage of the recent 500 Startups demo day, we’re back today to talk about some favorites from three more accelerator classes. This time we’re digging into Techstars’ latest three accelerator classes. What follows are four favorite…*
       
 
 <br />
