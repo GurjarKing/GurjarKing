@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Tony Florence, the low-flying head of NEA's tech practice, on the art of building household brands
+  - Extra Crunch roundup: Metromile CEO interview, Oscar Health's IPO plans, our 2-year anniversary, more
      <hr/>
      
-      - *Tony Florence isn’t as well known to the public as other top investors like Bill Gurley or Marc Andreessen, but he’s someone who founders with SaaS and especially marketplace e-commerce companies know — or should. He’s responsible for the global tech investin…*
+      - *I'm very proud of the work we're doing here at Extra Crunch, so it gives me great pleasure to announce that today is our second anniversary.*
      
+  - Tony Florence, the low-flying head of NEA's tech practice, on the art of building household brands
+      <hr/>
+      
+      - *Tony Florence isn’t as well known to the public as other top investors like Bill Gurley or Marc Andreessen, but he’s someone who founders with SaaS and especially marketplace e-commerce companies know — or should. He’s responsible for the global tech investin…*
+      
   - Daily Crunch: Jack Dorsey and Jay Z invest in bitcoin development
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Chronic allergy sufferers know well the daily discomfort of seasonal allergies and environmental allergies. They also likely know about allergy shots — the treatment that requires you to go into an office to get shots on a weekly or monthly basis. But there i…*
-      
+       
   - Felicis' Aydin Senkut and Guideline's Kevin Busque on the value of simple pitch decks
       <hr/>
-      
-      - *This week on Extra Crunch Live, Busque and Senkut discussed Guideline's Series B pitch deck — which Senkut described as a "role model" — and how they built trust over time.*
        
-  - 2 years in, Extra Crunch is helping readers build and grow companies around the world
-      <hr/>
-       
-       - *Now, as the world glimpses a brighter, post-pandemic future, we are doubling down on the news and analysis that’s helped many early-stage companies make better decisions.*
+       - *This week on Extra Crunch Live, Busque and Senkut discussed Guideline's Series B pitch deck — which Senkut described as a "role model" — and how they built trust over time.*
       
 
 <br />
