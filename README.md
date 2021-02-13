@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Jack Dorsey and Jay Z invest $23.6 million to fund Bitcoin development
+  - Tony Florence, the low-flying head of NEA's tech practice, on the art of building household brands
      <hr/>
      
-      - *Twitter and Square CEO Jack Dorsey and rapper Jay Z have created an endowment to fund bitcoin development initially in Africa and India, Dorsey said Friday. The duo is putting 500 Bitcoin, which is currently worth $23.6 million, in the endowment called ₿trust…*
+      - *Tony Florence isn’t as well known to the public as other top investors like Bill Gurley or Marc Andreessen, but he’s someone who founders with SaaS and especially marketplace e-commerce companies know — or should. He’s responsible for the global tech investin…*
      
-  - Sweden's data watchdog slaps police for unlawful use of Clearview AI
+  - Daily Crunch: Jack Dorsey and Jay Z invest in bitcoin development
       <hr/>
       
-      - *Sweden’s data protection authority, the IMY, has fined the local police authority €250,000 ($300k+) for unlawful use of the controversial facial recognition software, Clearview AI, in breach of the country’s Criminal Data Act. As part of the enforcement the p…*
+      - *Jack Dorsey and Jay Z create a bitcoin endowment, Datadog acquires a Startup Battlefield company and BuzzFeed experiments with AI-generated quizzes. This is your Daily Crunch for February 12, 2021. Oh, and before we get started: Consider applying to the Early…*
       
-  - Does SoftBank have 20 more DoorDashes?
+  - Wyndly aims to bring allergy drops to the masses
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. Natasha and Danny and Alex and Grace were all here to chat through the week’s biggest tech happenings. This week felt oddly comfo…*
+      - *Chronic allergy sufferers know well the daily discomfort of seasonal allergies and environmental allergies. They also likely know about allergy shots — the treatment that requires you to go into an office to get shots on a weekly or monthly basis. But there i…*
       
-  - Best practices for Zoom board meetings at early-stage startups
+  - Felicis' Aydin Senkut and Guideline's Kevin Busque on the value of simple pitch decks
       <hr/>
       
-      - *While we might look like the Brady Bunch while sharing a Zoom window, are you actually communicating more like the family from "Succession?"*
+      - *This week on Extra Crunch Live, Busque and Senkut discussed Guideline's Series B pitch deck — which Senkut described as a "role model" — and how they built trust over time.*
        
-  - TechCrunch's favorites from Techstars' Boston, Chicago and workforce accelerators
+  - 2 years in, Extra Crunch is helping readers build and grow companies around the world
       <hr/>
        
-       - *Building off TechCrunch’s coverage of the recent 500 Startups demo day, we’re back today to talk about some favorites from three more accelerator classes. This time we’re digging into Techstars’ latest three accelerator classes. What follows are four favorite…*
+       - *Now, as the world glimpses a brighter, post-pandemic future, we are doubling down on the news and analysis that’s helped many early-stage companies make better decisions.*
       
 
 <br />
