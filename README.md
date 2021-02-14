@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch roundup: Metromile CEO interview, Oscar Health's IPO plans, our 2-year anniversary, more
+  - Human Capital: Doing away with the NDA
      <hr/>
      
-      - *I'm very proud of the work we're doing here at Extra Crunch, so it gives me great pleasure to announce that today is our second anniversary.*
+      - *You’ve landed on Human Capital, a weekly newsletter detailing the latest in diversity, equity, inclusion and labor. Sign up here to receive the newsletter every Friday at 1 p.m. PT. There’s some new legislation that hopes to prevent the use of non-disclosure …*
      
-  - Tony Florence, the low-flying head of NEA's tech practice, on the art of building household brands
+  - There is infinite money for stock-trading startups
       <hr/>
       
-      - *Tony Florence isn’t as well known to the public as other top investors like Bill Gurley or Marc Andreessen, but he’s someone who founders with SaaS and especially marketplace e-commerce companies know — or should. He’s responsible for the global tech investin…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here.  R…*
       
-  - Daily Crunch: Jack Dorsey and Jay Z invest in bitcoin development
+  - Multiplayer fintech, and the muddled world of startup data
       <hr/>
       
-      - *Jack Dorsey and Jay Z create a bitcoin endowment, Datadog acquires a Startup Battlefield company and BuzzFeed experiments with AI-generated quizzes. This is your Daily Crunch for February 12, 2021. Oh, and before we get started: Consider applying to the Early…*
+      - *There’s always a fintech angle, even on Valentine’s Day. This week, I covered Zeta, a new startup working on joint finances for modern couples. It aims to take away the money chores of a relationship, from splitting the bill at dinner to requesting rent throu…*
       
-  - Wyndly aims to bring allergy drops to the masses
+  - This Week in Apps: Bumble's IPO, Google's missing privacy labels, a developer crusades against scams
       <hr/>
       
-      - *Chronic allergy sufferers know well the daily discomfort of seasonal allergies and environmental allergies. They also likely know about allergy shots — the treatment that requires you to go into an office to get shots on a weekly or monthly basis. But there i…*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - Felicis' Aydin Senkut and Guideline's Kevin Busque on the value of simple pitch decks
+  - 9 investors discuss hurdles, opportunities and the impact of cloud vendors in enterprise data lakes
       <hr/>
        
-       - *This week on Extra Crunch Live, Busque and Senkut discussed Guideline's Series B pitch deck — which Senkut described as a "role model" — and how they built trust over time.*
+       - *About a decade ago, I remember having a conversation with a friend about big data. At the time, we both agreed that it was the purview of large companies like Facebook, Yahoo and Google, and not something most companies would have to worry about. As it turned…*
       
 
 <br />
