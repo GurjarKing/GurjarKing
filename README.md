@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Human Capital: Doing away with the NDA
+  - The Series A deal that launched a near unicorn: Meet Accel's Steve Loughlin and Ironclad's Jason Boehmig
      <hr/>
      
-      - *You’ve landed on Human Capital, a weekly newsletter detailing the latest in diversity, equity, inclusion and labor. Sign up here to receive the newsletter every Friday at 1 p.m. PT. There’s some new legislation that hopes to prevent the use of non-disclosure …*
+      - *The only people who truly understand a relationship are the ones who are in it. Luckily for us, we’re going to have a candid conversation with both parties in the relationship between Ironclad CEO and cofounder Jason Boehmig and his investor and board member …*
      
+  - Examining the 'pipeline problem'
+      <hr/>
+      
+      - *The tech industry has long grappled with an overwhelming lack of diversity among employees, executives, venture-backed founders, venture capital firms and board members. And despite recent efforts to increase diversity throughout the industry, tech still rema…*
+      
+  - Original Content podcast: Netflix's 'Lupin' is a twisty delight
+      <hr/>
+      
+      - *The new Netflix series “Lupin” is a loose adaptation of the Arséne Lupin stories by Maurice Leblanc, but it’s set in the present day, with a hero who’s inspired by the exploits of Leblanc’s fictional “gentleman thief.” Through flashbacks, we meet Assane Dio…*
+      
+  - Human Capital: Doing away with the NDA
+      <hr/>
+      
+      - *You’ve landed on Human Capital, a weekly newsletter detailing the latest in diversity, equity, inclusion and labor. Sign up here to receive the newsletter every Friday at 1 p.m. PT. There’s some new legislation that hopes to prevent the use of non-disclosure …*
+       
   - There is infinite money for stock-trading startups
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here.  R…*
-      
-  - Multiplayer fintech, and the muddled world of startup data
-      <hr/>
-      
-      - *There’s always a fintech angle, even on Valentine’s Day. This week, I covered Zeta, a new startup working on joint finances for modern couples. It aims to take away the money chores of a relationship, from splitting the bill at dinner to requesting rent throu…*
-      
-  - This Week in Apps: Bumble's IPO, Google's missing privacy labels, a developer crusades against scams
-      <hr/>
-      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - 9 investors discuss hurdles, opportunities and the impact of cloud vendors in enterprise data lakes
-      <hr/>
-       
-       - *About a decade ago, I remember having a conversation with a friend about big data. At the time, we both agreed that it was the purview of large companies like Facebook, Yahoo and Google, and not something most companies would have to worry about. As it turned…*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here.  R…*
       
 
 <br />
