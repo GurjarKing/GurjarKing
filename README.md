@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The Series A deal that launched a near unicorn: Meet Accel's Steve Loughlin and Ironclad's Jason Boehmig
+  - GM unveils a refreshed Chevy Bolt EV and its bigger, yet compact crossover sibling
      <hr/>
      
-      - *The only people who truly understand a relationship are the ones who are in it. Luckily for us, we’re going to have a candid conversation with both parties in the relationship between Ironclad CEO and cofounder Jason Boehmig and his investor and board member …*
+      - *GM revealed Sunday a refreshed Chevrolet Bolt EV and a new, bigger — yet still compact — crossover called the Chevrolet Bolt EUV as part of the automaker’s goal to introduce 30 electric vehicles in the next four years. The vehicles, which are expected to go o…*
      
+  - The Series A deal that launched a near unicorn: Meet Accel's Steve Loughlin and Ironclad's Jason Boehmig
+      <hr/>
+      
+      - *The only people who truly understand a relationship are the ones who are in it. Luckily for us, we’re going to have a candid conversation with both parties in the relationship between Ironclad CEO and cofounder Jason Boehmig and his investor and board member …*
+      
   - Examining the 'pipeline problem'
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *The new Netflix series “Lupin” is a loose adaptation of the Arséne Lupin stories by Maurice Leblanc, but it’s set in the present day, with a hero who’s inspired by the exploits of Leblanc’s fictional “gentleman thief.” Through flashbacks, we meet Assane Dio…*
-      
+       
   - Human Capital: Doing away with the NDA
       <hr/>
-      
-      - *You’ve landed on Human Capital, a weekly newsletter detailing the latest in diversity, equity, inclusion and labor. Sign up here to receive the newsletter every Friday at 1 p.m. PT. There’s some new legislation that hopes to prevent the use of non-disclosure …*
        
-  - There is infinite money for stock-trading startups
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here.  R…*
+       - *You’ve landed on Human Capital, a weekly newsletter detailing the latest in diversity, equity, inclusion and labor. Sign up here to receive the newsletter every Friday at 1 p.m. PT. There’s some new legislation that hopes to prevent the use of non-disclosure …*
       
 
 <br />
