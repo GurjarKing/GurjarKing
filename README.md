@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - GM unveils a refreshed Chevy Bolt EV and its bigger, yet compact crossover sibling
+  - Daily Crunch: Parler is back online
      <hr/>
      
-      - *GM revealed Sunday a refreshed Chevrolet Bolt EV and a new, bigger — yet still compact — crossover called the Chevrolet Bolt EUV as part of the automaker’s goal to introduce 30 electric vehicles in the next four years. The vehicles, which are expected to go o…*
+      - *Parler returns from limbo, Uber lobbies Europe and we have more details about Notion’s outage. This is your Daily Crunch for February 15, 2021. The big story: Parler is back online The social network known for its far-right user base was dropped by infrastruc…*
      
-  - The Series A deal that launched a near unicorn: Meet Accel's Steve Loughlin and Ironclad's Jason Boehmig
+  - 4 strategies for deep tech startups recruiting top growth marketers
       <hr/>
       
-      - *The only people who truly understand a relationship are the ones who are in it. Luckily for us, we’re going to have a candid conversation with both parties in the relationship between Ironclad CEO and cofounder Jason Boehmig and his investor and board member …*
+      - *Growth talent wants to know that they have room to experiment, fail and iterate with the support and trust of their company.*
       
-  - Examining the 'pipeline problem'
+  - 01 Advisors, the venture firm of Dick Costolo and Adam Bain, has closed fund two with $325 million
       <hr/>
       
-      - *The tech industry has long grappled with an overwhelming lack of diversity among employees, executives, venture-backed founders, venture capital firms and board members. And despite recent efforts to increase diversity throughout the industry, tech still rema…*
+      - *Dick Costolo and Adam Bain, renowned early Twitter execs who served as company’s CEO and its chief operating officer, respectively, have quietly closed a second venture fund just one-and-a-half years after disclosing they’d secured $135 million for a debut fu…*
       
-  - Original Content podcast: Netflix's 'Lupin' is a twisty delight
+  - After raising $150 million in equity and debt, Nature's Fynd opens its fungus food for pre-orders
       <hr/>
       
-      - *The new Netflix series “Lupin” is a loose adaptation of the Arséne Lupin stories by Maurice Leblanc, but it’s set in the present day, with a hero who’s inspired by the exploits of Leblanc’s fictional “gentleman thief.” Through flashbacks, we meet Assane Dio…*
+      - *Nature’s Fynd, the food technology company with a new food offering cultivated from fungus found in the wilds of Yellowstone National Park, is releasing its first products for pre-order.  Pitching both a non-dairy cream cheese and meatless breakfast patties, …*
        
-  - Human Capital: Doing away with the NDA
+  - From dorm rooms to board rooms: How universities are promoting entrepreneurship
       <hr/>
        
-       - *You’ve landed on Human Capital, a weekly newsletter detailing the latest in diversity, equity, inclusion and labor. Sign up here to receive the newsletter every Friday at 1 p.m. PT. There’s some new legislation that hopes to prevent the use of non-disclosure …*
+       - *An increasing number of higher education institutions are investing in entrepreneurial pipelines that help students launch startups after graduation.*
       
 
 <br />
