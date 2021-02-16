@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Parler is back online
+  - TikTok hit with consumer, child safety and privacy complaints in Europe
      <hr/>
      
-      - *Parler returns from limbo, Uber lobbies Europe and we have more details about Notion’s outage. This is your Daily Crunch for February 15, 2021. The big story: Parler is back online The social network known for its far-right user base was dropped by infrastruc…*
+      - *TikTok is facing a fresh round of regulatory complaints in Europe where consumer protection groups have filed a series of coordinated complaints alleging multiple breaches of EU law. The European Consumer Organisation (BEUC) has lodged a complaint against the…*
      
-  - 4 strategies for deep tech startups recruiting top growth marketers
+  - Zomentum raises $13 million to scale its IT sales acceleration platform
       <hr/>
       
-      - *Growth talent wants to know that they have room to experiment, fail and iterate with the support and trust of their company.*
+      - *Most small businesses today don’t have a dedicated staff to handle their IT needs. Take a restaurant, for an example. Every time they need to buy a point-of-sale machine, a printer, new computers, or new emails for employees, they reach out to a contract IT p…*
       
-  - 01 Advisors, the venture firm of Dick Costolo and Adam Bain, has closed fund two with $325 million
+  - Sources: Palo Alto Networks acquired DevOps security startup Bridgecrew for around $200M
       <hr/>
       
-      - *Dick Costolo and Adam Bain, renowned early Twitter execs who served as company’s CEO and its chief operating officer, respectively, have quietly closed a second venture fund just one-and-a-half years after disclosing they’d secured $135 million for a debut fu…*
+      - *The pandemic and the world’s big shift to doing (even) more online has put an unprecedented amount of pressure on cybersecurity. Now, it looks like one of the big public players in that space, Palo Alto Networks, has made an acquisition that will help it addr…*
       
-  - After raising $150 million in equity and debt, Nature's Fynd opens its fungus food for pre-orders
+  - Want to invest in Nothing? Carl Pei opens investment opportunity to community
       <hr/>
       
-      - *Nature’s Fynd, the food technology company with a new food offering cultivated from fungus found in the wilds of Yellowstone National Park, is releasing its first products for pre-order.  Pitching both a non-dairy cream cheese and meatless breakfast patties, …*
+      - *Carl Pei, co-founder of OnePlus, knows a thing or two about communities. At the Chinese smartphone maker, Pei fielded product and feature ideas from fans and held frequent gatherings to hear their feedback. At his new venture, Nothing, Pei is going a step fur…*
        
-  - From dorm rooms to board rooms: How universities are promoting entrepreneurship
+  - New European early stage VC Revent launches with its sights set on a $60M first close
       <hr/>
        
-       - *An increasing number of higher education institutions are investing in entrepreneurial pipelines that help students launch startups after graduation.*
+       - *Revent — a new European early stage (pre-seed to series A) venture capital fund with an ‘impact’ focus — is coming out of the gate today, and is poised to reach its target of a €50m ($60m) fund, with the first close of that already completed. Focusing on envi…*
       
 
 <br />
