@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Zolve raises $15 million for its cross-border neobank aimed at global citizens
+  - Epic Games takes its Apple App Store fight to Europe
      <hr/>
      
-      - *Tens of thousands of students and professionals in India leave their home nation each year for work and pursue higher education. Even after spending months in the new country, they struggle to get a credit card from local banks, and have to pay a premium to a…*
+      - *Epic Games has taken its fight against Apple’s App Store rules to the European Union where it’s lodged a complaint with the bloc’s antitrust regulators. In a blog post today the maker of the popular online game Fortnite said it’s extending its battle for what…*
      
-  - Daily Crunch: Axiom Space raises $130M
+  - vArmour the multi-cloud security startup, raises $58M en route to IPO
       <hr/>
       
-      - *A space startup connected to the International Space Station raises $130 million, Atlassian releases a new version of Trello and bitcoin briefly passes $50,000. This is your Daily Crunch for February 16, 2021. The big story: Axiom Space raises $130M Founded i…*
+      - *Enterprises have been loading more of their operations into cloud — and, more often than not, multi-cloud — environments over the last year, creating vast networks of services that can be complex to manage. Today, vArmour, a startup that provides ways to mana…*
       
-  - Justice Through Code is a free coding program for those impacted by the criminal justice system
+  - Sinch acquires Inteliquent for $1.14B to take on Twilio in the US
       <hr/>
       
-      - *People who have spent time in jail or prison often face barriers to accessing stable jobs, housing and financial services. These types of barriers are a key driver of recidivism for the more than 600,000 people who are released from prison each year. Between …*
+      - *After raising $690 million from SoftBank in December to make acquisitions, the Sweden-based cloud communications company Sinch has followed through on its strategy in that department. Today the company announced that it is acquiring Inteliquent, an interconne…*
       
-  - Reddit's transparency report shows a big spam problem and relatively few government requests
+  - Dixa acquires Elevio, the 'knowledge management' platform helping brands improve customer support
       <hr/>
       
-      - *Reddit has published its transparency report for 2020, showing various numbers relating to removed content, government requests and other administrative actions. The largest problem by far — in terms of volume, anyway — is spam, which made up nearly all conte…*
+      - *Dixa, the Danish customer support platform promising more personalised customer support, has acquired Melbourne-based “knowledge management” SaaS Elevio to bolster its product and technology offerings. The deal is said to be worth around $15 million, in a com…*
        
-  - Imagine a better future for social media at TechCrunch Sessions: Justice
+  - Jet co-founder Nate Faust is building a more sustainable e-commerce experience with Olive
       <hr/>
        
-       - *Toxic culture, deadly conspiracies and organized hate have exploded online in recent years. We’ll discuss how much responsibility social networks have in the rise of these phenomena and how to build healthy online communities that make society better, not wor…*
+       - *Nate Faust has spent years in the e-commerce business — he was a vice president at Quidsi (which ran Diapers.com and Soap.com), co-founder and COO at Jet (acquired by Walmart for $3.3 billion) and then a vice president at Walmart. Over time, he said it slowly…*
       
 
 <br />
