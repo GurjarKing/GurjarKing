@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok hit with consumer, child safety and privacy complaints in Europe
+  - Zolve raises $15 million for its cross-border neobank aimed at global citizens
      <hr/>
      
-      - *TikTok is facing a fresh round of regulatory complaints in Europe where consumer protection groups have filed a series of coordinated complaints alleging multiple breaches of EU law. The European Consumer Organisation (BEUC) has lodged a complaint against the…*
+      - *Tens of thousands of students and professionals in India leave their home nation each year for work and pursue higher education. Even after spending months in the new country, they struggle to get a credit card from local banks, and have to pay a premium to a…*
      
-  - Zomentum raises $13 million to scale its IT sales acceleration platform
+  - Daily Crunch: Axiom Space raises $130M
       <hr/>
       
-      - *Most small businesses today don’t have a dedicated staff to handle their IT needs. Take a restaurant, for an example. Every time they need to buy a point-of-sale machine, a printer, new computers, or new emails for employees, they reach out to a contract IT p…*
+      - *A space startup connected to the International Space Station raises $130 million, Atlassian releases a new version of Trello and bitcoin briefly passes $50,000. This is your Daily Crunch for February 16, 2021. The big story: Axiom Space raises $130M Founded i…*
       
-  - Sources: Palo Alto Networks acquired DevOps security startup Bridgecrew for around $200M
+  - Justice Through Code is a free coding program for those impacted by the criminal justice system
       <hr/>
       
-      - *The pandemic and the world’s big shift to doing (even) more online has put an unprecedented amount of pressure on cybersecurity. Now, it looks like one of the big public players in that space, Palo Alto Networks, has made an acquisition that will help it addr…*
+      - *People who have spent time in jail or prison often face barriers to accessing stable jobs, housing and financial services. These types of barriers are a key driver of recidivism for the more than 600,000 people who are released from prison each year. Between …*
       
-  - Want to invest in Nothing? Carl Pei opens investment opportunity to community
+  - Reddit's transparency report shows a big spam problem and relatively few government requests
       <hr/>
       
-      - *Carl Pei, co-founder of OnePlus, knows a thing or two about communities. At the Chinese smartphone maker, Pei fielded product and feature ideas from fans and held frequent gatherings to hear their feedback. At his new venture, Nothing, Pei is going a step fur…*
+      - *Reddit has published its transparency report for 2020, showing various numbers relating to removed content, government requests and other administrative actions. The largest problem by far — in terms of volume, anyway — is spam, which made up nearly all conte…*
        
-  - New European early stage VC Revent launches with its sights set on a $60M first close
+  - Imagine a better future for social media at TechCrunch Sessions: Justice
       <hr/>
        
-       - *Revent — a new European early stage (pre-seed to series A) venture capital fund with an ‘impact’ focus — is coming out of the gate today, and is poised to reach its target of a €50m ($60m) fund, with the first close of that already completed. Focusing on envi…*
+       - *Toxic culture, deadly conspiracies and organized hate have exploded online in recent years. We’ll discuss how much responsibility social networks have in the rise of these phenomena and how to build healthy online communities that make society better, not wor…*
       
 
 <br />
