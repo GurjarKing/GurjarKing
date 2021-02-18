@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Epic Games takes its Apple App Store fight to Europe
+  - For the first time the US DOT is carving out budget for climate and environmental justice projects
      <hr/>
      
-      - *Epic Games has taken its fight against Apple’s App Store rules to the European Union where it’s lodged a complaint with the bloc’s antitrust regulators. In a blog post today the maker of the popular online game Fortnite said it’s extending its battle for what…*
+      - *As part of the grant-making associated with the U.S. Department of Transportation’s Infrastructure for Rebuilding America program, the agency will for the first time carve out some of that program’s $889 million budget for projects addressing climate change a…*
      
-  - vArmour the multi-cloud security startup, raises $58M en route to IPO
+  - Daily Crunch: Facebook cuts off news-sharing in Australia
       <hr/>
       
-      - *Enterprises have been loading more of their operations into cloud — and, more often than not, multi-cloud — environments over the last year, creating vast networks of services that can be complex to manage. Today, vArmour, a startup that provides ways to mana…*
+      - *Facebook plays hardball in Australia, Epic Games expands its fight against Apple and New York’s attorney general sues Amazon. This is your Daily Crunch for February 17, 2021. The big story: Facebook cuts off news-sharing in Australia In response to a proposed…*
       
-  - Sinch acquires Inteliquent for $1.14B to take on Twilio in the US
+  - Artie raises $10M for app-less mobile games
       <hr/>
       
-      - *After raising $690 million from SoftBank in December to make acquisitions, the Sweden-based cloud communications company Sinch has followed through on its strategy in that department. Today the company announced that it is acquiring Inteliquent, an interconne…*
+      - *Artie, a startup looking to rethink the distribution of mobile games, announced today that it has raised $10 million in funding. There are some big names backing the company — its latest investors include Zynga founder Mark Pincus, Kevin Durant and Rich Kleim…*
       
-  - Dixa acquires Elevio, the 'knowledge management' platform helping brands improve customer support
+  - How I Podcast: Election Profit Makers' David Rees
       <hr/>
       
-      - *Dixa, the Danish customer support platform promising more personalised customer support, has acquired Melbourne-based “knowledge management” SaaS Elevio to bolster its product and technology offerings. The deal is said to be worth around $15 million, in a com…*
+      - *The beauty of podcasting is that anyone can do it. It’s a rare medium that’s nearly as easy to make as it is to consume. And as such, no two people do it exactly the same way. There are a wealth of hardware and software solutions open to potential podcasters,…*
        
-  - Jet co-founder Nate Faust is building a more sustainable e-commerce experience with Olive
+  - Google suspends Trump 2020 app from Play Store for non-functionality
       <hr/>
        
-       - *Nate Faust has spent years in the e-commerce business — he was a vice president at Quidsi (which ran Diapers.com and Soap.com), co-founder and COO at Jet (acquired by Walmart for $3.3 billion) and then a vice president at Walmart. Over time, he said it slowly…*
+       - *Google has suspended the Trump 2020 campaign app from the Google Play Store for policy violations, the company confirmed, following a report from Android Police which noted the app was unable to load any content and appeared to have been taken down. Both the …*
       
 
 <br />
