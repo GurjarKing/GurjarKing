@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - For the first time the US DOT is carving out budget for climate and environmental justice projects
+  - Leverage Edu raises $6.5 million to help Indian students land in colleges abroad
      <hr/>
      
-      - *As part of the grant-making associated with the U.S. Department of Transportation’s Infrastructure for Rebuilding America program, the agency will for the first time carve out some of that program’s $889 million budget for projects addressing climate change a…*
+      - *Each year, millions of students in India rush to get an admission in universities abroad. Often they don’t know which program they should focus on, or the college that is right for their skillset and ambition. Scores of legacy and newfound firms are attemptin…*
      
-  - Daily Crunch: Facebook cuts off news-sharing in Australia
+  - Event networking app Grip raises $13M, as pandemic forces events to stay virtual
       <hr/>
       
-      - *Facebook plays hardball in Australia, Epic Games expands its fight against Apple and New York’s attorney general sues Amazon. This is your Daily Crunch for February 17, 2021. The big story: Facebook cuts off news-sharing in Australia In response to a proposed…*
+      - *With offline events now firmly moved to online for the foreseeable future, startups in the networking space had to pivot fast in the face of the pandemic. One of those was Grip, previously better known as a networking app for physical conferences (including T…*
       
-  - Artie raises $10M for app-less mobile games
+  - Emerging as an Eastern powerhouse, Earlybird Digital East Fund launches new $242M fund
       <hr/>
       
-      - *Artie, a startup looking to rethink the distribution of mobile games, announced today that it has raised $10 million in funding. There are some big names backing the company — its latest investors include Zynga founder Mark Pincus, Kevin Durant and Rich Kleim…*
+      - *Earlybird Digital East Fund — a fund associated with Germany’s Earlybird VC, but operating separately — has launched a €200m ($242m) successor fund. The fund’s focus will remain the same as before: a Seed and Series-A fund focusing on what’s known as ‘Emergin…*
       
-  - How I Podcast: Election Profit Makers' David Rees
+  - With over 1.3 million users, Nigerian-based fintech FairMoney wants to replicate growth in India
       <hr/>
       
-      - *The beauty of podcasting is that anyone can do it. It’s a rare medium that’s nearly as easy to make as it is to consume. And as such, no two people do it exactly the same way. There are a wealth of hardware and software solutions open to potential podcasters,…*
+      - *There are over 1.7 billion underbanked people globally, the majority of which are from emerging markets. For them, accessing loans can be difficult, which is a problem fintechs try to solve. One way they do this is by promoting financial inclusion by underwri…*
        
-  - Google suspends Trump 2020 app from Play Store for non-functionality
+  - TikTok's China twin Douyin has 550 million search users, takes on Baidu
       <hr/>
        
-       - *Google has suspended the Trump 2020 campaign app from the Google Play Store for policy violations, the company confirmed, following a report from Android Police which noted the app was unable to load any content and appeared to have been taken down. Both the …*
+       - *The advance of short videos is reshaping how information is created, disseminated and consumed online. Snappy 15-second videos aren’t just for entertainment. On Chinese short-video apps Douyin and Kuaishou, people can get their daily dose of news, learn to co…*
       
 
 <br />
