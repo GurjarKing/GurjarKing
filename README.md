@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Facebook's Australian news ban is pretty broad
+  - Acast acquires podcasting startup RadioPublic
      <hr/>
      
-      - *We explore the fallout of Facebook’s news ban, WhatsApp addresses privacy concerns and Perseverance lands on Mars. This is your Daily Crunch for February 18, 2021. The big story: Facebook’s Australian news ban is pretty broad Yes, this was the lead story in y…*
+      - *Podcast advertising company Acast is announcing that it has acquired RadioPublic, the startup that spun out of public radio marketplace PRX in 2016. At first, RadioPublic’s main product was a mobile app for podcast listening, and it still supports the app. Bu…*
      
-  - SESO Labor is providing a way for migrant farmworkers to get legally protected work status in the U.S.
+  - How Antler East Africa is building early-stage startups with experienced professionals
       <hr/>
       
-      - *As the Biden Administration works to bring legislation to Congress to address the endemic problem of immigration reform in America, on the other side of the nation a small California startup called SESO Labor has raised $4.5 million to ensure that farms can h…*
+      - *Antler is an early-stage venture capital firm which can also be described as a “company builder.” It helps founders build complementary co-founding teams, provides support with deep business model validation and a global platform for scaling their businesses.…*
       
-  - Chorus brings a social layer to meditation
+  - Uber loses gig workers rights challenge in UK Supreme Court
       <hr/>
       
-      - *Chorus launched its online experience on March 16 of last year. It was fairly auspicious timing, as those things go, falling the same day seven public health departments launched a joint shelter-in-place order in its native California. Like countless other co…*
+      - *Uber has lost a long running employment tribunal challenge in the UK’s Supreme Court — with the court dismissing the ride-hailing giant’s appeal and reaffirming earlier rulings that drivers who brought the case are workers, not independent contractors. The ca…*
       
-  - A16z doesn't invest, it manifests
+  - AccountsIQ scores €5.8M for its financial management software for multi-entity SMEs
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. Natasha and Danny and Alex and Grace were all here to chat through the week’s biggest tech happenings. In very good Show News™, C…*
+      - *AccountsIQ, a financial management software (FMS) startup founded by a team of chartered accountants (when accountants want to be entrepreneurs, you know startups are a thing), has raised €5.8 million in funding. Backing the Dublin-based company, which target…*
        
-  - Anthony Levandowski closes his Church of AI
+  - 8 investors discuss Stockholm's maturing startup ecosystem
       <hr/>
        
-       - *The first church of artificial intelligence has shut its conceptual doors. Anthony Levandowski, the former Google engineer who avoided an 18-month prison sentence after receiving a presidential pardon last month, has closed the church he created to understand…*
+       - *"I think there is a lot of interesting stuff coming out of Stockholm and accelerating with all recent success stories," said VNV Global's Bjorn von Sivers.*
       
 
 <br />
