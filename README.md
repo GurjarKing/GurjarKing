@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Leverage Edu raises $6.5 million to help Indian students land in colleges abroad
+  - Daily Crunch: Facebook's Australian news ban is pretty broad
      <hr/>
      
-      - *Each year, millions of students in India rush to get an admission in universities abroad. Often they don’t know which program they should focus on, or the college that is right for their skillset and ambition. Scores of legacy and newfound firms are attemptin…*
+      - *We explore the fallout of Facebook’s news ban, WhatsApp addresses privacy concerns and Perseverance lands on Mars. This is your Daily Crunch for February 18, 2021. The big story: Facebook’s Australian news ban is pretty broad Yes, this was the lead story in y…*
      
-  - Event networking app Grip raises $13M, as pandemic forces events to stay virtual
+  - SESO Labor is providing a way for migrant farmworkers to get legally protected work status in the U.S.
       <hr/>
       
-      - *With offline events now firmly moved to online for the foreseeable future, startups in the networking space had to pivot fast in the face of the pandemic. One of those was Grip, previously better known as a networking app for physical conferences (including T…*
+      - *As the Biden Administration works to bring legislation to Congress to address the endemic problem of immigration reform in America, on the other side of the nation a small California startup called SESO Labor has raised $4.5 million to ensure that farms can h…*
       
-  - Emerging as an Eastern powerhouse, Earlybird Digital East Fund launches new $242M fund
+  - Chorus brings a social layer to meditation
       <hr/>
       
-      - *Earlybird Digital East Fund — a fund associated with Germany’s Earlybird VC, but operating separately — has launched a €200m ($242m) successor fund. The fund’s focus will remain the same as before: a Seed and Series-A fund focusing on what’s known as ‘Emergin…*
+      - *Chorus launched its online experience on March 16 of last year. It was fairly auspicious timing, as those things go, falling the same day seven public health departments launched a joint shelter-in-place order in its native California. Like countless other co…*
       
-  - With over 1.3 million users, Nigerian-based fintech FairMoney wants to replicate growth in India
+  - A16z doesn't invest, it manifests
       <hr/>
       
-      - *There are over 1.7 billion underbanked people globally, the majority of which are from emerging markets. For them, accessing loans can be difficult, which is a problem fintechs try to solve. One way they do this is by promoting financial inclusion by underwri…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. Natasha and Danny and Alex and Grace were all here to chat through the week’s biggest tech happenings. In very good Show News™, C…*
        
-  - TikTok's China twin Douyin has 550 million search users, takes on Baidu
+  - Anthony Levandowski closes his Church of AI
       <hr/>
        
-       - *The advance of short videos is reshaping how information is created, disseminated and consumed online. Snappy 15-second videos aren’t just for entertainment. On Chinese short-video apps Douyin and Kuaishou, people can get their daily dose of news, learn to co…*
+       - *The first church of artificial intelligence has shut its conceptual doors. Anthony Levandowski, the former Google engineer who avoided an 18-month prison sentence after receiving a presidential pardon last month, has closed the church he created to understand…*
       
 
 <br />
