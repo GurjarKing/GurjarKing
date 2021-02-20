@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Acast acquires podcasting startup RadioPublic
+  - Daily Crunch: Uber loses UK legal challenge
      <hr/>
      
-      - *Podcast advertising company Acast is announcing that it has acquired RadioPublic, the startup that spun out of public radio marketplace PRX in 2016. At first, RadioPublic’s main product was a mobile app for podcast listening, and it still supports the app. Bu…*
+      - *Uber loses a legal battle over driver classification, we survey mobility investors and new data suggests a COVID-19 vaccine should be easier to transport. This is your Daily Crunch for February 19, 2021. The big story: Uber loses UK legal challenge The United…*
      
-  - How Antler East Africa is building early-stage startups with experienced professionals
+  - Google fires top AI ethics researcher Margaret Mitchell
       <hr/>
       
-      - *Antler is an early-stage venture capital firm which can also be described as a “company builder.” It helps founders build complementary co-founding teams, provides support with deep business model validation and a global platform for scaling their businesses.…*
+      - *Google has fired Margaret Mitchell, the founder and former co-lead of the company’s ethical AI team. Mitchell announced the news via a tweet. Google confirmed Mitchell’s firing in a statement to TechCrunch, Google said: After conducting a review of this manag…*
       
-  - Uber loses gig workers rights challenge in UK Supreme Court
+  - Extra Crunch roundup: Optimized SaaS pricing, recruiting growth experts, VC surveys, more
       <hr/>
       
-      - *Uber has lost a long running employment tribunal challenge in the UK’s Supreme Court — with the court dismissing the ride-hailing giant’s appeal and reaffirming earlier rulings that drivers who brought the case are workers, not independent contractors. The ca…*
+      - *Thanks very much for reading Extra Crunch this week!*
       
-  - AccountsIQ scores €5.8M for its financial management software for multi-entity SMEs
+  - WhatsApp details what will happen to users who don't agree to privacy changes
       <hr/>
       
-      - *AccountsIQ, a financial management software (FMS) startup founded by a team of chartered accountants (when accountants want to be entrepreneurs, you know startups are a thing), has raised €5.8 million in funding. Backing the Dublin-based company, which target…*
+      - *WhatsApp said earlier this week that it will allow users to review its planned privacy update at “their own pace” and will display a banner to better explain the changes in its terms. But what happens to its users who do not accept the terms by the May 15 dea…*
        
-  - 8 investors discuss Stockholm's maturing startup ecosystem
+  - Brex applies for bank charter, taps former Silicon Valley Bank exec as CEO of Brex Bank
       <hr/>
        
-       - *"I think there is a lot of interesting stuff coming out of Stockholm and accelerating with all recent success stories," said VNV Global's Bjorn von Sivers.*
+       - *Brex is the latest fintech to apply for a bank charter. The fast-growing company, which sells a credit card tailored for startups with Emigrant Bank currently acting as the issuer, announced Friday that it has submitted an application with the Federal Deposit…*
       
 
 <br />
