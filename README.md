@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Uber loses UK legal challenge
+  - As the SPAC frenzy continues, questions arise about how much the market can absorb
      <hr/>
      
-      - *Uber loses a legal battle over driver classification, we survey mobility investors and new data suggests a COVID-19 vaccine should be easier to transport. This is your Daily Crunch for February 19, 2021. The big story: Uber loses UK legal challenge The United…*
+      - *Another week and the biggest story in a sea of big stories continues to center on SPACs, these blank-check companies that raise capital through IPOs expressly to acquire a privately held company and take it public. But some industry watchers as starting to wo…*
      
+  - Daily Crunch: Uber loses UK legal challenge
+      <hr/>
+      
+      - *Uber loses a legal battle over driver classification, we survey mobility investors and new data suggests a COVID-19 vaccine should be easier to transport. This is your Daily Crunch for February 19, 2021. The big story: Uber loses UK legal challenge The United…*
+      
   - Google fires top AI ethics researcher Margaret Mitchell
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Thanks very much for reading Extra Crunch this week!*
-      
+       
   - WhatsApp details what will happen to users who don't agree to privacy changes
       <hr/>
-      
-      - *WhatsApp said earlier this week that it will allow users to review its planned privacy update at “their own pace” and will display a banner to better explain the changes in its terms. But what happens to its users who do not accept the terms by the May 15 dea…*
        
-  - Brex applies for bank charter, taps former Silicon Valley Bank exec as CEO of Brex Bank
-      <hr/>
-       
-       - *Brex is the latest fintech to apply for a bank charter. The fast-growing company, which sells a credit card tailored for startups with Emigrant Bank currently acting as the issuer, announced Friday that it has submitted an application with the Federal Deposit…*
+       - *WhatsApp said earlier this week that it will allow users to review its planned privacy update at “their own pace” and will display a banner to better explain the changes in its terms. But what happens to its users who do not accept the terms by the May 15 dea…*
       
 
 <br />
