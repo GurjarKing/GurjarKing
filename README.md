@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - As the SPAC frenzy continues, questions arise about how much the market can absorb
+  - Google's treatment of AI ethics researchers continues to stir up controversy
      <hr/>
      
-      - *Another week and the biggest story in a sea of big stories continues to center on SPACs, these blank-check companies that raise capital through IPOs expressly to acquire a privately held company and take it public. But some industry watchers as starting to wo…*
+      - *You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber, Postmates, DoorDash and…*
      
-  - Daily Crunch: Uber loses UK legal challenge
+  - Can data fix healthcare?
       <hr/>
       
-      - *Uber loses a legal battle over driver classification, we survey mobility investors and new data suggests a COVID-19 vaccine should be easier to transport. This is your Daily Crunch for February 19, 2021. The big story: Uber loses UK legal challenge The United…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
       
-  - Google fires top AI ethics researcher Margaret Mitchell
+  - South Korea’s prime minister has joined Clubhouse
       <hr/>
       
-      - *Google has fired Margaret Mitchell, the founder and former co-lead of the company’s ethical AI team. Mitchell announced the news via a tweet. Google confirmed Mitchell’s firing in a statement to TechCrunch, Google said: After conducting a review of this manag…*
+      - *After garnering an estimated 8 million downloads since its launch, Clubhouse’s popularity continues across the world and even outside of its original tech-focused seed community. The latest news comes from East Asia, where Korean media reported this morning t…*
       
-  - Extra Crunch roundup: Optimized SaaS pricing, recruiting growth experts, VC surveys, more
+  - Chief community officer is the new CMO
       <hr/>
       
-      - *Thanks very much for reading Extra Crunch this week!*
+      - *Community isn’t a single Slack group or event or newsletter. It’s an aggregation of all of these touch points, and includes both customers, eventual customers and one-time users. Despite this nebulous, disconnected reality, companies are paying more attention…*
        
-  - WhatsApp details what will happen to users who don't agree to privacy changes
+  - Original Content podcast: Apple's 'Ted Lasso' is all about relentless optimism
       <hr/>
        
-       - *WhatsApp said earlier this week that it will allow users to review its planned privacy update at “their own pace” and will display a banner to better explain the changes in its terms. But what happens to its users who do not accept the terms by the May 15 dea…*
+       - *Your enjoyment of “Ted Lasso” — a sports comedy that debuted on Apple TV+ last year — will probably depend on how you respond to the titular football coach played by Jason Sudeikis. As we discuss on the latest episode of the Original Content podcast, the show…*
       
 
 <br />
