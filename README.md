@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google's treatment of AI ethics researchers continues to stir up controversy
+  - Gillmor Gang: Leave Quietly
      <hr/>
      
-      - *You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber, Postmates, DoorDash and…*
+      - *It turns out the most important decision made was not the vote to choose (and remove) in the election but Twitter’s permanent banning of the former President from the social network. Suddenly the temperature cooled, the new administration engaged with the det…*
      
+  - Google's treatment of AI ethics researchers continues to stir up controversy
+      <hr/>
+      
+      - *You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber, Postmates, DoorDash and…*
+      
   - Can data fix healthcare?
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *After garnering an estimated 8 million downloads since its launch, Clubhouse’s popularity continues across the world and even outside of its original tech-focused seed community. The latest news comes from East Asia, where Korean media reported this morning t…*
-      
+       
   - Chief community officer is the new CMO
       <hr/>
-      
-      - *Community isn’t a single Slack group or event or newsletter. It’s an aggregation of all of these touch points, and includes both customers, eventual customers and one-time users. Despite this nebulous, disconnected reality, companies are paying more attention…*
        
-  - Original Content podcast: Apple's 'Ted Lasso' is all about relentless optimism
-      <hr/>
-       
-       - *Your enjoyment of “Ted Lasso” — a sports comedy that debuted on Apple TV+ last year — will probably depend on how you respond to the titular football coach played by Jason Sudeikis. As we discuss on the latest episode of the Original Content podcast, the show…*
+       - *Community isn’t a single Slack group or event or newsletter. It’s an aggregation of all of these touch points, and includes both customers, eventual customers and one-time users. Despite this nebulous, disconnected reality, companies are paying more attention…*
       
 
 <br />
