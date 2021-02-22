@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Leave Quietly
+  - TransferWise rebrands as Wise ahead of an expected IPO
      <hr/>
      
-      - *It turns out the most important decision made was not the vote to choose (and remove) in the election but Twitter’s permanent banning of the former President from the social network. Suddenly the temperature cooled, the new administration engaged with the det…*
+      - *“Ten years in, TransferWise is now Wise,” screams the press release that landed in my in-box late last week. The fintech giant, most recently valued by private investors at $5 billion, is re-branding ahead of an expected IPO. Of course, the company doesn’t ac…*
      
+  - China's Black Lake raises $77M to give factories a digital upgrade
+      <hr/>
+      
+      - *Zhou Yuxiang doesn’t have the typical profile for working in China’s manufacturing world. A soft-spoken yet incisive person in his early thirties, Zhou graduated from Dartmouth College with a degree in government and went on to work in investment banking in H…*
+      
+  - Bain's Matt Harris and Justworks' Isaac Oates to talk through the Series B deal that brought them together
+      <hr/>
+      
+      - *It’s been almost 10 years since Justworks launched. The platform, founded by Isaac Oates, was yet another example of software eating the world; in this particular instance, it was the world of HR. Since, the company has raised nearly $150 million in funding. …*
+      
+  - Gillmor Gang: Leave Quietly
+      <hr/>
+      
+      - *It turns out the most important decision made was not the vote to choose (and remove) in the election but Twitter’s permanent banning of the former President from the social network. Suddenly the temperature cooled, the new administration engaged with the det…*
+       
   - Google's treatment of AI ethics researchers continues to stir up controversy
       <hr/>
-      
-      - *You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber, Postmates, DoorDash and…*
-      
-  - Can data fix healthcare?
-      <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
-      
-  - South Korea’s prime minister has joined Clubhouse
-      <hr/>
-      
-      - *After garnering an estimated 8 million downloads since its launch, Clubhouse’s popularity continues across the world and even outside of its original tech-focused seed community. The latest news comes from East Asia, where Korean media reported this morning t…*
        
-  - Chief community officer is the new CMO
-      <hr/>
-       
-       - *Community isn’t a single Slack group or event or newsletter. It’s an aggregation of all of these touch points, and includes both customers, eventual customers and one-time users. Despite this nebulous, disconnected reality, companies are paying more attention…*
+       - *You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber, Postmates, DoorDash and…*
       
 
 <br />
