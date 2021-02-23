@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Indonesian investment platform FUNDtastic lands $7.7 million Series A
+  - No place is safe from failing US infrastructure
      <hr/>
      
-      - *Despite the market impact of the COVID-19 pandemic, retail investing is increasing in Indonesia, especially among people aged 18 to 30. Today, investment platform FUNDtastic announced it has raised a $7.7 million Series A to tap into that demand, with plans t…*
+      - *In the face of rising homelessness, increasing crime and inadequate public transit in San Francisco, many tech influencers are pulling up stakes to geographies that offer a seemingly more welcome climate to conduct business and make investments. But the ongoi…*
      
-  - Twitter explored buying India's ShareChat and turning Moj into a global TikTok rival
+  - Daily Crunch: Spotify announces a high-end subscription
       <hr/>
       
-      - *Twitter recently held talks to acquire Indian social media startup ShareChat as the company explored ways to expand its presence in the world’s second largest internet market and build a global rival to TikTok, three sources familiar with the matter told Tech…*
+      - *Spotify makes a bunch of announcements, Netflix introduces an intriguing new feature and Clubhouse faces security concerns. This is your Daily Crunch for February 22, 2021. The big story: Spotify announces a high-end subscription Spotify listeners will get th…*
       
-  - TransferWise rebrands as Wise ahead of an expected IPO
+  - Huawei launches its next foldable in China
       <hr/>
       
-      - *“Ten years in, TransferWise is now Wise,” screams the press release that landed in my in-box late last week. The fintech giant, most recently valued by private investors at $5 billion, is re-branding ahead of an expected IPO. Of course, the company doesn’t ac…*
+      - *Huawei’s first foldable feels like a distant memory. Announced in 2019, the company went back to the drawing board prior to release, as Samsung ran into its own much publicized issues with the innovative form factor. The Mate X was well-received among journal…*
       
-  - China's Black Lake raises $77M to give factories a digital upgrade
+  - India's Zomato valued at $5.4 billion in new $250 million investment
       <hr/>
       
-      - *Zhou Yuxiang doesn’t have the typical profile for working in China’s manufacturing world. A soft-spoken yet incisive person in his early thirties, Zhou graduated from Dartmouth College with a degree in government and went on to work in investment banking in H…*
+      - *Zomato has raised $250 million, two months after closing a $660 million Series J financing round, as the Indian food delivery startup builds a war-chest ahead of its IPO later this year. Kora (which contributed $115 million), Fidelity ($55 million), Tiger Glo…*
        
-  - Bain's Matt Harris and Justworks' Isaac Oates to talk through the Series B deal that brought them together
+  - FCC proposes rules for emergency broadband program to keep struggling families online
       <hr/>
        
-       - *It’s been almost 10 years since Justworks launched. The platform, founded by Isaac Oates, was yet another example of software eating the world; in this particular instance, it was the world of HR. Since, the company has raised nearly $150 million in funding. …*
+       - *The FCC has taken a major step towards offering financial support for people struggling to pay broadband bills during the pandemic. If approved, the Emergency Broadband Benefit Program could provide $50 per month to millions of households, and more in tribal …*
       
 
 <br />
