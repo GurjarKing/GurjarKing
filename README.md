@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - No place is safe from failing US infrastructure
+  - SpaceTech startup ConstellR, that can monitor land surface temperatures, raises €1M pre-seed round
      <hr/>
      
-      - *In the face of rising homelessness, increasing crime and inadequate public transit in San Francisco, many tech influencers are pulling up stakes to geographies that offer a seemingly more welcome climate to conduct business and make investments. But the ongoi…*
+      - *ConstellR, a SpaceTech startup with a technology that can monitors land surface temperatures from space, has raised a €1m pre-seed round led by FTTF, with the participation of strategic investor OHB Venture Capital, Baden-Württemberg’s state bank L-Bank and a…*
      
-  - Daily Crunch: Spotify announces a high-end subscription
+  - Better Origin, which turns flies into food for chickens, raises $3M from Fly Ventures
       <hr/>
       
-      - *Spotify makes a bunch of announcements, Netflix introduces an intriguing new feature and Clubhouse faces security concerns. This is your Daily Crunch for February 22, 2021. The big story: Spotify announces a high-end subscription Spotify listeners will get th…*
+      - *Better Origin is a startup that converts waste food into essential nutrients using insects fed to chickens inside a standard shipping container. It’s now raised a Seed Series $3 million funding round led by Fly Ventures and solar entrepreneur Nick Boyle, whil…*
       
-  - Huawei launches its next foldable in China
+  - Future Acres launches with the arrival of crop-transporting robot, Carry
       <hr/>
       
-      - *Huawei’s first foldable feels like a distant memory. Announced in 2019, the company went back to the drawing board prior to release, as Samsung ran into its own much publicized issues with the innovative form factor. The Mate X was well-received among journal…*
+      - *When people ask me which robotics categories are poised for the biggest growth, I often point to agriculture. The technology already has a strong foothold in places like warehouse and logistics, but it’s impossible to look at the American – and global – farmi…*
       
-  - India's Zomato valued at $5.4 billion in new $250 million investment
+  - South African digital bank TymeBank lands $109M from UK and Phillippines investors
       <hr/>
       
-      - *Zomato has raised $250 million, two months after closing a $660 million Series J financing round, as the Indian food delivery startup builds a war-chest ahead of its IPO later this year. Kora (which contributed $115 million), Fidelity ($55 million), Tiger Glo…*
+      - *The onset of the pandemic has led to increased demand across customer income groups around the world for digital banking options. We’ve seen how digital banks like Zolve and Nubank have raised money in recent months to fill this need. This time, a startup fro…*
        
-  - FCC proposes rules for emergency broadband program to keep struggling families online
+  - ErudiFi raises $5 million Series A to give students in Southeast Asia more education financing options
       <hr/>
        
-       - *The FCC has taken a major step towards offering financial support for people struggling to pay broadband bills during the pandemic. If approved, the Emergency Broadband Benefit Program could provide $50 per month to millions of households, and more in tribal …*
+       - *Based in Singapore, ErudiFi wants to help more students in Southeast Asia stay in school by giving them affordable financing options. The startup announced today it has raised a $5 million Series A, co-led by Monk’s Hill Ventures and Qualgro. ErudiFi currentl…*
       
 
 <br />
