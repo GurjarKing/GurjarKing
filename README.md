@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - SpaceTech startup ConstellR, that can monitor land surface temperatures, raises €1M pre-seed round
+  - Daily Crunch: Facebook brings news sharing back to Australia
      <hr/>
      
-      - *ConstellR, a SpaceTech startup with a technology that can monitors land surface temperatures from space, has raised a €1m pre-seed round led by FTTF, with the participation of strategic investor OHB Venture Capital, Baden-Württemberg’s state bank L-Bank and a…*
+      - *The Facebook-Australia news battle seems to have reached an end, Android gets an update and Lucid Motors is going public via SPAC. This is your Daily Crunch for February 23, 2021. The big story: Facebook brings news sharing back to Australia Last week, Facebo…*
      
-  - Better Origin, which turns flies into food for chickens, raises $3M from Fly Ventures
+  - Join a conversation and AMA with Run The World on virtual events now and post COVID
       <hr/>
       
-      - *Better Origin is a startup that converts waste food into essential nutrients using insects fed to chickens inside a standard shipping container. It’s now raised a Seed Series $3 million funding round led by Fly Ventures and solar entrepreneur Nick Boyle, whil…*
+      - *Join TechCrunch for its first 2021 installment of the Ask Me Anything series, where TechCrunch interviews experts and answers your burning questions about virtual events. Our first guest is Xiaoyin Qu, co-founder and CEO of Run The World.  Friday, February 26…*
       
-  - Future Acres launches with the arrival of crop-transporting robot, Carry
+  - Spain's ten-year plan to put startups in the economic driving seat
       <hr/>
       
-      - *When people ask me which robotics categories are poised for the biggest growth, I often point to agriculture. The technology already has a strong foothold in places like warehouse and logistics, but it’s impossible to look at the American – and global – farmi…*
+      - *Spain is preparing to push forward with pro-startup legislation, having recently unveiled a big and bold transformation plan with the headline goal, by 2030, of turning the country into ‘Spain Entrepreneurial Nation’, as the slightly clumsy English translatio…*
       
-  - South African digital bank TymeBank lands $109M from UK and Phillippines investors
+  - SpaceX's new $850 million raise confirmed in SEC filing
       <hr/>
       
-      - *The onset of the pandemic has led to increased demand across customer income groups around the world for digital banking options. We’ve seen how digital banks like Zolve and Nubank have raised money in recent months to fill this need. This time, a startup fro…*
+      - *SpaceX hasn’t issue any public statement about the $850 million in fresh funding CNBC reported it raised last week, but a filing with the U.S. Securities and Exchange Commission (SEC) published today confirms the round. SpaceX’s funding was said to value the …*
        
-  - ErudiFi raises $5 million Series A to give students in Southeast Asia more education financing options
+  - From food delivery to housing: Former Favor founders raise millions for Sunroom Rentals
       <hr/>
        
-       - *Based in Singapore, ErudiFi wants to help more students in Southeast Asia stay in school by giving them affordable financing options. The startup announced today it has raised a $5 million Series A, co-led by Monk’s Hill Ventures and Qualgro. ErudiFi currentl…*
+       - *Real estate tech startup Sunroom Rentals, which leases units on behalf of property managers and apartment owners, has raised $11 million in a Series A round of funding led by Gigafund. Ben Doherty and Zachary Maurais, former founders of the delivery app Favor…*
       
 
 <br />
