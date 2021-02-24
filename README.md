@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Facebook brings news sharing back to Australia
+  - Emotive raises $50M to make text marketing more conversational
      <hr/>
      
-      - *The Facebook-Australia news battle seems to have reached an end, Android gets an update and Lucid Motors is going public via SPAC. This is your Daily Crunch for February 23, 2021. The big story: Facebook brings news sharing back to Australia Last week, Facebo…*
+      - *While more businesses are turning to text messages as a marketing channel, Emotive CEO Brain Zatulove argued that most marketers are just treating it as another “newsletter blast.” “The reason the channel performs so well is it’s not saturated,” Zatulove said…*
      
-  - Join a conversation and AMA with Run The World on virtual events now and post COVID
+  - RecargaPay closes a $70 million Series C
       <hr/>
       
-      - *Join TechCrunch for its first 2021 installment of the Ask Me Anything series, where TechCrunch interviews experts and answers your burning questions about virtual events. Our first guest is Xiaoyin Qu, co-founder and CEO of Run The World.  Friday, February 26…*
+      - *RecargaPay, a Brazil-based fintech that allows users to top off their prepaid cell phones online, announced this morning that they’ve closed their $70 million Series C. The company, which operates solely in Brazil, was launched in 2010 by Miami-based serial e…*
       
-  - Spain's ten-year plan to put startups in the economic driving seat
+  - Symbio is working with Toyota and Nissan to increase robotic assembly efficiency
       <hr/>
       
-      - *Spain is preparing to push forward with pro-startup legislation, having recently unveiled a big and bold transformation plan with the headline goal, by 2030, of turning the country into ‘Spain Entrepreneurial Nation’, as the slightly clumsy English translatio…*
+      - *Bay Area-based AI startup Symbio today announced its “official launch.” Backed by a total of $30 million in funding, the company has struck deals with both Nissan and Toyota to implement its software in U.S.-based factories. The company says its SymbioDCS tec…*
       
-  - SpaceX's new $850 million raise confirmed in SEC filing
+  - Flipkart to deploy over 25,000 electric vehicles by 2030
       <hr/>
       
-      - *SpaceX hasn’t issue any public statement about the $850 million in fresh funding CNBC reported it raised last week, but a filing with the U.S. Securities and Exchange Commission (SEC) published today confirms the round. SpaceX’s funding was said to value the …*
+      - *India’s Flipkart said on Wednesday it will deploy more than 25,000 electric vehicles in its supply chain by 2030 as the Walmart-owned e-commerce giant looks to achieve a 100% transition to electric mobility in the next 10 years. The Bangalore-headquartered fi…*
        
-  - From food delivery to housing: Former Favor founders raise millions for Sunroom Rentals
+  - Daily Crunch: Facebook brings news sharing back to Australia
       <hr/>
        
-       - *Real estate tech startup Sunroom Rentals, which leases units on behalf of property managers and apartment owners, has raised $11 million in a Series A round of funding led by Gigafund. Ben Doherty and Zachary Maurais, former founders of the delivery app Favor…*
+       - *The Facebook-Australia news battle seems to have reached an end, Android gets an update and Lucid Motors is going public via SPAC. This is your Daily Crunch for February 23, 2021. The big story: Facebook brings news sharing back to Australia Last week, Facebo…*
       
 
 <br />
