@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Emotive raises $50M to make text marketing more conversational
+  - Spain's Wallapop raises $191M at an $840M valuation for its classifieds marketplace
      <hr/>
      
-      - *While more businesses are turning to text messages as a marketing channel, Emotive CEO Brain Zatulove argued that most marketers are just treating it as another “newsletter blast.” “The reason the channel performs so well is it’s not saturated,” Zatulove said…*
+      - *Through all of the last year’s lockdowns, venue closures, and other social distancing measures that governments have enacted and people have followed to slow the spread of Covid-19, shopping — and specifically e-commerce — has remained a consistent and hugely…*
      
-  - RecargaPay closes a $70 million Series C
+  - Daily Crunch: We review the Amazon Echo Show 10
       <hr/>
       
-      - *RecargaPay, a Brazil-based fintech that allows users to top off their prepaid cell phones online, announced this morning that they’ve closed their $70 million Series C. The company, which operates solely in Brazil, was launched in 2010 by Miami-based serial e…*
+      - *We check out Amazon’s new smart home device, Airbnb adds flexible search and Hopin is raising even more money. This is your Daily Crunch for February 24, 2021. The big story: We review the Amazon Echo Show 10 Brian Heater spent some time with Amazon’s new sma…*
       
-  - Symbio is working with Toyota and Nissan to increase robotic assembly efficiency
+  - Pilot CEO Waseem Daher tears down his company's $60M Series C pitch deck
       <hr/>
       
-      - *Bay Area-based AI startup Symbio today announced its “official launch.” Backed by a total of $30 million in funding, the company has struck deals with both Nissan and Toyota to implement its software in U.S.-based factories. The company says its SymbioDCS tec…*
+      - *"There are boxes that you definitely want to check, but I don't think you can outsource the creation of the narrative."*
       
-  - Flipkart to deploy over 25,000 electric vehicles by 2030
+  - Handy co-founder Oisin Hanrahan is taking over as CEO of ANGI Homeservices
       <hr/>
       
-      - *India’s Flipkart said on Wednesday it will deploy more than 25,000 electric vehicles in its supply chain by 2030 as the Walmart-owned e-commerce giant looks to achieve a 100% transition to electric mobility in the next 10 years. The Bangalore-headquartered fi…*
+      - *A little over two years after ANGI Homeservices acquired his startup Handy, Oisin Hanrahan is becoming CEO of the combined organization and joining its board of directors. ANGI is a publicly-traded subsidiary of IAC, formed from the merger of Angie’s List and…*
        
-  - Daily Crunch: Facebook brings news sharing back to Australia
+  - SpaceX is really just SPAC and an ex
       <hr/>
        
-       - *The Facebook-Australia news battle seems to have reached an end, Android gets an update and Lucid Motors is going public via SPAC. This is your Daily Crunch for February 23, 2021. The big story: Facebook brings news sharing back to Australia Last week, Facebo…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. This is our first-ever Wednesday episode. If you want to learn more about the latest edition of the podcast, head here for more. …*
       
 
 <br />
