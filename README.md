@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Spain's Wallapop raises $191M at an $840M valuation for its classifieds marketplace
+  - Calling Czech VCs: Be featured in The Great TechCrunch Survey of European VC
      <hr/>
      
-      - *Through all of the last year’s lockdowns, venue closures, and other social distancing measures that governments have enacted and people have followed to slow the spread of Covid-19, shopping — and specifically e-commerce — has remained a consistent and hugely…*
+      - *TechCrunch is embarking on a major project to survey the venture capital investors of Europe, and their cities. Our survey of VCs in the Czech Republic and Prague will capture how the country is faring, and what changes are being wrought amongst investors by …*
      
-  - Daily Crunch: We review the Amazon Echo Show 10
+  - James Murdoch's Lupa Systems leads $31 million investment in India's Doubtnut
       <hr/>
       
-      - *We check out Amazon’s new smart home device, Airbnb adds flexible search and Hopin is raising even more money. This is your Daily Crunch for February 24, 2021. The big story: We review the Amazon Echo Show 10 Brian Heater spent some time with Amazon’s new sma…*
+      - *Doubtnut, an Indian startup that helps students learn and master concepts from math and science using short videos, has raised $31 million in a new financing round, months after it rejected an acquisition offer from India’s largest edtech firm Byju’s. The thr…*
       
-  - Pilot CEO Waseem Daher tears down his company's $60M Series C pitch deck
+  - India announces sweeping guidelines for social media, on-demand streaming firms, and digital news outlets
       <hr/>
       
-      - *"There are boxes that you definitely want to check, but I don't think you can outsource the creation of the narrative."*
+      - *India announced sweeping changes to its guidelines for social media, on-demand video streaming services, and digital news outlets on Thursday, posing new challenges for small firms as well as giants such as Facebook and Google that count the nation as its big…*
       
-  - Handy co-founder Oisin Hanrahan is taking over as CEO of ANGI Homeservices
+  - Maze raises another $15 million for its user testing platform
       <hr/>
       
-      - *A little over two years after ANGI Homeservices acquired his startup Handy, Oisin Hanrahan is becoming CEO of the combined organization and joining its board of directors. ANGI is a publicly-traded subsidiary of IAC, formed from the merger of Angie’s List and…*
+      - *Maze has closed a $15 million Series A funding round led by Emergence Capital. The company lets you run user tests at scale so that you can get feedback before rolling out a design update or test copy. When you have a lot of users, you don’t want to roll out …*
        
-  - SpaceX is really just SPAC and an ex
+  - TreeCard raises $5.1M seed to plant trees as you spend
       <hr/>
        
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. This is our first-ever Wednesday episode. If you want to learn more about the latest edition of the podcast, head here for more. …*
+       - *TreeCard, a U.K. yet-to-launch fintech offering a spending card made out of wood and the promise to fund reforesting via the interchange fees generated, has raised $5.1 million in seed funding. The round is led by EQT Ventures, with participation from Seedcam…*
       
 
 <br />
