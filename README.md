@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Calling Czech VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Daily Crunch: Twitter announces 'Super Follow' subscriptions
      <hr/>
      
-      - *TechCrunch is embarking on a major project to survey the venture capital investors of Europe, and their cities. Our survey of VCs in the Czech Republic and Prague will capture how the country is faring, and what changes are being wrought amongst investors by …*
+      - *Twitter reveals its move into paid subscriptions, Australia passes its media bargaining law and Coinbase files its S-1. This is your Daily Crunch for February 25, 2021. The big story: Twitter announces ‘Super Follow’ subscriptions Twitter announced its first …*
      
-  - James Murdoch's Lupa Systems leads $31 million investment in India's Doubtnut
+  - AT&T is turning DirecTV into a standalone company
       <hr/>
       
-      - *Doubtnut, an Indian startup that helps students learn and master concepts from math and science using short videos, has raised $31 million in a new financing round, months after it rejected an acquisition offer from India’s largest edtech firm Byju’s. The thr…*
+      - *AT&T just announced an agreement with private equity firm TPG that will turn DirecTV into a standalone company, albeit one that’s still majority owned by the telecom giant. Specifically, AT&T says it will own 70% of the new company, while TPG owns 30%. This t…*
       
-  - India announces sweeping guidelines for social media, on-demand streaming firms, and digital news outlets
+  - Orca wants to give boating navigation its 'iPhone moment'
       <hr/>
       
-      - *India announced sweeping changes to its guidelines for social media, on-demand video streaming services, and digital news outlets on Thursday, posing new challenges for small firms as well as giants such as Facebook and Google that count the nation as its big…*
+      - *Boating is a hobby steeped in history and tradition — and so is the industry and those that support it. With worldwide connectivity, electric boats, and other technological changes dragging the sector out of old habits, Orca aims to replace the outdated inter…*
       
-  - Maze raises another $15 million for its user testing platform
+  - DigitalOcean's IPO filing shows a two-class cloud market
       <hr/>
       
-      - *Maze has closed a $15 million Series A funding round led by Emergence Capital. The company lets you run user tests at scale so that you can get feedback before rolling out a design update or test copy. When you have a lot of users, you don’t want to roll out …*
+      - *This morning DigitalOcean, a provider of cloud computing services to SMBs, filed to go public. The company intends to list on the New York Stock Exchange (NYSE) under the ticker symbol “DOCN.” DigitalOcean’s offering comes amidst a hot streak for tech IPOs, a…*
        
-  - TreeCard raises $5.1M seed to plant trees as you spend
+  - Crypto company Anchorage raises $80 million after getting federal banking charter
       <hr/>
        
-       - *TreeCard, a U.K. yet-to-launch fintech offering a spending card made out of wood and the promise to fund reforesting via the interchange fees generated, has raised $5.1 million in seed funding. The round is led by EQT Ventures, with participation from Seedcam…*
+       - *Anchorage has raised an $80 million Series C funding round led by GIC, also known as Singapore’s sovereign wealth fund. Andreessen Horowitz, Blockchain Capital, Lux and Indico are also participating in today’s funding round. The thinking behind this funding r…*
       
 
 <br />
