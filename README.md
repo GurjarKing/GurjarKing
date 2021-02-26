@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Twitter announces 'Super Follow' subscriptions
+  - How to land startup funding from Brookfield Asset Management, which manages $600 billion in assets
      <hr/>
      
-      - *Twitter reveals its move into paid subscriptions, Australia passes its media bargaining law and Coinbase files its S-1. This is your Daily Crunch for February 25, 2021. The big story: Twitter announces ‘Super Follow’ subscriptions Twitter announced its first …*
+      - *There are big investment firms, and then there are big investment firms. Brookfield Asset Management, the Toronto-based 122-year-old outfit whose current market cap is $63 billion and that oversees $600 billion in assets, clearly falls into the latter camp. T…*
      
-  - AT&T is turning DirecTV into a standalone company
+  - Singapore-based Raena gets $9M Series A for its pivot to skincare and beauty-focused social commerce
       <hr/>
       
-      - *AT&T just announced an agreement with private equity firm TPG that will turn DirecTV into a standalone company, albeit one that’s still majority owned by the telecom giant. Specifically, AT&T says it will own 70% of the new company, while TPG owns 30%. This t…*
+      - *Raena was founded in 2019 to create personal care brands with top social media influencers. After several launches, however, the Singapore-based startup quickly noticed an interesting trend: customers were ordering batches of products from Raena every week an…*
       
-  - Orca wants to give boating navigation its 'iPhone moment'
+  - Tim Hortons marks two years in China with Tencent investment
       <hr/>
       
-      - *Boating is a hobby steeped in history and tradition — and so is the industry and those that support it. With worldwide connectivity, electric boats, and other technological changes dragging the sector out of old habits, Orca aims to replace the outdated inter…*
+      - *Tim Hortons, the Canadian coffee and doughnut giant, has raised a new round of funding for its Chinese venture. The investment is led by Sequoia China with participation from Tencent, its digital partner in China, and Eastern Bell Capital. The round comes two…*
       
-  - DigitalOcean's IPO filing shows a two-class cloud market
+  - Bessemer Venture Partners closes on $3.3 billion across two funds
       <hr/>
       
-      - *This morning DigitalOcean, a provider of cloud computing services to SMBs, filed to go public. The company intends to list on the New York Stock Exchange (NYSE) under the ticker symbol “DOCN.” DigitalOcean’s offering comes amidst a hot streak for tech IPOs, a…*
+      - *Another major VC firm has closed two major rounds, underscoring the long-term confidence investors continue to have for backing privately-held companies in the tech sector. Early-stage VC firm Bessemer Venture Partners announced Thursday the close of two new …*
        
-  - Crypto company Anchorage raises $80 million after getting federal banking charter
+  - Newsela, the replacement for textbooks, raises $100M and becomes a unicorn
       <hr/>
        
-       - *Anchorage has raised an $80 million Series C funding round led by GIC, also known as Singapore’s sovereign wealth fund. Andreessen Horowitz, Blockchain Capital, Lux and Indico are also participating in today’s funding round. The thinking behind this funding r…*
+       - *Newsela, a SaaS platform for K-12 instructional material backed by the likes of TCV, Kleiner Perkins, Reach Capital and Owl Ventures, announced today that it has raised $100 million in a Series D round. The financing was led by new investor Franklin Templeton…*
       
 
 <br />
