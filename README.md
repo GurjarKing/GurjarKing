@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Facebook launches rap app
+  - 6 Copenhagen investors share their outlook on investing in 2021
      <hr/>
      
-      - *Facebook unveils another experimental app, Atlassian acquires a data visualization startup and Newsela becomes a unicorn. This is your Daily Crunch for February 26, 2021. The big story: Facebook launches rap app The new BARS app was created by NPE Team (Faceb…*
+      - *While Denmark and Copenhagen don’t often come up as a destination for European startups, it has a thriving local tech scene that’s home to some of the better startup conferences. After all, who doesn’t want to visit Copenhagen? A highly educated population, g…*
      
+  - What the NFT? VC David Pakman dumbs down the digital collectibles frenzy and why it's taking off now
+      <hr/>
+      
+      - *Non-fungible tokens have been around for two years, but these NFTs, one-of-one digital items on the Ethereum and other blockchains, are suddenly becoming a more popular way to collect visual art, primarily, whether it’s an animated cat or an NBA clip or virtu…*
+      
+  - Daily Crunch: Facebook launches rap app
+      <hr/>
+      
+      - *Facebook unveils another experimental app, Atlassian acquires a data visualization startup and Newsela becomes a unicorn. This is your Daily Crunch for February 26, 2021. The big story: Facebook launches rap app The new BARS app was created by NPE Team (Faceb…*
+      
   - Astra awarded NASA launch contract for storm observation satellites
       <hr/>
       
       - *Astra, the Alameda-based space launch startup that recently announced its intent to go public via a SPAC merger, has secured a contract to deliver six cube satellites to space on behalf of NASA. Astra stands to be paid $7.95 million by the agency for fulfilme…*
-      
+       
   - Salesforce delivers, Wall Street doubts as stock falls 6.3% post-earnings
       <hr/>
-      
-      - *Wall Street investors can be fickle beasts. Take Salesforce as an example. The CRM giant announced a $5.82 billion quarter when it reported earnings yesterday. Revenue was up 20% year over year. The company also reported $21.25 billion in total revenue for th…*
-      
-  - EC roundup: BNPL startups, growth marketing tips, solid state battery market map, more
-      <hr/>
-      
-      - *When I needed a new sofa several months ago, I was pleased to find a buy now, pay later (BNPL) option during the checkout process. I had prepared myself to make a major financial outlay, but the service fees were well worth the convenience of deferring the en…*
        
-  - With $62.5M in debt financing, Road Runner Media puts digital ads behind commercial vehicles
-      <hr/>
-       
-       - *If Southern California-based Road Runner Media succeeds, you’ll start seeing a lot more ads while you’re driving. That’s because the startup is placing digital screens on the backs technicians’ vans, delivery vehicles, buses and other commercial vehicles. Tho…*
+       - *Wall Street investors can be fickle beasts. Take Salesforce as an example. The CRM giant announced a $5.82 billion quarter when it reported earnings yesterday. Revenue was up 20% year over year. The company also reported $21.25 billion in total revenue for th…*
       
 
 <br />
