@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - How to land startup funding from Brookfield Asset Management, which manages $600 billion in assets
+  - Daily Crunch: Facebook launches rap app
      <hr/>
      
-      - *There are big investment firms, and then there are big investment firms. Brookfield Asset Management, the Toronto-based 122-year-old outfit whose current market cap is $63 billion and that oversees $600 billion in assets, clearly falls into the latter camp. T…*
+      - *Facebook unveils another experimental app, Atlassian acquires a data visualization startup and Newsela becomes a unicorn. This is your Daily Crunch for February 26, 2021. The big story: Facebook launches rap app The new BARS app was created by NPE Team (Faceb…*
      
-  - Singapore-based Raena gets $9M Series A for its pivot to skincare and beauty-focused social commerce
+  - Astra awarded NASA launch contract for storm observation satellites
       <hr/>
       
-      - *Raena was founded in 2019 to create personal care brands with top social media influencers. After several launches, however, the Singapore-based startup quickly noticed an interesting trend: customers were ordering batches of products from Raena every week an…*
+      - *Astra, the Alameda-based space launch startup that recently announced its intent to go public via a SPAC merger, has secured a contract to deliver six cube satellites to space on behalf of NASA. Astra stands to be paid $7.95 million by the agency for fulfilme…*
       
-  - Tim Hortons marks two years in China with Tencent investment
+  - Salesforce delivers, Wall Street doubts as stock falls 6.3% post-earnings
       <hr/>
       
-      - *Tim Hortons, the Canadian coffee and doughnut giant, has raised a new round of funding for its Chinese venture. The investment is led by Sequoia China with participation from Tencent, its digital partner in China, and Eastern Bell Capital. The round comes two…*
+      - *Wall Street investors can be fickle beasts. Take Salesforce as an example. The CRM giant announced a $5.82 billion quarter when it reported earnings yesterday. Revenue was up 20% year over year. The company also reported $21.25 billion in total revenue for th…*
       
-  - Bessemer Venture Partners closes on $3.3 billion across two funds
+  - EC roundup: BNPL startups, growth marketing tips, solid state battery market map, more
       <hr/>
       
-      - *Another major VC firm has closed two major rounds, underscoring the long-term confidence investors continue to have for backing privately-held companies in the tech sector. Early-stage VC firm Bessemer Venture Partners announced Thursday the close of two new …*
+      - *When I needed a new sofa several months ago, I was pleased to find a buy now, pay later (BNPL) option during the checkout process. I had prepared myself to make a major financial outlay, but the service fees were well worth the convenience of deferring the en…*
        
-  - Newsela, the replacement for textbooks, raises $100M and becomes a unicorn
+  - With $62.5M in debt financing, Road Runner Media puts digital ads behind commercial vehicles
       <hr/>
        
-       - *Newsela, a SaaS platform for K-12 instructional material backed by the likes of TCV, Kleiner Perkins, Reach Capital and Owl Ventures, announced today that it has raised $100 million in a Series D round. The financing was led by new investor Franklin Templeton…*
+       - *If Southern California-based Road Runner Media succeeds, you’ll start seeing a lot more ads while you’re driving. That’s because the startup is placing digital screens on the backs technicians’ vans, delivery vehicles, buses and other commercial vehicles. Tho…*
       
 
 <br />
