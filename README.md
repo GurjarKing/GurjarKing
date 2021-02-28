@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 6 Copenhagen investors share their outlook on investing in 2021
+  - How investors are valuing the pandemic
      <hr/>
      
-      - *While Denmark and Copenhagen don’t often come up as a destination for European startups, it has a thriving local tech scene that’s home to some of the better startup conferences. After all, who doesn’t want to visit Copenhagen? A highly educated population, g…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
      
-  - What the NFT? VC David Pakman dumbs down the digital collectibles frenzy and why it's taking off now
+  - How capital-as-a-service can help you get your first check in 2021
       <hr/>
       
-      - *Non-fungible tokens have been around for two years, but these NFTs, one-of-one digital items on the Ethereum and other blockchains, are suddenly becoming a more popular way to collect visual art, primarily, whether it’s an animated cat or an NBA clip or virtu…*
+      - *“A lot of founders mix up raising money with making money.” This quote, which Career Karma founder Ruben Harris mentioned off-hand on a phone call with me, has been on my mind for months. In fact, raising money can cost you money, in the form of that sweet, s…*
       
-  - Daily Crunch: Facebook launches rap app
+  - Storm Ventures promotes Pascale Diaine and Frederik Groce to partners
       <hr/>
       
-      - *Facebook unveils another experimental app, Atlassian acquires a data visualization startup and Newsela becomes a unicorn. This is your Daily Crunch for February 26, 2021. The big story: Facebook launches rap app The new BARS app was created by NPE Team (Faceb…*
+      - *Storm Ventures, a venture firm that focuses on early stage B2B enterprise startups, announced this week that it has promoted Pascale Diaine and Frederik Groce to partners at the firm. The two new partners have worked their way up over the last several years. …*
       
-  - Astra awarded NASA launch contract for storm observation satellites
+  - This Week in Apps: Twitter targets creators, Clubhouse security, Spotify's plans for paid podcasts
       <hr/>
       
-      - *Astra, the Alameda-based space launch startup that recently announced its intent to go public via a SPAC merger, has secured a contract to deliver six cube satellites to space on behalf of NASA. Astra stands to be paid $7.95 million by the agency for fulfilme…*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - Salesforce delivers, Wall Street doubts as stock falls 6.3% post-earnings
+  - If you haven't followed NFTs, here’s why you should start
       <hr/>
        
-       - *Wall Street investors can be fickle beasts. Take Salesforce as an example. The CRM giant announced a $5.82 billion quarter when it reported earnings yesterday. Revenue was up 20% year over year. The company also reported $21.25 billion in total revenue for th…*
+       - *Digital content has value, and crypto collectors are flocking to lay their namesake on the biggest collections of tomorrow.*
       
 
 <br />
