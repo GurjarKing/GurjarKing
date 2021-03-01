@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Justworks' Series B pitch deck may be the most wonderfully simple deck I've ever seen
+  - Klarna confirms new $31B valuation
      <hr/>
      
-      - *It may be tough to remember, but there was a time long ago when Justworks wasn’t a household name. Though its monthly revenue growth charts were up and to the right, it had not even broken the $100,000 mark. Even then, Bain Capital Venture’s Matt Harris felt …*
+      - *Klarna, the Swedish buy now, pay later behemoth and upstart bank, has raised $1 billion in new funding at a post-money valuation of $31 billion. That sees the company retain the crown as the highest valued private fintech in Europe. Backers of this round are …*
      
-  - How investors are valuing the pandemic
+  - Axonius nabs $100M at a $1.2B valuation for its asset management cybersecurity platform
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
+      - *Remote work has become the norm for many businesses in the last year, and today a startup that has built a cybersecurity platform to help manage all the devices connecting to organizations’ wide-ranging networks — while also providing a way for those organiza…*
       
-  - How capital-as-a-service can help you get your first check in 2021
+  - Paytm claims top spot in India's mobile payments market with 1.2B monthly transactions
       <hr/>
       
-      - *“A lot of founders mix up raising money with making money.” This quote, which Career Karma founder Ruben Harris mentioned off-hand on a phone call with me, has been on my mind for months. In fact, raising money can cost you money, in the form of that sweet, s…*
+      - *This is the largest volume of transactions reported by any payments firm in India and Paytm claimed that it has consolidated its leadership position.*
       
-  - Storm Ventures promotes Pascale Diaine and Frederik Groce to partners
+  - Istanbul's Dream Games snaps up $50M and launches its first game, the puzzle-based Royal Match
       <hr/>
       
-      - *Storm Ventures, a venture firm that focuses on early stage B2B enterprise startups, announced this week that it has promoted Pascale Diaine and Frederik Groce to partners at the firm. The two new partners have worked their way up over the last several years. …*
+      - *On the back of Zynga acquiring Turkey’s Peak Games for $1.8 billion last year and then following it up with another gaming acquisition in the country, Turkey has been making a name for itself as a hub for mobile gaming startups, and specifically those buildin…*
        
-  - This Week in Apps: Twitter targets creators, Clubhouse security, Spotify's plans for paid podcasts
+  - Lime unveils new ebike as part of $50 million investment to expand to more 25 cities
       <hr/>
        
-       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
+       - *Lime said Monday it has allocated $50 million towards its bike-share operation, an investment that has been used to develop a new ebike and will fund its expansion this year to another 25 cities in North America, Europe, and Australia and New Zealand.  If the…*
       
 
 <br />
