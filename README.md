@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - How investors are valuing the pandemic
+  - Justworks' Series B pitch deck may be the most wonderfully simple deck I've ever seen
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
+      - *It may be tough to remember, but there was a time long ago when Justworks wasn’t a household name. Though its monthly revenue growth charts were up and to the right, it had not even broken the $100,000 mark. Even then, Bain Capital Venture’s Matt Harris felt …*
      
+  - How investors are valuing the pandemic
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
+      
   - How capital-as-a-service can help you get your first check in 2021
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Storm Ventures, a venture firm that focuses on early stage B2B enterprise startups, announced this week that it has promoted Pascale Diaine and Frederik Groce to partners at the firm. The two new partners have worked their way up over the last several years. …*
-      
+       
   - This Week in Apps: Twitter targets creators, Clubhouse security, Spotify's plans for paid podcasts
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - If you haven't followed NFTs, here’s why you should start
-      <hr/>
-       
-       - *Digital content has value, and crypto collectors are flocking to lay their namesake on the biggest collections of tomorrow.*
+       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
       
 
 <br />
