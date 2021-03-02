@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Kaltura files to go public on the back of accelerating revenue growth, rising losses
+  - TikTok calls in outside help with content moderation in Europe
      <hr/>
      
-      - *It's unicorn melting season, with gobs of investors hoping for liquidity while public markets are hot. Expect more Kalturas.*
+      - *TikTok is bringing in external experts in Europe in fields such as child safety, young people’s mental health and extremism to form a Safety Advisory Council to help it with content moderation in the region. The move, announced today, follows an emergency int…*
      
-  - Apple alum’s jobs app for India’s workers raises $12.5 million
+  - Humaans raises $5M seed to make it easier for companies to on-board and manage staff
       <hr/>
       
-      - *A startup by an Apple alum that has become home to millions of low-skilled workers in India said on Tuesday it has raised an additional $12.5 million, just five months after securing $8 million from high-profile investors. One-year-old Apna said Sequoia Capit…*
+      - *Humaans, a London-based HR startup, has raised $5 million in seed funding to accelerate the development of its employee on-boarding and management platform. Backing the round is Y Combinator, Mattias Ljungman’s Moonfire, Frontline Ventures and former head of …*
       
-  - Daily Crunch:  Klarna valued at $31B
+  - Amsterdam's Crisp, an online-only supermarket, raises €30M Series B led by Target Global
       <hr/>
       
-      - *A challenger bank raises funding at a massive valuation, Instagram adds Live Rooms and Google updates Workspace. This is your Daily Crunch for March 1, 2021. The big story: Klarna valued at $31B The Swedish challenger bank and buy-now-pay-later (BNPL) service…*
+      - *Crisp, an Amsterdam-based, online-only supermarket focused on fresh produce, has raised €30 million in a Series B financing led by leading Target Global and joined by Keen Venture Partners and the co-founders of Adyen and Takeaway.com. Crisp has now raised a …*
       
-  - Google restarts updates for some iOS apps after long pause triggered by lack of privacy labels
+  - Czech on-demand grocery delivery startup Rohlik bags $230M to expand across Europe
       <hr/>
       
-      - *Google over the weekend began to update many of its flagship iOS apps after a lengthy delay caused by the company’s failure to add Apple’s newly required privacy labels in a timely fashion. Though Google earlier this year said it would “soon” begin to add the…*
+      - *Food delivery — whether it’s ready-made orders from restaurants, meal kits or groceries — has been one of the most-used services in this last year of living under the cloud of a global health pandemic, and today one of the companies with ambitions to build a …*
        
-  - Corporate sustainability initiatives may open doors for carbon offset startups
+  - Coupang may raise up to $3.6 billion in its IPO, at a potential valuation of $51 billion
       <hr/>
        
-       - *“You’re seeing a lot of large companies … are now investing significant amounts into really trying to understand their emissions profile and prioritize emission reductions in a data-driven way."*
+       - *According to an amended S-1 filing, South Korean e-commerce leader Coupang expects to price its initial public offering between $27 to $30 per share, potentially raising up to $3.6 billion. After the IPO, Coupang will have a total of 1.7 billion shares outsta…*
       
 
 <br />
