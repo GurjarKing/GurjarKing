@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Klarna confirms new $31B valuation
+  - Kaltura files to go public on the back of accelerating revenue growth, rising losses
      <hr/>
      
-      - *Klarna, the Swedish buy now, pay later behemoth and upstart bank, has raised $1 billion in new funding at a post-money valuation of $31 billion. That sees the company retain the crown as the highest valued private fintech in Europe. Backers of this round are …*
+      - *It's unicorn melting season, with gobs of investors hoping for liquidity while public markets are hot. Expect more Kalturas.*
      
-  - Axonius nabs $100M at a $1.2B valuation for its asset management cybersecurity platform
+  - Apple alum’s jobs app for India’s workers raises $12.5 million
       <hr/>
       
-      - *Remote work has become the norm for many businesses in the last year, and today a startup that has built a cybersecurity platform to help manage all the devices connecting to organizations’ wide-ranging networks — while also providing a way for those organiza…*
+      - *A startup by an Apple alum that has become home to millions of low-skilled workers in India said on Tuesday it has raised an additional $12.5 million, just five months after securing $8 million from high-profile investors. One-year-old Apna said Sequoia Capit…*
       
-  - Paytm claims top spot in India's mobile payments market with 1.2B monthly transactions
+  - Daily Crunch:  Klarna valued at $31B
       <hr/>
       
-      - *This is the largest volume of transactions reported by any payments firm in India and Paytm claimed that it has consolidated its leadership position.*
+      - *A challenger bank raises funding at a massive valuation, Instagram adds Live Rooms and Google updates Workspace. This is your Daily Crunch for March 1, 2021. The big story: Klarna valued at $31B The Swedish challenger bank and buy-now-pay-later (BNPL) service…*
       
-  - Istanbul's Dream Games snaps up $50M and launches its first game, the puzzle-based Royal Match
+  - Google restarts updates for some iOS apps after long pause triggered by lack of privacy labels
       <hr/>
       
-      - *On the back of Zynga acquiring Turkey’s Peak Games for $1.8 billion last year and then following it up with another gaming acquisition in the country, Turkey has been making a name for itself as a hub for mobile gaming startups, and specifically those buildin…*
+      - *Google over the weekend began to update many of its flagship iOS apps after a lengthy delay caused by the company’s failure to add Apple’s newly required privacy labels in a timely fashion. Though Google earlier this year said it would “soon” begin to add the…*
        
-  - Lime unveils new ebike as part of $50 million investment to expand to more 25 cities
+  - Corporate sustainability initiatives may open doors for carbon offset startups
       <hr/>
        
-       - *Lime said Monday it has allocated $50 million towards its bike-share operation, an investment that has been used to develop a new ebike and will fund its expansion this year to another 25 cities in North America, Europe, and Australia and New Zealand.  If the…*
+       - *“You’re seeing a lot of large companies … are now investing significant amounts into really trying to understand their emissions profile and prioritize emission reductions in a data-driven way."*
       
 
 <br />
