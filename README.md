@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook can save itself by becoming a B Corporation
+  - Firms backed by Robert Downey Jr. and Bill Gates have funded an electric motor company that slashes energy consumption
      <hr/>
      
-      - *In changing Facebook into a for-benefit corporation, Mark Zuckerberg could insulate himself against presidential rage while rehabilitating his reputation — and his company's.*
+      - *Sometimes the smallest innovations can have the biggest impacts on the world’s efforts to stop global climate change. Arguably, one of the biggest contributors in the fight against climate change to date has been the switch to the humble LED light, which has …*
      
-  - Daily Crunch: Microsoft unveils Mesh for AR/VR meetings
+  - Dooly closes on $20M for AI-based tools to help salespeople with their busywork
       <hr/>
       
-      - *Microsoft shows off a new AR/VR meeting platform, Uber spins out a robotics startup and Compass files to go public. This is your Daily Crunch for March 2, 2021. The big story: Microsoft unveils Mesh for AR/VR meetings Mesh is a platform that allows for shared…*
+      - *Robotic process automation has taken the enterprise world by storm, by providing a set of tools for those doing repetitive, volume-based tasks to use software to remove some of that labor to let those people focus on more complicated tasks. Today a startup th…*
       
-  - Create a handbook and integrate AI to onboard remote employees
+  - Flextock is a YC-backed e-commerce fulfillment provider for Africa and the Middle East
       <hr/>
       
-      - *As businesses continue to grapple with this new reality, they must remember the crucial nature of the onboarding process. If they get that right, it will breed trust, information sharing and collaboration, and the organization will see their systems improve a…*
+      - *When merchants launch their e-commerce businesses, they can easily manage the end-to-end operations in the early stages. But as they begin to grow, managing their own operations, from warehousing and logistics to delivery and cash collection, can become diffi…*
       
-  - SpaceX's first paying Moon flight customer wants to give away eight seats aboard his spaceship
+  - China's cosmetics startup Yatsen to buy 35-year-old skincare brand Eve Lom
       <hr/>
       
-      - *Yusaku Maezawa, the first paying passenger to book a trip aboard SpaceX’s (still in development) Starship spacecraft around the Moon, has provided a promised update about his mission. It’s still aiming for 2023 for a flight date, and the plan is still to fly …*
+      - *In China’s cosmetics world, where foreign brands were historically revered, indigenous startups are increasingly winning over Gen-Z consumers with cheaper, more localized options. One of the rising stars is the direct-to-consumer brand Perfect Diary, which is…*
        
-  - The explosive (and inclusive) potential of NFTs in the creative world
+  - 'Flying taxi' startup Volocopter picks up another $241M, says service is now two years out
       <hr/>
        
-       - *Digital collectibles are having a very large moment. Just last month, a piece of digital art by Beeple sold for $6.6 million on online art marketplace Nifty Gateway. Meanwhile, Linkin Park’s Mike Shinoda recently sold clips of a song via online marketplace Zo…*
+       - *In a year where mass transit on airplanes, trains and buses has had lower traveler numbers in the wake of the Covid-19 pandemic, one of the startups hoping to pioneer a totally new approach to getting individuals from A to B — flying taxis — has raised some s…*
       
 
 <br />
