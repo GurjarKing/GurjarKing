@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok calls in outside help with content moderation in Europe
+  - Facebook can save itself by becoming a B Corporation
      <hr/>
      
-      - *TikTok is bringing in external experts in Europe in fields such as child safety, young people’s mental health and extremism to form a Safety Advisory Council to help it with content moderation in the region. The move, announced today, follows an emergency int…*
+      - *In changing Facebook into a for-benefit corporation, Mark Zuckerberg could insulate himself against presidential rage while rehabilitating his reputation — and his company's.*
      
-  - Humaans raises $5M seed to make it easier for companies to on-board and manage staff
+  - Daily Crunch: Microsoft unveils Mesh for AR/VR meetings
       <hr/>
       
-      - *Humaans, a London-based HR startup, has raised $5 million in seed funding to accelerate the development of its employee on-boarding and management platform. Backing the round is Y Combinator, Mattias Ljungman’s Moonfire, Frontline Ventures and former head of …*
+      - *Microsoft shows off a new AR/VR meeting platform, Uber spins out a robotics startup and Compass files to go public. This is your Daily Crunch for March 2, 2021. The big story: Microsoft unveils Mesh for AR/VR meetings Mesh is a platform that allows for shared…*
       
-  - Amsterdam's Crisp, an online-only supermarket, raises €30M Series B led by Target Global
+  - Create a handbook and integrate AI to onboard remote employees
       <hr/>
       
-      - *Crisp, an Amsterdam-based, online-only supermarket focused on fresh produce, has raised €30 million in a Series B financing led by leading Target Global and joined by Keen Venture Partners and the co-founders of Adyen and Takeaway.com. Crisp has now raised a …*
+      - *As businesses continue to grapple with this new reality, they must remember the crucial nature of the onboarding process. If they get that right, it will breed trust, information sharing and collaboration, and the organization will see their systems improve a…*
       
-  - Czech on-demand grocery delivery startup Rohlik bags $230M to expand across Europe
+  - SpaceX's first paying Moon flight customer wants to give away eight seats aboard his spaceship
       <hr/>
       
-      - *Food delivery — whether it’s ready-made orders from restaurants, meal kits or groceries — has been one of the most-used services in this last year of living under the cloud of a global health pandemic, and today one of the companies with ambitions to build a …*
+      - *Yusaku Maezawa, the first paying passenger to book a trip aboard SpaceX’s (still in development) Starship spacecraft around the Moon, has provided a promised update about his mission. It’s still aiming for 2023 for a flight date, and the plan is still to fly …*
        
-  - Coupang may raise up to $3.6 billion in its IPO, at a potential valuation of $51 billion
+  - The explosive (and inclusive) potential of NFTs in the creative world
       <hr/>
        
-       - *According to an amended S-1 filing, South Korean e-commerce leader Coupang expects to price its initial public offering between $27 to $30 per share, potentially raising up to $3.6 billion. After the IPO, Coupang will have a total of 1.7 billion shares outsta…*
+       - *Digital collectibles are having a very large moment. Just last month, a piece of digital art by Beeple sold for $6.6 million on online art marketplace Nifty Gateway. Meanwhile, Linkin Park’s Mike Shinoda recently sold clips of a song via online marketplace Zo…*
       
 
 <br />
