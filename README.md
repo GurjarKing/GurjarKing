@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Firms backed by Robert Downey Jr. and Bill Gates have funded an electric motor company that slashes energy consumption
+  - Revolut lets customers switch to Revolut Bank in 10 additional countries
      <hr/>
      
-      - *Sometimes the smallest innovations can have the biggest impacts on the world’s efforts to stop global climate change. Arguably, one of the biggest contributors in the fight against climate change to date has been the switch to the humble LED light, which has …*
+      - *Fintech startup Revolut has its own banking license in the European Union since late 2018. It lets the company offer some additional financial services without partnering with third-party companies. And the company is going to let customers switch to Revolut …*
      
-  - Dooly closes on $20M for AI-based tools to help salespeople with their busywork
+  - SpaceX's Starship prototype flies to 32,000 feet and sticks the landing in third flight test
       <hr/>
       
-      - *Robotic process automation has taken the enterprise world by storm, by providing a set of tools for those doing repetitive, volume-based tasks to use software to remove some of that labor to let those people focus on more complicated tasks. Today a startup th…*
+      - *SpaceX has launched SN10 – the tenth iteration of its current prototype series of Starship, the heavy-lift reusable spacecraft it’s developing. Starship SN10 took off from Boca Chica, Texas, where SpaceX is developing the vehicle. It flew to a height of rough…*
       
-  - Flextock is a YC-backed e-commerce fulfillment provider for Africa and the Middle East
+  - The Aston Martin DBX is a tale of two vehicles
       <hr/>
       
-      - *When merchants launch their e-commerce businesses, they can easily manage the end-to-end operations in the early stages. But as they begin to grow, managing their own operations, from warehousing and logistics to delivery and cash collection, can become diffi…*
+      - *The Aston Martin DBX is the brand’s first SUV — and the stakes for the iconic British luxury car maker couldn’t be higher. Like Astons before it, the DBX is objectively handsome. Its sculptural form stretches out to unapologetic ample proportions, and stands …*
       
-  - China's cosmetics startup Yatsen to buy 35-year-old skincare brand Eve Lom
+  - Daily Crunch: Google swears off ad-tracking
       <hr/>
       
-      - *In China’s cosmetics world, where foreign brands were historically revered, indigenous startups are increasingly winning over Gen-Z consumers with cheaper, more localized options. One of the rising stars is the direct-to-consumer brand Perfect Diary, which is…*
+      - *Google says it’s focusing on privacy-friendly approaches to ad targeting, Okta acquires Auth0 and a flying taxi startup raises $241 million. This is your Daily Crunch for March 3, 2021. The big story: Google swears off ad-tracking While Google had already ann…*
        
-  - 'Flying taxi' startup Volocopter picks up another $241M, says service is now two years out
+  - As activist investors loom, what’s next for Box?
       <hr/>
        
-       - *In a year where mass transit on airplanes, trains and buses has had lower traveler numbers in the wake of the Covid-19 pandemic, one of the startups hoping to pioneer a totally new approach to getting individuals from A to B — flying taxis — has raised some s…*
+       - *Activist investors will only sit still for so long, and when they take action, it usually involves one of two approaches: Replace the leadership team or induce a sale.*
       
 
 <br />
