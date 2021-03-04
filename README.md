@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Revolut lets customers switch to Revolut Bank in 10 additional countries
+  - Apple's App Store is now also under antitrust scrutiny in the UK
      <hr/>
      
-      - *Fintech startup Revolut has its own banking license in the European Union since late 2018. It lets the company offer some additional financial services without partnering with third-party companies. And the company is going to let customers switch to Revolut …*
+      - *Apple is facing another antitrust investigation in Europe into how it operates the iOS App Store. The UK’s Competition and Markets Authority (CMA) announced today that it’s opened an investigation following a number of complaints from developers alleging unfa…*
      
-  - SpaceX's Starship prototype flies to 32,000 feet and sticks the landing in third flight test
+  - Boss of Chinese gaming titan NetEase calls for shared parental leave
       <hr/>
       
-      - *SpaceX has launched SN10 – the tenth iteration of its current prototype series of Starship, the heavy-lift reusable spacecraft it’s developing. Starship SN10 took off from Boca Chica, Texas, where SpaceX is developing the vehicle. It flew to a height of rough…*
+      - *China’s relaxation of its one-child restriction has not delivered the population targets set by its policy planners. In 2019, the birth rate in China slumped to a seven-decade low, which experts attribute to changes in social attitudes, skyrocketing living co…*
       
-  - The Aston Martin DBX is a tale of two vehicles
+  - Deliveroo confirms anticipated £8bn floatation in London, will be among first to use 'dual shares' structure
       <hr/>
       
-      - *The Aston Martin DBX is the brand’s first SUV — and the stakes for the iconic British luxury car maker couldn’t be higher. Like Astons before it, the DBX is objectively handsome. Its sculptural form stretches out to unapologetic ample proportions, and stands …*
+      - *Food delivery start-up Deliveroo has today confirmed its £8bn ($11bn) stock market floatation in London, something which was on the cards previously. The eight-year-old company will use the “dual-class” innovation which has been introduced to the London Stock…*
       
-  - Daily Crunch: Google swears off ad-tracking
+  - IFC backs Bolt with $24M to expand its transportation network in emerging markets
       <hr/>
       
-      - *Google says it’s focusing on privacy-friendly approaches to ad targeting, Okta acquires Auth0 and a flying taxi startup raises $241 million. This is your Daily Crunch for March 3, 2021. The big story: Google swears off ad-tracking While Google had already ann…*
+      - *Bolt, an Uber competitor that is building an international on-demand network of services to transport people, food and other items in cars, scooters and bikes across Europe and Africa, has picked up some strategic funding today to continue expanding its busin…*
        
-  - As activist investors loom, what’s next for Box?
+  - Countingup closes £9.1M for its business current account with built-in accounting features
       <hr/>
        
-       - *Activist investors will only sit still for so long, and when they take action, it usually involves one of two approaches: Replace the leadership team or induce a sale.*
+       - *Countingup, the U.K. fintech offering a business current account with built-in accounting features, has closed £9.1 million in Series A investment. Leading the round is Framework Venture Partners, with participation from Gresham House Ventures, Sage and exist…*
       
 
 <br />
