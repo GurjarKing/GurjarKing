@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Apple's App Store is now also under antitrust scrutiny in the UK
+  - Making sense of the $6.5B Okta-Auth0 deal
      <hr/>
      
-      - *Apple is facing another antitrust investigation in Europe into how it operates the iOS App Store. The UK’s Competition and Markets Authority (CMA) announced today that it’s opened an investigation following a number of complaints from developers alleging unfa…*
+      - *When Okta announced that it was acquiring Auth0 yesterday for $6.5 billion, the deal raised eyebrows. After all, it’s a substantial amount of money for one identity and access management (IAM) company to pay to buy another, similar entity. But the deal ultima…*
      
-  - Boss of Chinese gaming titan NetEase calls for shared parental leave
+  - Data is the world's most valuable (and vulnerable) resource
       <hr/>
       
-      - *China’s relaxation of its one-child restriction has not delivered the population targets set by its policy planners. In 2019, the birth rate in China slumped to a seven-decade low, which experts attribute to changes in social attitudes, skyrocketing living co…*
+      - *I believe generational startups will be created from 2020's reckoning with cybersecurity, just as they’ve been created coming out of market disruptions in the past.*
       
-  - Deliveroo confirms anticipated £8bn floatation in London, will be among first to use 'dual shares' structure
+  - Asynchronous video startup Weet just launched to cement bonds, and know-how, within companies
       <hr/>
       
-      - *Food delivery start-up Deliveroo has today confirmed its £8bn ($11bn) stock market floatation in London, something which was on the cards previously. The eight-year-old company will use the “dual-class” innovation which has been introduced to the London Stock…*
+      - *For founder Najette Fellache, coming to the Bay Area a few years ago from Nantes, France was a way to grow a company she’d founded and which was already was beginning to count major U.S. corporations like GE, Tesla, Amazon, and Medtronics as customers. What t…*
       
-  - IFC backs Bolt with $24M to expand its transportation network in emerging markets
+  - Flourish, a startup that aims to help banks engage and retain customers, raises $1.5M
       <hr/>
       
-      - *Bolt, an Uber competitor that is building an international on-demand network of services to transport people, food and other items in cars, scooters and bikes across Europe and Africa, has picked up some strategic funding today to continue expanding its busin…*
+      - *It’s not uncommon these days to hear of U.S.-based investors backing Latin American startups. But it’s not every day that we hear of Latin American VCs investing in U.S.-based startups. Berkeley-based fintech Flourish has raised $1.5 million in a funding roun…*
        
-  - Countingup closes £9.1M for its business current account with built-in accounting features
+  - Inside Workvivo’s plans to take on Microsoft in the employee experience space
       <hr/>
        
-       - *Countingup, the U.K. fintech offering a business current account with built-in accounting features, has closed £9.1 million in Series A investment. Leading the round is Framework Venture Partners, with participation from Gresham House Ventures, Sage and exist…*
+       - *Maintaining company culture when the majority of staff is working remotely is a challenge for every organization — big and small. This was an issue, even before COVID. But it’s become an even bigger problem with so many employees working from home. Employers …*
       
 
 <br />
