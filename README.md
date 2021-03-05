@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Making sense of the $6.5B Okta-Auth0 deal
+  - How Pariti is connecting founders with capital, resources and talent in emerging markets
      <hr/>
      
-      - *When Okta announced that it was acquiring Auth0 yesterday for $6.5 billion, the deal raised eyebrows. After all, it’s a substantial amount of money for one identity and access management (IAM) company to pay to buy another, similar entity. But the deal ultima…*
+      - *According to Startup Genome, Beijing, London, Silicon Valley, Stockholm, Tel Aviv are some of the world’s best startup ecosystems. The data and research organisation uses factors like performance, capital, market reach, connectedness, talent, and knowledge to…*
      
-  - Data is the world's most valuable (and vulnerable) resource
+  - What China's Big Tech CEOs propose at the annual parliament meeting
       <hr/>
       
-      - *I believe generational startups will be created from 2020's reckoning with cybersecurity, just as they’ve been created coming out of market disruptions in the past.*
+      - *The annual meetings of the Chinese parliament and its advisory body are underway in Beijing this week. Top executives from some of China’s largest tech firms are among the thousands of delegates who attend and put forward their opinions. Here is a look at wha…*
       
-  - Asynchronous video startup Weet just launched to cement bonds, and know-how, within companies
+  - Indonesian logistics startup SiCepat raises $170 million Series B
       <hr/>
       
-      - *For founder Najette Fellache, coming to the Bay Area a few years ago from Nantes, France was a way to grow a company she’d founded and which was already was beginning to count major U.S. corporations like GE, Tesla, Amazon, and Medtronics as customers. What t…*
+      - *SiCepat, an end-to-end logistics startup in Indonesia, announced today it has raised a $170 million Series B funding round. Founded in 2014 to provide last-mile deliveries for small merchants, the company has since expanded to serve large e-commerce platforms…*
       
-  - Flourish, a startup that aims to help banks engage and retain customers, raises $1.5M
+  - InsurGrid raises pre-seed financing to help modernize legacy insurance agents
       <hr/>
       
-      - *It’s not uncommon these days to hear of U.S.-based investors backing Latin American startups. But it’s not every day that we hear of Latin American VCs investing in U.S.-based startups. Berkeley-based fintech Flourish has raised $1.5 million in a funding roun…*
+      - *Insurance agents spend hours handling paperwork and grabbing client information over the phone. A new seed-stage startup, InsurGrid, has developed a software solution to help ease the process, and make it easier for agents to serve existing clients — and secu…*
        
-  - Inside Workvivo’s plans to take on Microsoft in the employee experience space
+  - Backed by Blossom, Creandum and Index, grocery delivery and dark store startup Dija launches in London
       <hr/>
        
-       - *Maintaining company culture when the majority of staff is working remotely is a challenge for every organization — big and small. This was an issue, even before COVID. But it’s become an even bigger problem with so many employees working from home. Employers …*
+       - *Dija, the London-based grocery delivery startup, is officially launching today and confirming that it raised £20 million in seed funding in December — a round that we first reported was partially closed the previous month. Backing the company is Blossom Capit…*
       
 
 <br />
