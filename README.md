@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - How Pariti is connecting founders with capital, resources and talent in emerging markets
+  - A first look at Coursera’s S-1 filing
      <hr/>
      
-      - *According to Startup Genome, Beijing, London, Silicon Valley, Stockholm, Tel Aviv are some of the world’s best startup ecosystems. The data and research organisation uses factors like performance, capital, market reach, connectedness, talent, and knowledge to…*
+      - *After TechCrunch broke the news yesterday that Coursera was planning to file its S-1 today, the edtech company officially dropped the document Friday evening. Coursera was last valued at $2.4 billion by the private markets, when it most recently raised a Seri…*
      
-  - What China's Big Tech CEOs propose at the annual parliament meeting
+  - Snowflake latest enterprise company to feel Wall Street's wrath after good quarter
       <hr/>
       
-      - *The annual meetings of the Chinese parliament and its advisory body are underway in Beijing this week. Top executives from some of China’s largest tech firms are among the thousands of delegates who attend and put forward their opinions. Here is a look at wha…*
+      - *Snowflake reported earnings this week, and the results look strong with revenue more than doubling year-over-year. However while the company’s fourth quarter revenue rose 117% to $190.5 million, it apparently wasn’t good enough for investors who have sent the…*
       
-  - Indonesian logistics startup SiCepat raises $170 million Series B
+  - The owner of Anki's assets plans to relaunch Cozmo and Vector this year
       <hr/>
       
-      - *SiCepat, an end-to-end logistics startup in Indonesia, announced today it has raised a $170 million Series B funding round. Founded in 2014 to provide last-mile deliveries for small merchants, the company has since expanded to serve large e-commerce platforms…*
+      - *Good robots don’t die — they just have their assets sold off to the highest bidder. Digital Dream Labs was there to sweep up IP in the wake of Anki’s premature implosion, back in 2019. The Pittsburgh-based edtech company had initially planned to relaunch Vect…*
       
-  - InsurGrid raises pre-seed financing to help modernize legacy insurance agents
+  - Deep Science: AI adventures in arts and letters
       <hr/>
       
-      - *Insurance agents spend hours handling paperwork and grabbing client information over the phone. A new seed-stage startup, InsurGrid, has developed a software solution to help ease the process, and make it easier for agents to serve existing clients — and secu…*
+      - *There's more AI news out there than anyone can possibly keep up with, but you can stay tolerably up to date on the most interesting developments with this column.*
        
-  - Backed by Blossom, Creandum and Index, grocery delivery and dark store startup Dija launches in London
+  - How the Biden administration is approaching crypto regulations
       <hr/>
        
-       - *Dija, the London-based grocery delivery startup, is officially launching today and confirming that it raised £20 million in seed funding in December — a round that we first reported was partially closed the previous month. Backing the company is Blossom Capit…*
+       - *Given the chaos created by the Trump administration, bitcoin fans are anxiously optimistic about how regulators will approach the cryptocurrency space during President Joe Biden’s administration.*
       
 
 <br />
