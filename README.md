@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - A first look at Coursera’s S-1 filing
+  - VC Lindy Fishburne on the sudden democratization of science -- and deep tech investing
      <hr/>
      
-      - *After TechCrunch broke the news yesterday that Coursera was planning to file its S-1 today, the edtech company officially dropped the document Friday evening. Coursera was last valued at $2.4 billion by the private markets, when it most recently raised a Seri…*
+      - *Deep science investor Lindy Fishburne cofounded the seed- and early-stage venture firm Breakout Ventures several years ago, after cofounding Breakout Labs within the Thiel Foundation back in 2011, and she has made a wide array of interesting bets in the proce…*
      
+  - A first look at Coursera’s S-1 filing
+      <hr/>
+      
+      - *After TechCrunch broke the news yesterday that Coursera was planning to file its S-1 today, the edtech company officially dropped the document Friday evening. Coursera was last valued at $2.4 billion by the private markets, when it most recently raised a Seri…*
+      
   - Snowflake latest enterprise company to feel Wall Street's wrath after good quarter
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Good robots don’t die — they just have their assets sold off to the highest bidder. Digital Dream Labs was there to sweep up IP in the wake of Anki’s premature implosion, back in 2019. The Pittsburgh-based edtech company had initially planned to relaunch Vect…*
-      
+       
   - Deep Science: AI adventures in arts and letters
       <hr/>
-      
-      - *There's more AI news out there than anyone can possibly keep up with, but you can stay tolerably up to date on the most interesting developments with this column.*
        
-  - How the Biden administration is approaching crypto regulations
-      <hr/>
-       
-       - *Given the chaos created by the Trump administration, bitcoin fans are anxiously optimistic about how regulators will approach the cryptocurrency space during President Joe Biden’s administration.*
+       - *There's more AI news out there than anyone can possibly keep up with, but you can stay tolerably up to date on the most interesting developments with this column.*
       
 
 <br />
