@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - VC Lindy Fishburne on the sudden democratization of science -- and deep tech investing
+  - Investors still love software more than life
      <hr/>
      
-      - *Deep science investor Lindy Fishburne cofounded the seed- and early-stage venture firm Breakout Ventures several years ago, after cofounding Breakout Labs within the Thiel Foundation back in 2011, and she has made a wide array of interesting bets in the proce…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
      
+  - The Product Manager asterisk
+      <hr/>
+      
+      - *Product manager might be one of the most grey roles within a startup. However, as a company progresses and the team grows, there comes a time when a founder needs to carve out dedicated roles. Of these positions, product management might be one of the most el…*
+      
+  - This Week in Apps: App Store bill passes AZ House, 'deep nostalgia' goes viral, Twitter Spaces arrives on Android
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
+      
+  - VC Lindy Fishburne on the sudden democratization of science -- and deep tech investing
+      <hr/>
+      
+      - *Deep science investor Lindy Fishburne cofounded the seed- and early-stage venture firm Breakout Ventures several years ago, after cofounding Breakout Labs within the Thiel Foundation back in 2011, and she has made a wide array of interesting bets in the proce…*
+       
   - A first look at Coursera’s S-1 filing
       <hr/>
-      
-      - *After TechCrunch broke the news yesterday that Coursera was planning to file its S-1 today, the edtech company officially dropped the document Friday evening. Coursera was last valued at $2.4 billion by the private markets, when it most recently raised a Seri…*
-      
-  - Snowflake latest enterprise company to feel Wall Street's wrath after good quarter
-      <hr/>
-      
-      - *Snowflake reported earnings this week, and the results look strong with revenue more than doubling year-over-year. However while the company’s fourth quarter revenue rose 117% to $190.5 million, it apparently wasn’t good enough for investors who have sent the…*
-      
-  - The owner of Anki's assets plans to relaunch Cozmo and Vector this year
-      <hr/>
-      
-      - *Good robots don’t die — they just have their assets sold off to the highest bidder. Digital Dream Labs was there to sweep up IP in the wake of Anki’s premature implosion, back in 2019. The Pittsburgh-based edtech company had initially planned to relaunch Vect…*
        
-  - Deep Science: AI adventures in arts and letters
-      <hr/>
-       
-       - *There's more AI news out there than anyone can possibly keep up with, but you can stay tolerably up to date on the most interesting developments with this column.*
+       - *After TechCrunch broke the news yesterday that Coursera was planning to file its S-1 today, the edtech company officially dropped the document Friday evening. Coursera was last valued at $2.4 billion by the private markets, when it most recently raised a Seri…*
       
 
 <br />
