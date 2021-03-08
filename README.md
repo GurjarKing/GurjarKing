@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Investors still love software more than life
+  - Gillmor Gang: Win Win
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
+      - *Just finished a Twitter Spaces session. It is an engaging platform, somewhat clunky in feature set but easily a tie overall with Clubhouse. I don’t see this as a horse race, however, more as cooperating teams fleshing out a platform where both will be major p…*
      
+  - The iMac Pro is being discontinued
+      <hr/>
+      
+      - *Chalk this up to inevitability. The iMac Pro is soon to be no more. First noted by 9to5Mac, TechCrunch has since confirmed with Apple that the company will stop selling the all-in-one once the current stock is depleted. One configuration of the desktop is sti…*
+      
+  - Investors still love software more than life
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
+      
   - The Product Manager asterisk
       <hr/>
       
       - *Product manager might be one of the most grey roles within a startup. However, as a company progresses and the team grows, there comes a time when a founder needs to carve out dedicated roles. Of these positions, product management might be one of the most el…*
-      
+       
   - This Week in Apps: App Store bill passes AZ House, 'deep nostalgia' goes viral, Twitter Spaces arrives on Android
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
-      
-  - VC Lindy Fishburne on the sudden democratization of science -- and deep tech investing
-      <hr/>
-      
-      - *Deep science investor Lindy Fishburne cofounded the seed- and early-stage venture firm Breakout Ventures several years ago, after cofounding Breakout Labs within the Thiel Foundation back in 2011, and she has made a wide array of interesting bets in the proce…*
        
-  - A first look at Coursera’s S-1 filing
-      <hr/>
-       
-       - *After TechCrunch broke the news yesterday that Coursera was planning to file its S-1 today, the edtech company officially dropped the document Friday evening. Coursera was last valued at $2.4 billion by the private markets, when it most recently raised a Seri…*
+       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
       
 
 <br />
