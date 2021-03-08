@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Win Win
+  - Swiss maker of meat alternatives Planted will expand and diversify with $18M Series A
      <hr/>
      
-      - *Just finished a Twitter Spaces session. It is an engaging platform, somewhat clunky in feature set but easily a tie overall with Clubhouse. I don’t see this as a horse race, however, more as cooperating teams fleshing out a platform where both will be major p…*
+      - *Planted, a startup pursuing a unique method of creating a vegetarian chicken alternative, has raised an $18M (CHF 17M) Series A to expand its product offerings and international footprint. With new kebabs and pulled-style faux meats available and steak-like c…*
      
-  - The iMac Pro is being discontinued
+  - UK challenger bank Starling raises $376M, now valued at $1.9B
       <hr/>
       
-      - *Chalk this up to inevitability. The iMac Pro is soon to be no more. First noted by 9to5Mac, TechCrunch has since confirmed with Apple that the company will stop selling the all-in-one once the current stock is depleted. One configuration of the desktop is sti…*
+      - *Challenger banks continue to see huge infusions of cash from investors bullish on the opportunity for smaller and faster-moving tech-based banking startups to woo customers from their larger rivals. In the latest development, UK-based Starling announced that …*
       
-  - Investors still love software more than life
+  - Deliveroo posted narrowed loss of $309M, with gross transactions surging to $5.7B in 2020, EITF shows
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
+      - *The clock has officially started ticking on Deliveroo’s plans to go public in April. After announcing last week that it planned to list on the London Stock Exchange, today the on-demand food delivery company backed by Amazon and others published selected upda…*
       
-  - The Product Manager asterisk
+  - Porsche raises stake in electric car and components maker Rimac Automobili
       <hr/>
       
-      - *Product manager might be one of the most grey roles within a startup. However, as a company progresses and the team grows, there comes a time when a founder needs to carve out dedicated roles. Of these positions, product management might be one of the most el…*
+      - *Rimac Automobili, the Croatian company known for its electric hypercars and battery and powertrain development, has gained yet another investment from Porsche AG. Porsche said Monday it has invested 70 million euros ($83.3 miilion) into Rimac, a move that inc…*
        
-  - This Week in Apps: App Store bill passes AZ House, 'deep nostalgia' goes viral, Twitter Spaces arrives on Android
+  - Hong Kong fintech unicorn WeLab raises $75M led by insurance giant Allianz
       <hr/>
        
-       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
+       - *One of the few industries that have benefited from the COVID-19 crisis is online finance. Around the world, the pandemic has forced consumers to adopt digital banking. Hong Kong’s WeLab, a fintech company founded in 2013, saw users soar by 20% year-over-year …*
       
 
 <br />
