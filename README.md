@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Swiss maker of meat alternatives Planted will expand and diversify with $18M Series A
+  - Apple releases important iPhone, iPad, Mac, and Watch security patches
      <hr/>
      
-      - *Planted, a startup pursuing a unique method of creating a vegetarian chicken alternative, has raised an $18M (CHF 17M) Series A to expand its product offerings and international footprint. With new kebabs and pulled-style faux meats available and steak-like c…*
+      - *The tech giant said the security updates are "important" and are "recommended for all users."*
      
-  - UK challenger bank Starling raises $376M, now valued at $1.9B
+  - Max Q: Starship's good landing (and less good post-landing)
       <hr/>
       
-      - *Challenger banks continue to see huge infusions of cash from investors bullish on the opportunity for smaller and faster-moving tech-based banking startups to woo customers from their larger rivals. In the latest development, UK-based Starling announced that …*
+      - *Max Q is a weekly newsletter from TechCrunch all about space. Sign up here to receive it weekly on Mondays in your inbox. Sometimes even the biggest successes look like failures on video. That’s the theme of this week, because the biggest news by far was Spac…*
       
-  - Deliveroo posted narrowed loss of $309M, with gross transactions surging to $5.7B in 2020, EITF shows
+  - Daily Crunch: PayPal acquires Curv
       <hr/>
       
-      - *The clock has officially started ticking on Deliveroo’s plans to go public in April. After announcing last week that it planned to list on the London Stock Exchange, today the on-demand food delivery company backed by Amazon and others published selected upda…*
+      - *PayPal acquires a cryptocurrency startup, Apple discontinues the iMac Pro and McAfee sells its enterprise business. This is your Daily Crunch for March 8, 2021. The big story: PayPal acquires Curv This deal will grow PayPal’s cryptocurrency team by bringing o…*
       
-  - Porsche raises stake in electric car and components maker Rimac Automobili
+  - Zapier buys no-code-focused Makerpad in its first acquisition
       <hr/>
       
-      - *Rimac Automobili, the Croatian company known for its electric hypercars and battery and powertrain development, has gained yet another investment from Porsche AG. Porsche said Monday it has invested 70 million euros ($83.3 miilion) into Rimac, a move that inc…*
+      - *Zapier, a well-known no-code automation tool, has purchased Makerpad, a no-code education service and community. Terms of the deal were not disclosed. TechCrunch has covered Zapier often during its life, including its first, and only fundraising event, a $1.2…*
        
-  - Hong Kong fintech unicorn WeLab raises $75M led by insurance giant Allianz
+  - White-label voice assistants will win the battle for podcast discovery
       <hr/>
        
-       - *One of the few industries that have benefited from the COVID-19 crisis is online finance. Around the world, the pandemic has forced consumers to adopt digital banking. Hong Kong’s WeLab, a fintech company founded in 2013, saw users soar by 20% year-over-year …*
+       - *The voice assistant that can personalize podcasts and help listeners search, sample and discover content through sharable bite-sized pieces will win the voice wars.*
       
 
 <br />
