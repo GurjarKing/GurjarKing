@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Zego, the tech-enabled commercial motor insurer, raises $150M at $1.1B valuation
+  - Facebook targets emerging markets with Instagram Lite, a new Android app that takes up just 2MB, in 170 countries
      <hr/>
      
-      - *Zego, the insurtech that got its start by offering flexible motorbike insurance for gig economy workers but has since expanded with a range of tech-enabled commercial motor insurance products, has raised $150 million. Leading the London-based company’s C roun…*
+      - *Growth for Facebook is coming from the developing world, and so the social network today made another key move to cater better to consumers in those countries. After nearly three years in the planning, Facebook is taking the plunge today and officially launch…*
      
-  - Jobandtalent takes $120M from Softbank to enter the US market
+  - Savannah Fund launches $25M fund to invest in African startups at seed and Series A
       <hr/>
       
-      - *Spain’s Jobandtalent, a digital temp staffing agency startup which operates a dual-sided platform that matches temps with employers needing casual labor in sectors like ecommerce, warehousing, logistics and manufacturing, has grabbed €100 million (~$120M) in …*
+      - *Savannah Fund, a pan-African venture capital firm, today announced a $25 million fund as it looks to back more early-stage startups on the continent. Since launching in 2012, Savannah Fund —  led by Mbwana Alliy and Paul Bragiel — has backed more than 30 star…*
       
-  - Investors get a rise out of Walmart's agreement to stock more Beyond Meat
+  - Cloud cybersecurity startup Lumu raises a $7.5 million Series A
       <hr/>
       
-      - *Beyond Meat shares soared today on the heels of an announcement that Walmart is beefing up its relationship with the purveyor of meatless protein patties, sausages, and balls. 900 stores will now be stocking Beyond Meat’s hot Italian sausages and its party pa…*
+      - *Miami-based cybersecurity startup Lumu today announced the closing of its $7.5 million Series A. The round was co-led by SoftBank Group Corp.’s SB Opportunity Fund and Panoramic Ventures. Lumu, co-founded and headed by Colombian native Ricardo Villadiego, off…*
       
-  - Daily Crunch: Dropbox acquires DocSend for $165M
+  - Aqua Security raises $135M at a $1B valuation for its cloud native security service
       <hr/>
       
-      - *Dropbox acquires a secure document-sharing startup, Sonos announces a new speaker and Google makes hotel listings free. This is your Daily Crunch for March 9, 2021. The big story: Dropbox acquires DocSend for $165M Dropbox already acquired electronic signatur…*
+      - *Aqua Security, a Boston- and Tel Aviv-based security startup that focuses squarely on securing cloud-native services, today announced that it has raised a $135 million Series E funding round at a $1 billion valuation. The round was led by ION Crossover Partne…*
        
-  - Audience engagement startup Trufan raises $2.3M
+  - Sources: Web Summit will spin out its virtual conference software as a full-blown startup
       <hr/>
        
-       - *Trufan, a startup selling tools helping marketers analyze their social followings and collect audience data, announced today that it has raised a $2.3 million seed round. Despite raising a relatively small amount of funding ($4.1 million total), Trufan has al…*
+       - *Sources say Web Summit, the giant tech conference company which specialized in very large gatherings in cities like Lisbon, is poised to spin out its Hopin-like proprietary conference software as an independent startup. Although it’s put out a statement today…*
       
 
 <br />
