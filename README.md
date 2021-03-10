@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Leading VC funds club together to offer remote office hours for 250+ European women founders
+  - Zego, the tech-enabled commercial motor insurer, raises $150M at $1.1B valuation
      <hr/>
      
-      - *In the wake of International Women’s Day, a group of leading VC funds are grouping together to offer remote office hours for 250-plus women founders from across Europe on May 6th this year. Women founders who want to apply can see more information here and ap…*
+      - *Zego, the insurtech that got its start by offering flexible motorbike insurance for gig economy workers but has since expanded with a range of tech-enabled commercial motor insurance products, has raised $150 million. Leading the London-based company’s C roun…*
      
-  - Carl Pei’s Nothing shows off the tobacco pipe-inspired ‘Concept 1’
+  - Jobandtalent takes $120M from Softbank to enter the US market
       <hr/>
       
-      - *Over the past several months, OnePlus co-founder Carl Pei has turned his concept for “Nothing” into one of the buzziest hardware companies in recent memory. It’s an impressive feat for a company that has offered close to zero information about its upcoming of…*
+      - *Spain’s Jobandtalent, a digital temp staffing agency startup which operates a dual-sided platform that matches temps with employers needing casual labor in sectors like ecommerce, warehousing, logistics and manufacturing, has grabbed €100 million (~$120M) in …*
       
-  - Softbank, Demeter and Coparion invest $3M into Plan A's B2B carbon monitoring and ESG platform
+  - Investors get a rise out of Walmart's agreement to stock more Beyond Meat
       <hr/>
       
-      - *Plan A, a Berlin-based automated SaaS B2B startup, has raised $3 million for its platform that lets companies measure, monitor, reduce and report their environmental footprint thus improving their ESG ratings. French VC Demeter led the round, with German VC C…*
+      - *Beyond Meat shares soared today on the heels of an announcement that Walmart is beefing up its relationship with the purveyor of meatless protein patties, sausages, and balls. 900 stores will now be stocking Beyond Meat’s hot Italian sausages and its party pa…*
       
-  - 6 Oslo VCs discuss 2021 trends, deal flow and regional opportunities
+  - Daily Crunch: Dropbox acquires DocSend for $165M
       <hr/>
       
-      - *"Oslo is a city with a strong foundation and an exciting momentum in tech. There’s too few local VCs, though, and that creates a funding gap around the Series A stage, but at the same time lots of opportunities for investors taking their time to get to know t…*
+      - *Dropbox acquires a secure document-sharing startup, Sonos announces a new speaker and Google makes hotel listings free. This is your Daily Crunch for March 9, 2021. The big story: Dropbox acquires DocSend for $165M Dropbox already acquired electronic signatur…*
        
-  - India's Paytm turns Android smartphones into POS machines in merchants push
+  - Audience engagement startup Trufan raises $2.3M
       <hr/>
        
-       - *Paytm said on Tuesday it is turning NFC-enabled Android smartphones into point-of-sale machines, as it looks to win more merchants in one of the world’s largest mobile payments markets. A Paytm merchant partner will now be able to enable card acceptance featu…*
+       - *Trufan, a startup selling tools helping marketers analyze their social followings and collect audience data, announced today that it has raised a $2.3 million seed round. Despite raising a relatively small amount of funding ($4.1 million total), Trufan has al…*
       
 
 <br />
