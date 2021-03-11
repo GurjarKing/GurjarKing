@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Chatbot startup Heyday raises $5.1M
+  - Forward Health raises $225M from investors including The Weeknd as it looks to expand nationwide
      <hr/>
      
-      - *Montreal-based Heyday announced today that it has raised $6.5 million Canadian ($5.1 million in US dollars) in additional seed funding. Co-founder and CEO Steve Desjarlais told me that the startup’s goal is to allow retailers to support more automation and mo…*
+      - *Primary care startup Forward Health is looking to expand its tech-powered, personalized healthcare model across the U.S., and will use a new $225 million Series D raise to help make it happen. The new capital comes from Founders Fund, Khosla Ventures, SoftBan…*
      
-  - Daily Crunch: Apple announces a chip design center in Germany
+  - Google paves way to tap Pay users' data in India
       <hr/>
       
-      - *Apple is making a big investment in Germany, Russia takes aim at Twitter and Roblox goes public. This is your Daily Crunch for March 10, 2021. P.S. Don’t forget to sign up for TC Early Stage 2021, a virtual event focused on operations and fundraising that we’…*
+      - *Three and a half years after launching Google Pay in India, the Android-maker is paving the way to tap its users’ transaction data for monetization purposes — though it plans to give them ample warning, and the option to opt-out. Google said on Thursday that …*
       
-  - Could Marc Benioff be the next CEO to move to executive chairman?
+  - Wise's Taavet Hinrikus and Teleport's Sten Tamkivi partner in new investment firm -- just don’t call it a VC fund
       <hr/>
       
-      - *Last month Jeff Bezos announced he would step down as CEO of Amazon later this year, moving into the executive chairman role, while passing the baton to AWS CEO Andy Jassy. Could Marc Benioff, co-founder, chairman and CEO at Salesforce be the next big-name ex…*
+      - *Taavet Hinrikus, the first employee of Skype and co-founder of fintech giant Wise (formerly TransferWise), is teaming up with Teleport co-founder and current Topia CPO Sten Tamkivi to create a new investment vehicle. Both are already seasoned investors — Hinr…*
       
-  - The Department of Defense is establishing a working group to focus on climate change
+  - South Africa's FlexClub adds $5M to seed round to scale its car subscription marketplace
       <hr/>
       
-      - *The U.S. Department of Defense is setting up a working group to focus on climate change The new group will be led by Joe Bryan, who was appointed as a Special Assistant to the Secretary of Defense focused on climate earlier this year. The move is one of sever…*
+      - *The traditional process of buying, insuring and financing cars across emerging markets can be challenging, and it defeats the purpose of building an all-around car shopping experience. Today, FlexClub, a South African company, has been provided with $5 millio…*
        
-  - Superpowered lets you see your schedule and join meetings from the Mac menu bar
+  - Ghana's mPharma partners with Ethiopian conglomerate to enter its eighth market
       <hr/>
        
-       - *A newly launched Mac app called Superpowered aims to make it easier to stay on top of all your Zoom calls and Google Meets, without having to scramble to find the meeting link in your inbox or calendar app at the last minute. Instead of relying on calendar re…*
+       - *mPharma, a Ghanaian health tech startup that manages prescription drug inventory for pharmacies and their suppliers, today announced its expansion to Ethiopia. The company was founded by Daniel Shoukimas, Gregory Rockson and James Finucane in 2013. It special…*
       
 
 <br />
