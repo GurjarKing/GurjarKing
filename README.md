@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Facebook targets emerging markets with Instagram Lite, a new Android app that takes up just 2MB, in 170 countries
+  - Chatbot startup Heyday raises $5.1M
      <hr/>
      
-      - *Growth for Facebook is coming from the developing world, and so the social network today made another key move to cater better to consumers in those countries. After nearly three years in the planning, Facebook is taking the plunge today and officially launch…*
+      - *Montreal-based Heyday announced today that it has raised $6.5 million Canadian ($5.1 million in US dollars) in additional seed funding. Co-founder and CEO Steve Desjarlais told me that the startup’s goal is to allow retailers to support more automation and mo…*
      
-  - Savannah Fund launches $25M fund to invest in African startups at seed and Series A
+  - Daily Crunch: Apple announces a chip design center in Germany
       <hr/>
       
-      - *Savannah Fund, a pan-African venture capital firm, today announced a $25 million fund as it looks to back more early-stage startups on the continent. Since launching in 2012, Savannah Fund —  led by Mbwana Alliy and Paul Bragiel — has backed more than 30 star…*
+      - *Apple is making a big investment in Germany, Russia takes aim at Twitter and Roblox goes public. This is your Daily Crunch for March 10, 2021. P.S. Don’t forget to sign up for TC Early Stage 2021, a virtual event focused on operations and fundraising that we’…*
       
-  - Cloud cybersecurity startup Lumu raises a $7.5 million Series A
+  - Could Marc Benioff be the next CEO to move to executive chairman?
       <hr/>
       
-      - *Miami-based cybersecurity startup Lumu today announced the closing of its $7.5 million Series A. The round was co-led by SoftBank Group Corp.’s SB Opportunity Fund and Panoramic Ventures. Lumu, co-founded and headed by Colombian native Ricardo Villadiego, off…*
+      - *Last month Jeff Bezos announced he would step down as CEO of Amazon later this year, moving into the executive chairman role, while passing the baton to AWS CEO Andy Jassy. Could Marc Benioff, co-founder, chairman and CEO at Salesforce be the next big-name ex…*
       
-  - Aqua Security raises $135M at a $1B valuation for its cloud native security service
+  - The Department of Defense is establishing a working group to focus on climate change
       <hr/>
       
-      - *Aqua Security, a Boston- and Tel Aviv-based security startup that focuses squarely on securing cloud-native services, today announced that it has raised a $135 million Series E funding round at a $1 billion valuation. The round was led by ION Crossover Partne…*
+      - *The U.S. Department of Defense is setting up a working group to focus on climate change The new group will be led by Joe Bryan, who was appointed as a Special Assistant to the Secretary of Defense focused on climate earlier this year. The move is one of sever…*
        
-  - Sources: Web Summit will spin out its virtual conference software as a full-blown startup
+  - Superpowered lets you see your schedule and join meetings from the Mac menu bar
       <hr/>
        
-       - *Sources say Web Summit, the giant tech conference company which specialized in very large gatherings in cities like Lisbon, is poised to spin out its Hopin-like proprietary conference software as an independent startup. Although it’s put out a statement today…*
+       - *A newly launched Mac app called Superpowered aims to make it easier to stay on top of all your Zoom calls and Google Meets, without having to scramble to find the meeting link in your inbox or calendar app at the last minute. Instead of relying on calendar re…*
       
 
 <br />
