@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Forward Health raises $225M from investors including The Weeknd as it looks to expand nationwide
+  - Legl gets $7M to help law firms upgrade to digital workflows
      <hr/>
      
-      - *Primary care startup Forward Health is looking to expand its tech-powered, personalized healthcare model across the U.S., and will use a new $225 million Series D raise to help make it happen. The new capital comes from Founders Fund, Khosla Ventures, SoftBan…*
+      - *B2B SaaS startup Legl has bagged $7M in Series A funding led by Octopus Ventures for its platform for law firms which offers tools to streamline core business processes such as customer onboarding, due diligence and payments. Existing investors Backed, Samaip…*
      
-  - Google paves way to tap Pay users' data in India
+  - Daily Crunch: NFT artwork sells for $69M
       <hr/>
       
-      - *Three and a half years after launching Google Pay in India, the Android-maker is paving the way to tap its users’ transaction data for monetization purposes — though it plans to give them ample warning, and the option to opt-out. Google said on Thursday that …*
+      - *The artist Beeple scores a huge NFT sale, Twitter Spaces are coming soon and Seth Rogen’s weed startup launches in the U.S. This is your Daily Crunch for March 11, 2021. The big story: NFT artwork sells for $69M For the first time, auction house Christie sold…*
       
-  - Wise's Taavet Hinrikus and Teleport's Sten Tamkivi partner in new investment firm -- just don’t call it a VC fund
+  - Coupang follows Roblox to a strong first day of trading
       <hr/>
       
-      - *Taavet Hinrikus, the first employee of Skype and co-founder of fintech giant Wise (formerly TransferWise), is teaming up with Teleport co-founder and current Topia CPO Sten Tamkivi to create a new investment vehicle. Both are already seasoned investors — Hinr…*
+      - *Coupang's IPO was a success, no matter how you slice it, even if you have valuation quibbles. And it was a huge win for SoftBank.*
       
-  - South Africa's FlexClub adds $5M to seed round to scale its car subscription marketplace
+  - GM partners with startup SolidEnergy Systems to pack more energy in its batteries
       <hr/>
       
-      - *The traditional process of buying, insuring and financing cars across emerging markets can be challenging, and it defeats the purpose of building an all-around car shopping experience. Today, FlexClub, a South African company, has been provided with $5 millio…*
+      - *GM’s venture arm invested in battery startup SolidEnergy Systems five years ago. Now, GM is tapping the MIT spinout to help it pack more energy into its batteries, the latest in a string of moves by the automaker aimed at accelerating its shift to electric ve…*
        
-  - Ghana's mPharma partners with Ethiopian conglomerate to enter its eighth market
+  - Beeple's $69 million NFT sale marks a potentially transformative moment for the art world
       <hr/>
        
-       - *mPharma, a Ghanaian health tech startup that manages prescription drug inventory for pharmacies and their suppliers, today announced its expansion to Ethiopia. The company was founded by Daniel Shoukimas, Gregory Rockson and James Finucane in 2013. It special…*
+       - *Today, the auction of an NFT digital art collage from a relatively unrecognized digital artist ended with a purchase price above $69 million. The work, called Everydays – The First 5000 Days, chronicled several years-worth of daily sketches from the artist Mi…*
       
 
 <br />
