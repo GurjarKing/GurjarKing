@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Legl gets $7M to help law firms upgrade to digital workflows
+  - How ByteDance plans to crack the gaming industry
      <hr/>
      
-      - *B2B SaaS startup Legl has bagged $7M in Series A funding led by Octopus Ventures for its platform for law firms which offers tools to streamline core business processes such as customer onboarding, due diligence and payments. Existing investors Backed, Samaip…*
+      - *For the last few years, ByteDance, the parent company of short video app TikTok, has been working to diversify its revenue streams beyond advertisement and find more ways to monetize its hundreds of millions of users. One area it is targeting is gaming, which…*
      
+  - Luminar, Volvo subsidiary partner to sell automated driving systems to automakers
+      <hr/>
+      
+      - *Luminar Technologies has deepened ties with Volvo Cars to develop and eventually sell an automated driving system for highways to other automakers. The partnership, announced Thursday, is between Luminar and Volvo’s self-driving software subsidiary Zenseact. …*
+      
+  - Legl gets $7M to help law firms upgrade to digital workflows
+      <hr/>
+      
+      - *B2B SaaS startup Legl has bagged $7M in Series A funding led by Octopus Ventures for its platform for law firms which offers tools to streamline core business processes such as customer onboarding, due diligence and payments. Existing investors Backed, Samaip…*
+      
   - Daily Crunch: NFT artwork sells for $69M
       <hr/>
       
       - *The artist Beeple scores a huge NFT sale, Twitter Spaces are coming soon and Seth Rogen’s weed startup launches in the U.S. This is your Daily Crunch for March 11, 2021. The big story: NFT artwork sells for $69M For the first time, auction house Christie sold…*
-      
+       
   - Coupang follows Roblox to a strong first day of trading
       <hr/>
-      
-      - *Coupang's IPO was a success, no matter how you slice it, even if you have valuation quibbles. And it was a huge win for SoftBank.*
-      
-  - GM partners with startup SolidEnergy Systems to pack more energy in its batteries
-      <hr/>
-      
-      - *GM’s venture arm invested in battery startup SolidEnergy Systems five years ago. Now, GM is tapping the MIT spinout to help it pack more energy into its batteries, the latest in a string of moves by the automaker aimed at accelerating its shift to electric ve…*
        
-  - Beeple's $69 million NFT sale marks a potentially transformative moment for the art world
-      <hr/>
-       
-       - *Today, the auction of an NFT digital art collage from a relatively unrecognized digital artist ended with a purchase price above $69 million. The work, called Everydays – The First 5000 Days, chronicled several years-worth of daily sketches from the artist Mi…*
+       - *Coupang's IPO was a success, no matter how you slice it, even if you have valuation quibbles. And it was a huge win for SoftBank.*
       
 
 <br />
