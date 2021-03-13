@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - How ByteDance plans to crack the gaming industry
+  - Extra Crunch roundup: Coupang and Roblox debut, driving GPT-3 adoption, startup how-tos, more
      <hr/>
      
-      - *For the last few years, ByteDance, the parent company of short video app TikTok, has been working to diversify its revenue streams beyond advertisement and find more ways to monetize its hundreds of millions of users. One area it is targeting is gaming, which…*
+      - *Our growing library of how-to stories are aimed squarely at early-stage founders and workers trying to solve long-term problems.*
      
-  - Luminar, Volvo subsidiary partner to sell automated driving systems to automakers
+  - Daily Crunch: Marco Rubio sides with Amazon workers
       <hr/>
       
-      - *Luminar Technologies has deepened ties with Volvo Cars to develop and eventually sell an automated driving system for highways to other automakers. The partnership, announced Thursday, is between Luminar and Volvo’s self-driving software subsidiary Zenseact. …*
+      - *A prominent Republican senator weighs in on Amazon’s labor disputes, Microsoft reports a security vulnerability in Exchange and we examine ByteDance’s gaming strategy. This is your Daily Crunch for March 12, 2021. The big story: Marco Rubio sides with Amazon …*
       
-  - Legl gets $7M to help law firms upgrade to digital workflows
+  - Serimmune launches new immune response mapping service for COVID-19
       <hr/>
       
-      - *B2B SaaS startup Legl has bagged $7M in Series A funding led by Octopus Ventures for its platform for law firms which offers tools to streamline core business processes such as customer onboarding, due diligence and payments. Existing investors Backed, Samaip…*
+      - *Immune intelligence startup Serimmune hopes to better understand the relationship between antibody epitopes (the parts of antigen molecules that bind to antibodies) and the SARS-CoV-2 virus. The company’s proprietary technology, originally developed at UC San…*
       
-  - Daily Crunch: NFT artwork sells for $69M
+  - Elon Musk, Tesla board sued in lawsuit alleging “erratic” tweets violate fiduciary duty
       <hr/>
       
-      - *The artist Beeple scores a huge NFT sale, Twitter Spaces are coming soon and Seth Rogen’s weed startup launches in the U.S. This is your Daily Crunch for March 11, 2021. The big story: NFT artwork sells for $69M For the first time, auction house Christie sold…*
+      - *Tesla CEO Elon Musk’s tweets are the subject of another lawsuit. A Tesla investor is suing the company board and Musk for continuing to send ‘erratic tweets’ that violate a settlement with the U.S. Securities and Exchange Commission that requires oversight of…*
        
-  - Coupang follows Roblox to a strong first day of trading
+  - How nontechnical talent can break into deep tech
       <hr/>
        
-       - *Coupang's IPO was a success, no matter how you slice it, even if you have valuation quibbles. And it was a huge win for SoftBank.*
+       - *Here, I’ll share what I’ve learned and offer tactical advice for finding, reaching out to, cultivating relationships with and working at deep tech companies as a nontechnical candidate.*
       
 
 <br />
