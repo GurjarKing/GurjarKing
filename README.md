@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch roundup: Coupang and Roblox debut, driving GPT-3 adoption, startup how-tos, more
+  - 8 Czech VCs on green shoots, pandemic impacts and 2021 opportunities
      <hr/>
      
-      - *Our growing library of how-to stories are aimed squarely at early-stage founders and workers trying to solve long-term problems.*
+      - *The Czech Republic may be better known for beer, hockey and the sights of Prague, but its entrepreneurial community is as ambitious as any.*
      
-  - Daily Crunch: Marco Rubio sides with Amazon workers
+  - Tiger Global in talks to invest in young Indian social network at $170M valuation
       <hr/>
       
-      - *A prominent Republican senator weighs in on Amazon’s labor disputes, Microsoft reports a security vulnerability in Exchange and we examine ByteDance’s gaming strategy. This is your Daily Crunch for March 12, 2021. The big story: Marco Rubio sides with Amazon …*
+      - *Who says there is no room for a new social network? Tiger Global is in advanced stages of talks to lead a round of $15 million to $20 million in seven-month-old Kutumb that values the Indian startup at about $170 million, four people familiar with the matter …*
       
-  - Serimmune launches new immune response mapping service for COVID-19
+  - Apple discontinues original HomePod, will focus on mini
       <hr/>
       
-      - *Immune intelligence startup Serimmune hopes to better understand the relationship between antibody epitopes (the parts of antigen molecules that bind to antibodies) and the SARS-CoV-2 virus. The company’s proprietary technology, originally developed at UC San…*
+      - *After 4 years on the market, Apple has discontinued its original HomePod. It says that it will continue to produce and focus on the HomePod mini, introduced last year. The larger HomePod offered a beefier sound space but the mini has been very well received a…*
       
-  - Elon Musk, Tesla board sued in lawsuit alleging “erratic” tweets violate fiduciary duty
+  - Crowdfunding limits are poised to change next week, but most VCs aren't paying attention -- yet
       <hr/>
       
-      - *Tesla CEO Elon Musk’s tweets are the subject of another lawsuit. A Tesla investor is suing the company board and Musk for continuing to send ‘erratic tweets’ that violate a settlement with the U.S. Securities and Exchange Commission that requires oversight of…*
+      - *Passion Capital, the early-stage venture firm in London, told TechCrunch earlier this week that — in an apparent first for a European fund —  it plans to crowdfund the final stage of its third and latest vehicle. Specifically, it’s carving out around half a m…*
        
-  - How nontechnical talent can break into deep tech
+  - Extra Crunch roundup: Coupang and Roblox debut, driving GPT-3 adoption, startup how-tos, more
       <hr/>
        
-       - *Here, I’ll share what I’ve learned and offer tactical advice for finding, reaching out to, cultivating relationships with and working at deep tech companies as a nontechnical candidate.*
+       - *Our growing library of how-to stories are aimed squarely at early-stage founders and workers trying to solve long-term problems.*
       
 
 <br />
