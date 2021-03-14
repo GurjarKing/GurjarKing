@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 8 Czech VCs on green shoots, pandemic impacts and 2021 opportunities
+  - Should there be some law against raising three times in one year?
      <hr/>
      
-      - *The Czech Republic may be better known for beer, hockey and the sights of Prague, but its entrepreneurial community is as ambitious as any.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
      
-  - Tiger Global in talks to invest in young Indian social network at $170M valuation
+  - NFTs don’t need crypto, but crypto needs NFTs
       <hr/>
       
-      - *Who says there is no room for a new social network? Tiger Global is in advanced stages of talks to lead a round of $15 million to $20 million in seven-month-old Kutumb that values the Indian startup at about $170 million, four people familiar with the matter …*
+      - *Spending millions for a digital work of art that could be screenshotted feels similar to traipsing around a strip of concrete as a tourist activity. The optics don’t make immediate sense — there’s hardly any appeal in something as accessible as a Google image…*
       
-  - Apple discontinues original HomePod, will focus on mini
+  - Does Atlantic Canada have a blueprint for rural revival in the post-pandemic era?
       <hr/>
       
-      - *After 4 years on the market, Apple has discontinued its original HomePod. It says that it will continue to produce and focus on the HomePod mini, introduced last year. The larger HomePod offered a beefier sound space but the mini has been very well received a…*
+      - *Despite government programs, local entrepreneurs stress that the region’s modest success is primarily driven by the private sector. Each province tends to have a godfather/cheerleader who has championed local startups through investment, advice and connection…*
       
-  - Crowdfunding limits are poised to change next week, but most VCs aren't paying attention -- yet
+  - This Week in Apps: Parler denied App Store re-entry, Walmart doubles down on TikTok live shopping, Instagram Lite rolls out worldwide
       <hr/>
       
-      - *Passion Capital, the early-stage venture firm in London, told TechCrunch earlier this week that — in an apparent first for a European fund —  it plans to crowdfund the final stage of its third and latest vehicle. Specifically, it’s carving out around half a m…*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - Extra Crunch roundup: Coupang and Roblox debut, driving GPT-3 adoption, startup how-tos, more
+  - Why 'blaming the intern' won't save startups from cybersecurity liability
       <hr/>
        
-       - *Our growing library of how-to stories are aimed squarely at early-stage founders and workers trying to solve long-term problems.*
+       - *Whether a company is liable for cyber incidents based on the actions of employees or contractors will depend on the circumstances of what happened.*
       
 
 <br />
