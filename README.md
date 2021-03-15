@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Should there be some law against raising three times in one year?
+  - Stripe closes $600M round at a $95B valuation
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
+      - *On the heels of reports that Stripe was raising yet more money, the payments giant has now confirmed the details. The company has closed in on another $600 million, at a valuation of $95 billion. Stripe said it will use the funding to expand its business in E…*
      
+  - The Roblox final fantasy
+      <hr/>
+      
+      - *Hello friends, and welcome to Week in Review. Last week, I talked a bit about NFTs and their impact on artists. If you’re inundated with NFT talk just take one quick look at this story I wrote this week about the $69 million sale of Beeple’s photo collage. Th…*
+      
+  - SpaceX flies Falcon 9 rocket booster for a record 9th time, delivers 3rd batch of Starlink satellites in two weeks
+      <hr/>
+      
+      - *SpaceX has delivered another 60 Starlink satellites to orbit — meaning it has sent 180 in total to join its 1,000+ strong constellation in the past two weeks alone. Today’s launch also set a record for SpaceX for its Falcon 9 rocket reusability program, since…*
+      
+  - Should there be some law against raising three times in one year?
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
+       
   - NFTs don’t need crypto, but crypto needs NFTs
       <hr/>
-      
-      - *Spending millions for a digital work of art that could be screenshotted feels similar to traipsing around a strip of concrete as a tourist activity. The optics don’t make immediate sense — there’s hardly any appeal in something as accessible as a Google image…*
-      
-  - Does Atlantic Canada have a blueprint for rural revival in the post-pandemic era?
-      <hr/>
-      
-      - *Despite government programs, local entrepreneurs stress that the region’s modest success is primarily driven by the private sector. Each province tends to have a godfather/cheerleader who has championed local startups through investment, advice and connection…*
-      
-  - This Week in Apps: Parler denied App Store re-entry, Walmart doubles down on TikTok live shopping, Instagram Lite rolls out worldwide
-      <hr/>
-      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - Why 'blaming the intern' won't save startups from cybersecurity liability
-      <hr/>
-       
-       - *Whether a company is liable for cyber incidents based on the actions of employees or contractors will depend on the circumstances of what happened.*
+       - *Spending millions for a digital work of art that could be screenshotted feels similar to traipsing around a strip of concrete as a tourist activity. The optics don’t make immediate sense — there’s hardly any appeal in something as accessible as a Google image…*
       
 
 <br />
