@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Stripe closes $600M round at a $95B valuation
+  - WeWork unbundles its products in an attempt to make itself over, but will the strategy work?
      <hr/>
      
-      - *On the heels of reports that Stripe was raising yet more money, the payments giant has now confirmed the details. The company has closed in on another $600 million, at a valuation of $95 billion. Stripe said it will use the funding to expand its business in E…*
+      - *For years, there was a debate as to whether WeWork was a tech company or more of a real estate play. At first, most people viewed WeWork as a real estate startup disguised as a tech startup. And as it kept scooping up more and more property, the lines continu…*
      
+  - Facebook to label all COVID-19 vaccine posts with pointer to official info
+      <hr/>
+      
+      - *Facebook will soon label all posts discussing the coronavirus vaccination with a pointer to official information about COVID-19, it said today. It also revealed it has implemented some new “temporary” measures aimed at limiting the spread of vaccine misinform…*
+      
+  - Stripe closes $600M round at a $95B valuation
+      <hr/>
+      
+      - *On the heels of reports that Stripe was raising yet more money, the payments giant has now confirmed the details. The company has closed in on another $600 million, at a valuation of $95 billion. Stripe said it will use the funding to expand its business in E…*
+      
   - The Roblox final fantasy
       <hr/>
       
       - *Hello friends, and welcome to Week in Review. Last week, I talked a bit about NFTs and their impact on artists. If you’re inundated with NFT talk just take one quick look at this story I wrote this week about the $69 million sale of Beeple’s photo collage. Th…*
-      
+       
   - SpaceX flies Falcon 9 rocket booster for a record 9th time, delivers 3rd batch of Starlink satellites in two weeks
       <hr/>
-      
-      - *SpaceX has delivered another 60 Starlink satellites to orbit — meaning it has sent 180 in total to join its 1,000+ strong constellation in the past two weeks alone. Today’s launch also set a record for SpaceX for its Falcon 9 rocket reusability program, since…*
-      
-  - Should there be some law against raising three times in one year?
-      <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Re…*
        
-  - NFTs don’t need crypto, but crypto needs NFTs
-      <hr/>
-       
-       - *Spending millions for a digital work of art that could be screenshotted feels similar to traipsing around a strip of concrete as a tourist activity. The optics don’t make immediate sense — there’s hardly any appeal in something as accessible as a Google image…*
+       - *SpaceX has delivered another 60 Starlink satellites to orbit — meaning it has sent 180 in total to join its 1,000+ strong constellation in the past two weeks alone. Today’s launch also set a record for SpaceX for its Falcon 9 rocket reusability program, since…*
       
 
 <br />
