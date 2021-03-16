@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Bird to spend $150 million on European expansion plan
+  - Leap raises $17 million to help Indian students study abroad
      <hr/>
      
-      - *Shared micromobility startup Bird said it is investing $150 million into a European expansion plan that will including launching in more than 50 cities this year, a move that it says will double its footprint in the region. This growth plan is already underwa…*
+      - *Hundreds of thousands of teenagers and young adults get on flights each year from India to a foreign land to pursue higher education. Upon landing, they face a myriad of challenges: They don’t have a local credit history, so they can’t avail a range of financ…*
      
-  - Sherpa raises $8.5M to expand from conversational AI to B2B privacy-first federated learning services
+  - The toilet paper startup backed by Marc Benioff, Dara Khosrowshahi, and Robert Downey Jr. now sells paper towels
       <hr/>
       
-      - *Sherpa, a startup from Bilbao, Spain that was an early mover in building a voice-based digital assistant and predictive search for Spanish-speaking audiences, has raised some more funding to double down on a newer focus for the startup, building out privacy-f…*
+      - *Cloud Paper, the startup whose bamboo toilet paper (and celebrity and billionaire backers including Robert Downey Jr., Gwyneth Paltrow, Marc Benioff, Dara Khosrowshahi, and Mark Cuban) made a splash last year, is getting into the paper towel racket. Starting …*
       
-  - Daily Crunch: Stripe valued at $95B
+  - Cyware nabs $30M to help organizations detect and stop advanced cyber attacks
       <hr/>
       
-      - *Stripe gets a mind-boggling valuation, Facebook promotes COVID vaccines and Elon Musk has an interesting new title. This is your Daily Crunch for March 15, 2021. The big story: Stripe valued at $95B That’s right: The popular payments company has raised $600 m…*
+      - *Malicious hacking has become a pernicious and dogged fact of life for more organizations, and it’s a threat that has seemingly grown more complicated and sophisticated over time. One one effective approach to tackling that has been collaboration: not just app…*
       
-  - Fired GitHub employee reaches 'amicable resolution' with company
+  - Resilience is an ambitious bet to improve cancer treatment
       <hr/>
       
-      - *GitHub has reached an “amicable resolution” with the person the company fired in the aftermath of the attack on the U.S. Capitol in January, the former employee told TechCrunch. On the day a violent mob of Trump supporters stormed the U.S. Capitol, a worried …*
+      - *Meet Resilience, a new startup that wants to help cancer treatment institutes as well as cancer patients at every step of the treatment journey. It’s an ambitious project founded by two well-known French entrepreneurs. They want to leverage their tech skills …*
        
-  - Gumroad wants to make equity crowdfunding mainstream
+  - Inovia Capital raises $450M for second growth-stage investment fund
       <hr/>
        
-       - *Gumroad, a startup that helps creators sell their work, is raising $6 million at a $100 million valuation. While $1 million of that total is reserved for AngelList co-founder Naval Ravikant and Basecamp founder Jason Fried, the remaining $5 million is being r…*
+       - *Montreal-headquartered Inovia Capital has raised $450 million for Growth Fund II, the firm’s second growth-stage investment fund. The close of this funding comes just a little over two years after the announcement of its first in February 2019, a $400 million…*
       
 
 <br />
