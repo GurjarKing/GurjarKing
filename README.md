@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - WeWork unbundles its products in an attempt to make itself over, but will the strategy work?
+  - Bird to spend $150 million on European expansion plan
      <hr/>
      
-      - *For years, there was a debate as to whether WeWork was a tech company or more of a real estate play. At first, most people viewed WeWork as a real estate startup disguised as a tech startup. And as it kept scooping up more and more property, the lines continu…*
+      - *Shared micromobility startup Bird said it is investing $150 million into a European expansion plan that will including launching in more than 50 cities this year, a move that it says will double its footprint in the region. This growth plan is already underwa…*
      
-  - Facebook to label all COVID-19 vaccine posts with pointer to official info
+  - Sherpa raises $8.5M to expand from conversational AI to B2B privacy-first federated learning services
       <hr/>
       
-      - *Facebook will soon label all posts discussing the coronavirus vaccination with a pointer to official information about COVID-19, it said today. It also revealed it has implemented some new “temporary” measures aimed at limiting the spread of vaccine misinform…*
+      - *Sherpa, a startup from Bilbao, Spain that was an early mover in building a voice-based digital assistant and predictive search for Spanish-speaking audiences, has raised some more funding to double down on a newer focus for the startup, building out privacy-f…*
       
-  - Stripe closes $600M round at a $95B valuation
+  - Daily Crunch: Stripe valued at $95B
       <hr/>
       
-      - *On the heels of reports that Stripe was raising yet more money, the payments giant has now confirmed the details. The company has closed in on another $600 million, at a valuation of $95 billion. Stripe said it will use the funding to expand its business in E…*
+      - *Stripe gets a mind-boggling valuation, Facebook promotes COVID vaccines and Elon Musk has an interesting new title. This is your Daily Crunch for March 15, 2021. The big story: Stripe valued at $95B That’s right: The popular payments company has raised $600 m…*
       
-  - The Roblox final fantasy
+  - Fired GitHub employee reaches 'amicable resolution' with company
       <hr/>
       
-      - *Hello friends, and welcome to Week in Review. Last week, I talked a bit about NFTs and their impact on artists. If you’re inundated with NFT talk just take one quick look at this story I wrote this week about the $69 million sale of Beeple’s photo collage. Th…*
+      - *GitHub has reached an “amicable resolution” with the person the company fired in the aftermath of the attack on the U.S. Capitol in January, the former employee told TechCrunch. On the day a violent mob of Trump supporters stormed the U.S. Capitol, a worried …*
        
-  - SpaceX flies Falcon 9 rocket booster for a record 9th time, delivers 3rd batch of Starlink satellites in two weeks
+  - Gumroad wants to make equity crowdfunding mainstream
       <hr/>
        
-       - *SpaceX has delivered another 60 Starlink satellites to orbit — meaning it has sent 180 in total to join its 1,000+ strong constellation in the past two weeks alone. Today’s launch also set a record for SpaceX for its Falcon 9 rocket reusability program, since…*
+       - *Gumroad, a startup that helps creators sell their work, is raising $6 million at a $100 million valuation. While $1 million of that total is reserved for AngelList co-founder Naval Ravikant and Basecamp founder Jason Fried, the remaining $5 million is being r…*
       
 
 <br />
