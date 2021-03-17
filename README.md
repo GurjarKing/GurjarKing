@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Uber says it will treat UK drivers as workers in wake of Supreme Court ruling
+  - PayFit raises $107 million for its payroll and HR platform
      <hr/>
      
-      - *Uber said Tuesday that drivers in the UK who use its ride-hailing app will be treated as workers, a designation that will give them some benefits such as holiday pay. However, even as Uber seemingly concedes to a Supreme Court ruling last month, a new fight c…*
+      - *French startup PayFit has raised a $107 million series D funding round (€90 million). Eurazeo Growth and Bpifrance’s Large Venture fund are leading today’s round. Existing investors Accel, Frst and Xavier Niel are participating once again. PayFit has been bui…*
      
-  - Investors Clara Brenner, Quin Garcia and Rachel Holt are coming to TC Sessions: Mobility 2021
+  - Incredibuild gets $140M to speed up games and other software development with distributed processing tech
       <hr/>
       
-      - *The transportation industry is abuzz with upstarts, legacy automakers, suppliers and tech companies working on automated vehicle technology, digital platforms, electrification and robotics. Then there are shared mobility companies from cars to scooters and mo…*
+      - *Many of us are working in distributed environments these days, and in the best scenarios, it might actually have improved rather than impeded our productivity. Today, a company that has built technology that taps into that concept as it applies to computing i…*
       
-  - Daily Crunch: Google Play halves commission on developers' first $1M
+  - Capdesk raises £5m Series A extension led by Fidelity International Strategic Ventures
       <hr/>
       
-      - *Google is letting developers keep more of their Play revenue, Instagram adds teen safety features and we examine the global distribution of venture funding. This is your Daily Crunch for March 16, 2021. The big story: Google Play halves commission on first $1…*
+      - *Capdesk, an equity management platform, has raised a £5m Series A extension led by Fidelity International Strategic Ventures and MiddleGame Ventures. This followed a first raise of £3 million in 2020, led by Fuel Ventures, and brings the Series A total to £8 …*
       
-  - SoftBank, Tencent backs IP analytics platform PatSnap in $300M round
+  - Dija acquires Cambridge-based Genie to expand its 10 minute grocery service across UK
       <hr/>
       
-      - *As enterprises around the world pour more money into research and invention to stay competitive, the need for analyzing the worthiness of R&D expenses also grows. One company serving that function is PatSnap. When co-founder Jeffrey Tiong was working in the m…*
+      - *Dija, the London-based grocery delivery startup backed by Blossom Capital, Creandum and Index Ventures, has acquired Cambridge, U.K.-based Genie, in what looks in part like an acqui-hire. The deal, for which terms remain undisclosed, will see Genie founders T…*
        
-  - A crypto company's journey to Data 3.0
+  - Whereby, which allows more collaboration over video calls, raises $12M from Point Nine and 20 Angels
       <hr/>
        
-       - *Having worked at tech companies like LinkedIn and eBay, I’ve observed firsthand the evolution from Data 1.0 to Data 3.0. In Data 1.0, data is seen as a reactive function providing ad-hoc manual services or firefighting in urgent situations.*
+       - *Zoom, Microsoft and Google all rocketed to the top of the charts in the virtual meetings stakes during the pandemic but a plucky startup from Norway had others ideas. Video meeting startup Whereby has now raised $12 million from German VC Point Nine, SaaStr f…*
       
 
 <br />
