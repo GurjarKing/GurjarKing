@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Leap raises $17 million to help Indian students study abroad
+  - Uber says it will treat UK drivers as workers in wake of Supreme Court ruling
      <hr/>
      
-      - *Hundreds of thousands of teenagers and young adults get on flights each year from India to a foreign land to pursue higher education. Upon landing, they face a myriad of challenges: They don’t have a local credit history, so they can’t avail a range of financ…*
+      - *Uber said Tuesday that drivers in the UK who use its ride-hailing app will be treated as workers, a designation that will give them some benefits such as holiday pay. However, even as Uber seemingly concedes to a Supreme Court ruling last month, a new fight c…*
      
-  - The toilet paper startup backed by Marc Benioff, Dara Khosrowshahi, and Robert Downey Jr. now sells paper towels
+  - Investors Clara Brenner, Quin Garcia and Rachel Holt are coming to TC Sessions: Mobility 2021
       <hr/>
       
-      - *Cloud Paper, the startup whose bamboo toilet paper (and celebrity and billionaire backers including Robert Downey Jr., Gwyneth Paltrow, Marc Benioff, Dara Khosrowshahi, and Mark Cuban) made a splash last year, is getting into the paper towel racket. Starting …*
+      - *The transportation industry is abuzz with upstarts, legacy automakers, suppliers and tech companies working on automated vehicle technology, digital platforms, electrification and robotics. Then there are shared mobility companies from cars to scooters and mo…*
       
-  - Cyware nabs $30M to help organizations detect and stop advanced cyber attacks
+  - Daily Crunch: Google Play halves commission on developers' first $1M
       <hr/>
       
-      - *Malicious hacking has become a pernicious and dogged fact of life for more organizations, and it’s a threat that has seemingly grown more complicated and sophisticated over time. One one effective approach to tackling that has been collaboration: not just app…*
+      - *Google is letting developers keep more of their Play revenue, Instagram adds teen safety features and we examine the global distribution of venture funding. This is your Daily Crunch for March 16, 2021. The big story: Google Play halves commission on first $1…*
       
-  - Resilience is an ambitious bet to improve cancer treatment
+  - SoftBank, Tencent backs IP analytics platform PatSnap in $300M round
       <hr/>
       
-      - *Meet Resilience, a new startup that wants to help cancer treatment institutes as well as cancer patients at every step of the treatment journey. It’s an ambitious project founded by two well-known French entrepreneurs. They want to leverage their tech skills …*
+      - *As enterprises around the world pour more money into research and invention to stay competitive, the need for analyzing the worthiness of R&D expenses also grows. One company serving that function is PatSnap. When co-founder Jeffrey Tiong was working in the m…*
        
-  - Inovia Capital raises $450M for second growth-stage investment fund
+  - A crypto company's journey to Data 3.0
       <hr/>
        
-       - *Montreal-headquartered Inovia Capital has raised $450 million for Growth Fund II, the firm’s second growth-stage investment fund. The close of this funding comes just a little over two years after the announcement of its first in February 2019, a $400 million…*
+       - *Having worked at tech companies like LinkedIn and eBay, I’ve observed firsthand the evolution from Data 1.0 to Data 3.0. In Data 1.0, data is seen as a reactive function providing ad-hoc manual services or firefighting in urgent situations.*
       
 
 <br />
