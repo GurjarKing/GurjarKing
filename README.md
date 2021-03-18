@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Uber to classify UK drivers as workers
+  - SecurityScorecard snags $180M Series E to measure a company's security risk
      <hr/>
      
-      - *Uber changes driver classification following a legal defeat in the U.K., Facebook says it will crack down on rule-breaking Groups and Snap makes an e-commerce acquisition. This is your Daily Crunch for March 17, 2021. The big story: Uber to classify UK driver…*
+      - *SecurityScorecard has been helping companies understand the security risk of its vendors since 2014 by providing each one with a letter grade based on a number of dimensions. Today, the company announced a $180 million Series E. The round includes new investo…*
      
-  - Cymbio raises $7M to help brands expand to more e-commerce markets
+  - E-commerce marketing startup Yotpo raises $230M at a $1.4B valuation
       <hr/>
       
-      - *Cymbio, a Tel Aviv-based startup focused on what it calls “brand-to-retailer connectivity,” announced today that it has raised $7 million in Series A funding. CEO Roy Avidor, who founded the company with Mor Lavi and Gilad Zirkel, told me that the platform is…*
+      - *Barely more than seven months after its most recent funding announcement, Yotpo is revealing that it has raised another $230 million in a Series F round that values the company at $1.4 billion (post-money). “Our round, in my eyes, it’s all about celebrating t…*
       
-  - How to recruit data scientists without paying top dollar
+  - Airtel Africa sells $200M mobile money business stake to TPG's Rise Fund
       <hr/>
       
-      - *HR professionals need to collaborate with data science managers to craft job descriptions that speak to a data science audience. The increasingly pivotal role of job postings will not abate with the virus.*
+      - *In February, London-listed telecom, Airtel Africa, said it was looking to sell a minority stake in its mobile money business in a bid to raise cash and sell off some assets. The firm seems to have found an investor as it announced that The Rise Fund, the glob…*
       
-  - BMW takes the wraps off the i4, its first all-electric sedan
+  - Miami startup Asteya launches to provide ‘income insurance’
       <hr/>
       
-      - *BMW plans to have 25 electrified cars in its lineup by 2025 and it’s taking a few more steps in this direction this year with the launch of the all-electric iX SUV and the i4 sedan. Today, for the first time, the German automaker shared a few more details of …*
+      - *Asteya, a Miami-based disability insurance startup that is geared toward small business owners and gig workers, launched today with a seed round of $10 million. Co-founder and CEO Alex Williamson, who was Bumble’s chief brand officer, describes Asteya as an “…*
        
-  - Okay, the GPT-3 hype seems pretty reasonable
+  - Crypto infrastructure provider Fireblocks raises $133 million
       <hr/>
        
-       - *This morning TechCrunch covered an interesting round for Copy.ai, a startup that employs GPT-3 to help other companies with their writing projects. GPT-3, or Generative Pre-trained Transformer 3, is a piece of AI from the OpenAI group that takes text from the…*
+       - *Fireblocks has raised a $133 million Series C funding round led by Coatue, Ribbit, and Stripes. The company provides several products that let you store, transfer and issue digital assets. In particular, Fireblocks provides custody to institutional investors …*
       
 
 <br />
