@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - PayFit raises $107 million for its payroll and HR platform
+  - Daily Crunch: Uber to classify UK drivers as workers
      <hr/>
      
-      - *French startup PayFit has raised a $107 million series D funding round (€90 million). Eurazeo Growth and Bpifrance’s Large Venture fund are leading today’s round. Existing investors Accel, Frst and Xavier Niel are participating once again. PayFit has been bui…*
+      - *Uber changes driver classification following a legal defeat in the U.K., Facebook says it will crack down on rule-breaking Groups and Snap makes an e-commerce acquisition. This is your Daily Crunch for March 17, 2021. The big story: Uber to classify UK driver…*
      
-  - Incredibuild gets $140M to speed up games and other software development with distributed processing tech
+  - Cymbio raises $7M to help brands expand to more e-commerce markets
       <hr/>
       
-      - *Many of us are working in distributed environments these days, and in the best scenarios, it might actually have improved rather than impeded our productivity. Today, a company that has built technology that taps into that concept as it applies to computing i…*
+      - *Cymbio, a Tel Aviv-based startup focused on what it calls “brand-to-retailer connectivity,” announced today that it has raised $7 million in Series A funding. CEO Roy Avidor, who founded the company with Mor Lavi and Gilad Zirkel, told me that the platform is…*
       
-  - Capdesk raises £5m Series A extension led by Fidelity International Strategic Ventures
+  - How to recruit data scientists without paying top dollar
       <hr/>
       
-      - *Capdesk, an equity management platform, has raised a £5m Series A extension led by Fidelity International Strategic Ventures and MiddleGame Ventures. This followed a first raise of £3 million in 2020, led by Fuel Ventures, and brings the Series A total to £8 …*
+      - *HR professionals need to collaborate with data science managers to craft job descriptions that speak to a data science audience. The increasingly pivotal role of job postings will not abate with the virus.*
       
-  - Dija acquires Cambridge-based Genie to expand its 10 minute grocery service across UK
+  - BMW takes the wraps off the i4, its first all-electric sedan
       <hr/>
       
-      - *Dija, the London-based grocery delivery startup backed by Blossom Capital, Creandum and Index Ventures, has acquired Cambridge, U.K.-based Genie, in what looks in part like an acqui-hire. The deal, for which terms remain undisclosed, will see Genie founders T…*
+      - *BMW plans to have 25 electrified cars in its lineup by 2025 and it’s taking a few more steps in this direction this year with the launch of the all-electric iX SUV and the i4 sedan. Today, for the first time, the German automaker shared a few more details of …*
        
-  - Whereby, which allows more collaboration over video calls, raises $12M from Point Nine and 20 Angels
+  - Okay, the GPT-3 hype seems pretty reasonable
       <hr/>
        
-       - *Zoom, Microsoft and Google all rocketed to the top of the charts in the virtual meetings stakes during the pandemic but a plucky startup from Norway had others ideas. Video meeting startup Whereby has now raised $12 million from German VC Point Nine, SaaStr f…*
+       - *This morning TechCrunch covered an interesting round for Copy.ai, a startup that employs GPT-3 to help other companies with their writing projects. GPT-3, or Generative Pre-trained Transformer 3, is a piece of AI from the OpenAI group that takes text from the…*
       
 
 <br />
