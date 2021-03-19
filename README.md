@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Fortify raises a $20M Series B for its composite manufacturing 3D printer
+  - Nigeria's Termii raises $1.4M seed led by Future Africa and Kepple Africa Ventures
      <hr/>
      
-      - *There’s been quite a bit of movement in the additive manufacturing space in recent months. If I had to pinpoint a reason, I would say that — much like robotics (another space I follow fairly closely) — the category has gotten a boost in interest from the pand…*
+      - *Ideally, it is expected of every business to reach its customers effectively. However, that’s not the case as limiting factors that hinder proper digital communication come into play at different growth stages. Termii, a Nigerian communications platform-as-a-…*
      
-  - Ford to build some F-150 trucks without certain parts due to global chip shortage
+  - Backed by YC, Vendease is building Amazon Prime for restaurants in Africa
       <hr/>
       
-      - *Ford said Thursday that some some Ford F-150 pickup trucks and Edge crossover without certain electronic modules due to a twofold punch of a global semiconductor shortage and a lack of parts caused a winter storm. Ford said it will build and hold the vehicles…*
+      - *For small and mid-sized restaurants in Nigeria and most of Africa, food procurement can be a complex process to manage. The system is such that a business can easily run out of money or have considerable savings. Most restaurants don’t have access to deal dir…*
       
-  - Fort raises $13M for its robotics safety software
+  - Betting on China's driverless future, Toyota, Bosch, Daimler jump on board Momenta's $500M round
       <hr/>
       
-      - *Fort Robotics today announced a $13 million raise. Led by Prime Movers Lab, the round also features Prologis Ventures, Quiet Capital, Lemnos Labs, Creative Ventures, Ahoy Capital, Compound, FundersClub and Mark Cuban. The Philadelphia-based company was founde…*
+      - *Across the street from Suzhou North, a high-speed railway station in a historic city near Shanghai, a futuristic M-shaped building easily catches the eye of anyone passing by. It houses the headquarters of the five-year-old Chinese autonomous driving startup,…*
       
-  - MrBeast's management company, Night Media, has a new venture fund that's backed by creators
+  - Gillmor Gang: Clubhouse Style
       <hr/>
       
-      - *MrBeast’s management company is getting into the venture business. Night Media, the six-year-old, Dallas-based multimedia talent management company that’s focused on family-friendly creators, is closing a debut fund with $20 million in capital commitments, la…*
+      - *Let’s stipulate the storm of user media (social audio, newsletters, live streaming) is evidence of something real and lasting. When this citizen media migrates to small business and the enterprise, we see that as confirmation, validation. Most of these effort…*
        
-  - Daily Crunch: YouTube's TikTok rival launches in the US
+  - Fortify raises a $20M Series B for its composite manufacturing 3D printer
       <hr/>
        
-       - *YouTube Shorts comes to the U.S., Amazon starts testing electric delivery vans in San Francisco and new data suggests the impact of Google Play’s recent changes. This is your Daily Crunch for March 18, 2021. The big story: YouTube’s TikTok rival launches in t…*
+       - *There’s been quite a bit of movement in the additive manufacturing space in recent months. If I had to pinpoint a reason, I would say that — much like robotics (another space I follow fairly closely) — the category has gotten a boost in interest from the pand…*
       
 
 <br />
