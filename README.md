@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - SecurityScorecard snags $180M Series E to measure a company's security risk
+  - Fortify raises a $20M Series B for its composite manufacturing 3D printer
      <hr/>
      
-      - *SecurityScorecard has been helping companies understand the security risk of its vendors since 2014 by providing each one with a letter grade based on a number of dimensions. Today, the company announced a $180 million Series E. The round includes new investo…*
+      - *There’s been quite a bit of movement in the additive manufacturing space in recent months. If I had to pinpoint a reason, I would say that — much like robotics (another space I follow fairly closely) — the category has gotten a boost in interest from the pand…*
      
-  - E-commerce marketing startup Yotpo raises $230M at a $1.4B valuation
+  - Ford to build some F-150 trucks without certain parts due to global chip shortage
       <hr/>
       
-      - *Barely more than seven months after its most recent funding announcement, Yotpo is revealing that it has raised another $230 million in a Series F round that values the company at $1.4 billion (post-money). “Our round, in my eyes, it’s all about celebrating t…*
+      - *Ford said Thursday that some some Ford F-150 pickup trucks and Edge crossover without certain electronic modules due to a twofold punch of a global semiconductor shortage and a lack of parts caused a winter storm. Ford said it will build and hold the vehicles…*
       
-  - Airtel Africa sells $200M mobile money business stake to TPG's Rise Fund
+  - Fort raises $13M for its robotics safety software
       <hr/>
       
-      - *In February, London-listed telecom, Airtel Africa, said it was looking to sell a minority stake in its mobile money business in a bid to raise cash and sell off some assets. The firm seems to have found an investor as it announced that The Rise Fund, the glob…*
+      - *Fort Robotics today announced a $13 million raise. Led by Prime Movers Lab, the round also features Prologis Ventures, Quiet Capital, Lemnos Labs, Creative Ventures, Ahoy Capital, Compound, FundersClub and Mark Cuban. The Philadelphia-based company was founde…*
       
-  - Miami startup Asteya launches to provide ‘income insurance’
+  - MrBeast's management company, Night Media, has a new venture fund that's backed by creators
       <hr/>
       
-      - *Asteya, a Miami-based disability insurance startup that is geared toward small business owners and gig workers, launched today with a seed round of $10 million. Co-founder and CEO Alex Williamson, who was Bumble’s chief brand officer, describes Asteya as an “…*
+      - *MrBeast’s management company is getting into the venture business. Night Media, the six-year-old, Dallas-based multimedia talent management company that’s focused on family-friendly creators, is closing a debut fund with $20 million in capital commitments, la…*
        
-  - Crypto infrastructure provider Fireblocks raises $133 million
+  - Daily Crunch: YouTube's TikTok rival launches in the US
       <hr/>
        
-       - *Fireblocks has raised a $133 million Series C funding round led by Coatue, Ribbit, and Stripes. The company provides several products that let you store, transfer and issue digital assets. In particular, Fireblocks provides custody to institutional investors …*
+       - *YouTube Shorts comes to the U.S., Amazon starts testing electric delivery vans in San Francisco and new data suggests the impact of Google Play’s recent changes. This is your Daily Crunch for March 18, 2021. The big story: YouTube’s TikTok rival launches in t…*
       
 
 <br />
