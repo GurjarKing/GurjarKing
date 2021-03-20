@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Nigeria's Termii raises $1.4M seed led by Future Africa and Kepple Africa Ventures
+  - Daily Crunch: Facebook shows off a wrist-based interface
      <hr/>
      
-      - *Ideally, it is expected of every business to reach its customers effectively. However, that’s not the case as limiting factors that hinder proper digital communication come into play at different growth stages. Termii, a Nigerian communications platform-as-a-…*
+      - *Facebook develops a new way to interact with AR, Uber’s facial recognition policy faces scrutiny and SpaceX’s Starship rocket booster hits a major milestone. This is your Daily Crunch for March 19, 2021. The big story: Facebook shows off wrist-based interface…*
      
-  - Backed by YC, Vendease is building Amazon Prime for restaurants in Africa
+  - Deep science: AI is in the air, water, soil and steel
       <hr/>
       
-      - *For small and mid-sized restaurants in Nigeria and most of Africa, food procurement can be a complex process to manage. The system is such that a business can easily run out of money or have considerable savings. Most restaurants don’t have access to deal dir…*
+      - *This column aims to collect some of the most relevant recent discoveries and papers — particularly in but not limited to artificial intelligence — and explain why they matter.*
       
-  - Betting on China's driverless future, Toyota, Bosch, Daimler jump on board Momenta's $500M round
+  - Extra Crunch roundup: AI eats fintech, fundraising visas, no-code transition tips, more
       <hr/>
       
-      - *Across the street from Suzhou North, a high-speed railway station in a historic city near Shanghai, a futuristic M-shaped building easily catches the eye of anyone passing by. It houses the headquarters of the five-year-old Chinese autonomous driving startup,…*
+      - *Most American retail banks are designed the same way: Customers must pass several desks set aside for loan and mortgage officers before they can talk to a customer representative. I only step inside a bank a few times each year, but even pre-pandemic, I can’t…*
       
-  - Gillmor Gang: Clubhouse Style
+  - Now approved in LA, Abodu's backyard homes can now go from contract to completion in as little as 30 days
       <hr/>
       
-      - *Let’s stipulate the storm of user media (social audio, newsletters, live streaming) is evidence of something real and lasting. When this citizen media migrates to small business and the enterprise, we see that as confirmation, validation. Most of these effort…*
+      - *Abodu, one of a slew of startup companies pitching backyard homes and office spaces to Californians in an effort to help address the state’s housing shortage, has instituted a new “Quickship” program that can take an order from contract to construction and in…*
        
-  - Fortify raises a $20M Series B for its composite manufacturing 3D printer
+  - It’s time to abandon business intelligence tools
       <hr/>
        
-       - *There’s been quite a bit of movement in the additive manufacturing space in recent months. If I had to pinpoint a reason, I would say that — much like robotics (another space I follow fairly closely) — the category has gotten a boost in interest from the pand…*
+       - *Organizations spend ungodly amounts of money — millions of dollars — on business intelligence tools. Yet, adoption rates are still below 30%. Why is this the case? Because BI has failed businesses.*
       
 
 <br />
