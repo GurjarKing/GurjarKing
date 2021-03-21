@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Facebook shows off a wrist-based interface
+  - Tech companies predict the (economic) future
      <hr/>
      
-      - *Facebook develops a new way to interact with AR, Uber’s facial recognition policy faces scrutiny and SpaceX’s Starship rocket booster hits a major milestone. This is your Daily Crunch for March 19, 2021. The big story: Facebook shows off wrist-based interface…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Ea…*
      
-  - Deep science: AI is in the air, water, soil and steel
+  - Tim Cook and Tim Sweeney among potential witnesses for Apple/Epic trial
       <hr/>
       
-      - *This column aims to collect some of the most relevant recent discoveries and papers — particularly in but not limited to artificial intelligence — and explain why they matter.*
+      - *A proposed witness list filed by Apple for its upcoming trial against game-maker Epic reads like a who’s who of executives from the two companies. The drawn out battle could well prove a watershed moment from mobile app payments. The two sides came to loggerh…*
       
-  - Extra Crunch roundup: AI eats fintech, fundraising visas, no-code transition tips, more
+  - Startups, Supreme, and soft-circling your way to an investment
       <hr/>
       
-      - *Most American retail banks are designed the same way: Customers must pass several desks set aside for loan and mortgage officers before they can talk to a customer representative. I only step inside a bank a few times each year, but even pre-pandemic, I can’t…*
+      - *In an Extra Crunch Live this past week, Cleo Capital founding partner Sarah Kunst broke down what founders can learn from Supreme, a sought-after streetwear brand. She argued that founders, similar to Supreme, should build a brand around themselves that is so…*
       
-  - Now approved in LA, Abodu's backyard homes can now go from contract to completion in as little as 30 days
+  - This Week in Apps: Google Play slashes commissions, Apple sued over scammy apps, YouTube launches a TikTok clone in the US
       <hr/>
       
-      - *Abodu, one of a slew of startup companies pitching backyard homes and office spaces to Californians in an effort to help address the state’s housing shortage, has instituted a new “Quickship” program that can take an order from contract to construction and in…*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - It’s time to abandon business intelligence tools
+  - Daily Crunch: Facebook shows off a wrist-based interface
       <hr/>
        
-       - *Organizations spend ungodly amounts of money — millions of dollars — on business intelligence tools. Yet, adoption rates are still below 30%. Why is this the case? Because BI has failed businesses.*
+       - *Facebook develops a new way to interact with AR, Uber’s facial recognition policy faces scrutiny and SpaceX’s Starship rocket booster hits a major milestone. This is your Daily Crunch for March 19, 2021. The big story: Facebook shows off wrist-based interface…*
       
 
 <br />
