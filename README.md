@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Sivo, a young "Stripe for debt" led by a veteran operator, seems to have investors clamoring
+  - Nuvemshop, LatAm's answer to Shopify, raises $90M in Accel-led Series D
      <hr/>
      
-      - *Kate Hiscox is having a moment. Her company, Sivo, founded eight months ago, has already raised $5 million from investors at a post-money valuation of $100 million, and she is in active talks with others who would like her to consider accepting Series A fundi…*
+      - *The COVID-19 pandemic has led to people everywhere shopping more online and Latin America is no exception. São Paulo-based Nuvemshop has developed an e-commerce platform that aims to allow SMBs and merchants to connect more directly with their consumers. With…*
      
-  - The debate about cryptocurrency and energy consumption
+  - Swedish fintech Zaver raises $5M to bring cardless payments and BNPL to 'durables' sector
       <hr/>
       
-      - *Energy consumption has become the latest flashpoint for cryptocurrency. Critics decry it as an energy hog while proponents hail it for being less intensive than the current global economy.  One such critic, DigiEconomist founder Alex de Vries, said he’s “neve…*
+      - *Zaver, a Swedish fintech that enable merchants to accept cardless payments and offer buy-now-pay-later (BNPL) as an option, has raised $5 million in new funding. The company, which began life focused on P2P payments for marketplace transactions, is now doubli…*
       
-  - Tech companies predict the (economic) future
+  - These undergraduates left university to build Flux, a payments startup now in YC
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Ea…*
+      - *Traditional remittance companies, while necessary, currently have two flaws in speed and exorbitant fees. It can take a long while (days to weeks) for money sent from an immigrant in the U.S. to reach a relative in Nigeria. The fees charged depend on the amou…*
       
-  - Tim Cook and Tim Sweeney among potential witnesses for Apple/Epic trial
+  - Next Billion Users head Caesar Sengupta is leaving Google
       <hr/>
       
-      - *A proposed witness list filed by Apple for its upcoming trial against game-maker Epic reads like a who’s who of executives from the two companies. The drawn out battle could well prove a watershed moment from mobile app payments. The two sides came to loggerh…*
+      - *Caesar Sengupta, the long-time head of Google’s Next Billion Users initiative, is leaving the company next month, he said Monday. Sengupta, who additionally also led the company’s payments business in the past three years, is leaving the firm after nearly 15 …*
        
-  - Startups, Supreme, and soft-circling your way to an investment
+  - Spark Capital decides to “sever all ties” with David Dobrik’s Dispo app weeks after leading investment
       <hr/>
        
-       - *In an Extra Crunch Live this past week, Cleo Capital founding partner Sarah Kunst broke down what founders can learn from Supreme, a sought-after streetwear brand. She argued that founders, similar to Supreme, should build a brand around themselves that is so…*
+       - *Venture capital firm Spark Capital has decided to ‘sever all ties’ with Dispo, a photo-sharing app co-created by famous YouTuber David Dobrik. The move, announced by the firm late Sunday, was triggered by a recent investigation by Business Insider that expose…*
       
 
 <br />
