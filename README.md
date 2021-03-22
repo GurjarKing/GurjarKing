@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Tech companies predict the (economic) future
+  - Sivo, a young "Stripe for debt" led by a veteran operator, seems to have investors clamoring
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Ea…*
+      - *Kate Hiscox is having a moment. Her company, Sivo, founded eight months ago, has already raised $5 million from investors at a post-money valuation of $100 million, and she is in active talks with others who would like her to consider accepting Series A fundi…*
      
+  - The debate about cryptocurrency and energy consumption
+      <hr/>
+      
+      - *Energy consumption has become the latest flashpoint for cryptocurrency. Critics decry it as an energy hog while proponents hail it for being less intensive than the current global economy.  One such critic, DigiEconomist founder Alex de Vries, said he’s “neve…*
+      
+  - Tech companies predict the (economic) future
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday morning? Sign up here. Ea…*
+      
   - Tim Cook and Tim Sweeney among potential witnesses for Apple/Epic trial
       <hr/>
       
       - *A proposed witness list filed by Apple for its upcoming trial against game-maker Epic reads like a who’s who of executives from the two companies. The drawn out battle could well prove a watershed moment from mobile app payments. The two sides came to loggerh…*
-      
+       
   - Startups, Supreme, and soft-circling your way to an investment
       <hr/>
-      
-      - *In an Extra Crunch Live this past week, Cleo Capital founding partner Sarah Kunst broke down what founders can learn from Supreme, a sought-after streetwear brand. She argued that founders, similar to Supreme, should build a brand around themselves that is so…*
-      
-  - This Week in Apps: Google Play slashes commissions, Apple sued over scammy apps, YouTube launches a TikTok clone in the US
-      <hr/>
-      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - Daily Crunch: Facebook shows off a wrist-based interface
-      <hr/>
-       
-       - *Facebook develops a new way to interact with AR, Uber’s facial recognition policy faces scrutiny and SpaceX’s Starship rocket booster hits a major milestone. This is your Daily Crunch for March 19, 2021. The big story: Facebook shows off wrist-based interface…*
+       - *In an Extra Crunch Live this past week, Cleo Capital founding partner Sarah Kunst broke down what founders can learn from Supreme, a sought-after streetwear brand. She argued that founders, similar to Supreme, should build a brand around themselves that is so…*
       
 
 <br />
