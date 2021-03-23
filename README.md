@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Nuvemshop, LatAm's answer to Shopify, raises $90M in Accel-led Series D
+  - Ro raises $500M to grow its remote and in-home primary care platform
      <hr/>
      
-      - *The COVID-19 pandemic has led to people everywhere shopping more online and Latin America is no exception. São Paulo-based Nuvemshop has developed an e-commerce platform that aims to allow SMBs and merchants to connect more directly with their consumers. With…*
+      - *Healthcare tech startup Ro has raised $500 million to help fuel continued growth of its hybrid telehealth/in-home primary care platform, which also includes a growing pharmacy business as the company pursues a strategy of vertical integration to optimize deli…*
      
-  - Swedish fintech Zaver raises $5M to bring cardless payments and BNPL to 'durables' sector
+  - Do we need so many virtual HQ platforms?
       <hr/>
       
-      - *Zaver, a Swedish fintech that enable merchants to accept cardless payments and offer buy-now-pay-later (BNPL) as an option, has raised $5 million in new funding. The company, which began life focused on P2P payments for marketplace transactions, is now doubli…*
+      - *Teamflow, founded by ex-Uber manager Flo Crivello, has raised an $11 million Series A just three months after raising a $3.9 million seed for its virtual HQ platform. The latest round in the startup was led by Battery Ventures, with Menlo Ventures leading its…*
       
-  - These undergraduates left university to build Flux, a payments startup now in YC
+  - Daily Crunch: Investors back away from Dispo
       <hr/>
       
-      - *Traditional remittance companies, while necessary, currently have two flaws in speed and exorbitant fees. It can take a long while (days to weeks) for money sent from an immigrant in the U.S. to reach a relative in Nigeria. The fees charged depend on the amou…*
+      - *Dispo is in the midst of a sexual assault controversy, Zoom introduces an SDK and Android owners will have to continue waiting for Clubhouse access. This is your Daily Crunch for March 22, 2021. The big story: Investors back away from Dispo After a recent sto…*
       
-  - Next Billion Users head Caesar Sengupta is leaving Google
+  - Coursera set to roughly double its private valuation in impending IPO
       <hr/>
       
-      - *Caesar Sengupta, the long-time head of Google’s Next Billion Users initiative, is leaving the company next month, he said Monday. Sengupta, who additionally also led the company’s payments business in the past three years, is leaving the firm after nearly 15 …*
+      - *At its most generous share count and highest projected price, Coursera's valuation could reach $5.56 billion.*
        
-  - Spark Capital decides to “sever all ties” with David Dobrik’s Dispo app weeks after leading investment
+  - Box shares rise on report company is exploring sale
       <hr/>
        
-       - *Venture capital firm Spark Capital has decided to ‘sever all ties’ with Dispo, a photo-sharing app co-created by famous YouTuber David Dobrik. The move, announced by the firm late Sunday, was triggered by a recent investigation by Business Insider that expose…*
+       - *Shares of Box, a well-known content-and-collaboration company that went public in 2015, rose today after Reuters reported that the company is exploring a sale. TechCrunch previously discussed rising investor pressure for Box to ignite its share price after ye…*
       
 
 <br />
