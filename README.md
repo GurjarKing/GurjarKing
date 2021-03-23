@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Ro raises $500M to grow its remote and in-home primary care platform
+  - D2C furniture startups Tylko closes $26M Series C  growth round led by Pitango and Evli
      <hr/>
      
-      - *Healthcare tech startup Ro has raised $500 million to help fuel continued growth of its hybrid telehealth/in-home primary care platform, which also includes a growing pharmacy business as the company pursues a strategy of vertical integration to optimize deli…*
+      - *Polish startup Tylko, a modular furniture company that employs Augmented Reality as part of its sales cycle, has closed a €22 million ($26m) investment Series C funding round, led by Israel-based Pitango Growth and Finnish Evli Growth Partners, following prev…*
      
-  - Do we need so many virtual HQ platforms?
+  - Real estate platform Loft raises $425M at a $2.2B valuation in one of Brazil's largest venture rounds
       <hr/>
       
-      - *Teamflow, founded by ex-Uber manager Flo Crivello, has raised an $11 million Series A just three months after raising a $3.9 million seed for its virtual HQ platform. The latest round in the startup was led by Battery Ventures, with Menlo Ventures leading its…*
+      - *Buying and selling residential real estate is a complex business, no matter where you live. A slew of startups in the United States are focused on streamlining that process for people. But in Brazil, where no MLS exists, the challenge of digitizing real estat…*
       
-  - Daily Crunch: Investors back away from Dispo
+  - Insuretech startup Counterpart raises $10M in funding round led by Valor Equity Partners
       <hr/>
       
-      - *Dispo is in the midst of a sexual assault controversy, Zoom introduces an SDK and Android owners will have to continue waiting for Clubhouse access. This is your Daily Crunch for March 22, 2021. The big story: Investors back away from Dispo After a recent sto…*
+      - *Insuretech startup Counterpart, has raised $10 million in funding led by Valor Equity Partners. Also participating was Susa Ventures and Felicis Ventures. Counterpart works in the ‘management liability’ insurance market. Counterpart will also partner with Mar…*
       
-  - Coursera set to roughly double its private valuation in impending IPO
+  - Jumio raises $150M as its all-in-one ID authentication platform crosses 300M verified identities
       <hr/>
       
-      - *At its most generous share count and highest projected price, Coursera's valuation could reach $5.56 billion.*
+      - *Digital identity services — used as a key link between organizations to verify that you are who you say you are online and individuals logging into those services — have come into their own in this past year. The pandemic has precipitated a shift where many s…*
        
-  - Box shares rise on report company is exploring sale
+  - Jeff raises $1M to build alternative credit scoring and other fintech products for Southeast Asia
       <hr/>
        
-       - *Shares of Box, a well-known content-and-collaboration company that went public in 2015, rose today after Reuters reported that the company is exploring a sale. TechCrunch previously discussed rising investor pressure for Box to ignite its share price after ye…*
+       - *According to the World Bank, more than one billion people in South and East Asia lack access to a bank account. For many, this makes it is difficult to secure loans and other services because they don’t have traditional financial records like a credit score. …*
       
 
 <br />
