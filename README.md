@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Cross-border fintech Airwallex raises $100M Series D extension at new valuation of $2.6B
+  - Motosumo scores $6M to spin up a challenge to Peloton
      <hr/>
      
-      - *Airwallex, the fintech company for cross-border businesses, announced today it has added $100 million more to its Series D round, bumping its valuation up to $2.6 billion. The extension was led by Greenoaks, with participation from Grok Ventures and returning…*
+      - *Denmark-based Motosumo has scored a $6M Series A raise led by London’s Magenta Partners, alongside existing investors. The new funding will go on doubling its network of spin class instructors across Europe, North America, Asia and Australia, expanding its te…*
      
-  - Y Combinator widens its bet in edtech in latest batch
+  - Elon Musk declares you can now buy a Tesla with Bitcoin in the U.S.
       <hr/>
       
-      - *Y Combinator is slowly growing its stake in education companies, as the sector balloons with newfound demand from remote learners. In its latest batch, the famed accelerator had its highest number of edtech startups yet: 14 companies from around the world, wo…*
+      - *Tesla made headlines earlier this year when it took out significant holdings in bitcoin, acquiring a roughly $1.5 billion stake at then-prices in early February. At the time, it also noted in an SEC filing disclosing the transaction that it could also eventua…*
       
-  - Daily Crunch: OnePlus announces its first smartwatch
+  - Berlin's Blacklane raises $26M to expand its high-end chauffeur-driven sustainable car service
       <hr/>
       
-      - *OnePlus unveils new hardware, Apple updates its educational offerings and Facebook reveals plans for its next developer conference. This is your Daily Crunch for March 23, 2021. The big story: OnePlus announces its first smartwatch The Chinese smartphone make…*
+      - *As the Ubers of the world continue to scale, a smaller on-demand transportation startup has raised some funding in Germany, underscoring the opportunities that remain for startups in the space targeting specific service niches. Blacklane — the Berlin startup …*
       
-  - Our favorite companies from Y Combinator's W21 Demo Day: Part 1
+  - Hopper raises $170M and partners with Capital One on a new cardholder travel booking portal
       <hr/>
       
-      - *If you don't have time to skim through 300+ startups, we've aggregated some of the companies that really managed to catch our eye. This is part one of two, covering our favorites from the companies that launched in the first half of the day.*
+      - *Canadian travel startup Hopper has raised a $170 million Series F round, led by Capital One. The U.S. banks and credit card company is also coming on board as a strategic partner, to launch Capital One Travel, which is the first instantiation of Hopper’s new …*
        
-  - This Y Combinator startup is taking lab grown meat upscale with elk, lamb, and wagyu beef cell lines
+  - Indian fantasy sports app Dream11's parent firm raises $400 million
       <hr/>
        
-       - *Last week a select group of 20 employees and guests gathered at an event space on the San Francisco Bay, and, while looking out at the Bay Bridge dined on a selection of choice elk sausages, wagyu meatloaf, and lamb burgers — all of which were grown from a pe…*
+       - *Dream Sports, the parent firm of fantasy sports app Dream11, has secured $400 million in a new financing round as the Mumbai-headquartered firm builds what it calls an “end-to-end sports tech company” in the cricket-loving nation, which is also the world’s se…*
       
 
 <br />
