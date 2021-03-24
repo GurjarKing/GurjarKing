@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - D2C furniture startups Tylko closes $26M Series C  growth round led by Pitango and Evli
+  - Cross-border fintech Airwallex raises $100M Series D extension at new valuation of $2.6B
      <hr/>
      
-      - *Polish startup Tylko, a modular furniture company that employs Augmented Reality as part of its sales cycle, has closed a €22 million ($26m) investment Series C funding round, led by Israel-based Pitango Growth and Finnish Evli Growth Partners, following prev…*
+      - *Airwallex, the fintech company for cross-border businesses, announced today it has added $100 million more to its Series D round, bumping its valuation up to $2.6 billion. The extension was led by Greenoaks, with participation from Grok Ventures and returning…*
      
-  - Real estate platform Loft raises $425M at a $2.2B valuation in one of Brazil's largest venture rounds
+  - Y Combinator widens its bet in edtech in latest batch
       <hr/>
       
-      - *Buying and selling residential real estate is a complex business, no matter where you live. A slew of startups in the United States are focused on streamlining that process for people. But in Brazil, where no MLS exists, the challenge of digitizing real estat…*
+      - *Y Combinator is slowly growing its stake in education companies, as the sector balloons with newfound demand from remote learners. In its latest batch, the famed accelerator had its highest number of edtech startups yet: 14 companies from around the world, wo…*
       
-  - Insuretech startup Counterpart raises $10M in funding round led by Valor Equity Partners
+  - Daily Crunch: OnePlus announces its first smartwatch
       <hr/>
       
-      - *Insuretech startup Counterpart, has raised $10 million in funding led by Valor Equity Partners. Also participating was Susa Ventures and Felicis Ventures. Counterpart works in the ‘management liability’ insurance market. Counterpart will also partner with Mar…*
+      - *OnePlus unveils new hardware, Apple updates its educational offerings and Facebook reveals plans for its next developer conference. This is your Daily Crunch for March 23, 2021. The big story: OnePlus announces its first smartwatch The Chinese smartphone make…*
       
-  - Jumio raises $150M as its all-in-one ID authentication platform crosses 300M verified identities
+  - Our favorite companies from Y Combinator's W21 Demo Day: Part 1
       <hr/>
       
-      - *Digital identity services — used as a key link between organizations to verify that you are who you say you are online and individuals logging into those services — have come into their own in this past year. The pandemic has precipitated a shift where many s…*
+      - *If you don't have time to skim through 300+ startups, we've aggregated some of the companies that really managed to catch our eye. This is part one of two, covering our favorites from the companies that launched in the first half of the day.*
        
-  - Jeff raises $1M to build alternative credit scoring and other fintech products for Southeast Asia
+  - This Y Combinator startup is taking lab grown meat upscale with elk, lamb, and wagyu beef cell lines
       <hr/>
        
-       - *According to the World Bank, more than one billion people in South and East Asia lack access to a bank account. For many, this makes it is difficult to secure loans and other services because they don’t have traditional financial records like a credit score. …*
+       - *Last week a select group of 20 employees and guests gathered at an event space on the San Francisco Bay, and, while looking out at the Bay Bridge dined on a selection of choice elk sausages, wagyu meatloaf, and lamb burgers — all of which were grown from a pe…*
       
 
 <br />
