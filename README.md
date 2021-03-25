@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Motosumo scores $6M to spin up a challenge to Peloton
+  - Steady's Adam Roseman and investor Emmalyn Shaw outline what worked (and what was missing) in the Series A deck
      <hr/>
      
-      - *Denmark-based Motosumo has scored a $6M Series A raise led by London’s Magenta Partners, alongside existing investors. The new funding will go on doubling its network of spin class instructors across Europe, North America, Asia and Australia, expanding its te…*
+      - *Steady founder and CEO Adam Roseman and Flourish Ventures' Emmalyn Shaw joined Jordan Crook for a recent episode of Extra Crunch Live.*
      
-  - Elon Musk declares you can now buy a Tesla with Bitcoin in the U.S.
+  - The best logos of Y Combinator's W21 batch
       <hr/>
       
-      - *Tesla made headlines earlier this year when it took out significant holdings in bitcoin, acquiring a roughly $1.5 billion stake at then-prices in early February. At the time, it also noted in an SEC filing disclosing the transaction that it could also eventua…*
+      - *Our picks for the most intriguing companies of Y Combinator’s latest batch were based entirely on substance and our endless expertise, so it’s time for something much more superficial. Here are the 11 best logos from the hundreds of companies that presented y…*
       
-  - Berlin's Blacklane raises $26M to expand its high-end chauffeur-driven sustainable car service
+  - Daily Crunch: Don't panic about Slack's new Connect feature
       <hr/>
       
-      - *As the Ubers of the world continue to scale, a smaller on-demand transportation startup has raised some funding in Germany, underscoring the opportunities that remain for startups in the space targeting specific service niches. Blacklane — the Berlin startup …*
+      - *Slack launches a new direct messaging feature, Amazon Web Services gets a new leader and we round up our favorite Y Combinator startups. This is your Daily Crunch for March 24, 2021. The big story: Don’t panic about Slack’s new Connect feature Slack recently …*
       
-  - Hopper raises $170M and partners with Capital One on a new cardholder travel booking portal
+  - Why Adam Selipsky was the logical choice to run AWS
       <hr/>
       
-      - *Canadian travel startup Hopper has raised a $170 million Series F round, led by Capital One. The U.S. banks and credit card company is also coming on board as a strategic partner, to launch Capital One Travel, which is the first instantiation of Hopper’s new …*
+      - *When AWS CEO Andy Jassy announced in an email to employees yesterday that Tableau CEO Adam Selipsky was returning to run AWS, it was probably not the choice most considered. But to the industry watchers we spoke to over the last couple of days, it was a move …*
        
-  - Indian fantasy sports app Dream11's parent firm raises $400 million
+  - The return of neighborhood retail and other surprising real estate trends
       <hr/>
        
-       - *Dream Sports, the parent firm of fantasy sports app Dream11, has secured $400 million in a new financing round as the Mumbai-headquartered firm builds what it calls an “end-to-end sports tech company” in the cricket-loving nation, which is also the world’s se…*
+       - *As shocking as it sounds, we could be entering a much better era for small, local businesses.*
       
 
 <br />
