@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Steady's Adam Roseman and investor Emmalyn Shaw outline what worked (and what was missing) in the Series A deck
+  - PPRO extends latest round to $270M, adding JPMorgan and Eldridge to grow its localized payments platform
      <hr/>
      
-      - *Steady founder and CEO Adam Roseman and Flourish Ventures' Emmalyn Shaw joined Jordan Crook for a recent episode of Extra Crunch Live.*
+      - *In January, localized payments provider PPRO became the latest fintech-as-a-service startup to hit a billion-dollar valuation when it closed $180 million in funding. As a mark of how payments and e-commerce continue to be major areas of focus in the global ec…*
      
-  - The best logos of Y Combinator's W21 batch
+  - Brazil's iFood launches outlines sustainability initiatives aiming to reduce its carbon footprint
       <hr/>
       
-      - *Our picks for the most intriguing companies of Y Combinator’s latest batch were based entirely on substance and our endless expertise, so it’s time for something much more superficial. Here are the 11 best logos from the hundreds of companies that presented y…*
+      - *The Brazilian-based pan-Latin American food delivery startup iFood has announced a series of initiatives designed to reduce the company’s environmental impact as consumers push companies to focus more on sustainability. The program has two main components — o…*
       
-  - Daily Crunch: Don't panic about Slack's new Connect feature
+  - FatFace tells customers to keep its data breach 'strictly private'
       <hr/>
       
-      - *Slack launches a new direct messaging feature, Amazon Web Services gets a new leader and we round up our favorite Y Combinator startups. This is your Daily Crunch for March 24, 2021. The big story: Don’t panic about Slack’s new Connect feature Slack recently …*
+      - *Employees had their National Insurance numbers and bank account details taken.*
       
-  - Why Adam Selipsky was the logical choice to run AWS
+  - Better Health raises $3.5M seed round to reinvent medical supply shopping through e-commerce
       <hr/>
       
-      - *When AWS CEO Andy Jassy announced in an email to employees yesterday that Tableau CEO Adam Selipsky was returning to run AWS, it was probably not the choice most considered. But to the industry watchers we spoke to over the last couple of days, it was a move …*
+      - *The home medical supply market in the U.S. is significant and growing, but the way that Americans go about getting much-needed medical supplies, particularly for those with chronic conditions, relies on outdated and clumsy sales mechanisms that often have ver…*
        
-  - The return of neighborhood retail and other surprising real estate trends
+  - Argentina's Digital House raises over $50M to help solve LatAm's tech talent shortage
       <hr/>
        
-       - *As shocking as it sounds, we could be entering a much better era for small, local businesses.*
+       - *Digital House, a Buenos Aires-based edtech focused on developing tech talent through immersive remote courses, announced today it has raised more than $50 million in new funding. Notably, two of the main investors are not venture capital firms but instead are…*
       
 
 <br />
