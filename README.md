@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - PPRO extends latest round to $270M, adding JPMorgan and Eldridge to grow its localized payments platform
+  - These House hearings on tech are a waste of time and everyone knows it
      <hr/>
      
-      - *In January, localized payments provider PPRO became the latest fintech-as-a-service startup to hit a billion-dollar valuation when it closed $180 million in funding. As a mark of how payments and e-commerce continue to be major areas of focus in the global ec…*
+      - *If Congress wants to write laws that effectively regulate companies like Facebook, Google and Twitter, it needs to change the ways it interacts with those companies, because these hearings ain’t it. They’re a waste of everyone’s time, and no one is even prete…*
      
-  - Brazil's iFood launches outlines sustainability initiatives aiming to reduce its carbon footprint
+  - Porsche adds the all-electric Taycan to its subscription program
       <hr/>
       
-      - *The Brazilian-based pan-Latin American food delivery startup iFood has announced a series of initiatives designed to reduce the company’s environmental impact as consumers push companies to focus more on sustainability. The program has two main components — o…*
+      - *Porsche has added its first all-electric vehicle, the Taycan sports sedan, to its subscription and short-term rental program as part of a broader expansion that aims to build a new customer base of U.S. owners. The German automaker said Thursday it is also ex…*
       
-  - FatFace tells customers to keep its data breach 'strictly private'
+  - Twitter CEO Jack Dorsey busted for tweeting during congressional hearing
       <hr/>
       
-      - *Employees had their National Insurance numbers and bank account details taken.*
+      - *Twitter CEO Jack Dorsey got called out by Rep. Kathleen Rice (D-NY) for tweeting during today’s congressional hearing on disinformation and extremism. The tech exec’s tweet was likely expressing frustration with the format of the hearing, which once again saw…*
       
-  - Better Health raises $3.5M seed round to reinvent medical supply shopping through e-commerce
+  - Former Blue Apron CEO Matt Salzberg raises $25M for his new venture studio Material
       <hr/>
       
-      - *The home medical supply market in the U.S. is significant and growing, but the way that Americans go about getting much-needed medical supplies, particularly for those with chronic conditions, relies on outdated and clumsy sales mechanisms that often have ver…*
+      - *Matt Salzberg, who co-founded and served as CEO of meal kit startup Blue Apron until 2017, is back in the startup business with a new venture studio called Material. Along with Salzberg, Material is led by partners Andy Salamon (formerly a general partner at …*
        
-  - Argentina's Digital House raises over $50M to help solve LatAm's tech talent shortage
+  - Pussy Riot shows the cypherpunk power of feminist NFTs
       <hr/>
        
-       - *Digital House, a Buenos Aires-based edtech focused on developing tech talent through immersive remote courses, announced today it has raised more than $50 million in new funding. Notably, two of the main investors are not venture capital firms but instead are…*
+       - *It might seem like everyone and their mom is selling a non-fungible token (NFT) these days, but Pussy Riot co-founder Nadya Tolokonnikova is one of the few strategizing beyond the hype cycle. The NFT market is just getting started, but where is it headed? “I’…*
       
 
 <br />
