@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - These House hearings on tech are a waste of time and everyone knows it
+  - Vibrant raises $7.5M for a drug-free mechanical pill to treat constipation
      <hr/>
      
-      - *If Congress wants to write laws that effectively regulate companies like Facebook, Google and Twitter, it needs to change the ways it interacts with those companies, because these hearings ain’t it. They’re a waste of everyone’s time, and no one is even prete…*
+      - *Vibrant, a medical technology company that’s developed a disposable vibrating pill to treat chronic constipation, today announced its Series E for $7.5 million. The company is based in Tel Aviv and is lead by Lior Ben-Tsur, a startup veteran. Since its foundi…*
      
-  - Porsche adds the all-electric Taycan to its subscription program
+  - Google backs one-year-old Indian startup DotPe in $27.5 million fundraise
       <hr/>
       
-      - *Porsche has added its first all-electric vehicle, the Taycan sports sedan, to its subscription and short-term rental program as part of a broader expansion that aims to build a new customer base of U.S. owners. The German automaker said Thursday it is also ex…*
+      - *Google’s latest investment in India is a startup that is helping businesses come online. One-year-old DotPe, a Gurgaon-based startup, said on Friday it has raised $27.5 million in its Series A financing round. The round was led by PayU, with participation fro…*
       
-  - Twitter CEO Jack Dorsey busted for tweeting during congressional hearing
+  - "Link-in-bio" company Linktree raises $45M Series B for its social commerce features
       <hr/>
       
-      - *Twitter CEO Jack Dorsey got called out by Rep. Kathleen Rice (D-NY) for tweeting during today’s congressional hearing on disinformation and extremism. The tech exec’s tweet was likely expressing frustration with the format of the hearing, which once again saw…*
+      - *If you browse Instagram, you are probably familiar with the term “link in bio.” Links aren’t allowed in post captions, and users are only allowed one URL in their bios, so many create a simple website with multiple links for their followers. Linktree, one of …*
       
-  - Former Blue Apron CEO Matt Salzberg raises $25M for his new venture studio Material
+  - YC-backed Homebase is an alternative to traditional mortgages for home buyers in Vietnam
       <hr/>
       
-      - *Matt Salzberg, who co-founded and served as CEO of meal kit startup Blue Apron until 2017, is back in the startup business with a new venture studio called Material. Along with Salzberg, Material is led by partners Andy Salamon (formerly a general partner at …*
+      - *The home ownership rate in Vietnam is about 90%, but many millennials are struggling to join that number. Rising property prices in cities, coupled with a lack of financing options, mean more people have to delay buying their first homes unless they have fami…*
        
-  - Pussy Riot shows the cypherpunk power of feminist NFTs
+  - Amid pandemic, Middle East adtech startups play essential role in business growth
       <hr/>
        
-       - *It might seem like everyone and their mom is selling a non-fungible token (NFT) these days, but Pussy Riot co-founder Nadya Tolokonnikova is one of the few strategizing beyond the hype cycle. The NFT market is just getting started, but where is it headed? “I’…*
+       - *There is tremendous potential in the Middle East for adtech startups and digital marketing agencies. Although consumers there used to prefer traditional advertising, the internet took over in 2020.*
       
 
 <br />
