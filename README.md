@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch roundup: Clubhouse UX teardown, YC Demo Day favorites, proptech VC survey, more
+  - One of Canada's top investors, John Ruffolo, is back from the brink with a new $500 million fund
      <hr/>
      
-      - *Our reporting team watched more than 300 pitches over 8 hours at YC Demo Day and made a list of their favorite startups.*
+      - *John Ruffolo isn’t as famous as some investors but he’s very well-known in Canadian business circles. The longtime head of Arthur Andersen’s tech, media, and telecommunications practice, he joined OMERS roughly a decade ago when a former colleague became CEO …*
      
+  - Extra Crunch roundup: Clubhouse UX teardown, YC Demo Day favorites, proptech VC survey, more
+      <hr/>
+      
+      - *Our reporting team watched more than 300 pitches over 8 hours at YC Demo Day and made a list of their favorite startups.*
+      
   - Daily Crunch: Amazon makes PR push ahead of union vote
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Net revenue retention is the most underrated metric out there. The greater the NRR, the quicker companies can scale. Simply put: the power of compound math.*
-      
+       
   - Slack wants to be more than a text-based messaging platform
       <hr/>
-      
-      - *Last October as Slack was preparing for its virtual Frontiers conference, the company began thinking about different ways people could communicate on the platform. While it had built its name on being able to integrate a lot of services in a single place to a…*
        
-  - Y Combinator-backed Vue Storefront aims to be the 'glue' for e-commerce
-      <hr/>
-       
-       - *“Headless commerce” is a phrase that gets thrown around lot (I’ve typed it several times today already), but Vue Storefront CEO Patrick Friday has an especially vivid way of using the concept to illustrate his startup’s place in the broader ecosystem. “Vue St…*
+       - *Last October as Slack was preparing for its virtual Frontiers conference, the company began thinking about different ways people could communicate on the platform. While it had built its name on being able to integrate a lot of services in a single place to a…*
       
 
 <br />
