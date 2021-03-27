@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Vibrant raises $7.5M for a drug-free mechanical pill to treat constipation
+  - Extra Crunch roundup: Clubhouse UX teardown, YC Demo Day favorites, proptech VC survey, more
      <hr/>
      
-      - *Vibrant, a medical technology company that’s developed a disposable vibrating pill to treat chronic constipation, today announced its Series E for $7.5 million. The company is based in Tel Aviv and is lead by Lior Ben-Tsur, a startup veteran. Since its foundi…*
+      - *Our reporting team watched more than 300 pitches over 8 hours at YC Demo Day and made a list of their favorite startups.*
      
-  - Google backs one-year-old Indian startup DotPe in $27.5 million fundraise
+  - Daily Crunch: Amazon makes PR push ahead of union vote
       <hr/>
       
-      - *Google’s latest investment in India is a startup that is helping businesses come online. One-year-old DotPe, a Gurgaon-based startup, said on Friday it has raised $27.5 million in its Series A financing round. The round was led by PayU, with participation fro…*
+      - *Amazon pushes back against unionization, WeWork eyes the SPAC route and there’s new spyware on Android. This is your Daily Crunch for March 26, 2021. The big story: Amazon makes PR push ahead of union vote Workers at Amazon’s fulfillment center in Bessemer, A…*
       
-  - "Link-in-bio" company Linktree raises $45M Series B for its social commerce features
+  - How our SaaS startup improved net revenue retention by more than 30 points in two quarters
       <hr/>
       
-      - *If you browse Instagram, you are probably familiar with the term “link in bio.” Links aren’t allowed in post captions, and users are only allowed one URL in their bios, so many create a simple website with multiple links for their followers. Linktree, one of …*
+      - *Net revenue retention is the most underrated metric out there. The greater the NRR, the quicker companies can scale. Simply put: the power of compound math.*
       
-  - YC-backed Homebase is an alternative to traditional mortgages for home buyers in Vietnam
+  - Slack wants to be more than a text-based messaging platform
       <hr/>
       
-      - *The home ownership rate in Vietnam is about 90%, but many millennials are struggling to join that number. Rising property prices in cities, coupled with a lack of financing options, mean more people have to delay buying their first homes unless they have fami…*
+      - *Last October as Slack was preparing for its virtual Frontiers conference, the company began thinking about different ways people could communicate on the platform. While it had built its name on being able to integrate a lot of services in a single place to a…*
        
-  - Amid pandemic, Middle East adtech startups play essential role in business growth
+  - Y Combinator-backed Vue Storefront aims to be the 'glue' for e-commerce
       <hr/>
        
-       - *There is tremendous potential in the Middle East for adtech startups and digital marketing agencies. Although consumers there used to prefer traditional advertising, the internet took over in 2020.*
+       - *“Headless commerce” is a phrase that gets thrown around lot (I’ve typed it several times today already), but Vue Storefront CEO Patrick Friday has an especially vivid way of using the concept to illustrate his startup’s place in the broader ecosystem. “Vue St…*
       
 
 <br />
