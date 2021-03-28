@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - One of Canada's top investors, John Ruffolo, is back from the brink with a new $500 million fund
+  - Apple releases iPhone, iPad, Watch security patch for zero-day bug under active attack
      <hr/>
      
-      - *John Ruffolo isn’t as famous as some investors but he’s very well-known in Canadian business circles. The longtime head of Arthur Andersen’s tech, media, and telecommunications practice, he joined OMERS roughly a decade ago when a former colleague became CEO …*
+      - *The bug is being "actively exploited" by hackers, Apple says.*
      
-  - Extra Crunch roundup: Clubhouse UX teardown, YC Demo Day favorites, proptech VC survey, more
+  - How I Podcast: Science Vs's Rose Rimler
       <hr/>
       
-      - *Our reporting team watched more than 300 pitches over 8 hours at YC Demo Day and made a list of their favorite startups.*
+      - *The beauty of podcasting is that anyone can do it. It’s a rare medium that’s nearly as easy to make as it is to consume. And as such, no two people do it exactly the same way. There are a wealth of hardware and software solutions open to potential podcasters,…*
       
-  - Daily Crunch: Amazon makes PR push ahead of union vote
+  - Well that was a crazy week
       <hr/>
       
-      - *Amazon pushes back against unionization, WeWork eyes the SPAC route and there’s new spyware on Android. This is your Daily Crunch for March 26, 2021. The big story: Amazon makes PR push ahead of union vote Workers at Amazon’s fulfillment center in Bessemer, A…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Well that was a crazy week I may be getting older, but it does…*
       
-  - How our SaaS startup improved net revenue retention by more than 30 points in two quarters
+  - The disconnect between Y Combinator Demo Day and due diligence
       <hr/>
       
-      - *Net revenue retention is the most underrated metric out there. The greater the NRR, the quicker companies can scale. Simply put: the power of compound math.*
+      - *Within 48 hours, the startup world experienced two momentous events: Y Combinator’s largest Demo Day ever, and the early investor exodus of Dispo, a photo-sharing app. Both events, while seemingly unrelated, taught us a lot about the importance, and difficult…*
        
-  - Slack wants to be more than a text-based messaging platform
+  - With an ARR topping $250 million,  LA's vertical SAAS superstar ServiceTitan is now worth $8.3 billion
       <hr/>
        
-       - *Last October as Slack was preparing for its virtual Frontiers conference, the company began thinking about different ways people could communicate on the platform. While it had built its name on being able to integrate a lot of services in a single place to a…*
+       - *Who knew building a vertical software as a service toolkit focused on home heating and cooling could be worth $8.3 billion? That’s how much Los Angeles-based ServiceTitan, a startup founded just eight years ago is worth now, thanks to some massive tailwinds a…*
       
 
 <br />
