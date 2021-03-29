@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - To improve accountability, Norrsken VC ties partner compensation to its portfolio's sustainable successes
+  - The Station: Breaking down TuSimple's S-1
      <hr/>
      
-      - *With the close of its latest investment fund, Norrsken VC is is taking an unprecedented step in tying the compensation of its partners to the positive changes the firm’s portfolio companies have on the world — and not just their financial returns. The firm, w…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi friends and new readers, welcome to The Station. A few items before we jump into the news. Rebecca…*
      
-  - Apple releases iPhone, iPad, Watch security patch for zero-day bug under active attack
+  - DiDi Chuxing expands to South Africa, to take on Bolt and Uber
       <hr/>
       
-      - *The bug is being "actively exploited" by hackers, Apple says.*
+      - *Chinese ride-hailing company, DiDi Chuxing has started operations in South Africa today according to Reuters. Founded in 2012, the Beijing based company operates in more than 400 cities in China. It claims to serve over 550 million users in 16 countries acros…*
       
-  - How I Podcast: Science Vs's Rose Rimler
+  - This is Boston Dynamics’ next commercial robot
       <hr/>
       
-      - *The beauty of podcasting is that anyone can do it. It’s a rare medium that’s nearly as easy to make as it is to consume. And as such, no two people do it exactly the same way. There are a wealth of hardware and software solutions open to potential podcasters,…*
+      - *Boston Dynamics’ transition from a decades-long research robotics firm to a company that productizes and sells hardware has been a fascinating one to watch. There have been some tough lessons along the way, including the very real lesson that at the end of th…*
       
-  - Well that was a crazy week
+  - Singular is a new Paris-based VC firm with $265 million
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Well that was a crazy week I may be getting older, but it does…*
+      - *Meet Singular, a new VC firm based in Paris that just finished raising its initial fund. The firm was founded by two former Alven partners — Raffi Kamber and Jérémy Uzan. They have some ambitious goals and an interesting investment model that could help them …*
        
-  - The disconnect between Y Combinator Demo Day and due diligence
+  - UK's Cazoo will list on the NYSE by way of a SPAC, valuing it at $7B and raising $1.6B
       <hr/>
        
-       - *Within 48 hours, the startup world experienced two momentous events: Y Combinator’s largest Demo Day ever, and the early investor exodus of Dispo, a photo-sharing app. Both events, while seemingly unrelated, taught us a lot about the importance, and difficult…*
+       - *Cazoo, the UK used-car sales portal that has been on a major fundraising tear in the last year, will be next company to pursue more growth by way of a SPAC: the company today announced that it will list on the NYSE by way of a business combination with AJAX I…*
       
 
 <br />
