@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Apple releases iPhone, iPad, Watch security patch for zero-day bug under active attack
+  - To improve accountability, Norrsken VC ties partner compensation to its portfolio's sustainable successes
      <hr/>
      
-      - *The bug is being "actively exploited" by hackers, Apple says.*
+      - *With the close of its latest investment fund, Norrsken VC is is taking an unprecedented step in tying the compensation of its partners to the positive changes the firm’s portfolio companies have on the world — and not just their financial returns. The firm, w…*
      
+  - Apple releases iPhone, iPad, Watch security patch for zero-day bug under active attack
+      <hr/>
+      
+      - *The bug is being "actively exploited" by hackers, Apple says.*
+      
   - How I Podcast: Science Vs's Rose Rimler
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Well that was a crazy week I may be getting older, but it does…*
-      
+       
   - The disconnect between Y Combinator Demo Day and due diligence
       <hr/>
-      
-      - *Within 48 hours, the startup world experienced two momentous events: Y Combinator’s largest Demo Day ever, and the early investor exodus of Dispo, a photo-sharing app. Both events, while seemingly unrelated, taught us a lot about the importance, and difficult…*
        
-  - With an ARR topping $250 million,  LA's vertical SAAS superstar ServiceTitan is now worth $8.3 billion
-      <hr/>
-       
-       - *Who knew building a vertical software as a service toolkit focused on home heating and cooling could be worth $8.3 billion? That’s how much Los Angeles-based ServiceTitan, a startup founded just eight years ago is worth now, thanks to some massive tailwinds a…*
+       - *Within 48 hours, the startup world experienced two momentous events: Y Combinator’s largest Demo Day ever, and the early investor exodus of Dispo, a photo-sharing app. Both events, while seemingly unrelated, taught us a lot about the importance, and difficult…*
       
 
 <br />
