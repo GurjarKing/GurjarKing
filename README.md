@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Jake Paul looks to knock out the venture capital world with Anti Fund
+  - LinkedIn adds Creator mode, video profiles, and in partnership with Microsoft, new career training tools
      <hr/>
      
-      - *During every economic boom, there are startup investors who appear on the scene from new corners. Some churn out; others earn the respect of the old guard over time. Jake Paul would be happy to be in the latter camp. Then again, the 24-year-old didn’t become …*
+      - *LinkedIn, the social network now with 740 million users around the world, has carved out an identity for itself as the place online where professionals go to list their places of work, get headhunted for other work, and look for work. But for years it’s been …*
      
-  - LIVEKINDLY screams its way to the top of new plant brands with the close of a $335 million round
+  - Weather platform ClimaCell is now Tomorrow.io and raises $77M
       <hr/>
       
-      - *LIVEKINDLY Collective, the shouty parent company behind a family of plant-based food brands, has snagged cash from the global impact investing arm of $103 billion dollar investment firm TPG to close its latest round of funding at $335 million. The company’s f…*
+      - *Weather intelligence platform ClimaCell today announced that it has raised a $77 million Series D funding round led by private equity firm Stonecourt Capital, with participation by Highline Capital. This brings the company’s total funding to about $185 millio…*
       
-  - Daily Crunch: Boston Dynamics shows off its next commercial robot
+  - Virgin Galactic debuts its first third-generation spaceship, 'VSS Imagine'
       <hr/>
       
-      - *We’ve got the details on Boston Dynamics’ upcoming warehouse robot Stretch, Apple releases security patches and Cazoo is going public via SPAC. This is your Daily Crunch for March 29, 2021. The big story: Boston Dynamics shows off its next commercial robot Bo…*
+      - *Commercial human spaceflight company Virgin Galactic has unveiled the first ever Spaceship III, the third major iteration of its spacecraft design. The first in this new series is called ‘VSS (Virgin SpaceShip) Imagine,’ and will start ground testing now with…*
       
-  - Ramp looks to raise more capital as the corporate-spend market mints unicorns
+  - HYCU raises $87.5M to take on Rubrik and the rest in multi-cloud data backup and recovery
       <hr/>
       
-      - *Earlier this year Divvy, a Utah-based software company that provides corporate spend management software, raised a $165 million round at a $1.6 billion valuation. It followed its competitor Brex to unicorn-status as the market for financial services software …*
+      - *As more companies become ever more reliant on digital infrastructure for everyday work, the more they become major targets for malicious hackers — both trends accelerated by the pandemic — and that is leading to an ever-greater need for IT and security depart…*
        
-  - ABB and AWS team up to create an EV fleet management platform
+  - Ecovative sees a fungal future for fashion, food, and foam packaging and has a fresh $60M  to make it
       <hr/>
        
-       - *Swiss automation and technology company ABB has announced a partnership with Amazon Web Services (AWS) to create a cloud-based EV fleet management platform that it hopes will hasten the electrification of fleets. The platform, which the company says will help…*
+       - *Eben Bayer has spent the better part of fourteen years proving out the power of the humble mushroom as the world’s truly functional food.  As the chief executive and founder of Ecovative Design, Bayer has made replacements for foam packaging, lamps and furnit…*
       
 
 <br />
