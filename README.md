@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The Station: Breaking down TuSimple's S-1
+  - Jake Paul looks to knock out the venture capital world with Anti Fund
      <hr/>
      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi friends and new readers, welcome to The Station. A few items before we jump into the news. Rebecca…*
+      - *During every economic boom, there are startup investors who appear on the scene from new corners. Some churn out; others earn the respect of the old guard over time. Jake Paul would be happy to be in the latter camp. Then again, the 24-year-old didn’t become …*
      
-  - DiDi Chuxing expands to South Africa, to take on Bolt and Uber
+  - LIVEKINDLY screams its way to the top of new plant brands with the close of a $335 million round
       <hr/>
       
-      - *Chinese ride-hailing company, DiDi Chuxing has started operations in South Africa today according to Reuters. Founded in 2012, the Beijing based company operates in more than 400 cities in China. It claims to serve over 550 million users in 16 countries acros…*
+      - *LIVEKINDLY Collective, the shouty parent company behind a family of plant-based food brands, has snagged cash from the global impact investing arm of $103 billion dollar investment firm TPG to close its latest round of funding at $335 million. The company’s f…*
       
-  - This is Boston Dynamics’ next commercial robot
+  - Daily Crunch: Boston Dynamics shows off its next commercial robot
       <hr/>
       
-      - *Boston Dynamics’ transition from a decades-long research robotics firm to a company that productizes and sells hardware has been a fascinating one to watch. There have been some tough lessons along the way, including the very real lesson that at the end of th…*
+      - *We’ve got the details on Boston Dynamics’ upcoming warehouse robot Stretch, Apple releases security patches and Cazoo is going public via SPAC. This is your Daily Crunch for March 29, 2021. The big story: Boston Dynamics shows off its next commercial robot Bo…*
       
-  - Singular is a new Paris-based VC firm with $265 million
+  - Ramp looks to raise more capital as the corporate-spend market mints unicorns
       <hr/>
       
-      - *Meet Singular, a new VC firm based in Paris that just finished raising its initial fund. The firm was founded by two former Alven partners — Raffi Kamber and Jérémy Uzan. They have some ambitious goals and an interesting investment model that could help them …*
+      - *Earlier this year Divvy, a Utah-based software company that provides corporate spend management software, raised a $165 million round at a $1.6 billion valuation. It followed its competitor Brex to unicorn-status as the market for financial services software …*
        
-  - UK's Cazoo will list on the NYSE by way of a SPAC, valuing it at $7B and raising $1.6B
+  - ABB and AWS team up to create an EV fleet management platform
       <hr/>
        
-       - *Cazoo, the UK used-car sales portal that has been on a major fundraising tear in the last year, will be next company to pursue more growth by way of a SPAC: the company today announced that it will list on the NYSE by way of a business combination with AJAX I…*
+       - *Swiss automation and technology company ABB has announced a partnership with Amazon Web Services (AWS) to create a cloud-based EV fleet management platform that it hopes will hasten the electrification of fleets. The platform, which the company says will help…*
       
 
 <br />
