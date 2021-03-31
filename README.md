@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - LinkedIn adds Creator mode, video profiles, and in partnership with Microsoft, new career training tools
+  - Apple Maps adds COVID-19 travel guidance for over 300 airports worldwide
      <hr/>
      
-      - *LinkedIn, the social network now with 740 million users around the world, has carved out an identity for itself as the place online where professionals go to list their places of work, get headhunted for other work, and look for work. But for years it’s been …*
+      - *Apple has updated its native Maps app with more helpful information designed to assist with travel while mitigating the spread of COVID-19. Apple Maps on iPhone, iPad and Mac will now show COVID-19 health measure information for airports when searched via the…*
      
-  - Weather platform ClimaCell is now Tomorrow.io and raises $77M
+  - Free Extra Crunch membership included with TC Early Stage tickets
       <hr/>
       
-      - *Weather intelligence platform ClimaCell today announced that it has raised a $77 million Series D funding round led by private equity firm Stonecourt Capital, with participation by Highline Capital. This brings the company’s total funding to about $185 millio…*
+      - *TechCrunch Early Stage is coming up this week, and all attendees can get three months of free access to Extra Crunch as a part of a ticket purchase. Extra Crunch is our members-only community focused on founders and startup teams, and it features over 100 exc…*
       
-  - Virgin Galactic debuts its first third-generation spaceship, 'VSS Imagine'
+  - Amazon acquires Indian retail startup Perpule
       <hr/>
       
-      - *Commercial human spaceflight company Virgin Galactic has unveiled the first ever Spaceship III, the third major iteration of its spacecraft design. The first in this new series is called ‘VSS (Virgin SpaceShip) Imagine,’ and will start ground testing now with…*
+      - *Amazon has acquired a startup in India that is helping offline stores go online, the e-commerce group’s latest attempt to make inroads in the world’s second most populous nation where brick and mortar continue to drive more than 95% of sales. The American e-c…*
       
-  - HYCU raises $87.5M to take on Rubrik and the rest in multi-cloud data backup and recovery
+  - Applications for Startup Battlefield at TC Disrupt 2021 are now open
       <hr/>
       
-      - *As more companies become ever more reliant on digital infrastructure for everyday work, the more they become major targets for malicious hackers — both trends accelerated by the pandemic — and that is leading to an ever-greater need for IT and security depart…*
+      - *Applications for Startup Battlefield are now open! Founders, this past year has been challenging in ways words can’t encompass. But you are persevering and now is the time to show the world what you have been working on. TechCrunch is on the hunt for game-cha…*
        
-  - Ecovative sees a fungal future for fashion, food, and foam packaging and has a fresh $60M  to make it
+  - NFT art marketplace SuperRare closes $9 million Series A
       <hr/>
        
-       - *Eben Bayer has spent the better part of fourteen years proving out the power of the humble mushroom as the world’s truly functional food.  As the chief executive and founder of Ecovative Design, Bayer has made replacements for foam packaging, lamps and furnit…*
+       - *The NFT ecosystem is having an explosive moment and the startups that were ready to run with it are getting lots of cash to continue capturing that momentum. SuperRare, an NFT art platform that has garnered tens of millions in new sales in recent weeks, has j…*
       
 
 <br />
