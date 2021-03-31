@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Apple Maps adds COVID-19 travel guidance for over 300 airports worldwide
+  - Apple invests $50M into music distributor UnitedMasters alongside A16z and Alphabet
      <hr/>
      
-      - *Apple has updated its native Maps app with more helpful information designed to assist with travel while mitigating the spread of COVID-19. Apple Maps on iPhone, iPad and Mac will now show COVID-19 health measure information for airports when searched via the…*
+      - *Independent music distribution platform and tool factory UnitedMasters has raised a $50M series B round led by Apple. A16z and Alphabet are participating again in this raise. United Masters is also entering a strategic partnership with Apple alongside this in…*
      
-  - Free Extra Crunch membership included with TC Early Stage tickets
+  - Accel-backed mobile money platform NALA to start offering remittance services to East Africa
       <hr/>
       
-      - *TechCrunch Early Stage is coming up this week, and all attendees can get three months of free access to Extra Crunch as a part of a ticket purchase. Extra Crunch is our members-only community focused on founders and startup teams, and it features over 100 exc…*
+      - *According to a McKinsey report, the total number of mobile money services worldwide was 282 in 2017, with more than half of those operating in sub-Saharan Africa.  In 2020, these numbers increased significantly, but the ratio remained similar.  In 96 countrie…*
       
-  - Amazon acquires Indian retail startup Perpule
+  - Kaya VC launches its new $80M fund, focusing on Prague, Warsaw and the CEE region
       <hr/>
       
-      - *Amazon has acquired a startup in India that is helping offline stores go online, the e-commerce group’s latest attempt to make inroads in the world’s second most populous nation where brick and mortar continue to drive more than 95% of sales. The American e-c…*
+      - *Kaya VC’s new €72 million ($80m) fund will focus on startups in Prague, Warsaw and the wider CEE region. Previously called Enern, the Central and Eastern European VC — which, historically, started out investing in wind-farms and ended up invested in software …*
       
-  - Applications for Startup Battlefield at TC Disrupt 2021 are now open
+  - Cryptocurrency wallet and blockchain tech startup imToken raises $30 million Series B
       <hr/>
       
-      - *Applications for Startup Battlefield are now open! Founders, this past year has been challenging in ways words can’t encompass. But you are persevering and now is the time to show the world what you have been working on. TechCrunch is on the hunt for game-cha…*
+      - *imToken, the blockchain tech startup and crypto wallet developer, announced today it has raised $30 million in Series B funding led by Qiming Venture Partners. Participants included returning investor IDG Capital, and new backers Breyer Capital, HashKey, Sign…*
        
-  - NFT art marketplace SuperRare closes $9 million Series A
+  - Remote-controlled forklifts have arrived in France, courtesy of Phantom Auto
       <hr/>
        
-       - *The NFT ecosystem is having an explosive moment and the startups that were ready to run with it are getting lots of cash to continue capturing that momentum. SuperRare, an NFT art platform that has garnered tens of millions in new sales in recent weeks, has j…*
+       - *Global logistics company Geodis has tapped startup Phantom Auto to help it deploy forklifts that can be controlled remotely by human operators located hundreds, and even thousands, of miles away. The aim is to use the technology to reduce operator fatigue — a…*
       
 
 <br />
