@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Apple invests $50M into music distributor UnitedMasters alongside A16z and Alphabet
+  - PingPong is a video chat app for product teams working across multiple time zones
      <hr/>
      
-      - *Independent music distribution platform and tool factory UnitedMasters has raised a $50M series B round led by Apple. A16z and Alphabet are participating again in this raise. United Masters is also entering a strategic partnership with Apple alongside this in…*
+      - *From the earliest days of the pandemic, it was no secret that video chat was about to become a very hot space. Over the past several months investors have bankrolled a handful of video startups with specific niches, ranging from always-on office surveillance …*
      
-  - Accel-backed mobile money platform NALA to start offering remittance services to East Africa
+  - For VC Hans Tung, the personal becomes public in a growing campaign to 'stop Asian hate'
       <hr/>
       
-      - *According to a McKinsey report, the total number of mobile money services worldwide was 282 in 2017, with more than half of those operating in sub-Saharan Africa.  In 2020, these numbers increased significantly, but the ratio remained similar.  In 96 countrie…*
+      - *Longtime venture capitalist Hans Tung is a big guy. His size might just be lifesaving. A first-generation Taiwanese-American who came to the U.S. and to L.A. specifically in 1984, it was a fraught time for the then 14-year-old. Two years earlier, a 27-year-ol…*
       
-  - Kaya VC launches its new $80M fund, focusing on Prague, Warsaw and the CEE region
+  - Daily Crunch: Facebook makes it easier to view a non-algorithmic News Feed
       <hr/>
       
-      - *Kaya VC’s new €72 million ($80m) fund will focus on startups in Prague, Warsaw and the wider CEE region. Previously called Enern, the Central and Eastern European VC — which, historically, started out investing in wind-farms and ended up invested in software …*
+      - *Facebook has some thoughts and updates about its News Feed, Siri gets some new voices and Tonal becomes a unicorn. This is your Daily Crunch for March 31, 2021. The big story: Facebook makes it easier to view a non-algorithmic News Feed Facebook highlighted f…*
       
-  - Cryptocurrency wallet and blockchain tech startup imToken raises $30 million Series B
+  - Sarah Kunst will outline how to get ready to fundraise at Early Stage
       <hr/>
       
-      - *imToken, the blockchain tech startup and crypto wallet developer, announced today it has raised $30 million in Series B funding led by Qiming Venture Partners. Participants included returning investor IDG Capital, and new backers Breyer Capital, HashKey, Sign…*
+      - *Sarah Kunst, founding partner at Cleo Capital, has worn many hats. She’s been an entrepreneur, served on plenty of boards, is a contributing author at Marie Clare, has been a senior advisor to Bumble and worked as a consultant in marketing, business developme…*
        
-  - Remote-controlled forklifts have arrived in France, courtesy of Phantom Auto
+  - Lowkey raises $7 million from a16z to help game streamers capitalize on short-form video
       <hr/>
        
-       - *Global logistics company Geodis has tapped startup Phantom Auto to help it deploy forklifts that can be controlled remotely by human operators located hundreds, and even thousands, of miles away. The aim is to use the technology to reduce operator fatigue — a…*
+       - *While the growth of game-streaming audiences have continued on desktop platforms, the streaming space has felt surprisingly stagnant at times, particularly due to the missing mobile element and a lack of startup competitors. Lowkey, a gaming startup that buil…*
       
 
 <br />
