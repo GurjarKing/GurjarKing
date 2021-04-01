@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - PingPong is a video chat app for product teams working across multiple time zones
+  - Pair Eyewear raises $12M to bring more personality to your glasses
      <hr/>
      
-      - *From the earliest days of the pandemic, it was no secret that video chat was about to become a very hot space. Over the past several months investors have bankrolled a handful of video startups with specific niches, ranging from always-on office surveillance …*
+      - *Pair Eyewear has raised a $12 million Series A to help glasses-wearing kids and adults turn those glasses into what co-CEO Sophia Edelstein called “a form of self-expression.” After all, Edelstein (who founded the company with her co-CEO Nathan Kondamuri) not…*
      
-  - For VC Hans Tung, the personal becomes public in a growing campaign to 'stop Asian hate'
+  - Collaborative iOS app Craft Docs secures $8M, led by Creandum and a 'Skyscanner Mafia'
       <hr/>
       
-      - *Longtime venture capitalist Hans Tung is a big guy. His size might just be lifesaving. A first-generation Taiwanese-American who came to the U.S. and to L.A. specifically in 1984, it was a fraught time for the then 14-year-old. Two years earlier, a 27-year-ol…*
+      - *Launched in only November last year, the Craft Docs app — which was built from the ground up as an iOS app for collaborative documents — has secured an $8 million Series A round led by Creandum. Also participating was InReach Ventures, Gareth Williams, former…*
       
-  - Daily Crunch: Facebook makes it easier to view a non-algorithmic News Feed
+  - Airtel Africa receives additional $100M for its mobile money business from Mastercard
       <hr/>
       
-      - *Facebook has some thoughts and updates about its News Feed, Siri gets some new voices and Tonal becomes a unicorn. This is your Daily Crunch for March 31, 2021. The big story: Facebook makes it easier to view a non-algorithmic News Feed Facebook highlighted f…*
+      - *Two weeks ago, TPG’s Rise Fund invested $200 million in Airtel Mobile Commerce BV (AMC BV) — the mobile money business of London-listed telecom Airtel Africa. After closing the deal, the Bharti Airtel subsidiary noted that it was still in discussions to give …*
       
-  - Sarah Kunst will outline how to get ready to fundraise at Early Stage
+  - Bilibili ups the ante in games with $123 million investment in TapTap
       <hr/>
       
-      - *Sarah Kunst, founding partner at Cleo Capital, has worn many hats. She’s been an entrepreneur, served on plenty of boards, is a contributing author at Marie Clare, has been a senior advisor to Bumble and worked as a consultant in marketing, business developme…*
+      - *Competition in China’s gaming industry is getting stiffer in recent times as tech giants sniff out potential buyouts and investments to beef up their gaming alliance, whether it pertains to content or distribution. Bilibili, the go-to video streaming platform…*
        
-  - Lowkey raises $7 million from a16z to help game streamers capitalize on short-form video
+  - LINE Ventures merges with YJ Capital, launches $271M fund
       <hr/>
        
-       - *While the growth of game-streaming audiences have continued on desktop platforms, the streaming space has felt surprisingly stagnant at times, particularly due to the missing mobile element and a lack of startup competitors. Lowkey, a gaming startup that buil…*
+       - *LINE completed its merger with Yahoo! Japan owner Z Holdings last month, and now the two firm’s venture capital arms have also combined. Z Holdings announced today that its subsidiary, YJ Capital, has merged with LINE Ventures to form Z Venture Capital. The n…*
       
 
 <br />
