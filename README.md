@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Pair Eyewear raises $12M to bring more personality to your glasses
+  - Tech in Mexico: A confluence of Latin America, the US and Asia
      <hr/>
      
-      - *Pair Eyewear has raised a $12 million Series A to help glasses-wearing kids and adults turn those glasses into what co-CEO Sophia Edelstein called “a form of self-expression.” After all, Edelstein (who founded the company with her co-CEO Nathan Kondamuri) not…*
+      - *LatAm entrepreneurs look to Asian tech giants for inspiration because of similar market conditions. But don't treat LatAm countries as a monolith.*
      
-  - Collaborative iOS app Craft Docs secures $8M, led by Creandum and a 'Skyscanner Mafia'
+  - How is edtech spending its extra capital?
       <hr/>
       
-      - *Launched in only November last year, the Craft Docs app — which was built from the ground up as an iOS app for collaborative documents — has secured an $8 million Series A round led by Creandum. Also participating was InReach Ventures, Gareth Williams, former…*
+      - *Edtech unicorns have boatloads of cash to spend following the capital boost to the sector in 2020. As a result, edtech M&A activity has continued to swell.*
       
-  - Airtel Africa receives additional $100M for its mobile money business from Mastercard
+  - Daily Crunch: Tiger Global raises one of the biggest venture funds ever
       <hr/>
       
-      - *Two weeks ago, TPG’s Rise Fund invested $200 million in Airtel Mobile Commerce BV (AMC BV) — the mobile money business of London-listed telecom Airtel Africa. After closing the deal, the Bharti Airtel subsidiary noted that it was still in discussions to give …*
+      - *Tiger Global closes a $6.65 billion fund, Facebook gives users more tools to encourage COVID vaccination and iPhone app spending continues to grow. This is your Daily Crunch for April 1, 2021. The big story: Tiger Global raises one of the biggest venture fund…*
       
-  - Bilibili ups the ante in games with $123 million investment in TapTap
+  - Microsoft outage knocks sites and services offline
       <hr/>
       
-      - *Competition in China’s gaming industry is getting stiffer in recent times as tech giants sniff out potential buyouts and investments to beef up their gaming alliance, whether it pertains to content or distribution. Bilibili, the go-to video streaming platform…*
+      - *Microsoft is experiencing a major outage, so that’s why you can’t get any work done. Besides its homepage, Microsoft services are down, log-in pages aren’t loading, and even the company’s status pages were kaput. Worse, Microsoft’s cloud service Azure appeare…*
        
-  - LINE Ventures merges with YJ Capital, launches $271M fund
+  - Coinbase to direct list on April 14th, provide financial update on April 6th
       <hr/>
        
-       - *LINE completed its merger with Yahoo! Japan owner Z Holdings last month, and now the two firm’s venture capital arms have also combined. Z Holdings announced today that its subsidiary, YJ Capital, has merged with LINE Ventures to form Z Venture Capital. The n…*
+       - *Today Coinbase, an American cryptocurrency trading platform and software company, said that it will begin to trade via a direct listing on April 14th. In a separate release the company also said that it will provide a financial update on April 6th, after the …*
       
 
 <br />
