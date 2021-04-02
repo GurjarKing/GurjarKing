@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Tech in Mexico: A confluence of Latin America, the US and Asia
+  - Don’t miss the Pitch Off today at TC Early Stage 2021
      <hr/>
      
-      - *LatAm entrepreneurs look to Asian tech giants for inspiration because of similar market conditions. But don't treat LatAm countries as a monolith.*
+      - *Ten global startups, three rounds of pitching, nine expert judges. It’s not the 12 Days of Startups (no robotic partridge in a pear tree here), it’s the TC Early Stage Pitch Off — otherwise known as day two of TC Early Stage 2021: Operations & Fundraising. Ye…*
      
+  - Tech in Mexico: A confluence of Latin America, the US and Asia
+      <hr/>
+      
+      - *LatAm entrepreneurs look to Asian tech giants for inspiration because of similar market conditions. But don't treat LatAm countries as a monolith.*
+      
   - How is edtech spending its extra capital?
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Tiger Global closes a $6.65 billion fund, Facebook gives users more tools to encourage COVID vaccination and iPhone app spending continues to grow. This is your Daily Crunch for April 1, 2021. The big story: Tiger Global raises one of the biggest venture fund…*
-      
+       
   - Microsoft outage knocks sites and services offline
       <hr/>
-      
-      - *Microsoft is experiencing a major outage, so that’s why you can’t get any work done. Besides its homepage, Microsoft services are down, log-in pages aren’t loading, and even the company’s status pages were kaput. Worse, Microsoft’s cloud service Azure appeare…*
        
-  - Coinbase to direct list on April 14th, provide financial update on April 6th
-      <hr/>
-       
-       - *Today Coinbase, an American cryptocurrency trading platform and software company, said that it will begin to trade via a direct listing on April 14th. In a separate release the company also said that it will provide a financial update on April 6th, after the …*
+       - *Microsoft is experiencing a major outage, so that’s why you can’t get any work done. Besides its homepage, Microsoft services are down, log-in pages aren’t loading, and even the company’s status pages were kaput. Worse, Microsoft’s cloud service Azure appeare…*
       
 
 <br />
