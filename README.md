@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Don’t miss the Pitch Off today at TC Early Stage 2021
+  - Daily Crunch: Apple Arcade expands with classic games
      <hr/>
      
-      - *Ten global startups, three rounds of pitching, nine expert judges. It’s not the 12 Days of Startups (no robotic partridge in a pear tree here), it’s the TC Early Stage Pitch Off — otherwise known as day two of TC Early Stage 2021: Operations & Fundraising. Ye…*
+      - *Apple adds classic titles to Apple Arcade, Microsoft experiences an outage and Coinbase is going public. This is your Daily Crunch for April 2, 2021. The big story: Apple Arcade expands with classic games Until now, Apple’s game subscription service was limit…*
      
-  - Tech in Mexico: A confluence of Latin America, the US and Asia
+  - Extra Crunch roundup: Tonal EC-1, Deliveroo's rocky IPO, is Substack really worth $650M?
       <hr/>
       
-      - *LatAm entrepreneurs look to Asian tech giants for inspiration because of similar market conditions. But don't treat LatAm countries as a monolith.*
+      - *This week included a deep dive on Tonal, a look at Substack's valuation and how-tos on startup hiring and responding to security breaches.*
       
-  - How is edtech spending its extra capital?
+  - Want to take a road trip with Kevin Costner? Investors are betting you might
       <hr/>
       
-      - *Edtech unicorns have boatloads of cash to spend following the capital boost to the sector in 2020. As a result, edtech M&A activity has continued to swell.*
+      - *Woody Sears has long been interested in storytelling. After spending several years in sales after nabbing an MBA from Pepperdine — and following the debut in 2007 of the first iPhone — he founded a storytelling app called Zuuka that built up a library of narr…*
       
-  - Daily Crunch: Tiger Global raises one of the biggest venture funds ever
+  - Three ways VC firms can construct sustainably diverse portfolios
       <hr/>
       
-      - *Tiger Global closes a $6.65 billion fund, Facebook gives users more tools to encourage COVID vaccination and iPhone app spending continues to grow. This is your Daily Crunch for April 1, 2021. The big story: Tiger Global raises one of the biggest venture fund…*
+      - *Underrepresented founders are the most undervalued asset class in the U.S. today, and investors are starting to realize that diversity is not charity -- it’s economic opportunity.*
        
-  - Microsoft outage knocks sites and services offline
+  - Hack takes: A CISO and a hacker detail how they’d respond to the Exchange breach
       <hr/>
        
-       - *Microsoft is experiencing a major outage, so that’s why you can’t get any work done. Besides its homepage, Microsoft services are down, log-in pages aren’t loading, and even the company’s status pages were kaput. Worse, Microsoft’s cloud service Azure appeare…*
+       - *One of us is a career attacker and the other is a CISO. Here's how we'd respond to an Exchange breach.*
       
 
 <br />
