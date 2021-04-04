@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Apple Arcade expands with classic games
+  - You might have just missed the best time to sell your startup
      <hr/>
      
-      - *Apple adds classic titles to Apple Arcade, Microsoft experiences an outage and Coinbase is going public. This is your Daily Crunch for April 2, 2021. The big story: Apple Arcade expands with classic games Until now, Apple’s game subscription service was limit…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday? Sign up here.  Happy Sat…*
      
-  - Extra Crunch roundup: Tonal EC-1, Deliveroo's rocky IPO, is Substack really worth $650M?
+  - Amazon addresses pee bottle denial tweet
       <hr/>
       
-      - *This week included a deep dive on Tonal, a look at Substack's valuation and how-tos on startup hiring and responding to security breaches.*
+      - *Amazon kicked off the holiday weekend by backtracking slightly on a social media offensive that unfolded in the waning days of a historic unionization vote. The earlier  comments reportedly arrived as Jeff Bezos was pushing for a more aggressive strategy. Alo…*
       
-  - Want to take a road trip with Kevin Costner? Investors are betting you might
+  - Nonobvious acquisitions are on my 2021 bingo board
       <hr/>
       
-      - *Woody Sears has long been interested in storytelling. After spending several years in sales after nabbing an MBA from Pepperdine — and following the debut in 2007 of the first iPhone — he founded a storytelling app called Zuuka that built up a library of narr…*
+      - *At the end of 2020, I argued that edtech needs to think bigger in order to stay relevant after the pandemic. I urged founders to think less about how to bundle and unbundle lecture experience, and more about how to replace outdated systems and methods with ne…*
       
-  - Three ways VC firms can construct sustainably diverse portfolios
+  - How Jamaica failed to handle its JamCOVID scandal
       <hr/>
       
-      - *Underrepresented founders are the most undervalued asset class in the U.S. today, and investors are starting to realize that diversity is not charity -- it’s economic opportunity.*
+      - *Amber Group claimed it faced "cyberattacks, hacking and mischievous players." In reality, the app was just not that secure.*
        
-  - Hack takes: A CISO and a hacker detail how they’d respond to the Exchange breach
+  - NASA SBIR march 21
       <hr/>
        
-       - *One of us is a career attacker and the other is a CISO. Here's how we'd respond to an Exchange breach.*
+       - *NASA’s SBIR program regularly doles out cash to promising small businesses and research programs, and the lists of awardees is always interesting to sift through. Here are a dozen companies and proposals from this batch that are especially compelling or sugge…*
       
 
 <br />
