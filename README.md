@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - You might have just missed the best time to sell your startup
+  - Chinese startups rush to bring alternative protein to people's plates
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Want it in your inbox every Saturday? Sign up here.  Happy Sat…*
+      - *In many ways, China is the ideal testbed for alternative protein. The country has a long history of imitation meat rooted in Buddhist vegetarianism and a growing, health-conscious middle class.*
      
-  - Amazon addresses pee bottle denial tweet
+  - FinanZero, Brazil’s free online credit marketplace, raises $7M
       <hr/>
       
-      - *Amazon kicked off the holiday weekend by backtracking slightly on a social media offensive that unfolded in the waning days of a historic unionization vote. The earlier  comments reportedly arrived as Jeff Bezos was pushing for a more aggressive strategy. Alo…*
+      - *FinanZero, a Brazilian online credit marketplace, announced today that it has closed a $7 million round of funding – its fourth since it launched in 2016 was founded in 2016. It has raised a total of $22.85 million to date. The real-time online loan broker al…*
       
-  - Nonobvious acquisitions are on my 2021 bingo board
+  - Byju's acquires Indian tutor Aakash for nearly $1 billion
       <hr/>
       
-      - *At the end of 2020, I argued that edtech needs to think bigger in order to stay relevant after the pandemic. I urged founders to think less about how to bundle and unbundle lecture experience, and more about how to replace outdated systems and methods with ne…*
+      - *Why did Byju’s raise over $1 billion last year and is already inching closer to securing another half a billion dollars? We are getting some answers today. Byju’s said on Monday it has acquired Aakash Educational, a 33-year-old chain of physical coaching cent…*
       
-  - How Jamaica failed to handle its JamCOVID scandal
+  - Facebook-backed Indian social commerce Meesho raises $300M at $2.1B valuation
       <hr/>
       
-      - *Amber Group claimed it faced "cyberattacks, hacking and mischievous players." In reality, the app was just not that secure.*
+      - *Meesho said on Monday it has raised $300 million in a new financing round led by SoftBank Vision Fund 2 as the Indian social commerce startup works to become the “single ecosystem that will enable all small businesses to succeed online.” The new round — a Ser…*
        
-  - NASA SBIR march 21
+  - LG is shutting down its smartphone business worldwide
       <hr/>
        
-       - *NASA’s SBIR program regularly doles out cash to promising small businesses and research programs, and the lists of awardees is always interesting to sift through. Here are a dozen companies and proposals from this batch that are especially compelling or sugge…*
+       - *LG said on Monday it will close its loss-making mobile phone business worldwide as the once pioneer brand looks to focus its resources in “growth areas” such as electric vehicle components, connected devices, smart homes, robotics, AI and B2B solutions, and p…*
       
 
 <br />
