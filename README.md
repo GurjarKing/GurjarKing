@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Chinese startups rush to bring alternative protein to people's plates
+  - Clubhouse launches payments so creators can make money
      <hr/>
      
-      - *In many ways, China is the ideal testbed for alternative protein. The country has a long history of imitation meat rooted in Buddhist vegetarianism and a growing, health-conscious middle class.*
+      - *Clubhouse, a one-year-old social audio app reportedly valued at $1 billion, will now allow users to send money to their favorite creators — or speakers — on the platform. In a blog post, the startup announced the new monetization feature, Clubhouse Payments, …*
      
-  - FinanZero, Brazil’s free online credit marketplace, raises $7M
+  - Daily Crunch: The Supreme Court sides with Google in Oracle suit
       <hr/>
       
-      - *FinanZero, a Brazilian online credit marketplace, announced today that it has closed a $7 million round of funding – its fourth since it launched in 2016 was founded in 2016. It has raised a total of $22.85 million to date. The real-time online loan broker al…*
+      - *The Supreme Court announces several tech-related rulings, LG will shut down its smartphone business and we take a deep dive into the story of StockX. This is your Daily Crunch for April 5, 2021. The big story: The Supreme Court sides with Google in Oracle sui…*
       
-  - Byju's acquires Indian tutor Aakash for nearly $1 billion
+  - LG's exit from the smartphone market comes as no surprise
       <hr/>
       
-      - *Why did Byju’s raise over $1 billion last year and is already inching closer to securing another half a billion dollars? We are getting some answers today. Byju’s said on Monday it has acquired Aakash Educational, a 33-year-old chain of physical coaching cent…*
+      - *It was time for LG to move on. Frankly, the only surprise was that it didn’t do so sooner.*
       
-  - Facebook-backed Indian social commerce Meesho raises $300M at $2.1B valuation
+  - Tim Cook drops hints about autonomous tech and the Apple car
       <hr/>
       
-      - *Meesho said on Monday it has raised $300 million in a new financing round led by SoftBank Vision Fund 2 as the Indian social commerce startup works to become the “single ecosystem that will enable all small businesses to succeed online.” The new round — a Ser…*
+      - *Apple CEO Tim Cook dropped a few hints in an interview released Monday about the direction of the much-anticipated Apple car, including that autonomous vehicle technology will likely be a key feature. “The autonomy itself is a core technology, in my view,” Co…*
        
-  - LG is shutting down its smartphone business worldwide
+  - Clarence Thomas plays a poor devil's advocate in floating First Amendment limits for tech companies
       <hr/>
        
-       - *LG said on Monday it will close its loss-making mobile phone business worldwide as the once pioneer brand looks to focus its resources in “growth areas” such as electric vehicle components, connected devices, smart homes, robotics, AI and B2B solutions, and p…*
+       - *Supreme Court Justice Clarence Thomas flaunted a dangerous ignorance regarding matters digital in an opinion published today. In attempting to explain the legal difficulties of social media platforms, particularly those arising from Twitter’s ban of Trump, he…*
       
 
 <br />
