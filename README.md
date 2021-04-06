@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Clubhouse launches payments so creators can make money
+  - Sendbird raises $100M at a $1B+ valuation, says 150M+ users now interact using its chat and video APIs
      <hr/>
      
-      - *Clubhouse, a one-year-old social audio app reportedly valued at $1 billion, will now allow users to send money to their favorite creators — or speakers — on the platform. In a blog post, the startup announced the new monetization feature, Clubhouse Payments, …*
+      - *Messaging is the medium these days, and today a startup that has built an API to help others build text and video interactivity into their services is announcing a big round to continue scaling its business. Sendbird, a popular provider of chat, video and oth…*
      
-  - Daily Crunch: The Supreme Court sides with Google in Oracle suit
+  - Shell invests in LanzaJet to speed up deliveries of its synthetic aviation fuel
       <hr/>
       
-      - *The Supreme Court announces several tech-related rulings, LG will shut down its smartphone business and we take a deep dive into the story of StockX. This is your Daily Crunch for April 5, 2021. The big story: The Supreme Court sides with Google in Oracle sui…*
+      - *The energy giant Shell has joined a slew of strategic investors including All Nippon Airways, Suncor Energy, Mitsui, and British Airways in funding LanzaJet, the company commercializing a process to convert alcohol into jet fuel.  A spin-off from LanzaTech, o…*
       
-  - LG's exit from the smartphone market comes as no surprise
+  - Empathy emerges from stealth with $13M for a digital assistant aimed at bereaved families
       <hr/>
       
-      - *It was time for LG to move on. Frankly, the only surprise was that it didn’t do so sooner.*
+      - *Death, despite being one of the most inevitable of life’s events, can also be one of the most complicated and problematic. Fraught with emotional and religious complexities, for many families it can also come with financial and organizational ones. Today, a s…*
       
-  - Tim Cook drops hints about autonomous tech and the Apple car
+  - Revolution Ventures backs Casted in B2B-focused podcast play
       <hr/>
       
-      - *Apple CEO Tim Cook dropped a few hints in an interview released Monday about the direction of the much-anticipated Apple car, including that autonomous vehicle technology will likely be a key feature. “The autonomy itself is a core technology, in my view,” Co…*
+      - *Historically, podcasts have been aimed at consumers. The value to be gained in the B2B world is something that has been largely untapped. For Lindsay Tjepkema — who has been entrenched in the world of B2B marketing for more than 15 years — the opportunity was…*
        
-  - Clarence Thomas plays a poor devil's advocate in floating First Amendment limits for tech companies
+  - After its first $54M fund, Algebra Ventures launches $90M fund for startups in Egypt
       <hr/>
        
-       - *Supreme Court Justice Clarence Thomas flaunted a dangerous ignorance regarding matters digital in an opinion published today. In attempting to explain the legal difficulties of social media platforms, particularly those arising from Twitter’s ban of Trump, he…*
+       - *The venture capital scene in the North African tech ecosystem will be absolutely buzzing right now with the announcement of two large VC funds in the space of two days. Today, Algebra Ventures, an Egyptian VC firm, announced that it has launched its $90 milli…*
       
 
 <br />
