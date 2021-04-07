@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Sendbird raises $100M at a $1B+ valuation, says 150M+ users now interact using its chat and video APIs
+  - Daily Crunch: Facebook faces questions over data breach
      <hr/>
      
-      - *Messaging is the medium these days, and today a startup that has built an API to help others build text and video interactivity into their services is announcing a big round to continue scaling its business. Sendbird, a popular provider of chat, video and oth…*
+      - *European regulators have questions about a Facebook data breach, Clubhouse adds payments and a robotics company has SPAC plans. This is your Daily Crunch for April 6, 2021. The big story: Facebook faces questions over data breach A data breach involving perso…*
      
-  - Shell invests in LanzaJet to speed up deliveries of its synthetic aviation fuel
+  - Signal tests payments in the UK using MobileCoin
       <hr/>
       
-      - *The energy giant Shell has joined a slew of strategic investors including All Nippon Airways, Suncor Energy, Mitsui, and British Airways in funding LanzaJet, the company commercializing a process to convert alcohol into jet fuel.  A spin-off from LanzaTech, o…*
+      - *Encrypted chat app Signal is adding payments to the services it provides, a long-expected move and one the company is taking its time on. A U.K.-only beta program will allow users to trade the cryptocurrency MobileCoin quickly, easily, and most importantly, p…*
       
-  - Empathy emerges from stealth with $13M for a digital assistant aimed at bereaved families
+  - Lawmakers press Instagram for details on its plans for kids
       <hr/>
       
-      - *Death, despite being one of the most inevitable of life’s events, can also be one of the most complicated and problematic. Fraught with emotional and religious complexities, for many families it can also come with financial and organizational ones. Today, a s…*
+      - *A group of Democratic lawmakers wrote to Mark Zuckerberg this week to press the CEO on his plans to curate a version of Instagram for children. In a hearing last month, Zuckerberg confirmed reporting by Buzzfeed that the company was exploring an age-gated ver…*
       
-  - Revolution Ventures backs Casted in B2B-focused podcast play
+  - Coinbase's monster Q1 in context
       <hr/>
       
-      - *Historically, podcasts have been aimed at consumers. The value to be gained in the B2B world is something that has been largely untapped. For Lindsay Tjepkema — who has been entrenched in the world of B2B marketing for more than 15 years — the opportunity was…*
+      - *In the first quarter of 2021, American consumer cryptocurrency trading giant Coinbase grew sharply, generating strong profits at the same time. For Coinbase, the disclosure of its preliminary Q1 2021 results comes a week ahead of its direct listing, an event …*
        
-  - After its first $54M fund, Algebra Ventures launches $90M fund for startups in Egypt
+  - Rapid raises $12M for its manufacturing robotics
       <hr/>
        
-       - *The venture capital scene in the North African tech ecosystem will be absolutely buzzing right now with the announcement of two large VC funds in the space of two days. Today, Algebra Ventures, an Egyptian VC firm, announced that it has launched its $90 milli…*
+       - *Bay Area-based Rapid Robotics today announced a $12 million Series A. The new round, led by NEA, brings the company’s total funding up to $17.5 million. It joins a recently closed seed round, announced way back in November of last year. Existing investors Gre…*
       
 
 <br />
