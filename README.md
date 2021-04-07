@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Facebook faces questions over data breach
+  - Avant doubles down on digital banking with Zero Financial acquisition
      <hr/>
      
-      - *European regulators have questions about a Facebook data breach, Clubhouse adds payments and a robotics company has SPAC plans. This is your Daily Crunch for April 6, 2021. The big story: Facebook faces questions over data breach A data breach involving perso…*
+      - *Avant, an online lender that has raised over $600 million in equity, announced today that it has acquired Zero Financial and its neobank brand, Level, to further its mission of becoming a digital bank for the masses. Founded in 2012, Chicago-based Avant start…*
      
-  - Signal tests payments in the UK using MobileCoin
+  - Investment app for millennials Groww raises $83 million at over $1 billion valuation
       <hr/>
       
-      - *Encrypted chat app Signal is adding payments to the services it provides, a long-expected move and one the company is taking its time on. A U.K.-only beta program will allow users to trade the cryptocurrency MobileCoin quickly, easily, and most importantly, p…*
+      - *More than 200 million people in India transact money digitally, but fewer than 30 million invest in mutual funds and stocks. An Indian startup that is attempting to change this figure by courting millennials announced a new financing round on Wednesday and tu…*
       
-  - Lawmakers press Instagram for details on its plans for kids
+  - Plaid raises $425M Series D from Altimeter as it charts a post-Visa future
       <hr/>
       
-      - *A group of Democratic lawmakers wrote to Mark Zuckerberg this week to press the CEO on his plans to curate a version of Instagram for children. In a hearing last month, Zuckerberg confirmed reporting by Buzzfeed that the company was exploring an age-gated ver…*
+      - *Plaid, a unicorn that helps connect consumers’ bank accounts to financial applications, has raised a $425 million Series D, it announced this morning. TechCrunch understands that the new capital infusion, led by Altimeter Capital, values the company at around…*
       
-  - Coinbase's monster Q1 in context
+  - Blue dot raises $32M for AI that helps businesses manage their tax accounting
       <hr/>
       
-      - *In the first quarter of 2021, American consumer cryptocurrency trading giant Coinbase grew sharply, generating strong profits at the same time. For Coinbase, the disclosure of its preliminary Q1 2021 results comes a week ahead of its direct listing, an event …*
+      - *Artificial intelligence has become a fundamental cornerstone of how a lot of business software works, providing a useful boost in reading, understanding, and using the often-fragmented trove of data that organizations generate these days. In the latest develo…*
        
-  - Rapid raises $12M for its manufacturing robotics
+  - Putting Zagreb on the TechCrunch map — TechCrunch’s European Cities Survey 2021
       <hr/>
        
-       - *Bay Area-based Rapid Robotics today announced a $12 million Series A. The new round, led by NEA, brings the company’s total funding up to $17.5 million. It joins a recently closed seed round, announced way back in November of last year. Existing investors Gre…*
+       - *TechCrunch is embarking on a major new project to survey European founders and investors in cities outside the larger European capitals. Over the next few weeks, we will ask entrepreneurs in these cities to talk about their ecosystems, in their own words. Thi…*
       
 
 <br />
