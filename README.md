@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Spotify stays quiet about launch of its voice command 'Hey Spotify' on mobile
+  - Alyce, an AI-based personalised corporate gifting startup, raises $30M
      <hr/>
      
-      - *In 2019, Spotify began testing a hardware device for automobile owners it lovingly dubbed “Car Thing,” which allowed Spotify Premium users to play music and podcasts using voice commands that began with “Hey, Spotify.” Last year, Spotify began developing a si…*
+      - *Swag has a long and patchy history in the world of business. For every hip pair of plaid socks, there are five t-shirts you may never wear, an itchy scarf, a notepad your kids might use, and an ugly mug; and most of all, likely thousands of dollars and lots o…*
      
-  - Daily Crunch: Google I/O will return virtually next month
+  - Index closes $200 million dedicated seed fund to intensify multi-stage thesis
       <hr/>
       
-      - *Google announces its I/O plans, Facebook tests an audio Q&A feature and Patreon triples its valuation. This is your Daily Crunch for April 7, 2021. The big story: Google I/O will return virtually next month Google canceled its giant developer conference last …*
+      - *The once quiet world of seed investing became frenetic a few years ago as dedicated seed funds and angel networks increased in scale and velocity. That environment has now crescendoed into the present world of the seed capital hurricane: funds galore, solo ca…*
       
-  - Twitter said to have held acquisition talks with Clubhouse on potential $4B deal
+  - As working out goes virtual, Moxie raises $6.3M Seed+ round led by Resolute Ventures
       <hr/>
       
-      - *Twitter held talks with Clubhouse around a potential acquisition of the live drop-in audio networking platform, with a deal value somewhere around $4 billion, according to a report from Bloomberg. TechCrunch has also confirmed the discussions took place from …*
+      - *With the pandemic sending the planet indoors to workout, the at-home fitness market has boomed. It was only in October last year that three-year-old Future closed $24 million in Series B and Playbook (streaming for personal trainers) raised $9.3 million in a …*
       
-  - Uber entices drivers back post-pandemic with $250 million stimulus
+  - Tines raises $26M Series B for its no-code security automation platform
       <hr/>
       
-      - *Despite the classification of ride-hail drivers as “essential workers” during the early days of the pandemic, last April Uber’s business dropped by 80%. Drivers decided they’d rather not risk contracting or spreading COVID-19 for the measly revenue provided b…*
+      - *Tines, a no-code automation platform co-founded by two senior cybersecurity operators, today announced that it has raised a $26 million Series B funding round led by Addition. Existing investors Accel and Blossom Capital participated in this round, which also…*
        
-  - Pinterest announces $500K Creator Fund, 'Creator Code' content policy, moderation tools and more
+  - Spend management startup Ramp confirms $115M raise at a $1.6B valuation
       <hr/>
        
-       - *Pinterest today hosted an event focused on its creator community, where the company announced a series of updates including the launch of a $500,000 Creator Fund, a new content policy called the Creator Code, as well as new moderation tools, among other thing…*
+       - *This morning, Ramp, which provides corporate cards and spend management software, announced that it has closed $115 million across two investments, the latter of which valued the company at $1.6 billion. The Information first reported that Ramp was raising ne…*
       
 
 <br />
