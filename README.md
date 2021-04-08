@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Avant doubles down on digital banking with Zero Financial acquisition
+  - Spotify stays quiet about launch of its voice command 'Hey Spotify' on mobile
      <hr/>
      
-      - *Avant, an online lender that has raised over $600 million in equity, announced today that it has acquired Zero Financial and its neobank brand, Level, to further its mission of becoming a digital bank for the masses. Founded in 2012, Chicago-based Avant start…*
+      - *In 2019, Spotify began testing a hardware device for automobile owners it lovingly dubbed “Car Thing,” which allowed Spotify Premium users to play music and podcasts using voice commands that began with “Hey, Spotify.” Last year, Spotify began developing a si…*
      
-  - Investment app for millennials Groww raises $83 million at over $1 billion valuation
+  - Daily Crunch: Google I/O will return virtually next month
       <hr/>
       
-      - *More than 200 million people in India transact money digitally, but fewer than 30 million invest in mutual funds and stocks. An Indian startup that is attempting to change this figure by courting millennials announced a new financing round on Wednesday and tu…*
+      - *Google announces its I/O plans, Facebook tests an audio Q&A feature and Patreon triples its valuation. This is your Daily Crunch for April 7, 2021. The big story: Google I/O will return virtually next month Google canceled its giant developer conference last …*
       
-  - Plaid raises $425M Series D from Altimeter as it charts a post-Visa future
+  - Twitter said to have held acquisition talks with Clubhouse on potential $4B deal
       <hr/>
       
-      - *Plaid, a unicorn that helps connect consumers’ bank accounts to financial applications, has raised a $425 million Series D, it announced this morning. TechCrunch understands that the new capital infusion, led by Altimeter Capital, values the company at around…*
+      - *Twitter held talks with Clubhouse around a potential acquisition of the live drop-in audio networking platform, with a deal value somewhere around $4 billion, according to a report from Bloomberg. TechCrunch has also confirmed the discussions took place from …*
       
-  - Blue dot raises $32M for AI that helps businesses manage their tax accounting
+  - Uber entices drivers back post-pandemic with $250 million stimulus
       <hr/>
       
-      - *Artificial intelligence has become a fundamental cornerstone of how a lot of business software works, providing a useful boost in reading, understanding, and using the often-fragmented trove of data that organizations generate these days. In the latest develo…*
+      - *Despite the classification of ride-hail drivers as “essential workers” during the early days of the pandemic, last April Uber’s business dropped by 80%. Drivers decided they’d rather not risk contracting or spreading COVID-19 for the measly revenue provided b…*
        
-  - Putting Zagreb on the TechCrunch map — TechCrunch’s European Cities Survey 2021
+  - Pinterest announces $500K Creator Fund, 'Creator Code' content policy, moderation tools and more
       <hr/>
        
-       - *TechCrunch is embarking on a major new project to survey European founders and investors in cities outside the larger European capitals. Over the next few weeks, we will ask entrepreneurs in these cities to talk about their ecosystems, in their own words. Thi…*
+       - *Pinterest today hosted an event focused on its creator community, where the company announced a series of updates including the launch of a $500,000 Creator Fund, a new content policy called the Creator Code, as well as new moderation tools, among other thing…*
       
 
 <br />
