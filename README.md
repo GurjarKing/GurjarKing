@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Counting strongly favors Amazon in warehouse union vote
+  - NLPCloud.io helps devs add language processing smarts to their apps
      <hr/>
      
-      - *It’s been a little over a week since union voting concluded for Amazon warehouse workers in Bessemer, Alabama. Things have been fairly quiet in the eye of the storm for most of it. That changed today, however, as vote counting began in earnest. Thus far, thin…*
+      - *While visual ‘no code‘ tools are helping businesses get more out of computing without the need for armies of in-house techies to configure software on behalf of other staff, access to the most powerful tech tools — at the ‘deep tech’ AI coal face — still requ…*
      
-  - Facebook ran ads for a fake 'Clubhouse for PC' app planted with malware
+  - Vybe raises $2.9 million for its challenger bank for teens
       <hr/>
       
-      - *Cybercriminals have taken out a number of Facebook ads masquerading as a Clubhouse app for PC users in order to target unsuspecting victims with malware, TechCrunch has learned. TechCrunch was alerted Wednesday to Facebook ads tied to several Facebook pages i…*
+      - *French startup Vybe has raised a $2.9 million funding round (€2.4 million) to build a challenger bank for teens. The company is currently testing its product with a soft launch. Users get a Mastercard payment card paired with an e-wallet. Each Vybe account co…*
       
-  - Daily Crunch: KKR invests $500M into Box
+  - SnackMagic picks up $15M to expand from build-your-own snack boxes into a wider gifting marketplace
       <hr/>
       
-      - *Box gets some financial ammunition against an activist investor, Samsung launches the Galaxy SmartTag+ and we look at the history of CryptoPunks. This is your Daily Crunch for April 8, 2021. The big story: KKR invests $500M into Box Private equity firm KKR is…*
+      - *The office shut-down at the start of the Covid-19 pandemic last year spurred huge investment in digital transformation and a wave of tech companies helping with that, but there were some distinct losers in the shift, too — specifically those whose business mo…*
       
-  - Facebook, Instagram, and WhatsApp are super broken right now (Update: but starting to work again)
+  - Elior acquires food delivery startup Nestor
       <hr/>
       
-      - *Are Facebook, Instagram, and WhatsApp down for you right now? Us too! And lots and lots of other people too, it seems. We’re getting reports of outages left and right across the three Facebook properties, with no indication so far as to the cause. It’s all do…*
+      - *Corporate catering company Elior has acquired French startup Nestor for an undisclosed amount. Nestor originally started with a simple idea to differentiate itself from food delivery giants, such as Deliveroo, Uber Eats and others. Every day, the startup offe…*
        
-  - Crypto trading on Robinhood spiked to 9.5M customers in first quarter
+  - SoftBank Vision Fund 2 invests $160M in media localization provider Iyuno-SDI Group
       <hr/>
        
-       - *It’s been a big year for crypto, and Robinhood shared some stats today providing more evidence that the crypto boom is more than just hype — at least for now. In a blog, Christine Brown, Robinhood’s head of crypto operations, revealed that in the first quarte…*
+       - *Iyuno-SDI Group, a provider of translated subtitles and other media localization services, announced today it has raised $160 million in funding from SoftBank Vision 2. The company said this makes the fund one of its largest shareholders. Iyuno-SDI Group was …*
       
 
 <br />
