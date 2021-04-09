@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Alyce, an AI-based personalised corporate gifting startup, raises $30M
+  - Counting strongly favors Amazon in warehouse union vote
      <hr/>
      
-      - *Swag has a long and patchy history in the world of business. For every hip pair of plaid socks, there are five t-shirts you may never wear, an itchy scarf, a notepad your kids might use, and an ugly mug; and most of all, likely thousands of dollars and lots o…*
+      - *It’s been a little over a week since union voting concluded for Amazon warehouse workers in Bessemer, Alabama. Things have been fairly quiet in the eye of the storm for most of it. That changed today, however, as vote counting began in earnest. Thus far, thin…*
      
-  - Index closes $200 million dedicated seed fund to intensify multi-stage thesis
+  - Facebook ran ads for a fake 'Clubhouse for PC' app planted with malware
       <hr/>
       
-      - *The once quiet world of seed investing became frenetic a few years ago as dedicated seed funds and angel networks increased in scale and velocity. That environment has now crescendoed into the present world of the seed capital hurricane: funds galore, solo ca…*
+      - *Cybercriminals have taken out a number of Facebook ads masquerading as a Clubhouse app for PC users in order to target unsuspecting victims with malware, TechCrunch has learned. TechCrunch was alerted Wednesday to Facebook ads tied to several Facebook pages i…*
       
-  - As working out goes virtual, Moxie raises $6.3M Seed+ round led by Resolute Ventures
+  - Daily Crunch: KKR invests $500M into Box
       <hr/>
       
-      - *With the pandemic sending the planet indoors to workout, the at-home fitness market has boomed. It was only in October last year that three-year-old Future closed $24 million in Series B and Playbook (streaming for personal trainers) raised $9.3 million in a …*
+      - *Box gets some financial ammunition against an activist investor, Samsung launches the Galaxy SmartTag+ and we look at the history of CryptoPunks. This is your Daily Crunch for April 8, 2021. The big story: KKR invests $500M into Box Private equity firm KKR is…*
       
-  - Tines raises $26M Series B for its no-code security automation platform
+  - Facebook, Instagram, and WhatsApp are super broken right now (Update: but starting to work again)
       <hr/>
       
-      - *Tines, a no-code automation platform co-founded by two senior cybersecurity operators, today announced that it has raised a $26 million Series B funding round led by Addition. Existing investors Accel and Blossom Capital participated in this round, which also…*
+      - *Are Facebook, Instagram, and WhatsApp down for you right now? Us too! And lots and lots of other people too, it seems. We’re getting reports of outages left and right across the three Facebook properties, with no indication so far as to the cause. It’s all do…*
        
-  - Spend management startup Ramp confirms $115M raise at a $1.6B valuation
+  - Crypto trading on Robinhood spiked to 9.5M customers in first quarter
       <hr/>
        
-       - *This morning, Ramp, which provides corporate cards and spend management software, announced that it has closed $115 million across two investments, the latter of which valued the company at $1.6 billion. The Information first reported that Ramp was raising ne…*
+       - *It’s been a big year for crypto, and Robinhood shared some stats today providing more evidence that the crypto boom is more than just hype — at least for now. In a blog, Christine Brown, Robinhood’s head of crypto operations, revealed that in the first quarte…*
       
 
 <br />
