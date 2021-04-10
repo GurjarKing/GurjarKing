@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google denies Pixel 5a 5G cancelation, confirming it’s coming this year
+  - China gets serious about antitrust, fines Alibaba $2.75B
      <hr/>
      
-      - *Sometimes you’ve just got to confirm an unannounced product to put the rumors to bed, I guess. That was Google’s strategy this afternoon, following earlier rumors from Android Central that a chip shortage had put the kibosh on the mid-budget phone. In a comme…*
+      - *Chinese regulators have hit Alibaba with a record fine of 18 billion yuan (about $2.75 billion) for violating anti-monopoly rules as the country seeks to rein in the power of its largest internet conglomerates. In November, China proposed sweeping antitrust r…*
      
+  - Wonder Dynamics raises $2.5M seed to equip indie filmmakers with AI-powered VFX
+      <hr/>
+      
+      - *Practically every film production these days needs some kind of visual effects work, but independent creators often lack the cash or expertise to get that top-shelf CG. Wonder Dynamics, founded by VFX engineer Nikola Todorovic and actor Tye Sheridan, aims to …*
+      
+  - Google denies Pixel 5a 5G cancelation, confirming it’s coming this year
+      <hr/>
+      
+      - *Sometimes you’ve just got to confirm an unannounced product to put the rumors to bed, I guess. That was Google’s strategy this afternoon, following earlier rumors from Android Central that a chip shortage had put the kibosh on the mid-budget phone. In a comme…*
+      
   - Scale CEO Alex Wang and Accel's Dan Levine explain why sometimes unconventional VC deals are best
       <hr/>
       
       - *Few companies have done better than Scale at spotting a need in the AI gold rush early on and filling that gap. The startup rightly identified that one of the tasks most important to building effective AI at scale — the laborious exercise of tagging data sets…*
-      
+       
   - Extra Crunch roundup: StockX EC-1, Early Stage recaps, unpacking Alkami's IPO, more
       <hr/>
-      
-      - *Over the last few days, we’ve published several articles recapping panels from last week’s TechCrunch Early Stage virtual conference. Each story is based on an interview with a founder or investor who addressed some of the most common startup dilemmas. Predic…*
-      
-  - Ocean Solutions Accelerator doubles down on blue economy with new track for later-stage companies
-      <hr/>
-      
-      - *The planet-loving folks at the Sustainable Ocean Alliance started an accelerator a couple years back focusing on very early stage companies, but this year they’re expanding the program to accept those who have already closed their first round. The mix of expe…*
        
-  - Daily Crunch: Amazon beats back union push
-      <hr/>
-       
-       - *Efforts to unionize an Amazon warehouse in Alabama appear to have failed, Facebook takes down fake review groups and a monkey plays Pong with its brain. This is your Daily Crunch for April 9, 2021. The big story: Amazon beats back union push Union organizers …*
+       - *Over the last few days, we’ve published several articles recapping panels from last week’s TechCrunch Early Stage virtual conference. Each story is based on an interview with a founder or investor who addressed some of the most common startup dilemmas. Predic…*
       
 
 <br />
