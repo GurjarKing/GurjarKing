@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - NLPCloud.io helps devs add language processing smarts to their apps
+  - Google denies Pixel 5a 5G cancelation, confirming it’s coming this year
      <hr/>
      
-      - *While visual ‘no code‘ tools are helping businesses get more out of computing without the need for armies of in-house techies to configure software on behalf of other staff, access to the most powerful tech tools — at the ‘deep tech’ AI coal face — still requ…*
+      - *Sometimes you’ve just got to confirm an unannounced product to put the rumors to bed, I guess. That was Google’s strategy this afternoon, following earlier rumors from Android Central that a chip shortage had put the kibosh on the mid-budget phone. In a comme…*
      
-  - Vybe raises $2.9 million for its challenger bank for teens
+  - Scale CEO Alex Wang and Accel's Dan Levine explain why sometimes unconventional VC deals are best
       <hr/>
       
-      - *French startup Vybe has raised a $2.9 million funding round (€2.4 million) to build a challenger bank for teens. The company is currently testing its product with a soft launch. Users get a Mastercard payment card paired with an e-wallet. Each Vybe account co…*
+      - *Few companies have done better than Scale at spotting a need in the AI gold rush early on and filling that gap. The startup rightly identified that one of the tasks most important to building effective AI at scale — the laborious exercise of tagging data sets…*
       
-  - SnackMagic picks up $15M to expand from build-your-own snack boxes into a wider gifting marketplace
+  - Extra Crunch roundup: StockX EC-1, Early Stage recaps, unpacking Alkami's IPO, more
       <hr/>
       
-      - *The office shut-down at the start of the Covid-19 pandemic last year spurred huge investment in digital transformation and a wave of tech companies helping with that, but there were some distinct losers in the shift, too — specifically those whose business mo…*
+      - *Over the last few days, we’ve published several articles recapping panels from last week’s TechCrunch Early Stage virtual conference. Each story is based on an interview with a founder or investor who addressed some of the most common startup dilemmas. Predic…*
       
-  - Elior acquires food delivery startup Nestor
+  - Ocean Solutions Accelerator doubles down on blue economy with new track for later-stage companies
       <hr/>
       
-      - *Corporate catering company Elior has acquired French startup Nestor for an undisclosed amount. Nestor originally started with a simple idea to differentiate itself from food delivery giants, such as Deliveroo, Uber Eats and others. Every day, the startup offe…*
+      - *The planet-loving folks at the Sustainable Ocean Alliance started an accelerator a couple years back focusing on very early stage companies, but this year they’re expanding the program to accept those who have already closed their first round. The mix of expe…*
        
-  - SoftBank Vision Fund 2 invests $160M in media localization provider Iyuno-SDI Group
+  - Daily Crunch: Amazon beats back union push
       <hr/>
        
-       - *Iyuno-SDI Group, a provider of translated subtitles and other media localization services, announced today it has raised $160 million in funding from SoftBank Vision 2. The company said this makes the fund one of its largest shareholders. Iyuno-SDI Group was …*
+       - *Efforts to unionize an Amazon warehouse in Alabama appear to have failed, Facebook takes down fake review groups and a monkey plays Pong with its brain. This is your Daily Crunch for April 9, 2021. The big story: Amazon beats back union push Union organizers …*
       
 
 <br />
