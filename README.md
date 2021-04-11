@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - China gets serious about antitrust, fines Alibaba $2.75B
+  - This startup summer could be blistering
      <hr/>
      
-      - *Chinese regulators have hit Alibaba with a record fine of 18 billion yuan (about $2.75 billion) for violating anti-monopoly rules as the country seeks to rein in the power of its largest internet conglomerates. In November, China proposed sweeping antitrust r…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
      
-  - Wonder Dynamics raises $2.5M seed to equip indie filmmakers with AI-powered VFX
+  - Let's talk about gaslighting and fundraising
       <hr/>
       
-      - *Practically every film production these days needs some kind of visual effects work, but independent creators often lack the cash or expertise to get that top-shelf CG. Wonder Dynamics, founded by VFX engineer Nikola Todorovic and actor Tye Sheridan, aims to …*
+      - *“Most of the startups I give advice to about how to raise venture capital shouldn’t be raising venture capital,” an investor recently told me. While the idea that every startup isn’t venture-backable might run counter to the narrative to the barrage of fundin…*
       
-  - Google denies Pixel 5a 5G cancelation, confirming it’s coming this year
+  - How one founder identified a huge healthcare gap and acquired the skills necessary to address it
       <hr/>
       
-      - *Sometimes you’ve just got to confirm an unannounced product to put the rumors to bed, I guess. That was Google’s strategy this afternoon, following earlier rumors from Android Central that a chip shortage had put the kibosh on the mid-budget phone. In a comme…*
+      - *Our new podcast Found is now available, and the first episode features guest Iman Abuzeid, co-founder and CEO of Incredible Health. Abuzeid’s story of founding and building Incredible Health, a career platform for healthcare professionals focusing specificall…*
       
-  - Scale CEO Alex Wang and Accel's Dan Levine explain why sometimes unconventional VC deals are best
+  - This Week in Apps: Facebook's other Clubhouse rival, Apple details ATT, App Store trial nears
       <hr/>
       
-      - *Few companies have done better than Scale at spotting a need in the AI gold rush early on and filling that gap. The startup rightly identified that one of the tasks most important to building effective AI at scale — the laborious exercise of tagging data sets…*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - Extra Crunch roundup: StockX EC-1, Early Stage recaps, unpacking Alkami's IPO, more
+  - China gets serious about antitrust, fines Alibaba $2.75B
       <hr/>
        
-       - *Over the last few days, we’ve published several articles recapping panels from last week’s TechCrunch Early Stage virtual conference. Each story is based on an interview with a founder or investor who addressed some of the most common startup dilemmas. Predic…*
+       - *Chinese regulators have hit Alibaba with a record fine of 18 billion yuan (about $2.75 billion) for violating anti-monopoly rules as the country seeks to rein in the power of its largest internet conglomerates. In November, China proposed sweeping antitrust r…*
       
 
 <br />
