@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - This startup summer could be blistering
+  - A 'more honest' stock market
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *Hello friends, and welcome back to Week in Review! Last week, I talked about Clubhouse’s slowing user growth. Well, this week news broke that they had been in talks with Twitter for a $4 billion acquisition, so it looks like they’re still pretty desirable. Th…*
      
+  - This startup summer could be blistering
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      
   - Let's talk about gaslighting and fundraising
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Our new podcast Found is now available, and the first episode features guest Iman Abuzeid, co-founder and CEO of Incredible Health. Abuzeid’s story of founding and building Incredible Health, a career platform for healthcare professionals focusing specificall…*
-      
+       
   - This Week in Apps: Facebook's other Clubhouse rival, Apple details ATT, App Store trial nears
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - China gets serious about antitrust, fines Alibaba $2.75B
-      <hr/>
-       
-       - *Chinese regulators have hit Alibaba with a record fine of 18 billion yuan (about $2.75 billion) for violating anti-monopoly rules as the country seeks to rein in the power of its largest internet conglomerates. In November, China proposed sweeping antitrust r…*
+       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
       
 
 <br />
