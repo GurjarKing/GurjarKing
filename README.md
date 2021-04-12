@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - A 'more honest' stock market
+  - Memic raises $96M for its robot-assisted surgery platform
      <hr/>
      
-      - *Hello friends, and welcome back to Week in Review! Last week, I talked about Clubhouse’s slowing user growth. Well, this week news broke that they had been in talks with Twitter for a $4 billion acquisition, so it looks like they’re still pretty desirable. Th…*
+      - *Memic, a startup developing a robotic-assisted surgical platform that recently received marketing authorization from the U.S. Food and Drug Administration, today announced that it has closed a $96 million Series D funding round. The round was led by Peregrine…*
      
-  - This startup summer could be blistering
+  - Apple said to be developing Apple TV/HomePod combo and iPad-like smart speaker display
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *Apple is reportedly working on a couple of new options for a renewed entry into the smart home, including a mash-up of the Apple TV with a HomePod speaker, and an integrated camera for video chat, according to Bloomberg. It’s also said to be working on a smar…*
       
-  - Let's talk about gaslighting and fundraising
+  - EcoCart raises $3 million for a Honey-like browser extension to offset shoppers' carbon emissions
       <hr/>
       
-      - *“Most of the startups I give advice to about how to raise venture capital shouldn’t be raising venture capital,” an investor recently told me. While the idea that every startup isn’t venture-backable might run counter to the narrative to the barrage of fundin…*
+      - *EcoCart, a company pitching consumers on ways to offset their carbon emissions for free at select merchants (with a browser extension!) has raised $3 million in financing from Base10 Partners. Brands pay the company a commission to drive traffic to their webs…*
       
-  - How one founder identified a huge healthcare gap and acquired the skills necessary to address it
+  - Domino's, Nuro to begin autonomous pizza deliveries in Houston
       <hr/>
       
-      - *Our new podcast Found is now available, and the first episode features guest Iman Abuzeid, co-founder and CEO of Incredible Health. Abuzeid’s story of founding and building Incredible Health, a career platform for healthcare professionals focusing specificall…*
+      - *Starting this week, some Domino’s customers in Houston can have a pizza delivered without ever interacting with a human. The pizza delivery giant said Monday it has partnered with autonomous delivery vehicle startup Nuro to allow select customers to have thei…*
        
-  - This Week in Apps: Facebook's other Clubhouse rival, Apple details ATT, App Store trial nears
+  - Austin's newest unicorn: The Zebra raises $150M after doubling revenue in 2020
       <hr/>
        
-       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry is as hot as ever, with a record 218 billion downloads and $143 billion in global consu…*
+       - *The Zebra, an Austin-based company that operates an insurance comparison site, has raised $150 million in a Series D round that propels it into unicorn territory. Both the round size and valuation are a substantial bump from the $38.5 million Series C that Au…*
       
 
 <br />
