@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Memic raises $96M for its robot-assisted surgery platform
+  - Binance Labs leads $1.6M seed round in DeFi startup MOUND, the developer of Pancake Bunny
      <hr/>
      
-      - *Memic, a startup developing a robotic-assisted surgical platform that recently received marketing authorization from the U.S. Food and Drug Administration, today announced that it has closed a $96 million Series D funding round. The round was led by Peregrine…*
+      - *Decentralized finance startup MOUND, known for its yield farming aggregator Pancake Bunny, has raised $1.6 million in seed funding led by Binance Labs. Other participants included IDEO CoLab, SparkLabs Korea and Handshake co-founder Andrew Lee. Built on Binan…*
      
-  - Apple said to be developing Apple TV/HomePod combo and iPad-like smart speaker display
+  - Battery Resourcers raises $20M to commercialize its recycling-plus-manufacturing operations
       <hr/>
       
-      - *Apple is reportedly working on a couple of new options for a renewed entry into the smart home, including a mash-up of the Apple TV with a HomePod speaker, and an integrated camera for video chat, according to Bloomberg. It’s also said to be working on a smar…*
+      - *As a greater share of the transportation market becomes electrified, companies have started to grapple with how to dispose of the thousands of tons of used electric vehicle batteries that are expected to come off the roads by the end of the decade. Battery Re…*
       
-  - EcoCart raises $3 million for a Honey-like browser extension to offset shoppers' carbon emissions
+  - Daily Crunch: Microsoft acquires Nuance for $19.7B
       <hr/>
       
-      - *EcoCart, a company pitching consumers on ways to offset their carbon emissions for free at select merchants (with a browser extension!) has raised $3 million in financing from Base10 Partners. Brands pay the company a commission to drive traffic to their webs…*
+      - *Microsoft makes a big healthcare tech acquisition, Twitter is building a presence in Africa and Apple may be cooking up some new smart home products. This is your Daily Crunch for April 12, 2021. The big story: Microsoft acquires Nuance for $19.7B Microsoft a…*
       
-  - Domino's, Nuro to begin autonomous pizza deliveries in Houston
+  - Another milestone for in-space servicing as Northrop Grumman gives aging satellite new life
       <hr/>
       
-      - *Starting this week, some Domino’s customers in Houston can have a pizza delivered without ever interacting with a human. The pizza delivery giant said Monday it has partnered with autonomous delivery vehicle startup Nuro to allow select customers to have thei…*
+      - *Northrop Grumman hit a new milestone in extending the life of active spacecraft as a purpose-built spacecraft, MEV-2, docking with Intelsat’s IS-1002 satellite to give it another 5 years of life. It’s a strong demonstration of the possibilities in a growing f…*
        
-  - Austin's newest unicorn: The Zebra raises $150M after doubling revenue in 2020
+  - From pickup basketball to market domination: My wild ride with Coupang
       <hr/>
        
-       - *The Zebra, an Austin-based company that operates an insurance comparison site, has raised $150 million in a Series D round that propels it into unicorn territory. Both the round size and valuation are a substantial bump from the $38.5 million Series C that Au…*
+       - *Coupang early investor Ben Sun shares an inside look into the growth of the Korean e-commerce giant, and explains how founder Bom Kim led a pivot when the company was already an established business*
       
 
 <br />
