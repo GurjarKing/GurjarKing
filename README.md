@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Binance Labs leads $1.6M seed round in DeFi startup MOUND, the developer of Pancake Bunny
+  - Getlabs, an at-home medical labs company, launches with a $3 million raise
      <hr/>
      
-      - *Decentralized finance startup MOUND, known for its yield farming aggregator Pancake Bunny, has raised $1.6 million in seed funding led by Binance Labs. Other participants included IDEO CoLab, SparkLabs Korea and Handshake co-founder Andrew Lee. Built on Binan…*
+      - *When you’re not feeling well and your doctor asks you to get labs drawn, you know that can increase the time between a diagnosis and care. But Getlabs, a company that brings the lab to you with its at-home, blood-drawing service, is aiming to eliminate that f…*
      
-  - Battery Resourcers raises $20M to commercialize its recycling-plus-manufacturing operations
+  - Grab to go public in the US following $40 billion SPAC deal
       <hr/>
       
-      - *As a greater share of the transportation market becomes electrified, companies have started to grapple with how to dispose of the thousands of tons of used electric vehicle batteries that are expected to come off the roads by the end of the decade. Battery Re…*
+      - *Ride-hailing and delivery company Grab has announced plans to go public in the U.S. Based in Singapore, the company has evolved from a ride-hailing app to a Southeast Asian super app that offers several consumer services, including food delivery, financial se…*
       
-  - Daily Crunch: Microsoft acquires Nuance for $19.7B
+  - Elder tech company, Papa, raises $60M Led by Tiger Global
       <hr/>
       
-      - *Microsoft makes a big healthcare tech acquisition, Twitter is building a presence in Africa and Apple may be cooking up some new smart home products. This is your Daily Crunch for April 12, 2021. The big story: Microsoft acquires Nuance for $19.7B Microsoft a…*
+      - *Papa, the elder tech company that offers care and companionship to seniors, today announced a $60 million Series C led by Tiger Global Management, bringing its total raised to date to $91 million. The money will be used to propel the company’s growth this yea…*
       
-  - Another milestone for in-space servicing as Northrop Grumman gives aging satellite new life
+  - On-demand pediatrics app Biloba adds prescriptions and raises $1.7 million
       <hr/>
       
-      - *Northrop Grumman hit a new milestone in extending the life of active spacecraft as a purpose-built spacecraft, MEV-2, docking with Intelsat’s IS-1002 satellite to give it another 5 years of life. It’s a strong demonstration of the possibilities in a growing f…*
+      - *French startup Biloba has raised a $1.7 million funding round (€1.4 million) a few months after launching its pediatrics app that lets you chat with a doctor whenever you have a question. In addition to raising some money, the startup also recently added in-a…*
        
-  - From pickup basketball to market domination: My wild ride with Coupang
+  - MFS Africa leads $2.3M seed round in Ugandan fintech startup Numida
       <hr/>
        
-       - *Coupang early investor Ben Sun shares an inside look into the growth of the Korean e-commerce giant, and explains how founder Bom Kim led a pivot when the company was already an established business*
+       - *Small businesses in Africa need digital banking services including plenty of credit. Although these businesses drive economic growth and contribute up to one-third of the continent’s GDP, they are often financially excluded from credit and other financial ser…*
       
 
 <br />
