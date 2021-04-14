@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - FBI launches operation to remotely remove Microsoft Exchange server backdoors
+  - Connected Cannabis Co. raises $30 million to bring its designer weed strains to more states
      <hr/>
      
-      - *The Justice Department said the operation was "successful."*
+      - *Connected Cannabis Co. was founded in 2009 and has since grown to become a leading cultivator of designer cannabis strains. Today, the company announced $30 million in debt and equity financing. This comes after the company raised a $25 million Series A in 20…*
      
-  - Daily Crunch: Spotify unveils an in-car entertainment system
+  - Homebound aims to help solve Austin's housing shortage problem
       <hr/>
       
-      - *Spotify wants to have a bigger presence in your car, Apple hints at iPad-centric announcements and Microsoft’s new Surface Laptop goes on sale. This is your Daily Crunch for April 13, 2021. The big story: Spotify unveils an in-car entertainment system Spotify…*
+      - *The sheer volume of people migrating to Austin from all over the country, but particularly from the San Francisco Bay Area, has been making headlines for a while now. One result of this continued migration is a steady surge in housing prices due to increased …*
       
-  - Coinbase sets direct listing reference price at $250/share, valuing the company at as much as $65B
+  - The TechCrunch Survey of Tech Startup Hubs in England and Wales
       <hr/>
       
-      - *Coinbase, the American cryptocurrency trading giant, has set a reference price for its direct listing at $250 per share. According to the company’s most recent SEC filing, it has a fully-diluted share count of 261.3 million, giving the company a valuation of …*
+      - *TechCrunch is embarking on a major new project to survey European founders and investors in cities outside the major European capitals. Over the next few weeks, we will ask entrepreneurs in these cities to talk about their ecosystems, in their own words. For …*
       
-  - Republican antitrust bill would block all big tech acquisitions
+  - Boasting menus from chefs at French Laundry, vegetarian mealkit startup Simple Feast hits the U.S.
       <hr/>
       
-      - *There are about to be a lot of antitrust bills taking aim at big tech, and here’s one more. Senator Josh Hawley (R-MO) rolled out a new bill this week that would take some severe measures to rein in big tech’s power, blocking mergers and acquisitions outright…*
+      - *Offering a respite from processed foods for the richest 20% of Americans, Simple Feast has landed on U.S. shores with a mission to expand its presence on the back of $45 million in financing from investors. The European startup is looking to take a page from …*
        
-  - Risk startup LogicGate confirms data breach
+  - Slice raises $40M to power ordering and marketing for independent pizzerias
       <hr/>
        
-       - *The cloud startup said its cloud credentials were compromised and customer backups were decrypted.*
+       - *Slice, a startup that helps independent pizzerias build an online business, has raised another $40 million in Series D funding. The round was led by Cross Creek, with participation from KKR, GGV Capital and Primary Ventures, as well as Twitter’s former CEO Di…*
       
 
 <br />
