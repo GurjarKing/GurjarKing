@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Getlabs, an at-home medical labs company, launches with a $3 million raise
+  - FBI launches operation to remotely remove Microsoft Exchange server backdoors
      <hr/>
      
-      - *When you’re not feeling well and your doctor asks you to get labs drawn, you know that can increase the time between a diagnosis and care. But Getlabs, a company that brings the lab to you with its at-home, blood-drawing service, is aiming to eliminate that f…*
+      - *The Justice Department said the operation was "successful."*
      
-  - Grab to go public in the US following $40 billion SPAC deal
+  - Daily Crunch: Spotify unveils an in-car entertainment system
       <hr/>
       
-      - *Ride-hailing and delivery company Grab has announced plans to go public in the U.S. Based in Singapore, the company has evolved from a ride-hailing app to a Southeast Asian super app that offers several consumer services, including food delivery, financial se…*
+      - *Spotify wants to have a bigger presence in your car, Apple hints at iPad-centric announcements and Microsoft’s new Surface Laptop goes on sale. This is your Daily Crunch for April 13, 2021. The big story: Spotify unveils an in-car entertainment system Spotify…*
       
-  - Elder tech company, Papa, raises $60M Led by Tiger Global
+  - Coinbase sets direct listing reference price at $250/share, valuing the company at as much as $65B
       <hr/>
       
-      - *Papa, the elder tech company that offers care and companionship to seniors, today announced a $60 million Series C led by Tiger Global Management, bringing its total raised to date to $91 million. The money will be used to propel the company’s growth this yea…*
+      - *Coinbase, the American cryptocurrency trading giant, has set a reference price for its direct listing at $250 per share. According to the company’s most recent SEC filing, it has a fully-diluted share count of 261.3 million, giving the company a valuation of …*
       
-  - On-demand pediatrics app Biloba adds prescriptions and raises $1.7 million
+  - Republican antitrust bill would block all big tech acquisitions
       <hr/>
       
-      - *French startup Biloba has raised a $1.7 million funding round (€1.4 million) a few months after launching its pediatrics app that lets you chat with a doctor whenever you have a question. In addition to raising some money, the startup also recently added in-a…*
+      - *There are about to be a lot of antitrust bills taking aim at big tech, and here’s one more. Senator Josh Hawley (R-MO) rolled out a new bill this week that would take some severe measures to rein in big tech’s power, blocking mergers and acquisitions outright…*
        
-  - MFS Africa leads $2.3M seed round in Ugandan fintech startup Numida
+  - Risk startup LogicGate confirms data breach
       <hr/>
        
-       - *Small businesses in Africa need digital banking services including plenty of credit. Although these businesses drive economic growth and contribute up to one-third of the continent’s GDP, they are often financially excluded from credit and other financial ser…*
+       - *The cloud startup said its cloud credentials were compromised and customer backups were decrypted.*
       
 
 <br />
