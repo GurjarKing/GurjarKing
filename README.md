@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Coinbase goes public
+  - IBM acquires Italy's MyInvenio to integrate process mining directly into its suite of automation tools
      <hr/>
      
-      - *Coinbase makes an impressive public debut, Dell spins out VMware and Ford announces a new hands-free driving system. This is your Daily Crunch for April 14, 2021. The big story: Coinbase goes public Cryptocurrency exchange Coinbase went public today via direc…*
+      - *Automation has become a big theme in enterprise IT, with organizations using RPA, no-code and low-code tools, and other  technology to speed up work and bring more insights and analytics into how they do things every day, and today IBM is announcing an acquis…*
      
-  - Creator monetization and CRM startup Pico raises $6.5M
+  - Altman brothers lead B2B payment startup Routable's $30M Series B
       <hr/>
       
-      - *Pico, a New York startup that helps online creators and media companies make money and manage their customer data, announced today that it has launched an upgraded platform and raised $6.5 million in new funding. In a statement, the startup’s co-founder and C…*
+      - *We all know the COVID-19 pandemic has accelerated digital adoption in a number of areas, particularly in the financial services space. Within financial services, there are few spaces hotter than B2B payments. With a $120 trillion market size, it’s no surprise…*
       
-  - Hear how to raise big funding (and use it well) from FirstMark's Rick Heitzmann and Orchard's Court Cunningham
+  - SoftBank in talks to invest up to $500 million in Swiggy
       <hr/>
       
-      - *Orchard, founded in 2017, was relatively early to the proptech industry. The company, originally called Perch, focused on dual-trackers, which are folks who are both buying and selling a home simultaneously. FirstMark Capital led both the Series A and the Ser…*
+      - *SoftBank Vision Fund 2 is in advanced stages of talks to invest up to half a billion dollars into food delivery startup Swiggy, two sources familiar with the matter told TechCrunch. The new investment values the Indian startup at about $5.5 billion, the sourc…*
       
-  - Building customer-first relationships in a privacy-first world is critical
+  - Cado Security locks in $10M for its cloud-native digital forensics platform
       <hr/>
       
-      - *With clarity of vision, privacy can improve business outcomes. Prioritizing consumer trust and transparency is the right thing to do, and it can help the bottom line too.*
+      - *As computing systems become increasingly bigger and more complex, forensics have become an increasingly important part of how organizations can better secure them. As the recent Solar Winds breach has shown, it’s not always just a matter of being able to iden…*
        
-  - Dell is spinning out VMware in a deal expected to generate over $9B for the company
+  - Flipkart to acquire online travel firm Cleartrip
       <hr/>
        
-       - *Dell announced this afternoon that it’s spinning out VMware, a move that has been suspected for some time. Dell, which acquired VMware as part of the massive $67 billion EMC acquisition in 2015, owns approximately 80% of the stock and the company is expected …*
+       - *Flipkart said on Thursday it has agreed to acquire online travel firm Cleartrip as the Walmart-owned e-commerce firm looks to expand its offerings in the world’s second largest internet market. The deal values Cleartrip, which raised about $74 million prior t…*
       
 
 <br />
