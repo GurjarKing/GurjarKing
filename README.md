@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Connected Cannabis Co. raises $30 million to bring its designer weed strains to more states
+  - Daily Crunch: Coinbase goes public
      <hr/>
      
-      - *Connected Cannabis Co. was founded in 2009 and has since grown to become a leading cultivator of designer cannabis strains. Today, the company announced $30 million in debt and equity financing. This comes after the company raised a $25 million Series A in 20…*
+      - *Coinbase makes an impressive public debut, Dell spins out VMware and Ford announces a new hands-free driving system. This is your Daily Crunch for April 14, 2021. The big story: Coinbase goes public Cryptocurrency exchange Coinbase went public today via direc…*
      
-  - Homebound aims to help solve Austin's housing shortage problem
+  - Creator monetization and CRM startup Pico raises $6.5M
       <hr/>
       
-      - *The sheer volume of people migrating to Austin from all over the country, but particularly from the San Francisco Bay Area, has been making headlines for a while now. One result of this continued migration is a steady surge in housing prices due to increased …*
+      - *Pico, a New York startup that helps online creators and media companies make money and manage their customer data, announced today that it has launched an upgraded platform and raised $6.5 million in new funding. In a statement, the startup’s co-founder and C…*
       
-  - The TechCrunch Survey of Tech Startup Hubs in England and Wales
+  - Hear how to raise big funding (and use it well) from FirstMark's Rick Heitzmann and Orchard's Court Cunningham
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey European founders and investors in cities outside the major European capitals. Over the next few weeks, we will ask entrepreneurs in these cities to talk about their ecosystems, in their own words. For …*
+      - *Orchard, founded in 2017, was relatively early to the proptech industry. The company, originally called Perch, focused on dual-trackers, which are folks who are both buying and selling a home simultaneously. FirstMark Capital led both the Series A and the Ser…*
       
-  - Boasting menus from chefs at French Laundry, vegetarian mealkit startup Simple Feast hits the U.S.
+  - Building customer-first relationships in a privacy-first world is critical
       <hr/>
       
-      - *Offering a respite from processed foods for the richest 20% of Americans, Simple Feast has landed on U.S. shores with a mission to expand its presence on the back of $45 million in financing from investors. The European startup is looking to take a page from …*
+      - *With clarity of vision, privacy can improve business outcomes. Prioritizing consumer trust and transparency is the right thing to do, and it can help the bottom line too.*
        
-  - Slice raises $40M to power ordering and marketing for independent pizzerias
+  - Dell is spinning out VMware in a deal expected to generate over $9B for the company
       <hr/>
        
-       - *Slice, a startup that helps independent pizzerias build an online business, has raised another $40 million in Series D funding. The round was led by Cross Creek, with participation from KKR, GGV Capital and Primary Ventures, as well as Twitter’s former CEO Di…*
+       - *Dell announced this afternoon that it’s spinning out VMware, a move that has been suspected for some time. Dell, which acquired VMware as part of the massive $67 billion EMC acquisition in 2015, owns approximately 80% of the stock and the company is expected …*
       
 
 <br />
