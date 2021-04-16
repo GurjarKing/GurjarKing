@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - IBM acquires Italy's MyInvenio to integrate process mining directly into its suite of automation tools
+  - All the tech crammed into the 2022 Mercedes-Benz EQS
      <hr/>
      
-      - *Automation has become a big theme in enterprise IT, with organizations using RPA, no-code and low-code tools, and other  technology to speed up work and bring more insights and analytics into how they do things every day, and today IBM is announcing an acquis…*
+      - *Mercedes-Benz lifted the final veil Thursday on its flagship EQS sedan after weeks of teasers, announcements and even a pre-production drive that TechCrunch participated in. The company peeled off the camouflage of the EQS — the electric counterpart to the Me…*
      
-  - Altman brothers lead B2B payment startup Routable's $30M Series B
+  - Sen. Wyden proposes limits on exportation of American's personal data
       <hr/>
       
-      - *We all know the COVID-19 pandemic has accelerated digital adoption in a number of areas, particularly in the financial services space. Within financial services, there are few spaces hotter than B2B payments. With a $120 trillion market size, it’s no surprise…*
+      - *Senator Ron Wyden (D-OR) has proposed a draft bill that would limit the types of information that could be bought and sold by tech companies abroad, and the countries it could be legally sold in. The legislation is imaginative and not highly specific, but it …*
       
-  - SoftBank in talks to invest up to $500 million in Swiggy
+  - Twitter bans James O'Keefe of Project Veritas over fake account policy
       <hr/>
       
-      - *SoftBank Vision Fund 2 is in advanced stages of talks to invest up to half a billion dollars into food delivery startup Swiggy, two sources familiar with the matter told TechCrunch. The new investment values the Indian startup at about $5.5 billion, the sourc…*
+      - *Twitter has banned right-wing provocateur James O’Keefe, creator of political gotcha video producer Project Veritas, for violating its “platform manipulation and spam policy,” suggesting he was operating multiple accounts in an unsanctioned way. O’Keefe has a…*
       
-  - Cado Security locks in $10M for its cloud-native digital forensics platform
+  - Daily Crunch: Google Earth gets an update
       <hr/>
       
-      - *As computing systems become increasingly bigger and more complex, forensics have become an increasingly important part of how organizations can better secure them. As the recent Solar Winds breach has shown, it’s not always just a matter of being able to iden…*
+      - *Google Earth gives users a new look at a changing planet, Facebook tests new business discovery features and Autodesk acquires Upchain. This is your Daily Crunch for April 15, 2021. The big story: Google Earth gets an update Google is describing this as Googl…*
        
-  - Flipkart to acquire online travel firm Cleartrip
+  - Should Dell have pursued a more aggressive debt-reduction move with VMware?
       <hr/>
        
-       - *Flipkart said on Thursday it has agreed to acquire online travel firm Cleartrip as the Walmart-owned e-commerce firm looks to expand its offerings in the world’s second largest internet market. The deal values Cleartrip, which raised about $74 million prior t…*
+       - *The spin-out generates a large slug of cash Dell can use for debt relief, but could it have squeezed more money out of the deal?*
       
 
 <br />
