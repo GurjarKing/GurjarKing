@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - All the tech crammed into the 2022 Mercedes-Benz EQS
+  - 1Doc3, a Colombian telemedicine startup, raises $3 million
      <hr/>
      
-      - *Mercedes-Benz lifted the final veil Thursday on its flagship EQS sedan after weeks of teasers, announcements and even a pre-production drive that TechCrunch participated in. The company peeled off the camouflage of the EQS — the electric counterpart to the Me…*
+      - *The pandemic has made telemedicine video visits in the U.S. almost commonplace, but in Latin America, where broadband isn’t widely available, 1Doc3 is using text and chat to provide access to care. Today, the Colombia-based company announced a $3 million pre-…*
      
-  - Sen. Wyden proposes limits on exportation of American's personal data
+  - Medtronic partners with cybersecurity startup Sternum to protect its pacemakers from hackers
       <hr/>
       
-      - *Senator Ron Wyden (D-OR) has proposed a draft bill that would limit the types of information that could be bought and sold by tech companies abroad, and the countries it could be legally sold in. The legislation is imaginative and not highly specific, but it …*
+      - *If you think cyberattacks are scary, what if those attacks were directed at your cardiac pacemaker? Medtronic, a medical device company, has been in hot water over the last couple of years because its pacemakers were getting hacked through their internet-base…*
       
-  - Twitter bans James O'Keefe of Project Veritas over fake account policy
+  - Facebook faces 'mass action' lawsuit in Europe over 2019 breach
       <hr/>
       
-      - *Twitter has banned right-wing provocateur James O’Keefe, creator of political gotcha video producer Project Veritas, for violating its “platform manipulation and spam policy,” suggesting he was operating multiple accounts in an unsanctioned way. O’Keefe has a…*
+      - *Facebook is to be sued in Europe over the major leak of user data that dates back to 2019 but which only came to light recently after information on 533M+ accounts was found posted for free download on a hacker forum. Today Digital Rights Ireland (DRI) announ…*
       
-  - Daily Crunch: Google Earth gets an update
+  - Pakistan temporarily blocks social media
       <hr/>
       
-      - *Google Earth gives users a new look at a changing planet, Facebook tests new business discovery features and Autodesk acquires Upchain. This is your Daily Crunch for April 15, 2021. The big story: Google Earth gets an update Google is describing this as Googl…*
+      - *Pakistan has temporarily blocked several social media services in the South Asian nation, according to users and a government-issued notice reviewed by TechCrunch. In an order titled “Complete Blocking of Social Media Platforms,” the Pakistani government orde…*
        
-  - Should Dell have pursued a more aggressive debt-reduction move with VMware?
+  - Oxbotica raises $13.8M from Ocado to build autonomous vehicle tech for the online grocer's logistics network
       <hr/>
        
-       - *The spin-out generates a large slug of cash Dell can use for debt relief, but could it have squeezed more money out of the deal?*
+       - *Ocado, the UK online grocer that has been making strides reselling its technology to other grocery companies to help them build and run their own online ordering-and-delivery operations, is making an investment today into what it believes will be the next cha…*
       
 
 <br />
