@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 1Doc3, a Colombian telemedicine startup, raises $3 million
+  - Daily Crunch: Squarespace files to go public
      <hr/>
      
-      - *The pandemic has made telemedicine video visits in the U.S. almost commonplace, but in Latin America, where broadband isn’t widely available, 1Doc3 is using text and chat to provide access to care. Today, the Colombia-based company announced a $3 million pre-…*
+      - *Squarespace is going public, Apple shares some music payment details and Twitter bans the founder of the right-wing media organization Project Veritas. This is your Daily Crunch for April 16, 2021. The big story: Squarespace files to go public Squarespace has…*
      
-  - Medtronic partners with cybersecurity startup Sternum to protect its pacemakers from hackers
+  - Peloton responds to concerns over Apple GymKit integration
       <hr/>
       
-      - *If you think cyberattacks are scary, what if those attacks were directed at your cardiac pacemaker? Medtronic, a medical device company, has been in hot water over the last couple of years because its pacemakers were getting hacked through their internet-base…*
+      - *Third-party hardware integration can be a tricky thing. Peloton this week raised some eyebrows by dropping Apple GymKit compatibility for its Bike Bootcamp program. Users were, naturally, quick to react. The situation left some wondering whether the move was …*
       
-  - Facebook faces 'mass action' lawsuit in Europe over 2019 breach
+  - Business continuity planning is a necessity for your fund and portfolio
       <hr/>
       
-      - *Facebook is to be sued in Europe over the major leak of user data that dates back to 2019 but which only came to light recently after information on 533M+ accounts was found posted for free download on a hacker forum. Today Digital Rights Ireland (DRI) announ…*
+      - *A business continuity plan does not have to be complicated or long, but it needs to tell you or your senior team how to keep big things moving forward and what's needed to get things done.*
       
-  - Pakistan temporarily blocks social media
+  - Katie Haun on saying yes to Coinbase and where a16z's crypto fund is largely placing its bets now
       <hr/>
       
-      - *Pakistan has temporarily blocked several social media services in the South Asian nation, according to users and a government-issued notice reviewed by TechCrunch. In an order titled “Complete Blocking of Social Media Platforms,” the Pakistani government orde…*
+      - *Coinbase, the newly public cryptocurrency exchange, has had it share of ups and downs. Still, the nearly nine-year-old, San Francisco-based outfit got a lot right ahead of its highly successful direct listing this week, and among those things, seemingly, was …*
        
-  - Oxbotica raises $13.8M from Ocado to build autonomous vehicle tech for the online grocer's logistics network
+  - SpaceX wins NASA contract to develop human landing system for returning to the Moon
       <hr/>
        
-       - *Ocado, the UK online grocer that has been making strides reselling its technology to other grocery companies to help them build and run their own online ordering-and-delivery operations, is making an investment today into what it believes will be the next cha…*
+       - *The winner of NASA’s Human Landing System (HLS) contract award is SpaceX, which bid $2.9 billion for the privilege of developing the means by which NASA astronauts will return to the lunar surface for the first time since the Apollo program. SpaceX was in the…*
       
 
 <br />
