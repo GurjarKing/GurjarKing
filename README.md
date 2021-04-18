@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Squarespace files to go public
+  - Consumer agency warns against Peloton Tread+ use, as company pushes back
      <hr/>
      
-      - *Squarespace is going public, Apple shares some music payment details and Twitter bans the founder of the right-wing media organization Project Veritas. This is your Daily Crunch for April 16, 2021. The big story: Squarespace files to go public Squarespace has…*
+      - *Almost exactly a month ago, Peloton CEO John Foley wrote an open letter about the the company’s treadmill. “I’m reaching out to you today because I recently learned about a tragic accident involving a child and the Tread+, resulting in, unthinkably, a death,”…*
      
-  - Peloton responds to concerns over Apple GymKit integration
+  - Why it's not surprising to see nine-figure AI rounds
       <hr/>
       
-      - *Third-party hardware integration can be a tricky thing. Peloton this week raised some eyebrows by dropping Apple GymKit compatibility for its Bike Bootcamp program. Users were, naturally, quick to react. The situation left some wondering whether the move was …*
+      - *This week Scale AI raised a $325 million Series E. The company, as TechCrunch has written, works in the data labeling space. And it has been on a fundraising tear over the last few years.*
       
-  - Business continuity planning is a necessity for your fund and portfolio
+  - What does it take to create a startup ecosystem?
       <hr/>
       
-      - *A business continuity plan does not have to be complicated or long, but it needs to tell you or your senior team how to keep big things moving forward and what's needed to get things done.*
+      - *Say it louder for the people in the back: As tech grows bigger by the minute and venture capital adds dollar signs by the day, a startup hub’s success is not an either/or situation. The next Silicon Valley is a tired narrative, when in reality startups look, …*
       
-  - Katie Haun on saying yes to Coinbase and where a16z's crypto fund is largely placing its bets now
+  - How one founder build a startup around compassion and care facilitated by AI
       <hr/>
       
-      - *Coinbase, the newly public cryptocurrency exchange, has had it share of ups and downs. Still, the nearly nine-year-old, San Francisco-based outfit got a lot right ahead of its highly successful direct listing this week, and among those things, seemingly, was …*
+      - *In the second episode of our new podcast Found, our guest is Brie Code. Code is the founder and CEO of TRU LUV, a startup based out of Toronto that has its roots in the game industry, but that is taking a radically different approach to designing interactive …*
        
-  - SpaceX wins NASA contract to develop human landing system for returning to the Moon
+  - Hear how StockX brought the sneaker scene to Detroit
       <hr/>
        
-       - *The winner of NASA’s Human Landing System (HLS) contract award is SpaceX, which bid $2.9 billion for the privilege of developing the means by which NASA astronauts will return to the lunar surface for the first time since the Apollo program. SpaceX was in the…*
+       - *At TechCrunch’s Detroit City Spotlight this week, I sat down with Rae Witte, the journalist behind the StockX EC-1. TechCrunch’s EC-1 push allows individual authors to go deep on a particular company. And as StockX has been headquartered in Detroit since its …*
       
 
 <br />
