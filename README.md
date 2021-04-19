@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Consumer agency warns against Peloton Tread+ use, as company pushes back
+  - India's Razorpay raises funds at $3 billion valuation ahead of Southeast Asia launch
      <hr/>
      
-      - *Almost exactly a month ago, Peloton CEO John Foley wrote an open letter about the the company’s treadmill. “I’m reaching out to you today because I recently learned about a tragic accident involving a child and the Tread+, resulting in, unthinkably, a death,”…*
+      - *Six-year-old Bangalore-based fintech Razorpay topped a $1 billion valuation late last year, becoming the first Y Combinator-backed Indian startup to reach the much sought after unicorn status. In less than six months since, the Indian startup has tripled its …*
      
+  - Once VMware is free from Dell, who might fancy buying it?
+      <hr/>
+      
+      - *If you accept that VMware is in play, the prospective price tag means that the number of firms that could afford such a purchase are few and far between.*
+      
+  - Consumer agency warns against Peloton Tread+ use, as company pushes back
+      <hr/>
+      
+      - *Almost exactly a month ago, Peloton CEO John Foley wrote an open letter about the the company’s treadmill. “I’m reaching out to you today because I recently learned about a tragic accident involving a child and the Tread+, resulting in, unthinkably, a death,”…*
+      
   - Why it's not surprising to see nine-figure AI rounds
       <hr/>
       
       - *This week Scale AI raised a $325 million Series E. The company, as TechCrunch has written, works in the data labeling space. And it has been on a fundraising tear over the last few years.*
-      
+       
   - What does it take to create a startup ecosystem?
       <hr/>
-      
-      - *Say it louder for the people in the back: As tech grows bigger by the minute and venture capital adds dollar signs by the day, a startup hub’s success is not an either/or situation. The next Silicon Valley is a tired narrative, when in reality startups look, …*
-      
-  - How one founder build a startup around compassion and care facilitated by AI
-      <hr/>
-      
-      - *In the second episode of our new podcast Found, our guest is Brie Code. Code is the founder and CEO of TRU LUV, a startup based out of Toronto that has its roots in the game industry, but that is taking a radically different approach to designing interactive …*
        
-  - Hear how StockX brought the sneaker scene to Detroit
-      <hr/>
-       
-       - *At TechCrunch’s Detroit City Spotlight this week, I sat down with Rae Witte, the journalist behind the StockX EC-1. TechCrunch’s EC-1 push allows individual authors to go deep on a particular company. And as StockX has been headquartered in Detroit since its …*
+       - *Say it louder for the people in the back: As tech grows bigger by the minute and venture capital adds dollar signs by the day, a startup hub’s success is not an either/or situation. The next Silicon Valley is a tired narrative, when in reality startups look, …*
       
 
 <br />
