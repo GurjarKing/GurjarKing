@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - India's Razorpay raises funds at $3 billion valuation ahead of Southeast Asia launch
+  - HDS, from the Borders and Webvan founder, raises $3M as it gears up to launch its robot-run grocery and general merchandise play
      <hr/>
      
-      - *Six-year-old Bangalore-based fintech Razorpay topped a $1 billion valuation late last year, becoming the first Y Combinator-backed Indian startup to reach the much sought after unicorn status. In less than six months since, the Indian startup has tripled its …*
+      - *The online grocery market is poised to get a little more crowded in the next several months, with the launch of a startup led by a veteran founder who has taken big hits from Amazon in the past, but now hopes to come back swinging with the help of an army of …*
      
-  - Once VMware is free from Dell, who might fancy buying it?
+  - NASA makes history by flying a helicopter on Mars for the first time
       <hr/>
       
-      - *If you accept that VMware is in play, the prospective price tag means that the number of firms that could afford such a purchase are few and far between.*
+      - *NASA has marked a major milestone in its extraterrestrial exploration program, with the first powered flight of an aircraft on Mars. The flight occurred very early this morning, and NASA received telemetry confirming that the ‘Ingenuity’ helicopter it sent to…*
       
-  - Consumer agency warns against Peloton Tread+ use, as company pushes back
+  - Clubhouse closes an undisclosed $4Bn valuation Series C round, as tech giants' clones circle
       <hr/>
       
-      - *Almost exactly a month ago, Peloton CEO John Foley wrote an open letter about the the company’s treadmill. “I’m reaching out to you today because I recently learned about a tragic accident involving a child and the Tread+, resulting in, unthinkably, a death,”…*
+      - *Buzzy ‘social audio’ app Clubhouse has raised a Series C funding round, reportedly valuing the company at $4 billion. Clubhouse said the new round of financing was led by Andrew Chen of Andreessen Horowitz, with participation from DST Global, Tiger Global and…*
       
-  - Why it's not surprising to see nine-figure AI rounds
+  - Volvo to supply Chinese ride hailing giant Didi with autonomous driving cars
       <hr/>
       
-      - *This week Scale AI raised a $325 million Series E. The company, as TechCrunch has written, works in the data labeling space. And it has been on a fundraising tear over the last few years.*
+      - *As the autonomous driving race in China heats up, Didi is rushing to expand its car fleets by picking Swedish automaker Volvo, an old partner of Uber, as its ally. Didi said on Monday it will be using the XC90 SUVs of Volvo, which has been owned by Chinese au…*
        
-  - What does it take to create a startup ecosystem?
+  - Andela begins global expansion in 37 countries months after going remote across Africa
       <hr/>
        
-       - *Say it louder for the people in the back: As tech grows bigger by the minute and venture capital adds dollar signs by the day, a startup hub’s success is not an either/or situation. The next Silicon Valley is a tired narrative, when in reality startups look, …*
+       - *More than a year after the pandemic began, remote work shows no signs of going away. While it has its cons, it remains top of mind for potential employees around the world before joining a new company. But while most people in Africa still go to physical offi…*
       
 
 <br />
