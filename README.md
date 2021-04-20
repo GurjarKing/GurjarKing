@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - HDS, from the Borders and Webvan founder, raises $3M as it gears up to launch its robot-run grocery and general merchandise play
+  - Payhawk raises $20 million to unify corporate cards, payments and expenses
      <hr/>
      
-      - *The online grocery market is poised to get a little more crowded in the next several months, with the launch of a startup led by a veteran founder who has taken big hits from Amazon in the past, but now hopes to come back swinging with the help of an army of …*
+      - *Fintech startup Payhawk has raised a $20 million funding round. QED Investors is leading the round with existing investor Earlybird Digital East also participating. Payhawk is building a unified system to manage all the money that is going in and out. Essenti…*
      
-  - NASA makes history by flying a helicopter on Mars for the first time
+  - Daily Crunch: Facebook announces new audio products
       <hr/>
       
-      - *NASA has marked a major milestone in its extraterrestrial exploration program, with the first powered flight of an aircraft on Mars. The flight occurred very early this morning, and NASA received telemetry confirming that the ‘Ingenuity’ helicopter it sent to…*
+      - *Facebook reveals its Clubhouse competitor, Parler will return to Apple’s App Store and a helicopter flies on Mars. This is your Daily Crunch for April 19, 2021. The big story: Facebook announces new audio products Yes, these products include new Clubhouse-sty…*
       
-  - Clubhouse closes an undisclosed $4Bn valuation Series C round, as tech giants' clones circle
+  - What to expect from Apple’s Spring Loaded event
       <hr/>
       
-      - *Buzzy ‘social audio’ app Clubhouse has raised a Series C funding round, reportedly valuing the company at $4 billion. Clubhouse said the new round of financing was led by Andrew Chen of Andreessen Horowitz, with participation from DST Global, Tiger Global and…*
+      - *Surprise! It’s another Apple Event. Gone are the days of getting a few weeks’ notice before these events now that they’re entirely virtual (at least until 2022, most likely). Instead, the company just dropped the news last week. Thankfully, there have been pl…*
       
-  - Volvo to supply Chinese ride hailing giant Didi with autonomous driving cars
+  - Druva raises $147M at a valuation north of $2B as the cloud rush continues
       <hr/>
       
-      - *As the autonomous driving race in China heats up, Didi is rushing to expand its car fleets by picking Swedish automaker Volvo, an old partner of Uber, as its ally. Didi said on Monday it will be using the XC90 SUVs of Volvo, which has been owned by Chinese au…*
+      - *Druva, a software company that sells cloud data backup services, announced today that it has closed a $147 million round of capital. Caisse de dépôt et placement du Québec (CDPQ), a group that manages Quebec’s pension fund, led the round, which also saw parti…*
        
-  - Andela begins global expansion in 37 countries months after going remote across Africa
+  - Flawed data is putting people with disabilities at risk
       <hr/>
        
-       - *More than a year after the pandemic began, remote work shows no signs of going away. While it has its cons, it remains top of mind for potential employees around the world before joining a new company. But while most people in Africa still go to physical offi…*
+       - *Our products are long overdue for a new, fairer data framework to ensure that data is managed with people with disabilities in mind.*
       
 
 <br />
