@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Payhawk raises $20 million to unify corporate cards, payments and expenses
+  - Alphabet’s CapitalG leads $40 million round in fintech Mantl
      <hr/>
      
-      - *Fintech startup Payhawk has raised a $20 million funding round. QED Investors is leading the round with existing investor Earlybird Digital East also participating. Payhawk is building a unified system to manage all the money that is going in and out. Essenti…*
+      - *Community banks and credit unions aim to be the heart of the, well, communities, they serve. But without the big budgets of larger institutions, keeping up technology-wise can be a challenge. And not only are they competing with legacy players, there is also …*
      
-  - Daily Crunch: Facebook announces new audio products
+  - Pulumi launches version 3.0 of its infrastructure-as-code platform
       <hr/>
       
-      - *Facebook reveals its Clubhouse competitor, Parler will return to Apple’s App Store and a helicopter flies on Mars. This is your Daily Crunch for April 19, 2021. The big story: Facebook announces new audio products Yes, these products include new Clubhouse-sty…*
+      - *Pulumi was one of the first of what is now a growing number of infrastructure-as-code startups and today, at its developer conference, the company is launching version 3.0 of its cloud engineering platform. With 70 new features and about 1,000 improvements si…*
       
-  - What to expect from Apple’s Spring Loaded event
+  - After a decade of bootstrapping, Octopus Deploy raises $172.5M from Insight Partners
       <hr/>
       
-      - *Surprise! It’s another Apple Event. Gone are the days of getting a few weeks’ notice before these events now that they’re entirely virtual (at least until 2022, most likely). Instead, the company just dropped the news last week. Thankfully, there have been pl…*
+      - *Founded almost a decade ago, Octopus Deploy has grown to serve 25,000 organizations, including Microsoft, NASA, Xero, Disney and Stack Overflow, through bootstrapping. Today the company announced its first outside investment. Insight Partners has taken a mino…*
       
-  - Druva raises $147M at a valuation north of $2B as the cloud rush continues
+  - Cannabis banking act passes U.S. House with bipartisan support
       <hr/>
       
-      - *Druva, a software company that sells cloud data backup services, announced today that it has closed a $147 million round of capital. Caisse de dépôt et placement du Québec (CDPQ), a group that manages Quebec’s pension fund, led the round, which also saw parti…*
+      - *The U.S. House of Representatives passed a landmark bill aimed at easing restrictions placed on the cannabis industry. The SAFE ACT (Secure and Fair Enforcement) banking act provides safe harbor for financial institutions to work with cannabis operators. If p…*
        
-  - Flawed data is putting people with disabilities at risk
+  - Chargebee valued at $1.4 billion in new $125 million fundraise
       <hr/>
        
-       - *Our products are long overdue for a new, fairer data framework to ensure that data is managed with people with disabilities in mind.*
+       - *A startup that enables businesses to set up and manage their billing, subscription, revenue operations and compliance has become the newest firm to earn the much coveted unicorn status. Chennai and San Francisco-headquartered Chargebee said on Tuesday it has …*
       
 
 <br />
