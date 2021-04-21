@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - All the electric vehicles that stood out at the Shanghai Auto Show
+  - Hive raises $85M for AI-based APIs to help moderate content, identify objects and more
      <hr/>
      
-      - *The 19th annual Shanghai Auto Show delivered a bevy of electric and tech-centric vehicles this year. Chinese, European and U.S. automakers showed off their latest offerings in every price segment, from the budget-minded ​​Wuling Hong Guang Mini via a joint ve…*
+      - *As content moderation continues to be a critical aspect of how social media platforms work — one that they may be pressured to get right, or at least do better in tackling — a startup that has built a set of data and image models to help with that, along with…*
      
-  - Apple event fails to save the company's stock from broader market sell-off
+  - Running apps still lag behind on privacy and security
       <hr/>
       
-      - *Today’s Apple event, chock-full of the company’s products that will help decide whether the company meets, exceeds or undershoots Wall Street expectations for its future growth and performance, had little to no impact on its share price. By now this is the th…*
+      - *Some of the apps have made improvements. But none use two-factor authentication.*
       
-  - UK's IoT 'security by design' law will cover smartphones too
+  - Expenses startup Pleo preps $100M Series C funding, launches new bill payments service
       <hr/>
       
-      - *Smartphones will be included in the scope of a planned ‘security by design’ UK law aimed at beefing up the security of consumer devices, the government said today. It made the announcement in its response to a consultation on legislative plans aimed at tackli…*
+      - *Late-stage Fintech startup Pleo, which offers expense management tools and ‘smart’ company Mastercards, says it plans to raise a Series C round of funding this summer. It’s also launching a B2B bill payments service this week. Co-founder and CEO Jeppe Rindom …*
       
-  - Netflix blames 'lighter content slate' for slowing subscriber growth
+  - ActiveCampaign raises $240M at a $3B valuation as marketing and sales automation come into focus for SMBs
       <hr/>
       
-      - *Netflix added 4.0 million net new subscribers in the first quarter of 2021, bringing its total subscriber base to 207.6 million, according to its latest earnings report. Any year-over-year comparison was inevitably going to make this latest quarter seem disap…*
+      - *As businesses continue to adopt new digital tools to get their names out into the world, a startup that’s built a sales and marketing platform specifically for small and medium businesses is announcing a big round of funding. ActiveCampaign, which has built w…*
        
-  - BlaBlaCar raises $115 million to build all-in-one travel app
+  - Gogoro partners with India's Hero MotoCorp, one of the world's largest two-wheel vehicle makers
       <hr/>
        
-       - *French startup BlaBlaCar has raised a new $115 million funding round (€97 million). While the company is better known for its long distance carpooling marketplace, BlaBlaCar has also added a bus marketplace with the acquisition of Ouibus and an online bus tic…*
+       - *Electric scooters powered by Gogoro’s swappable, rechargeable batteries now account for nearly a quarter of monthly sales in Taiwan, its home market. But one of the most frequent questions co-founder and chief executive officer Horace Luke gets asked is when …*
       
 
 <br />
