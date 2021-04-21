@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Alphabet’s CapitalG leads $40 million round in fintech Mantl
+  - All the electric vehicles that stood out at the Shanghai Auto Show
      <hr/>
      
-      - *Community banks and credit unions aim to be the heart of the, well, communities, they serve. But without the big budgets of larger institutions, keeping up technology-wise can be a challenge. And not only are they competing with legacy players, there is also …*
+      - *The 19th annual Shanghai Auto Show delivered a bevy of electric and tech-centric vehicles this year. Chinese, European and U.S. automakers showed off their latest offerings in every price segment, from the budget-minded ​​Wuling Hong Guang Mini via a joint ve…*
      
-  - Pulumi launches version 3.0 of its infrastructure-as-code platform
+  - Apple event fails to save the company's stock from broader market sell-off
       <hr/>
       
-      - *Pulumi was one of the first of what is now a growing number of infrastructure-as-code startups and today, at its developer conference, the company is launching version 3.0 of its cloud engineering platform. With 70 new features and about 1,000 improvements si…*
+      - *Today’s Apple event, chock-full of the company’s products that will help decide whether the company meets, exceeds or undershoots Wall Street expectations for its future growth and performance, had little to no impact on its share price. By now this is the th…*
       
-  - After a decade of bootstrapping, Octopus Deploy raises $172.5M from Insight Partners
+  - UK's IoT 'security by design' law will cover smartphones too
       <hr/>
       
-      - *Founded almost a decade ago, Octopus Deploy has grown to serve 25,000 organizations, including Microsoft, NASA, Xero, Disney and Stack Overflow, through bootstrapping. Today the company announced its first outside investment. Insight Partners has taken a mino…*
+      - *Smartphones will be included in the scope of a planned ‘security by design’ UK law aimed at beefing up the security of consumer devices, the government said today. It made the announcement in its response to a consultation on legislative plans aimed at tackli…*
       
-  - Cannabis banking act passes U.S. House with bipartisan support
+  - Netflix blames 'lighter content slate' for slowing subscriber growth
       <hr/>
       
-      - *The U.S. House of Representatives passed a landmark bill aimed at easing restrictions placed on the cannabis industry. The SAFE ACT (Secure and Fair Enforcement) banking act provides safe harbor for financial institutions to work with cannabis operators. If p…*
+      - *Netflix added 4.0 million net new subscribers in the first quarter of 2021, bringing its total subscriber base to 207.6 million, according to its latest earnings report. Any year-over-year comparison was inevitably going to make this latest quarter seem disap…*
        
-  - Chargebee valued at $1.4 billion in new $125 million fundraise
+  - BlaBlaCar raises $115 million to build all-in-one travel app
       <hr/>
        
-       - *A startup that enables businesses to set up and manage their billing, subscription, revenue operations and compliance has become the newest firm to earn the much coveted unicorn status. Chennai and San Francisco-headquartered Chargebee said on Tuesday it has …*
+       - *French startup BlaBlaCar has raised a new $115 million funding round (€97 million). While the company is better known for its long distance carpooling marketplace, BlaBlaCar has also added a bus marketplace with the acquisition of Ouibus and an online bus tic…*
       
 
 <br />
