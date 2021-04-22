@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Look at this tiny new Polaroid camera can you believe it
+  - Medchart raises $17M to help businesses more easily access patient-authorized health data
      <hr/>
      
-      - *A lot has changed in the last decade-ish of instant photography, yet all the while the boxy build of instant cameras has stayed more or less intact. Modern instant shooters have slimmed down and put on a variety of calming pastel tones, but they’re not exactl…*
+      - *Electronic health records (EHR) have long held promise as a means of unlocking new superpowers for caregiving and patients in the medical industry, but while they’ve been a thing for a long time, actually accessing and using them hasn’t been as quick to becom…*
      
-  - As UiPath closes above its final private valuation, CFO Ashim Gupta discusses his company's path to market
+  - Forget the piggy bank, Till Financial's kids' spend management app gets Gates' backing
       <hr/>
       
-      - *TechCrunch spoke with UiPath CFO Ashim Gupta today to learn more about his company's foray into the public markets.*
+      - *Today’s children and teens want more power and control over their spending. And while there are a number of financial services and apps out there aimed at helping this demographic save and invest money (Greenlight being among the most popular and well-known),…*
       
-  - Daily Crunch: Google Meet will get a new look and new features
+  - With $30M extension, BigID boosts Series D to $100M at $1.25B valuation
       <hr/>
       
-      - *Google announces upgrades to Google Meet, Amazon is bringing its palm scanner to Whole Foods and Microsoft looks at the effect of video calls on our brains. This is your Daily Crunch for April 21, 2021. The big story: Google Meet will get a new look and new f…*
+      - *When we last heard from BigID at the end of 2020, the company was announcing a $70 million Series D at a $1 billion valuation. Today, it announced a $30 million extension on that deal valuing the company at $1.25 billion just 4 months later. This chunk of mon…*
       
-  - Apple and Google pressed in antitrust hearing on whether app stores share data with product development teams
+  - Will Budweiser brew eggs and will Post cereal make meat?
       <hr/>
       
-      - *In today’s antitrust hearing in the U.S. Senate, Apple and Google representatives were questioned on whether they have a “strict firewall” or other internal policies in place that prevent them from leveraging the data from third-party businesses operating on …*
+      - *Corporations are quickly waking up to the market potential of alternative proteins with the nation’s biggest consumer brands continuing to make investments and create partnerships with startup companies helping consumers transition to healthier and more envir…*
        
-  - New privacy bill would end law enforcement practice of buying data from brokers
+  - Tiger Global backs Indian crypto startup Coinswitch Kuber at over $500M valuation
       <hr/>
        
-       - *A new bill known as the Fourth Amendment is Not for Sale Act would seal up a loophole that intelligence and law enforcement agencies use to obtain troves of sensitive and identifying information to which they wouldn’t otherwise have legal access. The new legi…*
+       - *Coinswitch Kuber, a startup that allows young users in India to invest in cryptocurrencies, said on Thursday it has raised $25 million in a new financing round as it looks to expand its reach in India, the world’s second largest internet market and also the p…*
       
 
 <br />
