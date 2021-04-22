@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Hive raises $85M for AI-based APIs to help moderate content, identify objects and more
+  - Look at this tiny new Polaroid camera can you believe it
      <hr/>
      
-      - *As content moderation continues to be a critical aspect of how social media platforms work — one that they may be pressured to get right, or at least do better in tackling — a startup that has built a set of data and image models to help with that, along with…*
+      - *A lot has changed in the last decade-ish of instant photography, yet all the while the boxy build of instant cameras has stayed more or less intact. Modern instant shooters have slimmed down and put on a variety of calming pastel tones, but they’re not exactl…*
      
-  - Running apps still lag behind on privacy and security
+  - As UiPath closes above its final private valuation, CFO Ashim Gupta discusses his company's path to market
       <hr/>
       
-      - *Some of the apps have made improvements. But none use two-factor authentication.*
+      - *TechCrunch spoke with UiPath CFO Ashim Gupta today to learn more about his company's foray into the public markets.*
       
-  - Expenses startup Pleo preps $100M Series C funding, launches new bill payments service
+  - Daily Crunch: Google Meet will get a new look and new features
       <hr/>
       
-      - *Late-stage Fintech startup Pleo, which offers expense management tools and ‘smart’ company Mastercards, says it plans to raise a Series C round of funding this summer. It’s also launching a B2B bill payments service this week. Co-founder and CEO Jeppe Rindom …*
+      - *Google announces upgrades to Google Meet, Amazon is bringing its palm scanner to Whole Foods and Microsoft looks at the effect of video calls on our brains. This is your Daily Crunch for April 21, 2021. The big story: Google Meet will get a new look and new f…*
       
-  - ActiveCampaign raises $240M at a $3B valuation as marketing and sales automation come into focus for SMBs
+  - Apple and Google pressed in antitrust hearing on whether app stores share data with product development teams
       <hr/>
       
-      - *As businesses continue to adopt new digital tools to get their names out into the world, a startup that’s built a sales and marketing platform specifically for small and medium businesses is announcing a big round of funding. ActiveCampaign, which has built w…*
+      - *In today’s antitrust hearing in the U.S. Senate, Apple and Google representatives were questioned on whether they have a “strict firewall” or other internal policies in place that prevent them from leveraging the data from third-party businesses operating on …*
        
-  - Gogoro partners with India's Hero MotoCorp, one of the world's largest two-wheel vehicle makers
+  - New privacy bill would end law enforcement practice of buying data from brokers
       <hr/>
        
-       - *Electric scooters powered by Gogoro’s swappable, rechargeable batteries now account for nearly a quarter of monthly sales in Taiwan, its home market. But one of the most frequent questions co-founder and chief executive officer Horace Luke gets asked is when …*
+       - *A new bill known as the Fourth Amendment is Not for Sale Act would seal up a loophole that intelligence and law enforcement agencies use to obtain troves of sensitive and identifying information to which they wouldn’t otherwise have legal access. The new legi…*
       
 
 <br />
