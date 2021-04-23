@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Medchart raises $17M to help businesses more easily access patient-authorized health data
+  - Citi Bike rival JOCO brings shared, docked e-bikes to NYC
      <hr/>
      
-      - *Electronic health records (EHR) have long held promise as a means of unlocking new superpowers for caregiving and patients in the medical industry, but while they’ve been a thing for a long time, actually accessing and using them hasn’t been as quick to becom…*
+      - *Move over Citi Bike, there’s a new docked, shared bike service in town — only this one is all electric. Next week, JOCO will be the first shared operator in New York City to launch a network of e-bike stations on private property for public use. The service, …*
      
-  - Forget the piggy bank, Till Financial's kids' spend management app gets Gates' backing
+  - Daily Crunch: First impressions of Apple's AirTags
       <hr/>
       
-      - *Today’s children and teens want more power and control over their spending. And while there are a number of financial services and apps out there aimed at helping this demographic save and invest money (Greenlight being among the most popular and well-known),…*
+      - *We test out Apple’s lost item finder, Google Fi gets a new unlimited plan and Facebook tests new video ad targeting features. This is your Daily Crunch for April 22, 2021. The big story: First impressions of Apple’s AirTags AirTags are Apple’s new Tile compet…*
       
-  - With $30M extension, BigID boosts Series D to $100M at $1.25B valuation
+  - Deepfake tech takes on satellite maps
       <hr/>
       
-      - *When we last heard from BigID at the end of 2020, the company was announcing a $70 million Series D at a $1 billion valuation. Today, it announced a $30 million extension on that deal valuing the company at $1.25 billion just 4 months later. This chunk of mon…*
+      - *While the concept of “deepfakes,” or AI-generated synthetic imagery, has been decried primarily in connection with involuntary depictions of people, the technology is dangerous (and interesting) in other ways as well. For instance, researchers have shown that…*
       
-  - Will Budweiser brew eggs and will Post cereal make meat?
+  - To sell or not to sell: Lessons from a bootstrapped CEO
       <hr/>
       
-      - *Corporations are quickly waking up to the market potential of alternative proteins with the nation’s biggest consumer brands continuing to make investments and create partnerships with startup companies helping consumers transition to healthier and more envir…*
+      - *Regardless of a young company’s struggles or success, sooner or later the question of when, how or whether to sell the enterprise presents itself. It’s the biggest question a founder will face.*
        
-  - Tiger Global backs Indian crypto startup Coinswitch Kuber at over $500M valuation
+  - Forerunner's Eurie Kim will share why she invested in Oura on Extra Crunch Live
       <hr/>
        
-       - *Coinswitch Kuber, a startup that allows young users in India to invest in cryptocurrencies, said on Thursday it has raised $25 million in a new financing round as it looks to expand its reach in India, the world’s second largest internet market and also the p…*
+       - *When it comes to building a successful startup, biotech and hardware happen to be two of the most difficult verticals in the tech industry. But Oura is doing it anyway. The health and fitness tracking ring has been used in a number of studies around COVID-19,…*
       
 
 <br />
