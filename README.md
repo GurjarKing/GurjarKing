@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Citi Bike rival JOCO brings shared, docked e-bikes to NYC
+  - SpaceX successfully launches astronauts with a re-used Dragon spacecraft for the first time
      <hr/>
      
-      - *Move over Citi Bike, there’s a new docked, shared bike service in town — only this one is all electric. Next week, JOCO will be the first shared operator in New York City to launch a network of e-bike stations on private property for public use. The service, …*
+      - *SpaceX has another successful human space launch to its credit, after a good takeoff and orbital delivery of its Crew Dragon spacecraft on Friday morning. The Dragon took off aboard a Falcon 9 rocket from Cape Canaveral in Florida at 5:49 AM EDT (2:49 AM EDT)…*
      
+  - The TechCrunch Germany Survey - Calling Hamburg, Munich, Cologne, Bielefeld, Frankfurt
+      <hr/>
+      
+      - *TechCrunch is embarking on a major new project to survey European founders and investors in cities outside the larger European capitals. Over the next few weeks, we will ask entrepreneurs in these cities to talk about their ecosystems, in their own words. Thi…*
+      
+  - Watch SpaceX launch its second crew of Space Station astronauts on a flight-proven Falcon 9 live
+      <hr/>
+      
+      - *SpaceX is set to launch its second operational commercial crew mission to the International Space Station for NASA, with a liftoff time of 5:49 AM EDT (2:49 AM PDT) on Friday morning. The flight will carry four astronauts, including two from NASA, one from JA…*
+      
+  - Citi Bike rival JOCO brings shared, docked e-bikes to NYC
+      <hr/>
+      
+      - *Move over Citi Bike, there’s a new docked, shared bike service in town — only this one is all electric. Next week, JOCO will be the first shared operator in New York City to launch a network of e-bike stations on private property for public use. The service, …*
+       
   - Daily Crunch: First impressions of Apple's AirTags
       <hr/>
-      
-      - *We test out Apple’s lost item finder, Google Fi gets a new unlimited plan and Facebook tests new video ad targeting features. This is your Daily Crunch for April 22, 2021. The big story: First impressions of Apple’s AirTags AirTags are Apple’s new Tile compet…*
-      
-  - Deepfake tech takes on satellite maps
-      <hr/>
-      
-      - *While the concept of “deepfakes,” or AI-generated synthetic imagery, has been decried primarily in connection with involuntary depictions of people, the technology is dangerous (and interesting) in other ways as well. For instance, researchers have shown that…*
-      
-  - To sell or not to sell: Lessons from a bootstrapped CEO
-      <hr/>
-      
-      - *Regardless of a young company’s struggles or success, sooner or later the question of when, how or whether to sell the enterprise presents itself. It’s the biggest question a founder will face.*
        
-  - Forerunner's Eurie Kim will share why she invested in Oura on Extra Crunch Live
-      <hr/>
-       
-       - *When it comes to building a successful startup, biotech and hardware happen to be two of the most difficult verticals in the tech industry. But Oura is doing it anyway. The health and fitness tracking ring has been used in a number of studies around COVID-19,…*
+       - *We test out Apple’s lost item finder, Google Fi gets a new unlimited plan and Facebook tests new video ad targeting features. This is your Daily Crunch for April 22, 2021. The big story: First impressions of Apple’s AirTags AirTags are Apple’s new Tile compet…*
       
 
 <br />
