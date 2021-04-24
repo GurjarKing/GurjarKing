@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - SpaceX successfully launches astronauts with a re-used Dragon spacecraft for the first time
+  - Bobby Goodlatte has designs on how to succeed in venture, and so far, so good
      <hr/>
      
-      - *SpaceX has another successful human space launch to its credit, after a good takeoff and orbital delivery of its Crew Dragon spacecraft on Friday morning. The Dragon took off aboard a Falcon 9 rocket from Cape Canaveral in Florida at 5:49 AM EDT (2:49 AM EDT)…*
+      - *Bobby Goodlatte has only been an investor for about a decade, but he appears to have already made tens of millions of dollars, contrary to the expectations of some traditional VCs who have privately, and publicly, griped that too many novice investors have fl…*
      
-  - The TechCrunch Germany Survey - Calling Hamburg, Munich, Cologne, Bielefeld, Frankfurt
+  - Passwordstate users warned to 'reset all passwords' after attackers plant malicious update
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey European founders and investors in cities outside the larger European capitals. Over the next few weeks, we will ask entrepreneurs in these cities to talk about their ecosystems, in their own words. Thi…*
+      - *More than 29,000 organizations, including governments, use the password manager.*
       
-  - Watch SpaceX launch its second crew of Space Station astronauts on a flight-proven Falcon 9 live
+  - Daily Crunch: Meet Disney Imagineering's new robot
       <hr/>
       
-      - *SpaceX is set to launch its second operational commercial crew mission to the International Space Station for NASA, with a liftoff time of 5:49 AM EDT (2:49 AM PDT) on Friday morning. The flight will carry four astronauts, including two from NASA, one from JA…*
+      - *We get up close with a robotic Groot, SpaceX has a successful astronaut launch and cryptocurrency prices tumble. This is your Daily Crunch for April 23, 2021. The big story: Meet Disney Imagineering’s new robot Disney Imagineering’s Project Kiwi represents a …*
       
-  - Citi Bike rival JOCO brings shared, docked e-bikes to NYC
+  - Filing: Snap paid $124M for Fit Analytics as it gears up for a bigger e-commerce push
       <hr/>
       
-      - *Move over Citi Bike, there’s a new docked, shared bike service in town — only this one is all electric. Next week, JOCO will be the first shared operator in New York City to launch a network of e-bike stations on private property for public use. The service, …*
+      - *Earlier this year we reported on how Snap had acquired Berlin-based Fit Analytics, an AI-based fitting technology startup, as part of a wider push into e-commerce services, specifically to gain technology that can help prospective online shoppers a better sen…*
        
-  - Daily Crunch: First impressions of Apple's AirTags
+  - Honda targets 100% EV sales in North America by 2040
       <hr/>
        
-       - *We test out Apple’s lost item finder, Google Fi gets a new unlimited plan and Facebook tests new video ad targeting features. This is your Daily Crunch for April 22, 2021. The big story: First impressions of Apple’s AirTags AirTags are Apple’s new Tile compet…*
+       - *Honda’s new goal is to achieve 100% EV sales in North America by 2040 as part of its broader target of being carbon neutral by 2050. CEO Toshihiro Mibe announced planned shift away from internal combustion engines at a news conference on Friday, his first sin…*
       
 
 <br />
