@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Bobby Goodlatte has designs on how to succeed in venture, and so far, so good
+  - 8 investors, founders and execs predict cybersecurity, fintech will take Belfast by storm
      <hr/>
      
-      - *Bobby Goodlatte has only been an investor for about a decade, but he appears to have already made tens of millions of dollars, contrary to the expectations of some traditional VCs who have privately, and publicly, griped that too many novice investors have fl…*
+      - *Belfast is among one of the U.K.'s fastest growing tech hubs, so we reached out to investors, founders and executives for an inside look at the city's startup ecosystem.*
      
+  - Bobby Goodlatte has designs on how to succeed in venture, and so far, so good
+      <hr/>
+      
+      - *Bobby Goodlatte has only been an investor for about a decade, but he appears to have already made tens of millions of dollars, contrary to the expectations of some traditional VCs who have privately, and publicly, griped that too many novice investors have fl…*
+      
   - Passwordstate users warned to 'reset all passwords' after attackers plant malicious update
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *We get up close with a robotic Groot, SpaceX has a successful astronaut launch and cryptocurrency prices tumble. This is your Daily Crunch for April 23, 2021. The big story: Meet Disney Imagineering’s new robot Disney Imagineering’s Project Kiwi represents a …*
-      
+       
   - Filing: Snap paid $124M for Fit Analytics as it gears up for a bigger e-commerce push
       <hr/>
-      
-      - *Earlier this year we reported on how Snap had acquired Berlin-based Fit Analytics, an AI-based fitting technology startup, as part of a wider push into e-commerce services, specifically to gain technology that can help prospective online shoppers a better sen…*
        
-  - Honda targets 100% EV sales in North America by 2040
-      <hr/>
-       
-       - *Honda’s new goal is to achieve 100% EV sales in North America by 2040 as part of its broader target of being carbon neutral by 2050. CEO Toshihiro Mibe announced planned shift away from internal combustion engines at a news conference on Friday, his first sin…*
+       - *Earlier this year we reported on how Snap had acquired Berlin-based Fit Analytics, an AI-based fitting technology startup, as part of a wider push into e-commerce services, specifically to gain technology that can help prospective online shoppers a better sen…*
       
 
 <br />
