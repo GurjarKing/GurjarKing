@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 8 investors, founders and execs predict cybersecurity, fintech will take Belfast by storm
+  - Building a creator-focused OS
      <hr/>
      
-      - *Belfast is among one of the U.K.'s fastest growing tech hubs, so we reached out to investors, founders and executives for an inside look at the city's startup ecosystem.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  A week ago TechCrunch covered Pico’s $6.5 million funding rou…*
      
-  - Bobby Goodlatte has designs on how to succeed in venture, and so far, so good
+  - What the MasterClass effect means for edtech
       <hr/>
       
-      - *Bobby Goodlatte has only been an investor for about a decade, but he appears to have already made tens of millions of dollars, contrary to the expectations of some traditional VCs who have privately, and publicly, griped that too many novice investors have fl…*
+      - *MasterClass, which sells a subscription to celebrity-taught classes, sits on the cusp of entertainment and education. It offers virtual, yet aspirational learning: an online tennis class with Serena Williams, a cooking session with Gordon Ramsay. While there’…*
       
-  - Passwordstate users warned to 'reset all passwords' after attackers plant malicious update
+  - The SEC should do more to make startup equity compensation transparent
       <hr/>
       
-      - *More than 29,000 organizations, including governments, use the password manager.*
+      - *Yifat Aran Contributor Share on Twitter Dr. Yifat Aran is a visiting scholar at the Technion, Israel Institute of Technology, and an incoming Assistant Professor in Haifa University Faculty of Law. She earned her JSD from Stanford Law School where her dissert…*
       
-  - Daily Crunch: Meet Disney Imagineering's new robot
+  - How one founder partnered with NASA to make tires puncture-proof and more sustainable
       <hr/>
       
-      - *We get up close with a robotic Groot, SpaceX has a successful astronaut launch and cryptocurrency prices tumble. This is your Daily Crunch for April 23, 2021. The big story: Meet Disney Imagineering’s new robot Disney Imagineering’s Project Kiwi represents a …*
+      - *This week’s episode of Found features The SMART Tire Company co-founder and CEO Earl Cole, a one-time Survivor champion whose startup is working with NASA to commercialize some of its space-age tech. Cole won a NASA startup competition seeking entrepreneurs t…*
        
-  - Filing: Snap paid $124M for Fit Analytics as it gears up for a bigger e-commerce push
+  - India orders Twitter to take down tweets critical of its coronavirus handling
       <hr/>
        
-       - *Earlier this year we reported on how Snap had acquired Berlin-based Fit Analytics, an AI-based fitting technology startup, as part of a wider push into e-commerce services, specifically to gain technology that can help prospective online shoppers a better sen…*
+       - *Twitter has taken down dozens of tweets in India, some of which were critical of India's handling of the coronavirus, to comply with Indian government's order.*
       
 
 <br />
