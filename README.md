@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Building a creator-focused OS
+  - Gillmor Gang: FreeCoin
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  A week ago TechCrunch covered Pico’s $6.5 million funding rou…*
+      - *The current rave about newsletters and so-called or social audio is just the latest version of the story of podcasting. Take the idea that podcasting is experiencing a new wave of popularity and scaffolding. Are you sure? Apple is bent on turning the space in…*
      
+  - Building a creator-focused OS
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  A week ago TechCrunch covered Pico’s $6.5 million funding rou…*
+      
   - What the MasterClass effect means for edtech
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Yifat Aran Contributor Share on Twitter Dr. Yifat Aran is a visiting scholar at the Technion, Israel Institute of Technology, and an incoming Assistant Professor in Haifa University Faculty of Law. She earned her JSD from Stanford Law School where her dissert…*
-      
+       
   - How one founder partnered with NASA to make tires puncture-proof and more sustainable
       <hr/>
-      
-      - *This week’s episode of Found features The SMART Tire Company co-founder and CEO Earl Cole, a one-time Survivor champion whose startup is working with NASA to commercialize some of its space-age tech. Cole won a NASA startup competition seeking entrepreneurs t…*
        
-  - India orders Twitter to take down tweets critical of its coronavirus handling
-      <hr/>
-       
-       - *Twitter has taken down dozens of tweets in India, some of which were critical of India's handling of the coronavirus, to comply with Indian government's order.*
+       - *This week’s episode of Found features The SMART Tire Company co-founder and CEO Earl Cole, a one-time Survivor champion whose startup is working with NASA to commercialize some of its space-age tech. Cole won a NASA startup competition seeking entrepreneurs t…*
       
 
 <br />
