@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: FreeCoin
+  - Robo-advisor StashAway gets $25M Series D led by Sequoia Capital India
      <hr/>
      
-      - *The current rave about newsletters and so-called or social audio is just the latest version of the story of podcasting. Take the idea that podcasting is experiencing a new wave of popularity and scaffolding. Are you sure? Apple is bent on turning the space in…*
+      - *Investment app StashAway has raised a $25 million Series D led by Sequoia Capital India, with participation from returning investors Eight Roads Ventures and Square Peg. After regulatory approvals for the funding are completed, Sequoia Capital India managing …*
      
-  - Building a creator-focused OS
+  - The #8meals app from Habits of Waste helps people cut back on meaty meals to save the planet
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  A week ago TechCrunch covered Pico’s $6.5 million funding rou…*
+      - *Earth Day may have come and gone, but with apps like #8meals from the non-profit Habits of Waste, anyone can try and do their part to help reduce deforestation and rising greenhouse gas emissions by cutting meat out of their diets for just 8 meals a week. The…*
       
-  - What the MasterClass effect means for edtech
+  - Gardening startups like Neverland want to make every day Earth Day for the home gardener
       <hr/>
       
-      - *MasterClass, which sells a subscription to celebrity-taught classes, sits on the cusp of entertainment and education. It offers virtual, yet aspirational learning: an online tennis class with Serena Williams, a cooking session with Gordon Ramsay. While there’…*
+      - *Vera Kutsenko and Hayley Leibson have incredible tech pedigrees, but their latest venture involves as much digging in dirt as it does digging through lines of code. The two women have founded Neverland, a startup for the home gardener that aims to be a market…*
       
-  - The SEC should do more to make startup equity compensation transparent
+  - Interview: Apple executives on the 2021 iPad Pro, stunting with the M1 and creating headroom
       <hr/>
       
-      - *Yifat Aran Contributor Share on Twitter Dr. Yifat Aran is a visiting scholar at the Technion, Israel Institute of Technology, and an incoming Assistant Professor in Haifa University Faculty of Law. She earned her JSD from Stanford Law School where her dissert…*
+      - *When the third minute of Apple’s first product event of 2021 ticked over and they had already made 3 announcements we knew it was going to be a packed one. In a tight single hour this week, Apple launched a ton of new product including AirTags, new Apple Card…*
        
-  - How one founder partnered with NASA to make tires puncture-proof and more sustainable
+  - Gillmor Gang: FreeCoin
       <hr/>
        
-       - *This week’s episode of Found features The SMART Tire Company co-founder and CEO Earl Cole, a one-time Survivor champion whose startup is working with NASA to commercialize some of its space-age tech. Cole won a NASA startup competition seeking entrepreneurs t…*
+       - *The current rave about newsletters and so-called or social audio is just the latest version of the story of podcasting. Take the idea that podcasting is experiencing a new wave of popularity and scaffolding. Are you sure? Apple is bent on turning the space in…*
       
 
 <br />
