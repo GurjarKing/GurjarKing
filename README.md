@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Robo-advisor StashAway gets $25M Series D led by Sequoia Capital India
+  - Investors eat up Orbillion Bio's plans for lab-grown wagyu beef, elk, and bison
      <hr/>
      
-      - *Investment app StashAway has raised a $25 million Series D led by Sequoia Capital India, with participation from returning investors Eight Roads Ventures and Square Peg. After regulatory approvals for the funding are completed, Sequoia Capital India managing …*
+      - *Orbillion Bio’s plans to make high end meats in a lab have investors lining up for a seat at the company’s cap table. Mere weeks after launching from Y Combinator’s famous accelerator program, the Silicon Valley-based potential purveyor of premium lamb loins,…*
      
-  - The #8meals app from Habits of Waste helps people cut back on meaty meals to save the planet
+  - Mighty Networks raises $50M to build a creator economy for the masses
       <hr/>
       
-      - *Earth Day may have come and gone, but with apps like #8meals from the non-profit Habits of Waste, anyone can try and do their part to help reduce deforestation and rising greenhouse gas emissions by cutting meat out of their diets for just 8 meals a week. The…*
+      - *Mighty Networks, a platform designed to give creators and brands a dedicated place to start and grow communities, has closed on $50 million in a Series B funding round led by Owl Ventures. Ziff Capital Partners and LionTree Partners also participated in the f…*
       
-  - Gardening startups like Neverland want to make every day Earth Day for the home gardener
+  - Insurgent UK broadband startup Cuckoo Internet raises $6M round led by RTP Global,  with JamJar Investments
       <hr/>
       
-      - *Vera Kutsenko and Hayley Leibson have incredible tech pedigrees, but their latest venture involves as much digging in dirt as it does digging through lines of code. The two women have founded Neverland, a startup for the home gardener that aims to be a market…*
+      - *Cuckoo Internet, which is aiming to be an insurgent startup in the broadband provider space in the UK, has closed a $6 million investment round led by RTP Global, along with participation from JamJar Investments. It will also launch on price-comparison site u…*
       
-  - Interview: Apple executives on the 2021 iPad Pro, stunting with the M1 and creating headroom
+  - AI startup Faculty wins contract to predict future requirements for the UK's NHS
       <hr/>
       
-      - *When the third minute of Apple’s first product event of 2021 ticked over and they had already made 3 announcements we knew it was going to be a packed one. In a tight single hour this week, Apple launched a ton of new product including AirTags, new Apple Card…*
+      - *Faculty, a VC-backed artificial intelligence start-up, has won a tender to work with the NHS to make better predictions about its future requirements for patients, based on data drawn from how it handled the COVID-19 pandemic. In December 2019, Faculty raised…*
        
-  - Gillmor Gang: FreeCoin
+  - China's e-commerce giant JD.com starts paying some staff in digital yuan
       <hr/>
        
-       - *The current rave about newsletters and so-called or social audio is just the latest version of the story of podcasting. Take the idea that podcasting is experiencing a new wave of popularity and scaffolding. Are you sure? Apple is bent on turning the space in…*
+       - *China’s plan to introduce its digital currency is getting a lot of help from its tech conglomerates. JD.com, a major Chinese online retailer that competes with Alibaba, said Monday that it has started paying some staff in digital yuan, the virtual version of …*
       
 
 <br />
