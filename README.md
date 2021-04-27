@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Tesla wants to make every home a distributed power plant
+  - Mobile bank Current raises $220 million Series D, triples valuation to $2.2B
      <hr/>
      
-      - *Tesla CEO Elon Musk wants to turn every home into a distributed power plant that would generate, store and even deliver energy back into the electricity grid all using the company’s products. While the company has been selling solar and energy storage product…*
+      - *U.S.-based challenger bank Current, which has now grown to nearly 3 million users, announced this morning it has raised a $220 million round of Series D funding, led by new investor Andreessen Horowitz (a16z). The funding swiftly follows Current’s $131 millio…*
      
-  - The big story: iOS 14.5 brings privacy changes and more
+  - Location data analytics startup Placer.ai raises $50M Series B
       <hr/>
       
-      - *Apple’s latest software upgrade brings a big change, Roku accuses Google of anti-competitive behavior and Brex raises a big funding round. This is your Daily Crunch for April 26, 2021. The big story: iOS 14.5 brings privacy changes and more Apple released the…*
+      - *It’s been a very tough year for Placer.ai’s core customer segments of retail and commercial real estate, to put it mildly. But the foot traffic and location analytics startup saw growth in new categories, including consumer packaged goods (CPG) and hedge fund…*
       
-  - Blockchain startup S!NG wants creators to lean on NFTs to protect their intellectual property
+  - Tellius announces $8M Series A to build ML-fueled business data query tool
       <hr/>
       
-      - *After a years-long crypto winter, it been the spring of NFTs, but as digital art prices sober up after an explosion in sales, blockchain founders are looking to find more stable opportunities in the space that can grow over time even as speculative interest i…*
+      - *Getting actionable business information into the hands of users who need it has always been a challenge. If you have to wait for experts to help you find the answers, chances are you’re going to be too late. Enter Tellius, an early stage startup building a so…*
       
-  - Fifth Wall's Brendan Wallace and Hippo's Assaf Wand discuss proptech's biggest opportunities
+  - Spotify launches paid podcasts through new Anchor feature
       <hr/>
       
-      - *What is the biggest opportunity for proptech founders? How should they think about competition, strategic investment vs. top-tier VC firms, and how to build a board? What about navigating regulation?*
+      - *Spotify today is officially rolling out paid podcast subscriptions, after first unveiling its new subscription platform at the company’s “Stream On” event in February. Through Spotify’s podcast creation tool Anchor, podcasters will be able to mark select epis…*
        
-  - The next tech hearing targets social media algorithms — and YouTube, for once
+  - Canada's newest unicorn: Clio raises $110M at a $1.6B valuation for legal tech
       <hr/>
        
-       - *Another week another big tech hearing in Congress. With a flurry of antitrust reform bills on the way, Democratic lawmakers are again bringing in the some of the world’s most powerful tech companies for questioning. In the next hearing, scheduled for Tuesday,…*
+       - *Clio, a software company that helps law practices run more efficiently with its cloud-based technology, announced Tuesday it has raised a $110 million Series E round co-led by T. Rowe Price Associates Inc. and OMERS Growth Equity. The round propels the Vancou…*
       
 
 <br />
