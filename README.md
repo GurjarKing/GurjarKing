@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Investors eat up Orbillion Bio's plans for lab-grown wagyu beef, elk, and bison
+  - Tesla wants to make every home a distributed power plant
      <hr/>
      
-      - *Orbillion Bio’s plans to make high end meats in a lab have investors lining up for a seat at the company’s cap table. Mere weeks after launching from Y Combinator’s famous accelerator program, the Silicon Valley-based potential purveyor of premium lamb loins,…*
+      - *Tesla CEO Elon Musk wants to turn every home into a distributed power plant that would generate, store and even deliver energy back into the electricity grid all using the company’s products. While the company has been selling solar and energy storage product…*
      
-  - Mighty Networks raises $50M to build a creator economy for the masses
+  - The big story: iOS 14.5 brings privacy changes and more
       <hr/>
       
-      - *Mighty Networks, a platform designed to give creators and brands a dedicated place to start and grow communities, has closed on $50 million in a Series B funding round led by Owl Ventures. Ziff Capital Partners and LionTree Partners also participated in the f…*
+      - *Apple’s latest software upgrade brings a big change, Roku accuses Google of anti-competitive behavior and Brex raises a big funding round. This is your Daily Crunch for April 26, 2021. The big story: iOS 14.5 brings privacy changes and more Apple released the…*
       
-  - Insurgent UK broadband startup Cuckoo Internet raises $6M round led by RTP Global,  with JamJar Investments
+  - Blockchain startup S!NG wants creators to lean on NFTs to protect their intellectual property
       <hr/>
       
-      - *Cuckoo Internet, which is aiming to be an insurgent startup in the broadband provider space in the UK, has closed a $6 million investment round led by RTP Global, along with participation from JamJar Investments. It will also launch on price-comparison site u…*
+      - *After a years-long crypto winter, it been the spring of NFTs, but as digital art prices sober up after an explosion in sales, blockchain founders are looking to find more stable opportunities in the space that can grow over time even as speculative interest i…*
       
-  - AI startup Faculty wins contract to predict future requirements for the UK's NHS
+  - Fifth Wall's Brendan Wallace and Hippo's Assaf Wand discuss proptech's biggest opportunities
       <hr/>
       
-      - *Faculty, a VC-backed artificial intelligence start-up, has won a tender to work with the NHS to make better predictions about its future requirements for patients, based on data drawn from how it handled the COVID-19 pandemic. In December 2019, Faculty raised…*
+      - *What is the biggest opportunity for proptech founders? How should they think about competition, strategic investment vs. top-tier VC firms, and how to build a board? What about navigating regulation?*
        
-  - China's e-commerce giant JD.com starts paying some staff in digital yuan
+  - The next tech hearing targets social media algorithms — and YouTube, for once
       <hr/>
        
-       - *China’s plan to introduce its digital currency is getting a lot of help from its tech conglomerates. JD.com, a major Chinese online retailer that competes with Alibaba, said Monday that it has started paying some staff in digital yuan, the virtual version of …*
+       - *Another week another big tech hearing in Congress. With a flurry of antitrust reform bills on the way, Democratic lawmakers are again bringing in the some of the world’s most powerful tech companies for questioning. In the next hearing, scheduled for Tuesday,…*
       
 
 <br />
