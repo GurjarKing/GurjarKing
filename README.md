@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Mobile bank Current raises $220 million Series D, triples valuation to $2.2B
+  - Founders Circle Capital has raised a new $355 million fund to buy secondary startup shares
      <hr/>
      
-      - *U.S.-based challenger bank Current, which has now grown to nearly 3 million users, announced this morning it has raised a $220 million round of Series D funding, led by new investor Andreessen Horowitz (a16z). The funding swiftly follows Current’s $131 millio…*
+      - *Founders Circle Capital, a nine-year-old, San Francisco-based investment firm that strikes agreements with private, venture-backed companies to buy some of the vested stock options of their founders and employees — so they can buy a house or just breathe a bi…*
      
-  - Location data analytics startup Placer.ai raises $50M Series B
+  - Porsche makes its case for an all-electric Taycan wagon
       <hr/>
       
-      - *It’s been a very tough year for Placer.ai’s core customer segments of retail and commercial real estate, to put it mildly. But the foot traffic and location analytics startup saw growth in new categories, including consumer packaged goods (CPG) and hedge fund…*
+      - *Porsche has always gone its own way when it comes to creating new vehicles. It is, after all, the company that continues to stick to the wacky idea that putting the weight of an engine in the rear of a sports car is a great idea. (It is!) So, bucking the cros…*
       
-  - Tellius announces $8M Series A to build ML-fueled business data query tool
+  - Daily Crunch: Spotify adds support for paid podcasts
       <hr/>
       
-      - *Getting actionable business information into the hands of users who need it has always been a challenge. If you have to wait for experts to help you find the answers, chances are you’re going to be too late. Enter Tellius, an early stage startup building a so…*
+      - *Spotify launches paid podcast support, Amazon announces new tablets and we unveil the agenda for TC Sessions: Mobility. This is your Daily Crunch for April 27, 2021. The big story: Spotify adds support for paid podcasts As first announced in February, Spotify…*
       
-  - Spotify launches paid podcasts through new Anchor feature
+  - At social media hearing, lawmakers circle algorithm-focused Section 230 reform
       <hr/>
       
-      - *Spotify today is officially rolling out paid podcast subscriptions, after first unveiling its new subscription platform at the company’s “Stream On” event in February. Through Spotify’s podcast creation tool Anchor, podcasters will be able to mark select epis…*
+      - *Rather than a CEO-slamming sound bite free-for-all, Tuesday’s big tech hearing on algorithms aimed for more of a listening session vibe — and in that sense it mostly succeeded. The hearing centered on testimony from the policy leads at Facebook, YouTube and T…*
        
-  - Canada's newest unicorn: Clio raises $110M at a $1.6B valuation for legal tech
+  - Big tech earnings in less than 500 words
       <hr/>
        
-       - *Clio, a software company that helps law practices run more efficiently with its cloud-based technology, announced Tuesday it has raised a $110 million Series E round co-led by T. Rowe Price Associates Inc. and OMERS Growth Equity. The round propels the Vancou…*
+       - *This afternoon Alphabet and Microsoft and Pinterest reported their quarterly earnings results for the first three months of 2021. Microsoft and Pinterest have rapidly lost value after reporting their results, while Alphabet appreciated after its own earnings …*
       
 
 <br />
