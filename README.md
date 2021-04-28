@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Founders Circle Capital has raised a new $355 million fund to buy secondary startup shares
+  - Wunderite raises $3M to build software for indie insurance agencies
      <hr/>
      
-      - *Founders Circle Capital, a nine-year-old, San Francisco-based investment firm that strikes agreements with private, venture-backed companies to buy some of the vested stock options of their founders and employees — so they can buy a house or just breathe a bi…*
+      - *This morning Wunderite, a Boston-based software startup, announced that it has raised $3 million in an early-stage round led by Spark Capital. Wunderite builds and sells software designed to help insurance agencies more rapidly process insurance applications,…*
      
-  - Porsche makes its case for an all-electric Taycan wagon
+  - Israel's electric powertrain maker IRP Systems raises a $31M Series C funding
       <hr/>
       
-      - *Porsche has always gone its own way when it comes to creating new vehicles. It is, after all, the company that continues to stick to the wacky idea that putting the weight of an engine in the rear of a sports car is a great idea. (It is!) So, bucking the cros…*
+      - *IRP Systems, a maker of innovative electric powertrains for electric vehicles, has raised a $31m Series C funding, bringing its total funding to $57m. The financing was led by Clal Insurance and Altshuler Shaham, which are Israeli institutional investors. Als…*
       
-  - Daily Crunch: Spotify adds support for paid podcasts
+  - PayPal's ambition and uphill battle in China
       <hr/>
       
-      - *Spotify launches paid podcast support, Amazon announces new tablets and we unveil the agenda for TC Sessions: Mobility. This is your Daily Crunch for April 27, 2021. The big story: Spotify adds support for paid podcasts As first announced in February, Spotify…*
+      - *Over the last few months, PayPal has been quietly gearing up for its expansion in China. At the recent Boao Forum for Asia, China’s answer to Davos, the American payments giant said its strategy for China is not to challenge the duopoly of Alipay and WeChat P…*
       
-  - At social media hearing, lawmakers circle algorithm-focused Section 230 reform
+  - France's SOS Accessoire raises £12M to help people repair their home appliances themselves
       <hr/>
       
-      - *Rather than a CEO-slamming sound bite free-for-all, Tuesday’s big tech hearing on algorithms aimed for more of a listening session vibe — and in that sense it mostly succeeded. The hearing centered on testimony from the policy leads at Facebook, YouTube and T…*
+      - *SOS Accessoire, a French startup that helps people diagnose and repair their home appliances, has raised €10M/$12M in a funding round led by ETF Partners. The round was joined by Quadia, Starquest, and Seed for Good. There is now a growing home repair market,…*
        
-  - Big tech earnings in less than 500 words
+  - Ivorian startup Afrikrea partners with DHL and Visa to launch SaaS e-commerce platform ANKA
       <hr/>
        
-       - *This afternoon Alphabet and Microsoft and Pinterest reported their quarterly earnings results for the first three months of 2021. Microsoft and Pinterest have rapidly lost value after reporting their results, while Alphabet appreciated after its own earnings …*
+       - *In 2016, Ivorian e-commerce startup Afrikrea started as a marketplace for African-based and inspired clothing, accessories, arts, and crafts. Over the past five years, Afrikrea has served more than 7,000 sellers from 47 African countries and buyers from 170 c…*
       
 
 <br />
