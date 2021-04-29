@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Uber adds vaccine booking
+  - 'Returnal' is a frantic, familiar pleasure — but spurns mainstream appeal to its peril
      <hr/>
      
-      - *Uber unveils half a dozen new features, Samsung announces a new flagship laptop and Zomato files to go public. This is your Daily Crunch for April 28, 2021. The big story: Uber adds vaccine booking Uber announced a half dozen new features today, including the…*
+      - *Returnal, released today for the PlayStation 5, is an action adventure that has you exploring an alien world that reconfigures itself whenever you die, bringing you back for another shot at escaping. It’s exciting, frustrating, and beautiful, though it isn’t …*
      
-  - Boasting a pedigree in business intelligence, Sweep launches a new carbon accounting and offset tool
+  - Zynga and Rollic acquire the hyper-casual game studio behind High Heels
       <hr/>
       
-      - *If businesses are going to meet their increasingly aggressive targets for reducing the greenhouse gas emissions associated with their operations, they’re going to have an accurate picture of just what those emissions look like. To get that picture, companies …*
+      - *Last year, Zynga bought hyper-casual game maker Rollic. Today, Rollic is a Zynga subsidiary, and it’s announcing the acquisition of another game studio called Uncosoft. Like Rollic, Uncosoft develops hyper-casual games and is based in Turkey (Istanbul in Roll…*
       
-  - Today's big tech earnings in a mere 700 words
+  - SpaceX launches 60 more Starlink satellites
       <hr/>
       
-      - *Today was yet another day of earnings from tech’s biggest names. To keep you up to speed without burying you in an endless crush of numbers we’ve pulled out the key data from each of the major reports. In each you will also find a link to their earnings repor…*
+      - *SpaceX has launched another batch of Starlink satellites, adding 60 more to the constellation on orbit. This is the 24th Starlink launch in total, and means SpaceX has now sent up over 1,500 Starlink spacecraft, with around 1,438 of those still in operation. …*
       
-  - How to fundraise over Zoom more effectively
+  - Vivid Money raises $73 million to build a European financial super app
       <hr/>
       
-      - *Even though in-person drinks and coffee walks are on the horizon, virtual fundraising isn’t going away. It’s imperative to ensure your virtual pitch is as effective as your IRL one.*
+      - *German startup Vivid Money has raised a new $73 million Series B funding round (€60 million) led by Greenoaks with existing investor Ribbit Capital also participating. Following today’s funding round, Vivid Money has reached a valuation of $436 million (€360 …*
        
-  - GM partners with 7 charging networks ahead of new electric vehicles
+  - Here are all the startups pitching today at Venture Day Minsk
       <hr/>
        
-       - *GM revealed Wednesday a four-part plan meant to handle all the steps of charging an electric vehicle, including finding a public charger and paying for the power, as the automaker seeks ways to attract customers to the 30 EVs it plans to launch by 2025. The s…*
+       - *Venture Day Minsk (organised by tech startup hub Imaguru) is run annually, but because of the pandemic and the political situation in Belarus it has gone virtual. Even Imaguru itself has had to switch to online-only operations after Lukashenko’s thugs shut do…*
       
 
 <br />
