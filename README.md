@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Wunderite raises $3M to build software for indie insurance agencies
+  - Daily Crunch: Uber adds vaccine booking
      <hr/>
      
-      - *This morning Wunderite, a Boston-based software startup, announced that it has raised $3 million in an early-stage round led by Spark Capital. Wunderite builds and sells software designed to help insurance agencies more rapidly process insurance applications,…*
+      - *Uber unveils half a dozen new features, Samsung announces a new flagship laptop and Zomato files to go public. This is your Daily Crunch for April 28, 2021. The big story: Uber adds vaccine booking Uber announced a half dozen new features today, including the…*
      
-  - Israel's electric powertrain maker IRP Systems raises a $31M Series C funding
+  - Boasting a pedigree in business intelligence, Sweep launches a new carbon accounting and offset tool
       <hr/>
       
-      - *IRP Systems, a maker of innovative electric powertrains for electric vehicles, has raised a $31m Series C funding, bringing its total funding to $57m. The financing was led by Clal Insurance and Altshuler Shaham, which are Israeli institutional investors. Als…*
+      - *If businesses are going to meet their increasingly aggressive targets for reducing the greenhouse gas emissions associated with their operations, they’re going to have an accurate picture of just what those emissions look like. To get that picture, companies …*
       
-  - PayPal's ambition and uphill battle in China
+  - Today's big tech earnings in a mere 700 words
       <hr/>
       
-      - *Over the last few months, PayPal has been quietly gearing up for its expansion in China. At the recent Boao Forum for Asia, China’s answer to Davos, the American payments giant said its strategy for China is not to challenge the duopoly of Alipay and WeChat P…*
+      - *Today was yet another day of earnings from tech’s biggest names. To keep you up to speed without burying you in an endless crush of numbers we’ve pulled out the key data from each of the major reports. In each you will also find a link to their earnings repor…*
       
-  - France's SOS Accessoire raises £12M to help people repair their home appliances themselves
+  - How to fundraise over Zoom more effectively
       <hr/>
       
-      - *SOS Accessoire, a French startup that helps people diagnose and repair their home appliances, has raised €10M/$12M in a funding round led by ETF Partners. The round was joined by Quadia, Starquest, and Seed for Good. There is now a growing home repair market,…*
+      - *Even though in-person drinks and coffee walks are on the horizon, virtual fundraising isn’t going away. It’s imperative to ensure your virtual pitch is as effective as your IRL one.*
        
-  - Ivorian startup Afrikrea partners with DHL and Visa to launch SaaS e-commerce platform ANKA
+  - GM partners with 7 charging networks ahead of new electric vehicles
       <hr/>
        
-       - *In 2016, Ivorian e-commerce startup Afrikrea started as a marketplace for African-based and inspired clothing, accessories, arts, and crafts. Over the past five years, Afrikrea has served more than 7,000 sellers from 47 African countries and buyers from 170 c…*
+       - *GM revealed Wednesday a four-part plan meant to handle all the steps of charging an electric vehicle, including finding a public charger and paying for the power, as the automaker seeks ways to attract customers to the 30 EVs it plans to launch by 2025. The s…*
       
 
 <br />
