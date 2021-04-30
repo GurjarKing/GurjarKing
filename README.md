@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Biden's labor secretary says gig workers should be reclassified
+  - Europe charges Apple with antitrust breach, citing Spotify App Store complaint
      <hr/>
      
-      - *The Biden administration hints at gig economy changes, Blue Origin will be taking passengers and we interview Jim Belushi about weed. This is your Daily Crunch for April 29, 2021. The big story: Biden’s labor secretary says gig workers should be reclassified …*
+      - *The European Commission has announced that it’s issued formal antitrust charges against Apple, saying today that its preliminary view is Apple’s app store rules distort competition in the market for music streaming services by raising the costs of competing m…*
      
-  - Hear how to raise big funding (and use it well) from FirstMark's Rick Heitzmann and Orchard's Court Cunningham
+  - Eclipse Ventures has $500 million more to digitize old-line industries and bring them up to speed
       <hr/>
       
-      - *Orchard, founded in 2017, was relatively early to the proptech industry. The company, originally called Perch, focused on dual-trackers, which are folks who are both buying and selling a home simultaneously. FirstMark Capital led both the Series A and the Ser…*
+      - *Two years ago, we talked with Lior Susan, the founder of now six-year-old Eclipse Ventures in Palo Alto, Ca. At the time, the outfit believed that the next big thing wasn’t another social network but instead the remaking of old-line industries through full te…*
       
-  - What private tech companies should consider before going public via a SPAC
+  - The era of the European insurtech IPO will soon be upon us
       <hr/>
       
-      - *Despite recent scrutiny of SPACs, private tech companies considering a sale or other financing should consider the option of a SPAC transaction. But they need to understand the implications.*
+      - *The insurance market is enormous, but the sector has suffered from notoriously poor customer experience and major incumbents have been slow to adapt.*
       
-  - Biden's labor secretary thinks many gig workers should be reclassified as employees
+  - Lambda School lays off 65 employees amid restructuring
       <hr/>
       
-      - *Biden Labor Secretary Marty Walsh charged into the white hot issue of the gig economy Thursday, asserting that many people working without benefits in the gig economy should be classified as employees instead. In an interview with Reuters, Walsh said that the…*
+      - *Nearly a year after its last layoff, online coding bootcamp Lambda School just announced more cuts amid a broader structuring. In a blog post, CEO and founder Austen Allred said that the startup, which raised a $74 million Series C in August, is laying off 65…*
        
-  - Spotify CEO says live audio content is the next 'Stories'
+  - Daily Crunch: Biden's labor secretary says gig workers should be reclassified
       <hr/>
        
-       - *Live audio experiences will be adopted by every major platform just like Stories have been, Spotify CEO Daniel Ek told investors on Wednesday’s earnings call. The streaming service recently acquired a live audio app, Locker Room, whose technology it expects t…*
+       - *The Biden administration hints at gig economy changes, Blue Origin will be taking passengers and we interview Jim Belushi about weed. This is your Daily Crunch for April 29, 2021. The big story: Biden’s labor secretary says gig workers should be reclassified …*
       
 
 <br />
