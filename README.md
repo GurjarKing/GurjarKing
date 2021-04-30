@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 'Returnal' is a frantic, familiar pleasure — but spurns mainstream appeal to its peril
+  - Daily Crunch: Biden's labor secretary says gig workers should be reclassified
      <hr/>
      
-      - *Returnal, released today for the PlayStation 5, is an action adventure that has you exploring an alien world that reconfigures itself whenever you die, bringing you back for another shot at escaping. It’s exciting, frustrating, and beautiful, though it isn’t …*
+      - *The Biden administration hints at gig economy changes, Blue Origin will be taking passengers and we interview Jim Belushi about weed. This is your Daily Crunch for April 29, 2021. The big story: Biden’s labor secretary says gig workers should be reclassified …*
      
-  - Zynga and Rollic acquire the hyper-casual game studio behind High Heels
+  - Hear how to raise big funding (and use it well) from FirstMark's Rick Heitzmann and Orchard's Court Cunningham
       <hr/>
       
-      - *Last year, Zynga bought hyper-casual game maker Rollic. Today, Rollic is a Zynga subsidiary, and it’s announcing the acquisition of another game studio called Uncosoft. Like Rollic, Uncosoft develops hyper-casual games and is based in Turkey (Istanbul in Roll…*
+      - *Orchard, founded in 2017, was relatively early to the proptech industry. The company, originally called Perch, focused on dual-trackers, which are folks who are both buying and selling a home simultaneously. FirstMark Capital led both the Series A and the Ser…*
       
-  - SpaceX launches 60 more Starlink satellites
+  - What private tech companies should consider before going public via a SPAC
       <hr/>
       
-      - *SpaceX has launched another batch of Starlink satellites, adding 60 more to the constellation on orbit. This is the 24th Starlink launch in total, and means SpaceX has now sent up over 1,500 Starlink spacecraft, with around 1,438 of those still in operation. …*
+      - *Despite recent scrutiny of SPACs, private tech companies considering a sale or other financing should consider the option of a SPAC transaction. But they need to understand the implications.*
       
-  - Vivid Money raises $73 million to build a European financial super app
+  - Biden's labor secretary thinks many gig workers should be reclassified as employees
       <hr/>
       
-      - *German startup Vivid Money has raised a new $73 million Series B funding round (€60 million) led by Greenoaks with existing investor Ribbit Capital also participating. Following today’s funding round, Vivid Money has reached a valuation of $436 million (€360 …*
+      - *Biden Labor Secretary Marty Walsh charged into the white hot issue of the gig economy Thursday, asserting that many people working without benefits in the gig economy should be classified as employees instead. In an interview with Reuters, Walsh said that the…*
        
-  - Here are all the startups pitching today at Venture Day Minsk
+  - Spotify CEO says live audio content is the next 'Stories'
       <hr/>
        
-       - *Venture Day Minsk (organised by tech startup hub Imaguru) is run annually, but because of the pandemic and the political situation in Belarus it has gone virtual. Even Imaguru itself has had to switch to online-only operations after Lukashenko’s thugs shut do…*
+       - *Live audio experiences will be adopted by every major platform just like Stories have been, Spotify CEO Daniel Ek told investors on Wednesday’s earnings call. The streaming service recently acquired a live audio app, Locker Room, whose technology it expects t…*
       
 
 <br />
