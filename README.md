@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Europe charges Apple with antitrust breach, citing Spotify App Store complaint
+  - Extra Crunch roundup: Fintech stays hot, Brex doubles, and startup IRR is up all over
      <hr/>
      
-      - *The European Commission has announced that it’s issued formal antitrust charges against Apple, saying today that its preliminary view is Apple’s app store rules distort competition in the market for music streaming services by raising the costs of competing m…*
+      - *Tech companies in Silicon Valley, the geography, have had an incredible year. But one indicator points to longer-term changes. The internal rate of return (IRR) for companies in other startup hub cities has been even better. A big new analysis by AngelList sh…*
      
-  - Eclipse Ventures has $500 million more to digitize old-line industries and bring them up to speed
+  - Analytics as a service: Why more enterprises should consider outsourcing
       <hr/>
       
-      - *Two years ago, we talked with Lior Susan, the founder of now six-year-old Eclipse Ventures in Palo Alto, Ca. At the time, the outfit believed that the next big thing wasn’t another social network but instead the remaking of old-line industries through full te…*
+      - *In today's world, where customers value experiences over transactions, Analytics as a Service helps businesses dig deeper into their psyche and tap insights to build long-term winning strategies.*
       
-  - The era of the European insurtech IPO will soon be upon us
+  - Daily Crunch: Europe charges Apple with antitrust breach
       <hr/>
       
-      - *The insurance market is enormous, but the sector has suffered from notoriously poor customer experience and major incumbents have been slow to adapt.*
+      - *Apple faces an antitrust complaint in Europe, TikTok has a new CEO and YouTube TV disappears from Roku. This is your Daily Crunch for April 30, 2021. Also, this is my last day at TechCrunch, and therefore my last day writing The Daily Crunch. It’s been a blas…*
       
-  - Lambda School lays off 65 employees amid restructuring
+  - What3Words sends legal threat to a security researcher for sharing an open-source alternative
       <hr/>
       
-      - *Nearly a year after its last layoff, online coding bootcamp Lambda School just announced more cuts amid a broader structuring. In a blog post, CEO and founder Austen Allred said that the startup, which raised a $74 million Series C in August, is laying off 65…*
+      - *What3Words claims open source alternative WhatFreeWords violates its copyright.*
        
-  - Daily Crunch: Biden's labor secretary says gig workers should be reclassified
+  - How UK-based Lendable is powering fintechs across emerging markets
       <hr/>
        
-       - *The Biden administration hints at gig economy changes, Blue Origin will be taking passengers and we interview Jim Belushi about weed. This is your Daily Crunch for April 29, 2021. The big story: Biden’s labor secretary says gig workers should be reclassified …*
+       - *What moves the needle for digital lenders is serving loans to their respective customers. But where does this money come from? The pool is usually equity or debt. While some lenders use the former, it can be seen as folly because, over time, the founders tend…*
       
 
 <br />
