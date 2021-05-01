@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch roundup: Fintech stays hot, Brex doubles, and startup IRR is up all over
+  - Early bird extension gives you more time to save on passes to TC Early Stage 2021: Marketing and Fundraising
      <hr/>
      
-      - *Tech companies in Silicon Valley, the geography, have had an incredible year. But one indicator points to longer-term changes. The internal rate of return (IRR) for companies in other startup hub cities has been even better. A big new analysis by AngelList sh…*
+      - *Startup life, especially in the early innings, is nothing short of hectic. Who wouldn’t love a clone or two to help get everything done? Well, we can’t clone you, but we can give you more time to sign up and save on a pass to TC Early Stage 2021: Marketing an…*
      
+  - Extra Crunch roundup: Fintech stays hot, Brex doubles, and startup IRR is up all over
+      <hr/>
+      
+      - *Tech companies in Silicon Valley, the geography, have had an incredible year. But one indicator points to longer-term changes. The internal rate of return (IRR) for companies in other startup hub cities has been even better. A big new analysis by AngelList sh…*
+      
   - Analytics as a service: Why more enterprises should consider outsourcing
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Apple faces an antitrust complaint in Europe, TikTok has a new CEO and YouTube TV disappears from Roku. This is your Daily Crunch for April 30, 2021. Also, this is my last day at TechCrunch, and therefore my last day writing The Daily Crunch. It’s been a blas…*
-      
+       
   - What3Words sends legal threat to a security researcher for sharing an open-source alternative
       <hr/>
-      
-      - *What3Words claims open source alternative WhatFreeWords violates its copyright.*
        
-  - How UK-based Lendable is powering fintechs across emerging markets
-      <hr/>
-       
-       - *What moves the needle for digital lenders is serving loans to their respective customers. But where does this money come from? The pool is usually equity or debt. While some lenders use the former, it can be seen as folly because, over time, the founders tend…*
+       - *What3Words claims open source alternative WhatFreeWords violates its copyright.*
       
 
 <br />
