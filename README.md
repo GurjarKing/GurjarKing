@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Early bird extension gives you more time to save on passes to TC Early Stage 2021: Marketing and Fundraising
+  - How one founder made the most of Y Combinator in a pandemic year
      <hr/>
      
-      - *Startup life, especially in the early innings, is nothing short of hectic. Who wouldn’t love a clone or two to help get everything done? Well, we can’t clone you, but we can give you more time to sign up and save on a pass to TC Early Stage 2021: Marketing an…*
+      - *This week, we welcome guest Hana Mohan to our podcast Found. Hana is the co-founder and CEO of MagicBell, a new startup she created with Josue Montano that just recently graduated from Y Combinator’s Winter 2021 cohort. MagicBell is a full-featured, plug-and-…*
      
-  - Extra Crunch roundup: Fintech stays hot, Brex doubles, and startup IRR is up all over
+  - Big Tech is now worth so much we’ve forgotten to be shocked by the numbers
       <hr/>
       
-      - *Tech companies in Silicon Valley, the geography, have had an incredible year. But one indicator points to longer-term changes. The internal rate of return (IRR) for companies in other startup hub cities has been even better. A big new analysis by AngelList sh…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. If you want it in your inbox every Saturday morning, sign up h…*
       
-  - Analytics as a service: Why more enterprises should consider outsourcing
+  - Emotional marketing and an e-mail titan walk into a bar
       <hr/>
       
-      - *In today's world, where customers value experiences over transactions, Analytics as a Service helps businesses dig deeper into their psyche and tap insights to build long-term winning strategies.*
+      - *My mom cuts to the chase when she is describing my beat to others. In her words, I cover companies like Uber before they become companies like Uber. And honestly? I can’t exactly disagree with the description. The best feeling in tech journalism is telling a …*
       
-  - Daily Crunch: Europe charges Apple with antitrust breach
+  - Is Washington prepared for a geopolitical 'tech race'?
       <hr/>
       
-      - *Apple faces an antitrust complaint in Europe, TikTok has a new CEO and YouTube TV disappears from Roku. This is your Daily Crunch for April 30, 2021. Also, this is my last day at TechCrunch, and therefore my last day writing The Daily Crunch. It’s been a blas…*
+      - *When Secretary of State Antony Blinken and National Security Advisor Jake Sullivan sat down with Chinese officials in Anchorage, Alaska for the first high-level bilateral summit of the new administration, it was not a typical diplomatic meeting. Instead of a …*
        
-  - What3Words sends legal threat to a security researcher for sharing an open-source alternative
+  - The most disastrous sales cycle in the world
       <hr/>
        
-       - *What3Words claims open source alternative WhatFreeWords violates its copyright.*
+       - *Startups constantly talk about being mission-oriented, but it’s hard to take most of those messages seriously when the mission is optimizing cash flow for tax efficiency. However, a new generation of startups is emerging that are taking on some of the largest…*
       
 
 <br />
