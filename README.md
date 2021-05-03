@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - How did Atlanta become a top breeding ground for billion-dollar startups in the Southeast?
+  - Path Robotics raises $56M Series B for automated welding
      <hr/>
      
-      - *Over the past five years, the Southeastern region, led by Atlanta, has gone from being “one of the best kept secrets” in tech, to a vibrant ecosystem teeming with a herd of the billion dollar tech businesses that are referred to in the investment world as “un…*
+      - *Columbus, Ohio-based firm Path Robotics today announced the completion of a $56 million Series B. The round, led by Addition (featuring Drive Capital, Basis Set and Lemnos Lab) brings the robotic welding company’s total funding to $71 million. Adding another …*
      
-  - Data was the new oil, until the oil caught fire
+  - Facebook rolls out vaccine finder tool in India, donates $10 million
       <hr/>
       
-      - *We’ve been hearing how “data is the new oil” for more than a decade now, and in certain sectors, it’s a maxim that has more than panned out. From marketing and logistics to finance and product, decision-making is now dominated by data at all levels of most bi…*
+      - *Facebook has announced a $10 million grant to support emergency response efforts in India and has rolled out its Vaccine Finder tool in the South Asian nation.*
       
-  - How one founder made the most of Y Combinator in a pandemic year
+  - Wealthsimple raises $610M at a $4B valuation
       <hr/>
       
-      - *This week, we welcome guest Hana Mohan to our podcast Found. Hana is the co-founder and CEO of MagicBell, a new startup she created with Josue Montano that just recently graduated from Y Combinator’s Winter 2021 cohort. MagicBell is a full-featured, plug-and-…*
+      - *Canadian fintech giant Wealthsimple has raised a new round of $750 million CAD (~$610 million) at a post-money valuation of $5 billion CAD (~$4 billion). The round was led by Meritech and Greylock, and includes funding from Inovia, Sagard, Redpoint, TSV, as w…*
       
-  - Big Tech is now worth so much we’ve forgotten to be shocked by the numbers
+  - Hangry, an Indonesian cloud kitchen startup with plans to become a global F&B company, closes $13M Series A
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. If you want it in your inbox every Saturday morning, sign up h…*
+      - *Hangry, an Indonesian cloud kitchen startup that wants to become a global food and beverage company, has raised a $13 million Series A. The round was led by returning investor Alpha JWC Ventures, and included participation from Atlas Pacific Capital, Salt Ven…*
        
-  - Emotional marketing and an e-mail titan walk into a bar
+  - Bibit raises another growth round led by Sequoia Capital India, this time for $65M
       <hr/>
        
-       - *My mom cuts to the chase when she is describing my beat to others. In her words, I cover companies like Uber before they become companies like Uber. And honestly? I can’t exactly disagree with the description. The best feeling in tech journalism is telling a …*
+       - *Four months after leading a $30 million growth round in Bibit, Sequoia Capital India has doubled down on its investment in the Indonesian robo-advisor app. Bibit announced today that the firm led a new $65 million growth round that also included participation…*
       
 
 <br />
