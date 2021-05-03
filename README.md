@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - How one founder made the most of Y Combinator in a pandemic year
+  - How did Atlanta become a top breeding ground for billion-dollar startups in the Southeast?
      <hr/>
      
-      - *This week, we welcome guest Hana Mohan to our podcast Found. Hana is the co-founder and CEO of MagicBell, a new startup she created with Josue Montano that just recently graduated from Y Combinator’s Winter 2021 cohort. MagicBell is a full-featured, plug-and-…*
+      - *Over the past five years, the Southeastern region, led by Atlanta, has gone from being “one of the best kept secrets” in tech, to a vibrant ecosystem teeming with a herd of the billion dollar tech businesses that are referred to in the investment world as “un…*
      
+  - Data was the new oil, until the oil caught fire
+      <hr/>
+      
+      - *We’ve been hearing how “data is the new oil” for more than a decade now, and in certain sectors, it’s a maxim that has more than panned out. From marketing and logistics to finance and product, decision-making is now dominated by data at all levels of most bi…*
+      
+  - How one founder made the most of Y Combinator in a pandemic year
+      <hr/>
+      
+      - *This week, we welcome guest Hana Mohan to our podcast Found. Hana is the co-founder and CEO of MagicBell, a new startup she created with Josue Montano that just recently graduated from Y Combinator’s Winter 2021 cohort. MagicBell is a full-featured, plug-and-…*
+      
   - Big Tech is now worth so much we’ve forgotten to be shocked by the numbers
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. If you want it in your inbox every Saturday morning, sign up h…*
-      
+       
   - Emotional marketing and an e-mail titan walk into a bar
       <hr/>
-      
-      - *My mom cuts to the chase when she is describing my beat to others. In her words, I cover companies like Uber before they become companies like Uber. And honestly? I can’t exactly disagree with the description. The best feeling in tech journalism is telling a …*
-      
-  - Is Washington prepared for a geopolitical 'tech race'?
-      <hr/>
-      
-      - *When Secretary of State Antony Blinken and National Security Advisor Jake Sullivan sat down with Chinese officials in Anchorage, Alaska for the first high-level bilateral summit of the new administration, it was not a typical diplomatic meeting. Instead of a …*
        
-  - The most disastrous sales cycle in the world
-      <hr/>
-       
-       - *Startups constantly talk about being mission-oriented, but it’s hard to take most of those messages seriously when the mission is optimizing cash flow for tax efficiency. However, a new generation of startups is emerging that are taking on some of the largest…*
+       - *My mom cuts to the chase when she is describing my beat to others. In her words, I cover companies like Uber before they become companies like Uber. And honestly? I can’t exactly disagree with the description. The best feeling in tech journalism is telling a …*
       
 
 <br />
