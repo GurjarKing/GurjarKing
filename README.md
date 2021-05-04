@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Path Robotics raises $56M Series B for automated welding
+  - The Daily Crunch: TechCrunch's parent company sold for $5B, Duolingo's origin story
      <hr/>
      
-      - *Columbus, Ohio-based firm Path Robotics today announced the completion of a $56 million Series B. The round, led by Addition (featuring Drive Capital, Basis Set and Lemnos Lab) brings the robotic welding company’s total funding to $71 million. Adding another …*
+      - *To get a roundup of TechCrunch’s biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here. TechCrunch’s new home The original plan was to spend a minute today explaining that the Daily Crunch is now being put together…*
      
-  - Facebook rolls out vaccine finder tool in India, donates $10 million
+  - Amazon's over-the-top business, including IMDb TV and Twitch, tops 120M monthly viewers
       <hr/>
       
-      - *Facebook has announced a $10 million grant to support emergency response efforts in India and has rolled out its Vaccine Finder tool in the South Asian nation.*
+      - *Amazon’s free, ad-supported streaming service IMDb TV is getting its own mobile app. The company announced the news today at its first-ever NewFronts presentation to advertisers, where it also shared that its over-the-top streaming businesses combined — meani…*
       
-  - Wealthsimple raises $610M at a $4B valuation
+  - Ford, BMW lead Solid Power's $130M Series B round
       <hr/>
       
-      - *Canadian fintech giant Wealthsimple has raised a new round of $750 million CAD (~$610 million) at a post-money valuation of $5 billion CAD (~$4 billion). The round was led by Meritech and Greylock, and includes funding from Inovia, Sagard, Redpoint, TSV, as w…*
+      - *Solid state battery systems have long been considered the next breakthrough in battery technology, with multiple startups vying to be the first to commercialization. Automakers have been some of the top investors in the technology, each of them seeking the ed…*
       
-  - Hangry, an Indonesian cloud kitchen startup with plans to become a global F&B company, closes $13M Series A
+  - Sony announces investment and partnership with Discord to bring the chat app to PlayStation
       <hr/>
       
-      - *Hangry, an Indonesian cloud kitchen startup that wants to become a global food and beverage company, has raised a $13 million Series A. The round was led by returning investor Alpha JWC Ventures, and included participation from Atlas Pacific Capital, Salt Ven…*
+      - *Sony and Discord have announced a partnership that will integrate the latter’s popular gaming-focused chat app with PlayStation’s own built-in social tools. It’s a big move and a fairly surprising one given how recently acquisition talks were in the air — Son…*
        
-  - Bibit raises another growth round led by Sequoia Capital India, this time for $65M
+  - How to lead a digital transformation -- ethically
       <hr/>
        
-       - *Four months after leading a $30 million growth round in Bibit, Sequoia Capital India has doubled down on its investment in the Indonesian robo-advisor app. Bibit announced today that the firm led a new $65 million growth round that also included participation…*
+       - *Leaders need to embrace an all-new learning curve: How to engage in digital transformation that includes ethics by design.*
       
 
 <br />
