@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The Daily Crunch: TechCrunch's parent company sold for $5B, Duolingo's origin story
+  - Berlin's Razor Group raises $400M to buy and scale Amazon Marketplace merchants
      <hr/>
      
-      - *To get a roundup of TechCrunch’s biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here. TechCrunch’s new home The original plan was to spend a minute today explaining that the Daily Crunch is now being put together…*
+      - *The market remains very hot for startups building e-commerce empires by consolidating independent third-party merchants that have gained traction on Amazon’s Marketplace, and in the latest development, Razor Group — a Berlin-based startup buying up promising …*
      
+  - Uber and Arrival partner to create an EV for ride-hail drivers
+      <hr/>
+      
+      - *Arrival, the electric vehicle manufacturer that’s attempting to do away with the assembly line in favor of highly automated microfactories, is partnering with Uber to create an EV for ride-hail drivers.  Arrival expects to reveal the final vehicle design befo…*
+      
+  - The Daily Crunch: TechCrunch's parent company sold for $5B, Duolingo's origin story
+      <hr/>
+      
+      - *To get a roundup of TechCrunch’s biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here. TechCrunch’s new home The original plan was to spend a minute today explaining that the Daily Crunch is now being put together…*
+      
   - Amazon's over-the-top business, including IMDb TV and Twitch, tops 120M monthly viewers
       <hr/>
       
       - *Amazon’s free, ad-supported streaming service IMDb TV is getting its own mobile app. The company announced the news today at its first-ever NewFronts presentation to advertisers, where it also shared that its over-the-top streaming businesses combined — meani…*
-      
+       
   - Ford, BMW lead Solid Power's $130M Series B round
       <hr/>
-      
-      - *Solid state battery systems have long been considered the next breakthrough in battery technology, with multiple startups vying to be the first to commercialization. Automakers have been some of the top investors in the technology, each of them seeking the ed…*
-      
-  - Sony announces investment and partnership with Discord to bring the chat app to PlayStation
-      <hr/>
-      
-      - *Sony and Discord have announced a partnership that will integrate the latter’s popular gaming-focused chat app with PlayStation’s own built-in social tools. It’s a big move and a fairly surprising one given how recently acquisition talks were in the air — Son…*
        
-  - How to lead a digital transformation -- ethically
-      <hr/>
-       
-       - *Leaders need to embrace an all-new learning curve: How to engage in digital transformation that includes ethics by design.*
+       - *Solid state battery systems have long been considered the next breakthrough in battery technology, with multiple startups vying to be the first to commercialization. Automakers have been some of the top investors in the technology, each of them seeking the ed…*
       
 
 <br />
