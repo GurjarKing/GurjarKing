@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Berlin's Razor Group raises $400M to buy and scale Amazon Marketplace merchants
+  - The Daily Crunch: Tech stocks hammered after US Treasury Secretary speculates on hiking interest rates
      <hr/>
      
-      - *The market remains very hot for startups building e-commerce empires by consolidating independent third-party merchants that have gained traction on Amazon’s Marketplace, and in the latest development, Razor Group — a Berlin-based startup buying up promising …*
+      - *The tech-heavy Nasdaq fell by more than 2%. Cloud stocks endured twice the damage. What happened? The U.S. government said that it might raise interest rates. So what? Well, when rates were low, lots of money that might have been invested elsewhere was instea…*
      
-  - Uber and Arrival partner to create an EV for ride-hail drivers
+  - Brex, Ramp tout their view of the future as Divvy is said to consider a sale to Bill.com
       <hr/>
       
-      - *Arrival, the electric vehicle manufacturer that’s attempting to do away with the assembly line in favor of highly automated microfactories, is partnering with Uber to create an EV for ride-hail drivers.  Arrival expects to reveal the final vehicle design befo…*
+      - *Earlier today recent dog-parent Alex Konrad and fellow Forbes staffer Eliza Haverstock broke the news that Divvy, a Utah-based corporate spend unicorn, is considering selling itself to Bill.com for a price that could top $2 billion. For the fintech sector, it…*
       
-  - The Daily Crunch: TechCrunch's parent company sold for $5B, Duolingo's origin story
+  - Revel's Frank Reig shares how he built his business and what he's planning
       <hr/>
       
-      - *To get a roundup of TechCrunch’s biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here. TechCrunch’s new home The original plan was to spend a minute today explaining that the Daily Crunch is now being put together…*
+      - *Revel's founder and CEO discusses what he learned from building the company, how its business strategy has evolved, and what lies ahead.*
       
-  - Amazon's over-the-top business, including IMDb TV and Twitch, tops 120M monthly viewers
+  - Investors cheer as Lyft's Q1 revenue didn't fall as much as expected
       <hr/>
       
-      - *Amazon’s free, ad-supported streaming service IMDb TV is getting its own mobile app. The company announced the news today at its first-ever NewFronts presentation to advertisers, where it also shared that its over-the-top streaming businesses combined — meani…*
+      - *Investors gave Lyft’s value a small bump Tuesday after the American ride-hailing company reported results that weren’t quite as bad as the company, and Wall Street had expected. Shares of the Uber competitor rose as much as 4.5% in after-hours trading followi…*
        
-  - Ford, BMW lead Solid Power's $130M Series B round
+  - SpaceX launches 60 more Starlink satellites, claims over 500,000 service pre-orders so far
       <hr/>
        
-       - *Solid state battery systems have long been considered the next breakthrough in battery technology, with multiple startups vying to be the first to commercialization. Automakers have been some of the top investors in the technology, each of them seeking the ed…*
+       - *SpaceX has launched 60 more of its Starlink internet broadband satellites — on ‘Star Wars Day,’ no less, and only five days after it launched the last batch. The company has now delivered 420 Starlink satellites since the beginning of March, a sum that SpaceX…*
       
 
 <br />
