@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The Daily Crunch: Tech stocks hammered after US Treasury Secretary speculates on hiking interest rates
+  - Peloton's leaky API let anyone grab rider's private account data
      <hr/>
      
-      - *The tech-heavy Nasdaq fell by more than 2%. Cloud stocks endured twice the damage. What happened? The U.S. government said that it might raise interest rates. So what? Well, when rates were low, lots of money that might have been invested elsewhere was instea…*
+      - *But the company won't say if it has evidence of malicious exploitation.*
      
-  - Brex, Ramp tout their view of the future as Divvy is said to consider a sale to Bill.com
+  - Disqus facing $3M fine in Norway for tracking users without consent
       <hr/>
       
-      - *Earlier today recent dog-parent Alex Konrad and fellow Forbes staffer Eliza Haverstock broke the news that Divvy, a Utah-based corporate spend unicorn, is considering selling itself to Bill.com for a price that could top $2 billion. For the fintech sector, it…*
+      - *Disqus, a commenting plugin that’s used by a number of news websites and which can share user data for ad targeting purposes, has got into hot water in Norway for tracking users without their consent. The local data protection agency said today it has notifie…*
       
-  - Revel's Frank Reig shares how he built his business and what he's planning
+  - Cymulate nabs $45M to test and improve cybersecurity defenses via attack simulations
       <hr/>
       
-      - *Revel's founder and CEO discusses what he learned from building the company, how its business strategy has evolved, and what lies ahead.*
+      - *With cybercrime on course to be a $6 trillion problem this year, organizations are throwing ever more resources at the issue to avoid being a target. Now, a startup that’s built a platform to help them stress-test the investments that they have made into thei…*
       
-  - Investors cheer as Lyft's Q1 revenue didn't fall as much as expected
+  - Sprout.ai raises $11m Series A led by Octopus Ventures to apply AI to insurance claims
       <hr/>
       
-      - *Investors gave Lyft’s value a small bump Tuesday after the American ride-hailing company reported results that weren’t quite as bad as the company, and Wall Street had expected. Shares of the Uber competitor rose as much as 4.5% in after-hours trading followi…*
+      - *It was way back in 2018 that Omni:us appeared to disrupt the insurance market by applying AI to this most legacy of all industries. It has now gone on to raise $44.1 million. In a similar vein, Shift Technology in France has raised $100 million. Now a UK star…*
        
-  - SpaceX launches 60 more Starlink satellites, claims over 500,000 service pre-orders so far
+  - Lucid Motors taps Waymo, Intel veterans ahead of public listing
       <hr/>
        
-       - *SpaceX has launched 60 more of its Starlink internet broadband satellites — on ‘Star Wars Day,’ no less, and only five days after it launched the last batch. The company has now delivered 420 Starlink satellites since the beginning of March, a sum that SpaceX…*
+       - *Lucid Motors is beefing up its executive and technical leadership team, hiring people from Waymo, Intel and Xperi as it prepares to become a publicly listed company. The automaker said Wednesday that Sherry House, who formerly worked at Waymo, will be its new…*
       
 
 <br />
