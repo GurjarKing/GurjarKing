@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Una Brands launches with $40M to roll up brands on multiple Asia-Pacific e-commerce platforms
+  - Payments, lending and neobanks rule fintechs in emerging markets, report says
      <hr/>
      
-      - *One of the biggest funding trends of the past year is companies that consolidate small e-commerce brands. Many of the most notable startups in the space, like Thrasio, Berlin Brands Group and Branded Group, focus on consolidating Amazon Marketplace sellers. B…*
+      - *Tech investments in emerging markets have been in full swing over the past couple of years and their ecosystems have thrived as a result. Some of these markets like Africa, Latin America, and India, have comprehensive reports by publications and firms on tren…*
      
-  - China expresses concern over its absence in India’s 5G trials
+  - ifeel, another well-being platform that blends self-care tools with 1-2-1 therapy, scores $6.6M
       <hr/>
       
-      - *China expressed concern on Wednesday over India’s move to not grant any Chinese firm permission to participate in 5G trials in the world’s second largest internet market as the two neighboring nations struggle to navigate business ties amid their geo-politica…*
+      - *If the pandemic has been good for anything it’s been good for the therapy business and for startups targeting mental health, with VCs kept very busy signing checks. To wit, here’s another one: Madrid-based ifeel has bagged €5.5 million (~$6.6M) in Series A fu…*
       
-  - Uber's mixed Q1 earnings portray an evolving business
+  - TechCrunch Survey of Scottish Tech Hubs: Edinburgh, Glasgow, Dundee, Aberdeen
       <hr/>
       
-      - *Surprised by the revenue miss? Shocked by the profit beat? Startled by the sharp drop in the value of Uber's stock? Let's unpack the numbers.*
+      - *TechCrunch is embarking on a major new project to survey European founders and investors in cities outside the larger European capitals. Over the next few weeks, we will ask entrepreneurs in these cities to talk about their ecosystems, in their own words. Thi…*
       
-  - SpaceX successfully launches and lands its Starship prototype rocket
+  - Kahoot acquires Clever, the US-based edtech portal, for up to $500M
       <hr/>
       
-      - *SpaceX flew the 15th prototype of its Starship fully reusable next-generation rocket today, with a test flight that included a successful climb to around 30,000 feet, as well as a controlled flip, descent and soft landing upright as planned. A very small fire…*
+      - *Kahoot, the popular Oslo-based edtech company that has built a big business out of gamifiying education and creating a platform for users to build their own learning games, is making an acquisition to double down on K-12 education and its opportunities to gro…*
        
-  - Toyota AI Ventures and May Mobility will talk the future of the transportation industry on Extra Crunch Live
+  - Paystack expands to South Africa seven months after Stripe acquisition
       <hr/>
        
-       - *Besides a passion for progress in the mobility space, what do Toyota AI Ventures’ Jim Adler, May Mobility’s Nina Grooms Lee and Edwin Olson have in common? All three of them are joining us on an upcoming episode of Extra Crunch Live. The show goes down on May…*
+       - *Nigerian fintech startup Paystack has been relatively quiet since it was bought by fintech giant Stripe last October. The deal, worth more than $200 million, caused shockwaves to the African tech ecosystem and offered some form of validation to work done by f…*
       
 
 <br />
