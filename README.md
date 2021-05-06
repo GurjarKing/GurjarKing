@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Peloton's leaky API let anyone grab rider's private account data
+  - Una Brands launches with $40M to roll up brands on multiple Asia-Pacific e-commerce platforms
      <hr/>
      
-      - *But the company won't say if it has evidence of malicious exploitation.*
+      - *One of the biggest funding trends of the past year is companies that consolidate small e-commerce brands. Many of the most notable startups in the space, like Thrasio, Berlin Brands Group and Branded Group, focus on consolidating Amazon Marketplace sellers. B…*
      
-  - Disqus facing $3M fine in Norway for tracking users without consent
+  - China expresses concern over its absence in India’s 5G trials
       <hr/>
       
-      - *Disqus, a commenting plugin that’s used by a number of news websites and which can share user data for ad targeting purposes, has got into hot water in Norway for tracking users without their consent. The local data protection agency said today it has notifie…*
+      - *China expressed concern on Wednesday over India’s move to not grant any Chinese firm permission to participate in 5G trials in the world’s second largest internet market as the two neighboring nations struggle to navigate business ties amid their geo-politica…*
       
-  - Cymulate nabs $45M to test and improve cybersecurity defenses via attack simulations
+  - Uber's mixed Q1 earnings portray an evolving business
       <hr/>
       
-      - *With cybercrime on course to be a $6 trillion problem this year, organizations are throwing ever more resources at the issue to avoid being a target. Now, a startup that’s built a platform to help them stress-test the investments that they have made into thei…*
+      - *Surprised by the revenue miss? Shocked by the profit beat? Startled by the sharp drop in the value of Uber's stock? Let's unpack the numbers.*
       
-  - Sprout.ai raises $11m Series A led by Octopus Ventures to apply AI to insurance claims
+  - SpaceX successfully launches and lands its Starship prototype rocket
       <hr/>
       
-      - *It was way back in 2018 that Omni:us appeared to disrupt the insurance market by applying AI to this most legacy of all industries. It has now gone on to raise $44.1 million. In a similar vein, Shift Technology in France has raised $100 million. Now a UK star…*
+      - *SpaceX flew the 15th prototype of its Starship fully reusable next-generation rocket today, with a test flight that included a successful climb to around 30,000 feet, as well as a controlled flip, descent and soft landing upright as planned. A very small fire…*
        
-  - Lucid Motors taps Waymo, Intel veterans ahead of public listing
+  - Toyota AI Ventures and May Mobility will talk the future of the transportation industry on Extra Crunch Live
       <hr/>
        
-       - *Lucid Motors is beefing up its executive and technical leadership team, hiring people from Waymo, Intel and Xperi as it prepares to become a publicly listed company. The automaker said Wednesday that Sherry House, who formerly worked at Waymo, will be its new…*
+       - *Besides a passion for progress in the mobility space, what do Toyota AI Ventures’ Jim Adler, May Mobility’s Nina Grooms Lee and Edwin Olson have in common? All three of them are joining us on an upcoming episode of Extra Crunch Live. The show goes down on May…*
       
 
 <br />
