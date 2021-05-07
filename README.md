@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Why did Bill.com pay $2.5B for Divvy?
+  - GajiGesa, a fintech focused on Indonesian workers, adds strategic investors and launches new app for micro-SMEs
      <hr/>
      
-      - *Let's unpack the deal to gain a better understanding of the huge exit and the value of Divvy's richly funded competitors.*
+      - *GajiGesa, a fintech startup that provides earned wage access (EWA) and other services for workers in Indonesia, has added strategic investors to help it launch new services and expand its user base. Its new backers include OCBC NISP Ventura, the venture capit…*
      
-  - Emergence Capital cofounder Jason Green on transitioning out of the firm, and what's next
+  - Juul inventor's Myst lands funding as institutional investors turn to China's e-cigs
       <hr/>
       
-      - *Succession is a major issue for many venture firms. Institutional investors, founders — even reporters — often get attached to individual members of a team, and when one of those individuals, particularly a firm cofounder, decides to hang up his cleats, it ca…*
+      - *Over the past several years, institutional investors had largely shied away from China’s e-cigarette makers, an industry that was teeming with shoddy workshops and lacked regulatory oversight. But investors’ attitude is changing as China sets in motion its st…*
       
-  - NYC files lawsuit to halt Citi Bike rival JOCO's ebike operations
+  - A conversation with Bison Trails: the AWS-like service inside of Coinbase
       <hr/>
       
-      - *The City of New York has filed a lawsuit against JOCO, the docked electric bike share service, just weeks after the company launched operations in the city. The city alleges JOCO is operating illegally because all bike-sharing systems within the city require …*
+      - *Coinbase shares tumbled today to their their lowest point since the company began trading publicly on April 14. The market often moves in mysterious ways, but several drivers could be at play, including Coinbase’s high opening price at the time of its direct …*
       
-  - WhatsApp is doing fine despite months-long backlash over policy update
+  - SoftBank leads $15M round for China's industrial robot maker Youibot
       <hr/>
       
-      - *It’s safe to say WhatsApp didn’t have the ideal start to 2021. Less than a week into the new year, the Facebook-owned instant messaging app had already annoyed hundreds of thousands of users with its scary-worded notification about a planned policy update. Th…*
+      - *SoftBank has picked its bet in China’s flourishing industrial robotics space. Youibot, a four-year-old startup that makes autonomous mobile robots for a range of scenarios, said it has notched close to 100 million yuan ($15.47 million) in its latest funding r…*
        
-  - How Robert Reffkin went from being a C-average student to the founder of Compass
+  - Why did Bill.com pay $2.5B for Divvy?
       <hr/>
        
-       - *In April, real estate tech company Compass forged ahead with its initial public offering and is now valued at nearly $6.4 billion. At that time, TechCrunch Senior Editor Alex Wilhelm caught up with founder and CEO Robert Reffkin to chat about his company’s de…*
+       - *Let's unpack the deal to gain a better understanding of the huge exit and the value of Divvy's richly funded competitors.*
       
 
 <br />
