@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Payments, lending and neobanks rule fintechs in emerging markets, report says
+  - Why did Bill.com pay $2.5B for Divvy?
      <hr/>
      
-      - *Tech investments in emerging markets have been in full swing over the past couple of years and their ecosystems have thrived as a result. Some of these markets like Africa, Latin America, and India, have comprehensive reports by publications and firms on tren…*
+      - *Let's unpack the deal to gain a better understanding of the huge exit and the value of Divvy's richly funded competitors.*
      
-  - ifeel, another well-being platform that blends self-care tools with 1-2-1 therapy, scores $6.6M
+  - Emergence Capital cofounder Jason Green on transitioning out of the firm, and what's next
       <hr/>
       
-      - *If the pandemic has been good for anything it’s been good for the therapy business and for startups targeting mental health, with VCs kept very busy signing checks. To wit, here’s another one: Madrid-based ifeel has bagged €5.5 million (~$6.6M) in Series A fu…*
+      - *Succession is a major issue for many venture firms. Institutional investors, founders — even reporters — often get attached to individual members of a team, and when one of those individuals, particularly a firm cofounder, decides to hang up his cleats, it ca…*
       
-  - TechCrunch Survey of Scottish Tech Hubs: Edinburgh, Glasgow, Dundee, Aberdeen
+  - NYC files lawsuit to halt Citi Bike rival JOCO's ebike operations
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey European founders and investors in cities outside the larger European capitals. Over the next few weeks, we will ask entrepreneurs in these cities to talk about their ecosystems, in their own words. Thi…*
+      - *The City of New York has filed a lawsuit against JOCO, the docked electric bike share service, just weeks after the company launched operations in the city. The city alleges JOCO is operating illegally because all bike-sharing systems within the city require …*
       
-  - Kahoot acquires Clever, the US-based edtech portal, for up to $500M
+  - WhatsApp is doing fine despite months-long backlash over policy update
       <hr/>
       
-      - *Kahoot, the popular Oslo-based edtech company that has built a big business out of gamifiying education and creating a platform for users to build their own learning games, is making an acquisition to double down on K-12 education and its opportunities to gro…*
+      - *It’s safe to say WhatsApp didn’t have the ideal start to 2021. Less than a week into the new year, the Facebook-owned instant messaging app had already annoyed hundreds of thousands of users with its scary-worded notification about a planned policy update. Th…*
        
-  - Paystack expands to South Africa seven months after Stripe acquisition
+  - How Robert Reffkin went from being a C-average student to the founder of Compass
       <hr/>
        
-       - *Nigerian fintech startup Paystack has been relatively quiet since it was bought by fintech giant Stripe last October. The deal, worth more than $200 million, caused shockwaves to the African tech ecosystem and offered some form of validation to work done by f…*
+       - *In April, real estate tech company Compass forged ahead with its initial public offering and is now valued at nearly $6.4 billion. At that time, TechCrunch Senior Editor Alex Wilhelm caught up with founder and CEO Robert Reffkin to chat about his company’s de…*
       
 
 <br />
