@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - GajiGesa, a fintech focused on Indonesian workers, adds strategic investors and launches new app for micro-SMEs
+  - Tesla refutes Elon Musk's timeline on 'full self-driving'
      <hr/>
      
-      - *GajiGesa, a fintech startup that provides earned wage access (EWA) and other services for workers in Indonesia, has added strategic investors to help it launch new services and expand its user base. Its new backers include OCBC NISP Ventura, the venture capit…*
+      - *What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker. T…*
      
-  - Juul inventor's Myst lands funding as institutional investors turn to China's e-cigs
+  - Betting on upcoming startup markets
       <hr/>
       
-      - *Over the past several years, institutional investors had largely shied away from China’s e-cigarette makers, an industry that was teeming with shoddy workshops and lacked regulatory oversight. But investors’ attitude is changing as China sets in motion its st…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
       
-  - A conversation with Bison Trails: the AWS-like service inside of Coinbase
+  - Extra Crunch roundup: How Duolingo became an edtech leader
       <hr/>
       
-      - *Coinbase shares tumbled today to their their lowest point since the company began trading publicly on April 14. The market often moves in mysterious ways, but several drivers could be at play, including Coinbase’s high opening price at the time of its direct …*
+      - *The pandemic has just pushed edtech mainstream, but language-learning startup Duolingo had already spent the past decade figuring out how to build a successful edtech app. In our latest installment of the EC-1 series, Natasha Mascarenhas goes deep with the co…*
       
-  - SoftBank leads $15M round for China's industrial robot maker Youibot
+  - Sennheiser sells off its consumer brand
       <hr/>
       
-      - *SoftBank has picked its bet in China’s flourishing industrial robotics space. Youibot, a four-year-old startup that makes autonomous mobile robots for a range of scenarios, said it has notched close to 100 million yuan ($15.47 million) in its latest funding r…*
+      - *Long-running German audio company Sennheiser today announced that it has found a buyer for its consumer brand. Swiss holding company Sonova — a giant in the hearing aid business — will be acquiring the brand in a deal expected to close by end of year. The dea…*
        
-  - Why did Bill.com pay $2.5B for Divvy?
+  - Longevity startup Gero AI has a mobile API for quantifying health changes
       <hr/>
        
-       - *Let's unpack the deal to gain a better understanding of the huge exit and the value of Divvy's richly funded competitors.*
+       - *Sensor data from smartphones and wearables can meaningfully predict an individual’s ‘biological age’ and resilience to stress, according to Gero AI. The ‘longevity’ startup — which condenses its mission to the pithy goal of “hacking complex diseases and agi…*
       
 
 <br />
