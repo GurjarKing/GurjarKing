@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Tesla refutes Elon Musk's timeline on 'full self-driving'
+  - Daily Crunch: A huge fintech exit as the week ends
      <hr/>
      
-      - *What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker. T…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
      
+  - Tesla refutes Elon Musk's timeline on 'full self-driving'
+      <hr/>
+      
+      - *What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker. T…*
+      
   - Betting on upcoming startup markets
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *The pandemic has just pushed edtech mainstream, but language-learning startup Duolingo had already spent the past decade figuring out how to build a successful edtech app. In our latest installment of the EC-1 series, Natasha Mascarenhas goes deep with the co…*
-      
+       
   - Sennheiser sells off its consumer brand
       <hr/>
-      
-      - *Long-running German audio company Sennheiser today announced that it has found a buyer for its consumer brand. Swiss holding company Sonova — a giant in the hearing aid business — will be acquiring the brand in a deal expected to close by end of year. The dea…*
        
-  - Longevity startup Gero AI has a mobile API for quantifying health changes
-      <hr/>
-       
-       - *Sensor data from smartphones and wearables can meaningfully predict an individual’s ‘biological age’ and resilience to stress, according to Gero AI. The ‘longevity’ startup — which condenses its mission to the pithy goal of “hacking complex diseases and agi…*
+       - *Long-running German audio company Sennheiser today announced that it has found a buyer for its consumer brand. Swiss holding company Sonova — a giant in the hearing aid business — will be acquiring the brand in a deal expected to close by end of year. The dea…*
       
 
 <br />
