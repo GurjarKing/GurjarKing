@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - How Duolingo became a $2.4B language unicorn
+  - SpaceX launches and lands a Falcon 9 rocket booster a record 10th time
      <hr/>
      
-      - *At the heart of Duolingo is its mission: to scale free education and increase income potential through language learning. However, the same mission that has helped it grow to a business valued at $2.4 billion with over 500 million registered learners, has led…*
+      - *SpaceX has launched another 60 Starlink satellites — making 180 delivered to orbit in under two weeks — but the launch early Sunday morning was more notable because it set a new, key record for Falcon 9 rocket reusability. This marked the 10th flight of the f…*
      
+  - How Duolingo became a $2.4B language unicorn
+      <hr/>
+      
+      - *At the heart of Duolingo is its mission: to scale free education and increase income potential through language learning. However, the same mission that has helped it grow to a business valued at $2.4 billion with over 500 million registered learners, has led…*
+      
   - How one founder realized the potential of sustainable energy stored deep below our feet
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
-      
+       
   - Cowboy launches the Cowboy 4 e-bike, with a step-through version and built-in phone charger
       <hr/>
-      
-      - *E-bike startup Cowboy has launched the Cowboy 4, its newest generation of urban electric bikes. The bike will come in two different frames, a traditional frame, and a step-through. The C4 is basically an upgrade on the previous version 3, while the ‘C4 ST’ is…*
        
-  - When the Earth is gone, at least the internet will still be working
-      <hr/>
-       
-       - *The internet is now our nervous system. We are constantly streaming and buying and watching and liking, our brains locked into the global information matrix as one universal and coruscating emanation of thought and emotion. What happens when the machine stops…*
+       - *E-bike startup Cowboy has launched the Cowboy 4, its newest generation of urban electric bikes. The bike will come in two different frames, a traditional frame, and a step-through. The C4 is basically an upgrade on the previous version 3, while the ‘C4 ST’ is…*
       
 
 <br />
