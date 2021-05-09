@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: A huge fintech exit as the week ends
+  - How Duolingo became a $2.4B language unicorn
      <hr/>
      
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *At the heart of Duolingo is its mission: to scale free education and increase income potential through language learning. However, the same mission that has helped it grow to a business valued at $2.4 billion with over 500 million registered learners, has led…*
      
-  - Tesla refutes Elon Musk's timeline on 'full self-driving'
+  - How one founder realized the potential of sustainable energy stored deep below our feet
       <hr/>
       
-      - *What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker. T…*
+      - *On this week’s Found podcast, we sat down with Dandelion co-founder and President Kathy Hannun. Kathy came up with the idea for Dandelion while working at Google X, tackling some of the world’s most intractable problems, and making them tractable through the …*
       
-  - Betting on upcoming startup markets
+  - This Week in Apps: App Store advertising expands, Google Play plans for safety, Epic v. Apple trial begins
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
       
-  - Extra Crunch roundup: How Duolingo became an edtech leader
+  - Cowboy launches the Cowboy 4 e-bike, with a step-through version and built-in phone charger
       <hr/>
       
-      - *The pandemic has just pushed edtech mainstream, but language-learning startup Duolingo had already spent the past decade figuring out how to build a successful edtech app. In our latest installment of the EC-1 series, Natasha Mascarenhas goes deep with the co…*
+      - *E-bike startup Cowboy has launched the Cowboy 4, its newest generation of urban electric bikes. The bike will come in two different frames, a traditional frame, and a step-through. The C4 is basically an upgrade on the previous version 3, while the ‘C4 ST’ is…*
        
-  - Sennheiser sells off its consumer brand
+  - When the Earth is gone, at least the internet will still be working
       <hr/>
        
-       - *Long-running German audio company Sennheiser today announced that it has found a buyer for its consumer brand. Swiss holding company Sonova — a giant in the hearing aid business — will be acquiring the brand in a deal expected to close by end of year. The dea…*
+       - *The internet is now our nervous system. We are constantly streaming and buying and watching and liking, our brains locked into the global information matrix as one universal and coruscating emanation of thought and emotion. What happens when the machine stops…*
       
 
 <br />
