@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - SpaceX launches and lands a Falcon 9 rocket booster a record 10th time
+  - Clubhouse finally launches its Android app
      <hr/>
      
-      - *SpaceX has launched another 60 Starlink satellites — making 180 delivered to orbit in under two weeks — but the launch early Sunday morning was more notable because it set a new, key record for Falcon 9 rocket reusability. This marked the 10th flight of the f…*
+      - *Clubhouse finally has an Android app that you can download from the Play Store — provided you live in the U.S. The voice social network launched its beta Android app on Play Store for users in the U.S. on Sunday, and said it will gradually make the new app av…*
      
+  - The human-focused startups of the hellfire
+      <hr/>
+      
+      - *Disasters may not always be man-made, but they are always responded to by humans. There’s a whole panoply of skills and professions required today to respond to even the tiniest emergency, and that doesn’t even include the needs during pre-disaster planning a…*
+      
+  - SpaceX launches and lands a Falcon 9 rocket booster a record 10th time
+      <hr/>
+      
+      - *SpaceX has launched another 60 Starlink satellites — making 180 delivered to orbit in under two weeks — but the launch early Sunday morning was more notable because it set a new, key record for Falcon 9 rocket reusability. This marked the 10th flight of the f…*
+      
   - How Duolingo became a $2.4B language unicorn
       <hr/>
       
       - *At the heart of Duolingo is its mission: to scale free education and increase income potential through language learning. However, the same mission that has helped it grow to a business valued at $2.4 billion with over 500 million registered learners, has led…*
-      
+       
   - How one founder realized the potential of sustainable energy stored deep below our feet
       <hr/>
-      
-      - *On this week’s Found podcast, we sat down with Dandelion co-founder and President Kathy Hannun. Kathy came up with the idea for Dandelion while working at Google X, tackling some of the world’s most intractable problems, and making them tractable through the …*
-      
-  - This Week in Apps: App Store advertising expands, Google Play plans for safety, Epic v. Apple trial begins
-      <hr/>
-      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - Cowboy launches the Cowboy 4 e-bike, with a step-through version and built-in phone charger
-      <hr/>
-       
-       - *E-bike startup Cowboy has launched the Cowboy 4, its newest generation of urban electric bikes. The bike will come in two different frames, a traditional frame, and a step-through. The C4 is basically an upgrade on the previous version 3, while the ‘C4 ST’ is…*
+       - *On this week’s Found podcast, we sat down with Dandelion co-founder and President Kathy Hannun. Kathy came up with the idea for Dandelion while working at Google X, tackling some of the world’s most intractable problems, and making them tractable through the …*
       
 
 <br />
