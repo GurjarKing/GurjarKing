@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Clubhouse finally launches its Android app
+  - Signalling that privacy is coming to DeFi, Sienna Network raises $11.2M for its platform
      <hr/>
      
-      - *Clubhouse finally has an Android app that you can download from the Play Store — provided you live in the U.S. The voice social network launched its beta Android app on Play Store for users in the U.S. on Sunday, and said it will gradually make the new app av…*
+      - *Last week we saw some major backing of the Secret Network blockchain, as significant blockchain players Arrington Capital and Blocktower Capital invested in the privacy-first smart contract platform. What this is signaling is the rise of privacy-oriented fina…*
      
-  - The human-focused startups of the hellfire
+  - Google begins surfacing vaccine centers, hospital beds, oxygen info in India
       <hr/>
       
-      - *Disasters may not always be man-made, but they are always responded to by humans. There’s a whole panoply of skills and professions required today to respond to even the tiniest emergency, and that doesn’t even include the needs during pre-disaster planning a…*
+      - *Google, which reaches more than half a billion people in India, is turning its services into tools to help the world's second largest internet market fight the pandemic.*
       
-  - SpaceX launches and lands a Falcon 9 rocket booster a record 10th time
+  - Telkomsel invests an additional $300 million in Gojek
       <hr/>
       
-      - *SpaceX has launched another 60 Starlink satellites — making 180 delivered to orbit in under two weeks — but the launch early Sunday morning was more notable because it set a new, key record for Falcon 9 rocket reusability. This marked the 10th flight of the f…*
+      - *Telkomsel, a unit of Indonesia’s largest telecom operator Telkom, has invested an additional $300 million in ride-hailing and payments firm Gojek, the two firms said Monday, just months after the network provider wrote a $150 million check to the Southeast As…*
       
-  - How Duolingo became a $2.4B language unicorn
+  - StuDocu raises $50M as its note-sharing network for college students passes 15M users
       <hr/>
       
-      - *At the heart of Duolingo is its mission: to scale free education and increase income potential through language learning. However, the same mission that has helped it grow to a business valued at $2.4 billion with over 500 million registered learners, has led…*
+      - *Whether learning online or taking a class in person, every student knows all too well how important it is to have good notes from your classes as a key way to remember and apply what you’ve been taught. Now, an Amsterdam-based startup called StuDocu, which ha…*
        
-  - How one founder realized the potential of sustainable energy stored deep below our feet
+  - Clubhouse finally launches its Android app
       <hr/>
        
-       - *On this week’s Found podcast, we sat down with Dandelion co-founder and President Kathy Hannun. Kathy came up with the idea for Dandelion while working at Google X, tackling some of the world’s most intractable problems, and making them tractable through the …*
+       - *Clubhouse finally has an Android app that you can download from the Play Store — provided you live in the U.S. The voice social network launched its beta Android app on Play Store for users in the U.S. on Sunday, and said it will gradually make the new app av…*
       
 
 <br />
