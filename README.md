@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Zencargo raises $42M to expand its digital-first freight forwarding platform internationally
+  - CMU researchers show potential of privacy-preserving activity tracking using radar
      <hr/>
      
-      - *While consumers and businesses continue to use their purchasing power to spin the wheels of the globalized economy, one of the companies that’s built a technology platform to help that economy operate more smoothly is announcing an investment to double down o…*
+      - *Imagine if you could settle/rekindle domestic arguments by asking your smart speaker when the room last got cleaned or whether the bins already got taken out? Or — for an altogether healthier use-case — what if you could ask your speaker to keep count of reps…*
      
-  - With new owner Naver, Wattpad looks to supercharge its user-generated IP factory
+  - Final-mile fulfillment startup parcelLab closes $112M Series C funding led by Insight Partners
       <hr/>
       
-      - *Toronto-based Wattpad is officially part of South Korean internet giant Naver as of today, with the official close of the $600 million cash and stock acquisition deal. Under the terms of the acquisition, Wattpad will continue to be headquartered in, and opera…*
+      - *Munich-based parcelLab, which offers a final-mile fulfillment service for online retailers, has closed a $112 million (GB£80 million) Series C funding round led by the US VC/PE firm Insight Partners. Germany’s Endeit Capital participated as a co-investor, alo…*
       
-  - Daily Crunch: Expensify's hacker approach to enterprise software is paying off
+  - The motorcycle ride-hailing wars in Nigeria and Uganda is SafeBoda's to lose
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *On April 16, Uganda-based two-wheel ride-hailing platform SafeBoda announced that it had completed 1 million rides in Ibadan, a southwestern city in Nigeria. This might not seem spectacular from a global perspective because it took the startup a year and two …*
       
-  - Bird reportedly prepares to go public via SPAC, aims for 2023 profitability
+  - Engageli nabs $33M more for its collaborative video-based teaching platform
       <hr/>
       
-      - *Micromobility startups are following the lead of EV companies going public via mergers with special purpose acquisition companies, a financial instrument that came back en vogue in 2020. Bird Rides, the California-born micromobility company that now operates …*
+      - *As schools move more widely into reopening their doors for in-person learning, many educational institutions have also learned a critical lesson in the last year. Having better tools to teach remotely are critical for situations when the physical experience h…*
        
-  - Harley-Davidson spins out LiveWire into a standalone electric motorcycle brand
+  - Google Pay US users can now send money to India and Singapore
       <hr/>
        
-       - *LiveWire, Harley-Davidson’s electric motorcycle, is being spun out as a standalone brand, complete with a new logo and brand identity. Harley-Davidson first unveiled the LiveWire electric motorcycle in 2018 with a listing price of $29,799, placing it on the h…*
+       - *Google is making its first push into the cross-border remittance market.*
       
 
 <br />
