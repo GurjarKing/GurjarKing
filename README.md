@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Signalling that privacy is coming to DeFi, Sienna Network raises $11.2M for its platform
+  - Zencargo raises $42M to expand its digital-first freight forwarding platform internationally
      <hr/>
      
-      - *Last week we saw some major backing of the Secret Network blockchain, as significant blockchain players Arrington Capital and Blocktower Capital invested in the privacy-first smart contract platform. What this is signaling is the rise of privacy-oriented fina…*
+      - *While consumers and businesses continue to use their purchasing power to spin the wheels of the globalized economy, one of the companies that’s built a technology platform to help that economy operate more smoothly is announcing an investment to double down o…*
      
-  - Google begins surfacing vaccine centers, hospital beds, oxygen info in India
+  - With new owner Naver, Wattpad looks to supercharge its user-generated IP factory
       <hr/>
       
-      - *Google, which reaches more than half a billion people in India, is turning its services into tools to help the world's second largest internet market fight the pandemic.*
+      - *Toronto-based Wattpad is officially part of South Korean internet giant Naver as of today, with the official close of the $600 million cash and stock acquisition deal. Under the terms of the acquisition, Wattpad will continue to be headquartered in, and opera…*
       
-  - Telkomsel invests an additional $300 million in Gojek
+  - Daily Crunch: Expensify's hacker approach to enterprise software is paying off
       <hr/>
       
-      - *Telkomsel, a unit of Indonesia’s largest telecom operator Telkom, has invested an additional $300 million in ride-hailing and payments firm Gojek, the two firms said Monday, just months after the network provider wrote a $150 million check to the Southeast As…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - StuDocu raises $50M as its note-sharing network for college students passes 15M users
+  - Bird reportedly prepares to go public via SPAC, aims for 2023 profitability
       <hr/>
       
-      - *Whether learning online or taking a class in person, every student knows all too well how important it is to have good notes from your classes as a key way to remember and apply what you’ve been taught. Now, an Amsterdam-based startup called StuDocu, which ha…*
+      - *Micromobility startups are following the lead of EV companies going public via mergers with special purpose acquisition companies, a financial instrument that came back en vogue in 2020. Bird Rides, the California-born micromobility company that now operates …*
        
-  - Clubhouse finally launches its Android app
+  - Harley-Davidson spins out LiveWire into a standalone electric motorcycle brand
       <hr/>
        
-       - *Clubhouse finally has an Android app that you can download from the Play Store — provided you live in the U.S. The voice social network launched its beta Android app on Play Store for users in the U.S. on Sunday, and said it will gradually make the new app av…*
+       - *LiveWire, Harley-Davidson’s electric motorcycle, is being spun out as a standalone brand, complete with a new logo and brand identity. Harley-Davidson first unveiled the LiveWire electric motorcycle in 2018 with a listing price of $29,799, placing it on the h…*
       
 
 <br />
