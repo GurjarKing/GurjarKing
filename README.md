@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - CMU researchers show potential of privacy-preserving activity tracking using radar
+  - Prime today, gone tomorrow: Chinese products get pulled from Amazon
      <hr/>
      
-      - *Imagine if you could settle/rekindle domestic arguments by asking your smart speaker when the room last got cleaned or whether the bins already got taken out? Or — for an altogether healthier use-case — what if you could ask your speaker to keep count of reps…*
+      - *If you ever bought power banks, water bottles, toys, or other daily goods on Amazon, the chances are your suppliers are from China. Analysts have estimated that the share of Chinese merchants represented 75% of Amazon’s new sellers in January, up from 47% the…*
      
-  - Final-mile fulfillment startup parcelLab closes $112M Series C funding led by Insight Partners
+  - Instagram adds a dedicated spot for your pronouns
       <hr/>
       
-      - *Munich-based parcelLab, which offers a final-mile fulfillment service for online retailers, has closed a $112 million (GB£80 million) Series C funding round led by the US VC/PE firm Insight Partners. Germany’s Endeit Capital participated as a co-investor, alo…*
+      - *Seeing someone mention their pronouns in their Instagram bio has become commonplace — so much so that the app now has a dedicated location where users can put pronouns without taking up that valuable profile space. The company announced the new feature on Twi…*
       
-  - The motorcycle ride-hailing wars in Nigeria and Uganda is SafeBoda's to lose
+  - Huma, which uses AI and biomarkers to monitor patients and for medical research, raises $130M
       <hr/>
       
-      - *On April 16, Uganda-based two-wheel ride-hailing platform SafeBoda announced that it had completed 1 million rides in Ibadan, a southwestern city in Nigeria. This might not seem spectacular from a global perspective because it took the startup a year and two …*
+      - *While much of the world eagerly watches to see if the vaccination rollout helps curb and eventually stamp out Covid-19, one of the companies that has been helping to manage the spread of the virus is announcing a big round of funding on the heels for strong d…*
       
-  - Engageli nabs $33M more for its collaborative video-based teaching platform
+  - Elderly caretech platform Birdie gets $11.5M Series A led by Index
       <hr/>
       
-      - *As schools move more widely into reopening their doors for in-person learning, many educational institutions have also learned a critical lesson in the last year. Having better tools to teach remotely are critical for situations when the physical experience h…*
+      - *SaaS-maker Birdie has closed an $11.5 million Series A round of funding led by Index Ventures. Existing investor Kamet Ventures also participated. The UK-based caretech startup has raised a total of $22.9M since being founded back in 2017 (a 2018 raise that w…*
        
-  - Google Pay US users can now send money to India and Singapore
+  - Cybersecurity startup Panaseer raises $26.5M Series B led AllegisCyber Capital
       <hr/>
        
-       - *Google is making its first push into the cross-border remittance market.*
+       - *Panaseer, which takes a data science approach to cybersecurity, has raised $26.5 million in a Series B funding led by AllegisCyber Capital. Existing investors, including Evolution Equity Partners, Notion Capital, AlbionVC, Cisco Investments and Paladin Capita…*
       
 
 <br />
