@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Handshake raises $80M at a $1.5B+ valuation as its diversity-focused recruitment network for grads passes 18M users
+  - Elon Musk, Technoking of Tesla orders a halt to bitcoin car payments
      <hr/>
      
-      - *Job-hunting for those close to leaving or just out of college is a different ballgame these days than it used to be. Gone (at least for now) are the open job fairs and so-called milk rounds where prospective employers go en masse to tap student bodies for pot…*
+      - *Tesla CEO and self-dubbed technoking is back peddling on the company’s stance about bitcoin and has suspended purchases of its electric vehicles with the cryptocurrency. The change of stance, which was delivered via tweet, comes just weeks after Tesla CFO and…*
      
-  - Unmind raises $47M for a platform to provide mental health support in your workplace
+  - Vitalik Buterin donates $1 billion worth of 'meme coins' to India Covid Relief Fund
       <hr/>
       
-      - *Mental health has been put into the spotlight in a big way in recent times. For many of us, our lives and lifestyles have changed massively in the last year, and alongside that, we’re collectively facing pandemic-fueled mortality on a global scale in a way th…*
+      - *Vitalik Buterin, the creator of Ethereum, on Wednesday donated Ethereum and “meme coins” worth $1.5 billion in one of the largest-ever individual philanthropy efforts. Buterin transferred 500 ETH and over 50 trillion SHIB (Shiba Inu), a meme coin, worth aroun…*
       
-  - Dutch startup QphoX raises €2M to connect Quantum computers with a Quantum modem
+  - Daily Crunch: The early-stage tech talent crunch is real
       <hr/>
       
-      - *When eventually they become a working reality, Quantum computers won’t be of much value if they simply sit there on their own. Just like the internet, the value is in the network. But right now there’s scant technology to link these powerful devices together.…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Holidu books $45M after growing its vacation rentals business ~50% YoY during COVID-19
+  - Bessemer's Kent Bennett and Toast's Aman Narang to discuss how to become a unicorn on ECL
       <hr/>
       
-      - *Vacation rental startup Holidu has tucked $45 million in Series D funding into its suitcase — bringing its total raised since being founded back in 2014 to more than $120M. The latest funding round is led by 83North with participation from existing investors …*
+      - *Toast has a reported valuation over $5 billion and has raised more than $900 million since launch. The restaurant POS service has clearly been on a rapid growth trajectory, but how has the company navigated the market during the pandemic, which has pushed and…*
        
-  - UK fashion portal Lyst raises $85M in a 'pre-IPO' round, reportedly at a $500M valuation
+  - Gillmor Gang: When Doves Cry
       <hr/>
        
-       - *E-commerce continues to be a huge focus for investors watching consumer behavior and spending patterns in the wake of the Covid-19 pandemic. In the latest development, UK startup Lyst, a portal for high fashion brands and stores to sell directly to users, has…*
+       - *Usually we wait a few days until a show has settled. While we stall, our producer and director Tina Chase Gillmor scours the recording for short clips that give a sense of the flavor and tenor of the conversation. This show, recorded a little more than 2 week…*
       
 
 <br />
