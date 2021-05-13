@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Elon Musk, Technoking of Tesla orders a halt to bitcoin car payments
+  - Xbox teams up with Tencent's Honor of Kings maker TiMi Studios
      <hr/>
      
-      - *Tesla CEO and self-dubbed technoking is back peddling on the company’s stance about bitcoin and has suspended purchases of its electric vehicles with the cryptocurrency. The change of stance, which was delivered via tweet, comes just weeks after Tesla CFO and…*
+      - *TiMi Studios, one of the world’s most lucrative game makers and is part of Tencent’s gargantuan digital entertainment empire, said Thursday that it has struck a strategic partnership with Xbox. The succinct announcement did not mention whether the tie-up is f…*
      
-  - Vitalik Buterin donates $1 billion worth of 'meme coins' to India Covid Relief Fund
+  - SpaceX's inaugural Moon tour private astronaut is heading to the International Space Station first
       <hr/>
       
-      - *Vitalik Buterin, the creator of Ethereum, on Wednesday donated Ethereum and “meme coins” worth $1.5 billion in one of the largest-ever individual philanthropy efforts. Buterin transferred 500 ETH and over 50 trillion SHIB (Shiba Inu), a meme coin, worth aroun…*
+      - *SpaceX private spaceflight ambitions got a big boost in 2018 when Japanese entrepreneur and billionaire Yusaku Maezawa announced he’d be taking a trip aboard a SpaceX Crew Dragon on a round-trip flight passing the Moon. Maezawa is still on track to make that …*
       
-  - Daily Crunch: The early-stage tech talent crunch is real
+  - Google hit with $123M antitrust fine in Italy over Android Auto
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Google has been fined just over €100 million (~$123M) by Italy’s antitrust watchdog for abuse of a dominant market position. The case relates to Android Auto, a modified version of Google’s mobile OS intended for in-car use, and specifically to how Google res…*
       
-  - Bessemer's Kent Bennett and Toast's Aman Narang to discuss how to become a unicorn on ECL
+  - Vietnamese flexible pay startup Nano raises $3M seed round
       <hr/>
       
-      - *Toast has a reported valuation over $5 billion and has raised more than $900 million since launch. The restaurant POS service has clearly been on a rapid growth trajectory, but how has the company navigated the market during the pandemic, which has pushed and…*
+      - *Nano Technologies, a startup that lets workers in Vietnam access their earned wages immediately through an app called VUI, has raised $3 million in seed funding. The oversubscribed round was led by returning investors Golden Gate Ventures and Venturra Discove…*
        
-  - Gillmor Gang: When Doves Cry
+  - China's WeRide secures more funding, pushing valuation to $3.3 billion
       <hr/>
        
-       - *Usually we wait a few days until a show has settled. While we stall, our producer and director Tina Chase Gillmor scours the recording for short clips that give a sense of the flavor and tenor of the conversation. This show, recorded a little more than 2 week…*
+       - *Only four months after securing Series B fundraising of $310 million, Chinese autonomous driving company WeRide says it has achieved its Series C funding round that brings its post-money valuation to $3 billion. This is first time the company has disclosed it…*
       
 
 <br />
