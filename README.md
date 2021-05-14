@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Lemonade says website security flaw that exposed customer data is 'by design'
+  - Echelon exposed riders' account data, thanks to a leaky API
      <hr/>
      
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *The bugs allowed virtually anyone to access other users' private information.*
      
+  - Why SPACs aren't targeting African startups
+      <hr/>
+      
+      - *One. That’s the number of African tech companies that have gone public on the NYSE in the last 10 years. Two, if you’re counting local exchanges. The former is African-focused e-commerce company Jumia and the latter is Egyptian fintech company Fawry. As a tec…*
+      
+  - Fisker and Foxconn sign deal to build electric vehicles
+      <hr/>
+      
+      - *Electric car startup Fisker signed an agreement with Foxconn, the Taiwanese company that assembles iPhones, to co-develop and manufacture a new electric vehicle. Production on the car, which will be sold under the Fisker brand name in North America, Europe, C…*
+      
+  - Daily Crunch: Lemonade says website security flaw that exposed customer data is 'by design'
+      <hr/>
+      
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+       
   - Substack acquires team from community consulting startup People & Company
       <hr/>
-      
-      - *New media poster child Substack announced today that they’ve added a small community-building consultancy team to its ranks, acquiring the Brooklyn-based startup People & Company. The small firm has been working with clients to build up their community effort…*
-      
-  - Even startups on tight budgets can maximize their marketing impact
-      <hr/>
-      
-      - *A startup’s best marketing asset is its story. The knowledge and expertise of its team, together with the why and the how of its offering provides the most compelling content.*
-      
-  - Three students sue coding bootcamp Lambda School alleging false advertising and financial shenanigans
-      <hr/>
-      
-      - *Lambda School has attracted a lot of attention, and raised some $130 million in venture funding from an impressive list of investors, for its novel approach to coding education: offering six-month virtual computer science courses for $30,000, with the option …*
        
-  - After another canceled year in the desert, Burning Man plans for a virtual event
-      <hr/>
-       
-       - *Last month, the organization behind Burning Man announced that the festival/experience would not be returning to the desert of Nevada this year due to the COVID-19 pandemic and would instead be attempting a virtual event once again aiming to bring attendees a…*
+       - *New media poster child Substack announced today that they’ve added a small community-building consultancy team to its ranks, acquiring the Brooklyn-based startup People & Company. The small firm has been working with clients to build up their community effort…*
       
 
 <br />
