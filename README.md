@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Xbox teams up with Tencent's Honor of Kings maker TiMi Studios
+  - Daily Crunch: Lemonade says website security flaw that exposed customer data is 'by design'
      <hr/>
      
-      - *TiMi Studios, one of the world’s most lucrative game makers and is part of Tencent’s gargantuan digital entertainment empire, said Thursday that it has struck a strategic partnership with Xbox. The succinct announcement did not mention whether the tie-up is f…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
      
-  - SpaceX's inaugural Moon tour private astronaut is heading to the International Space Station first
+  - Substack acquires team from community consulting startup People & Company
       <hr/>
       
-      - *SpaceX private spaceflight ambitions got a big boost in 2018 when Japanese entrepreneur and billionaire Yusaku Maezawa announced he’d be taking a trip aboard a SpaceX Crew Dragon on a round-trip flight passing the Moon. Maezawa is still on track to make that …*
+      - *New media poster child Substack announced today that they’ve added a small community-building consultancy team to its ranks, acquiring the Brooklyn-based startup People & Company. The small firm has been working with clients to build up their community effort…*
       
-  - Google hit with $123M antitrust fine in Italy over Android Auto
+  - Even startups on tight budgets can maximize their marketing impact
       <hr/>
       
-      - *Google has been fined just over €100 million (~$123M) by Italy’s antitrust watchdog for abuse of a dominant market position. The case relates to Android Auto, a modified version of Google’s mobile OS intended for in-car use, and specifically to how Google res…*
+      - *A startup’s best marketing asset is its story. The knowledge and expertise of its team, together with the why and the how of its offering provides the most compelling content.*
       
-  - Vietnamese flexible pay startup Nano raises $3M seed round
+  - Three students sue coding bootcamp Lambda School alleging false advertising and financial shenanigans
       <hr/>
       
-      - *Nano Technologies, a startup that lets workers in Vietnam access their earned wages immediately through an app called VUI, has raised $3 million in seed funding. The oversubscribed round was led by returning investors Golden Gate Ventures and Venturra Discove…*
+      - *Lambda School has attracted a lot of attention, and raised some $130 million in venture funding from an impressive list of investors, for its novel approach to coding education: offering six-month virtual computer science courses for $30,000, with the option …*
        
-  - China's WeRide secures more funding, pushing valuation to $3.3 billion
+  - After another canceled year in the desert, Burning Man plans for a virtual event
       <hr/>
        
-       - *Only four months after securing Series B fundraising of $310 million, Chinese autonomous driving company WeRide says it has achieved its Series C funding round that brings its post-money valuation to $3 billion. This is first time the company has disclosed it…*
+       - *Last month, the organization behind Burning Man announced that the festival/experience would not be returning to the desert of Nevada this year due to the COVID-19 pandemic and would instead be attempting a virtual event once again aiming to bring attendees a…*
       
 
 <br />
