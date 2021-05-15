@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch roundup: Selling SaaS to developers, cracking YC after 13 tries, all about Expensify
+  - Rocket Lab's 20th Electron launch ends in failure with the loss of its payload
      <hr/>
      
-      - *In an exclusive TechCrunch exposé, a founder shares the key lessons he learned while steering his startup through YC’s stringent selection process.*
+      - *Rocket Lab flew its 20th Electron mission on Saturday morning, but the launch ran into a significant issue just after its second stage engine ignited. The engine appeared to shut down just after the ignition, which is not what it’s supposed to do, and which i…*
      
-  - Daily Crunch: Stripe buys Y Combinator alum Bouncer for undisclosed sum
+  - Amazon launches miniTV, a free video streaming service, in India
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Amazon, which already charges some of the world’s lowest fees for Prime Video in India, is going a step further to win more users in the world’s second largest internet market. The e-commerce giant on Saturday launched miniTV, an ad-supported video streaming …*
       
-  - Google's 'DVD Screensaver' Easter egg makes the logo bounce around your screen accordingly
+  - European AI needs strategic leadership, not overregulation
       <hr/>
       
-      - *It’s been a while since we’ve seen a good Easter egg out of Google. Not too long ago it felt like someone would discover a new hidden gag in Google’s products every few weeks. The company cranked them out like it was their job. While we haven’t seen as many n…*
+      - *Proposed EU regulations could cripple AI development in the EU while China and the U.S. leap forward and lead to complete chaos when regulations in various EU bodies start contradicting.*
       
-  - New Relic’s business remodel will leave new CEO with work to do
+  - Solana, a blockchain platform followed by top crypto investors, says it's a lot faster than Ethereum
       <hr/>
       
-      - *We decided to dig into the company's financials to see just what challenges Bill Staples might face as he moves into the corner office.*
+      - *Solana isn’t known yet outside of the crypto community. But insiders think the blockchain platform is interesting for a wide variety of reasons, beginning with its amiable founder, Anatoly Yakovenko, who spent more than a dozen years as an engineer working on…*
        
-  - California Gov. Newsom proposes $3.2B in EV investment as part of economic recovery package
+  - Extra Crunch roundup: Selling SaaS to developers, cracking YC after 13 tries, all about Expensify
       <hr/>
        
-       - *California Governor Gavin Newsom, a vocal proponent of electric vehicles, on Friday debuted a new proposal that would earmark $3.2 billion to boost EV infrastructure and adoption in the state. “This is a big deal,” Newsom said at a press conference Friday. “T…*
+       - *In an exclusive TechCrunch exposé, a founder shares the key lessons he learned while steering his startup through YC’s stringent selection process.*
       
 
 <br />
