@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Echelon exposed riders' account data, thanks to a leaky API
+  - Extra Crunch roundup: Selling SaaS to developers, cracking YC after 13 tries, all about Expensify
      <hr/>
      
-      - *The bugs allowed virtually anyone to access other users' private information.*
+      - *In an exclusive TechCrunch exposé, a founder shares the key lessons he learned while steering his startup through YC’s stringent selection process.*
      
-  - Why SPACs aren't targeting African startups
-      <hr/>
-      
-      - *One. That’s the number of African tech companies that have gone public on the NYSE in the last 10 years. Two, if you’re counting local exchanges. The former is African-focused e-commerce company Jumia and the latter is Egyptian fintech company Fawry. As a tec…*
-      
-  - Fisker and Foxconn sign deal to build electric vehicles
-      <hr/>
-      
-      - *Electric car startup Fisker signed an agreement with Foxconn, the Taiwanese company that assembles iPhones, to co-develop and manufacture a new electric vehicle. Production on the car, which will be sold under the Fisker brand name in North America, Europe, C…*
-      
-  - Daily Crunch: Lemonade says website security flaw that exposed customer data is 'by design'
+  - Daily Crunch: Stripe buys Y Combinator alum Bouncer for undisclosed sum
       <hr/>
       
       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      
+  - Google's 'DVD Screensaver' Easter egg makes the logo bounce around your screen accordingly
+      <hr/>
+      
+      - *It’s been a while since we’ve seen a good Easter egg out of Google. Not too long ago it felt like someone would discover a new hidden gag in Google’s products every few weeks. The company cranked them out like it was their job. While we haven’t seen as many n…*
+      
+  - New Relic’s business remodel will leave new CEO with work to do
+      <hr/>
+      
+      - *We decided to dig into the company's financials to see just what challenges Bill Staples might face as he moves into the corner office.*
        
-  - Substack acquires team from community consulting startup People & Company
+  - California Gov. Newsom proposes $3.2B in EV investment as part of economic recovery package
       <hr/>
        
-       - *New media poster child Substack announced today that they’ve added a small community-building consultancy team to its ranks, acquiring the Brooklyn-based startup People & Company. The small firm has been working with clients to build up their community effort…*
+       - *California Governor Gavin Newsom, a vocal proponent of electric vehicles, on Friday debuted a new proposal that would earmark $3.2 billion to boost EV infrastructure and adoption in the state. “This is a big deal,” Newsom said at a press conference Friday. “T…*
       
 
 <br />
