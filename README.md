@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Rocket Lab's 20th Electron launch ends in failure with the loss of its payload
+  - Dear Startups: Don’t repaint, reinvent
      <hr/>
      
-      - *Rocket Lab flew its 20th Electron mission on Saturday morning, but the launch ran into a significant issue just after its second stage engine ignited. The engine appeared to shut down just after the ignition, which is not what it’s supposed to do, and which i…*
+      - *I feel hungover. No, not in the traditional sense, but in the dizzying way you feel when half of your world is celebrating double vaccinations and no masks, and the other half, across the world, is mourning death and not a shred of light at the end of the tun…*
      
-  - Amazon launches miniTV, a free video streaming service, in India
+  - Maybe SPACs were a bad idea after all
       <hr/>
       
-      - *Amazon, which already charges some of the world’s lowest fees for Prime Video in India, is going a step further to win more users in the world’s second largest internet market. The e-commerce giant on Saturday launched miniTV, an ad-supported video streaming …*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
       
-  - European AI needs strategic leadership, not overregulation
+  - Leveling the playing field
       <hr/>
       
-      - *Proposed EU regulations could cripple AI development in the EU while China and the U.S. leap forward and lead to complete chaos when regulations in various EU bodies start contradicting.*
+      - *There is an atmosphere of collaboration, not competition, around the creation of hardware for gamers within the assistive technology community.*
       
-  - Solana, a blockchain platform followed by top crypto investors, says it's a lot faster than Ethereum
+  - This Week in Apps: Apple talks App Store fraud, responds to antitrust complaints; Facebook growth is slipping
       <hr/>
       
-      - *Solana isn’t known yet outside of the crypto community. But insiders think the blockchain platform is interesting for a wide variety of reasons, beginning with its amiable founder, Anatoly Yakovenko, who spent more than a dozen years as an engineer working on…*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - Extra Crunch roundup: Selling SaaS to developers, cracking YC after 13 tries, all about Expensify
+  - Rocket Lab's 20th Electron launch ends in failure with the loss of its payload
       <hr/>
        
-       - *In an exclusive TechCrunch exposé, a founder shares the key lessons he learned while steering his startup through YC’s stringent selection process.*
+       - *Rocket Lab flew its 20th Electron mission on Saturday morning, but the launch ran into a significant issue just after its second stage engine ignited. The engine appeared to shut down just after the ignition, which is not what it’s supposed to do, and which i…*
       
 
 <br />
