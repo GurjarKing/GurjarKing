@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Elon Musk giveth and taketh away
+  - Reface now lets users face-swap into pics and GIFs they upload
      <hr/>
      
-      - *Hello friends, and welcome back to Week in Review! Last week, I wrote about Facebook’s never-ending Trump problem. This week, I’m looking at Elon Musk’s wild week of whipping crypto markets. If you’re reading this on the TechCrunch site, you can get this in y…*
+      - *Buzzy face-swapping video app Reface is expanding its reality-shifting potential beyond selfies by letting users upload more of their own content for its AI to bring to life. Users of its iOS and Android apps still can’t upload their own user generated video …*
      
-  - How one founder's startup journey began with dropping out of school to work with Drake
+  - Fresh out of YC, Houm raises $8M to improve the home rental and sales market in LatAm
       <hr/>
       
-      - *This week’s episode of Found features Courtne Smith, founder of NewNew, a social app where people pay to vote on your decisions. The platform takes the concept of social polling to the next level, essentially allowing everyone to monetize their choices by tur…*
+      - *As a longtime real estate developer based in Chile, Benjamin Labra was able to spot gaps in the buying and renting markets in Latin America. To meet demands, he started Houm, an all-in-one platform that helps homeowners rent and sell their properties in the r…*
       
-  - Clubhouse to expand Android app worldwide in a week
+  - Sequoia leads $5M pre-seed in Egypt's 1-month-old digital bank Telda
       <hr/>
       
-      - *Voice social network Clubhouse said on Sunday it will expand its Android app worldwide in a week, days after launching a beta version of its service on Google-owned mobile operating system for users in the U.S. The startup — backed by A16z, Tiger Global and D…*
+      - *Egypt has a population of over 100 million people. The country has a high mobile and internet penetration necessary for a young and tech-savvy population with 61% below 30. But despite its youthful population, two out of every three individuals are currently …*
       
-  - Crypto and blockchain must accept they have a problem, then lead in sustainability
+  - JD Logistics, China's answer to Amazon's logistics ambitions, to raise $3.4B in IPO
       <hr/>
       
-      - *As cryptocurrencies become increasingly mainstream, the industry’s expanding carbon footprint becomes harder to ignore. The industry needs to address sustainability now or risk hindering innovation.*
+      - *After operating in the red for 14 years, JD.com’s logistics subsidiary is getting ready for an initial public offering in Hong Kong. JD Logistics will price its share between HK$39.36 and HK$43.36 apiece, which could see the firm raise up to about HK$26.4 bil…*
        
-  - Dear Startups: Don’t repaint, reinvent
+  - Gojek and Tokopedia merge to form GoTo Group
       <hr/>
        
-       - *I feel hungover. No, not in the traditional sense, but in the dizzying way you feel when half of your world is celebrating double vaccinations and no masks, and the other half, across the world, is mourning death and not a shred of light at the end of the tun…*
+       - *Ride-hailing giant Gojek and marketplace Tokopedia said on Monday they have combined their businesses to form GoTo Group, the largest technology group in Indonesia, the fourth most populous nation that is currently navigating to contain the economic fallout f…*
       
 
 <br />
