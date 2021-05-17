@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Dear Startups: Don’t repaint, reinvent
+  - Elon Musk giveth and taketh away
      <hr/>
      
-      - *I feel hungover. No, not in the traditional sense, but in the dizzying way you feel when half of your world is celebrating double vaccinations and no masks, and the other half, across the world, is mourning death and not a shred of light at the end of the tun…*
+      - *Hello friends, and welcome back to Week in Review! Last week, I wrote about Facebook’s never-ending Trump problem. This week, I’m looking at Elon Musk’s wild week of whipping crypto markets. If you’re reading this on the TechCrunch site, you can get this in y…*
      
-  - Maybe SPACs were a bad idea after all
+  - How one founder's startup journey began with dropping out of school to work with Drake
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *This week’s episode of Found features Courtne Smith, founder of NewNew, a social app where people pay to vote on your decisions. The platform takes the concept of social polling to the next level, essentially allowing everyone to monetize their choices by tur…*
       
-  - Leveling the playing field
+  - Clubhouse to expand Android app worldwide in a week
       <hr/>
       
-      - *There is an atmosphere of collaboration, not competition, around the creation of hardware for gamers within the assistive technology community.*
+      - *Voice social network Clubhouse said on Sunday it will expand its Android app worldwide in a week, days after launching a beta version of its service on Google-owned mobile operating system for users in the U.S. The startup — backed by A16z, Tiger Global and D…*
       
-  - This Week in Apps: Apple talks App Store fraud, responds to antitrust complaints; Facebook growth is slipping
+  - Crypto and blockchain must accept they have a problem, then lead in sustainability
       <hr/>
       
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      - *As cryptocurrencies become increasingly mainstream, the industry’s expanding carbon footprint becomes harder to ignore. The industry needs to address sustainability now or risk hindering innovation.*
        
-  - Rocket Lab's 20th Electron launch ends in failure with the loss of its payload
+  - Dear Startups: Don’t repaint, reinvent
       <hr/>
        
-       - *Rocket Lab flew its 20th Electron mission on Saturday morning, but the launch ran into a significant issue just after its second stage engine ignited. The engine appeared to shut down just after the ignition, which is not what it’s supposed to do, and which i…*
+       - *I feel hungover. No, not in the traditional sense, but in the dizzying way you feel when half of your world is celebrating double vaccinations and no masks, and the other half, across the world, is mourning death and not a shred of light at the end of the tun…*
       
 
 <br />
