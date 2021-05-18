@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Dott, Lime and Tier selected for London e-scooter trial
+  - Artificial raises $21M led by Microsoft's M12 for a lab automation platform aimed at life sciences R&D
      <hr/>
      
-      - *Transport for London and London Councils have announced Dott, Lime and Tier Mobility as the winners of its prized e-scooter pilot, confirming last month’s suspicions based on job postings by the companies.  Last year, the government legalized e-scooter rental…*
+      - *Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist wi…*
      
-  - Canoo is being investigated by the SEC
+  - Insight Partners leads $60M growth round in cross-border payments startup Thunes
       <hr/>
       
-      - *Canoo, the Los Angeles-based electric vehicle startup that debuted on the Nasdaq public exchange earlier this year, is being investigated by the U.S. Securities and Exchange Commission, just months after its merger with special purpose acquisition company Hen…*
+      - *The world of digital payments is very fragmented, with different types of online bank accounts, digital wallets and money transfer services used in different countries. Singapore-based Thunes, a fintech focused on making cross-border money transfers easier, a…*
       
-  - Bosta raises $6.7M to expand e-commerce delivery business across Africa and MENA
+  - Facebook debuts 'Live Shopping Fridays' featuring beauty, fashion and skincare brands
       <hr/>
       
-      - *Per a recent report by Bain & Co., e-commerce is expected to grow to $28.5 billion in MENA by 2022 from a 2019 value of $8.3 billion. Egypt, one of the most active e-commerce countries in the region, is anticipated to grow 33% annually to reach $3 billion by …*
+      - *Facebook wants to whet consumers’ appetite for live streamed shopping with this week’s launch of “Live Shopping Fridays” event series, which will see larger brands live streaming beauty, skincare, and fashion content on a weekly basis. The event begins Friday…*
       
-  - Should startups build or buy telehealth infrastructure?
+  - Amazon's market power to be tested in Germany in push for "early action" over antitrust risks
       <hr/>
       
-      - *Turnkey solutions might be tempting to healthcare startups looking to take advantage of the current market tailwinds, but startups still have to decide what to outsource and what to build.*
+      - *Germany’s Federal Cartel Office (FCO) is seeking to make swift use of a new competition tool to target big tech — announcing today that it’s opened a proceeding against ecommerce giant Amazon. If the FCO confirms that Amazon is of “paramount significance for …*
        
-  - Daily Crunch: AT&T's $43B WarnerMedia spinoff will create a new content colossus
+  - Gogoro strikes deal with Yadea and DCJ to build a battery-swapping network in China
       <hr/>
        
-       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+       - *Less than a month after announcing a partnership with India’s largest two-wheeled vehicle maker, Gogoro is taking another big step in its global expansion plans. This time the market is China, where Gogoro’s technology, including its swappable smart batteries…*
       
 
 <br />
