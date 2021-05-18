@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Reface now lets users face-swap into pics and GIFs they upload
+  - Dott, Lime and Tier selected for London e-scooter trial
      <hr/>
      
-      - *Buzzy face-swapping video app Reface is expanding its reality-shifting potential beyond selfies by letting users upload more of their own content for its AI to bring to life. Users of its iOS and Android apps still can’t upload their own user generated video …*
+      - *Transport for London and London Councils have announced Dott, Lime and Tier Mobility as the winners of its prized e-scooter pilot, confirming last month’s suspicions based on job postings by the companies.  Last year, the government legalized e-scooter rental…*
      
-  - Fresh out of YC, Houm raises $8M to improve the home rental and sales market in LatAm
+  - Canoo is being investigated by the SEC
       <hr/>
       
-      - *As a longtime real estate developer based in Chile, Benjamin Labra was able to spot gaps in the buying and renting markets in Latin America. To meet demands, he started Houm, an all-in-one platform that helps homeowners rent and sell their properties in the r…*
+      - *Canoo, the Los Angeles-based electric vehicle startup that debuted on the Nasdaq public exchange earlier this year, is being investigated by the U.S. Securities and Exchange Commission, just months after its merger with special purpose acquisition company Hen…*
       
-  - Sequoia leads $5M pre-seed in Egypt's 1-month-old digital bank Telda
+  - Bosta raises $6.7M to expand e-commerce delivery business across Africa and MENA
       <hr/>
       
-      - *Egypt has a population of over 100 million people. The country has a high mobile and internet penetration necessary for a young and tech-savvy population with 61% below 30. But despite its youthful population, two out of every three individuals are currently …*
+      - *Per a recent report by Bain & Co., e-commerce is expected to grow to $28.5 billion in MENA by 2022 from a 2019 value of $8.3 billion. Egypt, one of the most active e-commerce countries in the region, is anticipated to grow 33% annually to reach $3 billion by …*
       
-  - JD Logistics, China's answer to Amazon's logistics ambitions, to raise $3.4B in IPO
+  - Should startups build or buy telehealth infrastructure?
       <hr/>
       
-      - *After operating in the red for 14 years, JD.com’s logistics subsidiary is getting ready for an initial public offering in Hong Kong. JD Logistics will price its share between HK$39.36 and HK$43.36 apiece, which could see the firm raise up to about HK$26.4 bil…*
+      - *Turnkey solutions might be tempting to healthcare startups looking to take advantage of the current market tailwinds, but startups still have to decide what to outsource and what to build.*
        
-  - Gojek and Tokopedia merge to form GoTo Group
+  - Daily Crunch: AT&T's $43B WarnerMedia spinoff will create a new content colossus
       <hr/>
        
-       - *Ride-hailing giant Gojek and marketplace Tokopedia said on Monday they have combined their businesses to form GoTo Group, the largest technology group in Indonesia, the fourth most populous nation that is currently navigating to contain the economic fallout f…*
+       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
 
 <br />
