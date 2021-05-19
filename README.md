@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Artificial raises $21M led by Microsoft's M12 for a lab automation platform aimed at life sciences R&D
+  - UTEC, one of Asia's largest deep-tech investment firms, launches new $275M fund
      <hr/>
      
-      - *Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist wi…*
+      - *The University of Tokyo Edge Capital Partners (UTEC), a deep-tech investment firm, announced the first close of its fifth fund, which is expected to total 30 billion JPY (or about $275 million USD) by June 2021. UTEC currently has about $780 million in total …*
      
-  - Insight Partners leads $60M growth round in cross-border payments startup Thunes
+  - Financing for students startup StudentFinance raises $5.3M Seed from Giant and Armilar
       <hr/>
       
-      - *The world of digital payments is very fragmented, with different types of online bank accounts, digital wallets and money transfer services used in different countries. Singapore-based Thunes, a fintech focused on making cross-border money transfers easier, a…*
+      - *Fintech startup StudentFinance – which allows educational institutions to offer success-based financing for students – has raised a $5.3m (€4.5m) seed round co-led by Giant Ventures and Armilar Venture Partners. It’s now raised $6.6m total, to date. StudentFi…*
       
-  - Facebook debuts 'Live Shopping Fridays' featuring beauty, fashion and skincare brands
+  - Roofr just nailed down a second seed round to make new roofing sales a cinch to close
       <hr/>
       
-      - *Facebook wants to whet consumers’ appetite for live streamed shopping with this week’s launch of “Live Shopping Fridays” event series, which will see larger brands live streaming beauty, skincare, and fashion content on a weekly basis. The event begins Friday…*
+      - *Roofer Pro. Roof Snap. Acculynx. There’s suddenly no shortage of companies offering software to make the lives of roofers and their customers easier. Among these is Roofr, a five-year-old, San Francisco-based, 31-person sales platform for roofing contractors …*
       
-  - Amazon's market power to be tested in Germany in push for "early action" over antitrust risks
+  - Daily Crunch: How Expensify maintained its early-stage startup culture after 13 years
       <hr/>
       
-      - *Germany’s Federal Cartel Office (FCO) is seeking to make swift use of a new competition tool to target big tech — announcing today that it’s opened a proceeding against ecommerce giant Amazon. If the FCO confirms that Amazon is of “paramount significance for …*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
        
-  - Gogoro strikes deal with Yadea and DCJ to build a battery-swapping network in China
+  - Everything Google announced at I/O today
       <hr/>
        
-       - *Less than a month after announcing a partnership with India’s largest two-wheeled vehicle maker, Gogoro is taking another big step in its global expansion plans. This time the market is China, where Gogoro’s technology, including its swappable smart batteries…*
+       - *This year’s I/O event from Google was heavy on the “we’re building something cool” and light on the “here’s something you can use or buy tomorrow.” But there were also some interesting surprises from the semi-live event held in and around the company’…*
       
 
 <br />
