@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - UTEC, one of Asia's largest deep-tech investment firms, launches new $275M fund
+  - Spotify launches a virtual concert series with The Black Keys and more
      <hr/>
      
-      - *The University of Tokyo Edge Capital Partners (UTEC), a deep-tech investment firm, announced the first close of its fifth fund, which is expected to total 30 billion JPY (or about $275 million USD) by June 2021. UTEC currently has about $780 million in total …*
+      - *The past year has been utterly devastating to the music industry generally, and live music in particular. Artists who make a living touring have been forced to find alternative ways to make ends meet, while those among us who once frequented live events have …*
      
-  - Financing for students startup StudentFinance raises $5.3M Seed from Giant and Armilar
+  - API security startup 42Crunch raises $17M Series A led by Energy Impact Partners
       <hr/>
       
-      - *Fintech startup StudentFinance – which allows educational institutions to offer success-based financing for students – has raised a $5.3m (€4.5m) seed round co-led by Giant Ventures and Armilar Venture Partners. It’s now raised $6.6m total, to date. StudentFi…*
+      - *With security top of mind in many companies these days, especially given how many staff work at home, there is one area that remains chronically ignored: that of the world of APIs which power all of the platforms we all use every day. Now, a significant playe…*
       
-  - Roofr just nailed down a second seed round to make new roofing sales a cinch to close
+  - Upstream, a Miami-based professional networking platform, raises a $2.75M seed round
       <hr/>
       
-      - *Roofer Pro. Roof Snap. Acculynx. There’s suddenly no shortage of companies offering software to make the lives of roofers and their customers easier. Among these is Roofr, a five-year-old, San Francisco-based, 31-person sales platform for roofing contractors …*
+      - *If you’re reading this, there’s a pretty good chance you have a LinkedIn profile with your digital resume and hundreds — if not thousands — of professional connections. But how many of those people do you actually know well, and, more importantly, do you ever…*
       
-  - Daily Crunch: How Expensify maintained its early-stage startup culture after 13 years
+  - India tells WhatsApp to withdraw its new policy terms
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *The Indian government is not pleased with WhatsApp’s new privacy policy. The nation’s Ministry of Electronics and Information Technology (MeitY) has once again directed the Facebook-owned company to withdraw the planned update. In a letter to WhatsApp on Tues…*
        
-  - Everything Google announced at I/O today
+  - PhonePe in talks to acquire Indian app store Indus OS
       <hr/>
        
-       - *This year’s I/O event from Google was heavy on the “we’re building something cool” and light on the “here’s something you can use or buy tomorrow.” But there were also some interesting surprises from the semi-live event held in and around the company’…*
+       - *Walmart-backed payments services firm PhonePe is in advanced stages of talks to acquire Samsung-backed Indus OS, a startup that operates an eponymous third-party Android app store, a source familiar with the matter told TechCrunch. The deal values Indus OS at…*
       
 
 <br />
