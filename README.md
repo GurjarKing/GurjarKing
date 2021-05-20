@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: India gives WhatsApp one week to revoke its updated privacy policy
+  - Privacy.com rebrands to Lithic, raises $43M for virtual payment cards
      <hr/>
      
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *When Privacy.com was founded in 2014, the company’s focus was to let anyone generate virtual and disposable payment card numbers for free. The goal was to allow those users to keep users’ actual credit card numbers safe while allowing the option to cut off co…*
      
-  - Arrival's Denis Sverdlov on the new era of car manufacturing
+  - TikTok rolls out tools to bulk delete and report comments, block users
       <hr/>
       
-      - *"I would also count myself as a serial entrepreneur because I've been doing this for more than 20 years."*
+      - *TikTok today is introducing a feature that will allow creators to deal with online abuse in an easier way. The company is launching new tools that will allow creators to bulk delete comments and block users, instead of having to moderate comments one-by-one. …*
       
-  - Wisk Aero files injunction in trade secret lawsuit against Archer Aviation
+  - OneNav locates $21M from GV to map our transition to the next generation of GPS
       <hr/>
       
-      - *Electric aviation company Wisk Aero filed a motion for a preliminary injunction Wednesday in its ongoing lawsuit with rival electric air travel startup Archer Aviation. The injunction could put a serious wrench in Archer’s operations should the courts approve…*
+      - *GPS is one of those science fiction technologies whose use is effortless for the end user and endlessly challenging for the engineers who design it. It’s now at the heart of modern life: everything from Amazon package deliveries to our cars and trucks to our …*
       
-  - Dear Sophie: What’s happening with visa application receipt notices?
+  - Polywork gets $3.5M to blend professional and social networking
       <hr/>
       
-      - *Our startup has several employees on work visas or employment authorization. Many have been waiting for quite a while for the government to tell them their applications have been received. Why?*
+      - *Life is complicated and so — increasingly — is work-life. That’s the premise underpinning Polywork, a new professional social network founded by Lystable/Kalo founder, Peter Johnson. It’s announcing a $3.5 million seed round today, led by by Caffeinated Capit…*
        
-  - 'It's almost like placing an IV': Brain monitoring electrode receives FDA 510(k) clearance
+  - Holoride deploys Elrond blockchain and NFTs in prep for 2022 market launch
       <hr/>
        
-       - *An FDA pathway that’s greased the gears for COVID-19 vaccines and drugs has paved the way for something else: a new take on electroencephalography (EEG), the established brain-monitoring technique in which metallic electrodes are placed on the scalp to measur…*
+       - *Holoride, the Audi spinoff that’s creating an in-vehicle XR passenger entertainment experience, is deploying blockchain technology and NFTs as the next stage in its preparation for a 2022 market launch.  The company, which closed a $12 million Series A in Apr…*
       
 
 <br />
