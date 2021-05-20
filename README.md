@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Spotify launches a virtual concert series with The Black Keys and more
+  - Daily Crunch: India gives WhatsApp one week to revoke its updated privacy policy
      <hr/>
      
-      - *The past year has been utterly devastating to the music industry generally, and live music in particular. Artists who make a living touring have been forced to find alternative ways to make ends meet, while those among us who once frequented live events have …*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
      
-  - API security startup 42Crunch raises $17M Series A led by Energy Impact Partners
+  - Arrival's Denis Sverdlov on the new era of car manufacturing
       <hr/>
       
-      - *With security top of mind in many companies these days, especially given how many staff work at home, there is one area that remains chronically ignored: that of the world of APIs which power all of the platforms we all use every day. Now, a significant playe…*
+      - *"I would also count myself as a serial entrepreneur because I've been doing this for more than 20 years."*
       
-  - Upstream, a Miami-based professional networking platform, raises a $2.75M seed round
+  - Wisk Aero files injunction in trade secret lawsuit against Archer Aviation
       <hr/>
       
-      - *If you’re reading this, there’s a pretty good chance you have a LinkedIn profile with your digital resume and hundreds — if not thousands — of professional connections. But how many of those people do you actually know well, and, more importantly, do you ever…*
+      - *Electric aviation company Wisk Aero filed a motion for a preliminary injunction Wednesday in its ongoing lawsuit with rival electric air travel startup Archer Aviation. The injunction could put a serious wrench in Archer’s operations should the courts approve…*
       
-  - India tells WhatsApp to withdraw its new policy terms
+  - Dear Sophie: What’s happening with visa application receipt notices?
       <hr/>
       
-      - *The Indian government is not pleased with WhatsApp’s new privacy policy. The nation’s Ministry of Electronics and Information Technology (MeitY) has once again directed the Facebook-owned company to withdraw the planned update. In a letter to WhatsApp on Tues…*
+      - *Our startup has several employees on work visas or employment authorization. Many have been waiting for quite a while for the government to tell them their applications have been received. Why?*
        
-  - PhonePe in talks to acquire Indian app store Indus OS
+  - 'It's almost like placing an IV': Brain monitoring electrode receives FDA 510(k) clearance
       <hr/>
        
-       - *Walmart-backed payments services firm PhonePe is in advanced stages of talks to acquire Samsung-backed Indus OS, a startup that operates an eponymous third-party Android app store, a source familiar with the matter told TechCrunch. The deal values Indus OS at…*
+       - *An FDA pathway that’s greased the gears for COVID-19 vaccines and drugs has paved the way for something else: a new take on electroencephalography (EEG), the established brain-monitoring technique in which metallic electrodes are placed on the scalp to measur…*
       
 
 <br />
