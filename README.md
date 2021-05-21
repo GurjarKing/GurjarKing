@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Telemedicine startups are positioning themselves for a post-pandemic world
+  - Indonesian agritech platform TaniHub Group harvests a $65.5M Series B round
      <hr/>
      
-      - *Telemedicine has faced an uphill battle to become more relevant in the U.S., with challenges like meeting HIPPA compliance requirements and insurance companies unwilling to pay for virtual visits.*
+      - *TaniHub Group, an Indonesian startup that helps farmers get better prices and more customers for their crops, has raised a $65.5 million Series B. The funding was led by MDI Ventures, the investment arm of Telkom Group, one of Indonesia’s largest telecoms, wi…*
      
-  - Daily Crunch: Ford's powerhouse F-150 Lightning pickup can actually power your house
+  - BuffaloGrid and Techfugees launch education, solar charging initiative for refugees, aim to raise $3M
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *BuffaloGrid, a startup that provides phone charging and digital content to people in off-grid environments, is teaming up with the Techfugees refugee non-profit to provid free educational content and device charging to displaced people across East Africa and …*
       
-  - Investors help Procore build a decacorn valuation in public debut
+  - Rakuten and Beyond Next invest $1M seed funding in farm-to-table startup Secai Marche
       <hr/>
       
-      - *Procore is thus being valued like a high-growth, high-margin software company, but it is not one that anticipates a rapid ramp to profitability.*
+      - *Farmers and food businesses, like restaurants, deal with the same issue: a fragmented supply chain. Secai Marche wants to streamline agricultural logistics, making fulfillment more cost-efficient and enabling food businesses to bundle products from different …*
       
-  - Factory14 raises $200M to jump into the Amazon marketplace roll-up race
+  - Mio, a social commerce startup focused on smaller cities and rural areas in Vietnam, raises $1M seed
       <hr/>
       
-      - *It doesn’t feel like a week goes by at the moment that another startup doesn’t emerge armed with a huge wallet of cash to pursue a strategy of consolidating and then scaling promising brands that have built a business selling on marketplaces like Amazon’s. In…*
+      - *Vietnam has one of the fastest-growing e-commerce markets in Southeast Asia, but many major platforms still focus on large cities. This means people in smaller cities or rural areas need to deal with longer wait times for deliveries. Social commerce company M…*
        
-  - In the race for tech talent, the US should look to Mexico
+  - Telemedicine startups are positioning themselves for a post-pandemic world
       <hr/>
        
-       - *Amid a backdrop of skyrocketing tech valuations, the U.S. tech sector should look to Mexico as a key growth market and partner. The time is now for the U.S. to tap into Mexico's surplus tech talent.*
+       - *Telemedicine has faced an uphill battle to become more relevant in the U.S., with challenges like meeting HIPPA compliance requirements and insurance companies unwilling to pay for virtual visits.*
       
 
 <br />
