@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Privacy.com rebrands to Lithic, raises $43M for virtual payment cards
+  - Telemedicine startups are positioning themselves for a post-pandemic world
      <hr/>
      
-      - *When Privacy.com was founded in 2014, the company’s focus was to let anyone generate virtual and disposable payment card numbers for free. The goal was to allow those users to keep users’ actual credit card numbers safe while allowing the option to cut off co…*
+      - *Telemedicine has faced an uphill battle to become more relevant in the U.S., with challenges like meeting HIPPA compliance requirements and insurance companies unwilling to pay for virtual visits.*
      
-  - TikTok rolls out tools to bulk delete and report comments, block users
+  - Daily Crunch: Ford's powerhouse F-150 Lightning pickup can actually power your house
       <hr/>
       
-      - *TikTok today is introducing a feature that will allow creators to deal with online abuse in an easier way. The company is launching new tools that will allow creators to bulk delete comments and block users, instead of having to moderate comments one-by-one. …*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - OneNav locates $21M from GV to map our transition to the next generation of GPS
+  - Investors help Procore build a decacorn valuation in public debut
       <hr/>
       
-      - *GPS is one of those science fiction technologies whose use is effortless for the end user and endlessly challenging for the engineers who design it. It’s now at the heart of modern life: everything from Amazon package deliveries to our cars and trucks to our …*
+      - *Procore is thus being valued like a high-growth, high-margin software company, but it is not one that anticipates a rapid ramp to profitability.*
       
-  - Polywork gets $3.5M to blend professional and social networking
+  - Factory14 raises $200M to jump into the Amazon marketplace roll-up race
       <hr/>
       
-      - *Life is complicated and so — increasingly — is work-life. That’s the premise underpinning Polywork, a new professional social network founded by Lystable/Kalo founder, Peter Johnson. It’s announcing a $3.5 million seed round today, led by by Caffeinated Capit…*
+      - *It doesn’t feel like a week goes by at the moment that another startup doesn’t emerge armed with a huge wallet of cash to pursue a strategy of consolidating and then scaling promising brands that have built a business selling on marketplaces like Amazon’s. In…*
        
-  - Holoride deploys Elrond blockchain and NFTs in prep for 2022 market launch
+  - In the race for tech talent, the US should look to Mexico
       <hr/>
        
-       - *Holoride, the Audi spinoff that’s creating an in-vehicle XR passenger entertainment experience, is deploying blockchain technology and NFTs as the next stage in its preparation for a 2022 market launch.  The company, which closed a $12 million Series A in Apr…*
+       - *Amid a backdrop of skyrocketing tech valuations, the U.S. tech sector should look to Mexico as a key growth market and partner. The time is now for the U.S. to tap into Mexico's surplus tech talent.*
       
 
 <br />
