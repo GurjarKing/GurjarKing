@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Indonesian agritech platform TaniHub Group harvests a $65.5M Series B round
+  - Extra Crunch roundup: Jam City SPAC, startup PR, telemedicine market map, more
      <hr/>
      
-      - *TaniHub Group, an Indonesian startup that helps farmers get better prices and more customers for their crops, has raised a $65.5 million Series B. The funding was led by MDI Ventures, the investment arm of Telkom Group, one of Indonesia’s largest telecoms, wi…*
+      - *Full disclosure: the second time I worked at a startup founded by Mark Pincus, his dog Zinga slept behind my desk and I was one of her favorite dog-sitters.*
      
-  - BuffaloGrid and Techfugees launch education, solar charging initiative for refugees, aim to raise $3M
+  - Daily Crunch: Snap spends more than $500M to acquire AR display startup WaveOptics
       <hr/>
       
-      - *BuffaloGrid, a startup that provides phone charging and digital content to people in off-grid environments, is teaming up with the Techfugees refugee non-profit to provid free educational content and device charging to displaced people across East Africa and …*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Rakuten and Beyond Next invest $1M seed funding in farm-to-table startup Secai Marche
+  - Develop a buyer’s guide to educate your startup's sales team and customers
       <hr/>
       
-      - *Farmers and food businesses, like restaurants, deal with the same issue: a fragmented supply chain. Secai Marche wants to streamline agricultural logistics, making fulfillment more cost-efficient and enabling food businesses to bundle products from different …*
+      - *The buyer’s guide is a win for both sides: Buyers are informed of what’s to come, and startups can expedite a potential deal by preempting any concerns about a product and/or the sales process.*
       
-  - Mio, a social commerce startup focused on smaller cities and rural areas in Vietnam, raises $1M seed
+  - White House teams up with dating apps to give vaccinated users free perks
       <hr/>
       
-      - *Vietnam has one of the fastest-growing e-commerce markets in Southeast Asia, but many major platforms still focus on large cities. This means people in smaller cities or rural areas need to deal with longer wait times for deliveries. Social commerce company M…*
+      - *With vaccination rates slowing in the U.S., the White House is getting creative about getting shots in arms. Beyond protecting yourself and others from from a deadly disease, the latest incentive to get vaccinated could help you find love (or get laid). The W…*
        
-  - Telemedicine startups are positioning themselves for a post-pandemic world
+  - The first electric Popemobile will be a Fisker Ocean SUV
       <hr/>
        
-       - *Telemedicine has faced an uphill battle to become more relevant in the U.S., with challenges like meeting HIPPA compliance requirements and insurance companies unwilling to pay for virtual visits.*
+       - *Fisker Inc., the EV startup-turned publicly traded company, is working on a modified version of its all-electric Ocean SUV for Pope Francis. The company said Friday that it plans to deliver to the Vatican late next year a Popemobile based on its upcoming Fisk…*
       
 
 <br />
