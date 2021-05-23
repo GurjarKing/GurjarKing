@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch roundup: Jam City SPAC, startup PR, telemedicine market map, more
+  - Billboards? Nah, just buy a media company instead
      <hr/>
      
-      - *Full disclosure: the second time I worked at a startup founded by Mark Pincus, his dog Zinga slept behind my desk and I was one of her favorite dog-sitters.*
+      - *Startups used to be obsessed with billboards. It was the first thing I noticed when I moved to San Francisco: venture-backed companies including Eaze, Airbnb, and notoriously, Brex, would post large billboard advertisements all over the city to grab attention…*
      
+  - Watching startups eat markets is good fun
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      
+  - This Week in Apps: Google I/O hits and misses, Snap goes shopping, Parler returns to App Store
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      
+  - Extra Crunch roundup: Jam City SPAC, startup PR, telemedicine market map, more
+      <hr/>
+      
+      - *Full disclosure: the second time I worked at a startup founded by Mark Pincus, his dog Zinga slept behind my desk and I was one of her favorite dog-sitters.*
+       
   - Daily Crunch: Snap spends more than $500M to acquire AR display startup WaveOptics
       <hr/>
-      
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
-      
-  - Develop a buyer’s guide to educate your startup's sales team and customers
-      <hr/>
-      
-      - *The buyer’s guide is a win for both sides: Buyers are informed of what’s to come, and startups can expedite a potential deal by preempting any concerns about a product and/or the sales process.*
-      
-  - White House teams up with dating apps to give vaccinated users free perks
-      <hr/>
-      
-      - *With vaccination rates slowing in the U.S., the White House is getting creative about getting shots in arms. Beyond protecting yourself and others from from a deadly disease, the latest incentive to get vaccinated could help you find love (or get laid). The W…*
        
-  - The first electric Popemobile will be a Fisker Ocean SUV
-      <hr/>
-       
-       - *Fisker Inc., the EV startup-turned publicly traded company, is working on a modified version of its all-electric Ocean SUV for Pope Francis. The company said Friday that it plans to deliver to the Vatican late next year a Popemobile based on its upcoming Fisk…*
+       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
 
 <br />
