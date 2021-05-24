@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Air India passenger data breach reveals SITA hack worse than first thought
+  - Zeta becomes a unicorn with $250 million SoftBank-led funding
      <hr/>
      
-      - *4.5 million passenger customer records were taken in the incident.*
+      - *Zeta, a startup that helps banks and fintech firms launch products, is the newest to attain the coveted unicorn status after closing a new financing round. The embedded finance firm, co-founded by veteran Indian entrepreneur Bhavin Turakhia, said on Monday it…*
      
-  - Billboards? Nah, just buy a media company instead
+  - Aurora Solar aims to power the growing solar industry with a $250M round C
       <hr/>
       
-      - *Startups used to be obsessed with billboards. It was the first thing I noticed when I moved to San Francisco: venture-backed companies including Eaze, Airbnb, and notoriously, Brex, would post large billboard advertisements all over the city to grab attention…*
+      - *Aurora Solar had one of those pitches that seemed obvious in retrospect. Instead of going to a house and measuring its roof manually for a solar panel installation, why not use aerial scans and imagery of the whole region? That smart play earned them a $20M A…*
       
-  - Watching startups eat markets is good fun
+  - Emitwise raises an extra $3.2M from ArcTern Ventures for its greenhouse gas emissions platform
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *Emitwise, a startup that claims its AI platform can measure greenhouse gas emissions from companies and their supply chains, has added to its seed funding round by $3.2 million, bringing its total seed funding raised to $6.6 million. ArcTern Ventures led the …*
       
-  - This Week in Apps: Google I/O hits and misses, Snap goes shopping, Parler returns to App Store
+  - Nigeria's Mono raises millions to power the internet economy in Africa
       <hr/>
       
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      - *In February, Nigerian fintech startup Mono announced its acceptance into Y Combinator and, at the time, it wanted to build the Plaid for Africa. Three months later, the startup has a different mission: to power the internet economy in Africa and has closed $2…*
        
-  - Extra Crunch roundup: Jam City SPAC, startup PR, telemedicine market map, more
+  - British AI startup Faculty raises $42.5M growth round led by Apax Digital Fund
       <hr/>
        
-       - *Full disclosure: the second time I worked at a startup founded by Mark Pincus, his dog Zinga slept behind my desk and I was one of her favorite dog-sitters.*
+       - *British artificial intelligence (AI) company, Faculty has raised £30 million ($42.5M) in growth funding from the Apax Digital Fund (ADF). The startup has now raised a total of £40m ($56.6M) to date. In April this year, the company announced it had won a contr…*
       
 
 <br />
