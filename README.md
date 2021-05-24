@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Billboards? Nah, just buy a media company instead
+  - Air India passenger data breach reveals SITA hack worse than first thought
      <hr/>
      
-      - *Startups used to be obsessed with billboards. It was the first thing I noticed when I moved to San Francisco: venture-backed companies including Eaze, Airbnb, and notoriously, Brex, would post large billboard advertisements all over the city to grab attention…*
+      - *4.5 million passenger customer records were taken in the incident.*
      
+  - Billboards? Nah, just buy a media company instead
+      <hr/>
+      
+      - *Startups used to be obsessed with billboards. It was the first thing I noticed when I moved to San Francisco: venture-backed companies including Eaze, Airbnb, and notoriously, Brex, would post large billboard advertisements all over the city to grab attention…*
+      
   - Watching startups eat markets is good fun
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
-      
+       
   - Extra Crunch roundup: Jam City SPAC, startup PR, telemedicine market map, more
       <hr/>
-      
-      - *Full disclosure: the second time I worked at a startup founded by Mark Pincus, his dog Zinga slept behind my desk and I was one of her favorite dog-sitters.*
        
-  - Daily Crunch: Snap spends more than $500M to acquire AR display startup WaveOptics
-      <hr/>
-       
-       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+       - *Full disclosure: the second time I worked at a startup founded by Mark Pincus, his dog Zinga slept behind my desk and I was one of her favorite dog-sitters.*
       
 
 <br />
