@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Zeta becomes a unicorn with $250 million SoftBank-led funding
+  - Hyundai is launching in-car payments in the all-electric Ioniq 5
      <hr/>
      
-      - *Zeta, a startup that helps banks and fintech firms launch products, is the newest to attain the coveted unicorn status after closing a new financing round. The embedded finance firm, co-founded by veteran Indian entrepreneur Bhavin Turakhia, said on Monday it…*
+      - *Hyundai developed an in-car payment system that will debut in its upcoming all-electric Ioniq 5 crossover that will offer drivers the ability to find and pay for EV charging, food and parking — the latest example of automakers finding new ways to generate rev…*
      
-  - Aurora Solar aims to power the growing solar industry with a $250M round C
+  - Florida's ban on bans will test First Amendment rights of social media companies
       <hr/>
       
-      - *Aurora Solar had one of those pitches that seemed obvious in retrospect. Instead of going to a house and measuring its roof manually for a solar panel installation, why not use aerial scans and imagery of the whole region? That smart play earned them a $20M A…*
+      - *Florida governor Ron DeSantis has signed into law a restriction on social media companies’ ability to ban candidates for state offices and news outlets, and in doing so offered a direct challenge to those companies’ perceived free speech rights. The law is al…*
       
-  - Emitwise raises an extra $3.2M from ArcTern Ventures for its greenhouse gas emissions platform
+  - Zocdoc says 'programming errors' exposed access to patients' data
       <hr/>
       
-      - *Emitwise, a startup that claims its AI platform can measure greenhouse gas emissions from companies and their supply chains, has added to its seed funding round by $3.2 million, bringing its total seed funding raised to $6.6 million. ArcTern Ventures led the …*
+      - *Around 7,600 users across the U.S. are impacted by the security incident, the company said.*
       
-  - Nigeria's Mono raises millions to power the internet economy in Africa
+  - Daily Crunch: Police search 2 Twitter offices in India after politician receives warning label
       <hr/>
       
-      - *In February, Nigerian fintech startup Mono announced its acceptance into Y Combinator and, at the time, it wanted to build the Plaid for Africa. Three months later, the startup has a different mission: to power the internet economy in Africa and has closed $2…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
        
-  - British AI startup Faculty raises $42.5M growth round led by Apax Digital Fund
+  - Lordstown Motors slashes production forecast for its electric pickup
       <hr/>
        
-       - *British artificial intelligence (AI) company, Faculty has raised £30 million ($42.5M) in growth funding from the Apax Digital Fund (ADF). The startup has now raised a total of £40m ($56.6M) to date. In April this year, the company announced it had won a contr…*
+       - *Lordstown Motors’ cash-rich SPAC dreams have turned out to be nothin’ more than wishes. The automaker reported Monday a disappointing first-quarter earnings that was a pile-up of red ink-stained negativity. Lowlights include higher-than-expected forecasted ex…*
       
 
 <br />
