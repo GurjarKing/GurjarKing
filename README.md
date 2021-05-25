@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Hyundai is launching in-car payments in the all-electric Ioniq 5
+  - Atlan raises $16M led by Insight Partners to build a collaboration hub for data-driven teams
      <hr/>
      
-      - *Hyundai developed an in-car payment system that will debut in its upcoming all-electric Ioniq 5 crossover that will offer drivers the ability to find and pay for EV charging, food and parking — the latest example of automakers finding new ways to generate rev…*
+      - *Young startup Atlan, which has built a SaaS data collaboration platform and is courting customers in international markets, has now won the trust of some high-profile investors. Atlan said on Tuesday it has raised $16 million in its Series A financing round t…*
      
-  - Florida's ban on bans will test First Amendment rights of social media companies
+  - Indoor farming company Bowery raises $300M
       <hr/>
       
-      - *Florida governor Ron DeSantis has signed into law a restriction on social media companies’ ability to ban candidates for state offices and news outlets, and in doing so offered a direct challenge to those companies’ perceived free speech rights. The law is al…*
+      - *New York City-based vertical farming startup Bowery Farming this week has announced a $300 million Series C. The round, which brings its total funding north of $472 million, values the company at $2.3 billion. Fidelity Management & Research Company led the be…*
       
-  - Zocdoc says 'programming errors' exposed access to patients' data
+  - Canvas lands $20M so tech's biggest companies can find diverse talent
       <hr/>
       
-      - *Around 7,600 users across the U.S. are impacted by the security incident, the company said.*
+      - *Ben Herman and Adam Gefkovicz launched Jumpstart in 2017 with a clear mission: to make the world more equitable via a more fair and balanced hiring process. The company released its “Diversity Recruitment Platform” in July of 2018 with the aim of helping peop…*
       
-  - Daily Crunch: Police search 2 Twitter offices in India after politician receives warning label
+  - Sinch, a Swedish customer engagement giant, raises $1.1B, SoftBank and Temasek participating
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Sinch — a Twilio competitor based out of Sweden that provides a suite of services to companies to build communications and specifically “customer engagement” into their services by way of APIs — has been on a steady funding and acquisitions march in the last …*
        
-  - Lordstown Motors slashes production forecast for its electric pickup
+  - Google's data terms are now in Germany's competition crosshairs
       <hr/>
        
-       - *Lordstown Motors’ cash-rich SPAC dreams have turned out to be nothin’ more than wishes. The automaker reported Monday a disappointing first-quarter earnings that was a pile-up of red ink-stained negativity. Lowlights include higher-than-expected forecasted ex…*
+       - *Germany’s national competition regulator, the Bundeskartellamt, has continued its investigative charge against big tech — announcing that it’s opened two proceedings into Google. The move follows earlier proceedings targeting Amazon and Facebook — both of whi…*
       
 
 <br />
