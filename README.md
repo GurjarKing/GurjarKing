@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Emotion-detection software startup Affectiva acquired for $73.5M
+  - LatAm-focused corporate spend startup Clara raises $30M months after its last round
      <hr/>
      
-      - *Smart Eye, the publicly traded Swedish company that supplies driver monitoring systems for a dozen automakers, has acquired emotion-detection software startup Affectiva for $73.5 million in a cash-and-stock deal. Affectiva, which spun out of the MIT Media Lab…*
+      - *This morning Clara announced that it closed a new, $30 million funding round and secured a $50 million revolving debt facility. The startup, which provides corporate cards to Mexican companies, raised funds earlier this year when it was busy launching its pro…*
      
-  - Getty Images leads $16M investment in Promo.com, a social video template tool
+  - Collab Capital closes $50 million debut fund to back Black founders
       <hr/>
       
-      - *The social video tool Promo.com just raised $16 million in a Series B round led by Getty Images, the company synonymous with stock imagery. Brands, creators or whoever else might need some quick and dirty video content can search Promo.com for what they need,…*
+      - *A decade before investing outside of San Francisco and New York became trendy, entrepreneurs Jewel Burks, Justin Dawkins and Barry Givens were betting on Atlanta. Each experienced first-hand the biases that disproportionately hurts Black founders – while also…*
       
-  - Daily Crunch: Before the pandemic, Expensify made remote work cool and profitable
+  - Glovo splurges $208M on three Delivery Hero brands in the Balkans
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *The high stakes game of chess (or, well, consolidation chicken) that is on-demand food delivery rolls on today with a little more territorial swapping in Europe: Barcelona-based Glovo has agreed to buy three of Berlin-based Delivery Hero’s food delivery brand…*
       
-  - Tesla is no longer using radar sensors in Model 3 and Model Y vehicles built in North America
+  - Yalo raises $50M to build 'c-commerce' services for chat apps like WhatsApp
       <hr/>
       
-      - *Tesla Model Y and Model 3 vehicles bound for North American customers are being built without radar, fulfilling a desire by CEO Elon Musk to only use cameras combined with machine learning to support its advanced driver assistance system and other active safe…*
+      - *Facebook has long been working on raising WhatsApp’s profile as a channel for businesses to interact with (and sell to) their customers. Today, a startup that has built a suite of tools for retailers and others to build and run those services over WhatsApp an…*
        
-  - Extra Crunch roundup: Lordstown Motors' woes, how co-CEOs work, Brian Chesky interview
+  - Visa takes a swipe in fintech, builds new online marketplace
       <hr/>
        
-       - *Lordstown Motors released its Q1 earnings yesterday, and the electric vehicle manufacturer is facing a few challenges.*
+       - *The relationships between banks and fintechs are multi-faceted. In some cases, they partner. In many cases, they compete. In other cases, one acquires or invests in the other. Well, today, an announcement by global payments giant Visa is aimed at helping faci…*
       
 
 <br />
