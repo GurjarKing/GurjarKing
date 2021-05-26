@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Atlan raises $16M led by Insight Partners to build a collaboration hub for data-driven teams
+  - Emotion-detection software startup Affectiva acquired for $73.5M
      <hr/>
      
-      - *Young startup Atlan, which has built a SaaS data collaboration platform and is courting customers in international markets, has now won the trust of some high-profile investors. Atlan said on Tuesday it has raised $16 million in its Series A financing round t…*
+      - *Smart Eye, the publicly traded Swedish company that supplies driver monitoring systems for a dozen automakers, has acquired emotion-detection software startup Affectiva for $73.5 million in a cash-and-stock deal. Affectiva, which spun out of the MIT Media Lab…*
      
-  - Indoor farming company Bowery raises $300M
+  - Getty Images leads $16M investment in Promo.com, a social video template tool
       <hr/>
       
-      - *New York City-based vertical farming startup Bowery Farming this week has announced a $300 million Series C. The round, which brings its total funding north of $472 million, values the company at $2.3 billion. Fidelity Management & Research Company led the be…*
+      - *The social video tool Promo.com just raised $16 million in a Series B round led by Getty Images, the company synonymous with stock imagery. Brands, creators or whoever else might need some quick and dirty video content can search Promo.com for what they need,…*
       
-  - Canvas lands $20M so tech's biggest companies can find diverse talent
+  - Daily Crunch: Before the pandemic, Expensify made remote work cool and profitable
       <hr/>
       
-      - *Ben Herman and Adam Gefkovicz launched Jumpstart in 2017 with a clear mission: to make the world more equitable via a more fair and balanced hiring process. The company released its “Diversity Recruitment Platform” in July of 2018 with the aim of helping peop…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Sinch, a Swedish customer engagement giant, raises $1.1B, SoftBank and Temasek participating
+  - Tesla is no longer using radar sensors in Model 3 and Model Y vehicles built in North America
       <hr/>
       
-      - *Sinch — a Twilio competitor based out of Sweden that provides a suite of services to companies to build communications and specifically “customer engagement” into their services by way of APIs — has been on a steady funding and acquisitions march in the last …*
+      - *Tesla Model Y and Model 3 vehicles bound for North American customers are being built without radar, fulfilling a desire by CEO Elon Musk to only use cameras combined with machine learning to support its advanced driver assistance system and other active safe…*
        
-  - Google's data terms are now in Germany's competition crosshairs
+  - Extra Crunch roundup: Lordstown Motors' woes, how co-CEOs work, Brian Chesky interview
       <hr/>
        
-       - *Germany’s national competition regulator, the Bundeskartellamt, has continued its investigative charge against big tech — announcing that it’s opened two proceedings into Google. The move follows earlier proceedings targeting Amazon and Facebook — both of whi…*
+       - *Lordstown Motors released its Q1 earnings yesterday, and the electric vehicle manufacturer is facing a few challenges.*
       
 
 <br />
