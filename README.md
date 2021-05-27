@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - LatAm-focused corporate spend startup Clara raises $30M months after its last round
+  - Ford’s $30B investment in electric revs up in-house battery R&D
      <hr/>
      
-      - *This morning Clara announced that it closed a new, $30 million funding round and secured a $50 million revolving debt facility. The startup, which provides corporate cards to Mexican companies, raised funds earlier this year when it was busy launching its pro…*
+      - *Ford is increasing its investment in its electric vehicle future to $30 billion by 2025, up from a previous spend of $22 billion by 2023. The company announced the fresh cashflow into its EV and battery development strategy, dubbed Ford+, during an investor d…*
      
-  - Collab Capital closes $50 million debut fund to back Black founders
+  - Lucid Motors reveals all the tech inside its all-electric Air sedan
       <hr/>
       
-      - *A decade before investing outside of San Francisco and New York became trendy, entrepreneurs Jewel Burks, Justin Dawkins and Barry Givens were betting on Atlanta. Each experienced first-hand the biases that disproportionately hurts Black founders – while also…*
+      - *Eight months after Lucid Motors showed off the final version of its all-electric Air sedan, the company has finally revealed the in-cabin tech — from the curved 34-inch display and second touchscreen to the underlying software, integrated apps and Amazon Alex…*
       
-  - Glovo splurges $208M on three Delivery Hero brands in the Balkans
+  - Daily Crunch: In $8.45B deal, Amazon to buy MGM Studios
       <hr/>
       
-      - *The high stakes game of chess (or, well, consolidation chicken) that is on-demand food delivery rolls on today with a little more territorial swapping in Europe: Barcelona-based Glovo has agreed to buy three of Berlin-based Delivery Hero’s food delivery brand…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Yalo raises $50M to build 'c-commerce' services for chat apps like WhatsApp
+  - Twitter teases its upcoming 'premium' service which it plans to release globally
       <hr/>
       
-      - *Facebook has long been working on raising WhatsApp’s profile as a channel for businesses to interact with (and sell to) their customers. Today, a startup that has built a suite of tools for retailers and others to build and run those services over WhatsApp an…*
+      - *Would you pay for an upgraded Twitter? That’s a question Twitter will soon answer when it rolls out a new subscription service that will present users with an expanded feature set available only to paid subscribers. This is a different offering than Twitter’s…*
        
-  - Visa takes a swipe in fintech, builds new online marketplace
+  - Engine Biosciences expands its digital drug discovery pipeline with $43M round
       <hr/>
        
-       - *The relationships between banks and fintechs are multi-faceted. In some cases, they partner. In many cases, they compete. In other cases, one acquires or invests in the other. Well, today, an announcement by global payments giant Visa is aimed at helping faci…*
+       - *Drug discovery is a large and growing field, encompassing both ambitious startups and billion-dollar Big Pharma incumbents. Engine Biosciences is one of the former, a Singaporean outfit with an expert founding crew and a different approach to the business of …*
       
 
 <br />
