@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Ford’s $30B investment in electric revs up in-house battery R&D
+  - Ada Health closes $90M Series B led by Leaps by Bayer
      <hr/>
      
-      - *Ford is increasing its investment in its electric vehicle future to $30 billion by 2025, up from a previous spend of $22 billion by 2023. The company announced the fresh cashflow into its EV and battery development strategy, dubbed Ford+, during an investor d…*
+      - *The digital health space continues cooking on gas: Berlin-based Ada Health has closed a $90M Series B round of funding led by Leaps by Bayer, the impact investment arm of the German multinational pharma giant, Bayer AG. Other investors in the round include Sa…*
      
-  - Lucid Motors reveals all the tech inside its all-electric Air sedan
+  - Wayflyer raises $76M to provide 'revenue-based' financing to e-commerce merchants
       <hr/>
       
-      - *Eight months after Lucid Motors showed off the final version of its all-electric Air sedan, the company has finally revealed the in-cabin tech — from the curved 34-inch display and second touchscreen to the underlying software, integrated apps and Amazon Alex…*
+      - *Wayflyer, a revenue-based financing platform for e-commerce merchants, has raised $76 million in a Series A funding round led by Left Lane Capital. “Partners” of DST Global, QED Investors, Speedinvest and Zinal Growth — the family office of Guillaume Pousaz (…*
       
-  - Daily Crunch: In $8.45B deal, Amazon to buy MGM Studios
+  - Twitter says concerned with India intimidation, requests 3 more months to comply with new IT rules
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Twitter called the recent visit by police to its Indian offices a form of intimidation and said it was concerned by some of the requirements in New Delhi’s new IT rules. Speaking for the first time since a special squad of Delhi police made a surprise visit t…*
       
-  - Twitter teases its upcoming 'premium' service which it plans to release globally
+  - Meme-based dating is here: Meet Schmooze
       <hr/>
       
-      - *Would you pay for an upgraded Twitter? That’s a question Twitter will soon answer when it rolls out a new subscription service that will present users with an expanded feature set available only to paid subscribers. This is a different offering than Twitter’s…*
+      - *Vidya Madhavan always wanted to be in business. Growing up in India, she thought she might be in the business of running a factory, given the power and influence of outfits like Tata Group, the Indian multinational conglomerate. She certainly had an affinity …*
        
-  - Engine Biosciences expands its digital drug discovery pipeline with $43M round
+  - Paired pulls in $3.6M to encourage more couples to get cosy with app-based relationship care
       <hr/>
        
-       - *Drug discovery is a large and growing field, encompassing both ambitious startups and billion-dollar Big Pharma incumbents. Engine Biosciences is one of the former, a Singaporean outfit with an expert founding crew and a different approach to the business of …*
+       - *Can an app improve your romantic relationships? The founders behind Paired, a “relationship care” app for couples, believe it can. And since launching in October, with $1M to kick things off, they’ve convinced 5,000+ coupled-up others to try their custom blen…*
       
 
 <br />
