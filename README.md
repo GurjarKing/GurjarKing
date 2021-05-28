@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Ada Health closes $90M Series B led by Leaps by Bayer
+  - Gillmor Gang: Nothing Was Delivered
      <hr/>
      
-      - *The digital health space continues cooking on gas: Berlin-based Ada Health has closed a $90M Series B round of funding led by Leaps by Bayer, the impact investment arm of the German multinational pharma giant, Bayer AG. Other investors in the round include Sa…*
+      - *Somehow it’s Bob Dylan’s 80th birthday this week. Some of you may not think that’s a big deal, but I do. The fact of his talent pretty much drowns out most other ideas of what to write about, but here’s to the birthday boy. Keep up the good work. Back then, w…*
      
-  - Wayflyer raises $76M to provide 'revenue-based' financing to e-commerce merchants
+  - Tesla has activated its in-car camera to monitor drivers using Autopilot
       <hr/>
       
-      - *Wayflyer, a revenue-based financing platform for e-commerce merchants, has raised $76 million in a Series A funding round led by Left Lane Capital. “Partners” of DST Global, QED Investors, Speedinvest and Zinal Growth — the family office of Guillaume Pousaz (…*
+      - *Tesla has enabled the in-car camera in its Model 3 and Model Y vehicles to monitor drivers when its Autopilot advanced driver assistance system is being used. In a software update, Tesla indicated the “cabin camera above the rearview mirror can now detect and…*
       
-  - Twitter says concerned with India intimidation, requests 3 more months to comply with new IT rules
+  - Dismantling the myths around raising your first check
       <hr/>
       
-      - *Twitter called the recent visit by police to its Indian offices a form of intimidation and said it was concerned by some of the requirements in New Delhi’s new IT rules. Speaking for the first time since a special squad of Delhi police made a surprise visit t…*
+      - *While VC is the flashy gold medal sometimes, the rapid growth of emerging fund managers means that your first check can be piecemealed together from a variety of different sources.*
       
-  - Meme-based dating is here: Meet Schmooze
+  - Daily Crunch: Saving-investing app Acorns files to go public in $2.2B SPAC deal
       <hr/>
       
-      - *Vidya Madhavan always wanted to be in business. Growing up in India, she thought she might be in the business of running a factory, given the power and influence of outfits like Tata Group, the Indian multinational conglomerate. She certainly had an affinity …*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
        
-  - Paired pulls in $3.6M to encourage more couples to get cosy with app-based relationship care
+  - Darryl Finkton Jr. closes $200M to go from asset management to poverty eradication
       <hr/>
        
-       - *Can an app improve your romantic relationships? The founders behind Paired, a “relationship care” app for couples, believe it can. And since launching in October, with $1M to kick things off, they’ve convinced 5,000+ coupled-up others to try their custom blen…*
+       - *Darryl Finkton Jr. is a man on a mission. He believes there’s enough money in the world to help put an end to poverty. But only if it’s distributed differently than it is today. Earlier this year, the investor left a career in asset management to launch a $1 …*
       
 
 <br />
