@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Nothing Was Delivered
+  - Café helps hybrid organizations schedule in-office time
      <hr/>
      
-      - *Somehow it’s Bob Dylan’s 80th birthday this week. Some of you may not think that’s a big deal, but I do. The fact of his talent pretty much drowns out most other ideas of what to write about, but here’s to the birthday boy. Keep up the good work. Back then, w…*
+      - *Meet Café, a new French startup founded by two brothers that wants to help companies switch to a hybrid remote-and-office workplace model. Café isn’t a traditional desk-booking tool. Instead, the company helps you see when people in your team are coming to th…*
      
-  - Tesla has activated its in-car camera to monitor drivers using Autopilot
+  - Amazon is now letting Indians read magazine articles in its shopping app
       <hr/>
       
-      - *Tesla has enabled the in-car camera in its Model 3 and Model Y vehicles to monitor drivers when its Autopilot advanced driver assistance system is being used. In a software update, Tesla indicated the “cabin camera above the rearview mirror can now detect and…*
+      - *Amazon, in its ever-growing desire to become a super app in India, is testing showing articles on a wide-range of topics on its shopping app and site.*
       
-  - Dismantling the myths around raising your first check
+  - Middle East and Africa will reap benefits from Nuwa Capital's newest fund
       <hr/>
       
-      - *While VC is the flashy gold medal sometimes, the rapid growth of emerging fund managers means that your first check can be piecemealed together from a variety of different sources.*
+      - *Nuwa Capital, a venture capital firm based in Dubai and Riyadh, announced the first close of its $100 million NVFI fund in February. The close was three-quarters of the target and was done in less than a year following the firm’s launch in February 2020. Acco…*
       
-  - Daily Crunch: Saving-investing app Acorns files to go public in $2.2B SPAC deal
+  - Penfold closes $8.5M to provide a full stack pension in an app aimed at freelancers
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Penfold, a startup that offers a full stack pension in a smartphone app, has closed a $8.5 million (£6m) funding round, $4M of which was from a crowdfunding campaign. The company is now approved by the FCA to operate a pension itself rather than relying on th…*
        
-  - Darryl Finkton Jr. closes $200M to go from asset management to poverty eradication
+  - Kitt, an office-outfitter-as-a-service, raises $5M Seed round led by Barclay Ventures
       <hr/>
        
-       - *Darryl Finkton Jr. is a man on a mission. He believes there’s enough money in the world to help put an end to poverty. But only if it’s distributed differently than it is today. Earlier this year, the investor left a career in asset management to launch a $1 …*
+       - *Landlords have sometimes looked on the tech-enabled spaces of the likes of WeWork and longed to be part of the cool kids – and attract that new wave of founders. Now a UK startup has come up with a way for Landlords to do this directly. Founded by Steve Couls…*
       
 
 <br />
