@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - GM, Palantir-backed Wejo to go public via SPAC
+  - 6 investors and founders forecast hockey-stick growth for Edinburgh's startup scene
      <hr/>
      
-      - *Wejo, the connected vehicle data startup backed by GM and Palantir, plans to go public through a merger with special purpose acquisition company Virtuoso Acquisition Corp. The agreement, announced in a regulator filing Friday, will give the combined company a…*
+      - *Scotland's capital Edinburgh boasts a beautiful, hilly landscape, a robust education system and good access to grant funding, public and private investment.*
      
+  - Alibaba is making its cloud OS compatible with multiple chip architectures
+      <hr/>
+      
+      - *Alibaba’s cloud computing unit is making its Apsara operating system compatible with processors based on Arm, x86, RISC-V, among other architectures, the company announced at a conference on Friday. Alibaba Cloud is one of the fastest-growing businesses for t…*
+      
+  - GM, Palantir-backed Wejo to go public via SPAC
+      <hr/>
+      
+      - *Wejo, the connected vehicle data startup backed by GM and Palantir, plans to go public through a merger with special purpose acquisition company Virtuoso Acquisition Corp. The agreement, announced in a regulator filing Friday, will give the combined company a…*
+      
   - 3 views on the future of meetings
       <hr/>
       
       - *Founders aren’t flocking to build just another SaaS tool or Airtable copycat — they're trying to disrupt the only thing possibly more annoying than e-mail: the work meeting.*
-      
+       
   - Daily Crunch: Tesla switches on camera-based driver monitoring for Autopilot users
       <hr/>
-      
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
-      
-  - Once a buzzword, digital transformation is reshaping markets
-      <hr/>
-      
-      - *What follows is a digest of notes concerning the recent earnings results from Box, Sprout Social, Yext, Snowflake and Salesforce.*
        
-  - Extra Crunch roundup: first-check myths, Miami relocation checklist, standout SaaSy startups
-      <hr/>
-       
-       - *We're off on Monday, May 31 in observance of Memorial Day; I hope you have a relaxing weekend!*
+       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
 
 <br />
