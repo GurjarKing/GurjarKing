@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Café helps hybrid organizations schedule in-office time
+  - GM, Palantir-backed Wejo to go public via SPAC
      <hr/>
      
-      - *Meet Café, a new French startup founded by two brothers that wants to help companies switch to a hybrid remote-and-office workplace model. Café isn’t a traditional desk-booking tool. Instead, the company helps you see when people in your team are coming to th…*
+      - *Wejo, the connected vehicle data startup backed by GM and Palantir, plans to go public through a merger with special purpose acquisition company Virtuoso Acquisition Corp. The agreement, announced in a regulator filing Friday, will give the combined company a…*
      
-  - Amazon is now letting Indians read magazine articles in its shopping app
+  - 3 views on the future of meetings
       <hr/>
       
-      - *Amazon, in its ever-growing desire to become a super app in India, is testing showing articles on a wide-range of topics on its shopping app and site.*
+      - *Founders aren’t flocking to build just another SaaS tool or Airtable copycat — they're trying to disrupt the only thing possibly more annoying than e-mail: the work meeting.*
       
-  - Middle East and Africa will reap benefits from Nuwa Capital's newest fund
+  - Daily Crunch: Tesla switches on camera-based driver monitoring for Autopilot users
       <hr/>
       
-      - *Nuwa Capital, a venture capital firm based in Dubai and Riyadh, announced the first close of its $100 million NVFI fund in February. The close was three-quarters of the target and was done in less than a year following the firm’s launch in February 2020. Acco…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Penfold closes $8.5M to provide a full stack pension in an app aimed at freelancers
+  - Once a buzzword, digital transformation is reshaping markets
       <hr/>
       
-      - *Penfold, a startup that offers a full stack pension in a smartphone app, has closed a $8.5 million (£6m) funding round, $4M of which was from a crowdfunding campaign. The company is now approved by the FCA to operate a pension itself rather than relying on th…*
+      - *What follows is a digest of notes concerning the recent earnings results from Box, Sprout Social, Yext, Snowflake and Salesforce.*
        
-  - Kitt, an office-outfitter-as-a-service, raises $5M Seed round led by Barclay Ventures
+  - Extra Crunch roundup: first-check myths, Miami relocation checklist, standout SaaSy startups
       <hr/>
        
-       - *Landlords have sometimes looked on the tech-enabled spaces of the likes of WeWork and longed to be part of the cool kids – and attract that new wave of founders. Now a UK startup has come up with a way for Landlords to do this directly. Founded by Steve Couls…*
+       - *We're off on Monday, May 31 in observance of Memorial Day; I hope you have a relaxing weekend!*
       
 
 <br />
