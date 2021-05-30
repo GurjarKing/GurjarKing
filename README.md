@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 6 investors and founders forecast hockey-stick growth for Edinburgh's startup scene
+  - So, you want to democratize venture capital
      <hr/>
      
-      - *Scotland's capital Edinburgh boasts a beautiful, hilly landscape, a robust education system and good access to grant funding, public and private investment.*
+      - *A venture capitalist once told me candidly that whenever you see the phrase “democratization” in tech marketing material, think of it as a red flag. Democracy, generally speaking, often comes with an ironic caveat: It disproportionately benefits white and mal…*
      
-  - Alibaba is making its cloud OS compatible with multiple chip architectures
+  - Crypto sure requires a lot of fiat
       <hr/>
       
-      - *Alibaba’s cloud computing unit is making its Apsara operating system compatible with processors based on Arm, x86, RISC-V, among other architectures, the company announced at a conference on Friday. Alibaba Cloud is one of the fastest-growing businesses for t…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
       
-  - GM, Palantir-backed Wejo to go public via SPAC
+  - The exit effect: 4 ways IPOs and acquisitions drive positive change across the global ecosystem
       <hr/>
       
-      - *Wejo, the connected vehicle data startup backed by GM and Palantir, plans to go public through a merger with special purpose acquisition company Virtuoso Acquisition Corp. The agreement, announced in a regulator filing Friday, will give the combined company a…*
+      - *Investors who don’t recognize that the future of startups is global and diverse in nature won’t be in sync with the best opportunities -- and won’t be selected by the best founders.*
       
-  - 3 views on the future of meetings
+  - This Week in Apps: Poparazzi hype, Instagram drops Likes, Epic trial adjourns
       <hr/>
       
-      - *Founders aren’t flocking to build just another SaaS tool or Airtable copycat — they're trying to disrupt the only thing possibly more annoying than e-mail: the work meeting.*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - Daily Crunch: Tesla switches on camera-based driver monitoring for Autopilot users
+  - 6 investors and founders forecast hockey-stick growth for Edinburgh's startup scene
       <hr/>
        
-       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+       - *Scotland's capital Edinburgh boasts a beautiful, hilly landscape, a robust education system and good access to grant funding, public and private investment.*
       
 
 <br />
