@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - So, you want to democratize venture capital
+  - Indian logistics giant Delhivery raises $277 million ahead of IPO
      <hr/>
      
-      - *A venture capitalist once told me candidly that whenever you see the phrase “democratization” in tech marketing material, think of it as a red flag. Democracy, generally speaking, often comes with an ironic caveat: It disproportionately benefits white and mal…*
+      - *Delhivery, India’s largest independent e-commerce logistics startup, has raised $277 million in what is expected to be the final funding round before the firm files for an IPO later this year. In a regulatory filing, the Gurgaon-headquartered startup disclose…*
      
+  - For startups, trustworthy security means going above and beyond compliance standards
+      <hr/>
+      
+      - *Compliance means that a company meets a minimum set of controls. Security encompasses a broad range of best practices and software that help address risks associated with the company’s operations.*
+      
+  - So, you want to democratize venture capital
+      <hr/>
+      
+      - *A venture capitalist once told me candidly that whenever you see the phrase “democratization” in tech marketing material, think of it as a red flag. Democracy, generally speaking, often comes with an ironic caveat: It disproportionately benefits white and mal…*
+      
   - Crypto sure requires a lot of fiat
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
-      
+       
   - The exit effect: 4 ways IPOs and acquisitions drive positive change across the global ecosystem
       <hr/>
-      
-      - *Investors who don’t recognize that the future of startups is global and diverse in nature won’t be in sync with the best opportunities -- and won’t be selected by the best founders.*
-      
-  - This Week in Apps: Poparazzi hype, Instagram drops Likes, Epic trial adjourns
-      <hr/>
-      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - 6 investors and founders forecast hockey-stick growth for Edinburgh's startup scene
-      <hr/>
-       
-       - *Scotland's capital Edinburgh boasts a beautiful, hilly landscape, a robust education system and good access to grant funding, public and private investment.*
+       - *Investors who don’t recognize that the future of startups is global and diverse in nature won’t be in sync with the best opportunities -- and won’t be selected by the best founders.*
       
 
 <br />
