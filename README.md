@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Indian logistics giant Delhivery raises $277 million ahead of IPO
+  - Video e-learning platform for MENA, Almentor, closes $6.5M Series B led by Partech
      <hr/>
      
-      - *Delhivery, India’s largest independent e-commerce logistics startup, has raised $277 million in what is expected to be the final funding round before the firm files for an IPO later this year. In a regulatory filing, the Gurgaon-headquartered startup disclose…*
+      - *There are more than 400 million Arabic speakers globally and that number isn’t slowing down anytime soon. Arabic, to most people, is a tough language even to those who speak it. According to Duolingo, someone fluent in Egyptian Arabic might not fully understa…*
      
-  - For startups, trustworthy security means going above and beyond compliance standards
+  - By working with home entrepreneurs, Jakarta-based DishServe is creating an even more asset-light version of cloud kitchens
       <hr/>
       
-      - *Compliance means that a company meets a minimum set of controls. Security encompasses a broad range of best practices and software that help address risks associated with the company’s operations.*
+      - *Cloud kitchens are already meant to reduce the burden of infrastructure on food and beverage brands by providing them with centralized facilities to prepare meals for delivery. This means the responsibility falls on cloud kitchen operators to make sure they h…*
       
-  - So, you want to democratize venture capital
+  - Europe's cookie consent reckoning is coming
       <hr/>
       
-      - *A venture capitalist once told me candidly that whenever you see the phrase “democratization” in tech marketing material, think of it as a red flag. Democracy, generally speaking, often comes with an ironic caveat: It disproportionately benefits white and mal…*
+      - *Cookie pop-ups getting you down? Complaints that the web is ‘unusable’ in Europe because of frustrating and confusing ‘data choices’ notifications that get in the way of what you’re trying to do online certainly aren’t hard to find. What is hard to find is th…*
       
-  - Crypto sure requires a lot of fiat
+  - Africa has another unicorn as Chipper Cash raises $100M Series C led by SVB Capital
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *Fintech in Africa is a goldmine. Investors are betting big on startups offering a plethora of services from payments and lending to neobanks, remittances and cross-border transfers, and rightfully so. Each of these services solves unique sets of challenges. F…*
        
-  - The exit effect: 4 ways IPOs and acquisitions drive positive change across the global ecosystem
+  - Intel announces two new 11th-gen chips and a 5G M.2 laptop module at Computex
       <hr/>
        
-       - *Investors who don’t recognize that the future of startups is global and diverse in nature won’t be in sync with the best opportunities -- and won’t be selected by the best founders.*
+       - *Intel kicked off this year’s virtual Computex by announcing two new 11th Gen U-Series chips for use in thin, lightweight laptops. It also unveiled its first 5G M.2 module for laptops, designed in a partnership with MediaTek (Intel sold its smartphone modem bu…*
       
 
 <br />
