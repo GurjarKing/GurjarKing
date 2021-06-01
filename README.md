@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Video e-learning platform for MENA, Almentor, closes $6.5M Series B led by Partech
+  - ChargerHelp co-founder, CEO Kameale C. Terry is heading to TC Sessions: Mobility 2021
      <hr/>
      
-      - *There are more than 400 million Arabic speakers globally and that number isn’t slowing down anytime soon. Arabic, to most people, is a tough language even to those who speak it. According to Duolingo, someone fluent in Egyptian Arabic might not fully understa…*
+      - *Thousands of electric vehicle charging stations will be built around the country over the next decade. ChargerHelp!, founded in January 2020 by Kameale C. Terry and Evette Ellis, wants to make sure they stay up and running. The idea for the on-demand repair a…*
      
-  - By working with home entrepreneurs, Jakarta-based DishServe is creating an even more asset-light version of cloud kitchens
+  - The Station: Rivian rolls towards an IPO and Quantumscape makes a big battery hire
       <hr/>
       
-      - *Cloud kitchens are already meant to reduce the burden of infrastructure on food and beverage brands by providing them with centralized facilities to prepare meals for delivery. This means the responsibility falls on cloud kitchen operators to make sure they h…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packa…*
       
-  - Europe's cookie consent reckoning is coming
+  - June makes product analytics more accessible
       <hr/>
       
-      - *Cookie pop-ups getting you down? Complaints that the web is ‘unusable’ in Europe because of frustrating and confusing ‘data choices’ notifications that get in the way of what you’re trying to do online certainly aren’t hard to find. What is hard to find is th…*
+      - *Meet June, a new startup that wants to make it easier to create analytics dashboards and generate reports even if you’re not a product analytics expert. June is built on top of your Segment data. Like many no-code startups, it uses templates and a graphical i…*
       
-  - Africa has another unicorn as Chipper Cash raises $100M Series C led by SVB Capital
+  - SpaceX's first ocean spaceport is being built and will host launches next year
       <hr/>
       
-      - *Fintech in Africa is a goldmine. Investors are betting big on startups offering a plethora of services from payments and lending to neobanks, remittances and cross-border transfers, and rightfully so. Each of these services solves unique sets of challenges. F…*
+      - *SpaceX is already underway on building its first floating spaceport platform, and the plan is for it to start hosting launches as early as next year. SpaceX CEO Elon Musk shared those details on the progress of its build for Deimos, one of two converted oil r…*
        
-  - Intel announces two new 11th-gen chips and a 5G M.2 laptop module at Computex
+  - Tencent helps Chinese students skip prohibitively low speeds for school websites overseas
       <hr/>
        
-       - *Intel kicked off this year’s virtual Computex by announcing two new 11th Gen U-Series chips for use in thin, lightweight laptops. It also unveiled its first 5G M.2 module for laptops, designed in a partnership with MediaTek (Intel sold its smartphone modem bu…*
+       - *Hundreds of thousands of Chinese students enrolled in overseas schools are stranded as the COVID-19 pandemic continues to disrupt life and airlines worldwide. Learning at home in China, they all face one challenge: Their school websites and other academic res…*
       
 
 <br />
