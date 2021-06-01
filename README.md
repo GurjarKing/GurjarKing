@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - ChargerHelp co-founder, CEO Kameale C. Terry is heading to TC Sessions: Mobility 2021
+  - EU's COVID-19 'digital pass' gateway system goes live
      <hr/>
      
-      - *Thousands of electric vehicle charging stations will be built around the country over the next decade. ChargerHelp!, founded in January 2020 by Kameale C. Terry and Evette Ellis, wants to make sure they stay up and running. The idea for the on-demand repair a…*
+      - *A technical system underpinning the European Union’s plan for a pan-EU ‘digital pass’ for verifying COVID-19 vaccination or test status across the region has gone live today, with a handful of EU Member States connected to the gateway and more expected to fol…*
      
-  - The Station: Rivian rolls towards an IPO and Quantumscape makes a big battery hire
+  - Truebill raises $45 million for its personal finance app
       <hr/>
       
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packa…*
+      - *Personal finance startup Truebill has raised a $45 million Series D funding round led by Accel. This comes just a few months after the company raised a $17 million Series C. Overall, the startup has raised $85 million since its creation. Existing investors Be…*
       
-  - June makes product analytics more accessible
+  - Belvo, LatAm's answer to Plaid, raises $43M to scale its API for financial services
       <hr/>
       
-      - *Meet June, a new startup that wants to make it easier to create analytics dashboards and generate reports even if you’re not a product analytics expert. June is built on top of your Segment data. Like many no-code startups, it uses templates and a graphical i…*
+      - *Belvo, a Latin American startup which has built an open finance API platform, announced today it has raised $43 million in a Series A round of funding. A mix of Silicon Valley and Latin American-based VC firms and angels participated in the financing includin…*
       
-  - SpaceX's first ocean spaceport is being built and will host launches next year
+  - Brazil's idwall raises $38M for identity validation platform
       <hr/>
       
-      - *SpaceX is already underway on building its first floating spaceport platform, and the plan is for it to start hosting launches as early as next year. SpaceX CEO Elon Musk shared those details on the progress of its build for Deimos, one of two converted oil r…*
+      - *Online fraud and identity theft is a global problem that has only been exacerbated with increased online transactions amid the COVID-19 pandemic. In particular, it is estimated that Brazilian companies lose over $41 billion due to fraud every year. In an atte…*
        
-  - Tencent helps Chinese students skip prohibitively low speeds for school websites overseas
+  - Gokada to launch ride-hailing service in two Nigerian cities as part of super app plans
       <hr/>
        
-       - *Hundreds of thousands of Chinese students enrolled in overseas schools are stranded as the COVID-19 pandemic continues to disrupt life and airlines worldwide. Learning at home in China, they all face one challenge: Their school websites and other academic res…*
+       - *When two of Indonesia’s biggest companies — ride-hailing company Gojek and e-commerce marketplace Tokopedia — joined forces as GoTo Group last month, a key highlight from the merger was that the last-mile delivery space is still a huge global trend. In Nigeri…*
       
 
 <br />
