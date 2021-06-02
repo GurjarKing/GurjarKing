@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Tesla files trademark, hinting at Elon Musk’s restaurant concept plans
+  - Yieldstreet raises $100M as it mulls going public via SPAC, eyes acquisitions
      <hr/>
      
-      - *Tesla has recently filed a new trademark for its brand under restaurant services, a sign the company might be finally gearing up to deliver on an idea that CEO Elon Musk and other company executives have discussed publicly since at least 2017. The company app…*
+      - *These days, investing goes way beyond the stock market. And in recent years there’s been a growing number of startups which aim to give more people access to a wider array of investment opportunities. Today, one of those startups has raised a significant roun…*
      
-  - Cognigy raises $44M to scale its enterprise-focused conversational AI platform
+  - Locus raises $50 million for its logistics management business
       <hr/>
       
-      - *Artificial intelligence is becoming an increasingly common part of how customer service works — a trend that was accelerated in this past year as so many other services went virtual and digital — and today a startup that has built a set of low-code tools to h…*
+      - *Locus, a startup that uses AI to help businesses map out their logistics, said on Wednesday it has raised $50 million in a new financing round as it looks to expand its presence. The new round, a Series C, was led by Singapore’s sovereign wealth fund GIC. Qua…*
       
-  - SoftBank-backed construction giant Katerra said to be shutting down after raising billions
+  - Rocket Lab cleared by the FAA to resume launches after mission failure last month
       <hr/>
       
-      - *After burning through more than $2 billion in funding, SoftBank-backed construction startup Katerra has told employees that it will be shutting down operations, according to a report in The Information. Last year, the company claimed it had more than 8,000 em…*
+      - *Rocket Lab has already received approval from the Federal Aviation Administration (FAA) to resume its launch activities, following a failure during the second stage burn of its 20th Electron rocket mission that resulted in the loss of the payload. That’s a te…*
       
-  - Daily Crunch: Wefox CEO says $650M Series C was 'much more than we wanted to raise initially'
+  - Etsy is acquiring social selling site Depop for $1.625B in a mostly-cash deal
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Very big news today coming out of Europe in the world of e-commerce. Etsy, the New York-based marketplace where crafty creators and those interested in their styles can discover and buy those goods, today announced that it is acquiring Depop, a London-based m…*
        
-  - Extra Crunch roundup: Inside Sprinklr's IPO filing, how digital transformation is reshaping markets
+  - EU and Bill Gates make joint push for $1BN to accelerate clean tech
       <hr/>
        
-       - *Since we were off yesterday for Memorial Day, today's roundup is brief, but we'll have much more to recap on Friday.*
+       - *The European Commission has announced a partnership with Bill Gates’ sustainable energy funding vehicle with the goal of unlocking new investments for clean tech and sustainable energy projects totalling up to $1BN (€820M) over five years (2022-2026). EU-base…*
       
 
 <br />
