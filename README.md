@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - EU's COVID-19 'digital pass' gateway system goes live
+  - Tesla files trademark, hinting at Elon Musk’s restaurant concept plans
      <hr/>
      
-      - *A technical system underpinning the European Union’s plan for a pan-EU ‘digital pass’ for verifying COVID-19 vaccination or test status across the region has gone live today, with a handful of EU Member States connected to the gateway and more expected to fol…*
+      - *Tesla has recently filed a new trademark for its brand under restaurant services, a sign the company might be finally gearing up to deliver on an idea that CEO Elon Musk and other company executives have discussed publicly since at least 2017. The company app…*
      
-  - Truebill raises $45 million for its personal finance app
+  - Cognigy raises $44M to scale its enterprise-focused conversational AI platform
       <hr/>
       
-      - *Personal finance startup Truebill has raised a $45 million Series D funding round led by Accel. This comes just a few months after the company raised a $17 million Series C. Overall, the startup has raised $85 million since its creation. Existing investors Be…*
+      - *Artificial intelligence is becoming an increasingly common part of how customer service works — a trend that was accelerated in this past year as so many other services went virtual and digital — and today a startup that has built a set of low-code tools to h…*
       
-  - Belvo, LatAm's answer to Plaid, raises $43M to scale its API for financial services
+  - SoftBank-backed construction giant Katerra said to be shutting down after raising billions
       <hr/>
       
-      - *Belvo, a Latin American startup which has built an open finance API platform, announced today it has raised $43 million in a Series A round of funding. A mix of Silicon Valley and Latin American-based VC firms and angels participated in the financing includin…*
+      - *After burning through more than $2 billion in funding, SoftBank-backed construction startup Katerra has told employees that it will be shutting down operations, according to a report in The Information. Last year, the company claimed it had more than 8,000 em…*
       
-  - Brazil's idwall raises $38M for identity validation platform
+  - Daily Crunch: Wefox CEO says $650M Series C was 'much more than we wanted to raise initially'
       <hr/>
       
-      - *Online fraud and identity theft is a global problem that has only been exacerbated with increased online transactions amid the COVID-19 pandemic. In particular, it is estimated that Brazilian companies lose over $41 billion due to fraud every year. In an atte…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
        
-  - Gokada to launch ride-hailing service in two Nigerian cities as part of super app plans
+  - Extra Crunch roundup: Inside Sprinklr's IPO filing, how digital transformation is reshaping markets
       <hr/>
        
-       - *When two of Indonesia’s biggest companies — ride-hailing company Gojek and e-commerce marketplace Tokopedia — joined forces as GoTo Group last month, a key highlight from the merger was that the last-mile delivery space is still a huge global trend. In Nigeri…*
+       - *Since we were off yesterday for Memorial Day, today's roundup is brief, but we'll have much more to recap on Friday.*
       
 
 <br />
