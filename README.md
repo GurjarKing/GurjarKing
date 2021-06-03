@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Yieldstreet raises $100M as it mulls going public via SPAC, eyes acquisitions
+  - CDK Global buys vehicle the e-commerce platform Roadster for $360 million
      <hr/>
      
-      - *These days, investing goes way beyond the stock market. And in recent years there’s been a growing number of startups which aim to give more people access to a wider array of investment opportunities. Today, one of those startups has raised a significant roun…*
+      - *Roadster, the Palo Alto-based digital platform that gives dealers tools to sell new and used vehicles online has been acquired for $360 million by retail automotive technology company CDK Global Inc., according to a Securities and Exchange Commission filing. …*
      
-  - Locus raises $50 million for its logistics management business
+  - Walmart accidentally unveiled its own bargain-priced FHD streaming stick and 4K player
       <hr/>
       
-      - *Locus, a startup that uses AI to help businesses map out their logistics, said on Wednesday it has raised $50 million in a new financing round as it looks to expand its presence. The new round, a Series C, was led by Singapore’s sovereign wealth fund GIC. Qua…*
+      - *Walmart accidentally scooped itself by publishing product listings for its own, onn-branded, low-cost Android TV streaming stick to the Walmart.com website ahead of its formal launch, where it was soon spotted, alongside an upcoming 4K streaming device. Both …*
       
-  - Rocket Lab cleared by the FAA to resume launches after mission failure last month
+  - Google hires former SiriusXM CPO/CTO to lead its Maps team
       <hr/>
       
-      - *Rocket Lab has already received approval from the Federal Aviation Administration (FAA) to resume its launch activities, following a failure during the second stage burn of its 20th Electron rocket mission that resulted in the loss of the payload. That’s a te…*
+      - *Almost exactly a year ago, Google announced a couple of leadership changes that saw Prabhakar Raghavan, who joined the company back in 2012, take over the lead of Search, Assistant and Maps. Now, sources familiar with the hiring tell us, the company has hired…*
       
-  - Etsy is acquiring social selling site Depop for $1.625B in a mostly-cash deal
+  - Tinder tested group video chat ahead of Match's move into social discovery with Hyperconnect deal
       <hr/>
       
-      - *Very big news today coming out of Europe in the world of e-commerce. Etsy, the New York-based marketplace where crafty creators and those interested in their styles can discover and buy those goods, today announced that it is acquiring Depop, a London-based m…*
+      - *As dating app Tinder and its parent company Match explore the future of personal connection through apps, it’s interesting to see what sort of ideas it tested but later discarded. One such experiment was something called “Tinder Mixer,” which had briefly offe…*
        
-  - EU and Bill Gates make joint push for $1BN to accelerate clean tech
+  - Daily Crunch: Spotify's new 'Only You' feature expands on personalization investment
       <hr/>
        
-       - *The European Commission has announced a partnership with Bill Gates’ sustainable energy funding vehicle with the goal of unlocking new investments for clean tech and sustainable energy projects totalling up to $1BN (€820M) over five years (2022-2026). EU-base…*
+       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
 
 <br />
