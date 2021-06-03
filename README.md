@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - CDK Global buys vehicle the e-commerce platform Roadster for $360 million
+  - Tech giants still aren't coming clean about COVID-19 disinformation, says EU
      <hr/>
      
-      - *Roadster, the Palo Alto-based digital platform that gives dealers tools to sell new and used vehicles online has been acquired for $360 million by retail automotive technology company CDK Global Inc., according to a Securities and Exchange Commission filing. …*
+      - *European Union lawmakers have asked tech giants to continue reporting on efforts to combat the spread of vaccine disinformation on their platforms for a further six months. “The continuation of the monitoring programme is necessary as the vaccination campaign…*
      
-  - Walmart accidentally unveiled its own bargain-priced FHD streaming stick and 4K player
+  - One Concern raises $45M from SOMPO to scale its disaster resilience platform across Japan
       <hr/>
       
-      - *Walmart accidentally scooped itself by publishing product listings for its own, onn-branded, low-cost Android TV streaming stick to the Walmart.com website ahead of its formal launch, where it was soon spotted, alongside an upcoming 4K streaming device. Both …*
+      - *Climate change is intensifying across the globe, and one of the most challenging cases is Japan. In addition to lying on a major fault, the archipelago is increasingly inundated from rising sea levels that make the country more prone to disasters. A decade ag…*
       
-  - Google hires former SiriusXM CPO/CTO to lead its Maps team
+  - United Airlines agrees to purchase 15 Boom supersonic airliners
       <hr/>
       
-      - *Almost exactly a year ago, Google announced a couple of leadership changes that saw Prabhakar Raghavan, who joined the company back in 2012, take over the lead of Search, Assistant and Maps. Now, sources familiar with the hiring tell us, the company has hired…*
+      - *United Airlines is the first official U.S. customer for Boom Supersonic, a company focused on making supersonic commercial flight a reality once again. Boom unveiled its supersonic sub-scale testing aircraft last year, and intends to start producing its Overt…*
       
-  - Tinder tested group video chat ahead of Match's move into social discovery with Hyperconnect deal
+  - Virgin Galactic to fly Kellie Gerardi to space on a dedicated research mission
       <hr/>
       
-      - *As dating app Tinder and its parent company Match explore the future of personal connection through apps, it’s interesting to see what sort of ideas it tested but later discarded. One such experiment was something called “Tinder Mixer,” which had briefly offe…*
+      - *Virgin Galactic has a new customer: The International Institute for Astronautical Sciences (IIAS), which will be flying researcher, citizen scientist and STEM influencer Kellie Gerardi on an upcoming dedicated Virgin Galactic launch. Gerardi will be conducing…*
        
-  - Daily Crunch: Spotify's new 'Only You' feature expands on personalization investment
+  - Zuckerberg says WhatsApp will add multi-device support, introduce 'view once' disappearing feature
       <hr/>
        
-       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+       - *WhatsApp will soon let you use the popular instant messaging app simultaneously on multiple devices, Facebook chief executive Mark Zuckerberg said. The instant messaging app, used by over 2 billion users, also plans to add more options to its disappearing mes…*
       
 
 <br />
