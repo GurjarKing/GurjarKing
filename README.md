@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Europe wants to go its own way on digital identity
+  - In latest big tech antitrust push, Germany's FCO eyes Google News Showcase fine print
      <hr/>
      
-      - *In its latest ambitious digital policy announcement, the European Union has proposed creating a framework for a “trusted and secure European e-ID” (aka digital identity) — which it said today it wants to be available to all citizens, residents and businesses …*
+      - *The Bundeskartellamt, Germany’s very active competition authority, isn’t letting the grass grow under new powers it gained this year to tackle big tech: The Federal Cartel Office (FCO) has just announced a third proceeding against Google. The FCO’s latest com…*
      
-  - A new video platform offering classes about skilled trades begins to build momentum
+  - Indonesian healthcare startup Prixa raises $3M led by MDI and TPTF
       <hr/>
       
-      - *Trade schools are nothing new, but a new startup called Copeland thinks it can build a big business by bringing education about plumbing, drywall, cabinetry and more to the masses through high-quality pre-filmed classes online that feature industry pros and p…*
+      - *Indonesian healthcare startup Prixa has raised $3 million led by MDI Ventures and the Trans-Pacific Technology Fund (TPTF), with participation from returning investors including Siloam Hospitals Group. This brings Prixa’s total raised to $4.5 million since it…*
       
-  - Rebranded Toyota Ventures invests $300 million in emerging tech and carbon neutrality
+  - This one email explains Apple
       <hr/>
       
-      - *Toyota AI Ventures, Toyota’s standalone venture capital fund, has dropped the “AI” and is reborn as, simply, Toyota Ventures. The fund is commemorating its new identity by investing an additional $300 million in emerging technologies and carbon neutrality via…*
+      - *An email has been going around the internet as a part of a release of documents related to Apple’s App Store based suit brought by Epic Games. I love this email for a lot of reasons, not the least of which is that you can extrapolate from it the very reasons …*
       
-  - TikTok just gave itself permission to collect biometric data on US users, including 'faceprints and voiceprints'
+  - Flink, the German grocery delivery startup, raises $240M after launching just 6 months ago
       <hr/>
       
-      - *A change to TikTok’s U.S. Privacy Policy on Wednesday introduced a new section that says the social video app “may collect biometric identifiers and biometric information” from its users’ content. This includes things like “faceprints and voiceprints,” the po…*
+      - *On-demand grocery delivery, which really came into its own with the emergence of the Covid-19 pandemic, continues to command huge attention from investors. The jury is still out on how people will use those services in the longer term, but in the meantime, th…*
        
-  - White House expands investment ban on Chinese tech and telecom companies
+  - Europe wants to go its own way on digital identity
       <hr/>
        
-       - *The Biden administration has replaced and expanded Trump-era restrictions on investing in certain Chinese firms deemed supportive of that country’s surveillance and military apparatus. Major tech, space and telecom companies are listed in the initial 59 cover…*
+       - *In its latest ambitious digital policy announcement, the European Union has proposed creating a framework for a “trusted and secure European e-ID” (aka digital identity) — which it said today it wants to be available to all citizens, residents and businesses …*
       
 
 <br />
