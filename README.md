@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Tech giants still aren't coming clean about COVID-19 disinformation, says EU
+  - Europe wants to go its own way on digital identity
      <hr/>
      
-      - *European Union lawmakers have asked tech giants to continue reporting on efforts to combat the spread of vaccine disinformation on their platforms for a further six months. “The continuation of the monitoring programme is necessary as the vaccination campaign…*
+      - *In its latest ambitious digital policy announcement, the European Union has proposed creating a framework for a “trusted and secure European e-ID” (aka digital identity) — which it said today it wants to be available to all citizens, residents and businesses …*
      
-  - One Concern raises $45M from SOMPO to scale its disaster resilience platform across Japan
+  - A new video platform offering classes about skilled trades begins to build momentum
       <hr/>
       
-      - *Climate change is intensifying across the globe, and one of the most challenging cases is Japan. In addition to lying on a major fault, the archipelago is increasingly inundated from rising sea levels that make the country more prone to disasters. A decade ag…*
+      - *Trade schools are nothing new, but a new startup called Copeland thinks it can build a big business by bringing education about plumbing, drywall, cabinetry and more to the masses through high-quality pre-filmed classes online that feature industry pros and p…*
       
-  - United Airlines agrees to purchase 15 Boom supersonic airliners
+  - Rebranded Toyota Ventures invests $300 million in emerging tech and carbon neutrality
       <hr/>
       
-      - *United Airlines is the first official U.S. customer for Boom Supersonic, a company focused on making supersonic commercial flight a reality once again. Boom unveiled its supersonic sub-scale testing aircraft last year, and intends to start producing its Overt…*
+      - *Toyota AI Ventures, Toyota’s standalone venture capital fund, has dropped the “AI” and is reborn as, simply, Toyota Ventures. The fund is commemorating its new identity by investing an additional $300 million in emerging technologies and carbon neutrality via…*
       
-  - Virgin Galactic to fly Kellie Gerardi to space on a dedicated research mission
+  - TikTok just gave itself permission to collect biometric data on US users, including 'faceprints and voiceprints'
       <hr/>
       
-      - *Virgin Galactic has a new customer: The International Institute for Astronautical Sciences (IIAS), which will be flying researcher, citizen scientist and STEM influencer Kellie Gerardi on an upcoming dedicated Virgin Galactic launch. Gerardi will be conducing…*
+      - *A change to TikTok’s U.S. Privacy Policy on Wednesday introduced a new section that says the social video app “may collect biometric identifiers and biometric information” from its users’ content. This includes things like “faceprints and voiceprints,” the po…*
        
-  - Zuckerberg says WhatsApp will add multi-device support, introduce 'view once' disappearing feature
+  - White House expands investment ban on Chinese tech and telecom companies
       <hr/>
        
-       - *WhatsApp will soon let you use the popular instant messaging app simultaneously on multiple devices, Facebook chief executive Mark Zuckerberg said. The instant messaging app, used by over 2 billion users, also plans to add more options to its disappearing mes…*
+       - *The Biden administration has replaced and expanded Trump-era restrictions on investing in certain Chinese firms deemed supportive of that country’s surveillance and military apparatus. Major tech, space and telecom companies are listed in the initial 59 cover…*
       
 
 <br />
