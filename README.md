@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - In latest big tech antitrust push, Germany's FCO eyes Google News Showcase fine print
+  - Cruise can now give passengers rides in driverless cars in California
      <hr/>
      
-      - *The Bundeskartellamt, Germany’s very active competition authority, isn’t letting the grass grow under new powers it gained this year to tackle big tech: The Federal Cartel Office (FCO) has just announced a third proceeding against Google. The FCO’s latest com…*
+      - *Cruise, the autonomous vehicle subsidiary of GM that also has backing from SoftBank Vision Fund, Microsoft and Honda, has secured a permit that will allow the company to shuttle passengers in its test vehicles without a human safety operator behind the wheel.…*
      
-  - Indonesian healthcare startup Prixa raises $3M led by MDI and TPTF
+  - Daily Crunch: Facebook extends Trump’s suspension until January 2023
       <hr/>
       
-      - *Indonesian healthcare startup Prixa has raised $3 million led by MDI Ventures and the Trans-Pacific Technology Fund (TPTF), with participation from returning investors including Siloam Hospitals Group. This brings Prixa’s total raised to $4.5 million since it…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - This one email explains Apple
+  - Tinder finally adds a Block Contacts feature
       <hr/>
       
-      - *An email has been going around the internet as a part of a release of documents related to Apple’s App Store based suit brought by Epic Games. I love this email for a lot of reasons, not the least of which is that you can extrapolate from it the very reasons …*
+      - *Despite the complications of meeting new people in the midst of a global pandemic, dating apps have shown a recent spike in both downloads and usage. Now, as COVID-19 vaccines become more widely available, it’s likely that this trend will continue. In other w…*
       
-  - Flink, the German grocery delivery startup, raises $240M after launching just 6 months ago
+  - It’s time for security teams to embrace security data lakes
       <hr/>
       
-      - *On-demand grocery delivery, which really came into its own with the emergence of the Covid-19 pandemic, continues to command huge attention from investors. The jury is still out on how people will use those services in the longer term, but in the meantime, th…*
+      - *The average corporate security organization is largely ineffective at preventing breaches, IP theft and data loss. Why? The fragmented approach we’re currently using does not work.*
        
-  - Europe wants to go its own way on digital identity
+  - Extra Crunch roundup: Guest posts wanted, 'mango' seed rounds, Expensify's tech stack
       <hr/>
        
-       - *In its latest ambitious digital policy announcement, the European Union has proposed creating a framework for a “trusted and secure European e-ID” (aka digital identity) — which it said today it wants to be available to all citizens, residents and businesses …*
+       - *Prospective contributors regularly ask us about which topics Extra Crunch subscribers would like to hear more about, and the answer is always the same.*
       
 
 <br />
