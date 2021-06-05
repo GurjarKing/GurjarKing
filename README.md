@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Cruise can now give passengers rides in driverless cars in California
+  - Um, where is the SEC when it comes to SPACs and conflicts of interest?
      <hr/>
      
-      - *Cruise, the autonomous vehicle subsidiary of GM that also has backing from SoftBank Vision Fund, Microsoft and Honda, has secured a permit that will allow the company to shuttle passengers in its test vehicles without a human safety operator behind the wheel.…*
+      - *Today, my colleague Kirsten Korosec reported that the autonomous vehicle startup Aurora is close to finalizing a deal to merge with one of three blank-check companies that have been formed to date by renowned entrepreneurs Reid Hoffman and Mark Pincus and a t…*
      
+  - Cruise can now give passengers rides in driverless cars in California
+      <hr/>
+      
+      - *Cruise, the autonomous vehicle subsidiary of GM that also has backing from SoftBank Vision Fund, Microsoft and Honda, has secured a permit that will allow the company to shuttle passengers in its test vehicles without a human safety operator behind the wheel.…*
+      
   - Daily Crunch: Facebook extends Trump’s suspension until January 2023
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Despite the complications of meeting new people in the midst of a global pandemic, dating apps have shown a recent spike in both downloads and usage. Now, as COVID-19 vaccines become more widely available, it’s likely that this trend will continue. In other w…*
-      
+       
   - It’s time for security teams to embrace security data lakes
       <hr/>
-      
-      - *The average corporate security organization is largely ineffective at preventing breaches, IP theft and data loss. Why? The fragmented approach we’re currently using does not work.*
        
-  - Extra Crunch roundup: Guest posts wanted, 'mango' seed rounds, Expensify's tech stack
-      <hr/>
-       
-       - *Prospective contributors regularly ask us about which topics Extra Crunch subscribers would like to hear more about, and the answer is always the same.*
+       - *The average corporate security organization is largely ineffective at preventing breaches, IP theft and data loss. Why? The fragmented approach we’re currently using does not work.*
       
 
 <br />
