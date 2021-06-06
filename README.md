@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Um, where is the SEC when it comes to SPACs and conflicts of interest?
+  - In search of a new crypto deity
      <hr/>
      
-      - *Today, my colleague Kirsten Korosec reported that the autonomous vehicle startup Aurora is close to finalizing a deal to merge with one of three blank-check companies that have been formed to date by renowned entrepreneurs Reid Hoffman and Mark Pincus and a t…*
+      - *Hello friends, and welcome back to Week in Review! Last week, I wrote about tech taking on Disney. This week, I’m talking about the search for a new crypto messiah. If you’re reading this on the TechCrunch site, you can get this in your inbox from the newslet…*
      
-  - Cruise can now give passengers rides in driverless cars in California
+  - Get thrifty, and your startup might just acquire a generation
       <hr/>
       
-      - *Cruise, the autonomous vehicle subsidiary of GM that also has backing from SoftBank Vision Fund, Microsoft and Honda, has secured a permit that will allow the company to shuttle passengers in its test vehicles without a human safety operator behind the wheel.…*
+      - *Etsy, a marketplace for kitschy and creative DIY goods, acquired Depop, a hippy and thrifty marketplace for resale goods, for $1.625 billion this week. So, today we’ll discuss the tale of two marketplaces, a deal that has given us a peek into the evolving eth…*
       
-  - Daily Crunch: Facebook extends Trump’s suspension until January 2023
+  - Not every SPAC is pure garbage
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
       
-  - Tinder finally adds a Block Contacts feature
+  - This Week in Apps: WWDC Prep, F8 recap, TikTok goes after biometric data
       <hr/>
       
-      - *Despite the complications of meeting new people in the midst of a global pandemic, dating apps have shown a recent spike in both downloads and usage. Now, as COVID-19 vaccines become more widely available, it’s likely that this trend will continue. In other w…*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
        
-  - It’s time for security teams to embrace security data lakes
+  - Um, where is the SEC when it comes to SPACs and conflicts of interest?
       <hr/>
        
-       - *The average corporate security organization is largely ineffective at preventing breaches, IP theft and data loss. Why? The fragmented approach we’re currently using does not work.*
+       - *Today, my colleague Kirsten Korosec reported that the autonomous vehicle startup Aurora is close to finalizing a deal to merge with one of three blank-check companies that have been formed to date by renowned entrepreneurs Reid Hoffman and Mark Pincus and a t…*
       
 
 <br />
