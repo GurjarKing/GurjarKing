@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Fractured Fairy Tales
+  - The Station: Aurora gets closer to a SPAC deal, Spin's new strategy and Waymo One app numbers
      <hr/>
      
-      - *1971 is the name of the year and an Apple TV+ documentary series billed as The Year That Music Changed Everything. It’s also the number of hours the former President kept up his blog From the Desk Of. No, that’s not true. But it is satisfactual. The thesis of…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packa…*
      
-  - Google's Gradient Ventures leads $8.2M Series A for Vault Platform's misconduct reporting SaaS
+  - Naspers co-leads $14.5M extension round in mobility startup WhereIsMyTransport
       <hr/>
       
-      - *Fixing workplace misconduct reporting is a mission that’s snagged London-based Vault Platform backing from Google’s AI focused fund, Gradient Ventures, which is the lead investor in an $8.2 million Series A that’s being announced today. Other investors joinin…*
+      - *Many people in emerging markets depend on informal public transport to move across cities. But while there are ride-hailing and bus-hailing applications in some of these cities, there’s a dire need for journey-planning apps to improve mobility for users and r…*
       
-  - Elon Musk officially hits the brakes on Tesla Model S Plaid+
+  - France fines Google $268M for adtech abuses and gets interoperability commitments
       <hr/>
       
-      - *Tesla CEO Elon has made it official and publicly cancelled plans to produce the Model S Plaid+, a supercharged version of the upcoming Plaid version of the electric vehicle that will be delivered to the first customers this month. Musk’s reason: Plaid is so g…*
+      - *France’s competition watchdog, L’Autorité de la concurrence, has fined Google up to €220 million (~$268M) in a case related to self-preferencing within the adtech market which the watchdog found constituted an abuse by Google of a dominant position for ad ser…*
       
-  - China's drive to compete against Starlink for the future of orbital internet
+  - 99 minutos, Mexico's last mile delivery startup, raises a $40M Series B
       <hr/>
       
-      - *There has been a wave of businesses over the past several years hoping to offer broadband internet delivered from thousands of satellites in low-earth orbit (LEO), providing coverage of most of the earth’s surface. This isn’t the first time we’ve seen excitem…*
+      - *In 2014 Alexis Patjane was at a local hookah bar in Mexico City with some friends and the bar ran out of tobacco. They thought maybe they could buy some online and have it delivered to the bar in real-time, but it turns out that service didn’t exist. At the t…*
        
-  - In search of a new crypto deity
+  - Jeff Bezos and his brother will fly on Blue Origin's first human spaceflight with auction winner
       <hr/>
        
-       - *Hello friends, and welcome back to Week in Review! Last week, I wrote about tech taking on Disney. This week, I’m talking about the search for a new crypto messiah. If you’re reading this on the TechCrunch site, you can get this in your inbox from the newslet…*
+       - *Jeff Bezos is going to be one of the passengers on his spaceflight company Blue Origin’s first ever human space launch on July 20. The Amazon founder announced the news via his Instagram on Monday morning, revealing that his brother Mark will also be coming a…*
       
 
 <br />
