@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - In search of a new crypto deity
+  - Gillmor Gang: Fractured Fairy Tales
      <hr/>
      
-      - *Hello friends, and welcome back to Week in Review! Last week, I wrote about tech taking on Disney. This week, I’m talking about the search for a new crypto messiah. If you’re reading this on the TechCrunch site, you can get this in your inbox from the newslet…*
+      - *1971 is the name of the year and an Apple TV+ documentary series billed as The Year That Music Changed Everything. It’s also the number of hours the former President kept up his blog From the Desk Of. No, that’s not true. But it is satisfactual. The thesis of…*
      
-  - Get thrifty, and your startup might just acquire a generation
+  - Google's Gradient Ventures leads $8.2M Series A for Vault Platform's misconduct reporting SaaS
       <hr/>
       
-      - *Etsy, a marketplace for kitschy and creative DIY goods, acquired Depop, a hippy and thrifty marketplace for resale goods, for $1.625 billion this week. So, today we’ll discuss the tale of two marketplaces, a deal that has given us a peek into the evolving eth…*
+      - *Fixing workplace misconduct reporting is a mission that’s snagged London-based Vault Platform backing from Google’s AI focused fund, Gradient Ventures, which is the lead investor in an $8.2 million Series A that’s being announced today. Other investors joinin…*
       
-  - Not every SPAC is pure garbage
+  - Elon Musk officially hits the brakes on Tesla Model S Plaid+
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *Tesla CEO Elon has made it official and publicly cancelled plans to produce the Model S Plaid+, a supercharged version of the upcoming Plaid version of the electric vehicle that will be delivered to the first customers this month. Musk’s reason: Plaid is so g…*
       
-  - This Week in Apps: WWDC Prep, F8 recap, TikTok goes after biometric data
+  - China's drive to compete against Starlink for the future of orbital internet
       <hr/>
       
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      - *There has been a wave of businesses over the past several years hoping to offer broadband internet delivered from thousands of satellites in low-earth orbit (LEO), providing coverage of most of the earth’s surface. This isn’t the first time we’ve seen excitem…*
        
-  - Um, where is the SEC when it comes to SPACs and conflicts of interest?
+  - In search of a new crypto deity
       <hr/>
        
-       - *Today, my colleague Kirsten Korosec reported that the autonomous vehicle startup Aurora is close to finalizing a deal to merge with one of three blank-check companies that have been formed to date by renowned entrepreneurs Reid Hoffman and Mark Pincus and a t…*
+       - *Hello friends, and welcome back to Week in Review! Last week, I wrote about tech taking on Disney. This week, I’m talking about the search for a new crypto messiah. If you’re reading this on the TechCrunch site, you can get this in your inbox from the newslet…*
       
 
 <br />
