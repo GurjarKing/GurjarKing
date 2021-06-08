@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The Station: Aurora gets closer to a SPAC deal, Spin's new strategy and Waymo One app numbers
+  - 6 career options for ex-founders seeking their next adventure
      <hr/>
      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packa…*
+      - *As someone with "founder" on your resume, you face a greater challenge when trying to get a salaried job. You’ve already shown that you really want to lead a company and not just rise up the ladder.*
      
-  - Naspers co-leads $14.5M extension round in mobility startup WhereIsMyTransport
+  - Apple finally launches a Screen Time API for app developers
       <hr/>
       
-      - *Many people in emerging markets depend on informal public transport to move across cities. But while there are ride-hailing and bus-hailing applications in some of these cities, there’s a dire need for journey-planning apps to improve mobility for users and r…*
+      - *Just after the release of iOS 12 in 2018, Apple introduced its own built-in screen time tracking tools and controls. In then began cracking down on third-party apps that had implemented their own screen time systems, saying they had done so through via techno…*
       
-  - France fines Google $268M for adtech abuses and gets interoperability commitments
+  - Daily Crunch: At Apple's WWDC 2021 keynote, everything old is new again
       <hr/>
       
-      - *France’s competition watchdog, L’Autorité de la concurrence, has fined Google up to €220 million (~$268M) in a case related to self-preferencing within the adtech market which the watchdog found constituted an abuse by Google of a dominant position for ad ser…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - 99 minutos, Mexico's last mile delivery startup, raises a $40M Series B
+  - Twitter restricts accounts in India to comply with government legal request
       <hr/>
       
-      - *In 2014 Alexis Patjane was at a local hookah bar in Mexico City with some friends and the bar ran out of tobacco. They thought maybe they could buy some online and have it delivered to the bar in real-time, but it turns out that service didn’t exist. At the t…*
+      - *Twitter disclosed on Monday that it blocked four accounts in India to comply with a new legal request from the Indian government. The American social network disclosed on Lumen Database, a Harvard University project, that it took action on four accounts — inc…*
        
-  - Jeff Bezos and his brother will fly on Blue Origin's first human spaceflight with auction winner
+  - The executive in charge of the Tesla Semi has left the company
       <hr/>
        
-       - *Jeff Bezos is going to be one of the passengers on his spaceflight company Blue Origin’s first ever human space launch on July 20. The Amazon founder announced the news via his Instagram on Monday morning, revealing that his brother Mark will also be coming a…*
+       - *Jerome Guillen, a critical executive at Tesla who was working on the development and eventual production of the Tesla Semi has left the company, the automaker said Monday in a filing to the U.S. Securities and Exchange Commission. Guillen had a decade-long ca…*
       
 
 <br />
