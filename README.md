@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 6 career options for ex-founders seeking their next adventure
+  - Twitch, Pinterest, Reddit and more go down in Fastly CDN outage
      <hr/>
      
-      - *As someone with "founder" on your resume, you face a greater challenge when trying to get a salaried job. You’ve already shown that you really want to lead a company and not just rise up the ladder.*
+      - *Countless popular websites including Reddit, Spotify, Twitch, Stack Overflow, GitHub, gov.uk and news outlets the Guardian, the New York Times, BBC, Financial Times are currently facing an outage. Typically glitches at a vital internet infrastructure service …*
      
-  - Apple finally launches a Screen Time API for app developers
+  - Ford unveils Maverick, a compact hybrid pickup truck for under $20,000
       <hr/>
       
-      - *Just after the release of iOS 12 in 2018, Apple introduced its own built-in screen time tracking tools and controls. In then began cracking down on third-party apps that had implemented their own screen time systems, saying they had done so through via techno…*
+      - *Ford unveiled on Tuesday the Maverick, a new compact hybrid pickup truck for people who didn’t know they needed one. The truck’s smaller more approachable size and its base price of $19,995 is geared towards entry-level customers who want that SUV or truck li…*
       
-  - Daily Crunch: At Apple's WWDC 2021 keynote, everything old is new again
+  - AI pioneer Raquel Urtasun launches self-driving technology startup with backing from Khosla, Uber and Aurora
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *One of the lingering mysteries from Uber’s sale of its Uber ATG self-driving unit to Aurora has been solved. Raquel Urtasun, the AI pioneer who was the chief scientist at Uber ATG, has launched a new startup called Waabi that is taking what she describes as a…*
       
-  - Twitter restricts accounts in India to comply with government legal request
+  - Are we overestimating the ransomware threat?
       <hr/>
       
-      - *Twitter disclosed on Monday that it blocked four accounts in India to comply with a new legal request from the Indian government. The American social network disclosed on Lumen Database, a Harvard University project, that it took action on four accounts — inc…*
+      - *On Monday afternoon, the U.S. Justice Department said it has seized much of the cryptocurrency ransom that  U.S. pipeline operator Colonial Pipeline paid last month to a Russian hacking collective called DarkSide by tracking the payment the as it moved throug…*
        
-  - The executive in charge of the Tesla Semi has left the company
+  - Cabify launches 'Cabify Go!', a multi-modal subscription service
       <hr/>
        
-       - *Jerome Guillen, a critical executive at Tesla who was working on the development and eventual production of the Tesla Semi has left the company, the automaker said Monday in a filing to the U.S. Securities and Exchange Commission. Guillen had a decade-long ca…*
+       - *Cabify wants to own the way people in cities move. The Spanish-born ride-hailing company is rolling out a pilot multi-modal subscription model to 40,000 users in Madrid this week, with plans to expand to its other markets throughout Spain and Latin America. T…*
       
 
 <br />
