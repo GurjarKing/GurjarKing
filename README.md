@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch roundup: Security data lakes, China vs. Starlink, ExtraHop's $900M exit
+  - Contentstack raises $57.5M for its headless content management system
      <hr/>
      
-      - *News broke this morning that Bain Capital Private Equity and Crosspoint Capital Partners are purchasing Seattle-based network security startup ExtraHop.*
+      - *Contentstack, a startup that offers a headless content management system (or a ‘content experience platform’ in marketing speak), today announced that it has raised a $57.5 million Series B round. The round, which the company says was oversubscribed, was led …*
      
-  - Pledge 1% is asking VCs to help unlock billions in corporate philanthropy
+  - ProtonMail gets a slick new look, as privacy tech eyes the mainstream
       <hr/>
       
-      - *The corporate philanthropy organization Pledge 1% has, since its launch in 2014, asked founders to donate 1% of their companies’ equity, product, or employees’ time starting on their first day of business. While the Bay Area-based outfit has found meaningful …*
+      - *End-to-end encrypted email service ProtonMail has refreshed its design, updating with a cleaner look and a more customizable user interface — including the ability to pick from a bunch of themes (dark and contrasting versions are both in the mix). Last month …*
       
-  - Daily Crunch: Fastly CDN outage briefly takes Twitch, Reddit and Pinterest offline
+  - Sinch snaps up MessageMedia for $1.3B to compete with Twilio in business SMS services
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Sinch — the Swedish company that provides a suite of services for companies to build communications and specifically “customer engagement” into their services by way of APIs — has made yet another acquisition in its global march to scale up its business and c…*
       
-  - Trucks VC launches two new funds for early and late-stage transportation startups
+  - Float wants to provide liquidity to African SMBs in a way never done before
       <hr/>
       
-      - *Trucks Venture Capital, a fund that focuses on early-stage entrepreneurs in transportation, is launching two new funds that it says will help build the future of transportation. Its new core fund, Trucks Venture Fund 2 (TVF2), was raised over the last year an…*
+      - *According to research, 85% of African SMBs have zero access to financing, and each day, African SMBs have billions locked up in receivables due to long payment cycles. This leads to cash flow problems that cause businesses to be late on important expenses and…*
        
-  - Don't trust that SPAC deck
+  - Pennylane raises $18.3 million for its accounting service
       <hr/>
        
-       - *The continuing saga of Lordstown Motor’s struggles as a public company took a new turn today as the electric truck manufacturer made yet more news. Bad news. Shares of Lordstown are down sharply today after the company reported in an SEC filing that it does n…*
+       - *French startup Pennylane has raised a new $18.3 million funding round (€15 million). Interestingly, this is Sequoia Capital’s first investment in France after they announced ambitious expansion plans in Europe. If you’re not familiar with Pennylane, the start…*
       
 
 <br />
