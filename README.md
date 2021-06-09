@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Twitch, Pinterest, Reddit and more go down in Fastly CDN outage
+  - Extra Crunch roundup: Security data lakes, China vs. Starlink, ExtraHop's $900M exit
      <hr/>
      
-      - *Countless popular websites including Reddit, Spotify, Twitch, Stack Overflow, GitHub, gov.uk and news outlets the Guardian, the New York Times, BBC, Financial Times are currently facing an outage. Typically glitches at a vital internet infrastructure service …*
+      - *News broke this morning that Bain Capital Private Equity and Crosspoint Capital Partners are purchasing Seattle-based network security startup ExtraHop.*
      
-  - Ford unveils Maverick, a compact hybrid pickup truck for under $20,000
+  - Pledge 1% is asking VCs to help unlock billions in corporate philanthropy
       <hr/>
       
-      - *Ford unveiled on Tuesday the Maverick, a new compact hybrid pickup truck for people who didn’t know they needed one. The truck’s smaller more approachable size and its base price of $19,995 is geared towards entry-level customers who want that SUV or truck li…*
+      - *The corporate philanthropy organization Pledge 1% has, since its launch in 2014, asked founders to donate 1% of their companies’ equity, product, or employees’ time starting on their first day of business. While the Bay Area-based outfit has found meaningful …*
       
-  - AI pioneer Raquel Urtasun launches self-driving technology startup with backing from Khosla, Uber and Aurora
+  - Daily Crunch: Fastly CDN outage briefly takes Twitch, Reddit and Pinterest offline
       <hr/>
       
-      - *One of the lingering mysteries from Uber’s sale of its Uber ATG self-driving unit to Aurora has been solved. Raquel Urtasun, the AI pioneer who was the chief scientist at Uber ATG, has launched a new startup called Waabi that is taking what she describes as a…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Are we overestimating the ransomware threat?
+  - Trucks VC launches two new funds for early and late-stage transportation startups
       <hr/>
       
-      - *On Monday afternoon, the U.S. Justice Department said it has seized much of the cryptocurrency ransom that  U.S. pipeline operator Colonial Pipeline paid last month to a Russian hacking collective called DarkSide by tracking the payment the as it moved throug…*
+      - *Trucks Venture Capital, a fund that focuses on early-stage entrepreneurs in transportation, is launching two new funds that it says will help build the future of transportation. Its new core fund, Trucks Venture Fund 2 (TVF2), was raised over the last year an…*
        
-  - Cabify launches 'Cabify Go!', a multi-modal subscription service
+  - Don't trust that SPAC deck
       <hr/>
        
-       - *Cabify wants to own the way people in cities move. The Spanish-born ride-hailing company is rolling out a pilot multi-modal subscription model to 40,000 users in Madrid this week, with plans to expand to its other markets throughout Spain and Latin America. T…*
+       - *The continuing saga of Lordstown Motor’s struggles as a public company took a new turn today as the electric truck manufacturer made yet more news. Bad news. Shares of Lordstown are down sharply today after the company reported in an SEC filing that it does n…*
       
 
 <br />
