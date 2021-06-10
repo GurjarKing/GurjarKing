@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Does what happens at YC stay at YC?
+  - AI startup Eightfold valued at $2.1B in SoftBank-led $220M funding
      <hr/>
      
-      - *Community has never felt louder in startupland. Bringing people together over a shared interest is innate to human nature. And, coming out of a lonely, draining pandemic, every startup wants to find a way to cultivate community, conversation and camaraderie a…*
+      - *Eightfold AI, a startup which uses deep learning and artificial intelligence to help companies find, recruit and retain workers, said on Thursday it has raised $220 million in a new round as it looks to accelerate its growth. SoftBank Vision Fund 2 led the Se…*
      
-  - Daily Crunch: A crowded market for exits and acquisitions forecasts a hot AI summer
+  - Corporate services "super app" Osome lands $16M Series A
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Osome, a startup that combines multiple corporate services for SMEs into one “super app,” has raised a $16 million Series A. The round included returning investors Target Global, AltaIR Capital and Phystech Ventures, and new backers S16VC and venture capitali…*
       
-  - Health clouds are set to play a key role in healthcare innovation
+  - Nexford University lands $10.8M pre-Series A to scale its flexible remote learning platform
       <hr/>
       
-      - *The U.S. healthcare industry is amidst one of the biggest transformations any industry has seen since the dot-com boom of the late 1990s.*
+      - *Two profound problems face the higher education sector globally — affordability and relevance. Whether you live in Africa, Europe, or the U.S., a major reason why people don’t go to university or college or even drop out because they cannot afford tuition fee…*
       
-  - Seoul-based Ringle raises $18M Series A for its one-on-one English tutoring platform
+  - Yousign raises $36.6 million to build a European alternative to DocuSign
       <hr/>
       
-      - *Many of the highest-profile English tutoring platforms focus on children, including VIPKID and Magic Ears. Ringle created a niche for itself by focusing on adults first, with courses like business English and interview preparation. The South Korea-based start…*
+      - *French startup Yousign has raised a $36.6 million Series A funding round (€30 million). Lead Edge Capital is leading the round and eFounders is investing once again in the company. Yousign, as the name suggests, is an e-signature provider that complies with E…*
        
-  - A revival at the intersection of open source and open standards
+  - Tata Digital to acquire majority stake in online pharmacy 1mg
       <hr/>
        
-       - *Tremendous technological innovation and transformative power are possible for the future if we re-energize the spirit of collaboration between the open-standards and open-source communities.*
+       - *Tata Digital, the subsidiary of Tata Sons, said on Thursday it is acquiring a majority stake in digital health startup 1mg, the latest in a series of investments as the salt-to-steel Indian conglomerate enters the digital consumer space. The firms didn’t shar…*
       
 
 <br />
