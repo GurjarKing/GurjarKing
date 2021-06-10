@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Contentstack raises $57.5M for its headless content management system
+  - Does what happens at YC stay at YC?
      <hr/>
      
-      - *Contentstack, a startup that offers a headless content management system (or a ‘content experience platform’ in marketing speak), today announced that it has raised a $57.5 million Series B round. The round, which the company says was oversubscribed, was led …*
+      - *Community has never felt louder in startupland. Bringing people together over a shared interest is innate to human nature. And, coming out of a lonely, draining pandemic, every startup wants to find a way to cultivate community, conversation and camaraderie a…*
      
-  - ProtonMail gets a slick new look, as privacy tech eyes the mainstream
+  - Daily Crunch: A crowded market for exits and acquisitions forecasts a hot AI summer
       <hr/>
       
-      - *End-to-end encrypted email service ProtonMail has refreshed its design, updating with a cleaner look and a more customizable user interface — including the ability to pick from a bunch of themes (dark and contrasting versions are both in the mix). Last month …*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Sinch snaps up MessageMedia for $1.3B to compete with Twilio in business SMS services
+  - Health clouds are set to play a key role in healthcare innovation
       <hr/>
       
-      - *Sinch — the Swedish company that provides a suite of services for companies to build communications and specifically “customer engagement” into their services by way of APIs — has made yet another acquisition in its global march to scale up its business and c…*
+      - *The U.S. healthcare industry is amidst one of the biggest transformations any industry has seen since the dot-com boom of the late 1990s.*
       
-  - Float wants to provide liquidity to African SMBs in a way never done before
+  - Seoul-based Ringle raises $18M Series A for its one-on-one English tutoring platform
       <hr/>
       
-      - *According to research, 85% of African SMBs have zero access to financing, and each day, African SMBs have billions locked up in receivables due to long payment cycles. This leads to cash flow problems that cause businesses to be late on important expenses and…*
+      - *Many of the highest-profile English tutoring platforms focus on children, including VIPKID and Magic Ears. Ringle created a niche for itself by focusing on adults first, with courses like business English and interview preparation. The South Korea-based start…*
        
-  - Pennylane raises $18.3 million for its accounting service
+  - A revival at the intersection of open source and open standards
       <hr/>
        
-       - *French startup Pennylane has raised a new $18.3 million funding round (€15 million). Interestingly, this is Sequoia Capital’s first investment in France after they announced ambitious expansion plans in Europe. If you’re not familiar with Pennylane, the start…*
+       - *Tremendous technological innovation and transformative power are possible for the future if we re-energize the spirit of collaboration between the open-standards and open-source communities.*
       
 
 <br />
