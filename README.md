@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - AI startup Eightfold valued at $2.1B in SoftBank-led $220M funding
+  - Nvidia acquires hi-def mapping startup DeepMap to bolster AV technology
      <hr/>
      
-      - *Eightfold AI, a startup which uses deep learning and artificial intelligence to help companies find, recruit and retain workers, said on Thursday it has raised $220 million in a new round as it looks to accelerate its growth. SoftBank Vision Fund 2 led the Se…*
+      - *Chipmaker Nvidia is acquiring DeepMap, the high-definition mapping startup announced. The company said its mapping IP will help Nvidia’s autonomous vehicle technology sector, Nvidia Drive. “The acquisition is an endorsement of DeepMap’s unique vision, technol…*
      
-  - Corporate services "super app" Osome lands $16M Series A
+  - Apple announces its 2021 Apple Design Award winners
       <hr/>
       
-      - *Osome, a startup that combines multiple corporate services for SMEs into one “super app,” has raised a $16 million Series A. The round included returning investors Target Global, AltaIR Capital and Phystech Ventures, and new backers S16VC and venture capitali…*
+      - *Apple incorporated the announcement of this year’s Apple Design Award winners into its virtual Worldwide Developer Conference (WWDC) online event, instead of waiting until the event had wrapped, like last year. Ahead of WWDC, Apple previewed the finalists, wh…*
       
-  - Nexford University lands $10.8M pre-Series A to scale its flexible remote learning platform
+  - Apple confirms hiring of Ulrich Kranz, former CEO of EV company Canoo
       <hr/>
       
-      - *Two profound problems face the higher education sector globally — affordability and relevance. Whether you live in Africa, Europe, or the U.S., a major reason why people don’t go to university or college or even drop out because they cannot afford tuition fee…*
+      - *Apple has hired the former co-founder and CEO of electric vehicle company Canoo to help with the development of the Apple Car, Bloomberg first reported, citing unnamed sources. Apple has confirmed to TechCrunch it has hired Kranz, but did not provide further …*
       
-  - Yousign raises $36.6 million to build a European alternative to DocuSign
+  - After 30 years, 'Crossing the Chasm' is due for a refresh
       <hr/>
       
-      - *French startup Yousign has raised a $36.6 million Series A funding round (€30 million). Lead Edge Capital is leading the round and eFounders is investing once again in the company. Yousign, as the name suggests, is an e-signature provider that complies with E…*
+      - *"The chasm," a difficult transitional period from visionary early adopters to mainstream customers has been one of the canonical foundational concepts to product-market fit for the past three decades.*
        
-  - Tata Digital to acquire majority stake in online pharmacy 1mg
+  - Daily Crunch: With $639M funding found, Klarna is Europe's highest-valued private fintech
       <hr/>
        
-       - *Tata Digital, the subsidiary of Tata Sons, said on Thursday it is acquiring a majority stake in digital health startup 1mg, the latest in a series of investments as the salt-to-steel Indian conglomerate enters the digital consumer space. The firms didn’t shar…*
+       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
 
 <br />
