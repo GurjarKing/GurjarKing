@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Nvidia acquires hi-def mapping startup DeepMap to bolster AV technology
+  - Google won't end support for tracking cookies unless UK's competition watchdog agrees
      <hr/>
      
-      - *Chipmaker Nvidia is acquiring DeepMap, the high-definition mapping startup announced. The company said its mapping IP will help Nvidia’s autonomous vehicle technology sector, Nvidia Drive. “The acquisition is an endorsement of DeepMap’s unique vision, technol…*
+      - *Well this is big. The UK’s competition regulator looks set to get an emergency brake that will allow it to stop Google ending support for third party cookies, a technology that’s currently used for targeting online ads, if it believes competition would be har…*
      
-  - Apple announces its 2021 Apple Design Award winners
+  - Temasek and General Atlantic in talks to back Indian neobank Open
       <hr/>
       
-      - *Apple incorporated the announcement of this year’s Apple Design Award winners into its virtual Worldwide Developer Conference (WWDC) online event, instead of waiting until the event had wrapped, like last year. Ahead of WWDC, Apple previewed the finalists, wh…*
+      - *Bangalore-based neobank Open is in advanced stages of talks to raise about $100 million, according to two sources familiar with the matter. Temasek, the Singaporean government’s sovereign wealth fund, and General Atlantic are positioning to co-lead the Series…*
       
-  - Apple confirms hiring of Ulrich Kranz, former CEO of EV company Canoo
+  - Fresha raises $100M for its beauty and wellness booking platform and marketplace
       <hr/>
       
-      - *Apple has hired the former co-founder and CEO of electric vehicle company Canoo to help with the development of the Apple Car, Bloomberg first reported, citing unnamed sources. Apple has confirmed to TechCrunch it has hired Kranz, but did not provide further …*
+      - *Beauty and wellness businesses have come roaring back to life with the decline of Covid-19 restrictions, and a startup that’s built a platform that caters to the many needs of small enterprises in the industry today is announcing a big round of funding to gro…*
       
-  - After 30 years, 'Crossing the Chasm' is due for a refresh
+  - Tiger Global in talks to invest in Classplus at over $250 million valuation
       <hr/>
       
-      - *"The chasm," a difficult transitional period from visionary early adopters to mainstream customers has been one of the canonical foundational concepts to product-market fit for the past three decades.*
+      - *Tiger Global is in talks to lead a $30 million round in Indian edtech startup Classplus, according to sources familiar with the matter. The new round, which includes both primary investment and secondary transactions, values the five-year-old Indian startup a…*
        
-  - Daily Crunch: With $639M funding found, Klarna is Europe's highest-valued private fintech
+  - Elon Musk reveals the Tesla Model S Plaid
       <hr/>
        
-       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+       - *Tesla finally held the long-awaited, and once rescheduled, “delivery event” for its ultra-fast Model S Plaid at its factory in Fremont, California. The electric vehicle company will begin with 25 deliveries on Friday evening, expanding to several hundred cars…*
       
 
 <br />
