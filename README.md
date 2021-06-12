@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google won't end support for tracking cookies unless UK's competition watchdog agrees
+  - The air taxi market prepares to take flight
      <hr/>
      
-      - *Well this is big. The UK’s competition regulator looks set to get an emergency brake that will allow it to stop Google ending support for third party cookies, a technology that’s currently used for targeting online ads, if it believes competition would be har…*
+      - *Electric air mobility is gaining elevation. But there's going to be some turbulence ahead.*
      
-  - Temasek and General Atlantic in talks to back Indian neobank Open
+  - Investor Michael Brown, newly elected to chair the powerful lobbying group NVCA, shares his agenda
       <hr/>
       
-      - *Bangalore-based neobank Open is in advanced stages of talks to raise about $100 million, according to two sources familiar with the matter. Temasek, the Singaporean government’s sovereign wealth fund, and General Atlantic are positioning to co-lead the Series…*
+      - *Michael Brown, a longtime general partner with Battery Ventures, was just elected to the role of chairman of the National Venture Capital Association, three years after joining its board of directors. We caught up with Brown to ask about his new, year-long ro…*
       
-  - Fresha raises $100M for its beauty and wellness booking platform and marketplace
+  - Daily Crunch: Toptal sues rival Andela for allegedly making ‘a perfect clone' of its freelancer marketplace
       <hr/>
       
-      - *Beauty and wellness businesses have come roaring back to life with the decline of Covid-19 restrictions, and a startup that’s built a platform that caters to the many needs of small enterprises in the industry today is announcing a big round of funding to gro…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Tiger Global in talks to invest in Classplus at over $250 million valuation
+  - The rise of robotaxis in China
       <hr/>
       
-      - *Tiger Global is in talks to lead a $30 million round in Indian edtech startup Classplus, according to sources familiar with the matter. The new round, which includes both primary investment and secondary transactions, values the five-year-old Indian startup a…*
+      - *AutoX, Momenta and WeRide took the stage at TC Sessions: Mobility 2021 to discuss the state of robotaxi startups in China and their relationships with local governments in the country.*
        
-  - Elon Musk reveals the Tesla Model S Plaid
+  - Facebook buys game studio BigBox VR
       <hr/>
        
-       - *Tesla finally held the long-awaited, and once rescheduled, “delivery event” for its ultra-fast Model S Plaid at its factory in Fremont, California. The electric vehicle company will begin with 25 deliveries on Friday evening, expanding to several hundred cars…*
+       - *Facebook has bought several virtual reality game studios over the past couple years, and they added one more to their portfolio Friday with the acquisition of Seattle-based BigBox VR. The studio’s major title, Population: One, was one of the big post-launch r…*
       
 
 <br />
