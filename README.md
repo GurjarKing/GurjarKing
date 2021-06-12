@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - The air taxi market prepares to take flight
+  - SOSV, the global venture firm, just closed a $100 million fund to back its maturing startups
      <hr/>
      
-      - *Electric air mobility is gaining elevation. But there's going to be some turbulence ahead.*
+      - *Sean O’Sullivan, the founder of the global venture outfit SOSV, has slowly but steadily built up a sizable operation over the years. SOSV started off as a family office, investing the capital of O’Sullivan after he cofounded two companies, including MapInfo, …*
      
+  - The air taxi market prepares to take flight
+      <hr/>
+      
+      - *Electric air mobility is gaining elevation. But there's going to be some turbulence ahead.*
+      
   - Investor Michael Brown, newly elected to chair the powerful lobbying group NVCA, shares his agenda
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
-      
+       
   - The rise of robotaxis in China
       <hr/>
-      
-      - *AutoX, Momenta and WeRide took the stage at TC Sessions: Mobility 2021 to discuss the state of robotaxi startups in China and their relationships with local governments in the country.*
        
-  - Facebook buys game studio BigBox VR
-      <hr/>
-       
-       - *Facebook has bought several virtual reality game studios over the past couple years, and they added one more to their portfolio Friday with the acquisition of Seattle-based BigBox VR. The studio’s major title, Population: One, was one of the big post-launch r…*
+       - *AutoX, Momenta and WeRide took the stage at TC Sessions: Mobility 2021 to discuss the state of robotaxi startups in China and their relationships with local governments in the country.*
       
 
 <br />
