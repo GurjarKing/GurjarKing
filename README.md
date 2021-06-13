@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - SOSV, the global venture firm, just closed a $100 million fund to back its maturing startups
+  - Jeff Bezos' Blue Origin auctions off seat on first human spaceflight for $28M
      <hr/>
      
-      - *Sean O’Sullivan, the founder of the global venture outfit SOSV, has slowly but steadily built up a sizable operation over the years. SOSV started off as a family office, investing the capital of O’Sullivan after he cofounded two companies, including MapInfo, …*
+      - *Blue Origin has its winning bidder for its first ever human spaceflight, and the winner will pay $28 million for the privilege of flying aboard the company’s debut private astronaut mission. The winning bid came in today during a live auction, which saw 7,600…*
      
-  - The air taxi market prepares to take flight
+  - How many opinions does it take to hit the $100M ARR Club?
       <hr/>
       
-      - *Electric air mobility is gaining elevation. But there's going to be some turbulence ahead.*
+      - *In a world of talking points and corporate jargon, opinions are refreshing — and Expensify CEO and founder David Barrett is full of them. One of his earliest lessons in life, for example, was that basically everyone is wrong about basically everything. If ins…*
       
-  - Investor Michael Brown, newly elected to chair the powerful lobbying group NVCA, shares his agenda
+  - Inside Marqeta’s fintech mega-IPO
       <hr/>
       
-      - *Michael Brown, a longtime general partner with Battery Ventures, was just elected to the role of chairman of the National Venture Capital Association, three years after joining its board of directors. We caught up with Brown to ask about his new, year-long ro…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
       
-  - Daily Crunch: Toptal sues rival Andela for allegedly making ‘a perfect clone' of its freelancer marketplace
+  - Apple’s iPadOS 15 breaks the app barrier
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *The announcement of new iPad software at this year’s WWDC conference had an abnormally large expectation hung on it. The iPad lineup, especially the larger iPad Pro, has kept up an impressively frantic pace of hardware innovation over the past few years. In t…*
        
-  - The rise of robotaxis in China
+  - 7 new security features Apple quietly announced at WWDC
       <hr/>
        
-       - *AutoX, Momenta and WeRide took the stage at TC Sessions: Mobility 2021 to discuss the state of robotaxi startups in China and their relationships with local governments in the country.*
+       - *Apple revealed a lot during WWDC. Here's what you missed in security and privacy.*
       
 
 <br />
