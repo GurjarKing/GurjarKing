@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Jeff Bezos' Blue Origin auctions off seat on first human spaceflight for $28M
+  - Gillmor Gang: Déjà Vu
      <hr/>
      
-      - *Blue Origin has its winning bidder for its first ever human spaceflight, and the winner will pay $28 million for the privilege of flying aboard the company’s debut private astronaut mission. The winning bid came in today during a live auction, which saw 7,600…*
+      - *The Gang or a subset did a Clubhouse, longer than a regular show by a good third. The audio only structure lacked the visual cues that distinguish between irony and bad manners, but otherwise it felt familiar if not comfortable. I can’t remember what we talke…*
      
+  - Nuclear waste recycling is a critical avenue of energy innovation
+      <hr/>
+      
+      - *Tristan Abbey Contributor Share on Twitter Tristan Abbey is President of Comarus Analytics LLC. He served as senior policy advisor at the U.S. Senate Committee on Energy and Natural Resources and as director for strategic planning at the National Security Cou…*
+      
+  - Jeff Bezos' Blue Origin auctions off seat on first human spaceflight for $28M
+      <hr/>
+      
+      - *Blue Origin has its winning bidder for its first ever human spaceflight, and the winner will pay $28 million for the privilege of flying aboard the company’s debut private astronaut mission. The winning bid came in today during a live auction, which saw 7,600…*
+      
   - How many opinions does it take to hit the $100M ARR Club?
       <hr/>
       
       - *In a world of talking points and corporate jargon, opinions are refreshing — and Expensify CEO and founder David Barrett is full of them. One of his earliest lessons in life, for example, was that basically everyone is wrong about basically everything. If ins…*
-      
+       
   - Inside Marqeta’s fintech mega-IPO
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
-      
-  - Apple’s iPadOS 15 breaks the app barrier
-      <hr/>
-      
-      - *The announcement of new iPad software at this year’s WWDC conference had an abnormally large expectation hung on it. The iPad lineup, especially the larger iPad Pro, has kept up an impressively frantic pace of hardware innovation over the past few years. In t…*
        
-  - 7 new security features Apple quietly announced at WWDC
-      <hr/>
-       
-       - *Apple revealed a lot during WWDC. Here's what you missed in security and privacy.*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
       
 
 <br />
