@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gillmor Gang: Déjà Vu
+  - Google opens Workspace to everyone
      <hr/>
      
-      - *The Gang or a subset did a Clubhouse, longer than a regular show by a good third. The audio only structure lacked the visual cues that distinguish between irony and bad manners, but otherwise it felt familiar if not comfortable. I can’t remember what we talke…*
+      - *Google today announced that it is making Workspace, the service formerly known as G Suite (and with a number of new capabilities), available to everyone, including consumers on free Google accounts. The core philosophy behind Workspace is to enable deeper col…*
      
-  - Nuclear waste recycling is a critical avenue of energy innovation
+  - Google will let enterprises store their Google Workspace encryption keys
       <hr/>
       
-      - *Tristan Abbey Contributor Share on Twitter Tristan Abbey is President of Comarus Analytics LLC. He served as senior policy advisor at the U.S. Senate Committee on Energy and Natural Resources and as director for strategic planning at the National Security Cou…*
+      - *The move will make a company's data indecipherable to Google.*
       
-  - Jeff Bezos' Blue Origin auctions off seat on first human spaceflight for $28M
+  - Motorway's auction platform for second-hand cars raises $67.7M Series B led by Index Ventures
       <hr/>
       
-      - *Blue Origin has its winning bidder for its first ever human spaceflight, and the winner will pay $28 million for the privilege of flying aboard the company’s debut private astronaut mission. The winning bid came in today during a live auction, which saw 7,600…*
+      - *Motorway, is a UK startup that allows professional car dealers to bid in an auction for privately-owned cars for sale. The startup has had rapid success by removing a lot of friction in the process. It’s now raised £48m / $67.7m in a Series B round led by Ind…*
       
-  - How many opinions does it take to hit the $100M ARR Club?
+  - Cyber security training platform Immersive Labs  closes $75M Series C led by Insight Partners
       <hr/>
       
-      - *In a world of talking points and corporate jargon, opinions are refreshing — and Expensify CEO and founder David Barrett is full of them. One of his earliest lessons in life, for example, was that basically everyone is wrong about basically everything. If ins…*
+      - *Immersive Labs, a platform which teaches cyber security skills corporate employees by using real, up-to-date threat intelligence in a “gamified” way, has closed a $75 million Series C funding round led by new investors Insight Partners alongside Menlo Venture…*
        
-  - Inside Marqeta’s fintech mega-IPO
+  - Gillmor Gang: Déjà Vu
       <hr/>
        
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+       - *The Gang or a subset did a Clubhouse, longer than a regular show by a good third. The audio only structure lacked the visual cues that distinguish between irony and bad manners, but otherwise it felt familiar if not comfortable. I can’t remember what we talke…*
       
 
 <br />
