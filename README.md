@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google opens Workspace to everyone
+  - Automotive marketplace Carro hits unicorn status with $360M Series C led by SoftBank Vision Fund 2
      <hr/>
      
-      - *Google today announced that it is making Workspace, the service formerly known as G Suite (and with a number of new capabilities), available to everyone, including consumers on free Google accounts. The core philosophy behind Workspace is to enable deeper col…*
+      - *Carro, one of the largest automotive marketplaces in Southeast Asia, announced it has hit unicorn valuation after raising a $360 million Series C led by SoftBank Vision Fund 2. Other participants include insurance giant MSIG and Indonesian-based funds like EV…*
      
-  - Google will let enterprises store their Google Workspace encryption keys
+  - Daily Crunch: The Nubank EC-1
       <hr/>
       
-      - *The move will make a company's data indecipherable to Google.*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Motorway's auction platform for second-hand cars raises $67.7M Series B led by Index Ventures
+  - How I Podcast: Left Handed Radio’s Anna Rubanova
       <hr/>
       
-      - *Motorway, is a UK startup that allows professional car dealers to bid in an auction for privately-owned cars for sale. The startup has had rapid success by removing a lot of friction in the process. It’s now raised £48m / $67.7m in a Series B round led by Ind…*
+      - *The beauty of podcasting is that anyone can do it. It’s a rare medium that’s nearly as easy to make as it is to consume. And as such, no two people do it exactly the same way. There are a wealth of hardware and software solutions open to potential podcasters,…*
       
-  - Cyber security training platform Immersive Labs  closes $75M Series C led by Insight Partners
+  - Google's AirTable rival, Tables, graduates from beta test to become a Google Cloud product
       <hr/>
       
-      - *Immersive Labs, a platform which teaches cyber security skills corporate employees by using real, up-to-date threat intelligence in a “gamified” way, has closed a $75 million Series C funding round led by new investors Insight Partners alongside Menlo Venture…*
+      - *Last fall, Google’s in-house incubator Area 120 introduced a new work-tracking tool called Tables, an AirTable rival that allows for tracking projects more efficiently using automation. Today, Google says Tables will officially “graduate” from Area 120 to bec…*
        
-  - Gillmor Gang: Déjà Vu
+  - WordPress.com owner Automattic acquires journaling app Day One
       <hr/>
        
-       - *The Gang or a subset did a Clubhouse, longer than a regular show by a good third. The audio only structure lacked the visual cues that distinguish between irony and bad manners, but otherwise it felt familiar if not comfortable. I can’t remember what we talke…*
+       - *Automattic is expanding its lineup of online writing platforms with its acquisition of Day One, a popular journaling app for Mac and Apple mobile devices. The app has been downloaded more than 15 million times since its March 2011 launch on the Mac and iTunes…*
       
 
 <br />
