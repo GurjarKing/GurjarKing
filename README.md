@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Automotive marketplace Carro hits unicorn status with $360M Series C led by SoftBank Vision Fund 2
+  - Kai-Fu Lee's Sinovation bets on Linux tablet maker Jingling in $10M round
      <hr/>
      
-      - *Carro, one of the largest automotive marketplaces in Southeast Asia, announced it has hit unicorn valuation after raising a $360 million Series C led by SoftBank Vision Fund 2. Other participants include insurance giant MSIG and Indonesian-based funds like EV…*
+      - *Kai-Fu Lee’s Sinovation Ventures has its eyes on a niche market targeting software developers. In April, the venture capital fund led a $10 million angel round in Jingling, a Chinese startup developing Linux-based tablets and laptops, TechCrunch learned. Othe…*
      
-  - Daily Crunch: The Nubank EC-1
+  - Duda, a WordPress rival, raises $50M to help agencies and bigger companies build better websites
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Self-expression for many consumers today comes in the form of social media and apps. But if you’re a larger business, even if you can’t ignore platforms like Facebook, a website still remains central part of your digital equation. Today, Duda — which has buil…*
       
-  - How I Podcast: Left Handed Radio’s Anna Rubanova
+  - Formative, a student learning and analytics platform, raises $70M to challenge the summative, test-based approach to education
       <hr/>
       
-      - *The beauty of podcasting is that anyone can do it. It’s a rare medium that’s nearly as easy to make as it is to consume. And as such, no two people do it exactly the same way. There are a wealth of hardware and software solutions open to potential podcasters,…*
+      - *Tests are king in many school systems and other educational environments: they are seen as an efficient way to assess what knowledge students have retained, and how well they do on a level playing field where everyone has the same exam to take. Some, however,…*
       
-  - Google's AirTable rival, Tables, graduates from beta test to become a Google Cloud product
+  - Twitter is eyeing new anti-abuse tools to give users more control over mentions
       <hr/>
       
-      - *Last fall, Google’s in-house incubator Area 120 introduced a new work-tracking tool called Tables, an AirTable rival that allows for tracking projects more efficiently using automation. Today, Google says Tables will officially “graduate” from Area 120 to bec…*
+      - *Twitter is looking at adding new features that could help users who are facing abusive situations on its platform as a result of unwanted attention pile-ons, such as when a tweet goes viral for a reason they didn’t expect and a full firehose of counter tweets…*
        
-  - WordPress.com owner Automattic acquires journaling app Day One
+  - Kia and Uber partner to give drivers in 20 European markets discounts to EVs
       <hr/>
        
-       - *Automattic is expanding its lineup of online writing platforms with its acquisition of Day One, a popular journaling app for Mac and Apple mobile devices. The app has been downloaded more than 15 million times since its March 2011 launch on the Mac and iTunes…*
+       - *Uber and Kia Europe are teaming up to offer drivers in 20 European markets deals on buying, leasing, financing or renting Kia’s e-Niro and e-Soul, the latest move by the ride-hailing giant to achieve its emissions goals.  Uber has committed to being a zero-em…*
       
 
 <br />
