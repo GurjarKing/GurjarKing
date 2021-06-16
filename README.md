@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Kai-Fu Lee's Sinovation bets on Linux tablet maker Jingling in $10M round
+  - Lordstown Motors execs cite binding orders to restore confidence a day after CEO, CFO resignations
      <hr/>
      
-      - *Kai-Fu Lee’s Sinovation Ventures has its eyes on a niche market targeting software developers. In April, the venture capital fund led a $10 million angel round in Jingling, a Chinese startup developing Linux-based tablets and laptops, TechCrunch learned. Othe…*
+      - *Lordstown Motors has enough ‘binding orders’ from customers to fund limited production of its electric pickup truck through May 2022, executives at the company said Tuesday just a a day after an executive shakeup that included the resignation of the company’s…*
      
-  - Duda, a WordPress rival, raises $50M to help agencies and bigger companies build better websites
+  - 10x, a UK fintech, raises $187M to build new services for old banks
       <hr/>
       
-      - *Self-expression for many consumers today comes in the form of social media and apps. But if you’re a larger business, even if you can’t ignore platforms like Facebook, a website still remains central part of your digital equation. Today, Duda — which has buil…*
+      - *As so-called neobanks continue to gain more traction in the market with their more modern takes on banking and other financial services, a startup that’s building technology to help incumbent players better compete is announcing a big round of funding. 10x Fu…*
       
-  - Formative, a student learning and analytics platform, raises $70M to challenge the summative, test-based approach to education
+  - Biden admin will share more info with online platforms on 'front lines' of domestic terror fight
       <hr/>
       
-      - *Tests are king in many school systems and other educational environments: they are seen as an efficient way to assess what knowledge students have retained, and how well they do on a level playing field where everyone has the same exam to take. Some, however,…*
+      - *The Biden administration is outlining new plans to combat domestic terrorism in light of the January 6 attack on the U.S. Capitol and social media companies have their own part to play. The White House released a new national strategy on countering domestic t…*
       
-  - Twitter is eyeing new anti-abuse tools to give users more control over mentions
+  - FamPay, a fintech aimed at teens in India, raises $38 million
       <hr/>
       
-      - *Twitter is looking at adding new features that could help users who are facing abusive situations on its platform as a result of unwanted attention pile-ons, such as when a tweet goes viral for a reason they didn’t expect and a full firehose of counter tweets…*
+      - *How big is the market in India for a neobank aimed at teenagers? Scores of high-profile investors are backing a startup to find out. Bangalore-based FamPay said on Wednesday it has raised $38 million in its Series A round led by Elevation Capital. General Cat…*
        
-  - Kia and Uber partner to give drivers in 20 European markets discounts to EVs
+  - Edtech investors are flocking to SaaS guidance counselors
       <hr/>
        
-       - *Uber and Kia Europe are teaming up to offer drivers in 20 European markets deals on buying, leasing, financing or renting Kia’s e-Niro and e-Soul, the latest move by the ride-hailing giant to achieve its emissions goals.  Uber has committed to being a zero-em…*
+       - *“If you’re not going to an Ivy League, which is most of the world, you need better support than just going to a website.”*
       
 
 <br />
