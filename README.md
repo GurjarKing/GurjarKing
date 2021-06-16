@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Lordstown Motors execs cite binding orders to restore confidence a day after CEO, CFO resignations
+  - Gloat raises $57M to reinvent the internal job board
      <hr/>
      
-      - *Lordstown Motors has enough ‘binding orders’ from customers to fund limited production of its electric pickup truck through May 2022, executives at the company said Tuesday just a a day after an executive shakeup that included the resignation of the company’s…*
+      - *A lot of the focus in recruitment these days has been on better technology to connect people to job opportunities at new organizations, but that also leaves a wide opening to focus on one of the other big funnels for finding work: internal transfers. Today, a…*
      
-  - 10x, a UK fintech, raises $187M to build new services for old banks
+  - Polestar to build its first all-electric SUV in the United States
       <hr/>
       
-      - *As so-called neobanks continue to gain more traction in the market with their more modern takes on banking and other financial services, a startup that’s building technology to help incumbent players better compete is announcing a big round of funding. 10x Fu…*
+      - *Polestar, Volvo Car Group’s standalone electric performance brand, will manufacture its first all-electric SUV in the United States. The automaker said Wednesday that the Polestar 3 will be assembled at a plant shared with Volvo Cars at a factory in Ridgevill…*
       
-  - Biden admin will share more info with online platforms on 'front lines' of domestic terror fight
+  - Denmark's Templafy raises $60M for its B2B SaaS platform that does business document creation
       <hr/>
       
-      - *The Biden administration is outlining new plans to combat domestic terrorism in light of the January 6 attack on the U.S. Capitol and social media companies have their own part to play. The White House released a new national strategy on countering domestic t…*
+      - *Templafy, a Denmark-born B2B SaaS platform that does business document creation, has raised a $60 million D round of funding led by Blue Cloud Ventures. All previous investors also participated, including Insight Partners, Seed Capital, Dawn Capital and Damga…*
       
-  - FamPay, a fintech aimed at teens in India, raises $38 million
+  - Trigo bags $10M for computer-vision based checkout tech to rival Amazon's 'Just Walk Out'
       <hr/>
       
-      - *How big is the market in India for a neobank aimed at teenagers? Scores of high-profile investors are backing a startup to find out. Bangalore-based FamPay said on Wednesday it has raised $38 million in its Series A round led by Elevation Capital. General Cat…*
+      - *While Amazon continues to expand its self-service, computer-vision-based grocery checkout technology by bringing it to bigger stores, an AI startup out of Israel that’s built something to rival it has picked up funding and a new strategic investor as a custom…*
        
-  - Edtech investors are flocking to SaaS guidance counselors
+  - Early-stage venture firm The Fund launches in Australia
       <hr/>
        
-       - *“If you’re not going to an Ivy League, which is most of the world, you need better support than just going to a website.”*
+       - *The Fund, the early-stage investment firm focused on pre-seed and seed startups, is going Down Under for its latest expansion. The Fund was founded in New York in 2018, before launching in Los Angeles, London, the Rockies and the Midwest, too. Co-founder Jenn…*
       
 
 <br />
