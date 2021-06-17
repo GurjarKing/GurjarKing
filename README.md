@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - A look inside Google’s first store, opening in NYC’s Chelsea neighborhood tomorrow
+  - Beamery raises $138M at an $800M valuation for its 'operating system for recruitment'
      <hr/>
      
-      - *There have been plenty of pop-ups over the years, but tomorrow Google’s first store opens in NYC’s Chelsea neighborhood. The brick and mortar model finds the company joining peers like Apple, Microsoft, Samsung and even Amazon, all of whom have a retail prese…*
+      - *Online job listings were one of the first things to catch on in the first generation of the internet. But that has, ironically, also meant that some of the most-used digital recruitment services around today are also some of the least evolved in terms of tapp…*
      
-  - Tractable raises $60M at a $1B valuation to make damage appraisals using AI
+  - A Senate proposal for a new US agency to protect Americans' data is back
       <hr/>
       
-      - *As the insurance industry adjusts to life in the 21st century (heh), an AI startup that has built computer vision tools to enable remote damage appraisals is announcing a significant round of growth funding. Tractable, which works with automotive insurance co…*
+      - *Democratic Senator Kirsten Gillibrand has revived a bill that would establish a new U.S. federal agency to shield Americans from the invasive practices of tech companies operating in their own backyard. Last year, Gillibrand (D-NY) introduced the Data Protect…*
       
-  - Amazon deflects responsibility on fake reviews but admits 200M were blocked last year
+  - Airspeeder wants to make electric flying racing cars a reality in 2021
       <hr/>
       
-      - *Amazon admits it has a fake review problem, but does its best to spread the blame around in a new post detailing the issue. After numerous reports for years that the online retail giant is overrun with knock-off products and faked or farmed reviews, the compa…*
+      - *While much of the eVTOL industry has its sights set on urban air taxis or cargo transportation, entrepreneur Matthew Pearson had another idea: electric flying race cars. So in 2019, he founded two companies, Alauda Aeronautics to manufacture the aircraft and …*
       
-  - Daily Crunch: iOS 15 is latest milestone on Apple Health's evolutionary path
+  - Insurtech AI startup Akur8 closes $30M Series B
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Automating insurance claims is a big business, and the world of AI is coming at it ‘full pelt’. The latest is Akur8, an insurtech automating insurance platform whose ‘Transparent AI’ product is trying to eat into the incumbent large business of Willis Towers …*
        
-  - E3 2021 wrap-up
+  - Kenyan foodtech startup Kune raises $1M pre-seed for its ready-to-eat meals service
       <hr/>
        
-       - *E3 2021 kicked off with news about E3 2022. Kind of a funny way to start a show, as Mayor Eric Garcetti told the crowd, “we look forward to seeing you in-person, here in the City of Angels, in 2022.” Also a bit funny when the mayor’s video game show announcem…*
+       - *While there has been a wave of innovation in food tech worldwide, it’s still in early days for Africa. There are only a handful of African food-tech startups, and a year and a half’s worth of global pandemic has added a couple to that list. Kune is one of the…*
       
 
 <br />
