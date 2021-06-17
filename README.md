@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Gloat raises $57M to reinvent the internal job board
+  - A look inside Google’s first store, opening in NYC’s Chelsea neighborhood tomorrow
      <hr/>
      
-      - *A lot of the focus in recruitment these days has been on better technology to connect people to job opportunities at new organizations, but that also leaves a wide opening to focus on one of the other big funnels for finding work: internal transfers. Today, a…*
+      - *There have been plenty of pop-ups over the years, but tomorrow Google’s first store opens in NYC’s Chelsea neighborhood. The brick and mortar model finds the company joining peers like Apple, Microsoft, Samsung and even Amazon, all of whom have a retail prese…*
      
-  - Polestar to build its first all-electric SUV in the United States
+  - Tractable raises $60M at a $1B valuation to make damage appraisals using AI
       <hr/>
       
-      - *Polestar, Volvo Car Group’s standalone electric performance brand, will manufacture its first all-electric SUV in the United States. The automaker said Wednesday that the Polestar 3 will be assembled at a plant shared with Volvo Cars at a factory in Ridgevill…*
+      - *As the insurance industry adjusts to life in the 21st century (heh), an AI startup that has built computer vision tools to enable remote damage appraisals is announcing a significant round of growth funding. Tractable, which works with automotive insurance co…*
       
-  - Denmark's Templafy raises $60M for its B2B SaaS platform that does business document creation
+  - Amazon deflects responsibility on fake reviews but admits 200M were blocked last year
       <hr/>
       
-      - *Templafy, a Denmark-born B2B SaaS platform that does business document creation, has raised a $60 million D round of funding led by Blue Cloud Ventures. All previous investors also participated, including Insight Partners, Seed Capital, Dawn Capital and Damga…*
+      - *Amazon admits it has a fake review problem, but does its best to spread the blame around in a new post detailing the issue. After numerous reports for years that the online retail giant is overrun with knock-off products and faked or farmed reviews, the compa…*
       
-  - Trigo bags $10M for computer-vision based checkout tech to rival Amazon's 'Just Walk Out'
+  - Daily Crunch: iOS 15 is latest milestone on Apple Health's evolutionary path
       <hr/>
       
-      - *While Amazon continues to expand its self-service, computer-vision-based grocery checkout technology by bringing it to bigger stores, an AI startup out of Israel that’s built something to rival it has picked up funding and a new strategic investor as a custom…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
        
-  - Early-stage venture firm The Fund launches in Australia
+  - E3 2021 wrap-up
       <hr/>
        
-       - *The Fund, the early-stage investment firm focused on pre-seed and seed startups, is going Down Under for its latest expansion. The Fund was founded in New York in 2018, before launching in Los Angeles, London, the Rockies and the Midwest, too. Co-founder Jenn…*
+       - *E3 2021 kicked off with news about E3 2022. Kind of a funny way to start a show, as Mayor Eric Garcetti told the crowd, “we look forward to seeing you in-person, here in the City of Angels, in 2022.” Also a bit funny when the mayor’s video game show announcem…*
       
 
 <br />
