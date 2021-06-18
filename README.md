@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Delivery service Gopuff acquires rideOS for $115 million-plus
+  - Tiger Global in talks to back BharatPe at $2.5 billion valuation
      <hr/>
      
-      - *On-demand goods, food and alcohol delivery service Gopuff has acquired fleet management platform rideOS for $115 million to $125 million, sources familiar with the deal say. This acquisition comes just a few months after the Philadelphia-based startup announc…*
+      - *Indian fintech startup BharatPe is in advanced stages of talks to raise about $250 million in a new financing round led by Tiger Global, two sources familiar with the matter told TechCrunch. The new round, a Series E, is valuing the three-year-old New Delhi-h…*
      
+  - UK's ICO warns over 'big data' surveillance threat of live facial recognition in public
+      <hr/>
+      
+      - *The UK’s chief data protection regulator has warned over reckless and inappropriate use of live facial recognition (LFR) in public places. Publishing an opinion today on the use of this biometric surveillance in public — to set out what is dubbed as the “rule…*
+      
+  - Ford acquires Electriphi as it prepares to woo EV fleet customers
+      <hr/>
+      
+      - *Ford has two electric vehicles in the pipeline —  the E-Transit cargo van and F-150 Lighting Pro —aimed at commercial customers. Now, the automaker is rounding out its future EV commercial business with the acquisition of battery management and fleet monitori…*
+      
+  - Delivery service Gopuff acquires rideOS for $115 million-plus
+      <hr/>
+      
+      - *On-demand goods, food and alcohol delivery service Gopuff has acquired fleet management platform rideOS for $115 million to $125 million, sources familiar with the deal say. This acquisition comes just a few months after the Philadelphia-based startup announc…*
+       
   - Spotify acquires Podz, a podcast discovery platform
       <hr/>
-      
-      - *Podcasts are all the rage, but podcast discovery is a challenge. Today, Spotify announced its acquisition of Podz, a startup that’s trying to solve the problem of podcast discovery. “At Spotify, we are investing to build and scale the world’s best (and most p…*
-      
-  - KeepTruckin raises $190 million to invest in AI products, double R&D team to 700
-      <hr/>
-      
-      - *KeepTruckin, a hardware and software developer that helps trucking fleets manage vehicle, cargo and driver safety, has just raised $190 million in a Series E funding round, which puts the company’s valuation at $2 billion, according to CEO Shoaib Makani.  G2 …*
-      
-  - Daily Crunch: Google's first retail location opened today in NYC
-      <hr/>
-      
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
        
-  - Canoo wants to connect owners to all of their vehicles — not just Canoo's
-      <hr/>
-       
-       - *Electric vehicle startup Canoo detailed some of the features that may be on its app on Thursday, foremost of which is a one-stop shop functionality that customers could use for their Canoo vehicles – and all their other cars, as well. This unusual approach to…*
+       - *Podcasts are all the rage, but podcast discovery is a challenge. Today, Spotify announced its acquisition of Podz, a startup that’s trying to solve the problem of podcast discovery. “At Spotify, we are investing to build and scale the world’s best (and most p…*
       
 
 <br />
