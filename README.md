@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Beamery raises $138M at an $800M valuation for its 'operating system for recruitment'
+  - Delivery service Gopuff acquires rideOS for $115 million-plus
      <hr/>
      
-      - *Online job listings were one of the first things to catch on in the first generation of the internet. But that has, ironically, also meant that some of the most-used digital recruitment services around today are also some of the least evolved in terms of tapp…*
+      - *On-demand goods, food and alcohol delivery service Gopuff has acquired fleet management platform rideOS for $115 million to $125 million, sources familiar with the deal say. This acquisition comes just a few months after the Philadelphia-based startup announc…*
      
-  - A Senate proposal for a new US agency to protect Americans' data is back
+  - Spotify acquires Podz, a podcast discovery platform
       <hr/>
       
-      - *Democratic Senator Kirsten Gillibrand has revived a bill that would establish a new U.S. federal agency to shield Americans from the invasive practices of tech companies operating in their own backyard. Last year, Gillibrand (D-NY) introduced the Data Protect…*
+      - *Podcasts are all the rage, but podcast discovery is a challenge. Today, Spotify announced its acquisition of Podz, a startup that’s trying to solve the problem of podcast discovery. “At Spotify, we are investing to build and scale the world’s best (and most p…*
       
-  - Airspeeder wants to make electric flying racing cars a reality in 2021
+  - KeepTruckin raises $190 million to invest in AI products, double R&D team to 700
       <hr/>
       
-      - *While much of the eVTOL industry has its sights set on urban air taxis or cargo transportation, entrepreneur Matthew Pearson had another idea: electric flying race cars. So in 2019, he founded two companies, Alauda Aeronautics to manufacture the aircraft and …*
+      - *KeepTruckin, a hardware and software developer that helps trucking fleets manage vehicle, cargo and driver safety, has just raised $190 million in a Series E funding round, which puts the company’s valuation at $2 billion, according to CEO Shoaib Makani.  G2 …*
       
-  - Insurtech AI startup Akur8 closes $30M Series B
+  - Daily Crunch: Google's first retail location opened today in NYC
       <hr/>
       
-      - *Automating insurance claims is a big business, and the world of AI is coming at it ‘full pelt’. The latest is Akur8, an insurtech automating insurance platform whose ‘Transparent AI’ product is trying to eat into the incumbent large business of Willis Towers …*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
        
-  - Kenyan foodtech startup Kune raises $1M pre-seed for its ready-to-eat meals service
+  - Canoo wants to connect owners to all of their vehicles — not just Canoo's
       <hr/>
        
-       - *While there has been a wave of innovation in food tech worldwide, it’s still in early days for Africa. There are only a handful of African food-tech startups, and a year and a half’s worth of global pandemic has added a couple to that list. Kune is one of the…*
+       - *Electric vehicle startup Canoo detailed some of the features that may be on its app on Thursday, foremost of which is a one-stop shop functionality that customers could use for their Canoo vehicles – and all their other cars, as well. This unusual approach to…*
       
 
 <br />
