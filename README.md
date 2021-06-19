@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Tiger Global in talks to back BharatPe at $2.5 billion valuation
+  - Daily Crunch: Spotify and Ford make acquisitions
      <hr/>
      
-      - *Indian fintech startup BharatPe is in advanced stages of talks to raise about $250 million in a new financing round led by Tiger Global, two sources familiar with the matter told TechCrunch. The new round, a Series E, is valuing the three-year-old New Delhi-h…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
      
-  - UK's ICO warns over 'big data' surveillance threat of live facial recognition in public
+  - Extra Crunch roundup: influencer marketing 101, spotting future unicorns, Apple AirTags teardown
       <hr/>
       
-      - *The UK’s chief data protection regulator has warned over reckless and inappropriate use of live facial recognition (LFR) in public places. Publishing an opinion today on the use of this biometric surveillance in public — to set out what is dubbed as the “rule…*
+      - *We're off today to celebrate the Juneteenth holiday in the United States. I hope you have a safe and relaxing weekend.*
       
-  - Ford acquires Electriphi as it prepares to woo EV fleet customers
+  - Perspectives on tackling Big Tech's market power
       <hr/>
       
-      - *Ford has two electric vehicles in the pipeline —  the E-Transit cargo van and F-150 Lighting Pro —aimed at commercial customers. Now, the automaker is rounding out its future EV commercial business with the acquisition of battery management and fleet monitori…*
+      - *The need for markets-focused competition watchdogs and consumer-centric privacy regulators to think outside their respective ‘legal silos’ and find creative ways to work together to tackle the challenge of big tech market power was the impetus for a couple of…*
       
-  - Delivery service Gopuff acquires rideOS for $115 million-plus
+  - Mediflash is a freelancer marketplace for health professionals
       <hr/>
       
-      - *On-demand goods, food and alcohol delivery service Gopuff has acquired fleet management platform rideOS for $115 million to $125 million, sources familiar with the deal say. This acquisition comes just a few months after the Philadelphia-based startup announc…*
+      - *Meet Mediflash, a new French startup that wants to improve temp staffing in healthcare facilities, such as nursing homes, clinics and mental health facilities. The company positions itself as an alternative to traditional temp staffing agencies. They claim to…*
        
-  - Spotify acquires Podz, a podcast discovery platform
+  - Owning the paycheck is the key to fintech success
       <hr/>
        
-       - *Podcasts are all the rage, but podcast discovery is a challenge. Today, Spotify announced its acquisition of Podz, a startup that’s trying to solve the problem of podcast discovery. “At Spotify, we are investing to build and scale the world’s best (and most p…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. This week, Natasha and Danny, otherwise known as your two new favorite Book influencers (inside joke, you’ll get if you listen to…*
       
 
 <br />
