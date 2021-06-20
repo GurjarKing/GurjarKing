@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Investors say Eindhoven poised to become Netherlands' No. 2 tech hub
+  - Dollars, deals and the importance of nondilutive capital
      <hr/>
      
-      - *Our survey respondents said Eindhoven might not immediately spring to mind as a high-tech hub, but the Netherlands city is keen to position itself as a center for deep tech in Europe.*
+      - *Today, on Juneteenth, we recognize the efforts this nation still needs to put toward addressing structural racism and disparities, including in the world of tech. This week, HBCUvc, a nonprofit that aims to diversify the world of venture capital, launched a m…*
      
+  - This Week in Apps: Spotify debuts a Clubhouse rival, Facebook tests Audio Rooms in US, Amazon cuts Appstore commissions
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      
+  - Investors say Eindhoven poised to become Netherlands' No. 2 tech hub
+      <hr/>
+      
+      - *Our survey respondents said Eindhoven might not immediately spring to mind as a high-tech hub, but the Netherlands city is keen to position itself as a center for deep tech in Europe.*
+      
   - Daily Crunch: Spotify and Ford make acquisitions
       <hr/>
       
       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
-      
+       
   - Extra Crunch roundup: influencer marketing 101, spotting future unicorns, Apple AirTags teardown
       <hr/>
-      
-      - *We're off today to celebrate the Juneteenth holiday in the United States. I hope you have a safe and relaxing weekend.*
-      
-  - Perspectives on tackling Big Tech's market power
-      <hr/>
-      
-      - *The need for markets-focused competition watchdogs and consumer-centric privacy regulators to think outside their respective ‘legal silos’ and find creative ways to work together to tackle the challenge of big tech market power was the impetus for a couple of…*
        
-  - Mediflash is a freelancer marketplace for health professionals
-      <hr/>
-       
-       - *Meet Mediflash, a new French startup that wants to improve temp staffing in healthcare facilities, such as nursing homes, clinics and mental health facilities. The company positions itself as an alternative to traditional temp staffing agencies. They claim to…*
+       - *We're off today to celebrate the Juneteenth holiday in the United States. I hope you have a safe and relaxing weekend.*
       
 
 <br />
