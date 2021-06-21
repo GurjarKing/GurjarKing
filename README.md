@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Crypto finance startup Amber Group raises $100M at $1B valuation
+  - The Station: Waymo nabs more capital, Cruise taps a $5B credit line and hints about Argo's future
      <hr/>
      
-      - *More mainstream venture capital firms are jumping on the crypto bandwagon as investors increasingly consider bitcoin an investable asset, despite the recent massive price drops of a few major cryptocurrencies. Amber Group, a Hong Kong-based cryptocurrency tra…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packa…*
      
-  - Dollars, deals and the importance of nondilutive capital
+  - DataRails books $25M more to build better financial reporting tools for SMBs
       <hr/>
       
-      - *Today, on Juneteenth, we recognize the efforts this nation still needs to put toward addressing structural racism and disparities, including in the world of tech. This week, HBCUvc, a nonprofit that aims to diversify the world of venture capital, launched a m…*
+      - *As enterprise startups continue to target interesting gaps in the market, we’re seeing increasingly sophisticated tools getting built for small and medium businesses — traditionally a tricky segment to sell to, too small for large enterprise tools, and too ad…*
       
-  - This Week in Apps: Spotify debuts a Clubhouse rival, Facebook tests Audio Rooms in US, Amazon cuts Appstore commissions
+  - Revolut revenue grew by 57% in 2020
       <hr/>
       
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      - *Fintech startup Revolut has filed some financial results and is sharing details with the press. In 2020, the company reported $361 million in revenue (£261 million) — that’s a 57% increase compared to 2019 revenue of $229 million (£166 million). Interestingly…*
       
-  - Investors say Eindhoven poised to become Netherlands' No. 2 tech hub
+  - Facebook officially launches Live Audio Rooms and podcasts in the U.S.
       <hr/>
       
-      - *Our survey respondents said Eindhoven might not immediately spring to mind as a high-tech hub, but the Netherlands city is keen to position itself as a center for deep tech in Europe.*
+      - *In April, Facebook announced a series of planned investments in new audio products, including a Clubhouse live audio competitor as well as new support for podcasts. Today, Facebook is officially rolling these products with the launch of Live Audio Rooms in th…*
        
-  - Daily Crunch: Spotify and Ford make acquisitions
+  - Apple's App Store to face scrutiny in Germany as FCO opens 'market power' proceeding
       <hr/>
        
-       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+       - *Germany’s competition authority, the FCO, has completed its Big Tech GAFA ‘bingo’ card by opening a proceeding against Apple. As with similar investigations already opened this year — into Amazon, Facebook and Google — the proceeding will determine whether or…*
       
 
 <br />
