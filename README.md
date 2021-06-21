@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Dollars, deals and the importance of nondilutive capital
+  - Crypto finance startup Amber Group raises $100M at $1B valuation
      <hr/>
      
-      - *Today, on Juneteenth, we recognize the efforts this nation still needs to put toward addressing structural racism and disparities, including in the world of tech. This week, HBCUvc, a nonprofit that aims to diversify the world of venture capital, launched a m…*
+      - *More mainstream venture capital firms are jumping on the crypto bandwagon as investors increasingly consider bitcoin an investable asset, despite the recent massive price drops of a few major cryptocurrencies. Amber Group, a Hong Kong-based cryptocurrency tra…*
      
+  - Dollars, deals and the importance of nondilutive capital
+      <hr/>
+      
+      - *Today, on Juneteenth, we recognize the efforts this nation still needs to put toward addressing structural racism and disparities, including in the world of tech. This week, HBCUvc, a nonprofit that aims to diversify the world of venture capital, launched a m…*
+      
   - This Week in Apps: Spotify debuts a Clubhouse rival, Facebook tests Audio Rooms in US, Amazon cuts Appstore commissions
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Our survey respondents said Eindhoven might not immediately spring to mind as a high-tech hub, but the Netherlands city is keen to position itself as a center for deep tech in Europe.*
-      
+       
   - Daily Crunch: Spotify and Ford make acquisitions
       <hr/>
-      
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
        
-  - Extra Crunch roundup: influencer marketing 101, spotting future unicorns, Apple AirTags teardown
-      <hr/>
-       
-       - *We're off today to celebrate the Juneteenth holiday in the United States. I hope you have a safe and relaxing weekend.*
+       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
 
 <br />
