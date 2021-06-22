@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Mobile commerce startup Via rounds up $15 million in Series A funding
+  - EU is now investigating Google's adtech over antitrust concerns
      <hr/>
      
-      - *Mobile commerce is where it’s at, and rising investment in so-called conversational commerce startups underscores the opportunity. Via, a two-year-old, Bay Area-based startup, is among those riding the wave, having identified some trends that are becoming cle…*
+      - *EU antitrust authorities are finally taking a broad and deep look into Google’s adtech stack and role in the online ad market — confirming today that they’ve opened a formal investigation. Google has already been subject to three major EU antitrust enforcemen…*
      
-  - Facebook's entry into VR advertising isn't going too well
+  - A.I. drug discovery platform Insilico Medicine announces $255 million in Series C funding
       <hr/>
       
-      - *Facebook’s efforts to bring advertising to the Oculus virtual reality platform it has spent billions of dollars building out doesn’t seem to be off to a great start. The company announced last week that they were planning to roll out their first in-game ads i…*
+      - *Insilico Medicine, an A.I-based platform for drug development and discovery announced $255 million in Series C financing on Tuesday. The massive round is reflective of a recent breakthrough for the company: proof that it’s A.I based platform can create a new …*
       
-  - Daily Crunch: Facebook rolls out podcasts and Live Audio Rooms for US listeners
+  - EU puts out final guidance on data transfers to third countries
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *The European Data Protection Board (EDPB) published its final recommendations yesterday setting on guidance for making transfers of personal data to third countries to comply with EU data protection rules in light of last summer’s landmark CJEU ruling (aka Sc…*
       
-  - What does Red Hat's sale to IBM tell us about Couchbase's valuation?
+  - Transmit Security raises $543M Series A to kill off the password
       <hr/>
       
-      - *Couchbase could double its valuation provided that investors are more interested in its faster-than-Red Hat growth than they are worried about its history of cash consumption and growing net losses.*
+      - *The Boston-based passwordless security startup said it has a pre-money valuation of $2.2 billion.*
        
-  - Twitch suspends two popular female creators over sexy ASMR streams
+  - Hamburger-flipping robotics company Miso introduces an automated beverage dispenser
       <hr/>
        
-       - *Popular Twitch streamers Amouranth and Indiefoxx are the two latest casualties of Twitch’s ongoing battle to enforce its own confusing rules around sexually suggestive content. Both creators were suspended following ASMR streams that pushed the bounds of Twit…*
+       - *How do you follow up a burger-flipping robot? If you’re Miso Robotics (which you likely are, if you’ve created a burger-flipping robot), the answer is simple: beverages. The robotics startup continues to focus on the fast food service industry with the planne…*
       
 
 <br />
