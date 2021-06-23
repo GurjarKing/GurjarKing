@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - EU is now investigating Google's adtech over antitrust concerns
+  - Holy Grail raises $2.7M seed fund to create modular carbon capture devices
      <hr/>
      
-      - *EU antitrust authorities are finally taking a broad and deep look into Google’s adtech stack and role in the online ad market — confirming today that they’ve opened a formal investigation. Google has already been subject to three major EU antitrust enforcemen…*
+      - *The founders of Holy Grail, a two-year old startup based in Cupertino, California, are taking a micro approach to solving the outsized problem of capturing carbon. The startup is prototyping a direct air carbon capture device that it is modular and small — a …*
      
-  - A.I. drug discovery platform Insilico Medicine announces $255 million in Series C funding
+  - Extra Crunch roundup: SaaS founder salaries, break-even neobanks, Google Search tips
       <hr/>
       
-      - *Insilico Medicine, an A.I-based platform for drug development and discovery announced $255 million in Series C financing on Tuesday. The massive round is reflective of a recent breakthrough for the company: proof that it’s A.I based platform can create a new …*
+      - *If you're a founder who's getting ready to knock on doors and ask strangers for money, read this first.*
       
-  - EU puts out final guidance on data transfers to third countries
+  - Daily Crunch: Transmit Security's $543M Series A is one for the record books
       <hr/>
       
-      - *The European Data Protection Board (EDPB) published its final recommendations yesterday setting on guidance for making transfers of personal data to third countries to comply with EU data protection rules in light of last summer’s landmark CJEU ruling (aka Sc…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Transmit Security raises $543M Series A to kill off the password
+  - Investor Marlon Nichols and Wonderschool’s Chris Bennett on getting to the point with a pitch deck
       <hr/>
       
-      - *The Boston-based passwordless security startup said it has a pre-money valuation of $2.2 billion.*
+      - *Investor Marlon Nichols and founder Chris Bennett review Wonderschool's original pitch deck.*
        
-  - Hamburger-flipping robotics company Miso introduces an automated beverage dispenser
+  - Viva Republica, developer of Korean financial super app Toss, raises $410M at a $7.4B valuation
       <hr/>
        
-       - *How do you follow up a burger-flipping robot? If you’re Miso Robotics (which you likely are, if you’ve created a burger-flipping robot), the answer is simple: beverages. The robotics startup continues to focus on the fast food service industry with the planne…*
+       - *Viva Republica, the Seoul-based fintech company behind Toss, a super app with more than 40 financial services, announced today it has raised $410 million at a post-money valuation of $7.4 billion. The new funding was led by Alkeon Capital, an American investm…*
       
 
 <br />
