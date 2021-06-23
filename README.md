@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Holy Grail raises $2.7M seed fund to create modular carbon capture devices
+  - TikTok's Chinese nemesis Kuaishou hits 1 billion monthly users worldwide
      <hr/>
      
-      - *The founders of Holy Grail, a two-year old startup based in Cupertino, California, are taking a micro approach to solving the outsized problem of capturing carbon. The startup is prototyping a direct air carbon capture device that it is modular and small — a …*
+      - *It’s a big day for Kuaishou, TikTok’s largest rival in China. The Chinese short video company, known overseas for one of its video apps Kwai, announced it has sailed past the one billion monthly active user (MAU) mark. How big is that? Facebook’s MAUs stood a…*
      
-  - Extra Crunch roundup: SaaS founder salaries, break-even neobanks, Google Search tips
+  - Mitiga raises $25M Series A to help organizations respond to cyberattacks
       <hr/>
       
-      - *If you're a founder who's getting ready to knock on doors and ask strangers for money, read this first.*
+      - *The funding comes less than a year after its $7M seed round.*
       
-  - Daily Crunch: Transmit Security's $543M Series A is one for the record books
+  - International coalition joins the call to ban 'surveillance advertising'
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *An international coalition of consumer protection, digital and civil rights organizations and data protection experts has added its voice to growing calls for a ban on what’s been billed as “surveillance-based advertising”. The objection is to a form of digit…*
       
-  - Investor Marlon Nichols and Wonderschool’s Chris Bennett on getting to the point with a pitch deck
+  - Golden Ventures raises $100M fourth fund and $20M opportunities fund
       <hr/>
       
-      - *Investor Marlon Nichols and founder Chris Bennett review Wonderschool's original pitch deck.*
+      - *Canadian early stage venture firm Golden Ventures has raised its fourth fund, a $100 million pool of capital that it will use to invest in between 20 to 25 companies, as well as a $20 million ‘Opportunities Fund’ that it will use to make follow-on investments…*
        
-  - Viva Republica, developer of Korean financial super app Toss, raises $410M at a $7.4B valuation
+  - Aircall raises $120 million for its cloud-based phone system
       <hr/>
        
-       - *Viva Republica, the Seoul-based fintech company behind Toss, a super app with more than 40 financial services, announced today it has raised $410 million at a post-money valuation of $7.4 billion. The new funding was led by Alkeon Capital, an American investm…*
+       - *Aircall has raised a $120 million Series D round led by Goldman Sachs Asset Management. Following today’s funding round, the company has reached unicorn status, which means it has a valuation above $1 billion — this is the 16th French unicorn. The startup has…*
       
 
 <br />
