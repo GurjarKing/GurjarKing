@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok's Chinese nemesis Kuaishou hits 1 billion monthly users worldwide
+  - AdTech startup Tomi raises Seed funding to make real estate ads perform as well as ecommerce
      <hr/>
      
-      - *It’s a big day for Kuaishou, TikTok’s largest rival in China. The Chinese short video company, known overseas for one of its video apps Kwai, announced it has sailed past the one billion monthly active user (MAU) mark. How big is that? Facebook’s MAUs stood a…*
+      - *Industries like real estate, automotive, and financial services have long and offline sales cycles and digital advertising tends not to perform well in these areas. The conversion rates are low and because the real-world assets are offline the temptation of a…*
      
-  - Mitiga raises $25M Series A to help organizations respond to cyberattacks
+  - Daily Crunch: AWS and Salesforce expand partnership to make cross-platform integrations easier
       <hr/>
       
-      - *The funding comes less than a year after its $7M seed round.*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - International coalition joins the call to ban 'surveillance advertising'
+  - You can share tweets directly to Instagram Stories now
       <hr/>
       
-      - *An international coalition of consumer protection, digital and civil rights organizations and data protection experts has added its voice to growing calls for a ban on what’s been billed as “surveillance-based advertising”. The objection is to a form of digit…*
+      - *It’s a little thing, but one worth savoring. If you’re tired of your Instagram feed mostly being a chaotic mashup of screencapped tweets and reshared TikToks, well, those things probably aren’t going away but one is about to look a lot better. Twitter just ad…*
       
-  - Golden Ventures raises $100M fourth fund and $20M opportunities fund
+  - Bird launches shared e-bikes and opens its app to local shared operators
       <hr/>
       
-      - *Canadian early stage venture firm Golden Ventures has raised its fourth fund, a $100 million pool of capital that it will use to invest in between 20 to 25 companies, as well as a $20 million ‘Opportunities Fund’ that it will use to make follow-on investments…*
+      - *Bird has announced the launch of shared e-bikes to its fleet of e-scooters, which it says can be found in over 250 cities around the world. The shared micromobility provider is also launching a so-called ‘Smart Bikeshare’ platform that allows local shared bik…*
        
-  - Aircall raises $120 million for its cloud-based phone system
+  - Nvidia's Canvas AI painting tool instantly turns blobs into realistic landscapes
       <hr/>
        
-       - *Aircall has raised a $120 million Series D round led by Goldman Sachs Asset Management. Following today’s funding round, the company has reached unicorn status, which means it has a valuation above $1 billion — this is the 16th French unicorn. The startup has…*
+       - *AI has been filling in the gaps for illustrators and photographers for years now — literally, it intelligently fills gaps with visual content. But the latest tools are aimed at letting an AI give artists a hand from the earliest, blank-canvas stages of a piec…*
       
 
 <br />
