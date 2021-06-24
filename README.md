@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - AdTech startup Tomi raises Seed funding to make real estate ads perform as well as ecommerce
+  - Firebolt raises $127M more for its new approach to cheaper and more efficient big data analytics
      <hr/>
      
-      - *Industries like real estate, automotive, and financial services have long and offline sales cycles and digital advertising tends not to perform well in these areas. The conversion rates are low and because the real-world assets are offline the temptation of a…*
+      - *Snowflake changed the conversation for many companies when it comes to the potentials of data warehousing. Now one of the startups that’s hoping to disrupt the disruptor is announcing a big round of funding to expand its own business. Firebolt, which has buil…*
      
-  - Daily Crunch: AWS and Salesforce expand partnership to make cross-platform integrations easier
+  - Zero trust unicorn Illumio closes $225M Series F led by Thoma Bravo
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *The zero-trust company is now valued at $2.75 billion.*
       
-  - You can share tweets directly to Instagram Stories now
+  - Google and Jio Platforms announce JioPhone Next, an affordable Android smartphone
       <hr/>
       
-      - *It’s a little thing, but one worth savoring. If you’re tired of your Instagram feed mostly being a chaotic mashup of screencapped tweets and reshared TikToks, well, those things probably aren’t going away but one is about to look a lot better. Twitter just ad…*
+      - *Jio Platforms, run by India’s richest man (Mukesh Ambani), and Google on Thursday unveiled JioPhone Next, an affordable Android smartphone as the top Indian telecom operator makes further push to make it more affordable for people to sign up to its network. T…*
       
-  - Bird launches shared e-bikes and opens its app to local shared operators
+  - Paid Time Off startup Sorbet reels-in another $15M inside three months
       <hr/>
       
-      - *Bird has announced the launch of shared e-bikes to its fleet of e-scooters, which it says can be found in over 250 cities around the world. The shared micromobility provider is also launching a so-called ‘Smart Bikeshare’ platform that allows local shared bik…*
+      - *US/Israeli startup, Sorbet – which helps companies de-risk themselves against accrued paid time off (PTO) by employees — has raised another $15M, in a round led By Dovi Frances’ Group 11, not long after a $6 million seed round only last April. Sorbet says it …*
        
-  - Nvidia's Canvas AI painting tool instantly turns blobs into realistic landscapes
+  - Wise (formerly TransferWise) confirms direct listing on the LSE in early July, reportedly at a $6B-$7B valuation
       <hr/>
        
-       - *AI has been filling in the gaps for illustrators and photographers for years now — literally, it intelligently fills gaps with visual content. But the latest tools are aimed at letting an AI give artists a hand from the earliest, blank-canvas stages of a piec…*
+       - *Following Wise’s announcement earlier this month that it planned to go public by way of a direct listing on the LSE, today the company made the news formal with a regulatory filing. The London-based company — formerly known as TransferWise and primarily in th…*
       
 
 <br />
