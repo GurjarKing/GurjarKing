@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Kayak co-founder Paul English just launched Moonbeam, a podcast discovery app
+  - FAA clears Virgin Galactic for commercial astronaut spaceflight
      <hr/>
      
-      - *Podcast downloads have boomed over the last year, and Kayak co-founder and tech entrepreneur Paul English became an avid, daily listener. But anyone who loves podcasts knows that podcast discovery can be challenging. Even the top streaming apps like Apple Pod…*
+      - *The U.S. Federal Aviation Administration (FAA) has given Virgin Galactic the green light to begin transporting commercial passengers to space aboard its VSS spacecraft. This is an expansion of the company’s existing license, which had granted it permission to…*
      
-  - Archer Aviation hits back against rival Wisk Aero's request for injunction in trade secret suit
+  - Circle wants to help companies access DeFi lending markets with new API
       <hr/>
       
-      - *Archer Aviation is ramping up its defense against claims by rival Wisk Aero that it misappropriated trade secrets. Archer, which unveiled its Maker eVTOL earlier this month, alleged in a court filing late Wednesday that Wisk learned of Archer’s aircraft desig…*
+      - *Cryptocurrency company Circle has announced that it plans to launch a new API for companies using Circle accounts to manage crypto assets — and in particular USDC stablecoins. The new API will let companies access decentralized finance (DeFi) protocols starti…*
       
-  - Daily Crunch: Google and Jio Platforms unveil 'extremely optimized Android' phone for Indian consumers
+  - Amazon and Google face UK CMA probe over fake reviews
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *The UK’s competition watchdog, the CMA, has opened another investigation into Big Tech — this one targeted at Amazon and Google over how well they handle (or, well, don’t) fake reviews. The Competition and Markets Authority has taken an interest in online rev…*
       
-  - Nixie's drone-based water sampling could save cities time and money
+  - Indian online learning giant Unacademy in talks to acquire Rheo TV
       <hr/>
       
-      - *Regularly testing waterways and reservoirs is a never-ending responsibility for utility companies and municipal safety authorities, and generally — as you might expect — involves either a boat or at least a pair of waders. Nixie does the job with a drone inst…*
+      - *Indian online learning platform Unacademy is in advanced talks to acquire Rheo TV, a less than two-year-old startup founded by two former Unacademy employees, according to three sources familiar with the matter. The current deal values Rheo TV, a startup that…*
        
-  - Sneaker marketplace GOAT hits $3.7 billion valuation in Series F raise
+  - Gotrade gets $7M led by LocalGlobe to let investors around the world buy fractional shares of U.S. stocks
       <hr/>
        
-       - *Sneaker and streetwear empire GOAT just doubled its valuation in a massive new raise. The GOAT Group parent company shared today that it has raised $195 million in a Series F raise valuing the fashion giant at some $3.7 billion. The raise was led by a handful…*
+       - *Stock in many American companies, like Amazon, Alphabet or Tesla, can host hundreds or thousands of dollars per share. Fractional trading, or buying part of a single share through a brokerage, makes them more accessible—at least to people within the United St…*
       
 
 <br />
