@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Firebolt raises $127M more for its new approach to cheaper and more efficient big data analytics
+  - Kayak co-founder Paul English just launched Moonbeam, a podcast discovery app
      <hr/>
      
-      - *Snowflake changed the conversation for many companies when it comes to the potentials of data warehousing. Now one of the startups that’s hoping to disrupt the disruptor is announcing a big round of funding to expand its own business. Firebolt, which has buil…*
+      - *Podcast downloads have boomed over the last year, and Kayak co-founder and tech entrepreneur Paul English became an avid, daily listener. But anyone who loves podcasts knows that podcast discovery can be challenging. Even the top streaming apps like Apple Pod…*
      
-  - Zero trust unicorn Illumio closes $225M Series F led by Thoma Bravo
+  - Archer Aviation hits back against rival Wisk Aero's request for injunction in trade secret suit
       <hr/>
       
-      - *The zero-trust company is now valued at $2.75 billion.*
+      - *Archer Aviation is ramping up its defense against claims by rival Wisk Aero that it misappropriated trade secrets. Archer, which unveiled its Maker eVTOL earlier this month, alleged in a court filing late Wednesday that Wisk learned of Archer’s aircraft desig…*
       
-  - Google and Jio Platforms announce JioPhone Next, an affordable Android smartphone
+  - Daily Crunch: Google and Jio Platforms unveil 'extremely optimized Android' phone for Indian consumers
       <hr/>
       
-      - *Jio Platforms, run by India’s richest man (Mukesh Ambani), and Google on Thursday unveiled JioPhone Next, an affordable Android smartphone as the top Indian telecom operator makes further push to make it more affordable for people to sign up to its network. T…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Paid Time Off startup Sorbet reels-in another $15M inside three months
+  - Nixie's drone-based water sampling could save cities time and money
       <hr/>
       
-      - *US/Israeli startup, Sorbet – which helps companies de-risk themselves against accrued paid time off (PTO) by employees — has raised another $15M, in a round led By Dovi Frances’ Group 11, not long after a $6 million seed round only last April. Sorbet says it …*
+      - *Regularly testing waterways and reservoirs is a never-ending responsibility for utility companies and municipal safety authorities, and generally — as you might expect — involves either a boat or at least a pair of waders. Nixie does the job with a drone inst…*
        
-  - Wise (formerly TransferWise) confirms direct listing on the LSE in early July, reportedly at a $6B-$7B valuation
+  - Sneaker marketplace GOAT hits $3.7 billion valuation in Series F raise
       <hr/>
        
-       - *Following Wise’s announcement earlier this month that it planned to go public by way of a direct listing on the LSE, today the company made the news formal with a regulatory filing. The London-based company — formerly known as TransferWise and primarily in th…*
+       - *Sneaker and streetwear empire GOAT just doubled its valuation in a massive new raise. The GOAT Group parent company shared today that it has raised $195 million in a Series F raise valuing the fashion giant at some $3.7 billion. The raise was led by a handful…*
       
 
 <br />
