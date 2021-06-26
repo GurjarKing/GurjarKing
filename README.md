@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - FAA clears Virgin Galactic for commercial astronaut spaceflight
+  - Another U.S. investor -- Activant Capital -  is opening an office in Europe as the continent heats up
      <hr/>
      
-      - *The U.S. Federal Aviation Administration (FAA) has given Virgin Galactic the green light to begin transporting commercial passengers to space aboard its VSS spacecraft. This is an expansion of the company’s existing license, which had granted it permission to…*
+      - *Earlier this week, we caught up with Steve Sarracino the founder of the growth-equity firm Activant Capital in Greenwich, Conn., We’d last talked with Sarracino back in early April of last year, as people around the world were being forced into their homes by…*
      
-  - Circle wants to help companies access DeFi lending markets with new API
+  - On TikTok, Black creators' dance strike calls out creative exploitation
       <hr/>
       
-      - *Cryptocurrency company Circle has announced that it plans to launch a new API for companies using Circle accounts to manage crypto assets — and in particular USDC stablecoins. The new API will let companies access decentralized finance (DeFi) protocols starti…*
+      - *There’s a new Megan Thee Stallion music video out in time for triple digit temperatures. But instead of launching a fresh viral TikTok dance for summer, the single inspired an informal protest among Black creators tired of thanklessly launching trends into th…*
       
-  - Amazon and Google face UK CMA probe over fake reviews
+  - Daily Crunch: With Wickr purchase, AWS enters the encrypted messaging business
       <hr/>
       
-      - *The UK’s competition watchdog, the CMA, has opened another investigation into Big Tech — this one targeted at Amazon and Google over how well they handle (or, well, don’t) fake reviews. The Competition and Markets Authority has taken an interest in online rev…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Indian online learning giant Unacademy in talks to acquire Rheo TV
+  - Extra Crunch roundup: Unpacking BuzzFeed's SPAC, curb your meeting enthusiasm, more
       <hr/>
       
-      - *Indian online learning platform Unacademy is in advanced talks to acquire Rheo TV, a less than two-year-old startup founded by two former Unacademy employees, according to three sources familiar with the matter. The current deal values Rheo TV, a startup that…*
+      - *There's a kernel of truth in every joke, so whenever someone quips, "This meeting could have been an email!" you can bet that some small part of them meant it sincerely.*
        
-  - Gotrade gets $7M led by LocalGlobe to let investors around the world buy fractional shares of U.S. stocks
+  - Nanofabricated 'tetrakaidecahedrons' could out-bulletproof kevlar
       <hr/>
        
-       - *Stock in many American companies, like Amazon, Alphabet or Tesla, can host hundreds or thousands of dollars per share. Fractional trading, or buying part of a single share through a brokerage, makes them more accessible—at least to people within the United St…*
+       - *Researchers at MIT and Caltech have created a nano-engineered material that could be tougher than the likes of kevlar or steel. Made of interconnected carbon “tetrakaidecahedrons,” the material absorbed the impact of microscopic bullets in spectacular fashion…*
       
 
 <br />
