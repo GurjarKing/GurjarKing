@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Another U.S. investor -- Activant Capital -  is opening an office in Europe as the continent heats up
+  - 8 founders, leaders highlight fintech and deep tech as Bristol's top sectors
      <hr/>
      
-      - *Earlier this week, we caught up with Steve Sarracino the founder of the growth-equity firm Activant Capital in Greenwich, Conn., We’d last talked with Sarracino back in early April of last year, as people around the world were being forced into their homes by…*
+      - *Bristol proved especially popular among tech investors last year — local businesses raked in an impressive $414 million in 2020, making it the third-largest U.K. city for tech investment.*
      
+  - Another U.S. investor -- Activant Capital -  is opening an office in Europe as the continent heats up
+      <hr/>
+      
+      - *Earlier this week, we caught up with Steve Sarracino the founder of the growth-equity firm Activant Capital in Greenwich, Conn., We’d last talked with Sarracino back in early April of last year, as people around the world were being forced into their homes by…*
+      
   - On TikTok, Black creators' dance strike calls out creative exploitation
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
-      
+       
   - Extra Crunch roundup: Unpacking BuzzFeed's SPAC, curb your meeting enthusiasm, more
       <hr/>
-      
-      - *There's a kernel of truth in every joke, so whenever someone quips, "This meeting could have been an email!" you can bet that some small part of them meant it sincerely.*
        
-  - Nanofabricated 'tetrakaidecahedrons' could out-bulletproof kevlar
-      <hr/>
-       
-       - *Researchers at MIT and Caltech have created a nano-engineered material that could be tougher than the likes of kevlar or steel. Made of interconnected carbon “tetrakaidecahedrons,” the material absorbed the impact of microscopic bullets in spectacular fashion…*
+       - *There's a kernel of truth in every joke, so whenever someone quips, "This meeting could have been an email!" you can bet that some small part of them meant it sincerely.*
       
 
 <br />
