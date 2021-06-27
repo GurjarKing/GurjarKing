@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - 8 founders, leaders highlight fintech and deep tech as Bristol's top sectors
+  - This Week in Apps: Android apps on Windows 11, App Store Search Ads hit China, Apple argues against sideloading
      <hr/>
      
-      - *Bristol proved especially popular among tech investors last year — local businesses raked in an impressive $414 million in 2020, making it the third-largest U.K. city for tech investment.*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
      
-  - Another U.S. investor -- Activant Capital -  is opening an office in Europe as the continent heats up
+  - Do tech mafias need a modern refresh?
       <hr/>
       
-      - *Earlier this week, we caught up with Steve Sarracino the founder of the growth-equity firm Activant Capital in Greenwich, Conn., We’d last talked with Sarracino back in early April of last year, as people around the world were being forced into their homes by…*
+      - *Rumor has it, if you whisper mafia to a venture capitalist or tech reporter, a seed investment and headline appears within minutes. That process quickly turns into seconds if the mafia reference includes the letters S, T, R, I, P and E before it. Tech mafias,…*
       
-  - On TikTok, Black creators' dance strike calls out creative exploitation
+  - Everyone wants to invest in open-source startups now
       <hr/>
       
-      - *There’s a new Megan Thee Stallion music video out in time for triple digit temperatures. But instead of launching a fresh viral TikTok dance for summer, the single inspired an informal protest among Black creators tired of thanklessly launching trends into th…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
       
-  - Daily Crunch: With Wickr purchase, AWS enters the encrypted messaging business
+  - Startup leaders need to learn how to build companies ready for crisis
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *It’s been a tough year for business. From ransomware attacks and power outages to cloud downtime and supply-chain disruptions, it’s never been more important to communicate to customers and stakeholders about what’s going wrong and why. Yet, with partial data…*
        
-  - Extra Crunch roundup: Unpacking BuzzFeed's SPAC, curb your meeting enthusiasm, more
+  - Equity Extras: Q&A from the live show
       <hr/>
        
-       - *There's a kernel of truth in every joke, so whenever someone quips, "This meeting could have been an email!" you can bet that some small part of them meant it sincerely.*
+       - *Hey Equity fam, we have a small clip of extra for you today. After our live show — listen to the recording here, it was good fun — we got to take a few questions from the audience, audio that was not included in the main episode as we didn’t have the time. Bu…*
       
 
 <br />
