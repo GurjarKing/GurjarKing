@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - This Week in Apps: Android apps on Windows 11, App Store Search Ads hit China, Apple argues against sideloading
+  - Egypt's Minly raises $3.6M to connect celebrities and fans through personalized experiences
      <hr/>
      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      - *In the past year, we’ve seen a growing trend of creators adopting digital and social media, not just as a supplement to their media presence but also as a cornerstone of their personal brand. The pandemic has surely accelerated creator economy trends. Many po…*
      
+  - This Week in Apps: Android apps on Windows 11, App Store Search Ads hit China, Apple argues against sideloading
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      
   - Do tech mafias need a modern refresh?
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
-      
+       
   - Startup leaders need to learn how to build companies ready for crisis
       <hr/>
-      
-      - *It’s been a tough year for business. From ransomware attacks and power outages to cloud downtime and supply-chain disruptions, it’s never been more important to communicate to customers and stakeholders about what’s going wrong and why. Yet, with partial data…*
        
-  - Equity Extras: Q&A from the live show
-      <hr/>
-       
-       - *Hey Equity fam, we have a small clip of extra for you today. After our live show — listen to the recording here, it was good fun — we got to take a few questions from the audience, audio that was not included in the main episode as we didn’t have the time. Bu…*
+       - *It’s been a tough year for business. From ransomware attacks and power outages to cloud downtime and supply-chain disruptions, it’s never been more important to communicate to customers and stakeholders about what’s going wrong and why. Yet, with partial data…*
       
 
 <br />
