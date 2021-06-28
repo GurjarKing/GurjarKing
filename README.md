@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Egypt's Minly raises $3.6M to connect celebrities and fans through personalized experiences
+  - Robotic beverage maker Botrista raises $10M
      <hr/>
      
-      - *In the past year, we’ve seen a growing trend of creators adopting digital and social media, not just as a supplement to their media presence but also as a cornerstone of their personal brand. The pandemic has surely accelerated creator economy trends. Many po…*
+      - *Drink making probably isn’t at the top of your list of jobs most likely to be fully automated. The past year-and-a-half have, however, brought into stark relief how large a role robotics could play in the food service industry. I’ve said it time and again on …*
      
-  - This Week in Apps: Android apps on Windows 11, App Store Search Ads hit China, Apple argues against sideloading
+  - Thursday snags $3.5M for a dating app that's live once a week
       <hr/>
       
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      - *Thursday, a dating app that wants to solve problems created by, well, too much time spent using dating apps, had raised a £2.5 million (~$3.5M) seed investment — a few months after launching (in May) its single-matching service in London and New York (and rac…*
       
-  - Do tech mafias need a modern refresh?
+  - Jiji acquires Cars45 as it looks to build a future outside classifieds
       <hr/>
       
-      - *Rumor has it, if you whisper mafia to a venture capitalist or tech reporter, a seed investment and headline appears within minutes. That process quickly turns into seconds if the mafia reference includes the letters S, T, R, I, P and E before it. Tech mafias,…*
+      - *Once heralded as disruptive marketplaces, classifieds are giving way to transactional marketplaces. Yet, some classifieds in the West like eBay have evolved with time, acquiring competition operating both models. In Africa, this occurrence is happening in par…*
       
-  - Everyone wants to invest in open-source startups now
+  - PayMaya owner Voyager Innovation raises $167M from KKR, Tencent and IFC, to launch digital bank in the Philippines
       <hr/>
       
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *Voyager Innovations, the Manila-based owner of PayMaya, one of the Philippines’ most popular payment and financial services apps, announced today it has raised $167 million in new funding to launch more financial services, including a digital bank. The raise …*
        
-  - Startup leaders need to learn how to build companies ready for crisis
+  - Vietnamese investment app Infina lands $2M seed round
       <hr/>
        
-       - *It’s been a tough year for business. From ransomware attacks and power outages to cloud downtime and supply-chain disruptions, it’s never been more important to communicate to customers and stakeholders about what’s going wrong and why. Yet, with partial data…*
+       - *The pandemic has spurred interest in saving and investment apps around the world, especially ones geared toward newer investors. In Southeast Asia, startups in this space that have raised funding over the past few months include Ajaib, Bibit and Stashaway—and…*
       
 
 <br />
