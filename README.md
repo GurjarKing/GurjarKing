@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Harness Wealth raises $15 million to democratize the power of family offices
+  - SpaceX plans to use its Starlink internet on Starship orbital launch to demonstrate connection quality
      <hr/>
      
-      - *Family offices have existed since the 1800s, but they’ve never been so manifold as in recent years. According to a 2019 Global Family Office Report by UBS and Campden Wealth, 68% of the 360 family offices surveyed were founded in 2000 or later. Their rise owe…*
+      - *SpaceX’s upcoming Starship orbital test flight could end up being a veritable smorgasbord of its technological capabilities, as the company has filed with the Federal Communications Commission (FCC) to request approval to fly Starlink terminals on the spacecr…*
      
-  - Duolingo just filed to go public
+  - Connected vehicle data startup Wejo partners with Microsoft, Palantir, Sompo
       <hr/>
       
-      - *Duolingo, a Pittsburgh-based language learning business last valued at $2.4 billion, has officially filed to go public. The 400-person company, which we explored in great detail in our EC-1, was co-founded by Luis von Ahn, the inventor of CAPTCHA and reCAPTCH…*
+      - *Connected vehicle data startup Wejo has announced partnerships with Microsoft, Palantir and Sompo Holdings to improve its ability to collect, store and analyze data from millions of connected vehicles around the world.  This follows the GM-backed startup’s an…*
       
-  - Daily Crunch: SpaceX announces tentative plans to launch first orbital flight next month
+  - DevOps platform JFrog acquires AI-based IoT and connected device security specialist Vdoo for $300M
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *JFrog, the company best known for a platform that helps developers continuously manage software delivery and updates, is making a deal to help it expand its presence and expertise in an area that has become increasingly connected to DevOps: security. The comp…*
       
-  - Korean court sides against Netflix, opening door for streaming bandwidth fees from ISPs
+  - 2U set to acquire non-profit edX for deal north of $600M
       <hr/>
       
-      - *A court case in South Korea has ended in a loss for Netflix and a victory for ISPs in the country, which may now be empowered to levy bandwidth usage fees on traffic-gobbling streaming platforms. The decision is likely to be challenged, as it essentially sadd…*
+      - *2U, a SaaS platform that helps non-profits and colleges run online universities, plans to acquire Harvard and MIT-founded edX for a deal north of $600 million, according to multiple sources. 2U did not immediately respond to requests for comment, and its uncl…*
        
-  - MWC 2021 day one wrap-up
+  - Google debuts a new website and set of resources for Americans experiencing food insecurity
       <hr/>
        
-       - *“It is great that MWC is back,” Samsung UK’s James Kitto said, opening up this year’s presser. “And behalf of everyone at Samsung, it’s great to be back at MWC.” What, precisely, it means to be “back” in 2021 is another question entirely. Samsung was, of cour…*
+       - *Google today is launching a new suite of resources for people struggling with food insecurity across the U.S. The project includes the launch of a new website, “Find Food Support,” that connects people to food support resources, including hotlines, SNAP infor…*
       
 
 <br />
