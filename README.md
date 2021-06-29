@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Robotic beverage maker Botrista raises $10M
+  - Harness Wealth raises $15 million to democratize the power of family offices
      <hr/>
      
-      - *Drink making probably isn’t at the top of your list of jobs most likely to be fully automated. The past year-and-a-half have, however, brought into stark relief how large a role robotics could play in the food service industry. I’ve said it time and again on …*
+      - *Family offices have existed since the 1800s, but they’ve never been so manifold as in recent years. According to a 2019 Global Family Office Report by UBS and Campden Wealth, 68% of the 360 family offices surveyed were founded in 2000 or later. Their rise owe…*
      
-  - Thursday snags $3.5M for a dating app that's live once a week
+  - Duolingo just filed to go public
       <hr/>
       
-      - *Thursday, a dating app that wants to solve problems created by, well, too much time spent using dating apps, had raised a £2.5 million (~$3.5M) seed investment — a few months after launching (in May) its single-matching service in London and New York (and rac…*
+      - *Duolingo, a Pittsburgh-based language learning business last valued at $2.4 billion, has officially filed to go public. The 400-person company, which we explored in great detail in our EC-1, was co-founded by Luis von Ahn, the inventor of CAPTCHA and reCAPTCH…*
       
-  - Jiji acquires Cars45 as it looks to build a future outside classifieds
+  - Daily Crunch: SpaceX announces tentative plans to launch first orbital flight next month
       <hr/>
       
-      - *Once heralded as disruptive marketplaces, classifieds are giving way to transactional marketplaces. Yet, some classifieds in the West like eBay have evolved with time, acquiring competition operating both models. In Africa, this occurrence is happening in par…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - PayMaya owner Voyager Innovation raises $167M from KKR, Tencent and IFC, to launch digital bank in the Philippines
+  - Korean court sides against Netflix, opening door for streaming bandwidth fees from ISPs
       <hr/>
       
-      - *Voyager Innovations, the Manila-based owner of PayMaya, one of the Philippines’ most popular payment and financial services apps, announced today it has raised $167 million in new funding to launch more financial services, including a digital bank. The raise …*
+      - *A court case in South Korea has ended in a loss for Netflix and a victory for ISPs in the country, which may now be empowered to levy bandwidth usage fees on traffic-gobbling streaming platforms. The decision is likely to be challenged, as it essentially sadd…*
        
-  - Vietnamese investment app Infina lands $2M seed round
+  - MWC 2021 day one wrap-up
       <hr/>
        
-       - *The pandemic has spurred interest in saving and investment apps around the world, especially ones geared toward newer investors. In Southeast Asia, startups in this space that have raised funding over the past few months include Ajaib, Bibit and Stashaway—and…*
+       - *“It is great that MWC is back,” Samsung UK’s James Kitto said, opening up this year’s presser. “And behalf of everyone at Samsung, it’s great to be back at MWC.” What, precisely, it means to be “back” in 2021 is another question entirely. Samsung was, of cour…*
       
 
 <br />
