@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Toca Football raises $40 million to fuel its budding chain of giant soccer and entertainment facilities
+  - Watch Virgin Orbit's first rocket launch live stream
      <hr/>
      
-      - *Toca Football, a nine-year-old, Costa Mesa, Ca.-based company that operates 14 sports centers across the U.S. that are focused on soccer training, has raised $40 million in Series E funding to roughly double the number of facilities that are now up and runnin…*
+      - *Virgin Orbit is set to launch a payload that includes satellites it’s delivering for tis first commercial customers. The launch is set to happen sometime within a launch window that opens at 6 AM PT (9 AM ET) and continues through 8 AM PT (11 AM ET), taking o…*
      
-  - Lollipop AI launches online grocery marketplace where you can build your own recipes
+  - Dream Games raises $155M at a $1B valuation as its Royal Match puzzle game hits a royal flush
       <hr/>
       
-      - *As I’ve taken to online grocery shopping over the pandemic, I’ve always wondered by supermarkets didn’t offer simple ‘recipe’ features would have automatically collected up items for a homemade meal, automatically. It seemed an opportunity missed. But it is m…*
+      - *Istanbul in Turkey continues to prove itself as very fertile ground for casual gaming startups, which appear to be growing from small seedlings into sizable trees. In the latest development, Dream Games — a developer of mobile puzzle games — has raised $155 m…*
       
-  - MWC 2021 day two: Is this thing on?
+  - Noname Security closes $60M Series B to eliminate API flaws
       <hr/>
       
-      - *Listen, it’s probably not the best sign when a show feels like it’s running out of steam on its first day. Mobile World Congress’ opening salvo was headlined by Samsung in an event that touched on some partnerships and spent equal time teasing an upcoming eve…*
+      - *The startup has raised $85 million since emerging from stealth in 2020.*
       
-  - Daily Crunch: Language-learning app Duolingo translates strong revenues into IPO filing
+  - Shogun, a front end e-commerce page builder, nabs $67.5M as retailers look for alternatives to marketplaces
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *E-commerce marketplaces continue to play a major role in how consumers buy goods online and how retailers show off and sell goods to those consumers, accounting globally for 47% of all e-commerce sales. But today, one of the startups that has built technology…*
        
-  - Rimac Automobili founder Mate Rimac shares lessons from bootstrapping an EV company
+  - Apple and Snap partner JigSpace, the 'Canva for 3D,' raises a $4.7M Series A
       <hr/>
        
-       - *"They didn't want to touch Croatia, like 'Where the hell is that?' It was quite a ride."*
+       - *When former Art Director Zac Duff started teaching a game development course online in 2015, he faced the same challenges that teachers around the globe have become all too familiar with after a pandemic-induced lockdown. So, he used his experience in 3D desi…*
       
 
 <br />
