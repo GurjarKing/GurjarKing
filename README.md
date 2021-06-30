@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - SpaceX plans to use its Starlink internet on Starship orbital launch to demonstrate connection quality
+  - Toca Football raises $40 million to fuel its budding chain of giant soccer and entertainment facilities
      <hr/>
      
-      - *SpaceX’s upcoming Starship orbital test flight could end up being a veritable smorgasbord of its technological capabilities, as the company has filed with the Federal Communications Commission (FCC) to request approval to fly Starlink terminals on the spacecr…*
+      - *Toca Football, a nine-year-old, Costa Mesa, Ca.-based company that operates 14 sports centers across the U.S. that are focused on soccer training, has raised $40 million in Series E funding to roughly double the number of facilities that are now up and runnin…*
      
-  - Connected vehicle data startup Wejo partners with Microsoft, Palantir, Sompo
+  - Lollipop AI launches online grocery marketplace where you can build your own recipes
       <hr/>
       
-      - *Connected vehicle data startup Wejo has announced partnerships with Microsoft, Palantir and Sompo Holdings to improve its ability to collect, store and analyze data from millions of connected vehicles around the world.  This follows the GM-backed startup’s an…*
+      - *As I’ve taken to online grocery shopping over the pandemic, I’ve always wondered by supermarkets didn’t offer simple ‘recipe’ features would have automatically collected up items for a homemade meal, automatically. It seemed an opportunity missed. But it is m…*
       
-  - DevOps platform JFrog acquires AI-based IoT and connected device security specialist Vdoo for $300M
+  - MWC 2021 day two: Is this thing on?
       <hr/>
       
-      - *JFrog, the company best known for a platform that helps developers continuously manage software delivery and updates, is making a deal to help it expand its presence and expertise in an area that has become increasingly connected to DevOps: security. The comp…*
+      - *Listen, it’s probably not the best sign when a show feels like it’s running out of steam on its first day. Mobile World Congress’ opening salvo was headlined by Samsung in an event that touched on some partnerships and spent equal time teasing an upcoming eve…*
       
-  - 2U set to acquire non-profit edX for deal north of $600M
+  - Daily Crunch: Language-learning app Duolingo translates strong revenues into IPO filing
       <hr/>
       
-      - *2U, a SaaS platform that helps non-profits and colleges run online universities, plans to acquire Harvard and MIT-founded edX for a deal north of $600 million, according to multiple sources. 2U did not immediately respond to requests for comment, and its uncl…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
        
-  - Google debuts a new website and set of resources for Americans experiencing food insecurity
+  - Rimac Automobili founder Mate Rimac shares lessons from bootstrapping an EV company
       <hr/>
        
-       - *Google today is launching a new suite of resources for people struggling with food insecurity across the U.S. The project includes the launch of a new website, “Find Food Support,” that connects people to food support resources, including hotlines, SNAP infor…*
+       - *"They didn't want to touch Croatia, like 'Where the hell is that?' It was quite a ride."*
       
 
 <br />
