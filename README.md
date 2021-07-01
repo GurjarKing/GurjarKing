@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Nodes & Links raises $11M to — maybe — save billions on the big projects the world needs now
+  - Mercado Bitcoin, Brazil's first crypto exchange, raises $200M from SoftBank
      <hr/>
      
-      - *Nodes & Links is a scheduling platform for large-scale infrastructure projects which works out when the nuts and bolts for the bridge (for example) should be delivered, and in what order. Unsurprisingly, complex infrastructure projects often gets this wrong. …*
+      - *Mercado Bitcoin, a Latin American digital assets exchange, has raised $200 million in Series B funding from the SoftBank Latin America Fund. The round values 2TM Group, Mercado Bitcoin’s non-operating parent company, at $2.1 billion, ranking it among the top …*
      
-  - VividQ, which has raised $15M, says it can turn normal screens into holographic displays
+  - Tiger Global in talks to back Indian fintech Yap
       <hr/>
       
-      - *VividQ, a UK-based deeptech startup with technology for rendering holograms on legacy screens, has raised $15 million to develop its technology for next-generation digital displays and devices. And it’s already lining up manufacturing partners in the US, Chin…*
+      - *Tiger Global is in advanced stages of talks to back Indian embedded finance startup Yap, according to more than half a dozen people familiar with the matter. The New York-headquartered firm is in talks to lead a $35 million financing round in Yap — also known…*
       
-  - Daily Crunch: Insecure server exposes Byju’s students' names, phone numbers, emails and more
+  - Instant grocery startup Getir makes its first acquisition to expand into Spain and Italy
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Getir, the startup based out of Turkey that has built a $7.5 billion business out a mobile app that lets consumers buy groceries and get them delivered in minutes, has grown its business up to now organically: targeting urban markets across Europe (and soon t…*
       
-  - Lego should snap up this rapid-fire brick-finding iOS app
+  - Goodbye CVs — As work went remote, companies flocked to a startup dumping CVs for skill tests
       <hr/>
       
-      - *Lego has worked extremely closely with Apple over the years, experimenting with unreleased iOS tech and demoing it onstage at launch events like WWDC; this has included some pretty heavy tinkering on the augmented reality ARKit platform which they’ve integrat…*
+      - *As companies scrambled to re-orient themselves last year during the pandemic, one thing was clear: the shift to remote working had come sooner than anyone expected. With this came a fundamental shift in how businesses would have to hire new talent. And the qu…*
        
-  - Dispense with the chasm? No way!
+  - Germany's icon group VC bets $30M to back startups enabling traditional companies to pivot
       <hr/>
        
-       - *Pragmatic customers are being forced to adopt because they are under duress. It is not that they buy into the vision of software eating the world. It is because their very own lunches are being eaten.*
+       - *Icon group is a new $30M VC fund being launched out of Germany’s iconmobile group, a WPP network agency. This means a reorganization of the company from a full-service innovation agency into also offering VC backing. iconmobile has garnered a reputation as an…*
       
 
 <br />
