@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Watch Virgin Orbit's first rocket launch live stream
+  - Nodes & Links raises $11M to — maybe — save billions on the big projects the world needs now
      <hr/>
      
-      - *Virgin Orbit is set to launch a payload that includes satellites it’s delivering for tis first commercial customers. The launch is set to happen sometime within a launch window that opens at 6 AM PT (9 AM ET) and continues through 8 AM PT (11 AM ET), taking o…*
+      - *Nodes & Links is a scheduling platform for large-scale infrastructure projects which works out when the nuts and bolts for the bridge (for example) should be delivered, and in what order. Unsurprisingly, complex infrastructure projects often gets this wrong. …*
      
-  - Dream Games raises $155M at a $1B valuation as its Royal Match puzzle game hits a royal flush
+  - VividQ, which has raised $15M, says it can turn normal screens into holographic displays
       <hr/>
       
-      - *Istanbul in Turkey continues to prove itself as very fertile ground for casual gaming startups, which appear to be growing from small seedlings into sizable trees. In the latest development, Dream Games — a developer of mobile puzzle games — has raised $155 m…*
+      - *VividQ, a UK-based deeptech startup with technology for rendering holograms on legacy screens, has raised $15 million to develop its technology for next-generation digital displays and devices. And it’s already lining up manufacturing partners in the US, Chin…*
       
-  - Noname Security closes $60M Series B to eliminate API flaws
+  - Daily Crunch: Insecure server exposes Byju’s students' names, phone numbers, emails and more
       <hr/>
       
-      - *The startup has raised $85 million since emerging from stealth in 2020.*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Shogun, a front end e-commerce page builder, nabs $67.5M as retailers look for alternatives to marketplaces
+  - Lego should snap up this rapid-fire brick-finding iOS app
       <hr/>
       
-      - *E-commerce marketplaces continue to play a major role in how consumers buy goods online and how retailers show off and sell goods to those consumers, accounting globally for 47% of all e-commerce sales. But today, one of the startups that has built technology…*
+      - *Lego has worked extremely closely with Apple over the years, experimenting with unreleased iOS tech and demoing it onstage at launch events like WWDC; this has included some pretty heavy tinkering on the augmented reality ARKit platform which they’ve integrat…*
        
-  - Apple and Snap partner JigSpace, the 'Canva for 3D,' raises a $4.7M Series A
+  - Dispense with the chasm? No way!
       <hr/>
        
-       - *When former Art Director Zac Duff started teaching a game development course online in 2015, he faced the same challenges that teachers around the globe have become all too familiar with after a pandemic-induced lockdown. So, he used his experience in 3D desi…*
+       - *Pragmatic customers are being forced to adopt because they are under duress. It is not that they buy into the vision of software eating the world. It is because their very own lunches are being eaten.*
       
 
 <br />
