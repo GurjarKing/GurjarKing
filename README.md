@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Mercado Bitcoin, Brazil's first crypto exchange, raises $200M from SoftBank
+  - Branson aims to beat Bezos to orbit in final stretch of billionaire space race
      <hr/>
      
-      - *Mercado Bitcoin, a Latin American digital assets exchange, has raised $200 million in Series B funding from the SoftBank Latin America Fund. The round values 2TM Group, Mercado Bitcoin’s non-operating parent company, at $2.1 billion, ranking it among the top …*
+      - *Two billionaires are neck and neck in the final sprint to the Kármán line, but Richard Branson may clinch it with a July 11 flight on a Virgin Galactic spacecraft, narrowly beating out Jeff Bezos’s planned July 20 trip aboard a Blue Origin New Shepard capsule…*
      
-  - Tiger Global in talks to back Indian fintech Yap
+  - Twitter tests more attention-grabbing misinformation labels
       <hr/>
       
-      - *Tiger Global is in advanced stages of talks to back Indian embedded finance startup Yap, according to more than half a dozen people familiar with the matter. The New York-headquartered firm is in talks to lead a $35 million financing round in Yap — also known…*
+      - *Twitter is considering changes to the way it contextualizes misleading tweets that the company doesn’t believe are dangerous enough to be removed from the platform outright. The company announced the test in a tweet Thursday with an image of the new misinform…*
       
-  - Instant grocery startup Getir makes its first acquisition to expand into Spain and Italy
+  - Edtech startup Microverse raises $12.5M to bring income share agreements to the developing world
       <hr/>
       
-      - *Getir, the startup based out of Turkey that has built a $7.5 billion business out a mobile app that lets consumers buy groceries and get them delivered in minutes, has grown its business up to now organically: targeting urban markets across Europe (and soon t…*
+      - *Edtech startup Microverse has tapped new venture funding in its quest to help train students across the globe to code through its online school that requires zero upfront cost, instead relying on an income-share agreement that kicks in when students find a jo…*
       
-  - Goodbye CVs — As work went remote, companies flocked to a startup dumping CVs for skill tests
+  - Daily Crunch: After quarters of explosive growth, a profitable Robinhood files to go public
       <hr/>
       
-      - *As companies scrambled to re-orient themselves last year during the pandemic, one thing was clear: the shift to remote working had come sooner than anyone expected. With this came a fundamental shift in how businesses would have to hire new talent. And the qu…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
        
-  - Germany's icon group VC bets $30M to back startups enabling traditional companies to pivot
+  - The 2021 edtech avalanche has just begun
       <hr/>
        
-       - *Icon group is a new $30M VC fund being launched out of Germany’s iconmobile group, a WPP network agency. This means a reorganization of the company from a full-service innovation agency into also offering VC backing. iconmobile has garnered a reputation as an…*
+       - *We are seeing a wave of private companies sweeping across parts of education and training that were previously overseen or funded centrally by governments. This is happening all across the world.*
       
 
 <br />
