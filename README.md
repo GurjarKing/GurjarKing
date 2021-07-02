@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Branson aims to beat Bezos to orbit in final stretch of billionaire space race
+  - India's Licious raises $192 million for international expansion
      <hr/>
      
-      - *Two billionaires are neck and neck in the final sprint to the Kármán line, but Richard Branson may clinch it with a July 11 flight on a Virgin Galactic spacecraft, narrowly beating out Jeff Bezos’s planned July 20 trip aboard a Blue Origin New Shepard capsule…*
+      - *Licious, a Bangalore-based startup that sells fresh meat and seafood online, has raised $192 million in a new financing round as it looks to expand its footprint beyond the South Asian market. The new round — a Series F — was led by Singapore’s investment fir…*
      
-  - Twitter tests more attention-grabbing misinformation labels
+  - Swedish gaming giant acquires India's PlaySimple for $360 million
       <hr/>
       
-      - *Twitter is considering changes to the way it contextualizes misleading tweets that the company doesn’t believe are dangerous enough to be removed from the platform outright. The company announced the test in a tweet Thursday with an image of the new misinform…*
+      - *Swedish gaming giant Modern Times Group (MTG) has acquired Indian startup PlaySimple for $360 million, the two firms said Friday. MTG said it will pay 77% of the acquisition sum to Indian game developer and publisher in cash and the rest in company shares. Th…*
       
-  - Edtech startup Microverse raises $12.5M to bring income share agreements to the developing world
+  - TeamApt will use its new funding round to provide digital bank services for the unbanked
       <hr/>
       
-      - *Edtech startup Microverse has tapped new venture funding in its quest to help train students across the globe to code through its online school that requires zero upfront cost, instead relying on an income-share agreement that kicks in when students find a jo…*
+      - *A great deal has changed since we last covered Nigerian fintech startup TeamApt two years ago. At the time, the company had just closed a $5.5 million Series A round from a single VC — Quantum Capital Partners, a firm owned by Zenith Bank billionaire Jim Ovia…*
       
-  - Daily Crunch: After quarters of explosive growth, a profitable Robinhood files to go public
+  - Tiger Global leads $42M Series B in Nigerian credit-led neobank FairMoney
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Neobanks have led the charge as regards venture capital funding for consumer fintech startups. But while they have collectively dominated the fintech space, they don’t operate a monolithic model. There are five distinct models, and the one adopted by Nubank, …*
        
-  - The 2021 edtech avalanche has just begun
+  - Branson aims to beat Bezos to orbit in final stretch of billionaire space race
       <hr/>
        
-       - *We are seeing a wave of private companies sweeping across parts of education and training that were previously overseen or funded centrally by governments. This is happening all across the world.*
+       - *Two billionaires are neck and neck in the final sprint to the Kármán line, but Richard Branson may clinch it with a July 11 flight on a Virgin Galactic spacecraft, narrowly beating out Jeff Bezos’s planned July 20 trip aboard a Blue Origin New Shepard capsule…*
       
 
 <br />
