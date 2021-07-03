@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - India's Licious raises $192 million for international expansion
+  - Meet Mighty, an online platform where kid CEOs run their own storefronts; a "digital lemonade stand"
      <hr/>
      
-      - *Licious, a Bangalore-based startup that sells fresh meat and seafood online, has raised $192 million in a new financing round as it looks to expand its footprint beyond the South Asian market. The new round — a Series F — was led by Singapore’s investment fir…*
+      - *For kids of a certain age — think 9 to 15 — options for enrichment are somewhat limited to school, sports, and camps, while the ability to make money is largely non-existent. A new startup called Mighty wants to provide them with a new alternative through a p…*
      
-  - Swedish gaming giant acquires India's PlaySimple for $360 million
+  - Daily Crunch: In one of India's largest exits, Swedish media giant MTG buys PlaySimple for $360M
       <hr/>
       
-      - *Swedish gaming giant Modern Times Group (MTG) has acquired Indian startup PlaySimple for $360 million, the two firms said Friday. MTG said it will pay 77% of the acquisition sum to Indian game developer and publisher in cash and the rest in company shares. Th…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - TeamApt will use its new funding round to provide digital bank services for the unbanked
+  - This week in growth marketing on TechCrunch
       <hr/>
       
-      - *A great deal has changed since we last covered Nigerian fintech startup TeamApt two years ago. At the time, the company had just closed a $5.5 million Series A round from a single VC — Quantum Capital Partners, a firm owned by Zenith Bank billionaire Jim Ovia…*
+      - *A look back at the week's top posts, plus recommendations for growth marketers who know how to drive results.*
       
-  - Tiger Global leads $42M Series B in Nigerian credit-led neobank FairMoney
+  - Extra Crunch roundup: CEO Twitter etiquette, lifting click-through rates, edtech avalanche
       <hr/>
       
-      - *Neobanks have led the charge as regards venture capital funding for consumer fintech startups. But while they have collectively dominated the fintech space, they don’t operate a monolithic model. There are five distinct models, and the one adopted by Nubank, …*
+      - *We'll be off on Monday, July 5 in observance of Independence Day. Thanks very much for reading, and I hope you have an excellent weekend.*
        
-  - Branson aims to beat Bezos to orbit in final stretch of billionaire space race
+  - Healthcare data sharing: How to improve patient care in the future
       <hr/>
        
-       - *Two billionaires are neck and neck in the final sprint to the Kármán line, but Richard Branson may clinch it with a July 11 flight on a Virgin Galactic spacecraft, narrowly beating out Jeff Bezos’s planned July 20 trip aboard a Blue Origin New Shepard capsule…*
+       - *To truly lower costs and reduce inefficiencies, we have to abandon the existing structure and put the customer first.*
       
 
 <br />
