@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Meet Mighty, an online platform where kid CEOs run their own storefronts; a "digital lemonade stand"
+  - This Week in Apps: iOS 15 public beta arrives, Android App Bundles to replace APKs, app consumer spend hits new record
      <hr/>
      
-      - *For kids of a certain age — think 9 to 15 — options for enrichment are somewhat limited to school, sports, and camps, while the ability to make money is largely non-existent. A new startup called Mighty wants to provide them with a new alternative through a p…*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
      
-  - Daily Crunch: In one of India's largest exits, Swedish media giant MTG buys PlaySimple for $360M
+  - Welcome to hot due diligence summer
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Wow, that headline worked? A recent board fight at a digital health unicorn is a reminder to entrepreneurs that it’s important to set boundaries, even amid the dizzying volume and velocity of this summer’s deal frenzy. This week I published a scoop about how …*
       
-  - This week in growth marketing on TechCrunch
+  - A new 'digital violence' platform maps dozens of victims of NSO Group's spyware
       <hr/>
       
-      - *A look back at the week's top posts, plus recommendations for growth marketers who know how to drive results.*
+      - *Authoritarian governments have used NSO Group's spyware Pegasus to target their most outspoken critics.*
       
-  - Extra Crunch roundup: CEO Twitter etiquette, lifting click-through rates, edtech avalanche
+  - Startups, culture and riding the meme wave
       <hr/>
       
-      - *We'll be off on Monday, July 5 in observance of Independence Day. Thanks very much for reading, and I hope you have an excellent weekend.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
        
-  - Healthcare data sharing: How to improve patient care in the future
+  - Meet Mighty, an online platform where kid CEOs run their own storefronts; a "digital lemonade stand"
       <hr/>
        
-       - *To truly lower costs and reduce inefficiencies, we have to abandon the existing structure and put the customer first.*
+       - *For kids of a certain age — think 9 to 15 — options for enrichment are somewhat limited to school, sports, and camps, while the ability to make money is largely non-existent. A new startup called Mighty wants to provide them with a new alternative through a p…*
       
 
 <br />
