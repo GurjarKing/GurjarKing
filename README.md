@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - This Week in Apps: iOS 15 public beta arrives, Android App Bundles to replace APKs, app consumer spend hits new record
+  - India's Furlenco raises $140 million for its furniture and appliance renting service
      <hr/>
      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      - *Furlenco, a Bangalore-based startup that operates an eponymous furniture and appliance rental service, said today it has raised $140 million in a financing round as it looks to scale its operations in the South Asian market and explore international market ex…*
      
+  - Didi app pulled from app stores in China after suspension order
+      <hr/>
+      
+      - *China has ordered app-store operators to remove the app of Didi from their stores, the latest as tension escalates between the nation’s largest ride-hailing giant and local regulators. The app has disappeared from several stores including Apple’s App Store in…*
+      
+  - This Week in Apps: iOS 15 public beta arrives, Android App Bundles to replace APKs, app consumer spend hits new record
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      
   - Welcome to hot due diligence summer
       <hr/>
       
       - *Wow, that headline worked? A recent board fight at a digital health unicorn is a reminder to entrepreneurs that it’s important to set boundaries, even amid the dizzying volume and velocity of this summer’s deal frenzy. This week I published a scoop about how …*
-      
+       
   - A new 'digital violence' platform maps dozens of victims of NSO Group's spyware
       <hr/>
-      
-      - *Authoritarian governments have used NSO Group's spyware Pegasus to target their most outspoken critics.*
-      
-  - Startups, culture and riding the meme wave
-      <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
        
-  - Meet Mighty, an online platform where kid CEOs run their own storefronts; a "digital lemonade stand"
-      <hr/>
-       
-       - *For kids of a certain age — think 9 to 15 — options for enrichment are somewhat limited to school, sports, and camps, while the ability to make money is largely non-existent. A new startup called Mighty wants to provide them with a new alternative through a p…*
+       - *Authoritarian governments have used NSO Group's spyware Pegasus to target their most outspoken critics.*
       
 
 <br />
