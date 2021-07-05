@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - India's Furlenco raises $140 million for its furniture and appliance renting service
+  - Why former Alibaba scientist wants to back founders outside the Ivory Tower
      <hr/>
      
-      - *Furlenco, a Bangalore-based startup that operates an eponymous furniture and appliance rental service, said today it has raised $140 million in a financing round as it looks to scale its operations in the South Asian market and explore international market ex…*
+      - *Min Wanli had a career path much coveted by those pursuing a career in computer science. A prodigy, Min was accepted to a top research university in China at the age of 14. He subsequently obtained Ph.D. degrees in physics and statistics from the University o…*
      
-  - Didi app pulled from app stores in China after suspension order
+  - E-commerce logistics startup Locad gets $4.5M seed round led by Sequoia Capital India
       <hr/>
       
-      - *China has ordered app-store operators to remove the app of Didi from their stores, the latest as tension escalates between the nation’s largest ride-hailing giant and local regulators. The app has disappeared from several stores including Apple’s App Store in…*
+      - *E-commerce is booming in Southeast Asia, but in many markets, the fragmented logistics industry is struggling to catch up. This means sellers run into roadblocks when shipping to buyers, especially outside of major metropolitan areas, and managing their suppl…*
       
-  - This Week in Apps: iOS 15 public beta arrives, Android App Bundles to replace APKs, app consumer spend hits new record
+  - Tinybird turns raw data into realtime API at scale
       <hr/>
       
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+      - *Meet Tinybird, a new startup that helps developers build data products at scale without having to worry about infrastructure, query time and all those annoying issues that come up once you deal with huge data sets. The company ingests data at scale, lets you …*
       
-  - Welcome to hot due diligence summer
+  - MaxAB, the Egyptian B2B food and grocery delivery startup, raises $40M for expansion
       <hr/>
       
-      - *Wow, that headline worked? A recent board fight at a digital health unicorn is a reminder to entrepreneurs that it’s important to set boundaries, even amid the dizzying volume and velocity of this summer’s deal frenzy. This week I published a scoop about how …*
+      - *Globally, food and grocery delivery startups have been raising mega-rounds of late, especially those in Europe as the pandemic has given rise to more people ordering online more than ever. This growth has translated to an increase in volume across e-commerce …*
        
-  - A new 'digital violence' platform maps dozens of victims of NSO Group's spyware
+  - India's Furlenco raises $140 million for its furniture and appliance renting service
       <hr/>
        
-       - *Authoritarian governments have used NSO Group's spyware Pegasus to target their most outspoken critics.*
+       - *Furlenco, a Bangalore-based startup that operates an eponymous furniture and appliance rental service, said today it has raised $140 million in a financing round as it looks to scale its operations in the South Asian market and explore international market ex…*
       
 
 <br />
