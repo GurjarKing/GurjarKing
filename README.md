@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Why former Alibaba scientist wants to back founders outside the Ivory Tower
+  - Volvo, Daimler, Traton invest $593 million to build electric truck charging network
      <hr/>
      
-      - *Min Wanli had a career path much coveted by those pursuing a career in computer science. A prodigy, Min was accepted to a top research university in China at the age of 14. He subsequently obtained Ph.D. degrees in physics and statistics from the University o…*
+      - *Volvo Group, Daimler Truck and Volkswagon’s AG heavy-truck business the Traton Group announced on Monday a non-binding agreement to build a network of high-performance public charging stations for electric heavy-duty long-haul trucks and buses around Europe. …*
      
-  - E-commerce logistics startup Locad gets $4.5M seed round led by Sequoia Capital India
+  - VW offloads Bugatti to Rimac to form new EV company Bugatti-Rimac
       <hr/>
       
-      - *E-commerce is booming in Southeast Asia, but in many markets, the fragmented logistics industry is struggling to catch up. This means sellers run into roadblocks when shipping to buyers, especially outside of major metropolitan areas, and managing their suppl…*
+      - *Croatian electric supercar startup Rimac Automobili is taking over Bugatti. Rimac will own a controlling 55% share in the new company, Bugatti-Rimac, with VW’s Porsche owning the remaining 45%, according to reports by the Financial Times. “Rimac and Bugatti a…*
       
-  - Tinybird turns raw data into realtime API at scale
+  - ManoMano raises $355 million for its home improvement e-commerce platform
       <hr/>
       
-      - *Meet Tinybird, a new startup that helps developers build data products at scale without having to worry about infrastructure, query time and all those annoying issues that come up once you deal with huge data sets. The company ingests data at scale, lets you …*
+      - *French startup ManoMano has raised a Series F funding round of $355 million led by Dragoneer Investment Group. The company operates an e-commerce platform focused on DIY, home improvement and gardening products. It is currently available in six European count…*
       
-  - MaxAB, the Egyptian B2B food and grocery delivery startup, raises $40M for expansion
+  - Tom Blomfield takes first board post at Generation Home, after leaving Monzo and Angel investing
       <hr/>
       
-      - *Globally, food and grocery delivery startups have been raising mega-rounds of late, especially those in Europe as the pandemic has given rise to more people ordering online more than ever. This growth has translated to an increase in volume across e-commerce …*
+      - *Following on from mid-June when first-time buyer mortgage lending startup Generation Home raised a $30.4m Series A round and a £300m loan facility from NatWest, it’s now adding to its board. Although known for becoming an Angel investor since leaving Monzo, t…*
        
-  - India's Furlenco raises $140 million for its furniture and appliance renting service
+  - Hear top VCs Albert Wegner, Jenny Rooke, and Shilpi Kumar talk green bets at the Extreme Tech Challenge finals
       <hr/>
        
-       - *Furlenco, a Bangalore-based startup that operates an eponymous furniture and appliance rental service, said today it has raised $140 million in a financing round as it looks to scale its operations in the South Asian market and explore international market ex…*
+       - *This year, TechCrunch is proudly hosting the Extreme Tech Challenge Global Finals on July 22. The event is among the world’s largest purpose-driven startup competitions that are aiming to solve global challenges based on the United Nations’ 17 sustainability …*
       
 
 <br />
