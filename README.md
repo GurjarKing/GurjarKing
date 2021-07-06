@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Volvo, Daimler, Traton invest $593 million to build electric truck charging network
+  - FabricNano raises $12.5M to help scale its cell-free fossil fuel alternative technology
      <hr/>
      
-      - *Volvo Group, Daimler Truck and Volkswagon’s AG heavy-truck business the Traton Group announced on Monday a non-binding agreement to build a network of high-performance public charging stations for electric heavy-duty long-haul trucks and buses around Europe. …*
+      - *It’s not often that you hear DNA described as a wafer – but that’s the analogy that Grant Aarons, the founder of FabricNano, a cell-free biomanufacturing company uses to describe his company’s major product. That DNA, the company hopes, will make a dent in a …*
      
-  - VW offloads Bugatti to Rimac to form new EV company Bugatti-Rimac
+  - MAGIC Fund raises $30M to scale its global founders-backing-founders fund
       <hr/>
       
-      - *Croatian electric supercar startup Rimac Automobili is taking over Bugatti. Rimac will own a controlling 55% share in the new company, Bugatti-Rimac, with VW’s Porsche owning the remaining 45%, according to reports by the Financial Times. “Rimac and Bugatti a…*
+      - *Influential entrepreneurs like Paul Graham and Naval Ravikant always preach the need for startups to have founders-turned-investors on their cap table. As Ravikant puts it, “founders want to know that the people they are taking money from have first-hand expe…*
       
-  - ManoMano raises $355 million for its home improvement e-commerce platform
+  - Nothing’s Ear 1 earbuds will feature noise cancelling and run $99
       <hr/>
       
-      - *French startup ManoMano has raised a Series F funding round of $355 million led by Dragoneer Investment Group. The company operates an e-commerce platform focused on DIY, home improvement and gardening products. It is currently available in six European count…*
+      - *Fittingly, we don’t know a lot about Nothing. The young hardware startup has, however, done a stellar job building hype around precisely that fact. In the lead up to the July 27 launch of the company’s first product, the Ear 1, the Nothing marketing machine h…*
       
-  - Tom Blomfield takes first board post at Generation Home, after leaving Monzo and Angel investing
+  - Nothing founder Carl Pei on Ear 1 and building a hardware startup from scratch
       <hr/>
       
-      - *Following on from mid-June when first-time buyer mortgage lending startup Generation Home raised a $30.4m Series A round and a £300m loan facility from NatWest, it’s now adding to its board. Although known for becoming an Angel investor since leaving Monzo, t…*
+      - *"If we take a take a step back and think about it from a consumer perspective, we feel like, as a whole consumer, tech is quite, quite boring.">*
        
-  - Hear top VCs Albert Wegner, Jenny Rooke, and Shilpi Kumar talk green bets at the Extreme Tech Challenge finals
+  - White label fintech platform Toqio secures $9.4M Seed led by Seaya and Speedinvest
       <hr/>
        
-       - *This year, TechCrunch is proudly hosting the Extreme Tech Challenge Global Finals on July 22. The event is among the world’s largest purpose-driven startup competitions that are aiming to solve global challenges based on the United Nations’ 17 sustainability …*
+       - *The upside of the Open Banking regulations which have swept jurisdictions like the UK and the EU is that many more challenger banks have appeared. The headache for either incumbent banks or for upstart startups is the very proliferation of these new banks and…*
       
 
 <br />
