@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Extra Crunch roundup: Video pitch decks, Didi's regulatory struggles, Nothing CEO interview
+  - Outbrain raises $200 million ahead of its IPO
      <hr/>
      
-      - *The numbers don’t lie. According to DocSend, the average pitch deck is reviewed for just three minutes. And if you think a senior VC is studying the presentation your team crafted for months as if it were a Fabergé egg — well, you might be disappointed. Even …*
+      - *Outbrain, an adtech company that provides clickbait ads below news articles, has raised $200 million in funding — Outbrain didn’t disclose the valuation of the company for this deal. The Baupost Group is investing in the company — it’s a Boston-based hedge fu…*
      
-  - Daily Crunch: Nothing sets July 27 rollout for noise-canceling Ear (1) earbuds
+  - A year after expanding to Europe, Nigerian fintech Lidya raises $8.3M to scale lending operations
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Nigerian fintech and lending startup Lidya today announced that it has completed its $8.3 million pre-Series B funding round. Alitheia Capital led the investment via its uMunthu Fund. Other investors that participated include Bamboo Capital Partners, Accion V…*
       
-  - Gettr, the latest pro-Trump social network, is already a mess
+  - Satellite operator Planet to go public in $2.8B SPAC merger
       <hr/>
       
-      - *Well, that was fast. Just days after a Twitter clone from former Trump spokesperson Jason Miller launched, the new social network is already beset by problems. For one, hackers quickly leveraged Gettr’s API to scrape the email addresses of more than 85,000 of…*
+      - *Planet, which operates a network of around 200 satellites that provides Earth imaging, as well as analytics of the data derived from that observation, is going public in a merger with special purpose acquisition company (SPAC) dMY Technology Group IV. The dea…*
       
-  - Sarah Guo, Kobie Fuller & Casey Aylward headline investor panel at TC Sessions: SaaS
+  - AnyVision, the controversial facial recognition startup, has raised $235M led by SoftBank and Eldridge
       <hr/>
       
-      - *While SaaS has become the default way to deliver software in 2021, it still takes a keen eye to find the companies that will grow into successful businesses, maybe even more so with so much competition. That’s why we’re bringing together three investors to di…*
+      - *Facial recognition has been one of the more conflicted applications of artificial intelligence in the wider world: using computer vision to detect faces and subsequent identities of people has raised numerous questions about privacy, data protection, and the …*
        
-  - To stay ahead of your competitors, start building your narrative on day one
+  - Localyze raises $12M for a SaaS that supports cross-border hiring and relocation
       <hr/>
        
-       - *How do you stay ahead of your competition when you know it's only a matter of time before they copy your best features? The solution is messaging, says conversion optimization expert Peep Laja.*
+       - *Y-Combinator-backed Localyze has nabbed $12 million in Series A funding led by Blossom Capital for a SaaS that supports staff relocations and hiring across borders. Previous investor Frontline Ventures also participated,with a number of angel investors joinin…*
       
 
 <br />
