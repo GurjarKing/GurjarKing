@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - FabricNano raises $12.5M to help scale its cell-free fossil fuel alternative technology
+  - Extra Crunch roundup: Video pitch decks, Didi's regulatory struggles, Nothing CEO interview
      <hr/>
      
-      - *It’s not often that you hear DNA described as a wafer – but that’s the analogy that Grant Aarons, the founder of FabricNano, a cell-free biomanufacturing company uses to describe his company’s major product. That DNA, the company hopes, will make a dent in a …*
+      - *The numbers don’t lie. According to DocSend, the average pitch deck is reviewed for just three minutes. And if you think a senior VC is studying the presentation your team crafted for months as if it were a Fabergé egg — well, you might be disappointed. Even …*
      
-  - MAGIC Fund raises $30M to scale its global founders-backing-founders fund
+  - Daily Crunch: Nothing sets July 27 rollout for noise-canceling Ear (1) earbuds
       <hr/>
       
-      - *Influential entrepreneurs like Paul Graham and Naval Ravikant always preach the need for startups to have founders-turned-investors on their cap table. As Ravikant puts it, “founders want to know that the people they are taking money from have first-hand expe…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Nothing’s Ear 1 earbuds will feature noise cancelling and run $99
+  - Gettr, the latest pro-Trump social network, is already a mess
       <hr/>
       
-      - *Fittingly, we don’t know a lot about Nothing. The young hardware startup has, however, done a stellar job building hype around precisely that fact. In the lead up to the July 27 launch of the company’s first product, the Ear 1, the Nothing marketing machine h…*
+      - *Well, that was fast. Just days after a Twitter clone from former Trump spokesperson Jason Miller launched, the new social network is already beset by problems. For one, hackers quickly leveraged Gettr’s API to scrape the email addresses of more than 85,000 of…*
       
-  - Nothing founder Carl Pei on Ear 1 and building a hardware startup from scratch
+  - Sarah Guo, Kobie Fuller & Casey Aylward headline investor panel at TC Sessions: SaaS
       <hr/>
       
-      - *"If we take a take a step back and think about it from a consumer perspective, we feel like, as a whole consumer, tech is quite, quite boring.">*
+      - *While SaaS has become the default way to deliver software in 2021, it still takes a keen eye to find the companies that will grow into successful businesses, maybe even more so with so much competition. That’s why we’re bringing together three investors to di…*
        
-  - White label fintech platform Toqio secures $9.4M Seed led by Seaya and Speedinvest
+  - To stay ahead of your competitors, start building your narrative on day one
       <hr/>
        
-       - *The upside of the Open Banking regulations which have swept jurisdictions like the UK and the EU is that many more challenger banks have appeared. The headache for either incumbent banks or for upstart startups is the very proliferation of these new banks and…*
+       - *How do you stay ahead of your competition when you know it's only a matter of time before they copy your best features? The solution is messaging, says conversion optimization expert Peep Laja.*
       
 
 <br />
