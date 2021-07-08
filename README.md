@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - TikTok wants you to send video resumes directly to brands to land your next gig
+  - H Venture Partners closes $10M debut fund targeting science-based brands
      <hr/>
      
-      - *A new pilot program from TikTok would inject a little LinkedIn into the youthful video-based social network. TikTok announced that starting today it will invite users to submit video resumes to participating companies, including Target, Chipotle, Shopify, Mer…*
+      - *H Venture Partners brought together more than 75 consumer and retail industry experts to invest in its first fund, raising $10 million aimed at consumer brand startups backed by science.*
      
-  - BMW is finally producing its retro-futuristic CE 04 electric scooter, but at $12K will anyone buy it?
+  - Clearco gets the SoftBank stamp of approval in new $215M round
       <hr/>
       
-      - *We’ve been hearing about BMW’s electric city scooters, not to be confused with electric kick scooters, for years. The German automaker came out with the BMW Motorrad Concept Link in 2017, a concept vehicle that imagines the future of expensive micromobility. …*
+      - *Toronto-based Clearco, a fintech capital provider for online companies, has raised $215 million in a round led by SoftBank Vision Fund II. The financing event closed just weeks after Clearco completed its most recent financing, a $100 million round that quint…*
       
-  - Daily Crunch: Indian startups raised a record $10.46 billion in the first half of 2021
+  - Smile Identity raises $7M to build KYC and identity verification tools for Africa
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *An estimated one billion people worldwide face the challenge of proving who they are, according to a World Bank Group report which states that 81% of this number live in sub-Saharan Africa and South Asia without official proof of identity. It’s no news that A…*
       
-  - European challenger bank Bunq raises $228 million at $1.9 billion valuation
+  - Indian social commerce DealShare raises $144 million, eyes international expansion
       <hr/>
       
-      - *Amsterdam-based challenger bank Bunq has been self-funded by its founder and CEO Ali Niknam for several years. But the company has decided to raise some external capital, leading to the largest Series A round for a European fintech company. The startup is rai…*
+      - *High-profile investors are doubling down on their bets to explore the future of social commerce in India. DealShare said on Thursday it has raised $144 million in a new financing round as it looks to expand its presence in the South Asian market and eye oppor…*
        
-  - Navigating ad fraud and consumer privacy abuse in programmatic advertising
+  - Zomato targets $1.3 billion IPO at as high as $8.6 billion valuation
       <hr/>
        
-       - *To capitalize on the promise of video advertising in mobile and CTV, and measure ad efficacy with confidence, business leaders must ensure that they’re reaching customers — not bots.*
+       - *Zomato, a food delivery startup in India, said on Thursday it has boosted its plan to raise $1.3 billion in its initial public offering, which opens on July 14 and closes July 16. The loss-making startup said it will price its shares in the range of 72 Indian…*
       
 
 <br />
