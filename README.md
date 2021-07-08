@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Outbrain raises $200 million ahead of its IPO
+  - TikTok wants you to send video resumes directly to brands to land your next gig
      <hr/>
      
-      - *Outbrain, an adtech company that provides clickbait ads below news articles, has raised $200 million in funding — Outbrain didn’t disclose the valuation of the company for this deal. The Baupost Group is investing in the company — it’s a Boston-based hedge fu…*
+      - *A new pilot program from TikTok would inject a little LinkedIn into the youthful video-based social network. TikTok announced that starting today it will invite users to submit video resumes to participating companies, including Target, Chipotle, Shopify, Mer…*
      
-  - A year after expanding to Europe, Nigerian fintech Lidya raises $8.3M to scale lending operations
+  - BMW is finally producing its retro-futuristic CE 04 electric scooter, but at $12K will anyone buy it?
       <hr/>
       
-      - *Nigerian fintech and lending startup Lidya today announced that it has completed its $8.3 million pre-Series B funding round. Alitheia Capital led the investment via its uMunthu Fund. Other investors that participated include Bamboo Capital Partners, Accion V…*
+      - *We’ve been hearing about BMW’s electric city scooters, not to be confused with electric kick scooters, for years. The German automaker came out with the BMW Motorrad Concept Link in 2017, a concept vehicle that imagines the future of expensive micromobility. …*
       
-  - Satellite operator Planet to go public in $2.8B SPAC merger
+  - Daily Crunch: Indian startups raised a record $10.46 billion in the first half of 2021
       <hr/>
       
-      - *Planet, which operates a network of around 200 satellites that provides Earth imaging, as well as analytics of the data derived from that observation, is going public in a merger with special purpose acquisition company (SPAC) dMY Technology Group IV. The dea…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - AnyVision, the controversial facial recognition startup, has raised $235M led by SoftBank and Eldridge
+  - European challenger bank Bunq raises $228 million at $1.9 billion valuation
       <hr/>
       
-      - *Facial recognition has been one of the more conflicted applications of artificial intelligence in the wider world: using computer vision to detect faces and subsequent identities of people has raised numerous questions about privacy, data protection, and the …*
+      - *Amsterdam-based challenger bank Bunq has been self-funded by its founder and CEO Ali Niknam for several years. But the company has decided to raise some external capital, leading to the largest Series A round for a European fintech company. The startup is rai…*
        
-  - Localyze raises $12M for a SaaS that supports cross-border hiring and relocation
+  - Navigating ad fraud and consumer privacy abuse in programmatic advertising
       <hr/>
        
-       - *Y-Combinator-backed Localyze has nabbed $12 million in Series A funding led by Blossom Capital for a SaaS that supports staff relocations and hiring across borders. Previous investor Frontline Ventures also participated,with a number of angel investors joinin…*
+       - *To capitalize on the promise of video advertising in mobile and CTV, and measure ad efficacy with confidence, business leaders must ensure that they’re reaching customers — not bots.*
       
 
 <br />
