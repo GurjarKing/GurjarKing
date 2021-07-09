@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - H Venture Partners closes $10M debut fund targeting science-based brands
+  - Halo will launch a remotely operated car service powered by 5G in Las Vegas
      <hr/>
      
-      - *H Venture Partners brought together more than 75 consumer and retail industry experts to invest in its first fund, raising $10 million aimed at consumer brand startups backed by science.*
+      - *5G technology has generated a lot of hype for its potential to power driverless cars using a remote operator, but for the past few years that’s all it’s been – hype. Las Vegas-based startup Halo and telecom giant T-Mobile are teaming up to change that, with a…*
      
-  - Clearco gets the SoftBank stamp of approval in new $215M round
+  - Daily Crunch: Indian food delivery startup Zomato will seek post-IPO valuation up to $8.6B
       <hr/>
       
-      - *Toronto-based Clearco, a fintech capital provider for online companies, has raised $215 million in a round led by SoftBank Vision Fund II. The financing event closed just weeks after Clearco completed its most recent financing, a $100 million round that quint…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Smile Identity raises $7M to build KYC and identity verification tools for Africa
+  - Demand Curve: How to double conversions on your startup's homepage
       <hr/>
       
-      - *An estimated one billion people worldwide face the challenge of proving who they are, according to a World Bank Group report which states that 81% of this number live in sub-Saharan Africa and South Asia without official proof of identity. It’s no news that A…*
+      - *Want to convert twice as many visitors into customers? Follow these copywriting tactics.*
       
-  - Indian social commerce DealShare raises $144 million, eyes international expansion
+  - Can advertising scale in VR?
       <hr/>
       
-      - *High-profile investors are doubling down on their bets to explore the future of social commerce in India. DealShare said on Thursday it has raised $144 million in a new financing round as it looks to expand its presence in the South Asian market and eye oppor…*
+      - *Bottom line: VR usage needs more scale before ad revenue makes a dent.*
        
-  - Zomato targets $1.3 billion IPO at as high as $8.6 billion valuation
+  - Gillmor Gang: TV Clubhouse
       <hr/>
        
-       - *Zomato, a food delivery startup in India, said on Thursday it has boosted its plan to raise $1.3 billion in its initial public offering, which opens on July 14 and closes July 16. The loss-making startup said it will price its shares in the range of 72 Indian…*
+       - *The Gang spends a lot of time these days on the streaming wars, so it seems appropriate that Congress wants to get into it. With Netflix’s success at overturning the structure of Hollywood’s broadcast television production and advertising processes, consumers…*
       
 
 <br />
