@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Halo will launch a remotely operated car service powered by 5G in Las Vegas
+  - Kurly, the Korean grocery startup, raises $200M on a $2.2B valuation after shifting IPO plans away from the NYSE
      <hr/>
      
-      - *5G technology has generated a lot of hype for its potential to power driverless cars using a remote operator, but for the past few years that’s all it’s been – hype. Las Vegas-based startup Halo and telecom giant T-Mobile are teaming up to change that, with a…*
+      - *Online grocery startups around the world continue to pull in major investment, underscoring how much they have all grown especially in the last year of pandemic living. In the latest development, Kurly — a startup in South Korea that provides next-day grocery…*
      
-  - Daily Crunch: Indian food delivery startup Zomato will seek post-IPO valuation up to $8.6B
+  - Firat Ileri becomes Hummingbird VC's new Managing Partner, as the firm looks to expand
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Seed investment firm Hummingbird VC, which previously invested in Deliveroo, Peak Games, MarkaVIP, and Kraken has a new Managing Partner. Firat Ileri, previously a Partner – who at 28 became one of Europe’s youngest VCs when he joined in 2012 – takes over fro…*
       
-  - Demand Curve: How to double conversions on your startup's homepage
+  - Germany's VC industry is ready to take off, but bureaucrats need to release the handbrake
       <hr/>
       
-      - *Want to convert twice as many visitors into customers? Follow these copywriting tactics.*
+      - *Germany is choking on bureaucracy, which threatens innovation. Bureaucratic processes slow everything down and reforms on employee stock option plans are needed so workers benefit from their startups.*
       
-  - Can advertising scale in VR?
+  - Temasek and Warburg Pincus invest $500 million in Ola
       <hr/>
       
-      - *Bottom line: VR usage needs more scale before ad revenue makes a dent.*
+      - *Temasek and an affiliate of Warburg Pincus are investing $500 million in Indian ride-hailing giant Ola, the Bangalore-headquartered startup said in a short statement Friday. This is the first time SoftBank-backed Ola, which has raised over $3.5 billion to dat…*
        
-  - Gillmor Gang: TV Clubhouse
+  - Europe's DN Capital launches its new $350M fund after a knock-out year for its portfolio
       <hr/>
        
-       - *The Gang spends a lot of time these days on the streaming wars, so it seems appropriate that Congress wants to get into it. With Netflix’s success at overturning the structure of Hollywood’s broadcast television production and advertising processes, consumers…*
+       - *DN Capital, one of Europe’s most active VCs has launched its latest $350 million (£220m, €300m) fund off the back of a pretty stand-out year when the firm saw four of its portfolio companies hit billion-dollar-plus valuations. DN’s ‘Fund V’ will invest across…*
       
 
 <br />
