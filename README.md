@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Kurly, the Korean grocery startup, raises $200M on a $2.2B valuation after shifting IPO plans away from the NYSE
+  - Daily Crunch: European Union demands $1B penalty from VW, BMW for hiding emissions
      <hr/>
      
-      - *Online grocery startups around the world continue to pull in major investment, underscoring how much they have all grown especially in the last year of pandemic living. In the latest development, Kurly — a startup in South Korea that provides next-day grocery…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
      
-  - Firat Ileri becomes Hummingbird VC's new Managing Partner, as the firm looks to expand
+  - Cloud security platform Netskope boosts valuation to $7.5B following $300M raise
       <hr/>
       
-      - *Seed investment firm Hummingbird VC, which previously invested in Deliveroo, Peak Games, MarkaVIP, and Kraken has a new Managing Partner. Firat Ileri, previously a Partner – who at 28 became one of Europe’s youngest VCs when he joined in 2012 – takes over fro…*
+      - *Netskope, focused on Secure Access Service Edge architecture, announced Friday a $300 million investment round on a post-money valuation of $7.5 billion.*
       
-  - Germany's VC industry is ready to take off, but bureaucrats need to release the handbrake
+  - Is the US labor shortage the big break AI needs?
       <hr/>
       
-      - *Germany is choking on bureaucracy, which threatens innovation. Bureaucratic processes slow everything down and reforms on employee stock option plans are needed so workers benefit from their startups.*
+      - *Misconceptions about AI in the workplace have long been a barrier to widespread adoption — but companies experiencing labor shortages should consider where it can make their employees' lives better.*
       
-  - Temasek and Warburg Pincus invest $500 million in Ola
+  - Extra Crunch roundup: NS1 EC-1, Pakistan's tech ecosystem, SPACs bonanza
       <hr/>
       
-      - *Temasek and an affiliate of Warburg Pincus are investing $500 million in Indian ride-hailing giant Ola, the Bangalore-headquartered startup said in a short statement Friday. This is the first time SoftBank-backed Ola, which has raised over $3.5 billion to dat…*
+      - *Just like NYC's flooded subway system, internet infrastructure doesn't attract much attention until there's a notable failure.*
        
-  - Europe's DN Capital launches its new $350M fund after a knock-out year for its portfolio
+  - This early-stage marketing expert says 'B2B SaaS is actually very, very cool now'
       <hr/>
        
-       - *DN Capital, one of Europe’s most active VCs has launched its latest $350 million (£220m, €300m) fund off the back of a pretty stand-out year when the firm saw four of its portfolio companies hit billion-dollar-plus valuations. DN’s ‘Fund V’ will invest across…*
+       - *"There’s a bias for wanting to use what worked previously, but people forget… your customers and markets are totally different. You can’t just replicate."*
       
 
 <br />
