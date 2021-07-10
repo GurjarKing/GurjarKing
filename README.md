@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: European Union demands $1B penalty from VW, BMW for hiding emissions
+  - Beyond 'Netflix Party': startups and their VCs bet we'll browse more of the web together
      <hr/>
      
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Last year, during the pandemic, a free browser extension called Netflix Party gained traction because it enabled people trapped in their homes to connect with far-flung friends and family by enabling them to watch the same Netflix TV shows and movies simultan…*
      
+  - Growth marketing roundup: cool SaaS, marketing lies, VR ads and more
+      <hr/>
+      
+      - *TechCrunch is searching for the best growth marketers for founders to work with. Click through to learn about some of our favorites.*
+      
+  - Daily Crunch: European Union demands $1B penalty from VW, BMW for hiding emissions
+      <hr/>
+      
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      
   - Cloud security platform Netskope boosts valuation to $7.5B following $300M raise
       <hr/>
       
       - *Netskope, focused on Secure Access Service Edge architecture, announced Friday a $300 million investment round on a post-money valuation of $7.5 billion.*
-      
+       
   - Is the US labor shortage the big break AI needs?
       <hr/>
-      
-      - *Misconceptions about AI in the workplace have long been a barrier to widespread adoption — but companies experiencing labor shortages should consider where it can make their employees' lives better.*
-      
-  - Extra Crunch roundup: NS1 EC-1, Pakistan's tech ecosystem, SPACs bonanza
-      <hr/>
-      
-      - *Just like NYC's flooded subway system, internet infrastructure doesn't attract much attention until there's a notable failure.*
        
-  - This early-stage marketing expert says 'B2B SaaS is actually very, very cool now'
-      <hr/>
-       
-       - *"There’s a bias for wanting to use what worked previously, but people forget… your customers and markets are totally different. You can’t just replicate."*
+       - *Misconceptions about AI in the workplace have long been a barrier to widespread adoption — but companies experiencing labor shortages should consider where it can make their employees' lives better.*
       
 
 <br />
