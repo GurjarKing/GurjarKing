@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Watch live as Virgin Galactic's first passenger flight takes off with Richard Branson on board
+  - Twitter appoints resident grievance officer in India to comply with new internet rules
      <hr/>
      
-      - *Virgin Galactic is set to launch its first passengers to space tomorrow morning, and you can watch the whole thing right here. The launch is scheduled for 6 AM Pacific, with streaming festivities (including commentary by Stephen Colbert) starting on the hour.…*
+      - *Twitter has appointed a resident grievance officer in India days after the American social media firm said to have lost the liability protection on user-generated content in the South Asian nation over non-compliance with local IT rules. On Sunday, Twitter id…*
      
+  - Watch live as Virgin Galactic's first passenger flight takes off with Richard Branson on board
+      <hr/>
+      
+      - *Virgin Galactic is set to launch its first passengers to space tomorrow morning, and you can watch the whole thing right here. The launch is scheduled for 6 AM Pacific, with streaming festivities (including commentary by Stephen Colbert) starting on the hour.…*
+      
   - This Week in Apps: Android ad prices jump, TikTok resumes, Google Play's antitrust lawsuit
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *After months of beta testing, Y Combinator has launched a co-founder matching platform. The platform invites entrepreneurs to create profiles, which include information about themselves and preferences for a co-founder, such as location and skill sets. It dig…*
-      
+       
   - Trillion-dollar horses, surfeit funding rounds and Future’s future
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
        
-  - The case for funding fusion
-      <hr/>
-       
-       - *Now is the time to go all-in on decarbonization. Funding fusion with its breakthrough potential must be part of that effort.*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
       
 
 <br />
