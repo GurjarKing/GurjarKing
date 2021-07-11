@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Beyond 'Netflix Party': startups and their VCs bet we'll browse more of the web together
+  - Watch live as Virgin Galactic's first passenger flight takes off with Richard Branson on board
      <hr/>
      
-      - *Last year, during the pandemic, a free browser extension called Netflix Party gained traction because it enabled people trapped in their homes to connect with far-flung friends and family by enabling them to watch the same Netflix TV shows and movies simultan…*
+      - *Virgin Galactic is set to launch its first passengers to space tomorrow morning, and you can watch the whole thing right here. The launch is scheduled for 6 AM Pacific, with streaming festivities (including commentary by Stephen Colbert) starting on the hour.…*
      
-  - Growth marketing roundup: cool SaaS, marketing lies, VR ads and more
+  - This Week in Apps: Android ad prices jump, TikTok resumes, Google Play's antitrust lawsuit
       <hr/>
       
-      - *TechCrunch is searching for the best growth marketers for founders to work with. Click through to learn about some of our favorites.*
+      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
       
-  - Daily Crunch: European Union demands $1B penalty from VW, BMW for hiding emissions
+  - The 36 questions that lead to love (but with your co-founder)
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *After months of beta testing, Y Combinator has launched a co-founder matching platform. The platform invites entrepreneurs to create profiles, which include information about themselves and preferences for a co-founder, such as location and skill sets. It dig…*
       
-  - Cloud security platform Netskope boosts valuation to $7.5B following $300M raise
+  - Trillion-dollar horses, surfeit funding rounds and Future’s future
       <hr/>
       
-      - *Netskope, focused on Secure Access Service Edge architecture, announced Friday a $300 million investment round on a post-money valuation of $7.5 billion.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
        
-  - Is the US labor shortage the big break AI needs?
+  - The case for funding fusion
       <hr/>
        
-       - *Misconceptions about AI in the workplace have long been a barrier to widespread adoption — but companies experiencing labor shortages should consider where it can make their employees' lives better.*
+       - *Now is the time to go all-in on decarbonization. Funding fusion with its breakthrough potential must be part of that effort.*
       
 
 <br />
