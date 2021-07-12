@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Virgin Galactic and Richard Branson celebrate launch of first passengers into space
+  - Controversial WhatsApp policy change hit with consumer law complaint in Europe
      <hr/>
      
-      - *Virgin Galactic has successfully taken its first passengers to space, including its billionaire founder Richard Branson. The event, at Spaceport America in New Mexico, was a field day for press and employees, complete with an early-morning Khalid set and hero…*
+      - *Facebook has been accused of multiple breaches of European Union consumer protection law as a result of its attempts to force WhatsApp users to accept controversial changes to the messaging platforms’ terms of use — such as threatening users that the app woul…*
      
-  - How Retail Zipline's Series A pitch deck ticked every box for Emergence Capital
+  - Ex-SafeBoda executive Babajide Duroshola joins M-KOPA to lead expansion into Nigeria
       <hr/>
       
-      - *"She pointed to the screen projected behind her to help us stay on the most relevant piece of information. The way she did it really made us stay with her. Like, we couldn't break eye contact."*
+      - *On June 18, Babajide Duroshola, ex-Country Head, SafeBoda Nigeria, stepped down from his role two years after taking the job post-Andela. Less than a month later, the executive has found a new role as General Manager in another Kenyan company, M-KOPA. His app…*
       
-  - Twitter appoints resident grievance officer in India to comply with new internet rules
+  - Flipkart valued at $37.6 billion in new $3.6 billion fundraise
       <hr/>
       
-      - *Twitter has appointed a resident grievance officer in India days after the American social media firm said to have lost the liability protection on user-generated content in the South Asian nation over non-compliance with local IT rules. On Sunday, Twitter id…*
+      - *Flipkart said on Monday it has raised $3.6 billion at a post-money valuation of $37.6 billion in what is considered as the pre-IPO round for the Indian e-commerce conglomerate as it works to list in the public markets as soon as early next year. The new round…*
       
-  - Watch live as Virgin Galactic's first passenger flight takes off with Richard Branson on board
+  - Dovetail, the venture studio that has worked with startups like Afterpay, is raising a new fund
       <hr/>
       
-      - *Virgin Galactic is set to launch its first passengers to space tomorrow morning, and you can watch the whole thing right here. The launch is scheduled for 6 AM Pacific, with streaming festivities (including commentary by Stephen Colbert) starting on the hour.…*
+      - *Based in Sydney and Auckland, Dovetail is a full-service venture studio that works closely with founders who have a great idea, but may lack technical backgrounds. Dovetail helps them build companies from the ground up, preparing them for growth and more fund…*
        
-  - This Week in Apps: Android ad prices jump, TikTok resumes, Google Play's antitrust lawsuit
+  - Virgin Galactic and Richard Branson celebrate launch of first passengers into space
       <hr/>
        
-       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
+       - *Virgin Galactic has successfully taken its first passengers to space, including its billionaire founder Richard Branson. The event, at Spaceport America in New Mexico, was a field day for press and employees, complete with an early-morning Khalid set and hero…*
       
 
 <br />
