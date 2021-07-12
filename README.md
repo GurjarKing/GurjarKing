@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Twitter appoints resident grievance officer in India to comply with new internet rules
+  - Virgin Galactic and Richard Branson celebrate launch of first passengers into space
      <hr/>
      
-      - *Twitter has appointed a resident grievance officer in India days after the American social media firm said to have lost the liability protection on user-generated content in the South Asian nation over non-compliance with local IT rules. On Sunday, Twitter id…*
+      - *Virgin Galactic has successfully taken its first passengers to space, including its billionaire founder Richard Branson. The event, at Spaceport America in New Mexico, was a field day for press and employees, complete with an early-morning Khalid set and hero…*
      
+  - How Retail Zipline's Series A pitch deck ticked every box for Emergence Capital
+      <hr/>
+      
+      - *"She pointed to the screen projected behind her to help us stay on the most relevant piece of information. The way she did it really made us stay with her. Like, we couldn't break eye contact."*
+      
+  - Twitter appoints resident grievance officer in India to comply with new internet rules
+      <hr/>
+      
+      - *Twitter has appointed a resident grievance officer in India days after the American social media firm said to have lost the liability protection on user-generated content in the South Asian nation over non-compliance with local IT rules. On Sunday, Twitter id…*
+      
   - Watch live as Virgin Galactic's first passenger flight takes off with Richard Branson on board
       <hr/>
       
       - *Virgin Galactic is set to launch its first passengers to space tomorrow morning, and you can watch the whole thing right here. The launch is scheduled for 6 AM Pacific, with streaming festivities (including commentary by Stephen Colbert) starting on the hour.…*
-      
+       
   - This Week in Apps: Android ad prices jump, TikTok resumes, Google Play's antitrust lawsuit
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
-      
-  - The 36 questions that lead to love (but with your co-founder)
-      <hr/>
-      
-      - *After months of beta testing, Y Combinator has launched a co-founder matching platform. The platform invites entrepreneurs to create profiles, which include information about themselves and preferences for a co-founder, such as location and skill sets. It dig…*
        
-  - Trillion-dollar horses, surfeit funding rounds and Future’s future
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+       - *Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…*
       
 
 <br />
