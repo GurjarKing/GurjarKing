@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Vaayu's carbon tracking for retailers raises raises $1.6m, claims it could cut CO2 in half by 2030
+  - Google fined $592M in France for breaching antitrust order to negotiate news copyright fees
      <hr/>
      
-      - *Carbon tracking is very much the new hot thing in tech, and we’ve previously covered more generalist startups doing this at scale for companies, such as Plan A Earth out of Berlin. But there’s clearly an opportunity to get deep into a vertical sector and tail…*
+      - *France has hit Google with a fine of half a billion euros after finding major breaches in how it negotiated with publishers to remunerate them for reuse of their content — as is required under a pan-EU reform of digital copyright law which extended neighbouri…*
      
-  - Daily Crunch: Flipkart raises $3.6 billion, setting another record for Indian startups
+  - End-to-end moving startup Updater buys on-demand moving startup Dolly
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Moving services giant Updater is bringing on the team from Dolly as the New York company looks to expand its scope of offerings with the acquisition of the on-demand startup known for helping consumers execute small-scale moves. Dolly connects users in need o…*
       
-  - 5 advanced-ish SEO tactics to win in 2021
+  - Abu Dhabi-based micromobility operator Fenix launches 10-minute grocery delivery service
       <hr/>
       
-      - *In nearly every Google algorithm update in recent memory, Google has rewarded old, megatraffic sites, sending their search rankings soaring at the expense of smaller, newer sites.*
+      - *United Arab Emirates-based shared micromobility operator Fenix is expanding the use of its electric scooters and back-end logistics to not only move people, but also to move goods. On Tuesday, the company announced the launch of a 10-minute fresh grocery deli…*
       
-  - Q3 IPO cycle starts strong with Couchbase pricing and Kaltura relisting
+  - Nigeria leads mobile app market growth in Africa as use of gaming apps surge 44% from Q1 2020
       <hr/>
       
-      - *Both bits of news should help us get a handle on how the Q3 2021 IPO cycle is shaping up at the start.*
+      - *The pandemic’s effect on the global app market has not been hard to miss. In the first quarter and first half of this year, consumer spending in mobile apps hit new records at $32 billion and $64.9 billion, respectively. In Africa, it can be tough to call out…*
        
-  - Bambee founder talks about entrenched fundraising challenges facing Black founders
+  - Quantexa raises $153M to build out AI-based big data tools to track risk and run investigations
       <hr/>
        
-       - *Allan Jones dropped out of college and spent a decade learning how to run a startup. In 2016, that education resulted in the launch of Los Angeles-based Bambee, which helps small companies by acting as their HR department with the goal of keeping them in comp…*
+       - *As financial crime has become significantly more sophisticated, so too have the tools that are used to combat it. Now, Quantexa — one of the more interesting startups that has been building AI-based solutions to help detect and stop money laundering, fraud, a…*
       
 
 <br />
