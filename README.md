@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Controversial WhatsApp policy change hit with consumer law complaint in Europe
+  - Vaayu's carbon tracking for retailers raises raises $1.6m, claims it could cut CO2 in half by 2030
      <hr/>
      
-      - *Facebook has been accused of multiple breaches of European Union consumer protection law as a result of its attempts to force WhatsApp users to accept controversial changes to the messaging platforms’ terms of use — such as threatening users that the app woul…*
+      - *Carbon tracking is very much the new hot thing in tech, and we’ve previously covered more generalist startups doing this at scale for companies, such as Plan A Earth out of Berlin. But there’s clearly an opportunity to get deep into a vertical sector and tail…*
      
-  - Ex-SafeBoda executive Babajide Duroshola joins M-KOPA to lead expansion into Nigeria
+  - Daily Crunch: Flipkart raises $3.6 billion, setting another record for Indian startups
       <hr/>
       
-      - *On June 18, Babajide Duroshola, ex-Country Head, SafeBoda Nigeria, stepped down from his role two years after taking the job post-Andela. Less than a month later, the executive has found a new role as General Manager in another Kenyan company, M-KOPA. His app…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Flipkart valued at $37.6 billion in new $3.6 billion fundraise
+  - 5 advanced-ish SEO tactics to win in 2021
       <hr/>
       
-      - *Flipkart said on Monday it has raised $3.6 billion at a post-money valuation of $37.6 billion in what is considered as the pre-IPO round for the Indian e-commerce conglomerate as it works to list in the public markets as soon as early next year. The new round…*
+      - *In nearly every Google algorithm update in recent memory, Google has rewarded old, megatraffic sites, sending their search rankings soaring at the expense of smaller, newer sites.*
       
-  - Dovetail, the venture studio that has worked with startups like Afterpay, is raising a new fund
+  - Q3 IPO cycle starts strong with Couchbase pricing and Kaltura relisting
       <hr/>
       
-      - *Based in Sydney and Auckland, Dovetail is a full-service venture studio that works closely with founders who have a great idea, but may lack technical backgrounds. Dovetail helps them build companies from the ground up, preparing them for growth and more fund…*
+      - *Both bits of news should help us get a handle on how the Q3 2021 IPO cycle is shaping up at the start.*
        
-  - Virgin Galactic and Richard Branson celebrate launch of first passengers into space
+  - Bambee founder talks about entrenched fundraising challenges facing Black founders
       <hr/>
        
-       - *Virgin Galactic has successfully taken its first passengers to space, including its billionaire founder Richard Branson. The event, at Spaceport America in New Mexico, was a field day for press and employees, complete with an early-morning Khalid set and hero…*
+       - *Allan Jones dropped out of college and spent a decade learning how to run a startup. In 2016, that education resulted in the launch of Los Angeles-based Bambee, which helps small companies by acting as their HR department with the goal of keeping them in comp…*
       
 
 <br />
