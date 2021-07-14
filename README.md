@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Google fined $592M in France for breaching antitrust order to negotiate news copyright fees
+  - NewView Capital leads $22.3M Series B in Australian telehealth platform Eucalyptus
      <hr/>
      
-      - *France has hit Google with a fine of half a billion euros after finding major breaches in how it negotiated with publishers to remunerate them for reuse of their content — as is required under a pan-EU reform of digital copyright law which extended neighbouri…*
+      - *Eucalyptus is serving more than 200,000 patients across four demographic-focused brands: contraception and fertility, skincare, men’s health and sexual wellness.*
      
-  - End-to-end moving startup Updater buys on-demand moving startup Dolly
+  - Build a digital ops toolbox to streamline business processes with hyperautomation
       <hr/>
       
-      - *Moving services giant Updater is bringing on the team from Dolly as the New York company looks to expand its scope of offerings with the acquisition of the on-demand startup known for helping consumers execute small-scale moves. Dolly connects users in need o…*
+      - *Using a medley of technologies in a digital operations toolbox helps businesses achieve key performance indicators through hyperautomation.*
       
-  - Abu Dhabi-based micromobility operator Fenix launches 10-minute grocery delivery service
+  - Daily Crunch: ZoomInfo announces plans to acquire sales intelligence tool Chorus.ai for $575M
       <hr/>
       
-      - *United Arab Emirates-based shared micromobility operator Fenix is expanding the use of its electric scooters and back-end logistics to not only move people, but also to move goods. On Tuesday, the company announced the launch of a 10-minute fresh grocery deli…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Nigeria leads mobile app market growth in Africa as use of gaming apps surge 44% from Q1 2020
+  - Apple is reportedly working on a pay later feature for Apple Pay
       <hr/>
       
-      - *The pandemic’s effect on the global app market has not been hard to miss. In the first quarter and first half of this year, consumer spending in mobile apps hit new records at $32 billion and $64.9 billion, respectively. In Africa, it can be tough to call out…*
+      - *If you’ve done any online shopping in the last little while, there’s a good chance you’ve run into services like Affirm and PayPal’s Pay in 4. They allow you to purchase something and pay for it later by splitting up the total cost of the item into several in…*
        
-  - Quantexa raises $153M to build out AI-based big data tools to track risk and run investigations
+  - Gogo in-flight internet has been renamed Intelsat
       <hr/>
        
-       - *As financial crime has become significantly more sophisticated, so too have the tools that are used to combat it. Now, Quantexa — one of the more interesting startups that has been building AI-based solutions to help detect and stop money laundering, fraud, a…*
+       - *Jessica Conditt Contributor Share on Twitter Jessica Conditt is a senior editor at Engadget. The next time you’re on a plane, searching for a Wi-Fi connection while soaring thousands of feet above the ground, don’t look for the Gogo name. The longstanding sta…*
       
 
 <br />
