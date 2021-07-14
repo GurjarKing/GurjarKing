@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - NewView Capital leads $22.3M Series B in Australian telehealth platform Eucalyptus
+  - YuLife nabs $70M at a $346M valuation for its gamified, wellness-oriented approach to life insurance
      <hr/>
      
-      - *Eucalyptus is serving more than 200,000 patients across four demographic-focused brands: contraception and fertility, skincare, men’s health and sexual wellness.*
+      - *Life insurance — financial protection you buy against your death — may not read like the liveliest of industries on paper. But a life insurance startup that believes it can turn that stigma around, by infusing the concept with gamification and a push towards …*
      
-  - Build a digital ops toolbox to streamline business processes with hyperautomation
+  - Next Gen Foods to launch its plant-based chicken in the U.S. after raising a $20M seed extension from investors like GGV
       <hr/>
       
-      - *Using a medley of technologies in a digital operations toolbox helps businesses achieve key performance indicators through hyperautomation.*
+      - *Singapore-based Next Gen Foods will bring its plant-based chicken alternative to the United States after raising a $20 million seed extension. Investors included GGV Capital, agriculture and food tech-focused Bits x Bites, food and beverage company Yeo Hiap S…*
       
-  - Daily Crunch: ZoomInfo announces plans to acquire sales intelligence tool Chorus.ai for $575M
+  - Railsbank raises $70M to build out its fintech-as-a-service platform
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Financial services-as-a-service — where entities like neobanks, retailers and others can create and sell their own financial products by way of a few lines of code and APIs — has been one of the bigger trends in the world of fintech in recent years, with embe…*
       
-  - Apple is reportedly working on a pay later feature for Apple Pay
+  - Anyone is building a marketplace for advice, one 5-minute call at a time
       <hr/>
       
-      - *If you’ve done any online shopping in the last little while, there’s a good chance you’ve run into services like Affirm and PayPal’s Pay in 4. They allow you to purchase something and pay for it later by splitting up the total cost of the item into several in…*
+      - *Anyone, an audio app that’s building a ‘marketplace for advice’ one five-minute phone call at a time, is launching new versions of its iOS and Android apps today* and beginning to large-scale onboarding after operating in a limited closed beta for the past si…*
        
-  - Gogo in-flight internet has been renamed Intelsat
+  - Indian storytelling platform Pratilipi raises $48 million led by gaming giant Krafton
       <hr/>
        
-       - *Jessica Conditt Contributor Share on Twitter Jessica Conditt is a senior editor at Engadget. The next time you’re on a plane, searching for a Wi-Fi connection while soaring thousands of feet above the ground, don’t look for the Gogo name. The longstanding sta…*
+       - *Pratilipi, an Indian startup that operates an online storytelling platform to enable writers to share their work in various formats, said on Wednesday it has raised a $48 million financing round led by Krafton. South Korean gaming giant Krafton led the Series…*
       
 
 <br />
