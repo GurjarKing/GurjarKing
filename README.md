@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - NHTSA urges some Chevy Bolt owners to park their car away from home, citing fire risk
+  - Kenya's AIfluence closes $1M for its AI-powered influencer marketing platform
      <hr/>
      
-      - *Chevrolet Bolts are back in the news — this time for another consumer alert issued by the National Highway Traffic and Safety Administration, less than a year after the agency issued a recall for a similar issue. NHTSA is recommending owners of Model Year 201…*
+      - *Influencer marketing is one of the fastest-growing and one of the most impactful media channels today. There’s a growing ad-blocking movement and key demographics are spending less time in front of TVs. Marketers have now realized that their customers trust t…*
      
-  - Daily Crunch: Citing data storage violations, India blocks Mastercard from onboarding new customers
+  - Egyptian social e-commerce platform Taager raises $6.4M led by 4DX Ventures
       <hr/>
       
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *The global social market is rapidly growing. With over 1.25 million online social sellers in Egypt alone, the Egyptian social e-commerce market is forecast to be worth more than $14.8 billion by 2024. One of its players, Taager, is a social e-commerce platfor…*
       
-  - Khosla's Adina Tecklu breaks down how to nail your pitch
+  - Verve Motion raises $15M following exosuit pilot with grocery workers
       <hr/>
       
-      - *It's so critical to frame the problem from your perspective. And I also think that this is a really great opportunity to introduce emotion to really build a more compelling story.*
+      - *The exoskeleton/exosuit category has been heating up over the past few years. It makes sense, really. There are two giant — and dramatically different — potential customer bases. On one end are those sorts of jobs that could benefit from some wearable assista…*
       
-  - Clubhouse ventures beyond audio with Backchannel, a new messaging feature
+  - Butlr Technologies, developing anonymous people sensors, inks $7.9M seed round
       <hr/>
       
-      - *We knew DMs were on the way to Clubhouse and today the new feature landed, spicing up the audio-only app with a text-based chat feature. Clubhouse’s new direct messaging system, called “Backchannel,” gives users an oft-requested way to start conversations beh…*
+      - *New funding boosts Butlr's ability to apply real-time people-sensing technology beyond real estate and retail uses to monitor falls and other movements for active seniors who are aging in place.*
        
-  - Could Cloud PCs be Microsoft's gateway to Chromebook-like hardware?
+  - Revolut confirms a fresh $800M in funding at a $33B valuation to supercharge its financial services superapp
       <hr/>
        
-       - *When Microsoft announced that it was releasing a cloud PC service called Windows 365 this morning, it got me thinking. While Windows 365 is about packaging a virtual Windows business desktop in a cloud context, if you think about the announcement in a differe…*
+       - *The fintech funding continues to roll in at a rapid pace, a result of the huge shift underway in how consumers spend and manage their money. In the latest development, Revolut — the London-based financial “superapp” that provides banking, investing, currency …*
       
 
 <br />
