@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - YuLife nabs $70M at a $346M valuation for its gamified, wellness-oriented approach to life insurance
+  - NHTSA urges some Chevy Bolt owners to park their car away from home, citing fire risk
      <hr/>
      
-      - *Life insurance — financial protection you buy against your death — may not read like the liveliest of industries on paper. But a life insurance startup that believes it can turn that stigma around, by infusing the concept with gamification and a push towards …*
+      - *Chevrolet Bolts are back in the news — this time for another consumer alert issued by the National Highway Traffic and Safety Administration, less than a year after the agency issued a recall for a similar issue. NHTSA is recommending owners of Model Year 201…*
      
-  - Next Gen Foods to launch its plant-based chicken in the U.S. after raising a $20M seed extension from investors like GGV
+  - Daily Crunch: Citing data storage violations, India blocks Mastercard from onboarding new customers
       <hr/>
       
-      - *Singapore-based Next Gen Foods will bring its plant-based chicken alternative to the United States after raising a $20 million seed extension. Investors included GGV Capital, agriculture and food tech-focused Bits x Bites, food and beverage company Yeo Hiap S…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
       
-  - Railsbank raises $70M to build out its fintech-as-a-service platform
+  - Khosla's Adina Tecklu breaks down how to nail your pitch
       <hr/>
       
-      - *Financial services-as-a-service — where entities like neobanks, retailers and others can create and sell their own financial products by way of a few lines of code and APIs — has been one of the bigger trends in the world of fintech in recent years, with embe…*
+      - *It's so critical to frame the problem from your perspective. And I also think that this is a really great opportunity to introduce emotion to really build a more compelling story.*
       
-  - Anyone is building a marketplace for advice, one 5-minute call at a time
+  - Clubhouse ventures beyond audio with Backchannel, a new messaging feature
       <hr/>
       
-      - *Anyone, an audio app that’s building a ‘marketplace for advice’ one five-minute phone call at a time, is launching new versions of its iOS and Android apps today* and beginning to large-scale onboarding after operating in a limited closed beta for the past si…*
+      - *We knew DMs were on the way to Clubhouse and today the new feature landed, spicing up the audio-only app with a text-based chat feature. Clubhouse’s new direct messaging system, called “Backchannel,” gives users an oft-requested way to start conversations beh…*
        
-  - Indian storytelling platform Pratilipi raises $48 million led by gaming giant Krafton
+  - Could Cloud PCs be Microsoft's gateway to Chromebook-like hardware?
       <hr/>
        
-       - *Pratilipi, an Indian startup that operates an online storytelling platform to enable writers to share their work in various formats, said on Wednesday it has raised a $48 million financing round led by Krafton. South Korean gaming giant Krafton led the Series…*
+       - *When Microsoft announced that it was releasing a cloud PC service called Windows 365 this morning, it got me thinking. While Windows 365 is about packaging a virtual Windows business desktop in a cloud context, if you think about the announcement in a differe…*
       
 
 <br />
