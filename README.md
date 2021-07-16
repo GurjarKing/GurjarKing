@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Kenya's AIfluence closes $1M for its AI-powered influencer marketing platform
+  - Daily Crunch: Gap year student secures last open seat for Blue Origin's first human spaceflight
      <hr/>
      
-      - *Influencer marketing is one of the fastest-growing and one of the most impactful media channels today. There’s a growing ad-blocking movement and key demographics are spending less time in front of TVs. Marketers have now realized that their customers trust t…*
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
      
-  - Egyptian social e-commerce platform Taager raises $6.4M led by 4DX Ventures
+  - Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live
       <hr/>
       
-      - *The global social market is rapidly growing. With over 1.25 million online social sellers in Egypt alone, the Egyptian social e-commerce market is forecast to be worth more than $14.8 billion by 2024. One of its players, Taager, is a social e-commerce platfor…*
+      - *We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry, thus learning…*
       
-  - Verve Motion raises $15M following exosuit pilot with grocery workers
+  - The new Anthony Bourdain documentary 'Roadrunner' leans partly on deepfaked audio
       <hr/>
       
-      - *The exoskeleton/exosuit category has been heating up over the past few years. It makes sense, really. There are two giant — and dramatically different — potential customer bases. On one end are those sorts of jobs that could benefit from some wearable assista…*
+      - *On July 16th, Roadrunner: A Film About Anthony Bourdain will open in US theatres. Like many documentaries, the film pieces together archival footage, including interviews and show outtakes, to attempt to tell the story of its subject in their own words.*
       
-  - Butlr Technologies, developing anonymous people sensors, inks $7.9M seed round
+  - How we got 75% more e-commerce orders in a single A/B test for this major brand
       <hr/>
       
-      - *New funding boosts Butlr's ability to apply real-time people-sensing technology beyond real estate and retail uses to monitor falls and other movements for active seniors who are aging in place.*
+      - *Before we discuss the changes that produced the lift, it is important to quickly go over the research that informed those changes.*
        
-  - Revolut confirms a fresh $800M in funding at a $33B valuation to supercharge its financial services superapp
+  - Xiaomi global shipments push past Apple for No. 2 spot
       <hr/>
        
-       - *The fintech funding continues to roll in at a rapid pace, a result of the huge shift underway in how consumers spend and manage their money. In the latest development, Revolut — the London-based financial “superapp” that provides banking, investing, currency …*
+       - *A banner quarter for Xiaomi helped the Chinese mobile company snag the No. 2 spot in global smartphone shipments, according to newly posted Q2 numbers from research firm Canalys. It’s pretty stunning growth for the company, up 83% year-over-year for the quart…*
       
 
 <br />
