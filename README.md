@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: Gap year student secures last open seat for Blue Origin's first human spaceflight
+  - Traditional VCs turn to emerging managers for deal flow and, in some cases, new partners
      <hr/>
      
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Nasir Qadree, a Washington-based investor who just raised $62.1 million for his debut venture fund, recently told us that as his fundraising gained momentum, he was approached by established firms that are looking to absorb new talent. He opted to go it alone…*
      
+  - Paytm files for $2.2 billion IPO
+      <hr/>
+      
+      - *Paytm, one of India’s most valuable startups, plans to raise up to $2.2 billion in an initial public offering, it said in draft papers submitted to the country’s market regulator on Friday. The Noida-headquartered firm — backed by Alibaba, Berkshire Hathaway,…*
+      
+  - India's Delhivery bags $100 million from FedEx
+      <hr/>
+      
+      - *FedEx Express, a subsidiary of delivery services giant FedEx, is investing $100 million in Indian startup Delhivery as the global firm looks to expand its presence in the South Asian country. Friday’s investment comes less than two months after the Gurgaon-he…*
+      
+  - Daily Crunch: Gap year student secures last open seat for Blue Origin's first human spaceflight
+      <hr/>
+      
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+       
   - Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live
       <hr/>
-      
-      - *We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry, thus learning…*
-      
-  - The new Anthony Bourdain documentary 'Roadrunner' leans partly on deepfaked audio
-      <hr/>
-      
-      - *On July 16th, Roadrunner: A Film About Anthony Bourdain will open in US theatres. Like many documentaries, the film pieces together archival footage, including interviews and show outtakes, to attempt to tell the story of its subject in their own words.*
-      
-  - How we got 75% more e-commerce orders in a single A/B test for this major brand
-      <hr/>
-      
-      - *Before we discuss the changes that produced the lift, it is important to quickly go over the research that informed those changes.*
        
-  - Xiaomi global shipments push past Apple for No. 2 spot
-      <hr/>
-       
-       - *A banner quarter for Xiaomi helped the Chinese mobile company snag the No. 2 spot in global smartphone shipments, according to newly posted Q2 numbers from research firm Canalys. It’s pretty stunning growth for the company, up 83% year-over-year for the quart…*
+       - *We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry, thus learning…*
       
 
 <br />
