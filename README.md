@@ -59,11 +59,16 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Daily Crunch: FedEx invests $100M in Indian logistics giant Delhivery
+  - VanMoof X3 e-bike review: Transportation revelation
      <hr/>
      
-      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      - *Like some of the best consumer tech from the last decade, I didn’t know I needed an e-bike until I was on one, breezing down the bike lane contemplating my newfound freedom. Before buying a Nintendo Switch, I would have never guessed how much a candy-colored …*
      
+  - Daily Crunch: FedEx invests $100M in Indian logistics giant Delhivery
+      <hr/>
+      
+      - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+      
   - The head of Citi Ventures on how, and why, to leverage corporate venture arms like his
       <hr/>
       
@@ -73,16 +78,11 @@
       <hr/>
       
       - *Google favors large sites more than ever, basically because it is trying to avoid providing misinformation in our polarized age. But sometimes the small sites have key new information — like the content that your startup is trying to share with the world. How…*
-      
+       
   - How pitch training can help startups get their story right
       <hr/>
-      
-      - *When you hire a marketing consultant, you don’t necessarily expect to wind up discussing your life purpose. Yet, that is what Spanish marketing expert and entrepreneur Alex Barrera often ends up doing with startup founders who hire him to help improve their p…*
        
-  - With open banking on the horizon, the fintech-SME love story is just beginning
-      <hr/>
-       
-       - *In order to understand the changes that are sweeping fintech and reconfiguring the way that the industry works with small businesses, it’s important to understand open banking.*
+       - *When you hire a marketing consultant, you don’t necessarily expect to wind up discussing your life purpose. Yet, that is what Spanish marketing expert and entrepreneur Alex Barrera often ends up doing with startup founders who hire him to help improve their p…*
       
 
 <br />
