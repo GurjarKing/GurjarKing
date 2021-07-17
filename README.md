@@ -59,30 +59,30 @@
 </pre>
 <strong>Daily News</strong>
   
-  - Traditional VCs turn to emerging managers for deal flow and, in some cases, new partners
+  - Daily Crunch: FedEx invests $100M in Indian logistics giant Delhivery
      <hr/>
      
-      - *Nasir Qadree, a Washington-based investor who just raised $62.1 million for his debut venture fund, recently told us that as his fundraising gained momentum, he was approached by established firms that are looking to absorb new talent. He opted to go it alone…*
-     
-  - Paytm files for $2.2 billion IPO
-      <hr/>
-      
-      - *Paytm, one of India’s most valuable startups, plans to raise up to $2.2 billion in an initial public offering, it said in draft papers submitted to the country’s market regulator on Friday. The Noida-headquartered firm — backed by Alibaba, Berkshire Hathaway,…*
-      
-  - India's Delhivery bags $100 million from FedEx
-      <hr/>
-      
-      - *FedEx Express, a subsidiary of delivery services giant FedEx, is investing $100 million in Indian startup Delhivery as the global firm looks to expand its presence in the South Asian country. Friday’s investment comes less than two months after the Gurgaon-he…*
-      
-  - Daily Crunch: Gap year student secures last open seat for Blue Origin's first human spaceflight
-      <hr/>
-      
       - *Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.*
+     
+  - The head of Citi Ventures on how, and why, to leverage corporate venture arms like his
+      <hr/>
+      
+      - *At our recent Early Stage event, we had the opportunity to talk at length with Arvind Purushotham, the managing director and global head of Citi Ventures, about how startups should think about corporate venture arms, including what a check from an enterprise …*
+      
+  - Growth marketing roundup: SEO for 2021, pitch tactics, reviews and more
+      <hr/>
+      
+      - *Google favors large sites more than ever, basically because it is trying to avoid providing misinformation in our polarized age. But sometimes the small sites have key new information — like the content that your startup is trying to share with the world. How…*
+      
+  - How pitch training can help startups get their story right
+      <hr/>
+      
+      - *When you hire a marketing consultant, you don’t necessarily expect to wind up discussing your life purpose. Yet, that is what Spanish marketing expert and entrepreneur Alex Barrera often ends up doing with startup founders who hire him to help improve their p…*
        
-  - Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live
+  - With open banking on the horizon, the fintech-SME love story is just beginning
       <hr/>
        
-       - *We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry, thus learning…*
+       - *In order to understand the changes that are sweeping fintech and reconfiguring the way that the industry works with small businesses, it’s important to understand open banking.*
       
 
 <br />
